@@ -1,0 +1,2 @@
+## **REORGANIZATION PLAN NO. 1 OF 1969**
+* Reorganization Plan No. 1 of 1969, 34 F.R. 15783, 83 Stat. 859, which transferred all of the executive and administrative functions of the Interstate Commerce Commission to the Chairman of the Commission with respect to the appointment and supervision of personnel, the distribution of business among the administrative units of the Commission, and the use and expenditure of funds, was repealed by Pub. L. 95–473, §4(b), Oct. 17, 1978, 92 Stat. 1466, 1470.

@@ -1,0 +1,42 @@
+### SUBCHAPTER LXX—OZARK NATIONAL SCENIC RIVERWAYS
+
+### §460m. Establishment
+* For the purpose of conserving and interpreting unique scenic and other natural values and objects of historic interest, including preservation of portions of the Current River and the Jacks Fork River in Missouri as free-flowing streams, preservation of springs and caves, management of wildlife, and provisions for use and enjoyment of the outdoor recreation resources thereof by the people of the United States, the Secretary of the Interior (hereinafter referred to as the "Secretary") shall designate for establishment as the Ozark National Scenic Riverways the area (hereinafter referred to as "such area") generally depicted on map numbered NR OZA 7002 entitled "Proposed Ozark National Rivers" dated December 1963 which map is on file for public inspection in the office of the National Park Service, Department of the Interior: _Provided_, That the area so designated shall not include more than sixty-five thousand acres of land now in private ownership and that no lands shall be designated within two miles of the present boundaries of the municipalities of Eminence and Van Buren, Missouri. The Secretary, with the concurrence of the State, shall designate for inclusion in the Ozark National Scenic Riverways, the lands composing Big Springs, Alley Springs, and Round Spring State Parks, and the Secretary is hereby directed to negotiate with the State for the donation and the inclusion of such park lands in the Ozark National Scenic Riverways.
+
+### §460m–1. Acquisition of lands, easements, etc.; exchange of lands; consent of State; reversion to State; administrative jurisdiction of Federal lands or waters
+* The Secretary may, within the area designated or altered pursuant to section 460m–3 of this title, acquire lands and interests therein, including scenic easements, by such means as he may deem to be in the public interest: _Provided_, That scenic easements may only be acquired with the consent of the owner of the lands or waters thereof: _And provided further_, That any parcel of land containing not more than five hundred acres, which borders either the Current River or the Jacks Fork River, and which is being primarily used for agricultural purposes, shall be acquired by the Secretary in its entirety unless the owner of any such parcel consents to the acquisition of a part thereof. Property so acquired which lies outside the boundary generally depicted on the map referred to in section 460m of this title may be exchanged by the Secretary for any land of approximately equal value within the boundaries. Lands and waters owned by the State of Missouri within such area may be acquired with the consent of the State and, notwithstanding any other provision of law, subject to provision for reversion to such State conditioned upon continued use of the property for National Scenic Riverway. Federally owned lands or water lying within such area shall, upon establishment of the area pursuant to section 460m–3 of this title, be transferred to the administrative jurisdiction of the Secretary, without transfer of funds, for administration as part of the Ozark National Scenic Riverways.
+
+### §460m–2. Reservation of use and occupancy of improved property for noncommercial residential purposes; term; valuation
+* Any owner or owners, including beneficial owners (hereinafter in this section referred to as "owner"), of improved property on the date of its acquisition by the Secretary may, as a condition to such acquisition, retain the right of use and occupancy of the improved property for noncommercial residential purposes for a term ending at the death of such owner, or the death of his spouse, or at the death of the survivor of either of them. The owner shall elect the term to be reserved. The Secretary shall pay to the owner the fair market value of the property on the date of such acquisition less the fair market value on such date of the right retained by the owner.
+
+### §460m–3. Establishment; notice in Federal Register; alteration of boundaries; acreage limitation
+* When the Secretary determines that lands and waters, or interests therein, have been acquired by the United States in sufficient quantity to provide an administrable unit, he shall declare establishment of the Ozark National Scenic Riverways by publication of notice in the Federal Register. The Secretary may thereafter alter such boundaries from time to time, except that the total acreage in the Ozark National Scenic Riverways shall not exceed sixty-five thousand acres, exclusive of land donated by the State of Missouri or its political subdivisions and of federally owned land transferred pursuant to section 460m–1 of this title.
+
+### §460m–4. Cooperative land development programs; hunting and fishing
+#### (a) Development of comprehensive plans
+* In furtherance of the purposes of this subchapter, the Secretary is authorized to cooperate with the State of Missouri, its political subdivisions, and other Federal agencies and organizations in formulating comprehensive plans for the Ozark National Scenic Riverways and for the related watershed of the Current and Jacks Fork Rivers in Missouri, and to enter into agreements for the implementation of such plans. Such plans may provide for land use and development programs, for preservation and enhancement of the natural beauty of the landscape, and for conservation of outdoor resources in the watersheds of the Current and Jacks Fork Rivers.
+
+#### (b) Establishment of hunting and fishing zones and periods
+* The Secretary shall permit hunting and fishing on lands and waters under his jurisdiction within the Ozark National Scenic Riverways area in accordance with applicable Federal and State laws. The Secretary may designate zones where, and establish periods when, no hunting shall be permitted, for reasons of public safety, administration, or public use and enjoyment and shall issue regulations after consultation with the Conservation Commission of the State of Missouri.
+
+### §460m–5. Administration
+* The Ozark National Scenic Riverways shall be administered in accordance with the provisions of the Act of August 25, 1916 (39 Stat. 535), as amended and supplemented, and in accordance with other laws of general application relating to the areas administered and supervised by the Secretary through the National Park Service; except that authority otherwise available to the Secretary for the conservation and management of natural resources may be utilized to the extent he finds such authority will further the purposes of this subchapter.
+
+### §460m–6. Free-roaming horses
+#### (a) In general
+* The Secretary, in accordance with this section, shall allow free-roaming horses in the Ozark National Scenic Riverways. Within 180 days after November 12, 1996, the Secretary shall enter into an agreement with the Missouri Wild Horse League or another qualified nonprofit entity to provide for management of free-roaming horses. The agreement shall provide for cost-effective management of the horses and limit Federal expenditures to the costs of monitoring the agreement. The Secretary shall issue permits for adequate pastures to accommodate the historic population level of the free-roaming horse herd, which shall be not less than the number of horses in existence on November 12, 1996, nor more than 50.
+
+#### (b) Removal of horses
+* The Secretary may not remove, or assist in, or permit the removal of any free-roaming horses from Federal lands within the boundary of the Ozark National Scenic Riverways unless—
+
+  * (1) the entity with whom the Secretary has entered into the agreement under subsection (a), following notice and a 90-day response period, substantially fails to meet the terms and conditions of the agreement;
+
+  * (2) the number of free-roaming horses exceeds 50; or
+
+  * (3) in the case of an emergency or to protect public health and safety, as defined in the agreement.
+
+#### (c) Construction; liability of United States
+* Nothing in this section shall be construed as creating liability for the United States for any damages caused by the free-roaming horses to property located inside or outside the boundaries of the Ozark National Scenic Riverways.
+
+### §460m–7. Authorization of appropriations
+* There are hereby authorized to be appropriated such sums (but not more than $10,804,000 for the acquisition of lands or interests in lands) as are necessary to carry out the purposes of this subchapter.

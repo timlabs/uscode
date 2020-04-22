@@ -1,0 +1,19 @@
+### SUBCHAPTER I—ORGANIZATION
+
+### §1551. Immigration and Naturalization Service
+* There is created and established in the Department of Justice an Immigration and Naturalization Service.
+
+### §1552. Commissioner of Immigration and Naturalization; office
+* The office of the Commissioner of Immigration and Naturalization is created and established, and the President, by and with the advice and consent of the Senate, is authorized and directed to appoint such officer. The Attorney General shall provide him with a suitable, furnished office in the city of Washington, and with such books of record and facilities for the discharge of the duties of his office as may be necessary.
+
+### §1553. Assistant Commissioners and one District Director; compensation and salary grade
+* The compensation of the five assistant commissioners and one district director shall be at the rate of grade GS–16.
+
+### §1554. Special immigrant inspectors at Washington
+* Special immigrant inspectors, not to exceed three, may be detailed for duty in the service at Washington.
+
+### §1555. Immigration Service expenses
+* Appropriations now or hereafter provided for the Immigration and Naturalization Service shall be available for payment of (a) hire of privately owned horses for use on official business, under contract with officers or employees of the Service; (b) pay of interpreters and translators who are not citizens of the United States; (c) distribution of citizenship textbooks to aliens without cost to such aliens; (d) payment of allowances (at such rate as may be specified from time to time in the appropriation Act involved) to aliens, while held in custody under the immigration laws, for work performed; and (e) when so specified in the appropriation concerned, expenses of unforeseen emergencies of a confidential character, to be expended under the direction of the Attorney General, who shall make a certificate of the amount of any such expenditure as he may think it advisable not to specify, and every such certificate shall be deemed a sufficient voucher for the sum therein expressed to have been expended.
+
+### §1557. Prevention of transportation in foreign commerce of alien women and girls under international agreement; Commissioner designated as authority to receive and preserve information
+* For the purpose of regulating and preventing the transportation in foreign commerce of alien women and girls for purposes of prostitution and debauchery, and in pursuance of and for the purpose of carrying out the terms of the agreement or project of arrangement for the suppression of the white-slave traffic, adopted July 25, 1902, for submission to their respective governments by the delegates of various powers represented at the Paris Conference and confirmed by a formal agreement signed at Paris on May 18, 1904, and adhered to by the United States on June 6, 1908, as shown by the proclamation of the President of the United States dated June 15, 1908, the Commissioner of Immigration and Naturalization is designated as the authority of the United States to receive and centralize information concerning the procuration of alien women and girls with a view to their debauchery, and to exercise supervision over such alien women and girls, receive their declarations, establish their identity, and ascertain from them who induced them to leave their native countries, respectively; and it shall be the duty of said Commissioner of Immigration and Naturalization to receive and keep on file in his office the statements and declarations which may be made by such alien women and girls, and those which are hereinafter required pertaining to such alien women and girls engaged in prostitution or debauchery in this country, and to furnish receipts for such statements and declarations provided for in this Act to the persons, respectively, making and filing them.

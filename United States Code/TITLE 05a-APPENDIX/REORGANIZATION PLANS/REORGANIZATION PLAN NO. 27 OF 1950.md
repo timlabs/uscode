@@ -1,0 +1,2 @@
+## **REORGANIZATION PLAN NO. 27 OF 1950**
+* Reorganization Plan No. 27 of 1950, which proposed establishment of a Department of Health, Education, and Security, was submitted to Congress on May 31, 1950, and was disapproved by the House of Representatives on July 10, 1950.

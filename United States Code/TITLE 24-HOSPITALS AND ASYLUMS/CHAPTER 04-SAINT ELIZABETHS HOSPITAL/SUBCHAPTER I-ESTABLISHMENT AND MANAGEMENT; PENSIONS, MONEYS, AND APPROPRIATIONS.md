@@ -1,0 +1,7 @@
+### SUBCHAPTER I—ESTABLISHMENT AND MANAGEMENT; PENSIONS, MONEYS, AND APPROPRIATIONS
+
+### §168b. Computation of maximum amount available from Federal sources
+* Amounts chargeable to and available from Federal sources for inpatient and outpatient services provided through Saint Elizabeths Hospital as authorized by 24 U.S.C. 191, 196, 211, 212, 222, 253, and 324; 31 U.S.C. 1535; and 42 U.S.C. 249 and 251 shall not exceed the estimated total cost of such services as computed using only the proportionate amount of the direct Federal subsidy appropriated under this heading.
+
+### §170a. Maximum amount available from Federal sources
+* In fiscal year 1989 and thereafter, the maximum amount available to Saint Elizabeths Hospital from Federal sources shall not exceed the total of the following amounts: the appropriations made under this heading, amounts billed to Federal agencies and entities by the District of Columbia for services provided at Saint Elizabeths Hospital, and amounts authorized by titles XVIII and XIX of the Social Security Act [42 U.S.C. 1395 et seq., 1396 et seq.]. This maximum amount shall not include Federal funds appropriated to the District of Columbia under "Federal Payment to the District of Columbia" and payments made pursuant to section 9(c) of Public Law 98–621.

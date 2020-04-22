@@ -1,0 +1,10 @@
+### PART C—CONSTRUCTION OR MODERNIZATION OF EMERGENCY ROOMS
+
+### §291j–8. Authorization of appropriations
+* In order to assist in the provision of adequate emergency room service in various communities of the Nation for treatment of accident victims and handling of other medical emergencies through special project grants for the construction or modernization of emergency rooms of general hospitals, there are authorized to be appropriated $20,000,000 each for the fiscal year ending June 30, 1971, and the next two fiscal years.
+
+### §291j–9. Eligibility for grants
+* Funds appropriated pursuant to section 291j–8 of this title shall be available for grants by the Secretary for not to exceed 50 per centum of the cost of construction or modernization of emergency rooms of public or nonprofit general hospitals, including provision or replacement of medical transportation facilities. Such grants shall be made by the Secretary only after consultation with the State agency designated in accordance with section 291d(a)(1) of this title. In order to be eligible for a grant under this part, the project, and the applicant therefor, must meet such criteria as may be prescribed by regulations. Such regulations shall be so designed as to provide aid only with respect to projects for which adequate assistance is not readily available from other Federal, State, local, or other sources, and to assist in providing modern, efficient, and effective emergency room service needed to care for victims of highway, industrial, agricultural, or other accidents and to handle other medical emergencies, and to assist in providing such service in geographical areas which have special need therefor.
+
+### §291j–10. Payments
+* Grants under this part shall be paid in advance or by way of reimbursement, in such installments and on such conditions, as in the judgment of the Secretary will best carry out the purposes of this part.

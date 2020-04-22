@@ -1,0 +1,72 @@
+### **CHAPTER 6—WITHDRAWAL FROM SETTLEMENT, LOCATION, SALE, OR ENTRY**
+
+### §142. Rights of occupants or claimants of oil- or gas-bearing lands; exceptions to withdrawals
+* This section and section 141 of this title shall not be construed as a recognition, abridgment, or enlargement of any asserted rights or claims initiated upon any oil- or gas-bearing lands after any withdrawal of such lands made prior to June 25, 1910: _And provided further_, That there shall be excepted from the force and effect of any withdrawal made under the provisions of this section and section 141 of this title all lands which are, on the date of such withdrawal, embraced in any lawful homestead or desert-land entry theretofore made, or upon which any valid settlement has been made and is at said date being maintained and perfected pursuant to law; but the terms of this proviso shall not continue to apply to any particular tract of land unless the entryman or settler shall continue to comply with the law under which the entry or settlement was made.
+
+### §144. Entries on land withdrawn as valuable for oil or gas validated
+* Entries existing on February 7, 1925, and allowed prior to April 1, 1924, under the Stock Raising Homestead Act of December 29, 1916 (Thirty-ninth Statutes at Large, page 862) [43 U.S.C. 291 et seq.], for land withdrawn as valuable for oil or gas, but not otherwise reserved or withdrawn, are validated, if otherwise regular: _Provided_, That at date of entry the land was not within the limits of the geologic structure of a producing oil or gas field.
+
+### §145. Sale of lands withdrawn
+* Whenever in the opinion of the Secretary of the Interior any lands which have been withdrawn under the provisions of sections 141 and 142 of this title for the purpose of exploratory drilling to discover water supplies for irrigation or other purposes, and which have had wells or other permanent improvements placed thereon by and at the expense of the United States are no longer needed for the purpose for which they were withdrawn and improved, the Secretary of the Interior may appraise the lands, together with the improvements thereon, and thereafter sell the same to a citizen of the United States for not less than the appraised value at public auction to the highest bidder, after giving public notice of the time and place of sale by posting upon the land and publication for not less than thirty days in a newspaper of general circulation in the vicinity of the land.
+
+### §146. Patents to purchasers of lands withdrawn
+* Upon payment of the purchase price the Secretary of the Interior is authorized by appropriate patent to convey all the right, title, and interest in and to said lands to the purchaser at said sale, subject, however, to such reservations, limitations, or conditions as said Secretary may deem proper: _Provided_, That not over one hundred and sixty acres shall be sold to any one person: _Provided further_, That any patent issued hereunder shall contain a reservation to the United States of all oil, gas, coal, and other mineral.
+
+### §147. Disposition of proceeds of sale of withdrawn lands
+* The moneys derived from the sale of such lands and improvements shall be disposed of as are other receipts from the sale and disposal of public lands.
+
+### §149. Exchange of private lands included in Indian reservation for other lands
+* Any private land over which an Indian reservation has been extended by Executive order, may be exchanged at the discretion of the Secretary of the Interior and at the expense of the owner thereof and under such rules and regulations as may be prescribed by the Secretary of the Interior, for vacant, nonmineral, nontimbered, surveyed public lands of equal area and value and situated in the same State or Territory.
+
+### §150. Withdrawals of land for Indian reservations prohibited
+* No public lands of the United States shall be withdrawn by Executive Order, proclamation, or otherwise, for or as an Indian reservation except by act of Congress.
+
+### §151. Opening of lands restored to entry after withdrawals
+* When public lands are excluded from national forests or released from withdrawals the President may, whenever in his judgment it is proper or necessary, provide for the opening of the lands by settlement in advance of entry, by drawing, or by such other method as he may deem advisable in the interest of equal opportunity and good administration, and in doing so may provide that lands so opened shall be subject only to homestead entry by actual settlers only or to entry under the desert-land laws for a period not exceeding ninety days, the unentered lands to be thereafter subject to disposition under the public-land laws applicable thereto.
+
+### §152. Restoration of lands previously withdrawn
+* Where under the law the Secretary of the Interior is authorized or directed to make restoration of lands previously withdrawn he may also restrict the restoration as prescribed in section 151 of this title.
+
+### §153. Reservation of lands in North Dakota
+* Upon receipt of a proper deed from the State of North Dakota, executed under authority of the act of its legislative assembly, approved February 5, 1915, reconveying to the United States title to section 16, township 138 north, range 81 west, fifth principal meridian, the Secretary of the Interior is authorized to issue patents to said State for such vacant, surveyed, unreserved, unoccupied, nonmineral public lands as may be selected by said State within its boundaries, not exceeding one thousand two hundred and eighty acres in aggregate area, and said section when so reconveyed shall not be subject to settlement, location, entry, or selection under the public land laws, but shall be reserved for the use of the Department of Agriculture in carrying on experiments in dry-land agriculture at the Northern Great Plains Field Station, Mandan, North Dakota.
+
+### §154. Vacation of withdrawals under reclamation law; lands valuable for minerals; reservation of rights, ways, and easements; rules and regulations
+* Where public lands of the United States have been withdrawn for possible use for construction purposes under the Federal reclamation laws, and are known or believed to be valuable for minerals and would, if not so withdrawn, be subject to location and patent under the general mining laws, the Secretary of the Interior, when in his opinion the rights of the United States will not be prejudiced thereby, may, in his discretion, open the land to location, entry, and patent under the general mining laws, reserving such ways, rights, and easements over or to such lands as may be prescribed by him and as may be deemed necessary or appropriate, including the right to take and remove from such lands construction materials for use in the construction of irrigation works, and/or the said Secretary may require the execution of a contract by the intending locator or entryman as a condition precedent to the vesting of any rights in him, when in the opinion of the Secretary same may be necessary for the protection of the irrigation interests. Such reservations or contract rights may be in favor of the United States or irrigation concerns cooperating or contracting with the United States and operating in the vicinity of such lands. The Secretary may prescribe the form of such contract which shall be executed and acknowledged and recorded in the county records and United States local land office by any locator or entryman of such land before any rights in their favor attach thereto, and the locator or entryman executing such contract shall undertake such indemnifying covenants and shall grant such rights over such lands as in the opinion of the Secretary may be necessary for the protection of Federal or private irrigation in the vicinity. Notice of such reservation or of the necessity of executing such prescribed contract shall be filed in the Bureau of Land Management and in the appropriate local land office, and notations thereof shall be made upon the appropriate tract books, and any location or entry thereafter made upon or for such lands, and any patent therefor shall be subject to the terms of such contract and/or to such reserved ways, rights, or easements and such entry or patent shall contain a reference thereto.
+
+* The Secretary of the Interior may prescribe such rules and regulations as may be necessary to enable him to enforce the provisions of this section.
+
+### §155. Withdrawal, reservation, or restriction of public lands for defense purposes; "public lands" defined; exception
+* Notwithstanding any other provisions of law, except in time of war or national emergency hereafter declared by the President or the Congress, on and after February 28, 1958 the provisions hereof shall apply to the withdrawal and reservation for, restriction of, and utilization by, the Department of Defense for defense purposes of the public lands of the United States, including public lands in the Territories of Alaska and Hawaii: _Provided_, That—
+
+  * (1) for the purposes of this Act, the term "public lands" shall be deemed to include, without limiting the meaning thereof, Federal lands and waters of the Outer Continental Shelf, as defined in section 1331 of this title, and Federal lands and waters off the coast of the Territories of Alaska and Hawaii;
+
+  * (2) nothing in this Act shall be deemed to be applicable to the withdrawal or reservation of public lands specifically as naval petroleum, naval oil shale, or naval coal reserves;
+
+  * (3) nothing in this Act shall be deemed to be applicable to the warning areas over the Federal lands and waters of the Outer Continental Shelf and Federal lands and waters off the coast of the Territory of Alaska reserved for use of the military departments prior to August 7, 1953, and
+
+  * (4) nothing in this section, section 156, or section 157 of this title shall be deemed to be applicable either to those reservations or withdrawals which expired due to the ending of the unlimited national emergency of May 27, 1941, and which subsequent to such expiration have been and are now used by the military departments with the concurrence of the Department of the Interior, or to the withdrawal of public domain lands of the Marine Corps Training Center, Twentynine Palms, California, and the naval gunnery ranges in the State of Nevada designated as Basic Black Rock and Basic Sahwave Mountain.
+
+### §156. Approval by Congress necessary for withdrawal, reservation, or restriction of over 5,000 acres for any Department of Defense project or facility
+* No public land, water, or land and water area shall, except by Act of Congress, on and after February 28, 1958 be (1) withdrawn from settlement, location, sale, or entry for the use of the Department of Defense for defense purposes; (2) reserved for such use; or (3) restricted from operation of the mineral leasing provisions of the Outer Continental Shelf Lands Act [43 U.S.C. 1331 et seq.], if such withdrawal, reservation, or restriction would result in the withdrawal, reservation, or restriction of more than five thousand acres in the aggregate for any one defense project or facility of the Department of Defense since February 28, 1958, or since the last previous Act of Congress which withdrew, reserved, or restricted public land, water, or land and water area for that project or facility, whichever is later.
+
+### §157. Application for withdrawal, reservation, or restriction; specifications
+* Any application filed on and after February 28, 1958 for a withdrawal, reservation, or restriction, the approval of which will, under section 156 of this title, require an Act of Congress, shall specify—
+
+  * (1) the name of the requesting agency and intended using agency;
+
+  * (2) location of the area involved, to include a detailed description of the exterior boundaries and excepted areas, if any, within such proposed withdrawal, reservation, or restriction;
+
+  * (3) gross land and water acreage within the exterior boundaries of the requested withdrawal, reservation, or restriction, and net public land, water, or public land and water acreage covered by the application;
+
+  * (4) the purpose or purposes for which the area is proposed to be withdrawn, reserved, or restricted, or if the purpose or purposes are classified for national security reasons, a statement to that effect;
+
+  * (5) whether the proposed use will result in contamination of any or all of the requested withdrawal, reservation, or restriction area, and if so, whether such contamination will be permanent or temporary;
+
+  * (6) the period during which the proposed withdrawal, reservation, or restriction will continue in effect;
+
+  * (7) whether, and if so to what extent, the proposed use will affect continuing full operation of the public land laws and Federal regulations relating to conservation, utilization, and development of mineral resources, timber and other material resources, grazing resources, fish and wildlife resources, water resources, and scenic, wilderness, and recreation and other values; and
+
+  * (8) if effecting the purpose for which the area is proposed to be withdrawn, reserved, or restricted, will involve the use of water in any State, whether, subject to existing rights under law, the intended using agency has acquired, or proposes to acquire, rights to the use thereof in conformity with State laws and procedures relating to the control, appropriation, use, and distribution of water.
+
+### §158. Mineral resources on withdrawn lands; disposition and exploration
+* All withdrawals or reservations of public lands for the use of any agency of the Department of Defense, except lands withdrawn or reserved specifically as naval petroleum, naval oil shale, or naval coal reserves, heretofore or hereafter made by the United States, shall be deemed to be subject to the condition that all minerals, including oil and gas, in the lands so withdrawn or reserved are under the jurisdiction of the Secretary of the Interior and there shall be no disposition of, or exploration for, any minerals in such lands except under the applicable public land mining and mineral leasing laws: _Provided_, That no disposition of, or exploration for, any minerals in such lands shall be made where the Secretary of Defense, after consultation with the Secretary of the Interior, determines that such disposition or exploration is inconsistent with the military use of the lands so withdrawn or reserved.

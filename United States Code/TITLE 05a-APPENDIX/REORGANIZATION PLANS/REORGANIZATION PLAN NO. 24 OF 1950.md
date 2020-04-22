@@ -1,0 +1,2 @@
+## **REORGANIZATION PLAN NO. 24 OF 1950**
+* Reorganization Plan No. 24 of 1950, which proposed transfer of the Reconstruction Finance Corporation to the Department of Commerce, was submitted to Congress on May 9, 1950, and was disapproved by the Senate on July 6, 1950.

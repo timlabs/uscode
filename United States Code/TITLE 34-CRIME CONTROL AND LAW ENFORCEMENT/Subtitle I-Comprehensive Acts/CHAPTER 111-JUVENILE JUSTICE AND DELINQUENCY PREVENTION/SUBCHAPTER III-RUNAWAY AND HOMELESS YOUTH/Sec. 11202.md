@@ -1,0 +1,2 @@
+### §11202. Promulgation of rules
+* The Secretary of Health and Human Services (hereinafter in this subchapter referred to as the "Secretary") may issue such rules as the Secretary considers necessary or appropriate to carry out the purposes of this subchapter.

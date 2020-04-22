@@ -1,0 +1,13 @@
+### SUBCHAPTER VI—EARTH SCIENCE
+
+### §18371. Interagency collaboration implementation approach
+* The Director of OSTP shall establish a mechanism to ensure greater coordination of the research, operations, and activities relating to civilian Earth observation of those Agencies, including NASA, that have active programs that either contribute directly or indirectly to these areas. This mechanism should include the development of a strategic implementation plan that is updated at least every 3 years, and includes a process for external independent advisory input. This plan should include a description of the responsibilities of the various Agency roles in Earth observations, recommended cost-sharing and procurement arrangements between Agencies and other entities, including international arrangements, and a plan for ensuring the provision of sustained, long term space-based climate observations. The Director shall provide a report to Congress within 90 days after October 11, 2010, on the implementation plan for this mechanism.
+
+### §18372. Transitioning experimental research to operations
+* The Administrator shall coordinate with the Administrator of NOAA and the Director of the United States Geological Survey to establish a formal mechanism that plans, coordinates, and supports the transitioning of NASA research findings, assets, and capabilities to NOAA operations and United States Geological Survey operations. In defining this mechanism, NASA should consider the establishment of a formal or informal Interagency Transition Office. The Administrator of NASA shall provide an implementation plan for this mechanism to Congress within 90 days after October 11, 2010.
+
+### §18373. Decadal Survey missions implementation for Earth observation
+* The Administrator shall undertake to implement, as appropriate, missions identified in the National Research Council's Earth Science Decadal Survey within the scope of the funds authorized for the Earth Science Mission Directorate.
+
+### §18374. Instrument test-beds and venture class missions
+* The Administrator shall pursue innovative ways to fly instrument-level payloads for early demonstration or as co-manifested payloads. The Congress encourages the use of the ISS as an accessible platform for the conduct of such activities. Additionally, in order to address the cost and schedule challenges associated with large flight systems, NASA should pursue smaller systems where practicable and warranted.

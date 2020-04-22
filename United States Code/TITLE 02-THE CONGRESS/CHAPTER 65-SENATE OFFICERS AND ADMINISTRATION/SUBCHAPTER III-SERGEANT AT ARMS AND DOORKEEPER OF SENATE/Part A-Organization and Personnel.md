@@ -1,0 +1,36 @@
+### PART A—ORGANIZATION AND PERSONNEL
+
+### §6592. Limitation on compensation of Sergeant at Arms and Doorkeeper of Senate
+* The Sergeant at Arms and Doorkeeper of the Senate shall receive, directly or indirectly, no fees or other compensation or emolument whatever for performing the duties of the office, or in connection therewith, other than the salary prescribed by law.
+
+### §6593. Deputy Sergeant at Arms and Doorkeeper to act on death, resignation, disability, or absence of Sergeant at Arms and Doorkeeper of Senate
+* In the event of the death, resignation, or disability of the Sergeant at Arms and Doorkeeper of the Senate, the Deputy Sergeant at Arms and Doorkeeper shall act as Sergeant at Arms and Doorkeeper of the Senate in carrying out the duties and responsibilities of that office in all matters until such time as a new Sergeant at Arms and Doorkeeper of the Senate shall have been elected and qualified or such disability shall have been ended. For purposes of this section, the Sergeant at Arms and Doorkeeper of the Senate shall be considered as disabled only during such period of time as the Majority and Minority Leaders and the President Pro Tempore of the Senate certify jointly to the Senate that the Sergeant at Arms and Doorkeeper of the Senate is unable to perform his duties. In the event that the Sergeant at Arms and Doorkeeper of the Senate is absent, the Deputy Sergeant at Arms and Doorkeeper shall act during such absence as the Sergeant at Arms and Doorkeeper of the Senate in carrying out the duties and responsibilities of the office in all matters.
+
+### §6594. Compensation of Deputy Sergeant at Arms and Doorkeeper of Senate
+* Effective August 1, 1979, the Sergeant at Arms and Doorkeeper may fix the compensation of the Deputy Sergeant at Arms and Doorkeeper at an annual rate not to exceed the maximum annual rate of compensation of the Assistant Secretary of the Senate.
+
+### §6595. Compensation of Administrative Assistant to Sergeant at Arms and Doorkeeper of Senate
+* Effective August 1, 1979—
+
+  * (1) the maximum annual rate of compensation of the Administrative Assistant to the Sergeant at Arms and Doorkeeper of the Senate shall be the same as the highest maximum annual rate of compensation that may be paid to an employee in the office of a Senator; and
+
+  * (2) Omitted
+
+### §6596. Employment of personnel by Sergeant at Arms and Doorkeeper of Senate at daily rates of compensation; authorization; limitation on amount of compensation
+* The Sergeant at Arms and Doorkeeper of the Senate, in carrying out the duties of his office, is authorized to employ personnel at daily rates of compensation; no individual so employed shall be paid at a daily rate of compensation which is in excess of the per diem equivalent of the highest gross rate of annual compensation which may be paid to employees of a standing committee of the Senate; and payments under authority of this section shall be made from the account, within the contingent fund of the Senate, for the "Sergeant at Arms and Doorkeeper of the Senate", upon vouchers approved by the Sergeant at Arms and Doorkeeper of the Senate.
+
+### §6597. Abolition of statutory positions in Office of Sergeant at Arms and Doorkeeper of Senate; authority to establish and fix compensation for positions
+* Effective October 1, 1981, all statutory positions in the Office of the Sergeant at Arms and Doorkeeper of the Senate (other than the positions of the Sergeant at Arms and Doorkeeper of the Senate, Deputy Sergeant at Arms and Doorkeeper, and Administrative Assistant) are abolished, and in lieu of the positions hereby abolished the Sergeant at Arms and Doorkeeper of the Senate is authorized to establish such number of positions as he deems appropriate and appoint and fix the compensation of employees to fill the positions so established; except that the annual rate of compensation payable to any employee appointed to fill any position established by the Sergeant at Arms and Doorkeeper of the Senate shall not, for any period of time, be in excess of $1,000 less than the annual rate of compensation of the Sergeant at Arms and Doorkeeper of the Senate for that period of time; and except that nothing in this section shall be construed to affect any position authorized by statute, if the compensation for such position is to be paid from the contingent fund of the Senate.
+
+### §6598. Designation by Sergeant at Arms and Doorkeeper of Senate of persons to approve vouchers for payment of moneys
+* The Sergeant at Arms and Doorkeeper of the Senate (hereinafter in this section referred to as the "Sergeant at Arms") may designate one or more employees in the Office of the Sergeant at Arms and Doorkeeper of the Senate to approve, on his behalf, all vouchers, for payment of moneys, which the Sergeant at Arms is authorized to approve. Whenever the Sergeant at Arms makes a designation under the authority of the preceding sentence, he shall immediately notify the Committee on Rules and Administration in writing of the designation, and thereafter any approval of any voucher, for payment of moneys, by an employee so designated shall (until such designation is revoked and the Sergeant at Arms notifies the Committee on Rules and Administration in writing of the revocation) be deemed and held to be approved by the Sergeant at Arms for all intents and purposes.
+
+### §6599. Use by Sergeant at Arms and Doorkeeper of Senate of individual consultants or organizations, and department and agency personnel
+* For each fiscal year (beginning with the fiscal year which ends September 30, 1982), the Sergeant at Arms and Doorkeeper of the Senate is hereby authorized to expend from the account for the Sergeant at Arms and Doorkeeper of the Senate, within the contingent fund of the Senate, an amount not to exceed $300,000:
+
+  * (1) the procurement of the services, on a temporary basis, of individual consultants, or organizations thereof, with the prior consent of the Committee on Rules and Administration; such services may be procured by contract with the providers acting as independent contractors, or in the case of individuals, by employment at daily rates of compensation not in excess of the per diem equivalent of the highest gross rate of annual compensation which may be paid to employees of a standing committee of the Senate; and any such contract shall not be subject to the provisions of section 6101 of title 41 or any other provision of law requiring advertising; and
+
+  * (2) with the prior consent of the Government department or agency concerned and the Committee on Rules and Administration, use on a reimbursable basis (with reimbursement payable at the end of each calendar quarter for services rendered during such quarter) of the services of personnel of any such department or agency.
+
+
+* Payments made under this section shall be made upon vouchers approved by the Sergeant at Arms and Doorkeeper of the Senate.

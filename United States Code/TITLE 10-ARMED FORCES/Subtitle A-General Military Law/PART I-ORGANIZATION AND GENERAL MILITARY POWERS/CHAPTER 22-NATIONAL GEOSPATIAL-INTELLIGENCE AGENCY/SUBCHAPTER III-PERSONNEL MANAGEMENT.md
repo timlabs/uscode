@@ -1,0 +1,13 @@
+### SUBCHAPTER III—PERSONNEL MANAGEMENT
+
+### §461. Management rights
+* (a) SCOPE.—If there is no obligation under the provisions of chapter 71 of title 5 for the head of an agency of the United States to consult or negotiate with a labor organization on a particular matter by reason of that matter being covered by a provision of law or a Governmentwide regulation, the Director of the National Geospatial-Intelligence Agency is not obligated to consult or negotiate with a labor organization on that matter even if that provision of law or regulation is inapplicable to the National Geospatial-Intelligence Agency.
+
+* (b) BARGAINING UNITS.—The Director of the National Geospatial-Intelligence Agency shall accord exclusive recognition to a labor organization under section 7111 of title 5 only for a bargaining unit that was recognized as appropriate for the Defense Mapping Agency on September 30, 1996.
+
+* (c) TERMINATION OF BARGAINING UNIT COVERAGE OF POSITION MODIFIED TO AFFECT NATIONAL SECURITY DIRECTLY.—(1) If the Director of the National Geospatial-Intelligence Agency determines that the responsibilities of a position within a collective bargaining unit should be modified to include intelligence, counterintelligence, investigative, or security duties not previously assigned to that position and that the performance of the newly assigned duties directly affects the national security of the United States, then, upon such a modification of the responsibilities of that position, the position shall cease to be covered by the collective bargaining unit and the employee in that position shall cease to be entitled to representation by a labor organization accorded exclusive recognition for that collective bargaining unit.
+
+* (2) A determination described in paragraph (1) that is made by the Director of the National Geospatial-Intelligence Agency may not be reviewed by the Federal Labor Relations Authority or any court of the United States.
+
+### §462. Financial assistance to certain employees in acquisition of critical skills
+* The Secretary of Defense may establish an undergraduate training program with respect to civilian employees of the National Geospatial-Intelligence Agency that is similar in purpose, conditions, content, and administration to the program established by the Secretary of Defense under section 16 of the National Security Agency Act of 1959 (50 U.S.C. 3614) for civilian employees of the National Security Agency.

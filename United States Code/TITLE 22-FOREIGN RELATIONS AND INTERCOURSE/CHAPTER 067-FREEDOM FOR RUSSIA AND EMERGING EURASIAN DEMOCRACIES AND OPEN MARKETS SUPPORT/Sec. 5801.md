@@ -1,0 +1,2 @@
+### §5801. Definition of independent states
+* For purposes of this Act, the terms "independent states of the former Soviet Union" and "independent states" mean the following: Armenia, Azerbaijan, Belarus, Georgia, Kazakhstan, Kyrgyzstan, Moldova, Russia, Tajikistan, Turkmenistan, Ukraine, and Uzbekistan.

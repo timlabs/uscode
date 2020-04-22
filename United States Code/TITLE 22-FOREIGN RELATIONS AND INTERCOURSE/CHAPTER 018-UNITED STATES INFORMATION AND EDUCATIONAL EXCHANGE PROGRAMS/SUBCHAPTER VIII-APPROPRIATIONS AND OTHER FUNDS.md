@@ -1,0 +1,13 @@
+### SUBCHAPTER VIII—APPROPRIATIONS AND OTHER FUNDS
+
+### §1477. Transfer of funds
+* The Secretary shall authorize the transfer to other Government agencies for expenditure in the United States and in other countries, in order to carry out the purposes of this chapter, any part of any appropriations available to the Department for carrying out the purposes of this chapter, for direct expenditure or as a working fund, and any such expenditures may be made under the specific authority contained in this chapter or under the authority governing the activities of the Government agency to which a part of any such appropriation is transferred, provided the activities come within the scope of this chapter.
+
+### §1477c. Notification and award of grants
+* The Department of State may award grants for overseas public diplomacy programs only if the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate are notified fifteen days in advance of the proposed grant.
+
+### §1478. Reimbursement of program expenses from sources other than appropriations; disposition of receipts
+* The Secretary shall, when he finds it in the public interest, request and accept reimbursement from any cooperating governmental or private source in a foreign country, or from State or local governmental institutions or private sources in the United States, for all or part of the expenses of any portion of the program undertaken hereunder. The amounts so received shall be covered into the Treasury as miscellaneous receipts.
+
+### §1479. Advancement of funds, property, or services by foreign governments; disposition; availability; return of unexpended balances or property
+* If any other government shall express the desire to provide funds, property, or services to be used by this Government, in whole or in part, for the expenses of any specific part of the program undertaken pursuant to this chapter, the Secretary is authorized, when he finds it in the public interest, to accept such funds, property, or services. Funds so received may be established as a special deposit account in the Treasury of the United States, to be available for the specified purpose, and to be used for reimbursement of appropriations or direct expenditure, subject to the provisions of this chapter. Any unexpended balance of the special deposit account and other property received under this section and no longer required for the purposes for which provided shall be returned to the government providing the funds or property.

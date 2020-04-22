@@ -1,0 +1,4 @@
+### IMPORTS FROM COUNTRIES MAKING DISCRIMINATIONS
+
+### §181. Exclusion of imports from countries making discriminations
+* Whenever the President shall be satisfied that unjust discriminations are made by or under the authority of any foreign state against the importation to or sale in such foreign state of any product of the United States, he may direct that such products of such foreign state so discriminating against any product of the United States as he may deem proper shall be excluded from importation to the United States; and in such case he shall make proclamation of his direction in the premises, and therein name the time when such direction against importation shall take effect, and after such date the importation of the articles named in such proclamation shall be unlawful. The President may at any time revoke, modify, terminate, or renew any such direction as, in his opinion, the public interest may require.

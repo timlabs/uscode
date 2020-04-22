@@ -1,0 +1,16 @@
+### **CHAPTER 19—CONSPIRACY**
+
+### §371. Conspiracy to commit offense or to defraud United States
+* If two or more persons conspire either to commit any offense against the United States, or to defraud the United States, or any agency thereof in any manner or for any purpose, and one or more of such persons do any act to effect the object of the conspiracy, each shall be fined under this title or imprisoned not more than five years, or both.
+
+* If, however, the offense, the commission of which is the object of the conspiracy, is a misdemeanor only, the punishment for such conspiracy shall not exceed the maximum punishment provided for such misdemeanor.
+
+### §372. Conspiracy to impede or injure officer
+* If two or more persons in any State, Territory, Possession, or District conspire to prevent, by force, intimidation, or threat, any person from accepting or holding any office, trust, or place of confidence under the United States, or from discharging any duties thereof, or to induce by like means any officer of the United States to leave the place, where his duties as an officer are required to be performed, or to injure him in his person or property on account of his lawful discharge of the duties of his office, or while engaged in the lawful discharge thereof, or to injure his property so as to molest, interrupt, hinder, or impede him in the discharge of his official duties, each of such persons shall be fined under this title or imprisoned not more than six years, or both.
+
+### §373. Solicitation to commit a crime of violence
+* (a) Whoever, with intent that another person engage in conduct constituting a felony that has as an element the use, attempted use, or threatened use of physical force against property or against the person of another in violation of the laws of the United States, and under circumstances strongly corroborative of that intent, solicits, commands, induces, or otherwise endeavors to persuade such other person to engage in such conduct, shall be imprisoned not more than one-half the maximum term of imprisonment or (notwithstanding section 3571) fined not more than one-half of the maximum fine prescribed for the punishment of the crime solicited, or both; or if the crime solicited is punishable by life imprisonment or death, shall be imprisoned for not more than twenty years.
+
+* (b) It is an affirmative defense to a prosecution under this section that, under circumstances manifesting a voluntary and complete renunciation of his criminal intent, the defendant prevented the commission of the crime solicited. A renunciation is not "voluntary and complete" if it is motivated in whole or in part by a decision to postpone the commission of the crime until another time or to substitute another victim or another but similar objective. If the defendant raises the affirmative defense at trial, the defendant has the burden of proving the defense by a preponderance of the evidence.
+
+* (c) It is not a defense to a prosecution under this section that the person solicited could not be convicted of the crime because he lacked the state of mind required for its commission, because he was incompetent or irresponsible, or because he is immune from prosecution or is not subject to prosecution.

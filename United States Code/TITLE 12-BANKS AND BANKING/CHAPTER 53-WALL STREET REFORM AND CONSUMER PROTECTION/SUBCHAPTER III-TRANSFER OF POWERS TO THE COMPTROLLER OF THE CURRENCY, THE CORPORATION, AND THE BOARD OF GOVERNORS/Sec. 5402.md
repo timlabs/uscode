@@ -1,0 +1,2 @@
+### §5402. Definition
+* In this title, the term "transferred employee" means, as the context requires, an employee transferred to the Office of the Comptroller of the Currency or the Corporation under section 5432 of this title.

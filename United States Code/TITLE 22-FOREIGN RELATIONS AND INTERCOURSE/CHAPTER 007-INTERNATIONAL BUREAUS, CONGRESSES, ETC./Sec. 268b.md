@@ -1,0 +1,2 @@
+### §268b. Advances from appropriation "Boundary line, Alaska and Canada, and the United States and Canada"
+* Advances of money under the appropriation "Boundary line, Alaska and Canada, and the United States and Canada", may be made to the commissioner on the part of the United States and by his authority to chiefs of parties prior to March 2, 1921.

@@ -1,0 +1,2 @@
+## **REORGANIZATION PLAN NO. 3 OF 1965**
+* Reorganization Plan No. 3 of 1965, 30 F.R. 9351, 79 Stat. 1320, which transferred functions of director of locomotive inspection, assistant directors of locomotive inspection, and district inspectors of locomotives to Interstate Commerce Commission, was repealed by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379. See sections 20702, 20703, and 21302 of Title 49, Transportation.

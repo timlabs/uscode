@@ -1,0 +1,15 @@
+### §5801. Congressional declaration of policy and purpose
+#### (a) Development and utilization of energy sources
+* The Congress hereby declares that the general welfare and the common defense and security require effective action to develop, and increase the efficiency and reliability of use of, all energy sources to meet the needs of present and future generations, to increase the productivity of the national economy and strengthen its position in regard to international trade, to make the Nation self-sufficient in energy, to advance the goals of restoring, protecting, and enhancing environmental quality, and to assure public health and safety.
+
+#### (b) Necessity of establishing Energy Research and Development Administration
+* The Congress finds that, to best achieve these objectives, improve Government operations, and assure the coordinated and effective development of all energy sources, it is necessary to establish an Energy Research and Development Administration to bring together and direct Federal activities relating to research and development on the various sources of energy, to increase the efficiency and reliability in the use of energy, and to carry out the performance of other functions, including but not limited to the Atomic Energy Commission's military and production activities and its general basic research activities. In establishing an Energy Research and Development Administration to achieve these objectives, the Congress intends that all possible sources of energy be developed consistent with warranted priorities.
+
+#### (c) Separation of licensing and regulatory functions of Atomic Energy Commission
+* The Congress finds that it is in the public interest that the licensing and related regulatory functions of the Atomic Energy Commission be separated from the performance of the other functions of the Commission, and that this separation be effected in an orderly manner, pursuant to this chapter, assuring adequacy of technical and other resources necessary for the performance of each.
+
+#### (d) Small business participation
+* The Congress declares that it is in the public interest and the policy of Congress that small business concerns be given a reasonable opportunity to participate, insofar as is possible, fairly and equitably in grants, contracts, purchases, and other Federal activities relating to research, development, and demonstration of sources of energy efficiency, and utilization and conservation of energy. In carrying out this policy, to the extent practicable, the Administrator shall consult with the Administrator of the Small Business Administration.
+
+#### (e) Priorities
+* Determination of priorities which are warranted should be based on such considerations as power-related values of an energy source, preservation of material resources, reduction of pollutants, export market potential (including reduction of imports), among others. On such a basis, energy sources warranting priority might include, but not be limited to, the various methods of utilizing solar energy.

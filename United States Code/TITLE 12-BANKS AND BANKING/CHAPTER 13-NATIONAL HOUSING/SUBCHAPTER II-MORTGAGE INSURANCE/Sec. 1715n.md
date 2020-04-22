@@ -1,0 +1,105 @@
+### §1715n. Miscellaneous mortgage insurance
+#### (a) Projects covered
+* Notwithstanding any of the provisions of this chapter and without regard to limitations upon eligibility contained in any section or subchapter of this chapter, other than the limitation in section 1709(g) of this title, the Secretary is authorized, upon application by the mortgagee, to insure or make commitments to insure under any section or subchapter of this chapter any mortgage—
+
+  * (1) executed in connection with the sale by the Government, or any agency or official thereof, of any housing acquired or constructed under Public Law 849, Seventy-sixth Congress, as amended; Public Law 781, Seventy-sixth Congress, as amended; or Public Laws 9, 73, or 353, Seventy-seventh Congress, as amended (including any property acquired, held, or constructed in connection with such housing or to serve the inhabitants thereof); or
+
+  * (2) executed in connection with the sale by the Secretary of Housing and Urban Development, or by any public housing agency with the approval of the Secretary, of any housing (including any property acquired, held, or constructed in connection with such housing or to serve the inhabitants thereof) owned or financially assisted pursuant to the provisions of Public Law 671, Seventy-sixth Congress; or
+
+  * (3) executed in connection with the sale by the Government, or any agency or official thereof, of any of the so-called Greenbelt towns, or parts thereof, including projects, or parts thereof, known as Greenhills, Ohio; Greenbelt, Maryland; and Greendale, Wisconsin, developed under the Emergency Relief Appropriation Act of 1935, or of any of the village properties or employee's housing under the jurisdiction of Tennessee Valley Authority, or of any housing under the jurisdiction of the Department of the Interior located within the town area of Coulee Dam, Washington, acquired by the United States for the construction, operation, and maintenance of Grand Coulee Dam and its appurtenant works: _Provided_, That for the purpose of the application of this subchapter to sales by the Secretary of the Interior pursuant to subsections 3(b)(1) and 3(b)(2) of the Coulee Dam Community Act of 1957, the selling price of the property involved shall be deemed to be the appraised value, of any permanent housing under the jurisdiction of the Department of the Interior constructed under the Boulder Canyon Project Act of December 21, 1928, as amended and supplemented [43 U.S.C. 617 et seq.] located within the Boulder City municipal area: _Provided_, That for purposes of the application of this subchapter to sales by the Secretary of the Interior pursuant to subsections 3(b)(1) and 3(b)(2) of the Boulder City Act of 1958, the selling price of the property involved shall be deemed to be the appraised value; or
+
+  * (4) executed in connection with the sale by the Government, or any agency or official thereof, of any housing (including any property acquired, held, or constructed in connection therewith or to serve the inhabitants thereof) pursuant to the Atomic Energy Community Act of 1955, as amended [42 U.S.C. 2301 et seq.]: _Provided_, That such insurance shall be issued without regard to any preferences or priorities except those prescribed by this chapter or the Atomic Energy Community Act of 1955, as amended; or
+
+  * (5) executed in connection with the sale by a State or municipality, or an agency, instrumentality, or political subdivision of either, of a project consisting of any permanent housing (including any property acquired, held, or constructed in connection therewith or to serve the inhabitants thereof), constructed by or on behalf of such State, municipality, agency, instrumentality, or political subdivision, for the occupancy of veterans of World War II, or Korean veterans, their families, and others; or
+
+  * (6) executed in connection with the first resale, within two years from the date of its acquisition from the Government, of any portion of a project or property of the character described in paragraphs (1), (2), (3), and (4) above; or
+
+  * (7) given to refinance an existing mortgage insured under this chapter, or an existing mortgage held by the Secretary that is subject to a mortgage restructuring and rental assistance sufficiency plan pursuant to the Multifamily Assisted Housing Reform and Affordability Act of 1997 (42 U.S.C. 1437f note), provided that—
+
+    * (A) the principal amount of any such refinancing mortgage shall not exceed the original principal amount or the unexpired term of such existing mortgage and shall bear interest at such rate as may be agreed upon by the mortgagor and the mortgagee, except that (i) the principal amount of any such refinancing mortgage may equal the outstanding balance of an existing mortgage insured pursuant to section 1715z–10 of this title, if the amount of the monthly payment due under the refinancing mortgage is less than that due under the existing mortgage for the month in which the refinancing mortgage is executed; (ii) a mortgagee may not require a minimum principal amount to be outstanding on the loan secured by the existing mortgage; (iii) in any case involving the refinancing of a loan in which the Secretary determines that the insurance of a mortgage for an additional term will inure to the benefit of the applicable insurance fund, taking into consideration the outstanding insurance liability under the existing insured mortgage, such refinancing mortgage may have a term not more than twelve years in excess of the unexpired term of such existing insured mortgage; and (iv) any multifamily mortgage that is refinanced under this paragraph shall be documented through amendments to the existing insurance contract and shall not be structured through the provisions of a new insurance contract; and
+
+    * (B) a mortgage of the character described in paragraphs (1) through (6) of this subsection shall have a maturity and a principal obligation not in excess of the maximums prescribed under the applicable section or subchapter of this chapter, except that in no case may the principal obligation of a mortgage referred to in paragraph (5) of this subsection exceed 90 per centum of the appraised value of the mortgaged property, and shall bear interest at such rate as may be agreed upon by the mortgagor and the mortgagee;
+
+    * (C) a mortgage that is subject to a mortgage restructuring and rental assistance sufficiency plan pursuant to the Multifamily Assisted Housing Reform and Affordability Act of 1997 (42 U.S.C. 1437f note) and is refinanced under this paragraph may have a term of not more than 30 years; or
+
+
+  * (8) executed in connection with the sale by the Government of any housing acquired pursuant to section 3374 of title 42.
+
+#### (b) Insurance of mortgages given to refinance mortgages covering existing property or projects in urban renewal areas
+* Notwithstanding any of the provisions of this subchapter and without regard to limitations upon eligibility contained in section 1715l of this title, the Secretary may in his discretion insure under section 1715l(d)(3) of this title any mortgage executed by a mortgagor of the character described therein where such mortgage is given to refinance a mortgage covering an existing property or project (other than a one- to four-family structure) located in an urban renewal area, if the Secretary finds that such insurance will facilitate the occupancy of dwelling units in the property or project by families of low or moderate income or families displaced from an urban renewal area or displaced as a result of governmental action.
+
+#### (c) Insurance of certain assigned mortgages
+* The Secretary shall also have authority to insure under this chapter any mortgage assigned to the Secretary in connection with payment under a contract of mortgage insurance or executed in connection with the sale by the Secretary, including a sale through another entity acting under authority of the fourth sentence of section 1710(g) of this title, of any property acquired under any section or subchapter of this chapter without regard to any limitations or requirements contained in this chapter upon the eligibility of the mortgage, upon the payment of insurance premiums, or upon the terms and conditions of insurance settlement and the benefits of the insurance to be included in such settlement.
+
+#### (d) Insurance of loans made to cover operating losses of certain projects having existing mortgages insured by Secretary
+* (1) Notwithstanding any other provision of this chapter, the Secretary is authorized to insure loans made to cover the operating losses of certain projects that have existing project mortgages insured by the Secretary. Insurance under this subsection shall be in the Secretary's discretion and upon such terms and conditions as the Secretary may prescribe, and shall be provided in accordance with the provisions of this subsection. For purposes of this subsection, the term "operating loss" means the amount by which the sum of the taxes, interest on the mortgage debt, mortgage insurance premiums, hazard insurance premiums, and the expense of maintenance and operation of the project covered by the mortgage, exceeds the income of the project.
+
+* (2) To be eligible for insurance pursuant to this paragraph—
+
+  * (A) the existing project mortgage (i) shall have been insured by the Secretary at any time before or after February 5, 1988; and (ii) shall cover any property, other than a property upon which there is located a 1- to 4-family dwelling;
+
+  * (B) the operating loss shall have occurred during the first 24 months after the date of completion of the project, as determined by the Secretary; and
+
+  * (C) the loan shall be in an amount not exceeding the operating loss.
+
+
+* (3) To be eligible for insurance pursuant to this paragraph—
+
+  * (A) the existing project mortgage (i) shall have been insured by the Secretary at any time before or after February 5, 1988; (ii) shall cover any property, other than a property upon which there is located a 1- to 4-family dwelling; and (iii) shall not cover a subsidized project, as defined by the Secretary;
+
+  * (B) the loan shall be in an amount not exceeding 80 percent of the unreimbursed cash contributions made on or after March 18, 1987, by the project owner for the use of the project, during any period of consecutive months (not exceeding 24 months) in the first 10 years after the date of completion of the project, as determined by the Secretary, except that in no event may the amount of the loan exceed the operating loss during such period;
+
+  * (C) the loan shall be made within 10 years after the end of the period of consecutive months referred to in the preceding subparagraph; and
+
+  * (D) the project shall meet all applicable underwriting and other requirements of the Secretary at the time the loan is to be made.
+
+
+* (4) Any loan insured pursuant to this subsection shall (A) bear interest at such rate as may be agreed upon by the mortgagor and mortgagee; (B) be secured in such manner as the Secretary shall require; (C) be limited to a term not exceeding the unexpired term of the original mortgage; and (D) be insured under the same section as the original mortgage. The Secretary may provide insurance pursuant to paragraph (2) or (3), or pursuant to both such paragraphs, in connection with an existing project mortgage, except that the Secretary may not provide insurance pursuant to both such paragraphs in connection with the same period of months referred to in paragraphs (2)(B) and (3)(B). The Secretary is authorized to collect a premium charge for insurance of loans pursuant to this subsection in an amount computed at the same premium rate as is applicable to the original mortgage. This premium shall be payable in cash or in debentures of the insurance fund under which the loan is insured at par plus accrued interest. In the event of a failure of the borrower to make any payment due under such loan or under the original mortgage, both the loan and original mortgage shall be considered in default, and if such default continues for a period of thirty days, the lender shall be entitled to insurance benefits, computed in the same manner as for the original mortgage, except that in determining the interest rate under section 1715o of this title for the debentures representing the portion of the claim applicable to the loan, the date of the commitment to insure the loan and the insurance date of the loan shall be taken into consideration rather than the commitment or insurance date for the original mortgage.
+
+* (5) A loan involving a project covered by a mortgage insured under section 1715e of this title that is the obligation of the Cooperative Management Housing Insurance Fund shall be the obligation of such fund, and loans involving projects covered by a mortgage insured under section 1715z–1 of this title or under any section of this subchapter pursuant to subsection (e) of this section shall be the obligation of the Special Risk Insurance Fund.
+
+* (6) In determining the amount of an operating loss loan to be insured pursuant to this subsection, the Secretary shall not reduce such amount solely to reflect any amounts placed in escrow (at the time the existing project mortgage was insured) for initial operating deficits. If an operating loss loan was insured by the Secretary pursuant to this subsection before October 28, 1992, and was reduced solely to reflect the amount placed in escrow for initial operating deficits, the Secretary shall insure, to the extent of the availability of insurance authority provided in appropriation Acts, an increase in the existing loan or a separate loan, in an amount equal to the lesser of (A) the maximum amount permitted under this subsection and the applicable underwriting requirements established by the Secretary and in effect at the time the loan is to be made, or (B) the amount of the escrow for initial operating deficits.
+
+#### (e) Insurance of mortgages executed in connection with repair, rehabilitation, construction, or purchase of property in older, declining urban areas
+* Notwithstanding any of the provisions of this chapter except section 1715c of this title, and without regard to limitations upon eligibility contained in any section of this subchapter or subchapter IX–B, other than the limitation in section 1709(g) of this title, the Secretary is authorized, upon application by the mortgagee, to insure under any section of this subchapter or subchapter IX–B a mortgage executed in connection with the repair, rehabilitation, construction, or purchase of property located in an older, declining urban area in which the conditions are such that one or more of the eligibility requirements applicable to the section or subchapter under which insurance is sought could not be met, if the Secretary finds that (1) the area is reasonably viable, giving consideration to the need for providing adequate housing or group practice facilities for families of low and moderate income in such area, and (2) the property is an acceptable risk in view of such consideration. The insurance of a mortgage pursuant to this subsection shall be the obligation of the Special Risk Insurance Fund.
+
+#### (f) Insurance of mortgages executed in connection with purchase or refinancing of existing multifamily housing project; refinancing of existing debt of existing hospital, or purchase or refinancing of rental rehabilitated property; terms and conditions, etc.
+* (1) Notwithstanding any of the provisions of this chapter, the Secretary is authorized, in his discretion, to insure under any section of this subchapter a mortgage executed in connection with the purchase of refinancing of an existing multifamily housing project or the purchase or refinancing of existing debt of an existing hospital (or existing nursing home, existing assisted living facility, existing intermediate care facility, existing board and care home, or any combination thereof).
+
+* (2) In the case of the purchase or refinancing under this subsection of a multifamily housing project located in an older, declining urban area, the Secretary shall make available an amount not to exceed $30,000,000 of available purchase authority pursuant to section 1720 of this title to reduce interest rates on low- and moderate-income rental housing in projects having 100 units or less which otherwise could not support refinancing and moderate rehabilitation without causing excessive rent burdens on current tenants due to rent increases. The Secretary shall prescribe such terms and conditions as he deems necessary to assure that—
+
+  * (A) the refinancing is used to lower the monthly debt service only to the extent necessary to assure the continued economic viability of the project, taking into account any rent reductions to be implemented by the mortgagor; and
+
+  * (B) during the mortgage term no rental increases shall be made except those which are necessary to offset actual and reasonable operating expense increases or other necessary expense increases and maintain reasonable profit levels approved by the Secretary.
+
+
+* (3) For all insurance authorized by this subsection and provided pursuant to a commitment entered into after October 8, 1980, the Secretary may not accept an offer to prepay or request refinancing of a mortgage secured by rental housing unless the Secretary takes appropriate action that will obligate the borrower (and successors in interest thereof) to utilize the property as a rental property for a period of five years from the date on which the insurance was provided (twenty years in the case of any such mortgage purchased under section 1720 of this title) unless the Secretary finds that—
+
+  * (A) the conversion of the property to a cooperative, or condominium form of ownership is sponsored by a bona fide tenants' organization representing a majority of the households in the project;
+
+  * (B) continuance of the property as rental housing is clearly unnecessary to assure adequate rental housing opportunities for low- and moderate-income people in the community; or
+
+  * (C) continuance of the property as rental housing would have an undesirable and deleterious effect on the surrounding neighborhood.
+
+
+* (4) In the case of refinancing of an existing hospital (or existing nursing home, existing assisted living facility, existing intermediate care facility, existing board and care home, or any combination thereof) the Secretary shall prescribe such terms and conditions as the Secretary deems necessary to assure that—
+
+  * (A) the refinancing is employed to lower the monthly debt service costs (taking into account any fees or charges connected with such refinancing) of such existing hospital (or existing nursing home, existing assisted living facility, existing intermediate care facility, existing board and care home, or any combination thereof);
+
+  * (B) the proceeds of any refinancing will be employed only to retire the existing indebtedness and pay the necessary cost of refinancing on such existing hospital (or existing nursing home, existing assisted living facility, existing intermediate care facility, existing board and care home, or any combination thereof);
+
+  * (C) such existing hospital (or existing nursing home, existing assisted living facility, existing intermediate care facility, existing board and care home, or any combination thereof) is economically viable; and
+
+  * (D) the applicable requirements for certificates, studies, and statements of section 1715w of this title (for the existing nursing home, existing assisted living facility, intermediate care facility, board and care home, or any combination thereof, proposed to be refinanced) or of section 1715z–7 of this title (for the existing hospital proposed to be refinanced) have been met.
+
+
+* (5) In the case of any purchase or refinancing under this subsection involving property to be rehabilitated or developed under section 1437o of title 42, the Secretary may—
+
+  * (A) include rehabilitation or development costs of not to exceed $20,000 per unit, except that the Secretary may increase such amount by not to exceed 25 per centum for specific properties where cost levels so require;
+
+  * (B) permit subordinated liens securing up to the full amount of mortgage financing provided by State or local governments or agencies thereof; and
+
+  * (C) pay such benefits in cash unless the mortgagee submits a written request for debenture payment.
+
+#### (g) Insurance of mortgages covering multifamily housing projects including units not self-contained
+* Notwithstanding any other provisions of this chapter, the Secretary may, in his discretion, insure a mortgage covering a multifamily housing project including units which are not self-contained.

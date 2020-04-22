@@ -1,0 +1,10 @@
+### **CHAPTER 4—LEASE OF GOLD, SILVER, OR QUICKSILVER DEPOSITS WHEN TITLE CONFIRMED BY COURT OF PRIVATE LAND CLAIMS**
+
+### §291. Lease of gold, silver, or quicksilver deposits on lands title to which confirmed by Court of Private Land Claims
+* All gold, silver, or quicksilver deposits, or mines or minerals of the same on lands embraced within any land claim confirmed or hereafter confirmed by decree of the Court of Private Land Claims, and which did not convey the mineral rights to the grantee by the terms of the grant, and to which such grantee has not become otherwise entitled in law or in equity, may be leased by the Secretary of the Interior to the grantee, or to those claiming through or under him, for a period of twenty years, with the preferential right in the lessee to renew the same for successive periods of ten years, upon such reasonable terms and conditions as may be prescribed by the Secretary of the Interior, unless otherwise provided by law at the time of the expiration of such periods.
+
+### §292. Royalties and rentals; disposition
+* For the privilege of mining or extracting the gold, silver, or quicksilver deposits in the land covered by such lease, the lessee shall pay to the United States a royalty, which shall not be less than 5 per centum nor more than 12½ per centum of the net value of the output of the gold, silver, or quicksilver at the mine, due and payable at the end of each month succeeding that of the extraction of the minerals from the mine. All moneys received from royalties and rentals under the provisions of this chapter shall be deposited in the Treasury of the United States, and disposed of in the same manner as rentals and royalties under the provisions of section 191 of this title.
+
+### §293. Duties of Secretary of the Interior
+* The Secretary of the Interior is hereby authorized to perform any and all acts and to make such rules and regulations as may be necessary and proper for the purpose of carrying this chapter into full force and effect.

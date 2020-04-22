@@ -1,0 +1,13 @@
+### PART B—MASAU TRAIL
+
+### §460uu–11. Designation
+* In order to provide for public appreciation, education, understanding, and enjoyment of certain nationally significant sites of antiquity in New Mexico and eastern Arizona which are accessible by public road, the Secretary, acting through the Director of the National Park Service, with the concurrence of the agency having jurisdiction over such roads, is authorized to designate, by publication of a description thereof in the Federal Register, a vehicular tour route along existing public roads linking prehistoric and historic cultural sites in New Mexico and eastern Arizona. Such a route shall be known as the Masau Trail (hereinafter referred to as the "trail").
+
+### §460uu–12. Areas included
+* The trail shall include public roads linking El Malpais National Monument as established pursuant to part A of this subchapter, El Morro National Monument, Chaco Cultural National Historical Park, Aztec Ruins National Monument, Canyon De Chelly National Monument, Pecos National Monument, Gila Cliff Dwellings National Monument, Zuni-Cibola National Historical Park, and Petroglyph National Monument. The Secretary may, in the manner set forth in section 460uu–11 of this title, designate additional segments of the trail from time to time as appropriate to link the foregoing sites with other cultural sites or sites of national significance when such sites are designated and protected by Federal, State, or local governments, Indian tribes, or nonprofit entities.
+
+### §460uu–13. Information and interpretation
+* With respect to sites linked by segments of the trail which are administered by other Federal, State, local, tribal, or nonprofit entities, the Secretary may, pursuant to cooperative agreements with such entities, provide technical assistance in the development of interpretive devices and materials in order to contribute to public appreciation of the natural and cultural resources of the sites along the trail. The Secretary, in cooperation with State and local governments, Indian tribes, and nonprofit entities, shall prepare and distribute informational material for the public appreciation of sites along the trail.
+
+### §460uu–14. Markers
+* The trail shall be marked with appropriate markers to guide the public. With the concurrence and assistance of the State or local entity having jurisdiction over the roads designated as part of the trail, the Secretary may erect thereon and maintain signs and other informational devices displaying the Masau Trail Marker. The Secretary is authorized to accept the donation of suitable signs and other informational devices for placement at appropriate locations.

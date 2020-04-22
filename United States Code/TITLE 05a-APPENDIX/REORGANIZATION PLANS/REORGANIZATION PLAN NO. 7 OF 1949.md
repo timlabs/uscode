@@ -1,0 +1,40 @@
+## **REORGANIZATION PLAN NO. 7 OF 1949**
+#### Eff. Aug. 20, 1949, 14 F.R. 5228, 63 Stat. 1070, as amended Jan. 12, 1983, Pub. L. 97–449, §2(b), 96 Stat. 2439
+* Prepared by the President and transmitted to the Senate and the House of Representatives in Congress assembled, June 20, 1949, pursuant to the provisions of the Reorganization Act of 1949, approved June 20, 1949 [see 5 U.S.C. 901 et seq.].
+
+#### PUBLIC ROADS ADMINISTRATION
+#### Section 1. Transfer of Public Roads Administration
+* The Public Roads Administration, together with its functions, including the functions of the Commissioner of Public Roads, is hereby transferred to the Department of Transportation and shall be administered by the Commissioner of Public Roads subject to the direction and control of the Secretary of Transportation.
+
+#### Sec. 2. Transfer of Certain Functions of Federal Works Administrator
+* All functions of the Federal Works Administrator with respect to the agency and functions transferred by the provisions of section 1 hereof are hereby transferred to the Secretary of Transportation and shall be performed by the Secretary or, subject to his direction and control, by such officers, employees, and agencies of the Department of Transportation as the Secretary shall designate.
+
+#### Sec. 3. Records, Property, Personnel, and Funds
+* There are hereby transferred to the Department of Transportation, to be used, employed, and expended in connection with the functions transferred by the provisions of this reorganization plan, the records and property now being used or held in connection with such functions, the personnel employed in connection with such functions, together with the Commissioner of Public Roads, and the unexpended balances of appropriations, allocations, and other funds available or to be made available for use in connection with such functions. Such further measures and dispositions as the Director of the Bureau of the Budget shall determine to be necessary in order to effectuate the transfers provided for in this section shall be carried out in such manner as the Director shall direct and by such agencies as he shall designate.
+
+#### Sec. 4. Effect of Reorganization Plan
+* The provisions of this reorganization plan shall become effective notwithstanding the status of the Public Roads Administration within the Federal Works Agency or within any other agency immediately prior to the effective date of this reorganization plan.
+
+#### Message of the President
+* To the Congress of the United States:
+
+* I transmit herewith Reorganization Plan No. 7 of 1949, prepared in accordance with the provisions of the Reorganization Act of 1949. This plan transfers the Public Roads Administration to the Department of Commerce. After investigation I have found and hereby declare that each reorganization included in this plan is necessary to accomplish one or more of the purposes set forth in section 2(a) of the Reorganization Act of 1949.
+
+* This plan directly carries out the recommendation of the Commission on Organization of the Executive Branch of the Government with respect to the Public Roads Administration. That the Department of Commerce is the appropriate location for the Public Roads Administration in the executive branch is evident from the nature of its functions and the basic purpose of the Department. The Public Roads Administration is primarily engaged in planning and financing the development of the highways which provide the essential facilities for motor transportation throughout the country. Thus, it comes directly within the purpose of the Department of Commerce, as defined by its organic act, which provides:
+
+  * It shall be the province and duty of said Department to foster, promote, and develop the foreign and domestic commerce&nbsp;\*&nbsp;\*&nbsp;\*&nbsp;and the transportation facilities of the United States.
+
+* In its reorganization proposals the Commission on Organization of the Executive Branch of the Government adhered to the statutory definition of the functions and role of the Department of Commerce. President Franklin D. Roosevelt and the Congress likewise were guided by this concept of the Department in transferring to it the Civil Aeronautics Administration and the Inland Waterways Corporation under the Reorganization Act of 1939. A careful review of the structure of the executive branch reveals no other department or agency in which the Public Roads Administration can so appropriately be located.
+
+* The desirability of this transfer of the Public Roads Administration is further emphasized by its relation to the Federal Property and Administrative Services bill now pending in the Senate. This bill creates a new General Services Administration and concentrates in it the principal central administrative service programs of the executive branch. The bill also revises the basic legislation on property management. It has been passed by the House of Representatives by an overwhelming vote and unanimously reported by the Senate Committee on Expenditures in the Executive Departments and awaits final action on the floor of the Senate. This measure substantially conforms to recommendations which I submitted to the Congress more than a year ago and to proposals more recently presented by the Commission on Organization of the Executive Branch of the Government, with which I concur. The enactment of this bill will constitute an important step in increasing the efficiency of Federal administration. Since the bill makes permanent provision for the disposal of surplus property, now handled by the War Assets Administration which will expire by law on June 30, early enactment is vital.
+
+* In establishing the General Services Administration the Federal Property and Administrative Services bill transfers to the Administration all of the functions and units of the Federal Works Agency. Part of these functions relating to the housing of the governmental establishment clearly fall within the purpose of such an Administration. Certain other functions of the Federal Works Agency, however, bear very little real relation to the objectives of the General Services Administration. The congressional committees which have dealt with the bill have frankly indicated that further consideration must be given to the proper location of some of the programs of the Federal Works Agency. The sooner these unrelated programs can be removed from the new agency, the sooner it can concentrate its efforts upon improving administrative services throughout the executive branch and make the contribution to governmental efficiency for which it has been designed.
+
+* Principal among the programs of the Federal Works Agency which are unrelated to the General Services Administration are those of the Public Roads Administration. This agency is primarily engaged in the administration of Federal grants to States for highway purposes rather than in the performance of services for other Federal agencies. Its functions, therefore, do not fall within the field of activities of the General Services Administration. Their inclusion cannot but complicate and impede the development of the General Services Administration in the performance of its intended purpose. This reorganization plan will eliminate such a difficulty.
+
+* Since the Public Roads Administration will be transferred bodily from one major agency to another, it is not to be expected that this reorganization will directly result in any appreciable reduction in its expenditures at this time. However, the plan will make for better organization and direction of Federal programs relating to transportation. Assuming the early enactment of the Federal Property and Administrative Services bill, the plan will also materially simplify the development of the proposed General Services Administration and thereby facilitate improvements in the efficiency of administrative services throughout the Government.
+
+HARRY S. TRUMAN.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+* THE WHITE HOUSE, June 20, 1949.

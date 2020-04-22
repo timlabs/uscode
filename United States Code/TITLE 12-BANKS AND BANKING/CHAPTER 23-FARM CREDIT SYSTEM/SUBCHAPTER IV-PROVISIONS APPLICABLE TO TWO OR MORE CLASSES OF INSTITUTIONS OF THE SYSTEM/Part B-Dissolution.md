@@ -1,0 +1,30 @@
+### PART B—DISSOLUTION
+
+### §2183. Dissolution; voluntary or involuntary liquidation; mergers; receiverships or conservators
+#### (a) Voluntary liquidation; consent of Farm Credit Administration; rules and regulations; minimization of adverse effect; voluntary merger; mandatory merger on failure to comply or meet obligations
+* No institution of the System shall go into voluntary liquidation without the consent of the Farm Credit Administration and with such consent may liquidate only in accordance with regulations prescribed by the Farm Credit Administration. In the case of a voluntary liquidation of an association, such regulations, among other things, shall direct the supervising bank to institute such measures as it deems appropriate to minimize the adverse effect of the liquidation on those borrowers whose loans are purchased by or otherwise transferred to another System institution. The Farm Credit Administration Board may require an association to merge with another association whenever it determines, with the concurrence of the board of the supervising bank, that an association has failed to meet its outstanding obligations or failed to conduct its operations in accordance with this chapter.
+
+#### (b) Appointment of conservator or receiver; grounds; action for removal; stay of actions or proceedings
+* The Farm Credit Administration Board may appoint a conservator or receiver for any System institution on the determination by the Farm Credit Administration Board that one or more of the following exists, or is occurring, with respect to the institution: (1) insolvency, in that the assets of the institution are less than its obligations to its creditors and others, including its members; (2) substantial dissipation of assets or earnings due to any violation of law, rules, or regulations, or to any unsafe or unsound practice; (3) an unsafe or unsound condition to transact business; (4) willful violation of a cease and desist order that has become final; (5) concealment of books, papers, records, or assets of the institution or refusal to submit books, papers, records, or other material relating to the affairs of the institution for inspection to any examiner or to any lawful agent of the Farm Credit Administration; (6) the institution is unable to timely pay principal or interest on any insured obligation (as defined in section 2277a(3) of this title) issued by the institution. The Farm Credit Administration Board shall have exclusive power and jurisdiction to appoint a conservator or receiver, and such receiver or conservator, after the 5-year period beginning on January 6, 1988, shall be the Farm Credit System Insurance Corporation. If the Farm Credit Administration Board determines that a ground for the appointment of a conservator or receiver as herein provided exists, the Farm Credit Administration Board may appoint ex parte and without notice a conservator or receiver for the institution. In the event of such appointment, the institution, within thirty days thereafter, may bring an action in the United States district court for the judicial district in which the home office of such institution is located, or in the United States District Court for the District of Columbia, for an order requiring the Farm Credit Administration Board to remove such conservator or receiver, and the court shall on the merits, dismiss such action or direct the Farm Credit Administration Board to remove such conservator or receiver. On the commencement of such an action, the court having jurisdiction of any other action or enforcement proceeding authorized under this chapter to which the institution is a party shall stay such action or proceeding during the pendency of the action for removal of the conservator or receiver.
+
+#### (c) Involuntary liquidation; rules and regulations; minimization of adverse effect
+* In the case of an involuntary liquidation of an association, regulations of the Farm Credit Administration, among other things, shall direct the supervising bank to institute such measures as it deems appropriate to minimize the adverse effect of the liquidation on those borrowers whose loans are purchased by or otherwise transferred to another System institution.
+
+### §2184. Communications with stockholders
+#### (a) Provision of stockholder lists
+* #### (1) In general
+  * A Farm Credit System bank or association shall provide to a stockholder of the bank or association a current list of stockholders of the bank or association not later than 7 calendar days after the date on which the bank or association receives a written request for the stockholder list from the stockholder.
+
+* #### (2) Conditions
+  * As a condition of providing a stockholder list under paragraph (1), the bank or association may require that the stockholder agree and certify in writing that the stockholder will—
+
+    * (A) use the list exclusively for communicating with stockholders for permissible purposes; and
+
+    * (B) not make the list available to any person, other than the stockholder's attorney or accountant, without first obtaining the written consent of the institution.
+
+#### (b) Alternative communications
+* #### (1) Request to issue
+  * As an alternative to receiving a list of stockholders, a stockholder may request the institution to mail or otherwise furnish to each stockholder a communication for a permissible purpose on behalf of the requesting stockholder.
+
+* #### (2) When permissible
+  * Alternative communications may be used, at the discretion of the requesting stockholder, if the requester agrees to defray the reasonable costs of the communication. If the requester decides to exercise this option, the institution shall provide the requester with a written estimate of the costs of handling and mailing the communication as soon as is practicable after receipt of the stockholder's request to furnish the communication.

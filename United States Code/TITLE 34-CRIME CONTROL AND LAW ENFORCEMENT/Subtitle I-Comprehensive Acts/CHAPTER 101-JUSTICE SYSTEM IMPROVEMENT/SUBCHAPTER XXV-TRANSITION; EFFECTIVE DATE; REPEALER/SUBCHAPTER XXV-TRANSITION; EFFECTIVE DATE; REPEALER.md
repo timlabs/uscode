@@ -1,0 +1,34 @@
+### SUBCHAPTER XXV—TRANSITION; EFFECTIVE DATE; REPEALER
+
+### §10541. Continuation of rules, authorities, and proceedings
+#### (a) Continuing status until otherwise affected
+* (1) All orders, determinations, rules, regulations, and instructions of the Law Enforcement Assistance Administration which are in effect on December 27, 1979, shall continue in effect according to their terms until modified, terminated, superseded, set aside, or revoked by the President or the Attorney General, the Office of Justice Assistance, Research, and Statistics or the Director of the Bureau of Justice Statistics, the National Institute of Justice, or the Administrator of the Law Enforcement Assistance Administration with respect to their functions under this chapter or by operation of law.
+
+* (2) All orders, determinations, rules, regulations, and instructions issued under this chapter which are in effect on October 12, 1984, shall continue in effect according to their terms until modified, terminated, superseded, set aside, or revoked by the President, the Attorney General, the Assistant Attorney General, the Director of the Bureau of Justice Statistics, the Director of the National Institute of Justice, the Administrator of the Office of Juvenile Justice and Delinquency Prevention, or the Director of the Bureau of Justice Assistance with respect to their functions under this chapter or by operation of law.
+
+#### (b) Obligation by Director of National Institute of Justice of previously appropriated unused or reversionary funds for continuation of research and development projects or purposes of this chapter
+* The Director of the National Institute of Justice may award new grants, enter into new contracts or cooperative agreements, or otherwise obligate previously appropriated unused or reversionary funds for the continuation of research and development projects in accordance with the provisions of this chapter as in effect on the day before December 27, 1979, based upon applications received under this chapter before December 27, 1979, or for purposes consistent with provisions of this chapter.
+
+#### (c) Obligation by Director of Bureau of Justice Statistics of pre-fiscal year 1980 appropriated funds for statistical projects or purposes of this chapter
+* The Director of the Bureau of Justice Statistics may award new grants, enter into new contracts or cooperative agreements or otherwise obligate funds appropriated for fiscal years before 1980 for statistical projects to be expended in accordance with the provisions of this chapter, as in effect on the day before December 27, 1979, based upon applications received under this chapter before December 27, 1979, or for purposes consistent with provisions of this chapter.
+
+#### (d) Obligation by Administrator of Law Enforcement Assistance Administration of previously appropriated unused or reversionary funds or presently appropriated funds for continuation of projects or purposes of this chapter
+* The Administrator of the Law Enforcement Assistance Administration may award new grants, enter into new contracts or cooperative agreements, approve comprehensive plans for the fiscal year beginning October 1, 1979, and otherwise obligate previously appropriated unused or reversionary funds or funds appropriated for the fiscal year beginning October 1, 1979, for the continuation of projects in accordance with the provisions of this chapter, as in effect on the day before December 27, 1979, or for purposes consistent with provisions of this chapter.
+
+#### (e) Pending suits, actions, or other proceedings unaffected
+* The amendments made to this chapter by the Justice System Improvement Act of 1979 shall not affect any suit, action, or other proceeding commenced by or against the Government before December 27, 1979.
+
+#### (f) Appropriated funds available for audit matters and continuing programs and projects
+* Nothing in this chapter prevents the utilization of funds appropriated for purposes of this chapter for all activities necessary or appropriate for the review, audit, investigation, and judicial or administrative resolution of audit matters for those grants or contracts that were awarded under this chapter. The final disposition and dissemination of program and project accomplishments with respect to programs and projects approved in accordance with this chapter, as in effect before December 27, 1979, which continue in operation beyond December 27, 1979, may be carried out with funds appropriated for purposes of this chapter.
+
+#### (g) Transfer of personnel pursuant to performance-of-functions standard; determination of interim positions for Administrator and Deputy Administrators by Attorney General
+* Except as otherwise provided in this chapter, the personnel employed on December 27, 1979, by the Law Enforcement Assistance Administration are transferred as appropriate to the Office of Justice Assistance, Research, and Statistics, the National Institute of Justice or the Bureau of Justice Statistics, considering the function to be performed by these organizational units and the functions previously performed by the employee. Determinations as to specific positions to be filled in an acting capacity for a period of not more than ninety days by the Administrator and Deputy Administrators employed on December 27, 1979, may be made by the Attorney General notwithstanding any other provision of law.
+
+#### (h) Unobligated funds of a State or unit of local government available for cost of any program or project
+* Any funds made available under subchapters II, III, and V of this chapter, as in effect before December 27, 1979, which are not obligated by a State or unit of local government, may be used to provide up to 100 per centum of the cost of any program or project.
+
+#### (i) State criminal justice council as the State planning agency for carrying out predecessor provisions
+* Notwithstanding any other provision of this chapter, all provisions of this chapter, as in effect on the day before December 27, 1979, which are necessary to carry out the provisions of the Juvenile Justice and Delinquency Prevention Act of 1974 [34 U.S.C. 11101 et seq.], remain in effect for the sole purpose of carrying out the Juvenile Justice and Delinquency Prevention Act of 1974, and the State criminal justice council established under this chapter shall serve as the State planning agency for the purposes of the Juvenile Justice and Delinquency Prevention Act of 1974.
+
+#### (j) Construction project funding for additional two years
+* Notwithstanding the provisions of section 404(c)(3), any construction projects which were funded under this chapter, as in effect before December 27, 1979, and which were budgeted in anticipation of receiving additional Federal funding for such construction may continue for two years to be funded under this chapter.

@@ -1,0 +1,13 @@
+### SUBCHAPTER XIV—COMPENSATION FOR PRIVATE PROPERTY ACQUIRED
+
+### §2221. Just compensation for requisitioned property
+* The United States shall make just compensation for any property or interests therein taken or requisitioned pursuant to sections 2063, 2075, 2096, and 2138 of this title. Except in case of real property or any interest therein, the Commission shall determine and pay such just compensation. If the compensation so determined is unsatisfactory to the person entitled thereto, such person shall be paid 75 per centum of the amount so determined, and shall be entitled to sue the United States in the United States Court of Federal Claims or in any district court of the United States for the district in which such claimant is a resident in the manner provided by section 1346 of title 28 to recover such further sum as added to said 75 per centum will constitute just compensation.
+
+### §2222. Condemnation of real property
+* Proceedings for condemnation shall be instituted pursuant to the provisions of section 3113 of title 40, and section 1403 of title 28. Sections 3114 to 3116 and 3118 of title 40 shall be applicable to any such proceedings.
+
+### §2223. Patent application disclosures
+* In the event that the Commission communicates to any nation any Restricted Data based on any patent application not belonging to the United States, just compensation shall be paid by the United States to the owner of the patent application. The Commission shall determine such compensation. If the compensation so determined is unsatisfactory to the person entitled thereto, such person shall be paid 75 per centum of the amount so determined, and shall be entitled to sue the United States in the United States Court of Federal Claims or in any district court of the United States for the district in which such claimant is a resident in a manner provided by section 1346 of title 28 to recover such further sum as added to such 75 per centum will constitute just compensation.
+
+### §2224. Attorney General approval of title
+* All real property acquired under this chapter shall be subject to the provisions of sections 3111 and 3112 of title 40: _Provided, however_, That real property acquired by purchase or donation, or other means of transfer may also be occupied, used, and improved for the purposes of this chapter prior to approval of title by the Attorney General in those cases where the President determines that such action is required in the interest of the common defense and security.

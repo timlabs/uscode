@@ -1,0 +1,15 @@
+### SUBCHAPTER VIII—COMMUNITY RELATIONS SERVICE
+
+### §2000g. Establishment of Service; Director of Service: appointment, term; personnel
+* There is hereby established in and as a part of the Department of Commerce a Community Relations Service (hereinafter referred to as the "Service"), which shall be headed by a Director who shall be appointed by the President with the advice and consent of the Senate for a term of four years. The Director is authorized to appoint, subject to the civil service laws and regulations, such other personnel as may be necessary to enable the Service to carry out its functions and duties, and to fix their compensation in accordance with chapter 51 and subchapter III of chapter 53 of title 5.
+
+### §2000g–1. Functions of Service
+* It shall be the function of the Service to provide assistance to communities and persons therein in resolving disputes, disagreements, or difficulties relating to discriminatory practices based on race, color, or national origin which impair the rights of persons in such communities under the Constitution or laws of the United States or which affect or may affect interstate commerce. The Service may offer its services in cases of such disputes, disagreements, or difficulties whenever, in its judgment, peaceful relations among the citizens of the community involved are threatened thereby, and it may offer its services either upon its own motion or upon the request of an appropriate State or local official or other interested person.
+
+### §2000g–2. Cooperation with other agencies; conciliation assistance in confidence and without publicity; information as confidential; restriction on performance of investigative or prosecuting functions; violations and penalties
+* (a) The Service shall, whenever possible, in performing its functions, seek and utilize the cooperation of appropriate State or local, public, or private agencies.
+
+* (b) The activities of all officers and employees of the Service in providing conciliation assistance shall be conducted in confidence and without publicity, and the Service shall hold confidential any information acquired in the regular performance of its duties upon the understanding that it would be so held. No officer or employee of the Service shall engage in the performance of investigative or prosecuting functions of any department or agency in any litigation arising out of a dispute in which he acted on behalf of the Service. Any officer or other employee of the Service, who shall make public in any manner whatever any information in violation of this subsection, shall be deemed guilty of a misdemeanor and, upon conviction thereof, shall be fined not more than $1,000 or imprisoned not more than one year.
+
+### §2000g–3. Reports to Congress
+* Subject to the provisions of sections 2000a–4 and 2000g–2(b) of this title, the Director shall, on or before January 31 of each year, submit to the Congress a report of the activities of the Service during the preceding fiscal year.

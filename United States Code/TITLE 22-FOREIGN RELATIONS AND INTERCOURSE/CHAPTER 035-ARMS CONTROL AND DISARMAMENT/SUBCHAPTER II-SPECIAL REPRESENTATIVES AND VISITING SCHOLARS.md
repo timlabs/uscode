@@ -1,0 +1,7 @@
+### SUBCHAPTER II—SPECIAL REPRESENTATIVES AND VISITING SCHOLARS
+
+### §2567. Presidential Special Representatives
+* The President may appoint, by and with the advice and consent of the Senate, Special Representatives of the President for arms control, nonproliferation, and disarmament matters. Each Presidential Special Representative shall hold the rank of ambassador. Presidential Special Representatives appointed under this section shall perform their duties and exercise their powers under the direction of the President and the Secretary of State. The Department of State shall be the Government agency responsible for providing administrative support, including funding, staff, and office space, to all Presidential Special Representatives.
+
+### §2568. Program for visiting scholars
+* A program for visiting scholars in the fields of arms control, nonproliferation, and disarmament shall be established by the Secretary of State in order to obtain the services of scholars from the faculties of recognized institutions of higher learning. The purpose of the program will be to give specialists in the physical sciences and other disciplines relevant to the Department of State's activities an opportunity for active participation in the arms control, nonproliferation, and disarmament activities of the Department of State and to gain for the Department of State the perspective and expertise such persons can offer. Each fellow in the program shall be appointed for a term of one year, except that such term may be extended for a 1-year period.

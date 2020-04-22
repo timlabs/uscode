@@ -1,0 +1,2 @@
+## **REORGANIZATION PLAN NO. 12 OF 1950**
+* Reorganization Plan No. 12 of 1950, which proposed reorganizations in the National Labor Relations Board, was submitted to Congress on Mar. 13, 1950, and was disapproved by the Senate on May 11, 1950.

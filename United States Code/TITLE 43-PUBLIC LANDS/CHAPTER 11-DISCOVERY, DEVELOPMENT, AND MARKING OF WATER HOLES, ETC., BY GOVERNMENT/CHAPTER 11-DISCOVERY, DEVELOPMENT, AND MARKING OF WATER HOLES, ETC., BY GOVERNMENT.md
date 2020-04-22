@@ -1,0 +1,10 @@
+### **CHAPTER 11—DISCOVERY, DEVELOPMENT, AND MARKING OF WATER HOLES, ETC., BY GOVERNMENT**
+
+### §361. Authority to explore for, develop, and mark water holes, etc.
+* The Secretary of the Interior is authorized and empowered, in his discretion in so far as the authorization made herein will permit, to discover, develop, protect, and render more accessible for the benefit of the general public, springs, streams, and water holes on arid public lands of the United States; and in connection therewith to erect and maintain suitable and durable monuments and signboards at proper places and intervals along and near the accustomed lines of travel and over the general area of said desert lands, containing information and directions as to the location and nature of said springs, streams, and water holes, to the end that the same may be more readily traced and found by persons in search or need thereof; also to provide convenient and ready means, apparatus, and appliances by which water may be brought to the earth's surface at said water holes for the use of such persons; also to prepare and distribute suitable maps, reports, and general information relating to said springs, streams, and water holes, and their specific location with reference to lines of travel.
+
+### §362. Injury to signposts and filling up or fouling water supply
+* Whoever shall willfully or maliciously injure, destroy, deface, or remove any of said monuments or signposts, or shall willfully or maliciously fill up, render foul, or in anywise destroy or impair the utility of said springs, streams, or water holes, or shall willfully or maliciously interfere with said monuments, signposts, streams, springs, or water holes, or the purposes for which they are maintained and used, shall be fined not more than $1,000 or imprisoned not more than three years, or both.
+
+### §363. Rules and regulations by Secretary
+* The Secretary of the Interior is authorized to perform any and all acts and make such rules and regulations as may be necessary for the purpose of carrying the provisions of this chapter into full force and effect.

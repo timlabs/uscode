@@ -1,0 +1,2 @@
+## **REORGANIZATION PLAN NO. 6 OF 1949**
+* Reorg. Plan No. 6 of 1949, 14 F.R. 5228, 63 Stat. 1069, which related to the United States Maritime Commission, was repealed by Pub. L. 109–304, §19, Oct. 6, 2006, 120 Stat. 1710. See section 301 of Title 46, Shipping.

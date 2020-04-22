@@ -1,0 +1,2 @@
+## **REORGANIZATION PLAN NO. 1 OF 1967**
+* Reorganization Plan No. 1 of 1967, 32 F.R. 7049, 81 Stat. 947, which transferred certain functions relating to ship mortgages from the Secretary of Commerce to the Secretary of Transportation, was repealed by Pub. L. 100–710, title I, §106(b)(4), Nov. 23, 1988, 102 Stat. 4752.

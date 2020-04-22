@@ -1,0 +1,2 @@
+## **REORGANIZATION PLAN NO. 2 OF 1947**
+* Reorganization Plan No. 2 of 1947, which proposed to permanently transfer the United States Employment Service to the Department of Labor, to transfer functions of the Administrator of the Wage and Hour Division to the Secretary of Labor, and to authorize the Secretary of Labor to coordinate administration of the acts for regulation of wages and hours on Federal public works, was submitted to Congress on May 1, 1947, and was disapproved by Congress on June 30, 1947.

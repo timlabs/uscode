@@ -1,0 +1,2 @@
+## **REORGANIZATION PLAN NO. 7 OF 1953**
+* Reorg. Plan No. 7 of 1953, 18 F.R. 4541, 67 Stat. 639, which established the Foreign Operations Administration and transferred certain functions to the Director, including functions of the Director for Mutual Security, was repealed by Pub. L. 87–195, pt. III, §642(a)(1), Sept. 4, 1961, 75 Stat. 460.

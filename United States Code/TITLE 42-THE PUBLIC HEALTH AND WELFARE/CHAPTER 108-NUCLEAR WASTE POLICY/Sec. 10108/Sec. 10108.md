@@ -1,0 +1,2 @@
+### §10108. Applicability to transportation
+* Nothing in this chapter shall be construed to affect Federal, State, or local laws pertaining to the transportation of spent nuclear fuel or high-level radioactive waste.

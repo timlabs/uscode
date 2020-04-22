@@ -1,0 +1,2 @@
+### §1714. Taxation
+* Nothing in this subchapter shall be construed to exempt any real property acquired and held by the Secretary under this subchapter from taxation by any State or political subdivision thereof, to the same extent, according to its value, as other real property is taxed.

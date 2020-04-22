@@ -1,0 +1,9 @@
+### SUBCHAPTER II—EMERGENCY ASSISTANCE
+
+### §102711. Authority of Secretary to use applicable appropriations for the System to render assistance to nearby law enforcement and fire prevention agencies and for related activities outside the System
+* To facilitate the administration of the System, the Secretary may use applicable appropriations for the System to render emergency rescue, firefighting, and cooperative assistance to nearby law enforcement and fire prevention agencies and for related purposes outside the System.
+
+### §102712. Aid to visitors, grantees, permittees, or licensees in emergencies
+* (a) VISITORS.—The Secretary may aid visitors within a System unit in an emergency, when no other source is available for the procurement of food or supplies, by the sale, at cost, of food or supplies in quantities sufficient to enable the visitors to reach safely a point where food or supplies can be purchased. Receipts from the sales shall be deposited as a refund to the appropriation current at the date of the deposit and shall be available for the purchase of similar food or supplies.
+
+* (b) GRANTEES, PERMITTEES, AND LICENSEES.—The Secretary may in an emergency, when no other source is available for the immediate procurement of supplies, materials, or special services, aid grantees, permittees, or licensees conducting operations for the benefit of the public in a System unit by the sale, at cost, including transportation and handling, of supplies, materials, or special services as may be necessary to relieve the emergency and ensure uninterrupted service to the public. Receipts from the sales shall be deposited as a refund to the appropriation current at the date of the deposit and shall be available for expenditure for System unit purposes.

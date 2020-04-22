@@ -1,0 +1,7 @@
+### SUBCHAPTER II—WORKER PROTECTION
+
+### §4853. Worker protection
+* Not later than 180 days after October 28, 1992, the Secretary of Labor shall issue an interim final regulation regulating occupational exposure to lead in the construction industry. Such interim final regulation shall provide employment and places of employment to employees which are as safe and healthful as those which would prevail under the Department of Housing and Urban Development guidelines published at Federal Register 55, page 38973 (September 28, 1990) (Revised Chapter 8). Such interim final regulations shall take effect upon issuance (except that such regulations may include a reasonable delay in the effective date), shall have the legal effect of an Occupational Safety and Health Standard, and shall apply until a final standard becomes effective under section 655 of title 29.
+
+### §4853a. Coordination between Environmental Protection Agency and Department of Labor
+* The Secretary of Labor, in promulgating regulations under section 4853 of this title, shall consult and coordinate with the Administrator of the Environmental Protection Agency for the purpose of achieving the maximum enforcement of title IV of the Toxic Substances Control Act [15 U.S.C. 2681 et seq.] and the Occupational Safety and Health Act of 1970 [29 U.S.C. 651 et seq.] while imposing the least burdens of duplicative requirements on those subject to such title and Act and for other purposes.

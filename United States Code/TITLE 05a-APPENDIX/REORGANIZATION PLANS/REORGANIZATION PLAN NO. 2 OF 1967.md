@@ -1,0 +1,2 @@
+## **REORGANIZATION PLAN NO. 2 OF 1967**
+* Reorganization Plan No. 2 of 1967, which proposed to strengthen the operations of the Tariff Commission by transferring to its chairman certain routine executive and administrative functions, was submitted to Congress on March 9, 1967, and was disapproved by the Senate on May 15, 1967.

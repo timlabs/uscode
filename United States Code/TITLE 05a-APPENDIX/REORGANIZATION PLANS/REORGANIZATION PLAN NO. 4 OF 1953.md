@@ -1,0 +1,2 @@
+## **REORGANIZATION PLAN NO. 4 OF 1953**
+* Reorg. Plan No. 4 of 1953, 18 F.R. 3577, 67 Stat. 636, which related to the Department of Justice, was repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 662. See sections 506 and 508 of Title 28, Judiciary and Judicial Procedure.

@@ -1,0 +1,7 @@
+### SUBCHAPTER I—GENERAL PROVISIONS
+
+### §1095. Reservations between sections for highway purposes
+* There shall be reserved public highways four rods wide between each section of land in said former Territory of Oklahoma, the section lines being the center of said highways; but no deduction shall be made, where cash payments are provided for, in the amount to be paid for each quarter section of land by reason of such reservation. But if the said highway shall be vacated by any competent authority, the title to the respective strips shall inure to the then owner of the tract of which it formed a part by the original survey.
+
+### §1099. Division into counties before opening to settlement; reservation for county seats
+* Before any lands in Oklahoma are open to settlement it shall be the duty of the Secretary of the Interior to divide the same into counties which shall contain as near as possible not less than seven hundred square miles in each county: _Provided_, That as soon as the county lines are designated by the Secretary he shall reserve not to exceed one-half section of land in each, to be located near the center of said county, for county seat purposes, to be entered under sections 718 and 719 of this title.

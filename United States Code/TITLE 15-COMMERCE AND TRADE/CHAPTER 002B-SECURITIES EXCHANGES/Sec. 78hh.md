@@ -1,0 +1,2 @@
+### §78hh. Effective date
+* This chapter shall become effective on July 1, 1934, except that sections 78f and 78l(b to e) of this title shall become effective on September 1, 1934; and sections 78e, 78g, 78h, 78i(a)(6), 78j, 78k, 78l(a), 78m, 78n, 78o, 78p, 78q, 78r, 78s, and 78dd of this title shall become effective on October 1, 1934.

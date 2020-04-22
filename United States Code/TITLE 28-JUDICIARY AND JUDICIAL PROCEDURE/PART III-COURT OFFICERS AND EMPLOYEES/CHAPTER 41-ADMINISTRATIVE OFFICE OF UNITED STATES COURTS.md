@@ -1,0 +1,302 @@
+### **CHAPTER 41—ADMINISTRATIVE OFFICE OF UNITED STATES COURTS**
+
+### §601. Creation; Director and Deputy Director
+* The Administrative Office of the United States Courts shall be maintained at the seat of government. It shall be supervised by a Director and a Deputy Director appointed and subject to removal by the Chief Justice of the United States, after consulting with the Judicial Conference. The Director and Deputy Director shall be deemed to be officers for purposes of title 5, United States Code.
+
+### §602. Employees
+* (a) The Director shall appoint and fix the compensation of necessary employees of the Administrative Office in accordance with the Administrative Office of the United States Courts Personnel Act of 1990.
+
+* (b) Notwithstanding any other law, the Director may appoint certified interpreters in accordance with section 604(a)(16)(B) of this title without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5, relating to classification and General Schedule pay rates, but the compensation of any person appointed under this subsection shall not exceed the appropriate equivalent of the highest rate of pay payable for the highest grade established in the General Schedule, section 5332 of title 5.
+
+* (c) The Director may obtain personal services as authorized by section 3109 of title 5, at rates not to exceed the appropriate equivalent of the highest rate of pay payable for the highest grade established in the General Schedule, section 5332 of title 5.
+
+* (d) All functions of other officers and employees of the Administrative Office and all functions of organizational units of the Administrative Office are vested in the Director. The Director may delegate any of the Director's functions, powers, duties, and authority (except the authority to promulgate rules and regulations) to such officers and employees of the judicial branch of Government as the Director may designate, and subject to such terms and conditions as the Director may consider appropriate; and may authorize the successive redelegation of such functions, powers, duties, and authority as the Director may deem desirable. All official acts performed by such officers and employees shall have the same force and effect as though performed by the Director in person.
+
+### §603. Salaries
+* The salary of the Director shall be the same as the salary of a district judge. Notwithstanding any other provision of law, the Director shall not be deemed to be an "employee" for the purpose of subchapter I of chapter 63 of title 5. The salary of the Deputy Director shall be 92 percent of the salary of the Director. The salaries of six additional positions shall be fixed by the Director at rates not to exceed the annual rate of basic pay for positions at level IV of the Executive Schedule under section 5315 of title 5.
+
+### §604. Duties of Director generally
+* (a) The Director shall be the administrative officer of the courts, and under the supervision and direction of the Judicial Conference of the United States, shall:
+
+  * (1) Supervise all administrative matters relating to the offices of clerks and other clerical and administrative personnel of the courts;
+
+  * (2) Examine the state of the dockets of the courts; secure information as to the courts' need of assistance; prepare and transmit semiannually to the chief judges of the circuits, statistical data and reports as to the business of the courts;
+
+  * (3) Submit to the annual meeting of the Judicial Conference of the United States, at least two weeks prior thereto, a report of the activities of the Administrative Office and the state of the business of the courts, together with the statistical data submitted to the chief judges of the circuits under paragraph (a)(2) of this section, and the Director's recommendations, which report, data and recommendations shall be public documents.
+
+  * (4) Submit to Congress and the Attorney General copies of the report, data and recommendations required by paragraph (a)(3) of this section;
+
+  * (5) Fix the compensation of clerks of court, deputies, librarians, criers, messengers, law clerks, secretaries, stenographers, clerical assistants, and other employees of the courts whose compensation is not otherwise fixed by law, and, notwithstanding any other provision of law, pay on behalf of Justices and judges of the United States appointed to hold office during good behavior, United States magistrate judges, bankruptcy judges appointed under chapter 6 of this title, judges of the District Court of Guam, judges of the District Court for the Northern Mariana Islands, judges of the District Court of the Virgin Islands, bankruptcy judges and magistrate judges retired under section 377 of this title, and judges retired under section 373 of this title, who are, aged 65 or over, any increases in the cost of Federal Employees' Group Life Insurance imposed after April 24, 1999, including any expenses generated by such payments, as authorized by the Judicial Conference of the United States;
+
+  * (6) Determine and pay necessary office expenses of courts, judges, and those court officials whose expenses are by law allowable, and the lawful fees of United States magistrate judges;
+
+  * (7) Regulate and pay annuities to widows and surviving dependent children of justices and judges of the United States, judges of the United States Court of Federal Claims, bankruptcy judges, United States magistrate judges, Directors of the Federal Judicial Center, and Directors of the Administrative Office, and necessary travel and subsistence expenses incurred by judges, court officers and employees, and officers and employees of the Administrative Office, and the Federal Judicial Center, while absent from their official stations on official business, without regard to the per diem allowances and amounts for reimbursement of actual and necessary expenses established by the Administrator of General Services under section 5702 of title 5, except that the reimbursement of subsistence expenses may not exceed that authorized by the Director for judges of the United States under section 456 of this title;
+
+  * (8) Disburse appropriations and other funds for the maintenance and operation of the courts;
+
+  * (9) Establish pretrial services pursuant to section 3152 of title 18, United States Code;
+
+  * (10)(A) Purchase, exchange, transfer, distribute, and assign the custody of lawbooks, equipment, supplies, and other personal property for the judicial branch of Government (except the Supreme Court unless otherwise provided pursuant to paragraph (17)); (B) provide or make available readily to each court appropriate equipment for the interpretation of proceedings in accordance with section 1828 of this title; and (C) enter into and perform contracts and other transactions upon such terms as the Director may deem appropriate as may be necessary to the conduct of the work of the judicial branch of Government (except the Supreme Court unless otherwise provided pursuant to paragraph (17)), and contracts for nonpersonal services providing pretrial services, agencies, for the interpretation of proceedings, and for the provision of special interpretation services pursuant to section 1828 of this title may be awarded without regard to section 6101(b) to (d) of title 41;
+
+  * (11) Audit vouchers and accounts of the courts, the Federal Judicial Center, the offices providing pretrial services, and their clerical and administrative personnel;
+
+  * (12) Provide accommodations for the courts, the Federal Judicial Center, the offices providing pretrial services and their clerical and administrative personnel;
+
+  * (13) Lay before Congress, annually, statistical tables that will accurately reflect the business transacted by the several bankruptcy courts, and all other pertinent data relating to such courts;
+
+  * (14) Pursuant to section 1827 of this title, establish a program for the certification and utilization of interpreters in courts of the United States;
+
+  * (15) Pursuant to section 1828 of this title, establish a program for the provision of special interpretation services in courts of the United States;
+
+  * (16)(A) In those districts where the Director considers it advisable based on the need for interpreters, authorize the full-time or part-time employment by the court of certified interpreters; (B) where the Director considers it advisable based on the need for interpreters, appoint certified interpreters on a full-time or part-time basis, for services in various courts when he determines that such appointments will result in the economical provision of interpretation services; and (C) pay out of moneys appropriated for the judiciary interpreters' salaries, fees, and expenses, and other costs which may accrue in accordance with the provisions of sections 1827 and 1828 of this title;
+
+  * (17) In the Director's discretion, (A) accept and utilize voluntary and uncompensated (gratuitous) services, including services as authorized by section 3102(b) of title 5, United States Code; and (B) accept, hold, administer, and utilize gifts and bequests of personal property for the purpose of aiding or facilitating the work of the judicial branch of Government, but gifts or bequests of money shall be covered into the Treasury;
+
+  * (18) Establish procedures and mechanisms within the judicial branch for processing fines, restitution, forfeitures of bail bonds or collateral, and assessments;
+
+  * (19) Regulate and pay annuities to bankruptcy judges and United States magistrate judges in accordance with section 377 of this title and paragraphs (1)(B) and (2) of section 2(c) of the Retirement and Survivors' Annuities for Bankruptcy Judges and Magistrates Act of 1988;
+
+  * (20) Periodically compile—
+
+    * (A) the rules which are prescribed under section 2071 of this title by courts other than the Supreme Court;
+
+    * (B) the rules which are prescribed under section 358 of this title; and
+
+    * (C) the orders which are required to be publicly available under section 360(b) of this title;
+
+
+* so as to provide a current record of such rules and orders;
+
+  * (21) Establish a program of incentive awards for employees of the judicial branch of the United States Government, other than any judge who is entitled to hold office during good behavior;
+
+  * (22) Receive and expend, either directly or by transfer to the United States Marshals Service or other Government agency, funds appropriated for the procurement, installation, and maintenance of security equipment and protective services for the United States Courts in courtrooms and adjacent areas, including building ingress/egress control, inspection of packages, directed security patrols, and other similar activities;
+
+  * (23) Regulate and pay annuities to judges of the United States Court of Federal Claims in accordance with section 178 of this title; and
+
+  * (24) Perform such other duties as may be assigned to him by the Supreme Court or the Judicial Conference of the United States.
+
+
+* (b) The clerical and administrative personnel of the courts shall comply with all requests by the Director for information or statistical data as to the state of court dockets.
+
+* (c) Inspection of court dockets outside the continental United States may be made through United States officials residing within the jurisdiction where the inspection is made.
+
+* (d) The Director, under the supervision and direction of the conference, shall:
+
+  * (1) supervise all administrative matters relating to the offices of the United States magistrate judges;
+
+  * (2) gather, compile, and evaluate all statistical and other information required for the performance of his duties and the duties of the conference with respect to such officers;
+
+  * (3) lay before Congress annually statistical tables and other information which will accurately reflect the business which has come before the various United States magistrate judges, including (A) the number of matters in which the parties consented to the exercise of jurisdiction by a magistrate judge, (B) the number of appeals taken pursuant to the decisions of magistrate judges and the disposition of such appeals, and (C) the professional background and qualifications of individuals appointed under section 631 of this title to serve as magistrate judge;
+
+  * (4) prepare and distribute a manual, with annual supplements and periodic revisions, for the use of such officers, which shall set forth their powers and duties, describe all categories of proceedings that may arise before them, and contain such other information as may be required to enable them to discharge their powers and duties promptly, effectively, and impartially.
+
+
+* (e) The Director may promulgate appropriate rules and regulations approved by the conference and not inconsistent with any provision of law, to assist him in the performance of the duties conferred upon him by subsection (d) of this section. Magistrate judges shall keep such records and make such reports as are specified in such rules and regulations.
+
+* (f) The Director may make, promulgate, issue, rescind, and amend rules and regulations (including regulations prescribing standards of conduct for Administrative Office employees) as may be necessary to carry out the Director's functions, powers, duties, and authority. The Director may publish in the Federal Register such rules, regulations, and notices for the judicial branch of Government as the Director determines to be of public interest; and the Director of the Federal Register hereby is authorized to accept and shall publish such materials.
+
+* (g)(1) When authorized to exchange personal property, the Director may exchange or sell similar items and may apply the exchange allowance or proceeds of sale in such cases in whole or in part payment for the property acquired, but any transaction carried out under the authority of this subsection shall be evidenced in writing.
+
+* (2) The Director hereby is authorized to enter into contracts for public utility services and related terminal equipment for periods not exceeding ten years.
+
+* (3)(A) In order to promote the recycling and reuse of recyclable materials, the Director may provide for the sale or disposal of recyclable scrap materials from paper products and other consumable office supplies held by an entity within the judicial branch.
+
+* (B) The sale or disposal of recyclable materials under subparagraph (A) shall be consistent with the procedures provided in sections 541–555 of title 40 for the sale of surplus property.
+
+* (C) Proceeds from the sale of recyclable materials under subparagraph (A) shall be deposited as offsetting collections to the fund established under section 1931 of this title and shall remain available until expended to reimburse any appropriations for the operation and maintenance of the judicial branch.
+
+* (4) The Director is hereby authorized:
+
+  * (A) to enter into contracts for the acquisition of severable services for a period that begins in one fiscal year and ends in the next fiscal year to the same extent as the head of an executive agency under the authority of section 253l of title 41, United States Code;
+
+  * (B) to enter into contracts for multiple years for the acquisition of property and services to the same extent as executive agencies under the authority of section 254c of title 41, United States Code; and
+
+  * (C) to make advance, partial, progress or other payments under contracts for property or services to the same extent as executive agencies under the authority of section 255 of title 41, United States Code.
+
+
+* (h)(1) The Director shall, out of funds appropriated for the operation and maintenance of the courts, provide facilities and pay necessary expenses incurred by the judicial councils of the circuits and the Judicial Conference under chapter 16 of this title, including mileage allowance and witness fees, at the same rate as provided in section 1821 of this title. Administrative and professional assistance from the Administrative Office of the United States Courts may be requested by each judicial council and the Judicial Conference for purposes of discharging their duties under chapter 16 of this title.
+
+* (2) The Director of the Administrative Office of the United States Courts shall include in his annual report filed with the Congress under this section a summary of the number of complaints filed with each judicial council under chapter 16 of this title, indicating the general nature of such complaints and the disposition of those complaints in which action has been taken.
+
+* (i) RESTRICTIONS ON CRIMINAL HISTORY INQUIRIES.—
+
+  * (1) DEFINITIONS.—In this subsection—
+
+    * (A) the terms "agency" and "criminal history record information" have the meanings given those terms in section 9201 of title 5;
+
+    * (B) the term "covered employee" means an employee of the judicial branch of the United States Government, other than—
+
+      * (i) any judge or justice who is entitled to hold office during good behavior;
+
+      * (ii) a United States magistrate judge; or
+
+      * (iii) a bankruptcy judge; and
+
+
+    * (C) the term "employing office" means any office or entity of the judicial branch of the United States Government that employs covered employees.
+
+
+  * (2) RESTRICTION.—A covered employee may not request that an applicant for employment as a covered employee disclose criminal history record information if the request would be prohibited under section 9202 of title 5 if made by an employee of an agency.
+
+  * (3) EMPLOYING OFFICE POLICIES; COMPLAINT PROCEDURE.—The provisions of sections 9203 and 9206 of title 5 shall apply to employing offices and to applicants for employment as covered employees, consistent with regulations issued by the Director to implement this subsection.
+
+  * (4) ADVERSE ACTION.—
+
+    * (A) ADVERSE ACTION.—The Director may take such adverse action with respect to a covered employee who violates paragraph (2) as would be appropriate under section 9204 of title 5 if the violation had been committed by an employee of an agency.
+
+    * (B) APPEALS.—The Director shall by rule establish procedures providing for an appeal from any adverse action taken under subparagraph (A) by not later than 30 days after the date of the action.
+
+    * (C) APPLICABILITY OF OTHER LAWS.—Except as provided in subparagraph (B), an adverse action taken under subparagraph (A) (including a determination in an appeal from such an action under subparagraph (B)) shall not be subject to appeal or judicial review.
+
+
+  * (5) REGULATIONS TO BE ISSUED.—
+
+    * (A) IN GENERAL.—Not later than 18 months after the date of enactment of the Fair Chance to Compete for Jobs Act of 2019, the Director shall issue regulations to implement this subsection.
+
+    * (B) PARALLEL WITH AGENCY REGULATIONS.—The regulations issued under subparagraph (A) shall be the same as substantive regulations promulgated by the Director of the Office of Personnel Management under section 2(b)(1) of the Fair Chance to Compete for Jobs Act of 2019 except to the extent that the Director of the Administrative Office of the United States Courts may determine, for good cause shown and stated together with the regulation, that a modification of such regulations would be more effective for the implementation of the rights and protections under this subsection.
+
+
+  * (6) EFFECTIVE DATE.—Paragraphs (1) through (4) shall take effect on the date on which section 9202 of title 5 applies with respect to agencies.
+
+### §605. Budget estimates
+* The Director, under the supervision of the Judicial Conference of the United States, shall submit to the Office of Management and Budget annual estimates of the expenditures and appropriations necessary for the maintenance and operation of the courts and the Administrative Office and the operation of the judicial survivors annuity fund, and such supplemental and deficiency estimates as may be required from time to time for the same purposes, according to law. The Director shall cause periodic examinations of the judicial survivors annuity fund to be made by an actuary, who may be an actuary employed by another department of the Government temporarily assigned for the purpose, and whose findings and recommendations shall be transmitted by the Director to the Judicial Conference.
+
+* Such estimates shall be approved, before presentation to the Office of Management and Budget, by the Judicial Conference of the United States, except that the estimate with respect to the Court of International Trade shall be approved by such court and the estimate with respect to the United States Court of Appeals for the Federal Circuit shall be approved by such court.
+
+### §606. Duties of Deputy Director
+* The Deputy Director shall perform the duties assigned to him by the Director, and shall act as Director during the absence or incapacity of the Director or when the Director's office is vacant.
+
+### §607. Practice of law prohibited
+* An officer or employee of the Administrative Office shall not engage directly or indirectly in the practice of law in any court of the United States.
+
+### §608. Seal
+* The Director shall use a seal approved by the Supreme Court. Judicial notice shall be taken of such seal.
+
+### §609. Courts' appointive power unaffected
+* The authority of the courts to appoint their own administrative or clerical personnel shall not be limited by any provisions of this chapter.
+
+### §610. Courts defined
+* As used in this chapter the word "courts" includes the courts of appeals and district courts of the United States, the United States District Court for the District of the Canal Zone, the District Court of Guam, the District Court of the Virgin Islands, the United States Court of Federal Claims, and the Court of International Trade.
+
+### §611. Retirement of Director
+* (a) The Director may, by written election filed with the Chief Justice of the United States within 6 months after the date on which he takes office, waive coverage under chapter 83 of title 5, subchapter III (the Civil Service Retirement System) or chapter 84 of title 5 (the Federal Employees' Retirement System), whichever is applicable, and bring himself within the purview of this section. A Director who elects coverage under this section shall be deemed an "employee" for purposes of chapter 84 of title 5, subchapter III, regardless of whether he has waived the coverage of chapter 83, subchapter III, or chapter 84. Waiver of coverage under chapter 83, subchapter III, and election of this section shall not operate to foreclose to the Director, upon separation from service other than by retirement, such opportunity as the law may provide to secure retirement credit under chapter 83 for service as Director by depositing with interest the amount required by section 8334 of title 5. A Director who waives coverage under chapter 84 and elects this section may secure retirement credit under chapter 84 for service as Director by depositing with interest 1.3 percent of basic pay for service from January 1, 1984, through December 31, 1986, and the amount referred to in section 8422(a) of title 5, for service after December 31, 1986. Interest shall be computed under section 8334(e) of title 5.
+
+* (b) Upon the retirement of a Director who has elected coverage under this section and who has at least fifteen years of service and has attained the age of sixty-five years the Administrative Office of the United States Courts shall pay him an annuity for life equal to 80 per centum of the salary of the office at the time of his retirement.
+
+* Upon the retirement of a Director who has elected coverage under this section and who has at least ten years of service, but who is not eligible to receive an annuity under the first paragraph of this subsection, the Administrative Office of the United States Courts shall pay him an annuity for life equal to that proportion of 80 per centum of the salary of the office at the time of his retirement that the number of years of his service bears to fifteen, reduced by one-quarter of 1 per centum for each full month, if any, he is under the age of sixty-five at the time of separation from service.
+
+* (c) A Director who has elected coverage under this section and who becomes permanently disabled to perform the duties of his office shall be retired and shall receive an annuity for life equal to 80 per centum of the salary of the office at the time of his retirement if he has at least fifteen years of service, or equal to that proportion of 80 percentum of such salary that the aggregate number of years of his service bears to fifteen if he has less than fifteen years of service, but in no event less than 50 per centum of such salary.
+
+* (d) For the purpose of this section, "service" means service, whether or not continuous, as Director of the Administrative Office of the United States Courts, and any service, not to exceed five years, as a judge of the United States, a Senator or Representative in Congress, a congressional employee in the capacity of primary administrative assistant to a Member of Congress or in the capacity of staff director or chief counsel for the majority or the minority of a committee or subcommittee of the Senate or House of Representatives, or a civilian official appointed by the President, by and with the advice and consent of the Senate.
+
+* (e) Each annuity payable under this section shall be increased by the same percentage amount and effective on the same date as annuities payable under chapter 83 of title 5, are increased as provided by section 8340 of title 5.
+
+### §612. Judiciary Information Technology Fund
+* (a) ESTABLISHMENT AND AVAILABILITY OF FUND.—There is hereby established in the Treasury of the United States a special fund to be known as the "Judiciary Information Technology Fund" (hereafter in this section referred to as the "Fund"). Moneys in the Fund shall be available to the Director without fiscal year limitation for the procurement (by lease, purchase, exchange, transfer, or otherwise) of information technology resources for program activities included in the courts of appeals, district courts, and other judicial services account of the judicial branch of the United States. The Fund shall also be available for expenses, including personal services, support personnel in the courts and in the Administrative Office of the United States Courts, and other costs, for the effective management, coordination, operation, and use of information technology resources purchased by the Fund. In addition, all agencies of the judiciary may make deposits into the Fund to meet their information technology needs in accordance with subsections (b) and (c)(2).
+
+* (b) PLAN FOR MEETING INFORMATION TECHNOLOGY NEEDS.—
+
+  * (1) DEVELOPMENT OF PLAN.—The Director shall develop and annually revise, with the approval of the Judicial Conference of the United States, a long range plan for meeting the information technology resources needs of the activities funded under subsection (a) and shall include an annual estimate of any fees that may be collected under section 404 of the Judiciary Appropriations Act, 1991 (Public Law 101–515; 104 Stat. 2133). Such plan and revisions shall be submitted to Congress.
+
+  * (2) EXPENDITURES CONSISTENT WITH PLAN.—The Director may use amounts in the Fund to procure information technology resources for the activities funded under subsection (a) only in accordance with the plan developed under paragraph (1).
+
+
+* (c) DEPOSITS INTO FUND.—
+
+  * (1) DEPOSITS.—There shall be deposited in the Fund—
+
+    * (A) all proceeds resulting from activities conducted under subsection (a), including net proceeds of disposal of excess or surplus property, all fees collected after the date of the enactment of the Judicial Amendments Act of 1994 by the judiciary under section 404 of the Judiciary Appropriations Act, 1991 (Public Law 101–515; 104 Stat. 2133) and receipts from carriers and others for loss of or damage to property;
+
+    * (B) amounts available for activities described in subsection (a) from funds appropriated to the judiciary; and
+
+    * (C) any advances and reimbursements required by paragraph (2).
+
+
+  * (2) ADVANCES AND REIMBURSEMENTS.—Whenever the Director procures information technology resources for any entity in the judicial branch other than the courts or the Administrative Office, that entity shall advance or reimburse the Fund, whichever the Director considers appropriate, for the costs of the information technology resources, from appropriations available to that entity.
+
+
+* (d) AUTHORIZATION OF APPROPRIATIONS.—There are authorized to be appropriated to the Fund for any fiscal year such sums as are required to supplement amounts deposited under subsection (c) in order to conduct activities under subsection (a).
+
+* (e) CONTRACT AUTHORITY.—
+
+  * (1) FOR EACH FISCAL YEAR.—In fiscal year 1990, and in each succeeding fiscal year, the Director may enter into contracts for the procurement of information technology resources in amounts which, in the aggregate, do not exceed amounts estimated to be collected under subsection (c) for that fiscal year in advance of the availability of amounts in the Fund for such contracts.
+
+  * (2) MULTIYEAR CONTRACTS.—In conducting activities under subsection (a), the Director is authorized to enter into multiyear contracts for information technology resources for periods of not more than five years for any contract, if—
+
+    * (A) funds are available and adequate for payment of the costs of such contract for the first fiscal year and for payment of any costs of cancellation or termination of the contract;
+
+    * (B) such contract is in accordance with the Director's authority in section 604(g) of 28 U.S.C.; and,
+
+    * (C) the Director determines that—
+
+      * (i) the need for the information technology resources being provided will continue over the period of the contract; and
+
+      * (ii) the use of the multi-year contract will yield substantial cost savings when compared with other methods of providing the necessary resources.
+
+
+  * (3) CANCELLATION COSTS OF MULTIYEAR CONTRACT.—Any cancellation costs incurred with respect to a contract entered into under paragraph (2) shall be paid from currently available amounts in the Fund.
+
+
+* (f) AUTHORITY OF ADMINISTRATOR OF GENERAL SERVICES.—Nothing in this section shall be construed to limit the authority of the Administrator of General Services under sections 501–505 of title 40.
+
+* (g) ANNUAL REPORT.—
+
+  * (1) IN GENERAL.—The Director shall submit to the Congress an annual report on the operation of the Fund, including on the inventory, use, and acquisition of information technology resources from the Fund and the consistency of such acquisition with the plan prepared under subsection (b). The report shall set forth the amounts deposited into the Fund under subsection (c).
+
+  * (2) ADDITIONAL CONTENTS OF REPORT.—The annual report submitted under this subsection shall include—
+
+    * (A) the specific actions taken and the progress made to improve the plan developed under subsection (b) and the long range automation plan and strategic business plan developed under subsection (k); and
+
+    * (B) a comparison of planned Fund expenditures and accomplishments with actual Fund expenditures and accomplishments, and the reasons for any delays in scheduled systems development, or budget overruns.
+
+
+* (h) REPROGRAMMING.—The Director of the Administrative Office of the United States Courts, under the supervision of the Judicial Conference of the United States, may transfer amounts up to $1,000,000 from the Fund into the account to which the funds were originally appropriated. Any amounts transferred from the Fund in excess of $1,000,000 in any fiscal year may only be transferred by following reprogramming procedures in compliance with section 606 of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1989 (Public Law 100–459; 102 Stat. 2227).
+
+* (i) APPROPRIATIONS INTO THE FUND.—If the budget request of the judiciary is appropriated in full, the amount deposited into the Fund during any fiscal year under the authority of subsection (c)(1)(B) will be the same as the amount of funds requested by the judiciary for activities described in subsection (a). If an amount to be deposited is not specified in statute by Congress and if the full request is not appropriated, the amount to be deposited under subsection (c)(1)(B) will be set by the spending priorities established by the Judicial Conference.
+
+* (j) LONG RANGE MANAGEMENT AND BUSINESS PLANS.—The Director of the Administrative Office of the United States Court shall—
+
+  * (1) develop an overall strategic business plan which would identify the judiciary's missions, goals, and objectives;
+
+  * (2) develop a long range automation plan based on the strategic business plan and user needs assessments;
+
+  * (3) establish effective Administrative Office oversight of court automation efforts to ensure the effective operation of existing systems and control over developments of future systems;
+
+  * (4) expedite efforts to complete the development and implementation of life cycle management standards;
+
+  * (5) utilize the standards in developing the next generation of case management and financial systems; and
+
+  * (6) assess the current utilization and future user requirements of the data communications network.
+
+### §613. Disbursing and certifying officers
+* (a) DISBURSING OFFICERS.—The Director may designate in writing officers and employees of the judicial branch of the Government, including the courts as defined in section 610 other than the Supreme Court, to be disbursing officers in such numbers and locations as the Director considers necessary. Such disbursing officers shall—
+
+  * (1) disburse moneys appropriated to the judicial branch and other funds only in strict accordance with payment requests certified by the Director or in accordance with subsection (b);
+
+  * (2) examine payment requests as necessary to ascertain whether they are in proper form, certified, and approved; and
+
+  * (3) be held accountable for their actions as provided by law, except that such a disbursing officer shall not be held accountable or responsible for any illegal, improper, or incorrect payment resulting from any false, inaccurate, or misleading certificate for which a certifying officer is responsible under subsection (b).
+
+
+* (b) CERTIFYING OFFICERS.—
+
+  * (1) IN GENERAL.—The Director may designate in writing officers and employees of the judicial branch of the Government, including the courts as defined in section 610 other than the Supreme Court, to certify payment requests payable from appropriations and funds. Such certifying officers shall be responsible and accountable for—
+
+    * (A) the existence and correctness of the facts recited in the certificate or other request for payment or its supporting papers;
+
+    * (B) the legality of the proposed payment under the appropriation or fund involved; and
+
+    * (C) the correctness of the computations of certified payment requests.
+
+
+  * (2) LIABILITY.—The liability of a certifying officer shall be enforced in the same manner and to the same extent as provided by law with respect to the enforcement of the liability of disbursing and other accountable officers. A certifying officer shall be required to make restitution to the United States for the amount of any illegal, improper, or incorrect payment resulting from any false, inaccurate, or misleading certificates made by the certifying officer, as well as for any payment prohibited by law or which did not represent a legal obligation under the appropriation or fund involved.
+
+
+* (c) RIGHTS.—A certifying or disbursing officer—
+
+  * (1) has the right to apply for and obtain a decision by the Comptroller General on any question of law involved in a payment request presented for certification; and
+
+  * (2) is entitled to relief from liability arising under this section in accordance with title 31.
+
+
+* (d) OTHER AUTHORITY NOT AFFECTED.—Nothing in this section affects the authority of the courts with respect to moneys deposited with the courts under chapter 129 of this title.

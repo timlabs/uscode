@@ -1,0 +1,2 @@
+## **REORGANIZATION PLAN NO. 8 OF 1949**
+* Reorganization Plan No. 8 of 1949, which proposed reorganization of the National Military Establishment into a Department of Defense, was submitted to Congress on July 18, 1949, and was disapproved by act Aug. 10, 1949, ch. 412, §12(i), 63 Stat. 592.

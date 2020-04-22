@@ -1,0 +1,2 @@
+## **REORGANIZATION PLAN NO. 2 OF 1979**
+* Reorganization Plan No. 2 of 1979, 44 F.R. 41165, 93 Stat. 1378, which established the United States International Development Cooperation Agency, was repealed by Pub. L. 105–277, div. G, subdiv. A, title XIV, §§1401, 1422(a)(1), Oct. 21, 1998, 112 Stat. 2681–790, 2681–792, effective Apr. 1, 1999.

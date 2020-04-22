@@ -1,0 +1,2 @@
+## **REORGANIZATION PLAN NO. 1 OF 1962**
+* Reorganization Plan No. 1 of 1962, which proposed establishment of a Department of Urban Affairs and Housing, was submitted to Congress on Jan. 30, 1962, and was disapproved by the House of Representatives on Feb. 21, 1962.

@@ -1,0 +1,25 @@
+### PART A—URBAN RENEWAL PROJECTS, DEMOLITION PROGRAMS, AND CODE ENFORCEMENT PROGRAMS
+
+### §1452c. Nullification of right of redemption of single family mortgagors under rehabilitation loan program
+#### (a) In general
+* Whenever with respect to a single family mortgage securing a loan under section 1452b of this title, the Secretary of Housing and Urban Development or its foreclosure agent forecloses in any Federal or State court or pursuant to a power of sale in a mortgage, the purchaser at the foreclosure sale shall be entitled to receive a conveyance of title to, and possession of, the property, subject to any interests senior to the interests of the Secretary. With respect to properties that are vacant and abandoned, notwithstanding any State law to the contrary, there shall be no right of redemption (including all instances any right to possession based upon any right of redemption) in the mortgagor or any other person subsequent to the foreclosure sale in connection with such single family mortgage. The appropriate State official or the trustee, as the case may be, shall execute and deliver a deed or other appropriate instrument conveying title to the purchaser at the foreclosure sale, consistent with applicable procedures in the jurisdiction and without regard to any such right of redemption.
+
+#### (b) Foreclosure by others
+* Whenever with respect to a single family mortgage on a property that also has a single family mortgage securing a loan under section 1452b of this title, a mortgagee forecloses in any Federal or State court or pursuant to a power of sale in a mortgage, the Secretary of Housing and Urban Development, if the Secretary is purchaser at the foreclosure sale, shall be entitled to receive a conveyance of title to, and possession of, the property, subject to the interests senior to the interests of the mortgagee. Notwithstanding any State law to the contrary, there shall be no right of redemption (including in all instances any right to possession based upon any right of redemption) if the mortgagor or any other person subsequent to the foreclosure sale to the Secretary in connection with a property that secured a single family mortgage for a loan under section 1452b of this title. The appropriate State official or the trustee, as the case may be, shall execute and deliver a deed or other appropriate instrument conveying title to the Secretary, who is the purchaser at the foreclosure sale, consistent with applicable procedures in the jurisdiction and without regard to any such right of redemption.
+
+#### (c) Verification of title
+* The following actions shall be taken in order to verify title in the purchaser at the foreclosure sale:
+
+  * (1) In the case of a judicial foreclosure in any Federal or State court, there shall be included in the petition and in the judgment of foreclosure a statement that the foreclosure is in accordance with this subsection and that there is no right of redemption in the mortgagor or any other person.
+
+  * (2) In the case of a foreclosure pursuant to a power of sale provision in the mortgage, the statement required in paragraph (1) shall be included in the advertisement of the sale and either in the recitals of the deed or other appropriate instrument conveying title to the purchaser at the foreclosure sale or in an affidavit or addendum to the deed.
+
+#### (d) Definitions
+* For purposes of this section:
+
+  * (1) The term "mortgage" means a deed of trust, mortgage, deed to secure debt, security agreement, or any other form of instrument under which any interest in property, real, personal, or mixed, or any interest in property, including leaseholds, life estates, reversionary interests, and any other estates under applicable State law, is conveyed in trust, mortgaged, encumbered, pledged, or otherwise rendered subject to a lien, for the purpose of securing the payment of money or the performance of an obligation.
+
+  * (2) The term "single family mortgage" means a mortgage that covers property that includes a 1- to 4-family residence.
+
+### §1453a. Administrative priority for applications relating to activities in areas affected by base closings
+* The Secretary of Housing and Urban Development, in processing applications for assistance under section 103 of the Housing Act of 1949 [42 U.S.C. 1453], section 111 of the Demonstration Cities and Metropolitan Development Act of 1966 [42 U.S.C. 3311], section 708(a)(1) and (2) of the Housing and Urban Development Act of 1965 [42 U.S.C. 3108(a)(1), (2)] (for grants authorized under sections 702 and 703 of such Act) [42 U.S.C. 3102, 3103], section 312 of the Housing Act of 1964 [42 U.S.C. 1452b], section 701(b) of the Housing Act of 1954, and section 708 of the Housing Act of 1961 [42 U.S.C. 1500d], shall give a priority to any State or unit of local government or agency thereof which is severely and adversely affected by a reduction in the level of expenditure or employment at any Department of Defense installation located in or near such State or unit of local government.

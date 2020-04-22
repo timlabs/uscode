@@ -1,0 +1,2 @@
+## **REORGANIZATION PLAN NO. 1 OF 1949**
+* Reorganization Plan No. 1 of 1949, which proposed establishment of a Department of Welfare, was submitted to Congress on June 20, 1949, and was disapproved by the Senate on Aug. 16, 1949.

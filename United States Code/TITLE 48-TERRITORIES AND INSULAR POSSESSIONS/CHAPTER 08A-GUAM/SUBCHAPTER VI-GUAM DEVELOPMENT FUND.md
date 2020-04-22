@@ -1,0 +1,21 @@
+### SUBCHAPTER VI—GUAM DEVELOPMENT FUND
+
+### §1428. Authorization of appropriations
+* (a) For the purpose of promoting economic development in the territory of Guam, there is authorized to be appropriated to the Secretary of the Interior to be paid to the government of Guam for the purposes of this subchapter the sum of $5,000,000.
+
+* (b) In addition to the appropriations authorized in subsection (a), $1,000,000 is authorized to be appropriated to the Secretary of the Interior to be paid to the government of Guam annually for five fiscal years commencing in fiscal year 1978 to carry out the purposes of this subchapter.
+
+### §1428a. Submission of plan for use of funds; contents of plan; term, interest rate, and premium charge of loan
+* Prior to receiving any funds pursuant to this subchapter the government of Guam shall submit to the Secretary of the Interior a plan for the use of such funds which meets the requirements of this section and is approved by the Secretary. The plan shall designate an agency or agencies of such government as the agency or agencies for the administration of the plan and shall set forth the policies and procedures to be followed in furthering the economic development of Guam through a program which shall include and make provision for loans and loan guarantees to promote the development of private enterprise and private industry in Guam through a revolving fund for such purposes: _Provided_, That the term of any loan made pursuant to the plan shall not exceed twenty-five years; that such loans shall bear interest (exclusive of premium charges for insurance, and service charges, if any) at such rate per annum as is determined to be reasonable and as approved by the Secretary, but in no event less than a rate equal to the average yield on outstanding marketable obligations of the United States as of the last day of the month preceding the date of the loan, adjusted to the nearest one-eighth of 1 per centum, which rate shall be determined by the Secretary of the Treasury upon the request of the authorized agency or agencies of the government of Guam; and that premium charges for the insurance and guarantee of loans shall be commensurate, in the judgment of the agency or agencies administering the fund, with expenses and risks covered.
+
+### §1428b. Prerequisite for loan or loan guarantee; maximum participation in available funds; reserves for loan guarantees
+* No loan or loan guarantee shall be made under this subchapter to any applicant who does not satisfy the agency or agencies administering the plan that financing is otherwise unavailable on reasonable terms and conditions. The maximum participation in the funds made available under section 1428 of this title shall be limited (a) so that not more than 25 per centum of the funds actually appropriated by the Congress may be devoted to any single project (b) to 90 per centum of loan guarantee, and (c) with respect to all loans, to that decree of participation prudent under the circumstances of individual loans but directly related to the minimum essential participation necessary to accomplish the purposes of this subchapter: _Provided_, That, with respect to loan guarantees, the reserves maintained by the agency or agencies for the guarantees shall not be less than 25 per centum of the guarantee.
+
+### §1428c. Accounting procedures
+* The plan provided for in section 1428a of this title shall set forth such fiscal control and fund accounting procedures as may be necessary to assure proper disbursement, repayment, and accounting for such funds.
+
+### §1428d. Report for inclusion in annual report by Governor
+* The Governor of Guam shall include in the annual report to Congress required pursuant to section 1422 of this title a report on the administration of this subchapter.
+
+### §1428e. Audit of books and records of agency, or agencies, administering loan funds
+* The Comptroller General of the United States, or any of his duly authorized representatives, shall have access, for the purpose of audit and examination, to the books, documents, papers, and records of the agency, or agencies, of the government of Guam administering the plan that are pertinent to the funds received under this subchapter.

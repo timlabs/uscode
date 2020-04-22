@@ -1,0 +1,12 @@
+### §640. Voluntary agreements among small-business concerns
+#### (a) Consultation with President
+* The President is authorized to consult with representatives of small-business concerns with a view to encouraging the making by such persons with the approval of the President of voluntary agreements and programs to further the objectives of this chapter.
+
+#### (b) Exemption from certain laws; findings and requests; filing and publication
+* No act or omission to act pursuant to this chapter which occurs while this chapter is in effect, if requested by the President pursuant to a voluntary agreement or program approved under subsection (a) of this section and found by the President to be in the public interest as contributing to the national defense, shall be construed to be within the prohibitions of the antitrust laws or the Federal Trade Commission Act [15 U.S.C. 41 et seq.] of the United States. A copy of each such request intended to be within the coverage of this section, and any modification or withdrawal thereof, shall be furnished to the Attorney General and the Chairman of the Federal Trade Commission when made, and it shall be published in the Federal Register unless publication thereof would, in the opinion of the President, endanger the national security.
+
+#### (c) Delegation of authority; consultation; approval of requests
+* The authority granted in subsection (b) of this section shall be delegated only (1) to an official who shall for the purpose of such delegation be required to be appointed by the President by and with the advice and consent of the Senate, (2) upon the condition that such official consult with the Attorney General and the Chairman of the Federal Trade Commission not less than ten days before making any request or finding thereunder, and (3) upon the condition that such official obtain the approval of the Attorney General to any request thereunder before making the request.
+
+#### (d) Inapplicability of section when request or finding withdrawn
+* Upon withdrawal of any request or finding hereunder, or upon withdrawal by the Attorney General of his approval of the voluntary agreement or program on which the request or finding is based, the provisions of this section shall not apply to any subsequent act, or omission to act, by reason of such finding or request.

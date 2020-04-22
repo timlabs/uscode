@@ -1,0 +1,32 @@
+## **REORGANIZATION PLAN NO. 14 OF 1950**
+#### Eff. May 24, 1950, 15 F.R. 3176, 64 Stat. 1267, as amended May 21, 1970, Pub. L. 91–258, title I, §52(b)(7), 84 Stat. 235
+* Prepared by the President and transmitted to the Senate and the House of Representatives in Congress assembled, March 13, 1950, pursuant to the provisions of the Reorganization Act of 1949, approved June 20, 1949 [see 5 U.S.C. 901 et seq.].
+
+#### LABOR STANDARDS ENFORCEMENT
+* In order to assure coordination of administration and consistency of enforcement of the labor standards provisions of each of the following Acts by the Federal agencies responsible for the administration thereof, the Secretary of Labor shall prescribe appropriate standards, regulations, and procedures, which shall be observed by these agencies, and cause to be made by the Department of Labor such investigations, with respect to compliance with and enforcement of such labor standards, as he deems desirable, namely: (a) The Act of March 3, 1931 (46 Stat. 1494, ch. 411), as amended [now 40 U.S.C. 3141–3144, 3146, 3147]; (b) the Act of June 13, 1934 (48 Stat. 948, ch. 482) [now 40 U.S.C. 3145]; (c) the Act of August 1, 1892 (27 Stat. 340, ch. 352), as amended [former 40 U.S.C. 321–323]; (d) the Act of June 19, 1912 (37 Stat. 137, ch. 174), as amended [former 40 U.S.C. 324, 325]; (e) the Act of June 3, 1939 (53 Stat. 804, ch. 175), as amended [12 U.S.C. 1703, 1708–1711, 1713, 1715c, 1716]; (f) the Act of August 13, 1946 (60 Stat. 1040, ch. 958); (g) the Act of May 13, 1946 (60 Stat. 170, ch. 251), as amended; (h) the Airport and Airway Development Act of 1970; and (i) the Act of July 15, 1949 (ch. 338, Public Law 171, Eighty-first Congress, First Session). [As amended Pub. L. 91–258, title I, §52(b)(7), May 21, 1970, 84 Stat. 235].
+
+#### Message of the President
+* To the Congress of the United States:
+
+* I transmit herewith Reorganization Plan No. 14 of 1950, prepared in accordance with the provisions of the Reorganization Act of 1949. For the purpose of coordinating the administration of labor standards under various statutes relating to Federal construction and public works or to construction with federally financed assistance or guaranties, the reorganization plan authorizes the Secretary of Labor to prescribe appropriate standards, regulations, and procedures with respect to these matters and to make such investigations concerning compliance with, and enforcement of, labor standards as he deems desirable. The purpose is to assure consistent and effective enforcement of such standards.
+
+* The plan is in general accord with the recommendations of the Commission on Organization of the Executive Branch of the Government. It constitutes a further step in rebuilding and strengthening the Department of Labor to make it the central agency of the Government for dealing with labor problems.
+
+* After investigation I have found and hereby declare that the reorganization contained in this plan is necessary to accomplish one or more of the purposes set forth in section 2(a) of the Reorganization Act of 1949.
+
+* There are several laws regulating wages and hours of workers employed on Federal contracts for public works or construction. The "eight hour laws" limit the employment of laborers and mechanics on such projects to 8 hours per day and permit their employment in excess of that limit only upon condition that time and one-half the basic-wage rate is paid for the excess hours. The Davis-Bacon Act provides that the minimum rates of pay for laborers and mechanics on certain Federal public-works contracts shall be those prevailing for the corresponding classes of workers in the locality as determined by the Secretary of Labor. The Copeland anti-kick-back law prohibits the exaction of rebates or kick-backs from workers employed on the construction of Federal public works or works financed by the Federal Government and authorizes the Secretary of Labor to make regulations for contractors engaged on such projects.
+
+* In addition to the above statutes, there are several acts which require the payment of prevailing-wage rates, as determined by the Secretary of Labor, to laborers and mechanics employed on construction financed in whole or in part by loans or grants from the Federal Government or by mortgages guaranteed by the Federal Government. These acts are: the National Housing Act, the Housing Act of 1949, the Federal Airport Act, and the Hospital Survey and Construction Act of 1946.
+
+* With the exception of the Department of Labor, the Federal agencies involved in the administration of the various acts are divided into two classes: (1) agencies which contract for Federal public works or construction; and (2) agencies which lend or grant Federal funds, or act as guarantors of mortgages, to aid in the construction of projects to be built by State or local public agencies or private individuals and groups. The methods of enforcing labor standards necessarily differ between these two groups of agencies.
+
+* The methods adopted by the various agencies for the enforcement of labor standards vary widely in character and effectiveness. As a result, uniformity of enforcement is lacking and the degree of protection afforded workers varies from agency to agency.
+
+* In order to correct this situation, this plan authorizes the Secretary of Labor to coordinate the administration of legislation relating to wages and hours on federally financed or assisted projects by prescribing standards, regulations, and procedures to govern the enforcement activities of the various Federal agencies and by making such investigations as he deems desirable to assure consistent enforcement. The actual performance of enforcement activities, normally including the investigation of complaints of violations, will remain the duty of the respective agencies awarding the contracts or providing the Federal assistance.
+
+* Since the principal objective of the plan is more effective enforcement of labor standards, it is not probable that it will result in savings. But it will provide more uniform and more adequate protection for workers through the expenditures made for the enforcement of the existing legislation.
+
+HARRY S. TRUMAN.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+* THE WHITE HOUSE, March 13, 1950.

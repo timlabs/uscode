@@ -1,0 +1,33 @@
+### SUBCHAPTER LIII—MORRISTOWN NATIONAL HISTORICAL PARK
+
+### §409. Establishment; acquisition of land
+* When title to all the lands, structures, and other property in the military camp-ground areas and other areas of Revolutionary War interest at and in the vicinity of Morristown, New Jersey, as shall be designated by the Secretary of the Interior, in the exercise of his discretion, as necessary or desirable for national-park purposes, shall have been vested in the United States, such areas shall be, and they are, established, dedicated, and set apart as a public park for the benefit and enjoyment of the people and shall be known as the Morristown National Historical Park: _Provided_, That the United States shall not purchase by appropriation of public moneys any lands within the aforesaid areas, but such lands shall be secured by the United States only by public or private donation: _And provided further_, That such areas shall include, at least, Jockey Hollow camp site, now owned by Lloyd W. Smith and the town of Morristown, Fort Nonsense, now owned by the town of Morristown, and the George Washington Headquarters, known as the Ford House, with its museum and other personal effects and its grounds, now owned by the Washington Association of New Jersey.
+
+### §409a. Acceptance of title to lands
+* The Secretary of the Interior is authorized to accept donations of land, interest in land, buildings, structures, and other property within the boundaries of said park as determined and fixed hereunder and donations of funds for the purchase and/or maintenance thereof, the title and evidence of title to lands purchased to be satisfactory to the Secretary of the Interior: _Provided_, That the Secretary of the Interior is authorized, in his discretion, to accept on behalf of the United States other lands, easements, and buildings of Revolutionary War interest in Morris and adjacent counties in New Jersey as may be donated for the extension of the Morristown National Historical Park.
+
+### §409b. George Washington headquarters; maintenance
+* After the acquisition of the museum and other personal effects of the said Washington Association by the United States, including such other manuscripts, books, paintings, and other relics of historical value pertaining to George Washington and the Revolutionary War as may be donated to the United States, such museum and library shall forever be maintained as a part of said Morristown National Historical Park.
+
+### §409c. Board of advisers
+* The Washington Association of New Jersey, Lloyd W. Smith, and the town of Morristown having, by their patriotic and active interest in conserving for posterity these important historical areas and objects, the board of trustees and the executive committee of the said association, together with Mrs. Willard W. Cutler, its curator, and Clyde Potts, at present mayor of Morristown, shall hereafter act as a board of advisers in the maintenance of said park. The said association shall have the right to hold its meetings in said Ford House.
+
+### §409d. Employees of Washington Association of New Jersey
+* Employees of the said Washington Association, who were, prior to March 2, 1933, charged with the care and development of the said Ford House and its museum and other effects, may, in the discretion of the Secretary of the Interior, hereafter be employed by the National Park Service in the administration, protection, and development of the said park without regard to the laws of the United States applicable to the employment and compensation of officers and employees of the United States.
+
+### §409e. Administration, protection, and development
+* The administration, protection, and development of aforesaid national historical park shall be exercised under the direction of the Secretary of the Interior by the National Park Service, subject to the provisions of the Act of August 25, 1916, entitled "An Act to establish a National Park Service, and for other purposes," as amended (U.S.C., title 16, secs. 1–4).
+
+### §409f. Jurisdiction of New Jersey in civil, criminal and legislative matters retained; citizenship unaffected
+* Nothing in this subchapter shall be held to deprive the State of New Jersey, or any political subdivision thereof, of its civil and criminal jurisdiction in and over the areas included in said national historical park, nor shall this subchapter in any way impair or affect the rights of citizenship of any resident therein; and save and except as the consent of the State of New Jersey may be hereafter given, the legislative authority of said State in and over all areas included within such national historical park shall not be diminished or affected by the creation of said park, nor by any terms and provisions of this subchapter.
+
+### §409g. Additional lands
+* In order to preserve for the benefit and inspiration of the public certain lands historically associated with the winter encampment of General George Washington's Continental Army at Jockey Hollow in 1779 and 1780, and to facilitate the administration and interpretation of the Morristown National Historical Park, the Secretary of the Interior is authorized to procure, from a willing owner only, by purchase, donation, purchase with appropriated funds, or otherwise, not to exceed 715 acres of land and interests therein which 715 acres shall include Stark's Brigade campsite and other lands necessary for the proper administration and interpretation of the Morristown National Historical Park: _Provided_, That title to the property known as the Cross estate may not be accepted until the property is vacant.
+
+### §409h. Administration of additional lands
+* Lands acquired pursuant to this section and section 409g of this title, unless exchanged pursuant to section 409g of this title, shall constitute a part of the Morristown National Historical Park, and be administered in accordance with the laws and regulations applicable to such park.
+
+### §409i. Acquisition of Warren Property for Morristown National Historical Park
+* (a) In addition to any other lands or interest authorized to be acquired for inclusion in Morristown National Historical Park, and notwithstanding the first proviso of section 409 of this title, the Secretary of the Interior may acquire by purchase, donation, purchase with appropriated funds, or otherwise, not to exceed 15 acres of land and interests therein comprising the property known as the Warren Property or Mount Kimble. The Secretary may expend such sums as may be necessary for such acquisition.
+
+* (b) Any lands or interests acquired under this section shall be included in and administered as part of the Morristown National Historical Park.

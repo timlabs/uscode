@@ -1,0 +1,29 @@
+### **CHAPTER 605—EARTH SCIENCE**
+
+### §60501. Goal
+* The goal for the Administration's Earth Science program shall be to pursue a program of Earth observations, research, and applications activities to better understand the Earth, how it supports life, and how human activities affect its ability to do so in the future. In pursuit of this goal, the Administration's Earth Science program shall ensure that securing practical benefits for society will be an important measure of its success in addition to securing new knowledge about the Earth system and climate change. In further pursuit of this goal, the Administration shall, together with the National Oceanic and Atmospheric Administration and other relevant agencies, provide United States leadership in developing and carrying out a cooperative international Earth observations-based research program.
+
+### §60502. Transitioning experimental research into operational services
+* (a) INTERAGENCY PROCESS.—The Director of the Office of Science and Technology Policy, in consultation with the Administrator, the Administrator of the National Oceanic and Atmospheric Administration, and other relevant stakeholders, shall develop a process to transition, when appropriate, Administration Earth science and space weather missions or sensors into operational status. The process shall include coordination of annual agency budget requests as required to execute the transitions.
+
+* (b) RESPONSIBLE AGENCY OFFICIAL.—The Administrator and the Administrator of the National Oceanic and Atmospheric Administration shall each designate an agency official who shall have the responsibility for and authority to lead the Administration's and the National Oceanic and Atmospheric Administration's transition activities and interagency coordination.
+
+* (c) PLAN.—For each mission or sensor that is determined to be appropriate for transition under subsection (a), the Administration and the National Oceanic and Atmospheric Administration shall transmit to Congress a joint plan for conducting the transition. The plan shall include the strategy, milestones, and budget required to execute the transition. The transition plan shall be transmitted to Congress no later than 60 days after the successful completion of the mission or sensor critical design review.
+
+### §60503. Reauthorization of Glory Mission
+* Congress reauthorizes the Administration to continue with development of the Glory Mission, which will examine how aerosols and solar energy affect the Earth's climate.
+
+### §60504. Tornadoes and other severe storms
+* The Administrator shall ensure that the Administration gives high priority to those parts of its existing cooperative activities with the National Oceanic and Atmospheric Administration that are related to the study of tornadoes and other severe storms, tornado-force winds, and other factors determined to influence the development of tornadoes and other severe storms, with the goal of improving the Nation's ability to predict tornados and other severe storms. Further, the Administrator shall examine whether there are additional cooperative activities with the National Oceanic and Atmospheric Administration that should be undertaken in the area of tornado and severe storm research.
+
+### §60505. Coordination with the National Oceanic and Atmospheric Administration
+* (a) JOINT WORKING GROUP.—The Administrator and the Administrator of the National Oceanic and Atmospheric Administration shall appoint a Joint Working Group, which shall review and monitor missions of the two agencies to ensure maximum coordination in the design, operation, and transition of missions where appropriate. The Joint Working Group shall also prepare the plans required by subsection (c).
+
+* (b) COORDINATION REPORT.—Not later than February 15 of each year, the Administrator and the Administrator of the National Oceanic and Atmospheric Administration shall jointly transmit a report to the Committee on Science and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on how the Earth science programs of the Administration and the National Oceanic and Atmospheric Administration will be coordinated during the fiscal year following the fiscal year in which the report is transmitted.
+
+* (c) COORDINATION OF TRANSITION PLANNING AND REPORTING.—The Administrator, in conjunction with the Administrator of the National Oceanic and Atmospheric Administration and in consultation with other relevant agencies, shall evaluate relevant Administration science missions for their potential operational capabilities and shall prepare transition plans for the existing and future Earth observing systems found to have potential operational capabilities.
+
+* (d) LIMITATION.—The Administrator shall not transfer any Administration Earth science mission or Earth observing system to the National Oceanic and Atmospheric Administration until the plan required under subsection (c) has been approved by the Administrator and the Administrator of the National Oceanic and Atmospheric Administration and until financial resources have been identified to support the transition or transfer in the President's budget request for the National Oceanic and Atmospheric Administration.
+
+### §60506. Sharing of climate related data
+* The Administrator shall work to ensure that the Administration's policies on the sharing of climate related data respond to the recommendations of the Government Accountability Office's report on climate change research and data-sharing policies and to the recommendations on the processing, distribution, and archiving of data by the National Academies Earth Science Decadal Survey, "Earth Science and Applications from Space", and other relevant National Academies reports, to enhance and facilitate their availability and widest possible use to ensure public access to accurate and current data on global warming.

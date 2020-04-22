@@ -1,0 +1,2 @@
+## **REORGANIZATION PLAN NO. 19 OF 1950**
+* Reorg. Plan No. 19 of 1950, 15 F.R. 3178, 64 Stat. 1271, which related to employees' compensation functions, was repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 662. See sections 8145 and 8149 of Title 5, Government Organization and Employees.

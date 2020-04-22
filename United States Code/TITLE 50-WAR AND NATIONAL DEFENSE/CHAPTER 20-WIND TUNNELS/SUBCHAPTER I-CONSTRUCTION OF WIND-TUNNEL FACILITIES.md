@@ -1,0 +1,20 @@
+### SUBCHAPTER I—CONSTRUCTION OF WIND-TUNNEL FACILITIES
+
+### §511. Joint development of unitary plan for construction of facilities; construction at educational institutions
+* The Administrator of the National Aeronautics and Space Administration (hereinafter referred to as the "Administrator") and the Secretary of Defense are authorized and directed jointly to develop a unitary plan for the construction of transsonic, supersonic, and hypersonic wind-tunnel facilities for the solution of research, development, and evaluation problems in aeronautics, including the construction of facilities at educational institutions within the continental limits of the United States for training and research in aeronautics, and to revise the uncompleted portions of the unitary plan from time to time to accord with changes in national defense requirements and scientific and technical advances. The Administrator and the Secretaries of the Army, the Navy, and the Air Force are authorized to proceed with the construction and equipment of facilities in implementation of the unitary plan to the extent permitted by appropriations pursuant to existing authority and the authority contained in this chapter. Any further implementation of the unitary plan shall be subject to such additional authorizations as may be approved by Congress.
+
+### §512. Limitation on cost of construction and equipment; vesting of title to facilities
+* The Administrator is authorized, in implementation of the unitary plan, to construct and equip transsonic or supersonic wind tunnels of a size, design and character adequate for the efficient conduct of experimental work in support of long-range fundamental research at educational institutions within the continental United States, to be selected by the Administrator, or to enter into contracts with such institutions to provide for such construction and equipment, at a total cost not to exceed $10,000,000: _Provided_, That the Administrator may, in his discretion, after consultation with the Committees on Armed Services of both Houses of the Congress, vest title to the facilities completed pursuant to this section in such educational institutions under such terms and conditions as may be deemed in the best interests of the United States.
+
+### §513. Expansion of existing facilities; appropriations; testing of models
+* (a) The Administrator is authorized to expand the facilities at his existing laboratories and centers by the construction of additional transsonic, supersonic, and hypersonic wind tunnels, including buildings, equipment, and accessory construction, and by the acquisition of land and installation of utilities.
+
+* (b) There is authorized to be appropriated such sums as may be necessary to carry out the purposes of this section, but not to exceed $136,000,000.
+
+* (c) The facilities authorized by this section shall be operated and staffed by the Administrator but shall be available primarily to industry for testing experimental models in connection with the development of aircraft and missiles. Such tests shall be scheduled and conducted in accordance with industry's requirements and allocation of facility time shall be made in accordance with the public interest, with proper emphasis upon the requirements of each military service and due consideration of civilian needs.
+
+### §514. Expansion of facilities at Carderock, Maryland
+* The Secretary of the Navy is authorized, in implementation of the unitary plan, to expand the naval facilities at the David W. Taylor Model Basin, Carderock, Maryland, by the construction of a wind tunnel, including buildings, equipment, utilities, and accessory construction, at a cost not to exceed $6,600,000.
+
+### §515. Reports to Congress
+* The Administrator shall submit semi-annual written reports to the Congress covering the selection of institutions and contracts entered into pursuant to section 512 of this title together with other pertinent information relative to the Administrator's activities and accomplishments thereunder.
