@@ -23,6 +23,8 @@
 
   * (8) Any inconsistent estate basis.
 
+  * (9) Any overstatement of the deduction provided in section 170(p).
+
 
 * This section shall not apply to any portion of an underpayment on which a penalty is imposed under section 6663. Except as provided in paragraph (1) or (2)(B) of section 6662A(e), this section shall not apply to the portion of any underpayment which is attributable to a reportable transaction understatement on which a penalty is imposed under section 6662A.
 
@@ -205,6 +207,9 @@
 
 #### (k) Inconsistent estate basis reporting
 * For purposes of this section, the term "inconsistent estate basis" means any portion of an underpayment attributable to the failure to comply with section 1014(f).
+
+#### (l) Increase in penalty in case of overstatement of qualified charitable contributions
+* In the case of any portion of an underpayment which is attributable to one or more overstatements of the deduction provided in section 170(p), subsection (a) shall be applied with respect to such portion by substituting "50 percent" for "20 percent".
 
 ### §6662A. Imposition of accuracy-related penalty on understatements with respect to reportable transactions
 #### (a) Imposition of penalty

@@ -218,7 +218,7 @@
 
 * (e) A midshipman who is sentenced to imprisonment for hazing may not be confined with persons who have been convicted of crimes or misdemeanors.
 
-* (f) A midshipman who is dismissed from the Academy for hazing may not be reappointed as a midshipman or be appointed as a commissioned officer in the Army, Navy, Air Force, or Marine Corps until two years after the graduation of the class of which he was a member.
+* (f) A midshipman who is dismissed from the Academy for hazing may not be reappointed as a midshipman or be appointed as a commissioned officer in the Army, Navy, Air Force, Marine Corps, or Space Force until two years after the graduation of the class of which he was a member.
 
 ### §8465. Failure to report violation: dismissal
 * (a) Each officer stationed at the Naval Academy, each midshipman officer, each midshipman petty officer, and each civilian member of the teaching staff of the Academy shall report promptly to the Superintendent of the Naval Academy any fact that tends to show the commission of hazing or any violation of an Academy regulation by a midshipman.
@@ -478,6 +478,12 @@
 
     * (iv) any other issues relating to sexual harassment and sexual violence involving Academy personnel.
 
+
+* (3)(A) The Secretary of Defense may postpone the conduct of an assessment under this subsection if the Secretary determines that conducting such assessment is not practicable due to a war or national emergency declared by the President or Congress.
+
+* (B) The Secretary of Defense shall ensure that an assessment postponed under subparagraph (A) is conducted as soon as practicable after the end of the period of war or national emergency concerned, or earlier if the Secretary determines appropriate.
+
+* (C) The Secretary of Defense shall notify Congress of a determination under subparagraph (A) not later than 30 days after the date on which the Secretary makes such determination.
 
 * (d) ANNUAL REPORT.—(1) The Secretary of the Navy shall direct the Superintendent of the Naval Academy to submit to the Secretary a report on sexual harassment and sexual violence involving midshipmen or other personnel at the Academy for each Academy program year.
 

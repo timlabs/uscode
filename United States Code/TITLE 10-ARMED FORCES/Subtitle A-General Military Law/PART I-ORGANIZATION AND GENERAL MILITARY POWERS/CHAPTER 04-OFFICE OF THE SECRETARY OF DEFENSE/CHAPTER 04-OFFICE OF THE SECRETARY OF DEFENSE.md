@@ -7,7 +7,7 @@
 
   * (1) The Deputy Secretary of Defense.
 
-  * (2) The Chief Management Officer of the Department of Defense.
+  * [(2) Repealed. Pub. L. 116–283, div. A, title IX, §901(a)(2)(A), Jan. 1, 2021, 134 Stat. 3794.]
 
   * (3) The Under Secretaries of Defense, as follows:
 
@@ -76,45 +76,6 @@
 
   * (2) Executive Order No. 12788 of January 15, 1992, as amended (57 Fed. Reg. 2213; relating to the Defense Economic Adjustment Program).
 
-### §132a. Chief Management Officer
-* (a) APPOINTMENT AND QUALIFICATIONS.—(1) There is a Chief Management Officer of the Department of Defense, appointed from civilian life by the President, by and with the advice and consent of the Senate.
-
-* (2) The Chief Management Officer shall be appointed from among persons who have an extensive management or business background and experience with managing large or complex organizations. A person may not be appointed as Chief Management Officer within seven years after relief from active duty as a commissioned officer of a regular component of an armed force.
-
-* (b) RESPONSIBILITIES.—Subject to the authority, direction, and control of the Secretary of Defense and the Deputy Secretary of Defense, the Chief Management Officer shall perform such duties and exercise such powers as the Secretary or the Deputy Secretary may prescribe, including the following:
-
-  * (1) Serving as the chief management officer of the Department of Defense with the mission of managing enterprise business operations and shared services of the Department of Defense.
-
-  * (2) Serving as the principal advisor to the Secretary and the Deputy Secretary on establishing policies for, and directing, all enterprise business operations of the Department, including planning and processes, business transformation, and performance measurement and management activities and programs, including the allocation of resources for enterprise business operations and unifying business management efforts across the Department.
-
-  * (3) Exercising authority, direction, and control over the Defense Agencies and Department of Defense Field Activities providing shared business services for the Department that are designated by the Secretary or the Deputy Secretary for purposes of this paragraph.
-
-  * (4) Authority to direct the Secretaries of the military departments and the heads of all other elements of the Department with regard to matters for which the Chief Management Officer has responsibility under this section.
-
-  * (5) Serving as the official with principal responsibility in the Department for minimizing the duplication of efforts, maximizing efficiency and effectiveness, and establishing metrics for performance among and for all organizations and elements of the Department.
-
-
-* (c) BUDGET AUTHORITY.—(1)(A) Beginning in fiscal year 2020, the Secretary of Defense, acting through the Under Secretary of Defense (Comptroller), shall require the head of each Defense Agency and Department of Defense Field Activity specified by the Secretary for purposes of this subsection to transmit the proposed budget of such Agency or Activity for enterprise business operations for a fiscal year, and for the period covered by the future-years defense program submitted to Congress under section 221 of this title for that fiscal year, to the Chief Management Officer for review under subparagraph (B) at the same time the proposed budget is submitted to the Under Secretary of Defense (Comptroller).
-
-* (B) The Chief Management Officer shall review each proposed budget transmitted under subparagraph (A) and, not later than January 31 of the year preceding the fiscal year for which the budget is proposed, shall submit to the Secretary a report containing the comments of the Chief Management Officer with respect to all such proposed budgets, together with the certification of the Chief Management Officer regarding whether each such proposed budget achieves the required level of efficiency and effectiveness for enterprise business operations, consistent with guidance for budget review established by the Chief Management Officer.
-
-* (C) Not later than March 31 each year, the Secretary shall submit to Congress a report that includes the following:
-
-  * (i) Each proposed budget for the enterprise business operations of a Defense Agency or Department of Defense Field Activity that was transmitted to the Chief Management Officer under subparagraph (A).
-
-  * (ii) Identification of each proposed budget contained in the most recent report submitted under subparagraph (B) that the Chief Management Officer did not certify as achieving the required level of efficiency and effectiveness for enterprise business operations.
-
-  * (iii) A discussion of the actions that the Secretary proposes to take, together with any recommended legislation that the Secretary considers appropriate, to address inadequate levels of efficiency and effectiveness for enterprise business operations achieved by the proposed budgets identified in the report.
-
-  * (iv) Any additional comments that the Secretary considers appropriate regarding inadequate levels of efficiency and effectiveness for enterprise business operations achieved by the proposed budgets.
-
-
-* (2) Nothing in this subsection shall be construed to modify or interfere with the budget-related responsibilities of the Director of National Intelligence.
-
-* (d) PRECEDENCE.—The Chief Management Officer takes precedence in the Department of Defense after the Secretary of Defense and the Deputy Secretary of Defense.
-
-* (e) ENTERPRISE BUSINESS OPERATION DEFINED.—In this section, the term "enterprise business operations" means those activities that constitute the cross-cutting business operations used by multiple components of the Department of Defense, but not those activities that are directly tied to a single military department or Department of Defense component. The term includes business-support functions designated by the Secretary of Defense or the Deputy Secretary of Defense for purposes of this section, such as aspects of financial management, healthcare, acquisition and procurement, supply chain and logistics, certain information technology, real property, and human resources operations.
-
 ### §133a. Under Secretary of Defense for Research and Engineering
 * (a) UNDER SECRETARY OF DEFENSE.—There is an Under Secretary of Defense for Research and Engineering, appointed from civilian life by the President, by and with the advice and consent of the Senate. The Under Secretary shall be appointed from among persons who have an extensive technology, science, or engineering background and experience with managing complex or advanced technological programs. A person may not be appointed as Under Secretary within seven years after relief from active duty as a commissioned officer of a regular component of an armed force.
 
@@ -157,9 +118,17 @@
 
   * (6) overseeing the modernization of nuclear forces, including the nuclear command, control, and communications system, and the development of capabilities to counter weapons of mass destruction, and serving as the chairman of the Nuclear Weapons Council and the co-chairman of the Council on Oversight of the National Leadership Command, Control, and Communications System;
 
-  * (7) the authority to direct the Secretaries of the military departments and the heads of all other elements of the Department with regard to matters for which the Under Secretary has responsibility, except that the Under Secretary shall exercise advisory authority over service acquisition programs for which the service acquisition executive is the milestone decision authority; and
+  * (7) the authority to direct the Secretaries of the military departments and the heads of all other elements of the Department with regard to matters for which the Under Secretary has responsibility, except that the Under Secretary shall exercise advisory authority over service acquisition programs for which the service acquisition executive is the milestone decision authority;
 
-  * (8) to the extent directed by the Secretary, exercising overall supervision of all personnel (civilian and military) in the Office of the Secretary of Defense with regard to matters for which the Under Secretary has responsibility, unless otherwise provided by law.
+  * (8) to the extent directed by the Secretary, exercising overall supervision of all personnel (civilian and military) in the Office of the Secretary of Defense with regard to matters for which the Under Secretary has responsibility, unless otherwise provided by law; and
+
+  * (9) advising the Secretary on all aspects of acquisition and sustainment relating to—
+
+    * (A) defense acquisition programs;
+
+    * (B) core logistics capabilities (as described under section 2464 of this title); and
+
+    * (C) the national technology and industrial base (as defined in section 2500 of this title).
 
 
 * (c) PRECEDENCE IN DEPARTMENT OF DEFENSE.—
@@ -293,23 +262,26 @@
 * (d) The Deputy Under Secretaries of Defense take precedence in the Department of Defense after the Secretary of Defense, the Deputy Secretary of Defense, the Chief Management Officer of the Department of Defense, the Secretaries of the military departments, and the Under Secretaries of Defense. The Deputy Under Secretaries shall take precedence among themselves in the order prescribed by the Secretary of Defense.
 
 ### §138. Assistant Secretaries of Defense
-* (a)(1) There are 13 Assistant Secretaries of Defense.
+* (a)(1) There are 15 Assistant Secretaries of Defense.
 
 * (2) The Assistant Secretaries of Defense shall be appointed from civilian life by the President, by and with the advice and consent of the Senate.
 
 * (b)(1) The Assistant Secretaries shall perform such duties and exercise such powers as the Secretary of Defense may prescribe.
 
-* (2) One of the Assistant Secretaries is the Assistant Secretary of Defense for Special Operations and Low Intensity Conflict. He shall have as his principal duty the overall supervision (including oversight of policy and resources) of special operations activities (as defined in section 167(j) of this title) and low intensity conflict activities of the Department of Defense. The Assistant Secretary is the principal civilian adviser to the Secretary of Defense on special operations and low intensity conflict matters and (after the Secretary and Deputy Secretary) is the principal special operations and low intensity conflict official within the senior management of the Department of Defense. Subject to the authority, direction, and control of the Secretary of Defense, the Assistant Secretary shall do the following:
+* (2)(A) One of the Assistant Secretaries is the Assistant Secretary of Defense for Special Operations and Low Intensity Conflict. He shall have as his principal duty the overall supervision (including oversight of policy and resources) of special operations activities (as defined in section 167(k) of this title) and low intensity conflict activities of the Department of Defense. The Assistant Secretary is the principal civilian adviser to the Secretary of Defense on special operations and low intensity conflict matters and (after the Secretary and Deputy Secretary) is the principal special operations and low intensity conflict official within the senior management of the Department of Defense. Subject to the authority, direction, and control of the Secretary of Defense, the Assistant Secretary shall do the following:
 
-  * (A) Exercise authority, direction, and control of all special-operations peculiar administrative matters relating to the organization, training, and equipping of special operations forces.
+  * (i) Exercise authority, direction, and control of all special-operations peculiar administrative matters relating to the organization, training, and equipping of special operations forces through the administrative chain of command specified in section 167(f) of this title;.
 
-  * (B) Assist the Secretary and the Under Secretary of Defense for Policy in the development and supervision of policy, program planning and execution, and allocation and use of resources for the activities of the Department of Defense for the following:
+  * (ii) Assist the Secretary and the Under Secretary of Defense for Policy in the development and supervision of policy, program planning and execution, and allocation and use of resources for the activities of the Department of Defense for the following:
 
-    * (i) Irregular warfare, combating terrorism, and the special operations activities specified by section 167(k) of this title.
+    * (I) Irregular warfare, combating terrorism, and the special operations activities specified by section 167(k) of this title.
 
-    * (ii) Integrating the functional activities of the headquarters of the Department to most efficiently and effectively provide for required special operations forces and capabilities.
+    * (II) Integrating the functional activities of the headquarters of the Department to most efficiently and effectively provide for required special operations forces and capabilities.
 
-    * (iii) Such other matters as may be specified by the Secretary and the Under Secretary.
+    * (III) Such other matters as may be specified by the Secretary and the Under Secretary.
+
+
+  * (B) In the discharge of the responsibilities specified in subparagraph (A)(i), the Assistant Secretary is immediately subordinate to the Secretary of Defense. Unless otherwise directed by the President, no officer below the Secretary may intervene to exercise authority, direction, or control over the Assistant Secretary in the discharge of such responsibilities.
 
 
 * (3) One of the Assistant Secretaries is the Assistant Secretary of Defense for Legislative Affairs. He shall have as his principal duty the overall supervision of legislative affairs of the Department of Defense.
@@ -324,6 +296,15 @@
 
 
 * (5) One of the Assistant Secretaries is the Assistant Secretary of Defense for Space Policy. The principal duty of the Assistant Secretary shall be the overall supervision of policy of the Department of Defense for space warfighting.
+
+* (6) One of the Assistant Secretaries is the Assistant Secretary of Defense for Industrial Base Policy. The Assistant Secretary shall—
+
+  * (A) advise the Under Secretary of Defense for Acquisition and Sustainment on industrial base policies; and
+
+  * (B) perform other duties as directed by the Under Secretary.
+
+
+* (7) One of the Assistant Secretaries is the Assistant Secretary of Defense for Energy, Installations, and Environment. The principal duty of the Assistant Secretary shall be the overall supervision of matters relating to energy, installations, and the environment for the Department of Defense.
 
 * (c) Except as otherwise specifically provided by law, an Assistant Secretary may not issue an order to a military department unless—
 
@@ -386,7 +367,7 @@
 
 * (h)(1) The Director shall prepare an annual report summarizing the operational test and evaluation activities (including live fire testing activities) of the Department of Defense during the preceding fiscal year.
 
-* (2) Each such report shall be submitted concurrently to the Secretary of Defense, the Under Secretary of Defense for Acquisition and Sustainment, the Under Secretary of Defense for Research and Engineering,, the Secretaries of the military departments, and the Congress not later than January 31 of each year, through January 31, 2025.
+* (2) Each such report shall be submitted concurrently to the Secretary of Defense, the Under Secretary of Defense for Acquisition and Sustainment, the Under Secretary of Defense for Research and Engineering, the Secretaries of the military departments, and the Congress not later than January 31 of each year, through January 31, 2026.
 
 * (3) If the Director submits the report to Congress in a classified form, the Director shall concurrently submit an unclassified version of the report to Congress.
 
@@ -439,41 +420,54 @@
 
   * (9) Performing the duties assigned to the Director in section 2222 of this title.
 
-### §139b. Special Operations Policy and Oversight Council
-* (a) IN GENERAL.—In order to fulfill the responsibilities specified in section 138(b)(4) of this title, the Assistant Secretary of Defense for Special Operations and Low Intensity Conflict, or the designee of the Assistant Secretary, shall establish and lead a team to be known as the "Special Operations Policy and Oversight Council" (in this section referred to as the "Council").
+### §139b. Secretariat for Special Operations; Special Operations Policy and Oversight Council
+* (a) SECRETARIAT FOR SPECIAL OPERATIONS.—
 
-* (b) PURPOSE.—The purpose of the Council is to integrate the functional activities of the headquarters of the Department of Defense in order to most efficiently and effectively provide for special operations forces and capabilities. In fulfilling this purpose, the Council shall develop and continuously improve policy, joint processes, and procedures that facilitate the development, acquisition, integration, employment, and sustainment of special operations forces and capabilities.
+  * (1) IN GENERAL.—In order to fulfill the responsibilities of the Assistant Secretary of Defense for Special Operations and Low Intensity Conflict specified in section 138(b)(2)(A)(i) of this title, there shall be within the Office of the Assistant Secretary of Defense for Special Operations and Low Intensity Conflict an office to be known as the "Secretariat for Special Operations".
 
-* (c) MEMBERSHIP.—The Council shall include the following:
+  * (2) PURPOSE.—The purpose of the Secretariat is to assist the Assistant Secretary in exercising authority, direction, and control with respect to the special operations-peculiar administration and support of the special operations command, including the readiness and organization of special operations forces, resources and equipment, and civilian personnel as specified in such section.
 
-  * (1) The Assistant Secretary, who shall act as leader of the Council.
+  * (3) DIRECTOR.—The Director of the Secretariat for Special Operations shall be appointed by the Secretary of Defense from among individuals qualified to serve as the Director. An individual serving as Director shall, while so serving, be a member of the Senior Executive Service.
 
-  * (2) Appropriate senior representatives of each of the following:
-
-    * (A) The Under Secretary of Defense for Research and Engineering.
-
-    * (B) The Under Secretary of Defense for Management and Support.
-
-    * (C) The Under Secretary of Defense (Comptroller).
-
-    * (D) The Under Secretary of Defense for Personnel and Readiness.
-
-    * (E) The Under Secretary of Defense for Intelligence and Security.
-
-    * (F) The General Counsel of the Department of Defense.
-
-    * (G) The other Assistant Secretaries of Defense under the Under Secretary of Defense for Policy.
-
-    * (H) The military departments.
-
-    * (I) The Joint Staff.
-
-    * (J) The United States Special Operations Command.
-
-    * (K) Such other officials or Agencies, elements, or components of the Department of Defense as the Secretary of Defense considers appropriate.
+  * (4) ADMINISTRATIVE CHAIN OF COMMAND.—For purposes of the support of the Secretariat for the Assistant Secretary in the fulfillment of the responsibilities referred to in paragraph (1), the administrative chain of command is as specified in section 167(f) of this title. Unless otherwise directed by the President, no officer below the Secretary of Defense (other than the Assistant Secretary) may intervene to exercise authority, direction, or control over the Secretariat in its support of the Assistant Secretary in the discharge of such responsibilities.
 
 
-* (d) OPERATION.—The Council shall operate continuously.
+* (b) SPECIAL OPERATIONS POLICY AND OVERSIGHT COUNCIL.—
+
+  * (1) IN GENERAL.—In order to fulfill the responsibilities specified in section 138(b)(2)(A)(i) of this title, the Assistant Secretary of Defense for Special Operations and Low Intensity Conflict shall establish and lead a team known as the "Special Operation Policy and Oversight Council" (in this subsection referred to as the "Council").
+
+  * (2) PURPOSE.—The purpose of the Council is to integrate the functional activities of the headquarters of the Department of Defense in order to most efficiently and effectively provide for special operations forces and capabilities. In fulfilling this purpose, the Council shall develop and continuously improve policy, joint processes, and procedures that facilitate the development, acquisition, integration, employment, and sustainment of special operations forces and capabilities.
+
+  * (3) MEMBERSHIP.—The Council shall include the following:
+
+    * (A) The Assistant Secretary.
+
+    * (B) Appropriate senior representatives of each of the following:
+
+      * (i) The Under Secretary of Defense for Research and Engineering.
+
+      * (ii) The Under Secretary of Defense for Acquisition and Sustainment.
+
+      * (iii) The Under Secretary of Defense (Comptroller).
+
+      * (iv) The Under Secretary of Defense for Personnel and Readiness.
+
+      * (v) The Under Secretary of Defense for Intelligence.
+
+      * (vi) The General Counsel of the Department of Defense.
+
+      * (vii) The other Assistant Secretaries of Defense under the Under Secretary of Defense for Policy.
+
+      * (viii) The military departments.
+
+      * (ix) The Joint Staff.
+
+      * (x) The United States Special Operations Command.
+
+      * (xi) Such other officers or Agencies, elements, or components of the Department of Defense as the Secretary of Defense considers appropriate.
+
+
+  * (4) OPERATION.—The Council shall operate continuously.
 
 ### §140. General Counsel
 * (a) There is a General Counsel of the Department of Defense, appointed from civilian life by the President, by and with the advice and consent of the Senate.
@@ -533,9 +527,7 @@
 
 * (c) The Chief Information Officer takes precedence in the Department of Defense with the officials serving in positions specified in section 131(b)(4) of this title. The officials serving in positions specified in section 131(b)(4) and the Chief Information Officer of the Department of Defense take precedence among themselves in the order prescribed by the Secretary of Defense.
 
-* (c) The Chief Information Officer of the Department of Defense shall report directly to the Secretary of Defense in the performance of duties under this section.
-
-* (d) The Chief Information Officer of the Department of Defense takes precedence in the Department of Defense with the officials serving in positions specified in section 131(b)(4) of this title. The officials serving in positions specified in such section and the Chief Information Officer take precedence among themselves in the order prescribed by the Secretary of Defense.
+* (d) The Chief Information Officer of the Department of Defense shall report directly to the Secretary of Defense in the performance of duties under this section.
 
 ### §143. Office of the Secretary of Defense personnel: limitation
 * (a) PERMANENT LIMI TATION ON OSD PERSONNEL.—The number of OSD personnel may not exceed 4,300.
@@ -555,3 +547,58 @@
 
 ### §145. Principal Advisor on Countering Weapons of Mass Destruction
 * The Secretary of Defense may designate, from among the personnel of the Office of the Secretary of Defense, a Principal Advisor on Countering Weapons of Mass Destruction. Such Principal Advisor shall coordinate the activities of the Department of Defense relating to countering weapons of mass destruction. The individual designated to serve as such Principal Advisor shall be an individual who was appointed to the position held by the individual by and with the advice and consent of the Senate.
+
+### §146. Office of Local Defense Community Cooperation
+* (a) IN GENERAL.—There is in the Office of the Secretary of Defense an office to be known as the Office of Local Defense Community Cooperation (in this section referred to as the 'Office').
+
+* (b) DIRECTOR.—The Office shall be headed by the Director of the Office of Local Defense Community Cooperation, who shall be appointed by the Under Secretary of Defense for Acquisition and Sustainment from among civilian employees of the Federal Government or private individuals who have the following:
+
+  * (1) Experience in the interagency in the Executive Branch.
+
+  * (2) Experience in the administration and management of Federal grants programs.
+
+
+* (c) DUTIES.—The Office shall—
+
+  * (1) serve as the office in the Department of Defense with primary responsibility for—
+
+    * (A) providing assistance to States, counties, municipalities, regions, and other communities to foster cooperation with military installations to enhance the military mission, achieve facility and infrastructure savings and reduced operating costs, address encroachment and compatible land use issues, support military families, and increase military, civilian, and industrial readiness and resiliency; and
+
+    * (B) providing adjustment and diversification assistance to State and local governments under section 2391(b) of this title to achieve the objectives described in subparagraph (A);
+
+
+  * (2) coordinate the provision of such assistance with other organizations and elements of the Department;
+
+  * (3) provide support to the Economic Adjustment Committee established under Executive Order No. 12788 (57 Fed. Reg. 2213; 10 U.S.C. 2391 note) or any successor to such Committee; and
+
+  * (4) carry out such other activities as the Under Secretary of Defense for Acquisition and Sustainment considers appropriate.
+
+
+* (d) ANNUAL REPORT TO CONGRESS.—Not later than June 1 each year, the Director of the Office of Local Defense Community Cooperation shall submit to the congressional defense committees a report on the activities of the Office during the preceding year, including the assistance provided pursuant to subsection (c)(1) during such year.
+
+### §147. Chief Diversity Officer
+* (a) CHIEF DIVERSITY OFFICER.—(1) There is a Chief Diversity Officer of the Department of Defense, who shall be appointed by the Secretary of Defense.
+
+* (2) The Chief Diversity Officer shall be appointed from among persons who have an extensive management or business background and experience with diversity and inclusion. A person may not be appointed as Chief Diversity Officer within three years after relief from active duty as a commissioned officer of a regular component of an armed force.
+
+* (3) The Chief Diversity Officer shall report directly to the Secretary of Defense in the performance of the duties of the Chief Diversity Officer under this section.
+
+* (b) DUTIES.—The Chief Diversity Officer—
+
+  * (1) is responsible for providing advice on policy, oversight, guidance, and coordination for all matters of the Department of Defense related to diversity and inclusion;
+
+  * (2) advises the Secretary of Defense, the Secretaries of the military departments, and the heads of all other elements of the Department with regard to matters of diversity and inclusion;
+
+  * (3) shall establish and maintain a Department of Defense strategic plan that publicly states a diversity definition, vision, and goals for the Department;
+
+  * (4) shall define a set of strategic metrics that are directly linked to key organizational priorities and goals, actionable, and actively used to implement the strategic plan under paragraph (3);
+
+  * (5) shall advise in the establishment of training in diversity dynamics and training in practices for leading diverse groups effectively;
+
+  * (6) shall advise in the establishment of a strategic plan for diverse participation by institutions of higher education (including historically black colleges and universities and minority-serving institutions), federally funded research and development centers, and individuals in defense-related research, development, test, and evaluation activities;
+
+  * (7) shall advise in the establishment of a strategic plan for outreach to, and recruiting from, untapped locations and underrepresented demographic groups;
+
+  * (8) shall coordinate with, and be supported by, the Office of People Analytics on studies, assessments, and related work relevant to diversity and inclusion; and
+
+  * (9) shall perform such additional duties and exercise such powers as the Secretary of Defense may prescribe.

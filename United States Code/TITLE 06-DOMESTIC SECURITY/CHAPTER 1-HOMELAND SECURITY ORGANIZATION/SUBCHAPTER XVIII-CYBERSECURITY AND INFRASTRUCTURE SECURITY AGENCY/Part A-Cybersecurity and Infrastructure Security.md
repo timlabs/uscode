@@ -25,8 +25,8 @@
 
     * (E) providing guidance on how best to utilize Federal resources and capabilities in a timely, effective manner to speed recovery from cybersecurity risks.
 
-* #### (5) Sector-Specific Agency
-  * The term "Sector-Specific Agency" means a Federal department or agency, designated by law or presidential directive, with responsibility for providing institutional knowledge and specialized expertise of a sector, as well as leading, facilitating, or supporting programs and associated activities of its designated critical infrastructure sector in the all hazards environment in coordination with the Department.
+* #### (5) Sector risk management agency
+  * The term "Sector Risk Management Agency" means a Federal department or agency, designated by law or presidential directive, with responsibility for providing institutional knowledge and specialized expertise of a sector, as well as leading, facilitating, or supporting programs and associated activities of its designated critical infrastructure sector in the all hazards environment in coordination with the Department.
 
 * #### (6) Sharing
   * The term "sharing" has the meaning given the term in section 659 of this title.
@@ -43,7 +43,24 @@
 * #### (1) In general
   * The Agency shall be headed by a Director of Cybersecurity and Infrastructure Security (in this part referred to as the "Director"), who shall report to the Secretary.
 
-* #### (2) Reference
+* #### (2) Qualifications
+  * #### (A) In general
+    * The Director shall be appointed from among individuals who have—
+
+      * (i) extensive knowledge in at least two of the areas specified in subparagraph (B); and
+
+      * (ii) not fewer than five years of demonstrated experience in efforts to foster coordination and collaboration between the Federal Government, the private sector, and other entities on issues related to cybersecurity, infrastructure security, or security risk management.
+
+  * #### (B) Specified areas
+    * The areas specified in this subparagraph are the following:
+
+      * (i) Cybersecurity.
+
+      * (ii) Infrastructure security.
+
+      * (iii) Security risk management.
+
+* #### (3) Reference
   * Any reference to an Under Secretary responsible for overseeing critical infrastructure protection, cybersecurity, and any other related program of the Department as described in section 113(a)(1)(H) of this title as in effect on the day before November 16, 2018, in any law, regulation, map, document, record, or other paper of the United States shall be deemed to be a reference to the Director of Cybersecurity and Infrastructure Security of the Department.
 
 #### (c) Responsibilities
@@ -72,9 +89,15 @@
 
   * (9) carry out emergency communications responsibilities, in accordance with subchapter XIII;
 
-  * (10) carry out cybersecurity, infrastructure security, and emergency communications stakeholder outreach and engagement and coordinate that outreach and engagement with critical infrastructure Sector-Specific Agencies, as appropriate; and
+  * (10) carry out cybersecurity, infrastructure security, and emergency communications stakeholder outreach and engagement and coordinate that outreach and engagement with critical infrastructure Sector-Specific Agencies, as appropriate;
 
-  * (11) carry out such other duties and powers prescribed by law or delegated by the Secretary.
+  * (11) carry out the duties and authorities relating to the .gov internet domain, as described in section 665 of this title; and
+
+  * (11) appoint a Cybersecurity State Coordinator in each State, as described in section 665c of this title; and
+
+  * (11) provide education, training, and capacity development to Federal and non-Federal entities to enhance the security and resiliency of domestic and global cybersecurity and infrastructure security; and
+
+  * (12) carry out such other duties and powers prescribed by law or delegated by the Secretary.
 
 #### (d) Deputy Director
 * There shall be in the Agency a Deputy Director of Cybersecurity and Infrastructure Security who shall—
@@ -127,6 +150,20 @@
     * (P) To carry out the functions of the national cybersecurity and communications integration center under section 659 of this title.
 
     * (Q) To carry out the requirements of the Chemical Facility Anti-Terrorism Standards Program established under subchapter XVI and the secure handling of ammonium nitrate program established under part J of subchapter VIII, or any successor programs.
+
+    * (R) To encourage and build cybersecurity awareness and competency across the United States and to develop, attract, and retain the cybersecurity workforce necessary for the cybersecurity related missions of the Department, including by—
+
+      * (i) overseeing elementary and secondary cybersecurity education and awareness related programs at the Agency;
+
+      * (ii) leading efforts to develop, attract, and retain the cybersecurity workforce necessary for the cybersecurity related missions of the Department;
+
+      * (iii) encouraging and building cybersecurity awareness and competency across the United States; and
+
+      * (iv) carrying out cybersecurity related workforce development activities, including through—
+
+        * (I) increasing the pipeline of future cybersecurity professionals through programs focused on elementary and secondary education, postsecondary education, and workforce development; and
+
+        * (II) building awareness of and competency in cybersecurity across the civilian Federal Government workforce.
 
 * #### (2) Reallocation
   * The Secretary may reallocate within the Agency the functions specified in sections 653(b) and 654(b) of this title, consistent with the responsibilities provided in paragraph (1), upon certifying to and briefing the appropriate congressional committees, and making available to the public, at least 60 days prior to the reallocation that the reallocation is necessary for carrying out the activities of the Agency.
@@ -202,15 +239,126 @@
     * (D) conducting a privacy impact assessment of proposed rules of the Agency on the privacy of personal information, including the type of personal information collected and the number of people affected.
 
 #### (i) Savings
-* Nothing in this subchapter may be construed as affecting in any manner the authority, existing on the day before November 16, 2018, of any other component of the Department or any other Federal department or agency, including the authority provided to the Sector-Specific Agency specified in section 61003(c) of division F of the Fixing America's Surface Transportation Act (6 U.S.C. 121 note; Public Law 114–94).
+* Nothing in this subchapter may be construed as affecting in any manner the authority, existing on the day before November 16, 2018, of any other component of the Department or any other Federal department or agency, including the authority provided to the Sector Risk Management Agency specified in section 61003(c) of division F of the Fixing America's Surface Transportation Act (6 U.S.C. 121 note; Public Law 114–94).
+
+### §652a. Sector risk management agencies
+#### (a) Definitions
+* In this section:
+
+* #### (1) Appropriate congressional committees
+  * The term "appropriate congressional committees" means—
+
+    * (A) the Committee on Homeland Security and the Committee on Armed Services in the House of Representatives; and
+
+    * (B) the Committee on Homeland Security and Governmental Affairs and the Committee on Armed Services in the Senate.
+
+* #### (2) Critical infrastructure
+  * The term "critical infrastructure" has the meaning given that term in section 5195c(e) of title 42.
+
+* #### (3) Department
+  * The term "Department" means the Department of Homeland Security.
+
+* #### (4) Director
+  * The term "Director" means the Director of the Cybersecurity and Infrastructure Security Agency of the Department.
+
+* #### (5) Information sharing and analysis organization
+  * The term "information sharing and analysis organization" has the meaning given that term in section 671(5) of this title.
+
+* #### (6) Secretary
+  * The term "Secretary" means the Secretary of Homeland Security.
+
+* #### (7) Sector risk management agency
+  * The term "sector risk management agency" has the meaning given the term "Sector-Specific Agency" in section 651(5) of this title.
+
+#### (b) Critical infrastructure sector designation
+* #### (1) Initial review
+  * Not later than 180 days after January 1, 2021, the Secretary, in consultation with the heads of Sector Risk Management Agencies, shall—
+
+    * (A) review the current framework for securing critical infrastructure, as described in section 652(c)(4) of this title and Presidential Policy Directive 21; and
+
+    * (B) submit to the President and appropriate congressional committees a report that includes—
+
+      * (i) information relating to—
+
+        * (I) the analysis framework or methodology used to—
+
+          * (aa) evaluate the current framework for securing critical infrastructure referred to in subparagraph (A); and
+
+          * (bb) develop recommendations to—
+
+            * (AA) revise the current list of critical infrastructure sectors designated pursuant to Presidential Policy Directive 21, any successor or related document, or policy; or
+
+            * (BB) identify and designate any subsectors of such sectors;
+
+
+        * (II) the data, metrics, and other information used to develop the recommendations required under clause (ii); and
+
+
+      * (ii) recommendations relating to—
+
+        * (I) revising—
+
+          * (aa) the current framework for securing critical infrastructure referred to in subparagraph (A);
+
+          * (bb) the current list of critical infrastructure sectors designated pursuant to Presidential Policy Directive 21, any successor or related document, or policy; or
+
+          * (cc) the identification and designation of any subsectors of such sectors; and
+
+
+        * (II) any revisions to the list of designated Federal departments or agencies that serve as the Sector Risk Management Agency for a sector or subsector of such section, necessary to comply with paragraph (3)(B).
+
+* #### (2) Periodic evaluation by the Secretary
+  * At least once every five years, the Secretary, in consultation with the Director and the heads of Sector Risk Management Agencies, shall—
+
+    * (A) evaluate the current list of designated critical infrastructure sectors and subsectors of such sectors and the appropriateness of Sector Risk Management Agency designations, as set forth in Presidential Policy Directive 21, any successor or related document, or policy; and
+
+    * (B) recommend, as appropriate, to the President—
+
+      * (i) revisions to the current list of designated critical infrastructure sectors or subsectors of such sectors; and
+
+      * (ii) revisions to the designation of any Federal department or agency designated as the Sector Risk Management Agency for a sector or subsector of such sector.
+
+* #### (3) Review and revision by the President
+  * Not later than 180 days after the Secretary submits a recommendation pursuant to paragraph (1) or (2), the President shall—
+
+    * (A) review the recommendation and revise, as appropriate, the designation of a critical infrastructure sector or subsector or the designation of a Sector Risk Management Agency; and
+
+    * (B) submit to the appropriate congressional committees, the Majority and Minority Leaders of the Senate, and the Speaker and Minority Leader of the House of Representatives, a report that includes—
+
+      * (i) an explanation with respect to the basis for accepting or rejecting the recommendations of the Secretary; and
+
+      * (ii) information relating to the analysis framework, methodology, metrics, and data used to—
+
+        * (I) evaluate the current framework for securing critical infrastructure referred to in paragraph (1)(A); and
+
+        * (II) develop—
+
+          * (aa) recommendations to revise—
+
+            * (AA) the list of critical infrastructure sectors designated pursuant to Presidential Policy Directive 21, any successor or related document, or policy; or
+
+            * (BB) the designation of any subsectors of such sectors; and
+
+          * (bb) the recommendations of the Secretary.
+
+* #### (4) Publication
+  * Any designation of critical infrastructure sectors shall be published in the Federal Register.
+
+#### (c) Sector risk management agencies
+* #### (1) Omitted
+* #### (2) Omitted
+* #### (3) References Any reference to a Sector Specific Agency (including any permutations or conjugations thereof) in any law, regulation, map, document, record, or other paper of the United States shall be deemed to—(A) be a reference to the Sector Risk Management Agency of the relevant critical infrastructure sector; and(B) have the meaning give such term in section 651(5) of this title.
+* #### (4) Omitted
+#### (d) Report and auditing
+* Not later than two years after January 1, 2021 and every four years thereafter for 12 years, the Comptroller General of the United States shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report on the effectiveness of Sector Risk Management Agencies in carrying out their responsibilities under section 665d of this title.
 
 ### §653. Cybersecurity Division
 #### (a) Establishment
 * #### (1) In general
   * There is established in the Agency a Cybersecurity Division.
 
-* #### (2) Assistant Director
-  * The Cybersecurity Division shall be headed by an Assistant Director for Cybersecurity (in this section referred to as the "Assistant Director"), who shall—
+* #### (2) Executive Assistant Director
+  * The Cybersecurity Division shall be headed by an Executive Assistant Director for Cybersecurity (in this section referred to as "the Executive Assistant Director"), who shall—
 
     * (A) be at the level of Assistant Secretary within the Department;
 
@@ -219,10 +367,10 @@
     * (C) report to the Director.
 
 * #### (3) Reference
-  * Any reference to the Assistant Secretary for Cybersecurity and Communications in any law, regulation, map, document, record, or other paper of the United States shall be deemed to be a reference to the Assistant Director for Cybersecurity.
+  * Any reference to the Assistant Secretary for Cybersecurity and Communications or Assistant Director for Cybersecurity in any law, regulation, map, document, record, or other paper of the United States shall be deemed to be a reference to the Executive Assistant Director for Cybersecurity.
 
 #### (b) Functions
-* The Assistant Director shall—
+* The Executive Assistant Director shall—
 
   * (1) direct the cybersecurity efforts of the Agency;
 
@@ -237,8 +385,8 @@
 * #### (1) In general
   * There is established in the Agency an Infrastructure Security Division.
 
-* #### (2) Assistant Director
-  * The Infrastructure Security Division shall be headed by an Assistant Director for Infrastructure Security (in this section referred to as the "Assistant Director"), who shall—
+* #### (2) Executive Assistant Director
+  * The Infrastructure Security Division shall be headed by an Executive Assistant Director for Infrastructure Security (in this section referred to as "the Executive Assistant Director"), who shall—
 
     * (A) be at the level of Assistant Secretary within the Department;
 
@@ -247,10 +395,10 @@
     * (C) report to the Director.
 
 * #### (3) Reference
-  * Any reference to the Assistant Secretary for Infrastructure Protection in any law, regulation, map, document, record, or other paper of the United States shall be deemed to be a reference to the Assistant Director for Infrastructure Security.
+  * Any reference to the Assistant Secretary for Infrastructure Protection or Assistant Director for Infrastructure Security in any law, regulation, map, document, record, or other paper of the United States shall be deemed to be a reference to the Executive Assistant Director for Infrastructure Security.
 
 #### (b) Functions
-* The Assistant Director shall—
+* The Executive Assistant Director shall—
 
   * (1) direct the critical infrastructure security efforts of the Agency;
 
@@ -443,22 +591,26 @@
 #### (a) Definitions
 * In this section—
 
-  * (1) the term "cybersecurity risk"—
+  * (1) the term "cybersecurity purpose" has the meaning given that term in section 1501 of this title;
+
+  * (2) the term "cybersecurity risk"—
 
     * (A) means threats to and vulnerabilities of information or information systems and any related consequences caused by or resulting from unauthorized access, use, disclosure, degradation, disruption, modification, or destruction of such information or information systems, including such related consequences caused by an act of terrorism; and
 
     * (B) does not include any action that solely involves a violation of a consumer term of service or a consumer licensing agreement;
 
 
-  * (2) the terms "cyber threat indicator" and "defensive measure" have the meanings given those terms in section 102 of the Cybersecurity Act of 2015 [6 U.S.C. 1501];
+  * (3) the terms "cyber threat indicator" and "defensive measure" have the meanings given those terms in section 102 of the Cybersecurity Act of 2015 [6 U.S.C. 1501];
 
-  * (3) the term "incident" means an occurrence that actually or imminently jeopardizes, without lawful authority, the integrity, confidentiality, or availability of information on an information system, or actually or imminently jeopardizes, without lawful authority, an information system;
+  * (4) the term "incident" means an occurrence that actually or imminently jeopardizes, without lawful authority, the integrity, confidentiality, or availability of information on an information system, or actually or imminently jeopardizes, without lawful authority, an information system;
 
-  * (4) the term "information sharing and analysis organization" has the meaning given that term in section 671(5) of this title;
+  * (5) the term "information sharing and analysis organization" has the meaning given that term in section 671(5) of this title;
 
-  * (5) the term "information system" has the meaning given that term in section 3502(8) of title 44; and
+  * (6) the term "information system" has the meaning given that term in section 3502(8) of title 44;
 
-  * (6) the term "sharing" (including all conjugations thereof) means providing, receiving, and disseminating (including all conjugations of each of such terms).
+  * (7) the term "security vulnerability" has the meaning given that term in section 1501 of this title; and
+
+  * (8) the term "sharing" (including all conjugations thereof) means providing, receiving, and disseminating (including all conjugations of each of such terms).
 
 #### (b) Center
 * There is in the Department a national cybersecurity and communications integration center (referred to in this section as the "Center") to carry out certain responsibilities of the Director. The Center shall be located in the Cybersecurity and Infrastructure Security Agency. The head of the Center shall report to the Assistant Director for Cybersecurity.
@@ -498,9 +650,11 @@
 
   * (9) sharing cyber threat indicators, defensive measures, and other information related to cybersecurity risks and incidents with Federal and non-Federal entities, including across sectors of critical infrastructure and with State and major urban area fusion centers, as appropriate;
 
-  * (10) participating, as appropriate, in national exercises run by the Department; and
+  * (10) participating, as appropriate, in national exercises run by the Department;
 
-  * (11) in coordination with the Emergency Communications Division of the Department, assessing and evaluating consequence, vulnerability, and threat information regarding cyber incidents to public safety communications to help facilitate continuous improvements to the security and resiliency of such communications.
+  * (11) in coordination with the Emergency Communications Division of the Department, assessing and evaluating consequence, vulnerability, and threat information regarding cyber incidents to public safety communications to help facilitate continuous improvements to the security and resiliency of such communications; and
+
+  * (12) detecting, identifying, and receiving information for a cybersecurity purpose about security vulnerabilities relating to critical infrastructure in information systems and devices.
 
 #### (d) Composition
 * #### (1) In general
@@ -662,6 +816,145 @@
 
 #### (n) Coordinated vulnerability disclosure
 * The Secretary, in coordination with industry and other stakeholders, may develop and adhere to Department policies and procedures for coordinating vulnerability disclosures.
+
+#### (o) Subpoena authority
+* #### (1) Definition
+  * In this subsection, the term "covered device or system"—
+
+    * (A) means a device or system commonly used to perform industrial, commercial, scientific, or governmental functions or processes that relate to critical infrastructure, including operational and industrial control systems, distributed control systems, and programmable logic controllers; and
+
+    * (B) does not include personal devices and systems, such as consumer mobile devices, home computers, residential wireless routers, or residential internet enabled consumer devices.
+
+* #### (2) Authority
+  * #### (A) In general
+    * If the Director identifies a system connected to the internet with a specific security vulnerability and has reason to believe such security vulnerability relates to critical infrastructure and affects a covered device or system, and the Director is unable to identify the entity at risk that owns or operates such covered device or system, the Director may issue a subpoena for the production of information necessary to identify and notify such entity at risk, in order to carry out a function authorized under subsection (c)(12).
+
+  * #### (B) Limit on information
+    * A subpoena issued pursuant to subparagraph (A) may seek information—
+
+      * (i) only in the categories set forth in subparagraphs (A), (B), (D), and (E) of section 2703(c)(2) of title 18; and
+
+      * (ii) for not more than 20 covered devices or systems.
+
+  * #### (C) Liability protections for disclosing providers
+    * The provisions of section 2703(e) of title 18, shall apply to any subpoena issued pursuant to subparagraph (A).
+
+* #### (3) Coordination
+  * #### (A) In general
+    * If the Director exercises the subpoena authority under this subsection, and in the interest of avoiding interference with ongoing law enforcement investigations, the Director shall coordinate the issuance of any such subpoena with the Department of Justice, including the Federal Bureau of Investigation, pursuant to interagency procedures which the Director, in coordination with the Attorney General, shall develop not later than 60 days after January 1, 2021.
+
+  * #### (B) Contents
+    * The inter-agency procedures developed under this paragraph shall provide that a subpoena issued by the Director under this subsection shall be—
+
+      * (i) issued to carry out a function described in subsection (c)(12); and
+
+      * (ii) subject to the limitations specified in this subsection.
+
+* #### (4) Noncompliance
+  * If any person, partnership, corporation, association, or entity fails to comply with any duly served subpoena issued pursuant to this subsection, the Director may request that the Attorney General seek enforcement of such subpoena in any judicial district in which such person, partnership, corporation, association, or entity resides, is found, or transacts business.
+
+* #### (5) Notice
+  * Not later than seven days after the date on which the Director receives information obtained through a subpoena issued pursuant to this subsection, the Director shall notify any entity identified by information obtained pursuant to such subpoena regarding such subpoena and the identified vulnerability.
+
+* #### (6) Authentication
+  * #### (A) In general
+    * Any subpoena issued pursuant to this subsection shall be authenticated with a cryptographic digital signature of an authorized representative of the Agency, or other comparable successor technology, that allows the Agency to demonstrate that such subpoena was issued by the Agency and has not been altered or modified since such issuance.
+
+  * #### (B) Invalid if not authenticated
+    * Any subpoena issued pursuant to this subsection that is not authenticated in accordance with subparagraph (A) shall not be considered to be valid by the recipient of such subpoena.
+
+* #### (7) Procedures
+  * Not later than 90 days after January 1, 2021, the Director shall establish internal procedures and associated training, applicable to employees and operations of the Agency, regarding subpoenas issued pursuant to this subsection, which shall address the following:
+
+    * (A) The protection of and restriction on dissemination of nonpublic information obtained through such a subpoena, including a requirement that the Agency not disseminate nonpublic information obtained through such a subpoena that identifies the party that is subject to such subpoena or the entity at risk identified by information obtained, except that the Agency may share the nonpublic information with the Department of Justice for the purpose of enforcing such subpoena in accordance with paragraph (4), and may share with a Federal agency the nonpublic information of the entity at risk if—
+
+      * (i) the Agency identifies or is notified of a cybersecurity incident involving such entity, which relates to the vulnerability which led to the issuance of such subpoena;
+
+      * (ii) the Director determines that sharing the nonpublic information with another Federal department or agency is necessary to allow such department or agency to take a law enforcement or national security action, consistent with the interagency procedures under paragraph (3)(A), or actions related to mitigating or otherwise resolving such incident;
+
+      * (iii) the entity to which the information pertains is notified of the Director's determination, to the extent practicable consistent with national security or law enforcement interests, consistent with such interagency procedures; and
+
+      * (iv) the entity consents, except that the entity's consent shall not be required if another Federal department or agency identifies the entity to the Agency in connection with a suspected cybersecurity incident.
+
+
+    * (B) The restriction on the use of information obtained through such a subpoena for a cybersecurity purpose.
+
+    * (C) The retention and destruction of nonpublic information obtained through such a subpoena, including—
+
+      * (i) destruction of such information that the Director determines is unrelated to critical infrastructure immediately upon providing notice to the entity pursuant to paragraph (5); and
+
+      * (ii) destruction of any personally identifiable information not later than 6 months after the date on which the Director receives information obtained through such a subpoena, unless otherwise agreed to by the individual identified by the subpoena respondent.
+
+
+    * (D) The processes for providing notice to each party that is subject to such a subpoena and each entity identified by information obtained under such a subpoena.
+
+    * (E) The processes and criteria for conducting critical infrastructure security risk assessments to determine whether a subpoena is necessary prior to being issued pursuant to this subsection.
+
+    * (F) The information to be provided to an entity at risk at the time of the notice of the vulnerability, which shall include—
+
+      * (i) a discussion or statement that responding to, or subsequent engagement with, the Agency, is voluntary; and
+
+      * (ii) to the extent practicable, information regarding the process through which the Director identifies security vulnerabilities.
+
+* #### (8) Limitation on procedures
+  * The internal procedures established pursuant to paragraph (7) may not require an owner or operator of critical infrastructure to take any action as a result of a notice of vulnerability made pursuant to this chapter.
+
+* #### (9) Review of procedures
+  * Not later than 1 year after January 1, 2021, the Privacy Officer of the Agency shall—
+
+    * (A) review the internal procedures established pursuant to paragraph (7) to ensure that—
+
+      * (i) such procedures are consistent with fair information practices; and
+
+      * (ii) the operations of the Agency comply with such procedures; and
+
+
+    * (B) notify the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security of the House of Representatives of the results of the review under subparagraph (A).
+
+* #### (10) Publication of information
+  * Not later than 120 days after establishing the internal procedures under paragraph (7), the Director shall publish information on the website of the Agency regarding the subpoena process under this subsection, including information regarding the following:
+
+    * (A) Such internal procedures.
+
+    * (B) The purpose for subpoenas issued pursuant to this subsection.
+
+    * (C) The subpoena process.
+
+    * (D) The criteria for the critical infrastructure security risk assessment conducted prior to issuing a subpoena.
+
+    * (E) Policies and procedures on retention and sharing of data obtained by subpoenas.
+
+    * (F) Guidelines on how entities contacted by the Director may respond to notice of a subpoena.
+
+* #### (11) Annual reports
+  * The Director shall annually submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security of the House of Representatives a report (which may include a classified annex but with the presumption of declassification) on the use of subpoenas issued pursuant to this subsection, which shall include the following:
+
+    * (A) A discussion of the following:
+
+      * (i) The effectiveness of the use of such subpoenas to mitigate critical infrastructure security vulnerabilities.
+
+      * (ii) The critical infrastructure security risk assessment process conducted for subpoenas issued under this subsection.
+
+      * (iii) The number of subpoenas so issued during the preceding year.
+
+      * (iv) To the extent practicable, the number of vulnerable covered devices or systems mitigated under this subsection by the Agency during the preceding year.
+
+      * (v) The number of entities notified by the Director under this subsection, and their responses, during the preceding year.
+
+
+    * (B) For each subpoena issued pursuant to this subsection, the following:
+
+      * (i) Information relating to the source of the security vulnerability detected, identified, or received by the Director.
+
+      * (ii) Information relating to the steps taken to identify the entity at risk prior to issuing the subpoena.
+
+      * (iii) A description of the outcome of the subpoena, including discussion on the resolution or mitigation of the critical infrastructure security vulnerability.
+
+* #### (12) Publication of the annual reports
+  * The Director shall publish a version of the annual report required under paragraph (11) on the website of the Agency, which shall, at a minimum, include the findings described in clauses (iii), (iv), and (v) of subparagraph (A) of such paragraph.
+
+* #### (13) Prohibition on use of information for unauthorized purposes
+  * Any information obtained pursuant to a subpoena issued under this subsection may not be provided to any other Federal department or agency for any purpose other than a cybersecurity purpose or for the purpose of enforcing a subpoena issued pursuant to this subsection.
 
 ### §660. Cybersecurity plans
 #### (a) Definitions
@@ -859,7 +1152,7 @@
   * The Secretary shall identify and evaluate methods, including the Department's Protected Critical Infrastructure Information Program, to acquire relevant private sector information for the purpose of using that information to generate any database or list, including the database established under subsection (a)(1) and the list established under subsection (a)(2).
 
 * #### (4) Retention of classification
-  * The classification of information required to be provided to Congress, the Department, or any other department or agency under this section by a sector-specific agency, including the assignment of a level of classification of such information, shall be binding on Congress, the Department, and that other Federal agency.
+  * The classification of information required to be provided to Congress, the Department, or any other department or agency under this section by a Sector Risk Management Agency, including the assignment of a level of classification of such information, shall be binding on Congress, the Department, and that other Federal agency.
 
 #### (d) Reports
 * #### (1) Report required
@@ -891,3 +1184,549 @@
   * (1) be composed of national laboratories, Federal agencies, State and local homeland security organizations, academic institutions, or national Centers of Excellence that have demonstrated experience working with and identifying critical infrastructure and key resources; and
 
   * (2) provide input to the Secretary on any request pertaining to the contents of such database or such list.
+
+### §665. Duties and authorities relating to .gov internet domain
+#### (a) Definition
+* In this section, the term "agency" has the meaning given the term in section 3502 of title 44.
+
+#### (b) Availability of .gov internet domain
+* The Director shall make .gov internet domain name registration services, as well as any supporting services described in subsection (e), generally available—
+
+  * (1) to any Federal, State, local, or territorial government entity, or other publicly controlled entity, including any Tribal government recognized by the Federal Government or a State government, that complies with the requirements for registration developed by the Director as described in subsection (c);
+
+  * (2) without conditioning registration on the sharing of any information with the Director or any other Federal entity, other than the information required to meet the requirements described in subsection (c); and
+
+  * (3) without conditioning registration on participation in any separate service offered by the Director or any other Federal entity.
+
+#### (c) Requirements
+* The Director, with the approval of the Director of the Office of Management and Budget for agency .gov internet domain requirements and in consultation with the Director of the Office of Management and Budget for .gov internet domain requirements for entities that are not agencies, shall establish and publish on a publicly available website requirements for the registration and operation of .gov internet domains sufficient to—
+
+  * (1) minimize the risk of .gov internet domains whose names could mislead or confuse users;
+
+  * (2) establish that .gov internet domains may not be used for commercial or political campaign purposes;
+
+  * (3) ensure that domains are registered and maintained only by authorized individuals; and
+
+  * (4) limit the sharing or use of any information obtained through the administration of the .gov internet domain with any other Department component or any other agency for any purpose other than the administration of the .gov internet domain, the services described in subsection (e), and the requirements for establishing a .gov inventory described in subsection (h).
+
+#### (d) Executive branch
+* #### (1) In general
+  * The Director of the Office of Management and Budget shall establish applicable processes and guidelines for the registration and acceptable use of .gov internet domains by agencies.
+
+* #### (2) Approval required
+  * The Director shall obtain the approval of the Director of the Office of Management and Budget before registering a .gov internet domain name for an agency.
+
+* #### (3) Compliance
+  * Each agency shall ensure that any website or digital service of the agency that uses a .gov internet domain is in compliance with the 21st Century IDEA Act (44 U.S.C. 3501 note) and implementation guidance issued pursuant to that Act.
+
+#### (e) Supporting services
+* #### (1) In general
+  * The Director may provide services to the entities described in subsection (b)(1) specifically intended to support the security, privacy, reliability, accessibility, and speed of registered .gov internet domains.
+
+* #### (2) Rule of construction
+  * Nothing in paragraph (1) shall be construed to—
+
+    * (A) limit other authorities of the Director to provide services or technical assistance to an entity described in subsection (b)(1); or
+
+    * (B) establish new authority for services other than those the purpose of which expressly supports the operation of .gov internet domains and the needs of .gov internet domain registrants.
+
+#### (f) Fees
+* #### (1) In general
+  * The Director may provide any service relating to the availability of the .gov internet domain program, including .gov internet domain name registration services described in subsection (b) and supporting services described in subsection (e), to entities described in subsection (b)(1) with or without reimbursement, including variable pricing.
+
+* #### (2) Limitation
+  * The total fees collected for new .gov internet domain registrants or annual renewals of .gov internet domains shall not exceed the direct operational expenses of improving, maintaining, and operating the .gov internet domain, .gov internet domain services, and .gov internet domain supporting services.
+
+#### (g) Consultation
+* The Director shall consult with the Director of the Office of Management and Budget, the Administrator of General Services, other civilian Federal agencies as appropriate, and entities representing State, local, Tribal, or territorial governments in developing the strategic direction of the .gov internet domain and in establishing requirements under subsection (c), in particular on matters of privacy, accessibility, transparency, and technology modernization.
+
+#### (h) .gov inventory
+* #### (1) In general
+  * The Director shall, on a continuous basis—
+
+    * (A) inventory all hostnames and services in active use within the .gov internet domain; and
+
+    * (B) provide the data described in subparagraph (A) to domain registrants at no cost.
+
+* #### (2) Requirements
+  * In carrying out paragraph (1)—
+
+    * (A) data may be collected through analysis of public and non-public sources, including commercial data sets;
+
+    * (B) the Director shall share with Federal and non-Federal domain registrants all unique hostnames and services discovered within the zone of their registered domain;
+
+    * (C) the Director shall share any data or information collected or used in the management of the .gov internet domain name registration services relating to Federal executive branch registrants with the Director of the Office of Management and Budget for the purpose of fulfilling the duties of the Director of the Office of Management and Budget under section 3553 of title 44;
+
+    * (D) the Director shall publish on a publicly available website discovered hostnames that describe publicly accessible agency websites, to the extent consistent with the security of Federal information systems but with the presumption of disclosure;
+
+    * (E) the Director may publish on a publicly available website any analysis conducted and data collected relating to compliance with Federal mandates and industry best practices, to the extent consistent with the security of Federal information systems but with the presumption of disclosure; and
+
+    * (F) the Director shall—
+
+      * (i) collect information on the use of non-.gov internet domain suffixes by agencies for their official online services;
+
+      * (ii) collect information on the use of non-.gov internet domain suffixes by State, local, Tribal, and territorial governments; and
+
+      * (iii) publish the information collected under clause (i) on a publicly available website to the extent consistent with the security of the Federal information systems, but with the presumption of disclosure.
+
+* #### (3) National security coordination
+  * #### (A) In general
+    * In carrying out this subsection, the Director shall inventory, collect, and publish hostnames and services in a manner consistent with the protection of national security information.
+
+  * #### (B) Limitation
+    * The Director may not inventory, collect, or publish hostnames or services under this subsection if the Director, in coordination with other heads of agencies, as appropriate, determines that the collection or publication would—
+
+      * (i) disrupt a law enforcement investigation;
+
+      * (ii) endanger national security or intelligence activities;
+
+      * (iii) impede national defense activities or military operations; or
+
+      * (iv) hamper security remediation actions.
+
+* #### (4) Strategy
+  * Not later than 180 days after December 27, 2020, the Director shall develop and submit to the Committee on Homeland Security and Governmental Affairs and the Committee on Rules and Administration of the Senate and the Committee on Homeland Security, the Committee on Oversight and Reform, and the Committee on House Administration of the House of Representatives a strategy to utilize the information collected under this subsection for countering malicious cyber activity.
+
+### §665a. Intelligence and cybersecurity diversity fellowship program
+#### (a) Definitions
+* In this section:
+
+* #### (1) Appropriate committees of Congress
+  * The term "appropriate committees of Congress" means—
+
+    * (A) the Committee on Homeland Security and Governmental Affairs and the Select Committee on Intelligence of the Senate; and
+
+    * (B) the Committee on Homeland Security and the Permanent Select Committee on Intelligence of the House of Representatives.
+
+* #### (2) Excepted service
+  * The term "excepted service" has the meaning given that term in section 2103 of title 5.
+
+* #### (3) Historically Black college or university
+  * The term "historically Black college or university" has the meaning given the term "part B institution" in section 1061 of title 20.
+
+* #### (4) Institution of higher education
+  * The term "institution of higher education" has the meaning given that term in section 1001 of title 20.
+
+* #### (5) Minority-serving institution
+  * The term "minority-serving institution" means an institution of higher education described in section 1067q(a) of title 20.
+
+#### (b) Program
+* The Secretary shall carry out an intelligence and cybersecurity diversity fellowship program (in this section referred to as the "Program") under which an eligible individual may—
+
+  * (1) participate in a paid internship at the Department that relates to intelligence, cybersecurity, or some combination thereof;
+
+  * (2) receive tuition assistance from the Secretary; and
+
+  * (3) upon graduation from an institution of higher education and successful completion of the Program (as defined by the Secretary), receive an offer of employment to work in an intelligence or cybersecurity position of the Department that is in the excepted service.
+
+#### (c) Eligibility
+* To be eligible to participate in the Program, an individual shall—
+
+  * (1) be a citizen of the United States; and
+
+  * (2) as of the date of submitting the application to participate in the Program—
+
+    * (A) have a cumulative grade point average of at least 3.2 on a 4.0 scale;
+
+    * (B) be a socially disadvantaged individual (as that term in defined in section 124.103 of title 13, Code of Federal Regulations, or successor regulation); and
+
+    * (C) be a sophomore, junior, or senior at an institution of higher education.
+
+#### (d) Direct hire authority
+* If an individual who receives an offer of employment under subsection (b)(3) accepts such offer, the Secretary shall appoint, without regard to provisions of subchapter I of chapter 33 of title 5 (except for section 3328 of such title) such individual to the position specified in such offer.
+
+#### (e) Reports
+* #### (1) Reports
+  * Not later than 1 year after December 27, 2020, and on an annual basis thereafter, the Secretary shall submit to the appropriate committees of Congress a report on the Program.
+
+* #### (2) Matters
+  * Each report under paragraph (1) shall include, with respect to the most recent year, the following:
+
+    * (A) A description of outreach efforts by the Secretary to raise awareness of the Program among institutions of higher education in which eligible individuals are enrolled.
+
+    * (B) Information on specific recruiting efforts conducted by the Secretary to increase participation in the Program.
+
+    * (C) The number of individuals participating in the Program, listed by the institution of higher education in which the individual is enrolled at the time of participation, and information on the nature of such participation, including on whether the duties of the individual under the Program relate primarily to intelligence or to cybersecurity.
+
+    * (D) The number of individuals who accepted an offer of employment under the Program and an identification of the element within the Department to which each individual was appointed.
+
+### §665b. Joint cyber planning office
+#### (a) Establishment of Office
+* There is established in the Agency an office for joint cyber planning (in this section referred to as the "Office") to develop, for public and private sector entities, plans for cyber defense operations, including the development of a set of coordinated actions to protect, detect, respond to, and recover from cybersecurity risks or incidents or limit, mitigate, or defend against coordinated, malicious cyber operations that pose a potential risk to critical infrastructure or national interests. The Office shall be headed by a senior official of the Agency selected by the Director.
+
+#### (b) Planning and execution
+* In leading the development of plans for cyber defense operations pursuant to subsection (a), the head of the Office shall—
+
+  * (1) coordinate with relevant Federal departments and agencies to establish processes and procedures necessary to develop and maintain ongoing coordinated plans for cyber defense operations;
+
+  * (2) leverage cyber capabilities and authorities of participating Federal departments and agencies, as appropriate, in furtherance of plans for cyber defense operations;
+
+  * (3) ensure that plans for cyber defense operations are, to the greatest extent practicable, developed in collaboration with relevant private sector entities, particularly in areas in which such entities have comparative advantages in limiting, mitigating, or defending against a cybersecurity risk or incident or coordinated, malicious cyber operation;
+
+  * (4) ensure that plans for cyber defense operations, as appropriate, are responsive to potential adversary activity conducted in response to United States offensive cyber operations;
+
+  * (5) facilitate the exercise of plans for cyber defense operations, including by developing and modeling scenarios based on an understanding of adversary threats to, vulnerability of, and potential consequences of disruption or compromise of critical infrastructure;
+
+  * (6) coordinate with and, as necessary, support relevant Federal departments and agencies in the establishment of procedures, development of additional plans, including for offensive and intelligence activities in support of cyber defense operations, and creation of agreements necessary for the rapid execution of plans for cyber defense operations when a cybersecurity risk or incident or malicious cyber operation has been identified; and
+
+  * (7) support public and private sector entities, as appropriate, in the execution of plans developed pursuant to this section.
+
+#### (c) Composition
+* The Office shall be composed of—
+
+  * (1) a central planning staff; and
+
+  * (2) appropriate representatives of Federal departments and agencies, including—
+
+    * (A) the Department;
+
+    * (B) United States Cyber Command;
+
+    * (C) the National Security Agency;
+
+    * (D) the Federal Bureau of Investigation;
+
+    * (E) the Department of Justice; and
+
+    * (F) the Office of the Director of National Intelligence.
+
+#### (d) Consultation
+* In carrying out its responsibilities described in subsection (b), the Office shall regularly consult with appropriate representatives of non-Federal entities, such as—
+
+  * (1) State, local, federally-recognized Tribal, and territorial governments;
+
+  * (2) information sharing and analysis organizations, including information sharing and analysis centers;
+
+  * (3) owners and operators of critical information systems;
+
+  * (4) private entities; and
+
+  * (5) other appropriate representatives or entities, as determined by the Secretary.
+
+#### (e) Interagency agreements
+* The Secretary and the head of a Federal department or agency referred to in subsection (c) may enter into agreements for the purpose of detailing personnel on a reimbursable or non-reimbursable basis.
+
+#### (f) Definitions
+* In this section:
+
+* #### (1) Cyber defense operation
+  * The term "cyber defense operation" means defensive activities performed for a cybersecurity purpose.
+
+* #### (2) Cybersecurity purpose
+  * The term "cybersecurity purpose" has the meaning given such term in section 1501 of this title.
+
+* #### (3) Cybersecurity risk; incident
+  * The terms "cybersecurity risk" and "incident" have the meanings given such terms in section 659 of this title.
+
+* #### (4) Information sharing and analysis organization
+  * The term "information sharing and analysis organization" has the meaning given such term in section 671(5) of this title.
+
+### §665c. Cybersecurity State Coordinator
+#### (a) Appointment
+* The Director shall appoint an employee of the Agency in each State, with the appropriate cybersecurity qualifications and expertise, who shall serve as the Cybersecurity State Coordinator.
+
+#### (b) Duties
+* The duties of a Cybersecurity State Coordinator appointed under subsection (a) shall include—
+
+  * (1) building strategic public and, on a voluntary basis, private sector relationships, including by advising on establishing governance structures to facilitate the development and maintenance of secure and resilient infrastructure;
+
+  * (2) serving as the Federal cybersecurity risk advisor and supporting preparation, response, and remediation efforts relating to cybersecurity risks and incidents;
+
+  * (3) facilitating the sharing of cyber threat information to improve understanding of cybersecurity risks and situational awareness of cybersecurity incidents;
+
+  * (4) raising awareness of the financial, technical, and operational resources available from the Federal Government to non-Federal entities to increase resilience against cyber threats;
+
+  * (5) supporting training, exercises, and planning for continuity of operations to expedite recovery from cybersecurity incidents, including ransomware;
+
+  * (6) serving as a principal point of contact for non-Federal entities to engage, on a voluntary basis, with the Federal Government on preparing, managing, and responding to cybersecurity incidents;
+
+  * (7) assisting non-Federal entities in developing and coordinating vulnerability disclosure programs consistent with Federal and information security industry standards;
+
+  * (8) assisting State, local, Tribal, and territorial governments, on a voluntary basis, in the development of State cybersecurity plans;
+
+  * (9) coordinating with appropriate officials within the Agency; and
+
+  * (10) performing such other duties as determined necessary by the Director to achieve the goal of managing cybersecurity risks in the United States and reducing the impact of cyber threats to non-Federal entities.
+
+#### (c) Feedback
+* The Director shall consult with relevant State, local, Tribal, and territorial officials regarding the appointment, and State, local, Tribal, and territorial officials and other non-Federal entities regarding the performance, of the Cybersecurity State Coordinator of a State.
+
+### §665d. Sector risk management agencies
+#### (a) In general
+* Consistent with applicable law, Presidential directives, Federal regulations, and strategic guidance from the Secretary, each Sector Risk Management Agency, in coordination with the Director, shall—
+
+  * (1) provide specialized sector-specific expertise to critical infrastructure owners and operators within its designated critical infrastructure sector or subsector of such sector; and
+
+  * (2) support programs and associated activities of such sector or subsector of such sector.
+
+#### (b) Implementation
+* In carrying out this section, Sector Risk Management Agencies shall—
+
+  * (1) coordinate with the Department and, as appropriate, other relevant Federal departments and agencies;
+
+  * (2) collaborate with critical infrastructure owners and operators within the designated critical infrastructure sector or subsector of such sector; and
+
+  * (3) coordinate with independent regulatory agencies, and State, local, Tribal, and territorial entities, as appropriate.
+
+#### (c) Responsibilities
+* Consistent with applicable law, Presidential directives, Federal regulations, and strategic guidance from the Secretary, each Sector Risk Management Agency shall utilize its specialized expertise regarding its designated critical infrastructure sector or subsector of such sector and authorities under applicable law to—
+
+  * (1) support sector risk management, in coordination with the Director, including—
+
+    * (A) establishing and carrying out programs to assist critical infrastructure owners and operators within the designated sector or subsector of such sector in identifying, understanding, and mitigating threats, vulnerabilities, and risks to their systems or assets, or within a region, sector, or subsector of such sector; and
+
+    * (B) recommending security measures to mitigate the consequences of destruction, compromise, and disruption of systems and assets;
+
+
+  * (2) assess sector risk, in coordination with the Director, including—
+
+    * (A) identifying, assessing, and prioritizing risks within the designated sector or subsector of such sector, considering physical security and cybersecurity threats, vulnerabilities, and consequences; and
+
+    * (B) supporting national risk assessment efforts led by the Department;
+
+
+  * (3) sector coordination, including—
+
+    * (A) serving as a day-to-day Federal interface for the prioritization and coordination of sector-specific activities and responsibilities under this title;
+
+    * (B) serving as the Federal Government coordinating council chair for the designated sector or subsector of such sector; and
+
+    * (C) participating in cross-sector coordinating councils, as appropriate;
+
+
+  * (4) facilitating, in coordination with the Director, the sharing with the Department and other appropriate Federal department of information regarding physical security and cybersecurity threats within the designated sector or subsector of such sector, including—
+
+    * (A) facilitating, in coordination with the Director, access to, and exchange of, information and intelligence necessary to strengthen the security of critical infrastructure, including through information sharing and analysis organizations and the national cybersecurity and communications integration center established pursuant to section 659 of this title;
+
+    * (B) facilitating the identification of intelligence needs and priorities of critical infrastructure owners and operators in the designated sector or subsector of such sector, in coordination with the Director of National Intelligence and the heads of other Federal departments and agencies, as appropriate;
+
+    * (C) providing the Director, and facilitating awareness within the designated sector or subsector of such sector, of ongoing, and where possible, real-time awareness of identified threats, vulnerabilities, mitigations, and other actions related to the security of such sector or subsector of such sector; and
+
+    * (D) supporting the reporting requirements of the Department under applicable law by providing, on an annual basis, sector-specific critical infrastructure information;
+
+
+  * (5) supporting incident management, including—
+
+    * (A) supporting, in coordination with the Director, incident management and restoration efforts during or following a security incident; and
+
+    * (B) supporting the Director, upon request, in national cybersecurity asset response activities for critical infrastructure; and
+
+
+  * (6) contributing to emergency preparedness efforts, including—
+
+    * (A) coordinating with critical infrastructure owners and operators within the designated sector or subsector of such sector and the Director in the development of planning documents for coordinated action in the event of a natural disaster, act of terrorism, or other man-made disaster or emergency;
+
+    * (B) participating in and, in coordination with the Director, conducting or facilitating, exercises and simulations of potential natural disasters, acts of terrorism, or other man-made disasters or emergencies within the designated sector or subsector of such sector; and
+
+    * (C) supporting the Department and other Federal departments or agencies in developing planning documents or conducting exercises or simulations when relevant to the designated sector or subsector or such sector.
+
+### §665e. Cybersecurity Advisory Committee
+#### (a) Establishment
+* The Secretary shall establish within the Agency a Cybersecurity Advisory Committee (referred to in this section as the "Advisory Committee").
+
+#### (b) Duties
+* #### (1) In general
+  * The Advisory Committee shall advise, consult with, report to, and make recommendations to the Director, as appropriate, on the development, refinement, and implementation of policies, programs, planning, and training pertaining to the cybersecurity mission of the Agency.
+
+* #### (2) Recommendations
+  * #### (A) In general
+    * The Advisory Committee shall develop, at the request of the Director, recommendations for improvements to advance the cybersecurity mission of the Agency and strengthen the cybersecurity of the United States.
+
+  * #### (B) Recommendations of subcommittees
+    * Recommendations agreed upon by subcommittees established under subsection (d) for any year shall be approved by the Advisory Committee before the Advisory Committee submits to the Director the annual report under paragraph (4) for that year.
+
+* #### (3) Periodic reports
+  * The Advisory Committee shall periodically submit to the Director—
+
+    * (A) reports on matters identified by the Director; and
+
+    * (B) reports on other matters identified by a majority of the members of the Advisory Committee.
+
+* #### (4) Annual report
+  * #### (A) In general
+    * The Advisory Committee shall submit to the Director an annual report providing information on the activities, findings, and recommendations of the Advisory Committee, including its subcommittees, for the preceding year.
+
+  * #### (B) Publication
+    * Not later than 180 days after the date on which the Director receives an annual report for a year under subparagraph (A), the Director shall publish a public version of the report describing the activities of the Advisory Committee and such related matters as would be informative to the public during that year, consistent with section 552(b) of title 5.
+
+* #### (5) Feedback
+  * Not later than 90 days after receiving any recommendation submitted by the Advisory Committee under paragraph (2), (3), or (4), the Director shall respond in writing to the Advisory Committee with feedback on the recommendation. Such a response shall include—
+
+    * (A) with respect to any recommendation with which the Director concurs, an action plan to implement the recommendation; and
+
+    * (B) with respect to any recommendation with which the Director does not concur, a justification for why the Director does not plan to implement the recommendation.
+
+* #### (6) Congressional notification
+  * Not less frequently than once per year after January 1, 2021, the Director shall provide to the Committee on Homeland Security and Governmental Affairs and the Committee on Appropriations of the Senate and the Committee on Homeland Security, the Committee on Energy and Commerce, and the Committee on Appropriations of the House of Representatives a briefing on feedback from the Advisory Committee.
+
+* #### (7) Governance rules
+  * The Director shall establish rules for the structure and governance of the Advisory Committee and all subcommittees established under subsection (d).
+
+#### (c) Membership
+* #### (1) Appointment
+  * #### (A) In general
+    * Not later than 180 days after the date of enactment of the Cybersecurity Advisory Committee Authorization Act of 2020, the Director shall appoint the members of the Advisory Committee.
+
+  * #### (B) Composition
+    * The membership of the Advisory Committee shall consist of not more than 35 individuals.
+
+  * #### (C) Representation
+    * #### (i) In general
+      * The membership of the Advisory Committee shall satisfy the following criteria:
+
+        * (I) Consist of subject matter experts.
+
+        * (II) Be geographically balanced.
+
+        * (III) Include representatives of State, local, and Tribal governments and of a broad range of industries, which may include the following:
+
+          * (aa) Defense.
+
+          * (bb) Education.
+
+          * (cc) Financial services and insurance.
+
+          * (dd) Healthcare.
+
+          * (ee) Manufacturing.
+
+          * (ff) Media and entertainment.
+
+          * (gg) Chemicals.
+
+          * (hh) Retail.
+
+          * (ii) Transportation.
+
+          * (jj) Energy.
+
+          * (kk) Information Technology.
+
+          * (ll) Communications.
+
+          * (mm) Other relevant fields identified by the Director.
+
+    * #### (ii) Prohibition
+      * Not fewer than one member nor more than three members may represent any one category under clause (i)(III).
+
+    * #### (iii) Publication of membership list
+      * The Advisory Committee shall publish its membership list on a publicly available website not less than once per fiscal year and shall update the membership list as changes occur.
+
+* #### (2) Term of office
+  * #### (A) Terms
+    * The term of each member of the Advisory Committee shall be two years, except that a member may continue to serve until a successor is appointed.
+
+  * #### (B) Removal
+    * The Director may review the participation of a member of the Advisory Committee and remove such member any time at the discretion of the Director.
+
+  * #### (C) Reappointment
+    * A member of the Advisory Committee may be reappointed for an unlimited number of terms.
+
+* #### (3) Prohibition on compensation
+  * The members of the Advisory Committee may not receive pay or benefits from the United States Government by reason of their service on the Advisory Committee.
+
+* #### (4) Meetings
+  * #### (A) In general
+    * The Director shall require the Advisory Committee to meet not less frequently than semiannually, and may convene additional meetings as necessary.
+
+  * #### (B) Public meetings
+    * At least one of the meetings referred to in subparagraph (A) shall be open to the public.
+
+  * #### (C) Attendance
+    * The Advisory Committee shall maintain a record of the persons present at each meeting.
+
+* #### (5) Member access to classified information
+  * #### (A) In general
+    * Not later than 60 days after the date on which a member is first appointed to the Advisory Committee and before the member is granted access to any classified information, the Director shall determine, for the purposes of the Advisory Committee, if the member should be restricted from reviewing, discussing, or possessing classified information.
+
+  * #### (B) Access
+    * Access to classified materials shall be managed in accordance with Executive Order No. 13526 of December 29, 2009 (75 Fed. Reg. 707), or any subsequent corresponding Executive Order.
+
+  * #### (C) Protections
+    * A member of the Advisory Committee shall protect all classified information in accordance with the applicable requirements for the particular level of classification of such information.
+
+  * #### (D) Rule of construction
+    * Nothing in this paragraph shall be construed to affect the security clearance of a member of the Advisory Committee or the authority of a Federal agency to provide a member of the Advisory Committee access to classified information.
+
+* #### (6) Chairperson
+  * The Advisory Committee shall select, from among the members of the Advisory Committee—
+
+    * (A) a member to serve as chairperson of the Advisory Committee; and
+
+    * (B) a member to serve as chairperson of each subcommittee of the Advisory Committee established under subsection (d).
+
+#### (d) Subcommittees
+* #### (1) In general
+  * The Director shall establish subcommittees within the Advisory Committee to address cybersecurity issues, which may include the following:
+
+    * (A) Information exchange.
+
+    * (B) Critical infrastructure.
+
+    * (C) Risk management.
+
+    * (D) Public and private partnerships.
+
+* #### (2) Meetings and reporting
+  * Each subcommittee shall meet not less frequently than semiannually, and submit to the Advisory Committee for inclusion in the annual report required under subsection (b)(4) information, including activities, findings, and recommendations, regarding subject matter considered by the subcommittee.
+
+* #### (3) Subject matter experts
+  * The chair of the Advisory Committee shall appoint members to subcommittees and shall ensure that each member appointed to a subcommittee has subject matter expertise relevant to the subject matter of the subcommittee.
+
+### §665f. Cybersecurity education and training programs
+#### (a) Establishment
+* #### (1) In general
+  * The Cybersecurity Education and Training Assistance Program (referred to in this section as "CETAP") is established within the Agency.
+
+* #### (2) Purpose
+  * The purpose of CETAP shall be to support the effort of the Agency in building and strengthening a national cybersecurity workforce pipeline capacity through enabling elementary and secondary cybersecurity education, including by—
+
+    * (A) providing foundational cybersecurity awareness and literacy;
+
+    * (B) encouraging cybersecurity career exploration; and
+
+    * (C) supporting the teaching of cybersecurity skills at the elementary and secondary education levels.
+
+#### (b) Requirements
+* In carrying out CETAP, the Director shall—
+
+  * (1) ensure that the program—
+
+    * (A) creates and disseminates cybersecurity-focused curricula and career awareness materials appropriate for use at the elementary and secondary education levels;
+
+    * (B) conducts professional development sessions for teachers;
+
+    * (C) develops resources for the teaching of cybersecurity-focused curricula described in subparagraph (A);
+
+    * (D) provides direct student engagement opportunities through camps and other programming;
+
+    * (E) engages with State educational agencies and local educational agencies to promote awareness of the program and ensure that offerings align with State and local curricula;
+
+    * (F) integrates with existing post-secondary education and workforce development programs at the Department;
+
+    * (G) promotes and supports national standards for elementary and secondary cyber education;
+
+    * (H) partners with cybersecurity and education stakeholder groups to expand outreach; and
+
+    * (I) any other activity the Director determines necessary to meet the purpose described in subsection (a)(2); and
+
+
+  * (2) enable the deployment of CETAP nationwide, with special consideration for underserved populations or communities.
+
+#### (c) Briefings
+* #### (1) In general
+  * Not later than 1 year after the establishment of CETAP, and annually thereafter, the Secretary shall brief the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security of the House of Representatives on the program.
+
+* #### (2) Contents
+  * Each briefing conducted under paragraph (1) shall include—
+
+    * (A) estimated figures on the number of students reached and teachers engaged;
+
+    * (B) information on outreach and engagement efforts, including the activities described in subsection (b)(1)(E);
+
+    * (C) information on new curricula offerings and teacher training platforms; and
+
+    * (D) information on coordination with post-secondary education and workforce development programs at the Department.
+
+#### (d) Mission promotion
+* The Director may use appropriated amounts to purchase promotional and recognition items and marketing and advertising services to publicize and promote the mission and services of the Agency, support the activities of the Agency, and to recruit and retain Agency personnel.

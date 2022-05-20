@@ -144,8 +144,16 @@
 
     * (E) One point for each day on which funeral honors duty is performed for at least two hours under section 12503 of this title or section 115 of title 32, unless the duty is performed while in a status for which credit is provided under another subparagraph of this paragraph.
 
+    * (F)(i) Subject to regulations prescribed by the Secretary of Defense or the Secretary of Homeland Security with respect to matters concerning the Coast Guard when it is not operating as a service in the Department of the Navy, one point for each day of active service or one point for each drill or period of equivalent instruction that was prescribed by the Secretary concerned to be performed during the covered emergency period, if such person was prevented from performing such duty due to travel or duty restrictions imposed by the President, the Secretary of Defense, or the Secretary of Homeland Security with respect to the Coast Guard.
 
-* For the purpose of clauses (A), (B), (C), (D), and (E), service in the National Guard shall be treated as if it were service in a reserve component, if the person concerned was later appointed in the National Guard of the United States, the Army National Guard of the United States, the Air National Guard of the United States, or as a Reserve of the Army or the Air Force, and served continuously in the National Guard from the date of his Federal recognition to the date of that appointment.
+    * (ii) A person may not be credited more than 35 points in a one-year period under this subparagraph.
+
+    * (iii) In this subparagraph, the term "covered emergency period" means the period beginning on March 1, 2020, and ending on the day that is 60 days after the date on which the travel or duty restriction applicable to the person concerned is lifted.
+
+    * (G) Points at the rate of 12 per period during which the member is on maternity leave.
+
+
+* For the purpose of clauses (A), (B), (C), (D), (E), (F), and (G), service in the National Guard shall be treated as if it were service in a reserve component, if the person concerned was later appointed in the National Guard of the United States, the Army National Guard of the United States, the Air National Guard of the United States, or as a Reserve of the Army or the Air Force, and served continuously in the National Guard from the date of his Federal recognition to the date of that appointment.
 
   * (3) The person's years of active service in the Commissioned Corps of the Public Health Service.
 
@@ -177,7 +185,7 @@
 
   * (2) The person's days of full-time service under sections 316, 502, 503, 504, and 505 of title 32 while performing annual training duty or while attending a prescribed course of instruction at a school designated as a service school by law or by the Secretary concerned.
 
-  * (3) One day for each point credited to the person under clause (B), (C), or (D) of section 12732(a)(2) of this title, but not more than—
+  * (3) One day for each point credited to the person under clause (B), (C), (D), or (F) of section 12732(a)(2) of this title, but not more than—
 
     * (A) 60 days in any one year of service before the year of service that includes September 23, 1996;
 
@@ -190,7 +198,9 @@
 
   * (4) One day for each point credited to the person under subparagraph (E) of section 12732(a)(2) of this title.
 
-  * (5) 50 days for each year before July 1, 1949, and proportionately for each fraction of a year, of service (other than active service) in a reserve component of an armed force, in the Army or the Air Force without component, or in any other category covered by section 12732(a)(1) of this title, except a regular component.
+  * (5) One day for each point credited to the person under subparagraph (F) of section 12732(a)(2) of this title.
+
+  * (6) 50 days for each year before July 1, 1949, and proportionately for each fraction of a year, of service (other than active service) in a reserve component of an armed force, in the Army or the Air Force without component, or in any other category covered by section 12732(a)(1) of this title, except a regular component.
 
 ### §12734. Time not creditable toward years of service
 * (a) Service in an inactive status may not be counted in any computation of years of service under this chapter.

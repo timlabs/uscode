@@ -10,7 +10,18 @@
 
     * (B) information regarding all the persons described in subparagraph (A) of this paragraph who have changed their status to a category not identified under section 922(g)(5) of title 18 for removal, when applicable, from the National Instant Criminal Background Check System.
 
-* #### (2) Department of Justice
+* #### (2) Department of Defense
+  * #### (A) In general
+    * Not later than 3 business days after the final disposition of a judicial proceeding conducted within the Department of Defense, the Secretary of Defense shall make available to the Attorney General records which are relevant to a determination of whether a member of the Armed Forces involved in such proceeding is disqualified from possessing or receiving a firearm under subsection (g) or (n) of section 922 of title 18 for use in background checks performed by the National Instant Criminal Background Check System.
+
+  * #### (B) Judicial proceeding defined
+    * In this paragraph, the term "judicial proceeding" means a hearing—
+
+      * (i) of which the person received actual notice; and
+
+      * (ii) at which the person had an opportunity to participate with counsel.
+
+* #### (3) Department of Justice
   * The Attorney General shall—
 
     * (A) ensure that any information submitted to, or maintained by, the Attorney General under this section is kept accurate and confidential, as required by the laws, regulations, policies, or procedures governing the applicable record system;

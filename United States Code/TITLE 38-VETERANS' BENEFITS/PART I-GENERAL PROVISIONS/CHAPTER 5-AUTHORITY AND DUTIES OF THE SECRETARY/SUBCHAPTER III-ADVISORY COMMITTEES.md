@@ -66,9 +66,11 @@
 
   * (A) an assessment of the needs of women veterans with respect to compensation, health care, rehabilitation, outreach, and other benefits and programs administered by the Department;
 
-  * (B) a review of the programs and activities of the Department designed to meet such needs; and
+  * (B) a review of the programs and activities of the Department designed to meet such needs;
 
-  * (C) such recommendations (including recommendations for administrative and legislative action) as the Committee considers appropriate.
+  * (C) an assessment of the effects of intimate partner violence on women veterans; and
+
+  * (D) such recommendations (including recommendations for administrative and legislative action) as the Committee considers appropriate.
 
 
 * (2) The Secretary shall, within 60 days after receiving each report under paragraph (1), submit to the Congress a copy of the report, together with any comments concerning the report that the Secretary considers appropriate.
@@ -275,3 +277,123 @@
 * (f) APPLICABILITY OF FEDERAL ADVISORY COMMITTEE ACT.—(1) Except as provided in paragraph (2), the provisions of the Federal Advisory Committee Act (5 U.S.C. App.) shall apply to the activities of the Committee under this section.
 
 * (2) Section 14 of such Act shall not apply to the Committee.
+
+### §547. Advisory Committee on Tribal and Indian Affairs
+* (a) ESTABLISHMENT.—(1) The Secretary shall establish an advisory committee to provide advice and guidance to the Secretary on matters relating to Indian tribes, tribal organizations, and Native American veterans.
+
+* (2) The advisory committee established under paragraph (1) shall be known as the "Advisory Committee on Tribal and Indian Affairs" (in this section referred to as the "Committee").
+
+* (3) The Committee shall facilitate, but not supplant, government-to-government consultation between the Department and Indian tribes or tribal organizations.
+
+* (4) The Secretary shall consult with Indian tribes or tribal organizations in developing a charter for the Committee.
+
+* (b) MEMBERSHIP.—(1) The Committee shall be comprised of 15 voting members selected by the Secretary from among individuals nominated as specified under this subsection.
+
+* (2) In selecting members under paragraph (1), the Secretary shall ensure that—
+
+  * (A) at least one member of each of the 12 service areas of the Indian Health Service is represented in the membership of the Committee nominated by Indian tribes or tribal organizations;
+
+  * (B) at least one member of the Committee represents the Native Hawaiian veteran community nominated by a Native Hawaiian Organization;
+
+  * (C) at least one member of the Committee represents urban Indian organizations nominated by a national urban Indian organization; and
+
+  * (D) not fewer than half of the members are veterans, unless the Secretary determines that an insufficient number of qualified veterans were nominated under paragraph (1).
+
+
+* (3) No member of the Committee may be an employee of the Federal Government.
+
+* (c) TERMS; VACANCIES.—(1) A member of the Committee shall be appointed for a term of two years.
+
+* (2) The Secretary shall fill a vacancy in the Committee in the same manner as the original appointment within 180 days.
+
+* (d) MEETINGS.—(1)(A) Except as provided in subparagraph (B), the Committee shall meet in-person with the Secretary, or the Secretary's designee, not less frequently than twice each year and hold monthly conference calls as necessary.
+
+* (B) During a public health emergency (as defined in section 20003 of the Coronavirus Aid, Relief, and Economic Security Act (Public Law 116–136)), meetings under subparagraph (A) may be conducted virtually.
+
+* (2)(A) Representatives of relevant Federal agencies may attend meetings of the Committee and provide information to the Committee.
+
+* (B) One representative of the Office of Tribal Government Relations of the Department shall attend at each meeting of the Committee.
+
+* (C) Representatives attending meetings under this paragraph shall not be considered voting members of the Committee.
+
+* (D) A representative attending a meeting or providing information under this paragraph may not receive additional compensation for services performed with respect to the Committee.
+
+* (e) SUBCOMMITTEES.—(1) The Committee may establish subcommittees.
+
+* (2) The Secretary may, in consultation with the Committee, appoint a member to a subcommittee established under paragraph (1) who is not a member of the Committee.
+
+* (3) Such subcommittees may enhance the function of the Committee, but may not supersede the authority of the Committee or provide direct advice or work products to the Department.
+
+* (f) DUTIES.—The duties of the Committee are as follows:
+
+  * (1) To advise the Secretary on ways the Department can improve the programs and services of the Department to better serve Native American veterans.
+
+  * (2) To identify for the Department evolving issues of relevance to Indian tribes, tribal organizations, and Native American veterans relating to programs and services of the Department.
+
+  * (3) To propose clarifications, recommendations, and solutions to address issues raised at tribal, regional, and national levels, especially regarding any tribal consultation reports.
+
+  * (4) To provide a forum for Indian tribes, tribal organizations, urban Indian organizations, Native Hawaiian organizations, and the Department to discuss issues and proposals for changes to Department regulations, policies, and procedures.
+
+  * (5) To identify priorities and provide advice on appropriate strategies for tribal consultation and urban Indian organizations conferring on issues at the tribal, regional, or national levels.
+
+  * (6) To ensure that pertinent issues are brought to the attention of Indian tribes, tribal organizations, urban Indian organizations, and Native Hawaiian organizations in a timely manner, so that feedback can be obtained.
+
+  * (7) To encourage the Secretary to work with other Federal agencies and Congress so that Native American veterans are not denied the full benefit of their status as both Native Americans and veterans.
+
+  * (8) To highlight contributions of Native American veterans in the Armed Forces.
+
+  * (9) To make recommendations on the consultation policy of the Department on tribal matters.
+
+  * (10) To support a process to develop an urban Indian organization confer policy to ensure the Secretary confers, to the maximum extent practicable, with urban Indian organizations.
+
+  * (11) To conduct other duties as recommended by the Committee.
+
+
+* (g) REPORTS.—(1) Not less frequently than once each year, the Committee shall submit to the Secretary and the appropriate committees of Congress such recommendations as the Committee may have for legislative or administrative action for the upcoming year.
+
+* (2) Not later than 90 days after the date on which the Secretary receives a recommendation under paragraph (1), the Secretary shall submit to the appropriate committees of Congress a written response to the recommendation.
+
+* (3) Not less frequently than once every two years, the Committee shall submit to the Secretary and the appropriate committees of Congress a report describing the activities of the Committee during the previous two years.
+
+* (4) The Secretary shall make publicly available on an Internet website of the Department—
+
+  * (A) each recommendation the Secretary receives under paragraph (1);
+
+  * (B) each response the Secretary submits under paragraph (2); and
+
+  * (C) each report the Secretary receives under paragraph (3).
+
+
+* (h) COMMITTEE PERSONNEL MATTERS.—A member of the Committee shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for an employee of an agency under subchapter I of chapter 57 of title 5 while away from the home or regular place of business of the member in the performance of the duties of the Committee.
+
+* (i) FEDERAL ADVISORY COMMITTEE ACT EXEMPTION.—Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Committee.
+
+* (j) DEFINITIONS.—In this section:
+
+  * (1) The term "appropriate committees of Congress" means—
+
+    * (A) the Committee on Veterans' Affairs and the Committee on Indian Affairs of the Senate; and
+
+    * (B) the Committee on Veterans' Affairs and the Committee on Natural Resources of the House of Representatives.
+
+
+  * (2) The term "Indian tribe" has the meaning given such term in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304).
+
+  * (3) The term "Native Hawaiian organization" means any organization that—
+
+    * (A) serves the interests of Native Hawaiians;
+
+    * (B) has Native Hawaiians in substantive and policymaking positions within the organization;
+
+    * (C) has demonstrated experience working with Native Hawaiian veterans; and
+
+    * (D) shall include the Office of Hawaiian Affairs.
+
+
+  * (4) The term "Native American veteran" has the meaning given such term in section 3765 of this title.
+
+  * (5) The term "Office of Hawaiian Affairs" means the Office of Hawaiian Affairs established by the constitution of the State of Hawaii.
+
+  * (6) The term "tribal organization" has the meaning given such term in section 3765 of this title.
+
+  * (7) The term "urban Indian organization" has the meaning given such term in section 4 of the Indian Health Care Improvement Act (25 U.S.C. 1603).

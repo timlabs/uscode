@@ -32,13 +32,14 @@
 
 #### (b) Specific appropriation or contribution
 * #### (1) In general
-  * No guarantee shall be made unless—
+  * Except as provided in paragraph (2), the cost of a guarantee shall be paid by the Secretary using an appropriation made for the cost of the guarantee, subject to the availability of such an appropriation.
 
-    * (A) an appropriation for the cost of the guarantee has been made;
+* #### (2) Insufficient appropriations
+  * If sufficient appropriated funds to pay the cost of a guarantee are not available, then the guarantee shall not be made unless—
 
-    * (B) the Secretary has received from the borrower a payment in full for the cost of the guarantee and deposited the payment into the Treasury; or
+    * (A) the Secretary has received from the borrower a payment in full for the cost of the guarantee and deposited the payment into the Treasury; or
 
-    * (C) a combination of one or more appropriations under subparagraph (A) and one or more payments from the borrower under subparagraph (B) has been made that is sufficient to cover the cost of the guarantee.
+    * (B) a combination of one or more appropriations and one or more payments from the borrower under this subsection has been made that is sufficient to cover the cost of the guarantee.
 
 #### (c) Amount
 * Unless otherwise provided by law, a guarantee by the Secretary shall not exceed an amount equal to 80 percent of the project cost of the facility that is the subject of the guarantee, as estimated at the time at which the guarantee is issued.
@@ -51,7 +52,7 @@
   * No guarantee shall be made unless the Secretary determines that the amount of the obligation (when combined with amounts available to the borrower from other sources) will be sufficient to carry out the project.
 
 * #### (3) Subordination
-  * The obligation shall be subject to the condition that the obligation is not subordinate to other financing.
+  * The obligation shall be subject to the condition that the obligation, including any reorganization, restructuring, or termination thereof, shall not at any time be subordinate to other financing.
 
 #### (e) Interest rate
 * An obligation shall bear interest at a rate that does not exceed a level that the Secretary determines appropriate, taking into account the prevailing rate of interest in the private sector for similar loans and risks.
@@ -118,7 +119,7 @@
 
 #### (h) Fees
 * #### (1) In general
-  * The Secretary shall charge and collect fees for guarantees in amounts the Secretary determines are sufficient to cover applicable administrative expenses.
+  * The Secretary shall charge, and collect on or after the date of the financial close of an obligation, a fee for a guarantee in an amount that the Secretary determines is sufficient to cover applicable administrative expenses (including any costs associated with third-party consultants engaged by the Secretary).
 
 * #### (2) Availability
   * Fees collected under this subsection shall—
@@ -126,6 +127,9 @@
     * (A) be deposited by the Secretary into the Treasury; and
 
     * (B) remain available until expended, subject to such other conditions as are contained in annual appropriations Acts.
+
+* #### (3) Reduction in fee amount
+  * Notwithstanding paragraph (1) and subject to the availability of appropriations, the Secretary may reduce the amount of a fee for a guarantee under this subsection.
 
 #### (i) Records; audits
 * #### (1) In general
@@ -140,13 +144,77 @@
 #### (k) Wage rate requirements
 * All laborers and mechanics employed by contractors and subcontractors in the performance of construction work financed in whole or in part by a loan guaranteed under this subchapter shall be paid wages at rates not less than those prevailing on projects of a character similar in the locality as determined by the Secretary of Labor in accordance with subchapter IV of chapter 31 of title 40. With respect to the labor standards in this subsection, the Secretary of Labor shall have the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (64 Stat. 1267; 5 U.S.C. App.) and section 3145 of title 40.
 
+#### (l) Restructuring of loan guarantees
+* The Secretary shall consult with the Secretary of the Treasury regarding any restructuring of the terms or conditions of a guarantee issued pursuant to this subchapter, including with respect to any deviations from the financial terms of the guarantee.
+
+#### (m) Written analysis
+* #### (1) Requirement
+  * The Secretary may not make a guarantee under this subchapter until the Secretary of the Treasury has transmitted to the Secretary, and the Secretary has taken into consideration, a written analysis of the financial terms and conditions of the proposed guarantee.
+
+* #### (2) Transmission
+  * Not later than 30 days after receiving information on a proposed guarantee from the Secretary, the Secretary of the Treasury shall transmit the written analysis of the financial terms and conditions of the proposed guarantee required under paragraph (1) to the Secretary.
+
+* #### (3) Explanation
+  * If the Secretary makes a guarantee the financial terms and conditions of which are not consistent with the written analysis required under this subsection, not later than 30 days after making such guarantee, the Secretary shall submit to the Committee on Energy and Commerce and the Committee on Science, Space, and Technology of the House of Representatives, and the Committee on Energy and Natural Resources of the Senate, a written explanation of any material inconsistencies.
+
+#### (n) Application status
+* #### (1) Request
+  * If the Secretary does not make a final decision on an application for a guarantee under this subchapter by the date that is 180 days after receipt of the application by the Secretary, the applicant may request, on or after that date and not more than once every 60 days thereafter until a final decision is made, that the Secretary provide to the applicant a response described in paragraph (2).
+
+* #### (2) Response
+  * Not later than 10 days after receiving a request from an applicant under paragraph (1), the Secretary shall provide to the applicant a response that includes—
+
+    * (A) a description of the current status of review of the application;
+
+    * (B) a summary of any factors that are delaying a final decision on the application, a list of what items are required in order to reach a final decision, citations to authorities stating the reasons why such items are required, and a list of actions the applicant can take to expedite the process; and
+
+    * (C) an estimate of when a final decision on the application will be made.
+
+#### (o) Outreach
+* In carrying out this subchapter, the Secretary shall—
+
+  * (1) provide assistance with the completion of applications for a guarantee under this subchapter;
+
+  * (2) conduct outreach, including through conferences and online programs, to disseminate information to potential applicants;
+
+  * (3) conduct outreach to encourage participation of supporting finance institutions and private lenders in eligible projects.
+
+#### (p) Coordination
+* In carrying out this subchapter, the Secretary shall coordinate activities under this subchapter with activities of other relevant offices with the Department.
+
+#### (q) Report
+* Not later than 2 years after December 27, 2020, and every 3 years thereafter, the Secretary shall submit to Congress a report on the status of applications for, and projects receiving, guarantees under this title, including—
+
+  * (1) a list of such projects, including the guarantee amount, construction status, and financing partners of each such project;
+
+  * (2) the status of each such project's loan repayment, including interest paid and future repayment projections;
+
+  * (3) an estimate of the air pollutant or greenhouse gas emissions avoided or reduced from each such project;
+
+  * (4) data regarding the number of direct and indirect jobs retained, restored, or created by such projects;
+
+  * (5) identification of—
+
+    * (A) technologies deployed by projects that have received guarantees that have subsequently been deployed commercially without guarantees; and
+
+    * (B) novel technologies that have been deployed by such projects and deployed in the commercial energy market;
+
+
+  * (6) the number of new projects projected to receive a guarantee under this subchapter during the next 2 years and the aggregate guarantee amount;
+
+  * (7) the number of outreach engagements conducted with potential applicants;
+
+  * (8) the number of applications received and currently pending for each open solicitation; and
+
+  * (9) any other metrics the Secretary finds appropriate.
+
 ### §16513. Eligible projects
 #### (a) In general
 * The Secretary may make guarantees under this section only for projects that—
 
-  * (1) avoid, reduce, or sequester air pollutants or anthropogenic emissions of greenhouse gases; and
+  * (1) avoid, reduce, utilize, or sequester air pollutants or anthropogenic emissions of greenhouse gases; and
 
-  * (2) employ new or significantly improved technologies as compared to commercial technologies in service in the United States at the time the guarantee is issued.
+  * (2) employ new or significantly improved technologies as compared to commercial technologies in service in the United States at the time the guarantee is issued, including projects that employ elements of commercial technologies in combination with new or significantly improved technologies.
 
 #### (b) Categories
 * Projects from the following categories shall be eligible for a guarantee under this section:
@@ -157,9 +225,14 @@
 
   * (3) Hydrogen fuel cell technology for residential, industrial, or transportation applications.
 
-  * (4) Advanced nuclear energy facilities.
+  * (4) Advanced nuclear energy facilities, including manufacturing of nuclear supply components for advanced nuclear reactors.
 
-  * (5) Carbon capture and sequestration practices and technologies, including agricultural and forestry practices that store and sequester carbon.
+  * (5) Carbon capture, utilization, and sequestration practices and technologies, including—
+
+    * (A) agricultural and forestry practices that store and sequester carbon; and
+
+    * (B) synthetic technologies to remove carbon from the air and oceans.
+
 
   * (6) Efficient electrical generation, transmission, and distribution technologies.
 
@@ -170,6 +243,10 @@
   * (9) Pollution control equipment.
 
   * (10) Refineries, meaning facilities at which crude oil is refined into gasoline.
+
+  * (11) Energy storage technologies for residential, industrial, transportation, and power generation applications.
+
+  * (12) Technologies or processes for reducing greenhouse gas emissions from industrial applications, including iron, steel, cement, and ammonia production, hydrogen production, and the generation of high-temperature heat.
 
 #### (c) Gasification projects
 * The Secretary may make guarantees for the following gasification projects:
@@ -244,12 +321,22 @@
 #### (e) Qualification of facilities receiving tax credits
 * A project that receives tax credits for clean coal technology shall not be disqualified from receiving a guarantee under this subchapter.
 
+#### (f) Regional variation
+* Notwithstanding subsection (a)(2), the Secretary may, if regional variation significantly affects the deployment of a technology, make guarantees under this subchapter for up to 6 projects that employ the same or similar technology as another project, provided no more than 2 projects that use the same or a similar technology are located in the same region of the United States.
+
 ### §16514. Authorization of appropriations
 #### (a) In general
 * There are authorized to be appropriated such sums as are necessary to provide the cost of guarantees under this subchapter.
 
 #### (b) Use of other appropriated funds
 * The Department may use amounts awarded under the Clean Coal Power Initiative to carry out the project described in section 16513(c)(1)(C) of this title, on the request of the recipient of such award, for a loan guarantee, to the extent that the amounts have not yet been disbursed to, or have been repaid by, the recipient.
+
+#### (c) Administrative and other expenses
+* There are authorized to be appropriated—
+
+  * (1) $32,000,000 for each of fiscal years 2021 through 2025 to carry out this subchapter; and
+
+  * (2) for fiscal year 2021, in addition to amounts authorized under paragraph (1), $25,000,000, to remain available until expended, for administrative expenses described in section 16512(h)(1) of this title that are not covered by fees collected pursuant to section 16512(h) of this title.
 
 ### §16515. Limitation on commitments to guarantee loans
 * (a) Notwithstanding section 101, subject to the Federal Credit Reform Act of 1990, as amended [2 U.S.C. 661 et seq.], commitments to guarantee loans under title XVII of the Energy Policy Act of 2005 [42 U.S.C. 16501 et seq.] shall not exceed a total principal amount, any part of which is to be guaranteed, of $4,000,000,000: _Provided_, That there are appropriated for the cost of the guaranteed loans such sums as are hereafter derived from amounts received from borrowers pursuant to section 16512(b)(2) of this title, to remain available until expended: _Provided further_, That the source of payments received from borrowers for the subsidy cost shall not be a loan or other debt obligation that is made or guaranteed by the Federal government. In addition, fees collected pursuant to section 16512(h) of this title in fiscal year 2007 shall be credited as offsetting collections to the Departmental Administration account for administrative expenses of the Loan Guarantee Program: _Provided further_, That the sum appropriated for administrative expenses for the Loan Guarantee Program shall be reduced by the amount of fees received during fiscal year 2007: _Provided further_, That any fees collected under section 16512(h) of this title in excess of the amount appropriated for administrative expenses shall not be available until appropriated.

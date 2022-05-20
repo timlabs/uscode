@@ -99,7 +99,7 @@
 * The Secretary shall maintain within the Administration a program to be known as the national sea grant college program. The national sea grant college program shall be administered by a national sea grant office within the Administration.
 
 #### (b) Program elements
-* The national sea grant college program shall consist of the financial assistance and other activities authorized in this subchapter, and shall provide support for the following elements—
+* The national sea grant college program shall consist of the financial assistance for research, education, extension, training, technology transfer, and public service and other activities authorized in this subchapter, and shall provide support for the following elements—
 
   * (1) sea grant programs that comprise a national sea grant college program network, including international projects conducted within such programs and regional and national projects conducted among such programs;
 
@@ -126,7 +126,7 @@
 
   * (D) enter into contracts, cooperative agreements, and other transactions without regard to section 6101 of title 41;
 
-  * (E) notwithstanding section 1342 of title 31, accept donations and voluntary and uncompensated services;
+  * (E) accept donations of money and, notwithstanding section 1342 of title 31, of voluntary and uncompensated services;
 
   * (F) accept funds from other Federal departments and agencies, including agencies within the Administration, to pay for and add to grants made and contracts entered into by the Secretary; and
 
@@ -146,11 +146,11 @@
   * (D) encourage the establishment and growth of sea grant programs, and cooperation and coordination with other Federal activities in fields related to ocean, coastal, and Great Lakes resources.
 
 
-* (3) With respect to sea grant colleges and sea grant institutes, the Director shall—
+* (3) With respect to sea grant colleges, sea grant institutes, sea grant programs, and sea grant projects, the Director shall—
 
   * (A) evaluate and assess the performance of the programs of sea grant colleges and sea grant institutes, using the priorities, guidelines, and qualifications established by the Secretary under subsection (c), and determine which of the programs are the best managed and carry out the highest quality research, education, extension, and training activities;
 
-  * (B) subject to the availability of appropriations, allocate funding among sea grant colleges and sea grant institutes so as to—
+  * (B) subject to the availability of appropriations, allocate funding among sea grant colleges, sea grant institutes, sea grant programs, and sea grant projects so as to—
 
     * (i) promote healthy competition among sea grant colleges and institutes;
 
@@ -239,8 +239,16 @@
 
   * (B) maintains a program which includes, at a minimum, research and extension services.
 
-#### (b) Existing designees
-* Any institution, or association or alliance of two or more such institutions, designated as a sea grant college or awarded institutional program status by the Director prior to March 6, 1998, shall not have to reapply for designation as a sea grant college or sea grant institute, respectively, after March 6, 1998, if the Director determines that the institution, or association or alliance of institutions, meets the qualifications in subsection (a).
+#### (b) Additional designations
+* #### (1) Notification to Congress of designations
+  * #### (A) In general
+    * Not less than 30 days before designating an institution, or an association or alliance of two or more such institutions, as a sea grant college or sea grant institute under subsection (a), the Secretary shall notify Congress in writing of the proposed designation. The notification shall include an evaluation and justification for the designation.
+
+  * #### (B) Effect of joint resolution of disapproval
+    * The Secretary may not designate an institution, or an association or alliance of two or more such institutions, as a sea grant college or sea grant institute under subsection (a) if, before the end of the 30-day period described in subparagraph (A), a joint resolution disapproving the designation is enacted.
+
+* #### (2) Existing designees
+  * Any institution, or association or alliance of two or more such institutions, designated as a sea grant college or awarded institutional program status by the Director prior to March 6, 1998, shall not have to reapply for designation as a sea grant college or sea grant institute, respectively, after March 6, 1998, if the Director determines that the institution, or association or alliance of institutions, meets the qualifications in subsection (a).
 
 #### (c) Suspension or termination of designation
 * The Secretary may, for cause and after an opportunity for hearing, suspend or terminate any designation under subsection (a).
@@ -257,7 +265,22 @@
 * To carry out the educational and training objectives of this subchapter, the Secretary shall support a program of fellowships for qualified individuals at the graduate and post-graduate level. The fellowships shall be related to ocean, coastal, and Great Lakes resources and awarded pursuant to guidelines established by the Secretary. The Secretary shall strive to ensure equal access for minority and economically disadvantaged students to the program carried out under this subsection.
 
 #### (b) Dean John A. Knauss Marine Policy Fellowship
-* The Secretary may award marine policy fellowships to support the placement of individuals at the graduate level of education in fields related to ocean, coastal and Great Lakes resources in positions with the executive and legislative branches of the United States Government. A fellowship awarded under this subsection shall be for a period of not more than 1 year.
+* #### (1) In general
+  * The Secretaryshall award marine policy fellowships to support the placement of individuals at the graduate level of education in fields related to ocean, coastal and Great Lakes resources in positions with the executive and legislative branches of the United States Government.
+
+* #### (2) Placement priorities
+  * #### (A) In general
+    * In each year in which the Secretary awards a legislative fellowship under this subsection, when considering the placement of fellows, the Secretary shall prioritize placement of fellows in the following:
+
+      * (i) Positions in offices of, or with Members on, committees of Congress that have jurisdiction over the National Oceanic and Atmospheric Administration.
+
+      * (ii) Positions in offices of Members of Congress that have a demonstrated interest in ocean, coastal, or Great Lakes resources.
+
+  * #### (B) Equitable distribution
+    * In placing fellows in offices described in subparagraph (A), the Secretary shall ensure that placements are equitably distributed among the political parties.
+
+* #### (3) Duration
+  * A fellowship awarded under this subsection shall be for a period of not more than 1 year.
 
 #### (c) Restriction on use of funds
 * Amounts available for fellowships under this section, including amounts accepted under section 1123(c)(4)(F) of this title or appropriated under section 1131 of this title to implement this section, shall be used only for award of such fellowships and administrative costs of implementing this section.
@@ -276,8 +299,11 @@
 
     * (C) such other matters as the Secretary refers to the Board for review and advice.
 
-* #### (2) Biennial report
-  * The Board shall report to the Congress every two years on the state of the national sea grant college program. The Board shall indicate in each such report the progress made toward meeting the priorities identified in the strategic plan in effect under section 1123(c) of this title. The Secretary shall make available to the Board such information, personnel, and administrative services and assistance as it may reasonably require to carry out its duties under this subchapter.
+* #### (2) Periodic report
+  * The Board shall report to Congress at least once every four years on the state of the national sea grant college program and shall notify Congress of any significant changes to the state of the program not later than two years after the submission of such a report. The Board shall indicate in each such report the progress made toward meeting the priorities identified in the strategic plan in effect under section 1123(c) of this title and provide a summary of research conducted under the program.
+
+* #### (3) Availability of resources of Department of Commerce
+  * The Secretary shall make available to the Board such information, personnel, and administrative services and assistance as it may reasonably require to carry out its duties under this subchapter.
 
 #### (c) Membership, terms, and powers
 * (1) The Board shall consist of 15 voting members who shall be appointed by the Secretary. The Director and a director of a sea grant program who is elected by the various directors of sea grant programs shall serve as nonvoting members of the Board. Not less than 8 of the voting members of the Board shall be individuals who, by reason of knowledge, experience, or training, are especially qualified in one or more of the disciplines and fields included in marine science. The other voting members shall be individuals who, by reason of knowledge, experience, or training, are especially qualified in, or representative of, education, marine affairs and resource management, coastal management, extension services, State government, industry, economics, planning, or any other activity which is appropriate to, and important for, any effort to enhance the understanding, assessment, development, management, utilization, or conservation of ocean, coastal, and Great Lakes resources. No individual is eligible to be a voting member of the Board if the individual is (A) the director of a sea grant college or sea grant institute; (B) an applicant for, or beneficiary (as determined by the Secretary) of, any grant or contract under section 1124 of this title; or (C) a full-time officer or employee of the United States.
@@ -315,53 +341,52 @@
 * #### (1) In general
   * There are authorized to be appropriated to the Secretary to carry out this subchapter—
 
-    * (A) $72,000,000 for fiscal year 2009;
+    * (A) $87,520,000 for fiscal year 2021;
 
-    * (B) $75,600,000 for fiscal year 2010;
+    * (B) $91,900,000 for fiscal year 2022;
 
-    * (C) $79,380,000 for fiscal year 2011;
+    * (C) $96,500,000 for fiscal year 2023;
 
-    * (D) $83,350,000 for fiscal year 2012;
+    * (D) $101,325,000 for fiscal year 2024; and
 
-    * (E) $87,520,000 for fiscal year 2013; and
+    * (E) $105,700,000 for fiscal year 2025.
 
-    * (F) $91,900,000 for fiscal year 2014.
+* #### (2) Priority activities for fiscal years 2021 through 2025
+  * In addition to the amounts authorized to be appropriated under paragraph (1), there are authorized to be appropriated $6,000,000 for each of fiscal years 2021 through 2025 for competitive grants for the following:
 
-* #### (2) Priority activities
-  * In addition to the amounts authorized under paragraph (1), there are authorized to be appropriated for each of fiscal years 2009 through 2014—
+    * (A) University research on the biology, prevention, and control of aquatic nonnative species.
 
-    * (A) $5,000,000 for competitive grants for university research on the biology, prevention, and control of aquatic nonnative species;
+    * (B) University research on oyster diseases, oyster restoration, and oyster-related human health risks.
 
-    * (B) $5,000,000 for competitive grants for university research on oyster diseases, oyster restoration, and oyster-related human health risks;
+    * (C) University research on the biology, prevention, and forecasting of harmful algal blooms.
 
-    * (C) $5,000,000 for competitive grants for university research on the biology, prevention, and forecasting of harmful algal blooms; and
+    * (D) University research, education, training, and extension services and activities focused on coastal resilience and United States working waterfronts and other regional or national priority issues identified in the strategic plan under section 1123(c)(1) of this title.
 
-    * (D) $3,000,000 for competitive grants for fishery extension activities conducted by sea grant colleges or sea grant institutes to enhance, and not supplant, existing core program funding.
+    * (E) University research and extension on sustainable aquaculture techniques and technologies.
+
+    * (F) Fishery research and extension activities conducted by sea grant colleges or sea grant institutes to enhance, and not supplant, existing core program funding.
 
 #### (b) Limitations
 * #### (1) Administration
-  * There may not be used for administration of programs under this subchapter in a fiscal year more than 5 percent of the lesser of—
+  * #### (A) In general
+    * There may not be used for administration of programs under this subchapter in a fiscal year more than 5.5 percent of the lesser of—
 
-    * (A) the amount authorized to be appropriated under this subchapter for the fiscal year; or
+      * (i) the amount authorized to be appropriated under this subchapter for the fiscal year; or
 
-    * (B) the amount appropriated under this subchapter for the fiscal year.
+      * (ii) the amount appropriated under this subchapter for the fiscal year.
+
+  * #### (B) Critical staffing requirements
+    * #### (i) In general
+      * The Director shall use the authority under subchapter VI of chapter 33 of title 5, and under section 1129 of this title, to meet any critical staffing requirement while carrying out the activities authorized under this subchapter.
+
+    * #### (ii) Exception from cap
+      * For purposes of subparagraph (A), any costs incurred as a result of an exercise of authority as described in clause (i) shall not be considered an amount used for administration of programs under this subchapter in a fiscal year.
 
 * #### (2) Use for other offices or programs
   * Sums appropriated under the authority of subsection (a)(2) shall not be available for administration of this subchapter by the National Sea Grant Office, for any other Administration or department program, or for any other administrative expenses.
 
-#### (c) Distribution of funds
-* In any fiscal year in which the appropriations made under subsection (a)(1) exceed the amounts appropriated for fiscal year 2003 for the purposes described in such subsection, the Secretary shall distribute any excess amounts (except amounts used for the administration of the sea grant program) to any combination of the following:
-
-  * (1) sea grant programs, according to their performance assessments;
-
-  * (2) regional or national strategic investments authorized under section 1123(b)(4) of this title;
-
-  * (3) a college, university, institution, association, or alliance for activities that are necessary for it to be designated as a sea grant college or sea grant institute; and
-
-  * (4) a sea grant college or sea grant institute designated after November 26, 2002, but not yet evaluated under section 1123(d)(3)(A) of this title.
-
-#### (d) Availability of sums
+#### (c) Availability of sums
 * Sums appropriated pursuant to this section shall remain available until expended.
 
-#### (e) Reversion of unobligated amounts
+#### (d) Reversion of unobligated amounts
 * The amount of any grant, or portion of a grant, made to a person under any section of this subchapter that is not obligated by that person during the first fiscal year for which it was authorized to be obligated or during the next fiscal year thereafter shall revert to the Secretary. The Secretary shall add that reverted amount to the funds available for grants under the section for which the reverted amount was originally made available.

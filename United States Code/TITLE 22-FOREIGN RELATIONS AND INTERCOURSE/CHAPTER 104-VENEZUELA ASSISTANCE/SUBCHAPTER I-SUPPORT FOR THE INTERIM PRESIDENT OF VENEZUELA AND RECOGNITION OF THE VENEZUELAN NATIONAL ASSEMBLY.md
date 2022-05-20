@@ -1,6 +1,6 @@
 ### SUBCHAPTER I—SUPPORT FOR THE INTERIM PRESIDENT OF VENEZUELA AND RECOGNITION OF THE VENEZUELAN NATIONAL ASSEMBLY
 
-### §9701. Findings; sense of Congress in support of the interim President of Venezuela
+### §9701. Findings; sense of Congress in support of the Interim President of Venezuela
 #### (a) Findings
 * Congress makes the following findings:
 

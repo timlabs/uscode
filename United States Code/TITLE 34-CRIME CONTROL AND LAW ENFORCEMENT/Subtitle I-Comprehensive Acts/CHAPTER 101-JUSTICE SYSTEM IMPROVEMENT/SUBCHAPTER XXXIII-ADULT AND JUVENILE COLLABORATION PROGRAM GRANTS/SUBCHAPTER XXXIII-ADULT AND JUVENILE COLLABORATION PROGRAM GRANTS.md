@@ -585,6 +585,23 @@
 * #### (3) Limitation
   * Not more than 20 percent of the funds authorized to be appropriated under this section may be used for purposes described in subsection (i) (relating to veterans).
 
+### §10651a. Veteran Treatment Court Program
+#### (a) Establishment
+* Subject to the availability of appropriations, in coordination with the Secretary of Veterans Affairs, the Attorney General shall establish and carry out a Veteran Treatment Court Program to provide grants and technical assistance to court systems that—
+
+  * (1) have adopted a Veterans Treatment Court Program; or
+
+  * (2) have filed a notice of intent to establish a Veterans Treatment Court Program with the Secretary.
+
+#### (b) Purpose
+* The purpose of the Veterans Treatment Court Program established under subsection (a) is to ensure the Department of Justice has a single office to coordinate the provision of grants, training, and technical assistance to help State, local, and Tribal governments to develop and maintain veteran treatment courts.
+
+#### (c) Programs included
+* The Veterans Treatment Court Program established under subsection (a) shall include the grant programs relating to veterans treatment courts carried out by the Attorney General pursuant to sections 10651 and 10701 of this title or any other provision of law.
+
+#### (d) Regulations
+* The Attorney General shall promulgate regulations to carry out this section.
+
 ### §10652. National criminal justice and mental health training and technical assistance
 #### (a) Authority
 * The Attorney General may make grants to eligible organizations to provide for the establishment of a National Criminal Justice and Mental Health Training and Technical Assistance Center.

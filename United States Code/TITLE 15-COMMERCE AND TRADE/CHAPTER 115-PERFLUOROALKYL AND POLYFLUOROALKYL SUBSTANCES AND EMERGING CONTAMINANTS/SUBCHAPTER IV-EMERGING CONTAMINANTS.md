@@ -139,7 +139,7 @@
 
       * (iv) nonprofit organizations.
 
-#### (d) Federal technical assistance and support for states
+#### (d) Federal technical assistance and support for States
 * #### (1) Study
   * #### (A) In general
     * Not later than 1 year after December 20, 2019, the Administrator shall conduct a study on actions the Administrator can take to increase technical assistance and support for States with respect to emerging contaminants in drinking water samples.

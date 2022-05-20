@@ -93,10 +93,10 @@
 
 * (3) An adjustment under this subsection shall be effective after the Secretary transmits to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a written notification of the adjustment.
 
-### §2302e. Contract authority for advanced development of initial or additional prototype units
+### §2302e. Contract authority for development and demonstration of initial or additional prototype units
 * (a) AUTHORITY.—A contract initially awarded from the competitive selection of a proposal resulting from a general solicitation referred to in section 2302(2)(B) of this title may contain a contract line item or contract option for—
 
-  * (1) the provision of advanced component development, prototype, or initial production of technology developed under the contract; or
+  * (1) the development and demonstration or initial production of technology developed under the contract; or
 
   * (2) the delivery of initial or additional items if the item or a prototype thereof is created as the result of work performed under the contract.
 
@@ -110,6 +110,9 @@
   * (3) DOLLAR VALUE OF WORK.—The dollar value of the work to be performed pursuant to a contract line item or contract option described in subsection (a) may not exceed $100,000,000, in fiscal year 2017 constant dollars.
 
   * (4) APPLICABILITY.—The authority provided in subsection (a) applies only to the Secretary of Defense, the Secretary of the Army, the Secretary of the Navy, and the Secretary of the Air Force.
+
+
+* (c) PROCEDURES.—The Secretary of Defense shall establish procedures to collect and analyze information on the use and benefits of the authority under this section and related impacts on performance, affordability, and capability delivery.
 
 ### §2303. Applicability of chapter
 * (a) This chapter applies to the procurement by any of the following agencies, for its use or otherwise, of all property (other than land) and all services for which payment is to be made from appropriated funds:
@@ -855,29 +858,11 @@
     * (ii) in the case of a prime contract entered into on or before June 30, 2018, the price of the contract to the United States is expected to exceed $750,000.
 
 
-  * (B) The contractor for a prime contract under this chapter shall be required to submit cost or pricing data before the pricing of a change or modification to the contract if—
+  * (B) The contractor for a prime contract under this chapter shall be required to submit cost or pricing data before the pricing of a change or modification to the contract if the price adjustment is expected to exceed $2,000,000.
 
-    * (i) in the case of a change or modification made to a prime contract referred to in subparagraph (A)(i), the price adjustment is expected to exceed $2,000,000;
+  * (C) An offeror for a subcontract (at any tier) of a contract under this chapter shall be required to submit cost or pricing data before the award of the subcontract if the prime contractor and each higher-tier subcontractor have been required to make available cost or pricing data under this section and the price of the subcontract is expected to exceed $2,000,000.
 
-    * (ii) in the case of a change or modification made after July 1, 2018, to a prime contract that was entered into on or before June 30, 2018, and that has been modified pursuant to paragraph (6), the price adjustment is expected to exceed $750,000; and
-
-    * (iii) in the case of a change or modification not covered by clause (i) or (ii), the price adjustment is expected to exceed $750,000.
-
-
-  * (C) An offeror for a subcontract (at any tier) of a contract under this chapter shall be required to submit cost or pricing data before the award of the subcontract if the prime contractor and each higher-tier subcontractor have been required to make available cost or pricing data under this section and—
-
-    * (i) in the case of a subcontract under a prime contract referred to in subparagraph (A)(i), the price of the subcontract is expected to exceed $2,000,000;
-
-    * (ii) in the case of a subcontract entered into after July 1, 2018, under a prime contract that was entered into on or before June 30, 2018, and that has been modified pursuant to paragraph (6), the price of the subcontract is expected to exceed $2,000,000; and
-
-    * (iii) in the case of a subcontract not covered by clause (i) or (ii), the price of the subcontract is expected to exceed $750,000.
-
-
-  * (D) The subcontractor for a subcontract covered by subparagraph (C) shall be required to submit cost or pricing data before the pricing of a change or modification to the subcontract if—
-
-    * (i) in the case of a change or modification to a subcontract referred to in subparagraph (C)(i) or (C)(ii), the price adjustment is expected to exceed $2,000,000; and
-
-    * (ii) in the case of a change or modification to a subcontract referred to in subparagraph (C)(iii), the price adjustment is expected to exceed $750,000.
+  * (D) The subcontractor for a subcontract covered by subparagraph (C) shall be required to submit cost or pricing data before the pricing of a change or modification to the subcontract if the price adjustment is expected to exceed $2,000,000.
 
 
 * (2) A person required, as an offeror, contractor, or subcontractor, to submit cost or pricing data under paragraph (1) (or required by the head of the agency concerned to submit such data under subsection (c)) shall be required to certify that, to the best of the person's knowledge and belief, the cost or pricing data submitted are accurate, complete, and current.
@@ -1300,14 +1285,9 @@
   * (B) insert in solicitations for procurement of property or services a provision limiting to small business concerns advance or progress payments.
 
 
-* (2)(A) For a prime contractor (as defined in section 8701 of title 41) that is a small business concern (as defined in section 3 of the Small Business Act (15 U.S.C. 632)), the Secretary of Defense shall, to the fullest extent permitted by law, establish an accelerated payment date with a goal of 15 days after receipt of a proper invoice for the amount due if a specific payment date is not established by contract.
+* (2)(A) For a prime contractor (as defined in section 8701 of title 41) that is a small business concern (as defined in section 3 of the Small Business Act (15 U.S.C. 632)), the Secretary of Defense shall, to the fullest extent permitted by law, establish an accelerated payment date with a goal of 15 days after receipt of a proper invoice for the amount due.
 
-* (B) For a prime contractor that subcontracts with a small business concern, the Secretary of Defense shall, to the fullest extent permitted by law, establish an accelerated payment date with a goal of 15 days after receipt of a proper invoice for the amount due if—
-
-  * (i) a specific payment date is not established by contract; and
-
-  * (ii) the prime contractor agrees to make payments to the subcontractor in accordance with the accelerated payment date, to the maximum extent practicable, without any further consideration from or fees charged to the subcontractor.
-
+* (B) For a prime contractor that subcontracts with a small business concern, the Secretary of Defense shall, to the fullest extent permitted by law, establish an accelerated payment date with a goal of 15 days after receipt of a proper invoice for the amount due if the prime contractor agrees or proposes to make payments to the subcontractor in accordance with the accelerated payment date, to the maximum extent practicable, without any further consideration from or fees charged to the subcontractor.
 
 * (b) PREFERENCE FOR PERFORMANCE-BASED PAYMENTS.—(1) Whenever practicable, payments under subsection (a) shall be made using performance-based payments on any of the following bases:
 
@@ -1791,7 +1771,7 @@
 
   * (F) INTERFACES DEVELOPED WITH MIXED FUNDING.—Notwithstanding subparagraph (E), the United States shall have government purpose rights in technical data pertaining to an interface between an item or process and other items or processes that was developed in part with Federal funds and in part at private expense, except in any case in which the Secretary of Defense determines, on the basis of criteria established in the regulations, that negotiation of different rights in such technical data would be in the best interest of the United States.
 
-  * (G) MAJOR SYSTEM INTERFACES DEVELOPED EXCLUSIVELY AT PRIVATE EXPENSE OR WITH MIXED FUNDING.—Notwithstanding subparagraphs (B) and (E), the United States shall have government purpose rights in technical data pertaining to a major system interface developed exclusively at private expense or in part with Federal funds and in part at private expense and used in a modular open system approach pursuant to section 2446a of this title, except in any case in which the Secretary of Defense determines that negotiation of different rights in such technical data would be in the best interest of the United States. Such major system interface shall be identified in the contract solicitation and the contract. For technical data pertaining to a major system interface developed exclusively at private expense for which the United States asserts government purpose rights, the Secretary of Defense shall negotiate with the contractor the appropriate and reasonable compensation for such technical data.
+  * (G) MODULAR SYSTEM INTERFACES DEVELOPED EXCLUSIVELY AT PRIVATE EXPENSE OR WITH MIXED FUNDING.—Notwithstanding subparagraphs (B) and (E), the United States shall have government purpose rights in technical data pertaining to a modular system interface developed exclusively at private expense or in part with Federal funds and in part at private expense and used in a modular open system approach pursuant to section 2446a of this title, except in any case in which the Secretary of Defense determines that negotiation of different rights in such technical data would be in the best interest of the United States. Such modular system interface shall be identified in the contract solicitation and the contract. For technical data pertaining to a modular system interface developed exclusively at private expense for which the United States asserts government purpose rights, the Secretary of Defense shall negotiate with the contractor the appropriate and reasonable compensation for such technical data.
 
   * (H) A contractor or subcontractor (or a prospective contractor or subcontractor) may not be required, as a condition of being responsive to a solicitation or as a condition for the award of a contract—
 
@@ -1896,7 +1876,7 @@
     * (E) that such technical data provided to the covered Government support contractor under the authority of this section shall not be used by the covered Government support contractor to compete against the third party for Government or non-Government contracts.
 
 
-* (h) ADDITIONAL DEFINITIONS.—In this section, the terms "major system component", "major system interface", and "modular open system approach" have the meanings provided in section 2446a of this title.
+* (h) ADDITIONAL DEFINITIONS.—In this section, the terms "major system component", "modular system interface", and "modular open system approach" have the meanings provided in section 2446a of this title.
 
 ### §2321. Validation of proprietary data restrictions
 * (a) CONTRACTS COVERED BY SECTION.—This section applies to any contract for supplies or services entered into by the Department of Defense that includes provisions for the delivery of technical data.
@@ -1955,7 +1935,7 @@
 
 * (e) TIME FOR CONTRACTORS TO SUBMIT JUSTIFICATIONS.—If a contractor or subcontractor asserting a use or release restriction submits to the contracting officer a written request, showing the need for additional time to comply with the requirement to justify the current validity of the asserted restriction, additional time to adequately permit the submission of such justification shall be provided by the contracting officer as appropriate. If a party asserting a restriction receives notices of challenges to restrictions on technical data from more than one contracting officer, and notifies each contracting officer of the existence of more than one challenge, the contracting officer initiating the first in time challenge, after consultation with the party asserting the restriction and the other contracting officers, shall formulate a schedule of responses to each of the challenges that will afford the party asserting the restriction with an equitable opportunity to respond to each such challenge.
 
-* (f) PRESUMPTION OF DEVELOPMENT EXCLUSIVELY AT PRIVATE EXPENSE.—In the case of a challenge to a use or release restriction that is asserted with respect to technical data of a contractor or subcontractor under a contract for commercial products, the contracting officer shall presume that the contractor or subcontractor has justified the restriction on the basis that commercial products was developed exclusively at private expense, whether or not the contractor or subcontractor submits a justification in response to the notice provided pursuant to subsection (d)(3). In such a case, the challenge to the use or release restriction may be sustained only if information provided by the Department of Defense demonstrates that commercial products was not developed exclusively at private expense.
+* (f) PRESUMPTION OF DEVELOPMENT EXCLUSIVELY AT PRIVATE EXPENSE.—In the case of a challenge to a use or release restriction that is asserted with respect to technical data of a contractor or subcontractor under a contract for commercial products, the contracting officer shall presume that the contractor or subcontractor has justified the restriction on the basis that the item was developed exclusively at private expense, whether or not the contractor or subcontractor submits a justification in response to the notice provided pursuant to subsection (d)(3). In such a case, the challenge to the use or release restriction may be sustained only if information provided by the Department of Defense demonstrates that the item was not developed exclusively at private expense.
 
 * (g) DECISION BY CONTRACTING OFFICER.—(1) Upon a failure by the contractor or subcontractor to submit any response under subsection (d)(3), the contracting officer shall issue a decision pertaining to the validity of the asserted restriction.
 
@@ -3013,24 +2993,43 @@
   * (3) OTHER TERMS.—Each of the terms "contribution", "expenditure", "independent expenditure", "candidate", "election", "electioneering communication", and "Federal office" has the meaning given that term in the Federal Election Campaign Act of 1971 (52 U.S.C. 30101 et seq.).
 
 ### §2337. Life-cycle management and product support
-* (a) GUIDANCE ON LIFE-CYCLE MANAGEMENT.—The Secretary of Defense shall issue and maintain comprehensive guidance on life-cycle management and the development and implementation of product support strategies for major weapon systems. The guidance issued pursuant to this subsection shall—
+* (a) GUIDANCE ON LIFE-CYCLE MANAGEMENT.—The Secretary of Defense shall issue and maintain comprehensive guidance on life-cycle management and the development and implementation of product support strategies for covered systems. The guidance issued pursuant to this subsection shall—
 
   * (1) maximize competition and make the best possible use of available Department of Defense and industry resources at the system, subsystem, and component levels; and
 
   * (2) maximize value to the Department of Defense by providing the best possible product support outcomes at the lowest operations and support cost.
 
 
-* (b) PRODUCT SUPPORT MANAGERS.—
+* (b) Life Cycle Sustainment Plan.—Before granting Milestone B approval (or the equivalent), the milestone decision authority shall ensure that each covered system has an approved life cycle sustainment plan. The life cycle sustainment plan shall include—
 
-  * (1) REQUIREMENT.—The Secretary of Defense shall require that each major weapon system be supported by a product support manager in accordance with this subsection.
+  * (1) a comprehensive product support strategy;
 
-  * (2) RESPONSIBILITIES.—A product support manager for a major weapon system shall—
+  * (2) performance goals, including key performance parameters for sustainment, key system attributes of the covered system, and other appropriate metrics;
 
-    * (A) develop and implement a comprehensive product support strategy for the weapon system;
+  * (3) an approved life-cycle cost estimate for the covered system;
 
-    * (B) use appropriate predictive analysis and modeling tools that can improve material availability and reliability, increase operational availability rates, and reduce operation and sustainment costs;
+  * (4) affordability constraints and key cost factors that could affect the operating and support costs of the covered system;
 
-    * (C) conduct appropriate cost analyses to validate the product support strategy, including cost-benefit analyses as outlined in Office of Management and Budget Circular A–94;
+  * (5) sustainment risks and proposed mitigation plans for such risks;
+
+  * (6) engineering and design considerations that support cost-effective sustainment of the covered system;
+
+  * (7) a technical data and intellectual property management plan for product support; and
+
+  * (8) major maintenance and overhaul requirements that will be required during the life cycle of the covered system.
+
+
+* (c) PRODUCT SUPPORT MANAGERS.—
+
+  * (1) REQUIREMENT.—The Secretary of Defense shall require that each covered system be supported by a product support manager in accordance with this subsection.
+
+  * (2) RESPONSIBILITIES.—A product support manager for a covered system shall—
+
+    * (A) develop, update, and implement a life cycle sustainment plan described in subsection (b);
+
+    * (B) ensure the life cycle sustainment plan is informed by appropriate predictive analysis and modeling tools that can improve material availability and reliability, increase operational availability rates, and reduce operation and sustainment costs;
+
+    * (C) conduct appropriate cost analyses to validate the product support strategy and life cycle sustainment plan, including cost-benefit analyses as outlined in Office of Management and Budget Circular A–94;
 
     * (D) ensure achievement of desired product support outcomes through development and implementation of appropriate product support arrangements;
 
@@ -3042,14 +3041,14 @@
 
     * (H) ensure that the product support strategy maximizes small business participation at the appropriate tiers; and
 
-    * (I) ensure that product support arrangements for the weapon system describe how such arrangements will ensure efficient procurement, management, and allocation of Government-owned parts inventories in order to prevent unnecessary procurements of such parts.
+    * (I) ensure that product support arrangements for the covered system describe how such arrangements will ensure efficient procurement, management, and allocation of Government-owned parts inventories in order to prevent unnecessary procurements of such parts.
 
 
-* (c) DEFINITIONS.—In this section:
+* (d) DEFINITIONS.—In this section:
 
-  * (1) PRODUCT SUPPORT.—The term "product support" means the package of support functions required to field and maintain the readiness and operational capability of major weapon systems, subsystems, and components, including all functions related to weapon system readiness.
+  * (1) PRODUCT SUPPORT.—The term "product support" means the package of support functions required to field and maintain the readiness and operational capability of covered systems, subsystems, and components, including all functions related to covered system readiness.
 
-  * (2) PRODUCT SUPPORT ARRANGEMENT.—The term "product support arrangement" means a contract, task order, or any type of other contractual arrangement, or any type of agreement or non-contractual arrangement within the Federal Government, for the performance of sustainment or logistics support required for major weapon systems, subsystems, or components. The term includes arrangements for any of the following:
+  * (2) PRODUCT SUPPORT ARRANGEMENT.—The term "product support arrangement" means a contract, task order, or any type of other contractual arrangement, or any type of agreement or non-contractual arrangement within the Federal Government, for the performance of sustainment or logistics support required for covered systems, subsystems, or components. The term includes arrangements for any of the following:
 
     * (A) Performance-based logistics.
 
@@ -3066,7 +3065,16 @@
 
   * (4) PRODUCT SUPPORT PROVIDER.—The term "product support provider" means an entity that provides product support functions. The term includes an entity within the Department of Defense, an entity within the private sector, or a partnership between such entities.
 
-  * (5) MAJOR WEAPON SYSTEM.—The term "major weapon system" means a major system within the meaning of section 2302d(a) of this title.
+  * (5) COVERED SYSTEM.—The term "covered system" means—
+
+    * (A) a major defense acquisition program as defined in section 2430 of this title; or
+
+    * (B) an acquisition program or project that is carried out using the rapid fielding or rapid prototyping acquisition pathway under section 804 of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 10 U.S.C. 2302 note) that is estimated by the Secretary of Defense to require an eventual total expenditure described in section 2430(a)(1)(B).
+
+
+  * (6) MILESTONE B APPROVAL.—The term "Milestone B approval" has the meaning given that term in section 2366(e)(7) of this title.
+
+  * (7) MILESTONE DECISION AUTHORITY.—The term "milestone decision authority" has the meaning given in section 2431a(e)(5) of this title.
 
 ### §2337a. Assessment, management, and control of operating and support costs for major weapon systems
 * (a) GUIDANCE REQUIRED.—The Secretary of Defense shall issue and maintain guidance on actions to be taken to assess, manage, and control Department of Defense costs for the operation and support of major weapon systems.
@@ -3196,7 +3204,7 @@
 
 * (b) DETERMINATION AND NOTIFICATION.—The head of a covered agency may exercise the authority provided in subsection (a) only after—
 
-  * (1) obtaining a joint recommendation by the Under Secretary of Defense for Acquisition and Sustainment and the Chief Information Officer of the Department of Defense, on the basis of a risk assessment by the Under Secretary of Defense for Intelligence, that there is a significant supply chain risk to a covered system;
+  * (1) obtaining a joint recommendation by the Under Secretary of Defense for Acquisition and Sustainment and the Chief Information Officer of the Department of Defense, on the basis of a risk assessment by the Under Secretary of Defense for Intelligence and Security, that there is a significant supply chain risk to a covered system;
 
   * (2) making a determination in writing, in unclassified or classified form, with the concurrence of the Under Secretary of Defense for Acquisition and Sustainment, that—
 
@@ -3280,3 +3288,18 @@
 * (a) REQUIREMENT FOR CONTRACTOR TO PROVIDE NOTICE OF DELAYS.—The Secretary of the Navy shall require prime contractors of any Navy procurement program funded under either the Shipbuilding and Conversion, Navy account or the Other Procurement, Navy account to report within 15 calendar days any stop work order or other manufacturing disruption of 15 calendar days or more, by the prime contractor or any subcontractor, to the respective program manager and Navy technical authority.
 
 * (b) QUARTERLY REPORTS.—The Secretary of the Navy shall submit to the congressional defense committees not later than 15 calendar days after the end of each quarter of a fiscal year a report listing all notifications made pursuant to subsection (a) during the preceding quarter.
+
+### §2339c. Disclosures for offerors for certain shipbuilding major defense acquisition program contracts
+* (a) IN GENERAL.—Any covered offeror seeking to be awarded a shipbuilding construction contract as part of a major defense acquisition program with funds from the Shipbuilding and Conversion, Navy account shall disclose along with the offer and any subsequent revisions of the offer (including the final proposal revision offer) if any part of the planned contract performance will or is expected to include foreign government subsidized performance, foreign financing, foreign financial guarantees, or foreign tax concessions.
+
+* (b) REQUIREMENTS.—A disclosure required under subsection (a) shall be made in a form prescribed by the Secretary of the Navy and shall include a specific description of the extent to which the planned contract performance will include, with or without contingencies, any foreign government subsidized performance, foreign financing, foreign financial guarantees, or foreign tax concessions.
+
+* (c) CONGRESSIONAL NOTIFICATION.—Not later than 5 days after awarding a contract described under subsection (a), the Secretary of the Navy shall notify the congressional defense committees and summarize the disclosure provided under such subsection.
+
+* (d) DEFINITIONS.—In this section:
+
+  * (1) COVERED OFFEROR.—The term "covered offeror" means any offeror that requires or may reasonably be expected to require, during the period of performance on a shipbuilding construction contract described in subsection (a), a method to mitigate or negate foreign ownership under section 2004.34(f)(6) of title 32, Code of Federal Regulations.
+
+  * (2) FOREIGN GOVERNMENT SUBSIDIZED PERFORMANCE.—The term "foreign government subsidized performance" means any financial support, materiel, services, or guarantees of support, services, supply, performance, or intellectual property concessions, that may be provided to or for the covered offeror or the customer of the offeror by a foreign government or entity effectively owned or controlled by a foreign government, which may have the effect of supplementing, supplying, servicing, or reducing the cost or price of an end item, or supporting, financing in whole or in part, or guaranteeing contract performance by the offeror.
+
+  * (3) MAJOR DEFENSE ACQUISITION PROGRAM.—The term "major defense acquisition program" has the meaning given the term in section 2430 of this title.

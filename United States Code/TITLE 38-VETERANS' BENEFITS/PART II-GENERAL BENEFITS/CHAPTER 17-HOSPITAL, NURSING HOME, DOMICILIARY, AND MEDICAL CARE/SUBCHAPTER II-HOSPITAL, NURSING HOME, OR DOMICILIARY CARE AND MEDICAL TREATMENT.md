@@ -12,7 +12,7 @@
 
   * (A) who has a compensable service-connected disability rated less than 50 percent or, with respect to nursing home care during any period during which the provisions of section 1710A(a) of this title are in effect, a compensable service-connected disability rated less than 70 percent;
 
-  * (B) whose discharge or release from active military, naval, or air service was for a disability that was incurred or aggravated in the line of duty;
+  * (B) whose discharge or release from active military, naval, air, or space service was for a disability that was incurred or aggravated in the line of duty;
 
   * (C) who is in receipt of, or who, but for a suspension pursuant to section 1151 of this title (or both a suspension and the receipt of retired pay), would be entitled to disability compensation, but only to the extent that such veteran's continuing eligibility for such care is provided for in the judgment or settlement provided for in such section;
 
@@ -103,11 +103,11 @@
 
 * (3) In the case of care for a veteran described in paragraph (1)(D), hospital care, medical services, and nursing home care may be provided under or by virtue of subsection (a)(2)(F) only during the following periods:
 
-  * (A) Except as provided by subparagraph (B), with respect to a veteran described in paragraph (1)(D) who is discharged or released from the active military, naval, or air service after January 27, 2003, the five-year period beginning on the date of such discharge or release.
+  * (A) Except as provided by subparagraph (B), with respect to a veteran described in paragraph (1)(D) who is discharged or released from the active military, naval, air, or space service after January 27, 2003, the five-year period beginning on the date of such discharge or release.
 
-  * (B) With respect to a veteran described in paragraph (1)(D) who is discharged or released from the active military, naval, or air service after January 1, 2009, and before January 1, 2011, but did not enroll to receive such hospital care, medical services, or nursing home care pursuant to such paragraph during the five-year period described in subparagraph (A), the one-year period beginning on the date of the enactment of the Clay Hunt Suicide Prevention for American Veterans Act.
+  * (B) With respect to a veteran described in paragraph (1)(D) who is discharged or released from the active military, naval, air, or space service after January 1, 2009, and before January 1, 2011, but did not enroll to receive such hospital care, medical services, or nursing home care pursuant to such paragraph during the five-year period described in subparagraph (A), the one-year period beginning on the date of the enactment of the Clay Hunt Suicide Prevention for American Veterans Act.
 
-  * (C) With respect to a veteran described in paragraph (1)(D) who is discharged or released from the active military, naval, or air service on or before January 27, 2003, and did not enroll in the patient enrollment system under section 1705 of this title on or before such date, the three-year period beginning on January 27, 2008.
+  * (C) With respect to a veteran described in paragraph (1)(D) who is discharged or released from the active military, naval, air, or space service on or before January 27, 2003, and did not enroll in the patient enrollment system under section 1705 of this title on or before such date, the three-year period beginning on January 27, 2008.
 
 
 * (4) For purposes of this subsection—
@@ -130,7 +130,7 @@
     * (ii) the amount determined under paragraph (3) of this subsection; and
 
 
-  * (B) before September 30, 2020, an amount equal to $10 for every day the veteran receives hospital care and $5 for every day the veteran receives nursing home care.
+  * (B) before September 30, 2022, an amount equal to $10 for every day the veteran receives hospital care and $5 for every day the veteran receives nursing home care.
 
 
 * (3)(A) In the case of hospital care furnished during any 365-day period, the amount referred to in paragraph (2)(A)(ii) of this subsection is—
@@ -199,7 +199,7 @@
 
 * (c) The Secretary shall ensure that nursing home care provided under subsection (a) is provided in an age-appropriate manner.
 
-* (d) The provisions of subsection (a) shall terminate on September 30, 2020.
+* (d) The provisions of subsection (a) shall terminate on September 30, 2022.
 
 ### §1710B. Extended care services
 * (a) The Secretary (subject to section 1710(a)(4) of this title and subsection (c) of this section) shall operate and maintain a program to provide extended care services to eligible veterans in accordance with this section. Such services shall include the following:
@@ -410,18 +410,18 @@
 
   * (B) which is service-connected, but not compensable in degree, but only if—
 
-    * (i) the dental condition or disability is shown to have been in existence at the time of the veteran's discharge or release from active military, naval, or air service;
+    * (i) the dental condition or disability is shown to have been in existence at the time of the veteran's discharge or release from active military, naval, air, or space service;
 
     * (ii) the veteran had served on active duty for a period of not less than 180 days or, in the case of a veteran who served on active duty during the Persian Gulf War, 90 days immediately before such discharge or release;
 
-    * (iii) application for treatment is made within 180 days after such discharge or release, except that (I) in the case of a veteran who reentered active military, naval, or air service within 90 days after the date of such veteran's prior discharge or release from such service, application may be made within 180 days from the date of such veteran's subsequent discharge or release from such service, and (II) if a disqualifying discharge or release has been corrected by competent authority, application may be made within 180 days after the date of correction; and
+    * (iii) application for treatment is made within 180 days after such discharge or release, except that (I) in the case of a veteran who reentered active military, naval, air, or space service within 90 days after the date of such veteran's prior discharge or release from such service, application may be made within 180 days from the date of such veteran's subsequent discharge or release from such service, and (II) if a disqualifying discharge or release has been corrected by competent authority, application may be made within 180 days after the date of correction; and
 
     * (iv) the veteran's certificate of discharge or release from active duty does not bear a certification that the veteran was provided, within the 90-day period immediately before the date of such discharge or release, a complete dental examination (including dental X-rays) and all appropriate dental services and treatment indicated by the examination to be needed;
 
 
   * (C) which is a service-connected dental condition or disability due to combat wounds or other service trauma, or of a former prisoner of war;
 
-  * (D) which is associated with and is aggravating a disability resulting from some other disease or injury which was incurred in or aggravated by active military, naval, or air service;
+  * (D) which is associated with and is aggravating a disability resulting from some other disease or injury which was incurred in or aggravated by active military, naval, air, or space service;
 
   * (E) which is a non-service-connected condition or disability of a veteran for which treatment was begun while such veteran was receiving hospital care under this chapter and such services and treatment are reasonably necessary to complete such treatment;
 
@@ -432,7 +432,7 @@
   * (H) the treatment of which is medically necessary (i) in preparation for hospital admission, or (ii) for a veteran otherwise receiving care or services under this chapter.
 
 
-* (2) The Secretary concerned shall at the time a member of the Armed Forces is discharged or released from a period of active military, naval, or air service of not less than 180 days or, in the case of a veteran who served on active duty during the Persian Gulf War, 90 days provide to such member a written explanation of the provisions of clause (B) of paragraph (1) of this subsection and enter in the service records of the member a statement signed by the member acknowledging receipt of such explanation (or, if the member refuses to sign such statement, a certification from an officer designated for such purpose by the Secretary concerned that the member was provided such explanation).
+* (2) The Secretary concerned shall at the time a member of the Armed Forces is discharged or released from a period of active military, naval, air, or space service of not less than 180 days or, in the case of a veteran who served on active duty during the Persian Gulf War, 90 days provide to such member a written explanation of the provisions of clause (B) of paragraph (1) of this subsection and enter in the service records of the member a statement signed by the member acknowledging receipt of such explanation (or, if the member refuses to sign such statement, a certification from an officer designated for such purpose by the Secretary concerned that the member was provided such explanation).
 
 * (3) The total amount which the Secretary may expend for furnishing, during any twelve-month period, outpatient dental services, treatment, or related dental appliances to a veteran under this section through private facilities for which the Secretary has contracted or entered an agreement may not exceed $1,000 unless the Secretary determines, prior to the furnishing of such services, treatment, or appliances and based on an examination of the veteran by a dentist employed by the Department (or, in an area where no such dentist is available, by a dentist conducting such examination under a contract or fee arrangement), that the furnishing of such services, treatment, or appliances at such cost is reasonably necessary.
 
@@ -458,25 +458,48 @@
 ### §1712A. Eligibility for readjustment counseling and related mental health services
 * (a)(1)(A) Upon the request of any individual referred to in subparagraph (C), the Secretary shall furnish counseling, including by furnishing counseling through a Vet Center, to the individual—
 
-  * (i) in the case of an individual referred to in clauses (i) through (iv) of subparagraph (C), to assist the individual in readjusting to civilian life; and
+  * (i) in the case of an individual referred to in clauses (i) through (vi) of subparagraph (C), to assist the individual in readjusting to civilian life; and
 
-  * (ii) in the case of an individual referred to in clause (v) of such subparagraph who is a family member of a veteran or member described in such clause—
+  * (ii) in the case of an individual referred to in clause (vii) of such subparagraph who is a family member of a veteran or member described in such clause—
 
     * (I) in the case of a member who is deployed in a theater of combat operations or an area at a time during which hostilities are occurring in that area, during such deployment to assist such individual in coping with such deployment; and
 
     * (II) in the case of a veteran or member who is readjusting to civilian life, to the degree that counseling furnished to such individual is found to aid in the readjustment of such veteran or member to civilian life.
 
 
-* (B) Counseling furnished to an individual under subparagraph (A) may include a comprehensive individual assessment of the individual's psychological, social, and other characteristics to ascertain whether—
+* (B)(i) Counseling furnished to an individual under subparagraph (A) may include a comprehensive individual assessment of the individual's psychological, social, and other characteristics to ascertain whether—
 
-  * (i) in the case of an individual referred to in clauses (i) through (iv) of subparagraph (C), such individual has difficulties associated with readjusting to civilian life; and
+  * (I) in the case of an individual referred to in clauses (i) through (vi) of subparagraph (C), such individual has difficulties associated with readjusting to civilian life; and
 
-  * (ii) in the case of an individual referred to in clause (v) of such subparagraph, such individual has difficulties associated with—
+  * (II) in the case of an individual referred to in clause (vii) of such subparagraph, such individual has difficulties associated with—
 
-    * (I) coping with the deployment of a member described in subclause (I) of such clause; or
+    * (aa) coping with the deployment of a member described in subclause (I) of such clause; or
 
-    * (II) readjustment to civilian life of a veteran or member described in subclause (II) of such clause.
+    * (bb) readjustment to civilian life of a veteran or member described in subclause (II) of such clause.
 
+
+* (ii)(I) Except as provided in subclauses (IV) and (V), counseling furnished to an individual under subparagraph (A) may include reintegration and readjustment services described in subclause (II) furnished in group retreat settings.
+
+* (II) Reintegration and readjustment services described in this subclause are the following:
+
+  * (aa) Information on reintegration of the individual into family, employment, and community.
+
+  * (bb) Financial counseling.
+
+  * (cc) Occupational counseling.
+
+  * (dd) Information and counseling on stress reduction.
+
+  * (ee) Information and counseling on conflict resolution.
+
+  * (ff) Such other information and counseling as the Secretary considers appropriate to assist the individual in reintegration into family, employment, and community.
+
+
+* (III) In furnishing reintegration and readjustment services under subclause (I), the Secretary shall offer women the opportunity to receive such services in group retreat settings in which the only participants are women.
+
+* (IV) An individual described in subparagraph (C)(v) may receive reintegration and readjustment services under subclause (I) of this clause only if the individual receives such services with a family member described in subclause (I) or (II) of such subparagraph.
+
+* (V) In each of fiscal years 2021 through 2025, the maximum number of individuals to whom integration and readjustment services may be furnished in group retreat settings under this subclause (I) shall not exceed 1,200 individuals.
 
 * (C) Subparagraph (A) applies to the following individuals:
 
@@ -486,26 +509,37 @@
 
   * (iii) Any individual who is a veteran or member of the Armed Forces, including a member of a reserve component of the Armed Forces, who engaged in combat with an enemy of the United States or against an opposing military force in a theater of combat operations or an area at a time during which hostilities occurred in that area by remotely controlling an unmanned aerial vehicle, notwithstanding whether the physical location of such veteran or member during such combat was within such theater of combat operations or area.
 
-  * (iv) Any individual who received counseling under this section before the date of the enactment of the National Defense Authorization Act for Fiscal Year 2013.
+  * (iv) Any individual who is a veteran or member of the Armed Forces, including a member of a reserve component of the Armed Forces, who served—
 
-  * (v) Any individual who is a family member of any—
+    * (I) on active service in response to a national emergency or major disaster declared by the President; or
+
+    * (II) in the National Guard of a State under orders of the chief executive of that State in response to a disaster or civil disorder in such State.
+
+
+  * (v) Any individual who participated in a drug interdiction operation as a member of the Coast Guard, regardless of the location of that operation.
+
+  * (vi) Any individual who received counseling under this section before the date of the enactment of the National Defense Authorization Act for Fiscal Year 2013.
+
+  * (vii) Any individual who is a family member of any—
 
     * (I) member of the Armed Forces, including a member of a reserve component of the Armed Forces, who is serving on active duty in a theater of combat operations or in an area at a time during which hostilities are occurring in that area; or
 
     * (II) veteran or member of the Armed Forces described in this subparagraph.
 
 
-* (2) Upon request of an individual described in paragraph (1)(C), the Secretary shall provide the individual a comprehensive individual assessment as described in paragraph (1)(B) as soon as practicable after receiving the request, but not later than 30 days after receiving the request.
+* (2)(A) Upon request of an individual described in paragraph (1)(C), the Secretary shall provide the individual a comprehensive individual assessment as described in paragraph (1)(B)(i) as soon as practicable after receiving the request, but not later than 30 days after receiving the request.
+
+* (B) Upon the request of an individual described in paragraph (1)(C), the Secretary shall furnish the individual reintegration and readjustment services in group retreat settings under paragraph (1)(B)(ii) if the Secretary determines the experience will be therapeutically appropriate.
 
 * (b)(1) If, on the basis of the assessment furnished under subsection (a) of this section, a licensed or certified mental health care provider employed by the Department (or, in areas where no such licensed or certified mental health care provider is available, a licensed or certified mental health care provider carrying out such function under a contract or fee arrangement with the Secretary) determines that the provision of mental health services to such veteran is necessary to facilitate the successful readjustment of the veteran to civilian life, such veteran shall, within the limits of Department facilities, be furnished such services on an outpatient basis. For the purposes of furnishing such mental health services, the counseling furnished under subsection (a) of this section shall be considered to have been furnished by the Department as a part of hospital care. Any hospital care and other medical services considered necessary on the basis of the assessment furnished under subsection (a) of this section shall be furnished only in accordance with the eligibility criteria otherwise set forth in this chapter (including the eligibility criteria set forth in section 1784 of this title).
 
 * (2) Mental health services furnished under paragraph (1) of this subsection may, if determined to be essential to the effective treatment and readjustment of the veteran, include such consultation, counseling, training, services, and expenses as are described in sections 1782 and 1783 of this title.
 
-* (c) Upon receipt of a request for counseling under this section from any individual who has been discharged or released from active military, naval, or air service but who is not otherwise eligible for such counseling, the Secretary shall—
+* (c) Upon receipt of a request for counseling under this section from any individual who has been discharged or released from active military, naval, air, or space service but who is not otherwise eligible for such counseling, the Secretary shall—
 
   * (1) provide referral services to assist such individual, to the maximum extent practicable, in obtaining mental health care and services from sources outside the Department; and
 
-  * (2) if pertinent, advise such individual of such individual's rights to apply to the appropriate military, naval, or air service, and to the Department, for review of such individual's discharge or release from such service.
+  * (2) if pertinent, advise such individual of such individual's rights to apply to the appropriate military, naval, air, or space service, and to the Department, for review of such individual's discharge or release from such service.
 
 
 * (d) The Under Secretary for Health may provide for such training of professional, paraprofessional, and lay personnel as is necessary to carry out this section effectively, and, in carrying out this section, may utilize the services of paraprofessionals, individuals who are volunteers working without compensation, and individuals who are veteran-students (as described in section 3485 of this title) in initial intake and screening activities.
@@ -547,6 +581,11 @@
 
 
     * (B) lives with the veteran or member but is not a member of the family of the veteran or member.
+
+
+  * "(4) The term "'active service"' has the meaning given that term in section 101 of title 10.
+
+  * "(5) The term "'civil disorder"' has the meaning given that term in section 232 of title 18."
 
 ### §1712B. Counseling for former prisoners of war
 * The Secretary may establish a program under which, upon the request of a veteran who is a former prisoner of war, the Secretary, within the limits of Department facilities, furnishes counseling to such veteran to assist such veteran in overcoming the psychological effects of the veteran's detention or internment as a prisoner of war.
@@ -600,7 +639,9 @@
 * (j) TERMINATION.—This section terminates on December 31, 2021.
 
 ### §1714. Fitting and training in use of prosthetic appliances; guide dogs; service dogs
-* (a) Any veteran who is entitled to a prosthetic appliance shall be furnished such fitting and training, including institutional training, in the use of such appliance as may be necessary, whether in a Department facility or other training institution, or by outpatient treatment, including such service under contract, and including travel and incidental expenses (under the terms and conditions set forth in section 111 of this title) to and from such veteran's home to such hospital or training institution.
+* (a)(1) Any veteran who is entitled to a prosthetic appliance shall be furnished such fitting and training, including institutional training, in the use of such appliance as may be necessary, whether in a Department facility or other training institution, or by outpatient treatment, including such service under contract, and including travel and incidental expenses (under the terms and conditions set forth in section 111 of this title) to and from such veteran's home to such hospital or training institution.
+
+* (2) In furnishing prosthetic appliances under paragraph (1), the Secretary shall ensure women veterans are able to access clinically appropriate prosthetic appliances through each medical facility of the Department.
 
 * (b) The Secretary may provide guide dogs trained for the aid of the blind to veterans who are enrolled under section 1705 of this title. The Secretary may also provide such veterans with mechanical or electronic equipment for aiding them in overcoming the disability of blindness.
 
@@ -646,7 +687,7 @@
 
 * (c) The Secretary may furnish devices for assisting in overcoming the handicap of deafness (including telecaptioning television decoders) to any veteran who is profoundly deaf and is entitled to compensation on account of hearing impairment.
 
-* (d)(1) In the case of a member of the Armed Forces who, as determined by the Secretary, has a disability permanent in nature incurred or aggravated in the line of duty in the active military, naval, or air service, the Secretary may furnish improvements and structural alterations for such member for such disability or as otherwise described in subsection (a)(2) while such member is hospitalized or receiving outpatient medical care, services, or treatment for such disability if the Secretary determines that such member is likely to be discharged or released from the Armed Forces for such disability.
+* (d)(1) In the case of a member of the Armed Forces who, as determined by the Secretary, has a disability permanent in nature incurred or aggravated in the line of duty in the active military, naval, air, or space service, the Secretary may furnish improvements and structural alterations for such member for such disability or as otherwise described in subsection (a)(2) while such member is hospitalized or receiving outpatient medical care, services, or treatment for such disability if the Secretary determines that such member is likely to be discharged or released from the Armed Forces for such disability.
 
 * (2) The furnishing of improvements and alterations under paragraph (1) in connection with the furnishing of medical services described in subparagraph (A) or (B) of subsection (a)(2) shall be subject to the limitation specified in the applicable subparagraph.
 
@@ -783,16 +824,16 @@
 ### §1720A. Treatment and rehabilitative services for persons with drug or alcohol dependency
 * (a) The Secretary, in consultation with the Secretary of Labor and the Director of the Office of Personnel Management, may take appropriate steps to (1) urge all Federal agencies and appropriate private and public firms, organizations, agencies, and persons to provide appropriate employment and training opportunities for veterans who have been provided treatment and rehabilitative services under this title for alcohol or drug dependence or abuse disabilities and have been determined by competent medical authority to be sufficiently rehabilitated to be employable, and (2) provide all possible assistance to the Secretary of Labor in placing such veterans in such opportunities.
 
-* (b) Upon receipt of an application for treatment and rehabilitative services under this title for an alcohol or drug dependence or abuse disability from any individual who has been discharged or released from active military, naval, or air service but who is not eligible for such treatment and services, the Secretary shall—
+* (b) Upon receipt of an application for treatment and rehabilitative services under this title for an alcohol or drug dependence or abuse disability from any individual who has been discharged or released from active military, naval, air, or space service but who is not eligible for such treatment and services, the Secretary shall—
 
   * (1) provide referral services to assist such individual, to the maximum extent practicable, in obtaining treatment and rehabilitative services from sources outside the Department; and
 
-  * (2) if pertinent, advise such individual of such individual's rights to apply to the appropriate military, naval, or air service and the Department for review of such individual's discharge or release from such service.
+  * (2) if pertinent, advise such individual of such individual's rights to apply to the appropriate military, naval, air, or space service and the Department for review of such individual's discharge or release from such service.
 
 
-* (c)(1) Any person serving in the active military, naval, or air service who is determined by the Secretary concerned to have an alcohol or drug dependence or abuse disability may be transferred to any facility in order for the Secretary to furnish care or treatment and rehabilitative services for such disability. Care and services provided to a member so transferred shall be provided as if such member were a veteran. Any transfer of any such member for such care and services shall be made pursuant to such terms as may be agreed upon by the Secretary concerned and the Secretary, subject to the provisions of sections 1535 and 1536 of title 31.
+* (c)(1) Any person serving in the active military, naval, air, or space service who is determined by the Secretary concerned to have an alcohol or drug dependence or abuse disability may be transferred to any facility in order for the Secretary to furnish care or treatment and rehabilitative services for such disability. Care and services provided to a member so transferred shall be provided as if such member were a veteran. Any transfer of any such member for such care and services shall be made pursuant to such terms as may be agreed upon by the Secretary concerned and the Secretary, subject to the provisions of sections 1535 and 1536 of title 31.
 
-* (2) No person serving in the active military, naval, or air service may be transferred pursuant to an agreement made under paragraph (1) of this subsection unless such person requests such transfer in writing for a specified period of time. No such person transferred pursuant to such a request may be furnished such care and services by the Secretary beyond the period of time specified in such request unless such person requests in writing an extension for a further specified period of time and such request is approved by the Secretary.
+* (2) No person serving in the active military, naval, air, or space service may be transferred pursuant to an agreement made under paragraph (1) of this subsection unless such person requests such transfer in writing for a specified period of time. No such person transferred pursuant to such a request may be furnished such care and services by the Secretary beyond the period of time specified in such request unless such person requests in writing an extension for a further specified period of time and such request is approved by the Secretary.
 
 * (d)(1) The Secretary shall ensure that each medical center of the Department develops and carries out a plan to provide treatment for substance use disorders, either through referral or direct provision of services, to veterans who require such treatment.
 
@@ -831,15 +872,15 @@
 * (e) The authority of the Secretary to enter into contracts under this section shall be effective for any fiscal year only to the extent that appropriations are available.
 
 ### §1720D. Counseling and treatment for sexual trauma
-* (a)(1) The Secretary shall operate a program under which the Secretary provides counseling and appropriate care and services to veterans who the Secretary determines require such counseling and care and services to overcome psychological trauma, which in the judgment of a mental health professional employed by the Department, resulted from a physical assault of a sexual nature, battery of a sexual nature, or sexual harassment which occurred while the veteran was serving on active duty, active duty for training, or inactive duty training.
+* (a)(1) The Secretary shall operate a program under which the Secretary provides counseling and appropriate care and services, to include care for physical health conditions, as appropriate, to former members of the Armed Forces who the Secretary determines require such counseling and care and services to treat a condition, which in the judgment of a health care professional employed by the Department, resulted from a physical assault of a sexual nature, battery of a sexual nature, or sexual harassment which occurred while the former member of the Armed Forces was serving on duty, regardless of duty status or line of duty determination (as that term is used in section 12323 of title 10).
 
-* (2)(A) In operating the program required by paragraph (1), the Secretary may, in consultation with the Secretary of Defense, provide counseling and care and services to members of the Armed Forces (including members of the National Guard and Reserves) to overcome psychological trauma described in that paragraph that was suffered by the member while serving on active duty, active duty for training, or inactive duty training.
+* (2)(A) In operating the program required by paragraph (1), the Secretary may, in consultation with the Secretary of Defense, provide counseling and care and services to members of the Armed Forces (including members of the National Guard and Reserves) to treat a condition described in that paragraph that was suffered by the member while serving on duty, regardless of duty status or line of duty determination (as that term is used in section 12323 of title 10).
 
 * (B) A member described in subparagraph (A) shall not be required to obtain a referral before receiving counseling and care and services under this paragraph.
 
 * (3) In furnishing counseling to an individual under this subsection, the Secretary may provide such counseling pursuant to a contract with a qualified mental health professional if (A) in the judgment of a mental health professional employed by the Department, the receipt of counseling by that individual in facilities of the Department would be clinically inadvisable, or (B) Department facilities are not capable of furnishing such counseling to that individual economically because of geographical inaccessibility.
 
-* (b)(1) The Secretary shall give priority to the establishment and operation of the program to provide counseling and care and services under subsection (a). In the case of a veteran eligible for counseling and care and services under subsection (a), the Secretary shall ensure that the veteran is furnished counseling and care and services under this section in a way that is coordinated with the furnishing of such care and services under this chapter.
+* (b)(1) The Secretary shall give priority to the establishment and operation of the program to provide counseling and care and services under subsection (a). In the case of a former member of the Armed Forces eligible for counseling and care and services under subsection (a), the Secretary shall ensure that the former member of the Armed Forces is furnished counseling and care and services under this section in a way that is coordinated with the furnishing of such care and services under this chapter.
 
 * (2) In establishing a program to provide counseling under subsection (a), the Secretary shall—
 
@@ -847,7 +888,7 @@
 
   * (B) seek to ensure that such counseling is furnished in a setting that is therapeutically appropriate, taking into account the circumstances that resulted in the need for such counseling; and
 
-  * (C) provide referral services to assist veterans who are not eligible for services under this chapter to obtain those from sources outside the Department.
+  * (C) provide referral services to assist former members of the Armed Forces who are not eligible for services under this chapter to obtain those from sources outside the Department.
 
 
 * (c) The Secretary shall provide information on the counseling and treatment available under this section. Efforts by the Secretary to provide such information—
@@ -863,14 +904,14 @@
     * (C) is made available through appropriate public information services; and
 
 
-  * (3) shall include coordination with the Secretary of Defense seeking to ensure that members of the Armed Forces and individuals who are being separated from active military, naval, or air service are provided appropriate information about programs, requirements, and procedures for applying for counseling and treatment under this section.
+  * (3) shall include coordination with the Secretary of Defense seeking to ensure that members of the Armed Forces and individuals who are being separated from active military, naval, air, or space service are provided appropriate information about programs, requirements, and procedures for applying for counseling and treatment under this section.
 
 
-* (d)(1) The Secretary shall carry out a program to provide graduate medical education, training, certification, and continuing medical education for mental health professionals who provide counseling, care, and services under subsection (a).
+* (d)(1) The Secretary shall carry out a program to provide graduate medical education, training, certification, and continuing medical education for mental health professionals and other health care professionals who provide counseling, care, and services under subsection (a).
 
 * (2) In carrying out the program required by paragraph (1), the Secretary shall ensure that—
 
-  * (A) all mental health professionals described in such paragraph have been trained in a consistent manner; and
+  * (A) all mental health professionals and other health care professionals described in such paragraph have been trained in a consistent manner; and
 
   * (B) training described in such paragraph includes principles of evidence-based treatment and care for sexual trauma and post-traumatic stress disorder.
 
@@ -881,7 +922,7 @@
 
   * (2) The number of individuals who received counseling and care and services under subsection (a) from professionals and providers who received training under subsection (d), disaggregated by—
 
-    * (A) veterans;
+    * (A) former members of the Armed Forces;
 
     * (B) members of the Armed Forces (including members of the National Guard and Reserves) on active duty; and
 
@@ -901,10 +942,16 @@
   * (6) Such other information as the Secretary considers appropriate.
 
 
-* (f) In this section, the term "sexual harassment" means repeated, unsolicited verbal or physical contact of a sexual nature which is threatening in character.
+* (f) In this section, the term "sexual harassment" means unsolicited verbal or physical contact of a sexual nature which is threatening in character.
+
+* (g) In this section, the term "former member of the Armed Forces" includes the following:
+
+  * (1) A veteran.
+
+  * (2) An individual described in section 1720I(b) of this title.
 
 ### §1720E. Nasopharyngeal radium irradiation
-* (a) The Secretary may provide any veteran a medical examination, and hospital care, medical services, and nursing home care, which the Secretary determines is needed for the treatment of any cancer of the head or neck which the Secretary finds may be associated with the veteran's receipt of nasopharyngeal radium irradiation treatments in active military, naval, or air service.
+* (a) The Secretary may provide any veteran a medical examination, and hospital care, medical services, and nursing home care, which the Secretary determines is needed for the treatment of any cancer of the head or neck which the Secretary finds may be associated with the veteran's receipt of nasopharyngeal radium irradiation treatments in active military, naval, air, or space service.
 
 * (b) The Secretary shall provide care and services to a veteran under subsection (a) only on the basis of evidence in the service records of the veteran which document nasopharyngeal radium irradiation treatment in service, except that, notwithstanding the absence of such documentation, the Secretary may provide such care to a veteran who—
 
@@ -912,23 +959,23 @@
 
   * (2) underwent submarine training in active naval service before January 1, 1965.
 
-### §1720F. Comprehensive program for suicide prevention among veterans
-* (a) ESTABLISHMENT.—The Secretary shall develop and carry out a comprehensive program designed to reduce the incidence of suicide among veterans incorporating the components described in this section.
+### §1720F. Comprehensive program for suicide prevention among veterans and members of the reserve components of the Armed Forces
+* (a) ESTABLISHMENT.—The Secretary shall develop and carry out a comprehensive program designed to reduce the incidence of suicide among covered individuals incorporating the components described in this section.
 
-* (b) STAFF EDUCATION.—In carrying out the comprehensive program under this section, the Secretary shall provide for mandatory training for appropriate staff and contractors (including all medical personnel) of the Department who interact with veterans. This training shall cover information appropriate to the duties being performed by such staff and contractors. The training shall include information on—
+* (b) STAFF EDUCATION.—In carrying out the comprehensive program under this section, the Secretary shall provide for mandatory training for appropriate staff and contractors (including all medical personnel) of the Department who interact with covered individuals. This training shall cover information appropriate to the duties being performed by such staff and contractors. The training shall include information on—
 
   * (1) recognizing risk factors for suicide;
 
-  * (2) proper protocols for responding to crisis situations involving veterans who may be at high risk for suicide; and
+  * (2) proper protocols for responding to crisis situations involving covered individuals who may be at high risk for suicide; and
 
   * (3) best practices for suicide prevention.
 
 
-* (c) HEALTH ASSESSMENTS OF VETERANS.—In carrying out the comprehensive program, the Secretary shall direct that medical staff offer mental health in their overall health assessment when veterans seek medical care at a Department medical facility (including a center established under section 1712A of this title) and make referrals, at the request of the veteran concerned, to appropriate counseling and treatment programs for veterans who show signs or symptoms of mental health problems.
+* (c) HEALTH ASSESSMENTS.—In carrying out the comprehensive program, the Secretary shall direct that medical staff offer mental health in their overall health assessment when covered individuals seek medical care at a Department medical facility (including a center established under section 1712A of this title) and make referrals, at the request of the individual concerned, to appropriate counseling and treatment programs for covered individuals who show signs or symptoms of mental health problems.
 
-* (d) DESIGNATION OF SUICIDE PREVENTION COUNSELORS.—In carrying out the comprehensive program, the Secretary shall designate a suicide prevention counselor at each Department medical facility other than centers established under section 1712A of this title. Each counselor shall work with local emergency rooms, police departments, mental health organizations, and veterans service organizations to engage in outreach to veterans and improve the coordination of mental health care to veterans.
+* (d) DESIGNATION OF SUICIDE PREVENTION COUNSELORS.—In carrying out the comprehensive program, the Secretary shall designate a suicide prevention counselor at each Department medical facility other than centers established under section 1712A of this title. Each counselor shall work with local emergency rooms, police departments, mental health organizations, and veterans service organizations to engage in outreach to covered individuals and improve the coordination of mental health care to covered individuals.
 
-* (e) BEST PRACTICES RESEARCH.—In carrying out the comprehensive program, the Secretary shall provide for research on best practices for suicide prevention among veterans. Research shall be conducted under this subsection in consultation with the heads of the following entities:
+* (e) BEST PRACTICES RESEARCH.—In carrying out the comprehensive program, the Secretary shall provide for research on best practices for suicide prevention among covered individuals. Research shall be conducted under this subsection in consultation with the heads of the following entities:
 
   * (1) The Department of Health and Human Services.
 
@@ -939,41 +986,41 @@
   * (4) The Centers for Disease Control and Prevention.
 
 
-* (f) SEXUAL TRAUMA RESEARCH.—In carrying out the comprehensive program, the Secretary shall provide for research on mental health care for veterans who have experienced sexual trauma while in military service. The research design shall include consideration of veterans of a reserve component.
+* (f) SEXUAL TRAUMA RESEARCH.—In carrying out the comprehensive program, the Secretary shall provide for research on mental health care for covered individuals who have experienced sexual trauma while in military service. The research design shall include consideration of veterans or members of a reserve component.
 
-* (g) 24-HOUR MENTAL HEALTH CARE.—In carrying out the comprehensive program, the Secretary shall provide for mental health care availability to veterans on a 24-hour basis.
+* (g) 24-HOUR MENTAL HEALTH CARE.—In carrying out the comprehensive program, the Secretary shall provide for mental health care availability to covered individuals on a 24-hour basis.
 
-* (h) HOTLINE.—In carrying out the comprehensive program, the Secretary may provide for a toll-free hotline for veterans to be staffed by appropriately trained mental health personnel and available at all times.
+* (h) HOTLINE.—In carrying out the comprehensive program, the Secretary may provide for a toll-free hotline for covered individuals to be staffed by appropriately trained mental health personnel and available at all times.
 
-* (i) OUTREACH AND EDUCATION FOR VETERANS AND FAMILIES.—In carrying out the comprehensive program, the Secretary shall provide for outreach to and education for veterans and the families of veterans, with special emphasis on providing information to veterans of Operation Iraqi Freedom and Operation Enduring Freedom and the families of such veterans. Education to promote mental health shall include information designed to—
+* (i) OUTREACH AND EDUCATION.—In carrying out the comprehensive program, the Secretary shall provide for outreach to and education for covered individuals and the families of covered individuals, with special emphasis on providing information to veterans of Operation Iraqi Freedom and Operation Enduring Freedom and the families of such veterans. Education to promote mental health shall include information designed to—
 
   * (1) remove the stigma associated with mental illness;
 
-  * (2) encourage veterans to seek treatment and assistance for mental illness;
+  * (2) encourage covered individuals to seek treatment and assistance for mental illness;
 
   * (3) promote skills for coping with mental illness; and
 
-  * (4) help families of veterans with—
+  * (4) help families of covered individuals with—
 
-    * (A) understanding issues arising from the readjustment of veterans to civilian life;
+    * (A) understanding issues arising from the readjustment of covered individuals to civilian life;
 
     * (B) identifying signs and symptoms of mental illness; and
 
-    * (C) encouraging veterans to seek assistance for mental illness.
+    * (C) encouraging covered individuals to seek assistance for mental illness.
 
 
-* (j) PEER SUPPORT COUNSELING PROGRAM.—(1) In carrying out the comprehensive program, the Secretary shall establish and carry out a peer support counseling program, under which veterans shall be permitted to volunteer as peer counselors—
+* (j) PEER SUPPORT COUNSELING PROGRAM.—(1) In carrying out the comprehensive program, the Secretary shall establish and carry out a peer support counseling program, under which covered individuals shall be permitted to volunteer as peer counselors—
 
-  * (A) to assist other veterans with issues related to mental health and readjustment; and
+  * (A) to assist other covered individuals with issues related to mental health and readjustment; and
 
-  * (B) to conduct outreach to veterans and the families of veterans.
+  * (B) to conduct outreach to covered individuals and the families of covered individuals.
 
 
 * (2) In carrying out the peer support counseling program under this subsection, the Secretary shall provide adequate training for peer counselors, including training carried out under the national program of training required by section 304(c) of the Caregivers and Veterans Omnibus Health Services Act of 2010 (38 U.S.C. 1712A note).
 
 * (3) In addition to other locations the Secretary considers appropriate, the Secretary shall carry out the peer support program under this subsection at each Department medical center.
 
-* (4)(A) As part of the counseling program under this subsection, the Secretary shall emphasize appointing peer support counselors for women veterans. To the degree practicable, the Secretary shall seek to recruit women peer support counselors with expertise in—
+* (4)(A) As part of the counseling program under this subsection, the Secretary shall emphasize appointing peer support counselors for covered individuals who are women. To the degree practicable, the Secretary shall seek to recruit women peer support counselors with expertise in—
 
   * (i) female gender-specific issues and services;
 
@@ -982,15 +1029,19 @@
   * (iii) employment mentoring.
 
 
-* (B) To the degree practicable, the Secretary shall emphasize facilitating peer support counseling for women veterans who are eligible for counseling and services under section 1720D of this title, have post-traumatic stress disorder or suffer from another mental health condition, are homeless or at risk of becoming homeless, or are otherwise at increased risk of suicide, as determined by the Secretary.
+* (B) To the degree practicable, the Secretary shall emphasize facilitating peer support counseling for covered individuals who are women and are eligible for counseling and services under section 1720D of this title, have post-traumatic stress disorder or suffer from another mental health condition, are homeless or at risk of becoming homeless, or are otherwise at increased risk of suicide, as determined by the Secretary.
 
-* (C) The Secretary shall conduct outreach to inform women veterans about the program and the assistance available under this paragraph.
+* (C) The Secretary shall conduct outreach to inform covered individuals who are women about the program and the assistance available under this paragraph.
 
 * (D) In carrying out this paragraph, the Secretary shall coordinate with such community organizations, State and local governments, institutions of higher education, chambers of commerce, local business organizations, organizations that provide legal assistance, and other organizations as the Secretary considers appropriate.
 
 * (E) In carrying out this paragraph, the Secretary shall provide adequate training for peer support counselors, including training carried out under the national program of training required by section 304(c) of the Caregivers and Veterans Omnibus Health Services Act of 2010 (38 U.S.C. 1712A note).
 
-* (k) OTHER COMPONENTS.—In carrying out the comprehensive program, the Secretary may provide for other actions to reduce the incidence of suicide among veterans that the Secretary considers appropriate.
+* (k) OTHER COMPONENTS.—In carrying out the comprehensive program, the Secretary may provide for other actions to reduce the incidence of suicide among covered individuals that the Secretary considers appropriate.
+
+* (_l)_(1) COVERED INDIVIDUAL DEFINED.—In this section, the term "covered individual" means a veteran or a member of the reserve components of the Armed Forces.
+
+* (2) In determining coverage of members of the reserve components of the Armed Forces under the comprehensive program, the Secretary shall consult with the Secretary of Defense.
 
 ### §1720G. Assistance and support services for caregivers
 * (a) PROGRAM OF COMPREHENSIVE ASSISTANCE FOR FAMILY CAREGIVERS.—(1)(A) The Secretary shall establish a program of comprehensive assistance for family caregivers of eligible veterans.
@@ -1003,16 +1054,16 @@
 
   * (B) for assistance provided under this subsection—
 
-    * (i) before the date on which the Secretary submits to Congress a certification that the Department has fully implemented the information technology system required by section 162(a) of the Caring for Our Veterans Act of 2018, has a serious injury (including traumatic brain injury, psychological trauma, or other mental disorder) incurred or aggravated in the line of duty in the active military, naval, or air service on or after September 11, 2001;
+    * (i) before the date on which the Secretary submits to Congress a certification that the Department has fully implemented the information technology system required by section 162(a) of the Caring for Our Veterans Act of 2018, has a serious injury (including traumatic brain injury, psychological trauma, or other mental disorder) incurred or aggravated in the line of duty in the active military, naval, air, or space service on or after September 11, 2001;
 
-    * (ii) during the 2-year period beginning on the date on which the Secretary submitted to Congress the certification described in clause (i), has a serious injury (including traumatic brain injury, psychological trauma, or other mental disorder) incurred or aggravated in the line of duty in the active military, naval, or air service—
+    * (ii) during the 2-year period beginning on the date on which the Secretary submitted to Congress the certification described in clause (i), has a serious injury (including traumatic brain injury, psychological trauma, or other mental disorder) incurred or aggravated in the line of duty in the active military, naval, air, or space service—
 
       * (I) on or before May 7, 1975; or
 
       * (II) on or after September 11, 2001; or
 
 
-    * (iii) after the date that is 2 years after the date on which the Secretary submits to Congress the certification described in clause (i), has a serious injury (including traumatic brain injury, psychological trauma, or other mental disorder) incurred or aggravated in the line of duty in the active military, naval, or air service; and
+    * (iii) after the date that is 2 years after the date on which the Secretary submits to Congress the certification described in clause (i), has a serious injury (including traumatic brain injury, psychological trauma, or other mental disorder) incurred or aggravated in the line of duty in the active military, naval, air, or space service; and
 
 
   * (C) is in need of personal care services because of—
@@ -1152,6 +1203,42 @@
 
 * (C) The Secretary may provide fair compensation to Federal agencies, States, and other entities that provide assistance under this paragraph.
 
+* (12)(A) The Secretary shall notify the individuals described in subparagraph (C) regarding decisions affecting the furnishing of assistance under this subsection using standardized letters, as the Secretary determines such notifications and letters to be appropriate.
+
+* (B) A notification provided under subparagraph (A) shall include the elements required for notices of decisions under section 5104(b) of this title to the extent that those elements apply to such notification, unless, not later than 60 days after the date of the enactment of the Transparency and Effective Accountability Measures for Veteran Caregivers Act, the Secretary determines that it would not be feasible to include such elements in such notifications and submits to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report setting forth the reasons for such determination.
+
+* (C) The individuals described in this subparagraph shall include—
+
+  * (i) an individual who submits an application for the program established under paragraph (1);
+
+  * (ii) an individual determined by the Secretary to be an eligible veteran pursuant to such an application; and
+
+  * (iii) a family caregiver of an eligible veteran who is—
+
+    * (I) approved as a provider of personal care services under paragraph (6)(B); or
+
+    * (II) designated as a primary provider of personal care services under paragraph (7)(A).
+
+
+* (13)(A) If the Secretary determines that a veteran receiving services under the program established under paragraph (1) is no longer eligible for such program solely because of improvement in the condition of the veteran—
+
+  * (i) the effective date of discharge of the veteran from the program shall be not earlier than the date that is 60 days after the date on which the Secretary provides notice of such lack of eligibility under paragraph (12)(A) to the relevant individuals described in paragraph (12)(C); and
+
+  * (ii) the Secretary shall extend benefits under the program established under paragraph (1) for a family caregiver of the veteran described in paragraph (12)(C)(iii), including stipends under paragraph (3)(A)(ii)(V), if such an extension is determined appropriate by the Secretary, for a 90-day period following discharge of the veteran from the program.
+
+
+* (B) This paragraph shall not be construed to limit the authority of the Secretary—
+
+  * (i) to prescribe regulations addressing other bases for—
+
+    * (I) the discharge of a veteran from the program established under paragraph (1); or
+
+    * (II) the revocation of the designation of a family caregiver of a veteran as a primary provider of personal care services under paragraph (7)(A); or
+
+
+  * (ii) to provide advance notice and extended benefits under the program, as appropriate, if another basis for discharge of a veteran described in subclause (I) of clause (i) or revocation of a designation described in subclause (II) of such clause applies.
+
+
 * (b) PROGRAM OF GENERAL CAREGIVER SUPPORT SERVICES.—(1) The Secretary shall establish a program of support services for caregivers of covered veterans who are enrolled in the health care system established under section 1705(a) of this title (including caregivers who do not reside with such veterans).
 
 * (2) For purposes of this subsection, a covered veteran is any individual who needs personal care services because of—
@@ -1230,20 +1317,20 @@
 
     * (D) Any other non-institutional extended care (as such term is used in section 1701(6)(E) of this title).
 
-### §1720H. Mental health treatment for veterans who served in classified missions
-* (a) ESTABLISHMENT OF STANDARDS.—(1) The Secretary shall establish standards and procedures to ensure that each eligible veteran may access mental health care furnished by the Secretary in a manner that fully accommodates the obligation of the veteran to not improperly disclose classified information.
+### §1720H. Mental health treatment for veterans and members of the reserve components of the Armed Forces who served in classified missions
+* (a) ESTABLISHMENT OF STANDARDS.—(1) The Secretary shall establish standards and procedures to ensure that each eligible individual may access mental health care furnished by the Secretary in a manner that fully accommodates the obligation of the individual to not improperly disclose classified information.
 
 * (2) In establishing standards and procedures under paragraph (1), the Secretary shall consult with the Secretary of Defense to ensure that such standards and procedures are consistent with the policies on classified information of the Department of Defense.
 
-* (3) The Secretary shall disseminate guidance to employees of the Veterans Health Administration, including mental health professionals, on the standards and procedures established under paragraph (1) and how to best engage eligible veterans during the course of mental health treatment with respect to classified information.
+* (3) The Secretary shall disseminate guidance to employees of the Veterans Health Administration, including mental health professionals, on the standards and procedures established under paragraph (1) and how to best engage eligible individuals during the course of mental health treatment with respect to classified information.
 
-* (b) IDENTIFICATION.—In carrying out this section, the Secretary shall ensure that a veteran may elect to identify as an eligible veteran on an appropriate form.
+* (b) IDENTIFICATION.—In carrying out this section, the Secretary shall ensure that an individual may elect to identify as an eligible individual on an appropriate form.
 
 * (c) DEFINITIONS.—In this section:
 
   * (1) The term "classified information" means any information or material that has been determined by an official of the United States pursuant to law to require protection against unauthorized disclosure for reasons of national security.
 
-  * (2) The term "eligible veteran" means a veteran who—
+  * (2) The term "eligible individual" means a veteran or a member of the reserve components of the Armed Forces who—
 
     * (A) is eligible to receive health care furnished by the Department under this title;
 
@@ -1252,7 +1339,7 @@
     * (C) in the course of serving in the Armed Forces, participated in a sensitive mission or served in a sensitive unit.
 
 
-  * (3) The term "sensitive mission" means a mission of the Armed Forces that, at the time at which an eligible veteran seeks treatment, is classified.
+  * (3) The term "sensitive mission" means a mission of the Armed Forces that, at the time at which an eligible individual seeks treatment, is classified.
 
   * (4) The term "sensitive unit" has the meaning given that term in section 130b(c)(4) of title 10.
 
@@ -1268,7 +1355,7 @@
 
   * (1) is a former member of the Armed Forces, including the reserve components;
 
-  * (2) while serving in the active military, naval, or air service, was discharged or released therefrom under a condition that is not honorable but not—
+  * (2) while serving in the active military, naval, air, or space service, was discharged or released therefrom under a condition that is not honorable but not—
 
     * (A) a dishonorable discharge; or
 
@@ -1306,7 +1393,7 @@
 
     * (A) 180 days after the date of the enactment of the Military Construction, Veterans Affairs, and Related Agencies Appropriations Act, 2018; or
 
-    * (B) 180 days after the date on which the individual was discharged or released from the active military, naval, or air service;
+    * (B) 180 days after the date on which the individual was discharged or released from the active military, naval, air, or space service;
 
 
   * (2) shall include availability of a toll-free telephone number (commonly referred to as an 800 number);
@@ -1320,10 +1407,10 @@
     * (C) is made available to State veteran agencies and through appropriate public information services; and
 
 
-  * (4) shall include coordination with the Secretary of Defense seeking to ensure that members of the Armed Forces and individuals who are being separated from active military, naval, or air service are provided appropriate information about programs, requirements, and procedures for applying for mental health care services under this section.
+  * (4) shall include coordination with the Secretary of Defense seeking to ensure that members of the Armed Forces and individuals who are being separated from active military, naval, air, or space service are provided appropriate information about programs, requirements, and procedures for applying for mental health care services under this section.
 
 
-* (f) ANNUAL REPORTS.—(1) Not less frequently than once each year, the Secretary shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report on the mental and behavioral health care services provided under this section.
+* (f) ANNUAL REPORTS.—(1) Not later than February 15 each year, the Secretary shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report on the mental and behavioral health care services provided under this section.
 
 * (2) Each report submitted under paragraph (1) shall include, with respect to the year preceding the submittal of the report, the following:
 
@@ -1331,4 +1418,124 @@
 
   * (B) The number of individuals who requested an initial mental health assessment under subsection (a)(1).
 
-  * (C) Such other information as the Secretary considers appropriate.
+  * (C) The types of mental or behavioral health care needs treated under this section.
+
+  * (D) The demographics of individuals being treated under this section, including—
+
+    * (i) age;
+
+    * (ii) era of service in the Armed Forces;
+
+    * (iii) branch of service in the Armed Forces; and
+
+    * (iv) geographic location.
+
+
+  * (E) The average number of visits for an individual for mental or behavioral health care under this section.
+
+  * (F) Such other information as the Secretary considers appropriate.
+
+### §1720J. Emergent suicide care
+* (a) EMERGENT SUICIDE CARE.—Pursuant to this section, the Secretary shall—
+
+  * (1) furnish emergent suicide care to an eligible individual at a medical facility of the Department;
+
+  * (2) pay for emergent suicide care provided to an eligible individual at a non-Department facility; and
+
+  * (3) reimburse an eligible individual for emergent suicide care provided to the eligible individual at a non-Department facility.
+
+
+* (b) ELIGIBILITY.—An individual is eligible for emergent suicide care under subsection (a) if the individual is in an acute suicidal crisis and is either of the following:
+
+  * (1) A veteran (as defined in section 101).
+
+  * (2) An individual described in section 1720I(b) of this title.
+
+
+* (c) PERIOD OF CARE.—(1) Emergent suicide care provided under subsection (a) shall be furnished to an eligible individual—
+
+  * (A) through inpatient or crisis residential care, for a period not to exceed 30 days; or
+
+  * (B) if care under subparagraph (A) is unavailable, or if such care is not clinically appropriate, as outpatient care for a period not to exceed 90 days.
+
+
+* (2) If, upon the expiration of a period under paragraph (1), the Secretary determines that the eligible individual remains in an acute suicidal crisis, the Secretary may extend such period as the Secretary determines appropriate.
+
+* (d) NOTIFICATION.—An eligible individual who receives emergent suicide care under subsection (a) at a non-Department facility (or a person acting on behalf of the individual) shall notify the Secretary of such care within seven days of admission to such facility.
+
+* (e) OUTREACH.—During any period when an eligible individual is receiving emergent suicide care under subsection (a), the Secretary shall—
+
+  * (1) ensure that—
+
+    * (A) in the case of an eligible individual whom the Veterans Crisis Line recommends to seek emergent suicide care at a medical facility of the Department, the Veterans Crisis Line notifies the Suicide Prevention Coordinator of such medical facility;
+
+    * (B) in the case of an eligible individual who presents at a medical facility of the Department in an acute suicidal crisis without a recommendation by the Veterans Crisis Line, the Secretary notifies the Suicide Prevention Coordinator;
+
+    * (C) in the case of an eligible individual whom the Veterans Crisis Line recommends to seek treatment at a non-Department facility, the Veterans Crisis Line notifies the Suicide Prevention Coordinator and the Office of Community Care at the medical facility of the Department located nearest to the eligible individual; and
+
+    * (D) in the case of an eligible individual who presents at a non-Department facility in an acute suicidal crisis without a recommendation by the Veterans Crisis Line and for whom the Secretary receives a notification under subsection (d), the Secretary notifies the Suicide Prevention Coordinator and the Office of Community Care at the medical facility of the Department located nearest to the eligible individual;
+
+
+  * (2) determine the eligibility of the eligible individual for other programs and benefits under the laws administered by the Secretary (or shall make such determination as soon as practicable following the period of such emergent suicide care); and
+
+  * (3) make referrals for care following the period of such emergent suicide care, as the Secretary determines appropriate.
+
+
+* (f) PROHIBITION ON CHARGE.—(1) If the Secretary provides emergent suicide care to an eligible individual under subsection (a), the Secretary—
+
+  * (A) may not charge the eligible individual for any cost of such emergent suicide care; and
+
+  * (B) shall pay for any costs of emergency transportation to a facility for such emergent suicide care (as such costs are determined pursuant to section 1725 of this title, to the extent practicable).
+
+
+* (2)(A) In addition to the requirements of paragraph (1), if the Secretary pays for emergent suicide care provided under subsection (a) to an eligible individual at a non-Department facility, the Secretary shall reimburse the facility for the reasonable value of such emergent suicide care.
+
+* (B)(i) In carrying out subparagraph (A), the Secretary may determine the amount to reimburse a non-Department facility in a similar manner to the manner in which the Secretary determines reimbursement amounts for that non-Department facility for medical care and services provided under another provision of this chapter.
+
+* (ii) The requiremen.ts of section 1725(c)(3) of this title shall apply with respect to payments made under subparagraph (A) of this paragraph.
+
+* (3) In the case of an eligible individual who receives emergent suicide care under this section and who is entitled to emergent suicide care (or payment for emergent suicide care) under a health-plan contract, the Secretary may recover the costs of such emergent suicide care provided under this section, other than for such care for a service-connected disability.
+
+* (4) In carrying out subsection (d), the Secretary may not charge an eligible individual for any cost of emergent suicide care provided under subsection (a) solely by reason of the Secretary not having been notified of such care pursuant to such subsection.
+
+* (g) ANNUAL REPORT.—Not less than once each year, the Secretary shall submit to the Committees on Veterans' Affairs of the Senate and the House of Representatives a report on emergent suicide care provided under subsection (a). Each such report shall include, for the year covered by the report—
+
+  * (1) the number of eligible individuals who received emergent suicide care under subsection (a);
+
+  * (2) demographic information regarding eligible individuals described in paragraph (1);
+
+  * (3) the types of care furnished or paid for this section; and
+
+  * (4) the total cost of providing care under subsection (a).
+
+
+* (h) DEFINITIONS.—In this section:
+
+  * (1) The term "acute suicidal crisis" means that an individual was determined to be at imminent risk of self-harm by a trained crisis responder or health care provider.
+
+  * (2) The term "crisis residential care" means crisis stabilization care provided—
+
+    * (A) in a residential setting; and
+
+    * (B) in a facility other than a hospital.
+
+
+  * (3) The term "crisis stabilization care" includes, with respect to an individual in acute suicidal crisis, care that ensures, to the extent practicable, immediate safety and reduces—
+
+    * (A) the severity of distress;
+
+    * (B) the need for urgent care; or
+
+    * (C) the likelihood that the distress under subparagraph (A) or need under subparagraph (B) will increase during the transfer of that individual from a facility at which the individual has received care for that acute suicidal crisis.
+
+
+  * (4) The term "emergent suicide care" means crisis stabilization care provided to an eligible individual—
+
+    * (A) pursuant to a recommendation of the eligible individual from the Veterans Crisis Line; or
+
+    * (B) who presents at a medical facility in an acute suicidal crisis.
+
+
+  * (5) The term "health-plan contract" has the meaning given such term in section 1725 of this title.
+
+  * (6) The term "Veterans Crisis Line" means the hotline under section 1720F(h) of this title.

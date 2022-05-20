@@ -244,7 +244,13 @@
 * (b) The Director may exchange any of the publications specified in items 3, 4, 5, and 6 of subsection (a) of this section for publications desirable for the use of the Patent and Trademark Office.
 
 ### §11. Exchange of copies of patents and applications with foreign countries
-* The Director may exchange copies of specifications and drawings of United States patents and published applications for patents for those of foreign countries. The Director shall not enter into an agreement to provide such copies of specifications and drawings of United States patents and applications to a foreign country, other than a NAFTA country or a WTO member country, without the express authorization of the Secretary of Commerce. For purposes of this section, the terms "NAFTA country" and "WTO member country" have the meanings given those terms in section 104(b).
+* (a) IN GENERAL.—The Director may exchange copies of specifications and drawings of United States patents and published applications for patents for those of foreign countries. The Director shall not enter into an agreement to provide such copies of specifications and drawings of United States patents and applications to a foreign country, other than a USMCA country or a WTO member country, without the express authorization of the Secretary of Commerce.
+
+* (b) DEFINITIONS.—In this section—
+
+  * (1) the term "USMCA country" has the meaning given that term in section 3 of the United States-Mexico-Canada Agreement Implementation Act (19 U.S.C. 4502); and
+
+  * (2) the term "WTO member country" has the meaning given that term in section 2(10) of the Uruguay Round Agreements Act (19 U.S.C. 3501(10)).
 
 ### §12. Copies of patents and applications for public libraries
 * The Director may supply copies of specifications and drawings of patents and published applications for patents in printed or electronic form to public libraries in the United States which shall maintain such copies for the use of the public, at the rate for each year's issue established for this purpose in section 41(d).

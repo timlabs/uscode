@@ -59,9 +59,6 @@
 ### §1226c–1. Availability of education reports, etc., to Congressional committees
 * Any evaluation report or data or information collected in preparation of such report, which is paid for with appropriated funds, shall be made available, upon request, within 4 days to the chairman and ranking minority member of the Committee on Education and Labor of the House of Representatives and of the Committee on Labor and Human Resources of the Senate.
 
-### §1228. Prohibition against use of appropriated funds for busing
-* No funds appropriated for the purpose of carrying out any applicable program may be used for the transportation of students or teachers (or for the purchase of equipment for such transportation) in order to overcome racial imbalance in any school or school system, or for the transportation of students or teachers (or for the purchase of equipment for such transportation) in order to carry out a plan of racial desegregation of any school or school system, except for funds appropriated pursuant to title VII of the Elementary and Secondary Education Act of 1965 [20 U.S.C. 7701 et seq.], but not including any portion of such funds as are attributable to children counted under section 7003(d) of such Act [20 U.S.C. 7703(d)] or residing on property described in section 7013(10) of such Act [20 U.S.C. 7713(10)].
-
 ### §1228a. Equity for students, teachers, and other program beneficiaries
 #### (a) Purpose
 * The purpose of this section is to assist the Department in implementing the Department's mission to ensure equal access to education and to promote educational excellence throughout the Nation, by—

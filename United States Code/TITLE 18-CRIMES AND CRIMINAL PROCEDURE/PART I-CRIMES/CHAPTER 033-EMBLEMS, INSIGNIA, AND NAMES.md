@@ -78,20 +78,6 @@
 
 * (e) A violation of this section or section 706 may be enjoined at the civil suit of the Attorney General.
 
-### §707. 4–H club emblem fraudulently used
-* Whoever, with intent to defraud, wears or displays the sign or emblem of the 4–H clubs, consisting of a green four-leaf clover with stem, and the letter H in white or gold on each leaflet, or any insignia in colorable imitation thereof, for the purpose of inducing the belief that he is a member of, associated with, or an agent or representative for the 4–H clubs; or
-
-* Whoever, whether an individual, partnership, corporation or association, other than the 4–H clubs and those duly authorized by them, the representatives of the United States Department of Agriculture, the land grant colleges, and persons authorized by the Secretary of Agriculture, uses, within the United States, such emblem or any sign, insignia, or symbol in colorable imitation thereof, or the words "4–H Club" or "4–H Clubs" or any combination of these or other words or characters in colorable imitation thereof—
-
-* Shall be fined under this title or imprisoned not more than six months, or both.
-
-* This section shall not make unlawful the use of any such emblem, sign, insignia or words which was lawful on the date of enactment of this title.
-
-### §708. Swiss Confederation coat of arms
-* Whoever, whether a corporation, partnership, unincorporated company, association, or person within the United States, willfully uses as a trade mark, commercial label, or portion thereof, or as an advertisement or insignia for any business or organization or for any trade or commercial purpose, the coat of arms of the Swiss Confederation, consisting of an upright white cross with equal arms and lines on a red ground, or any simulation thereof, shall be fined under this title or imprisoned not more than six months, or both.
-
-* This section shall not make unlawful the use of any such design or insignia which was lawful on August 31, 1948.
-
 ### §709. False advertising or misuse of names to indicate Federal agency
 * Whoever, except as permitted by the laws of the United States, uses the words "national", "Federal", "United States", "reserve", or "Deposit Insurance" as part of the business or firm name of a person, corporation, partnership, business trust, association or other business entity engaged in the banking, loan, building and loan, brokerage, factorage, insurance, indemnity, savings or trust business; or
 
@@ -132,12 +118,6 @@
 ### §710. Cremation urns for military use
 * Whoever knowingly uses, manufactures, or sells any cremation urn of a design approved by the Secretary of Defense for use to retain the cremated remains of deceased members of the armed forces or an urn which is a colorable imitation of the approved design, except when authorized under regulation made pursuant to law, shall be fined under this title or imprisoned for not more than six months, or both.
 
-### §711. "Smokey Bear" character or name
-* Whoever, except as authorized under rules and regulations issued by the Secretary of Agriculture after consultation with the Association of State Foresters and the Advertising Council, knowingly and for profit manufactures, reproduces, or uses the character "Smokey Bear", originated by the Forest Service, United States Department of Agriculture, in cooperation with the Association of State Foresters and the Advertising Council for use in public information concerning the prevention of forest fires, or any facsimile thereof, or the name "Smokey Bear" shall be fined under this title or imprisoned not more than six months, or both.
-
-### §711a. "Woodsy Owl" character, name, or slogan
-* Whoever, except as authorized under rules and regulations issued by the Secretary, knowingly and for profit manufactures, reproduces, or uses the character "Woodsy Owl", the name "Woodsy Owl", or the associated slogan, "Give a Hoot, Don't Pollute" shall be fined under this title or imprisoned not more than six months, or both.
-
 ### §712. Misuse of names, words, emblems, or insignia
 * Whoever, in the course of collecting or aiding in the collection of private debts or obligations, or being engaged in furnishing private police, investigation, or other private detective services, uses or employs in any communication, correspondence, notice, advertisement, or circular the words "national", "Federal", or "United States", the initials "U.S.", or any emblem, insignia, or name, for the purpose of conveying and in a manner reasonably calculated to convey the false impression that such communication is from a department, agency, bureau, or instrumentality of the United States or in any manner represents the United States, shall be fined under this title or imprisoned not more than one year, or both.
 
@@ -161,15 +141,6 @@
   * (3) in the case of the seal of the United States House of Representatives, upon complaint by the Clerk of the House of Representatives; and
 
   * (4) in the case of the seal of the United States Congress, upon complaint by the Secretary of the Senate and the Clerk of the House of Representatives, acting jointly.
-
-### §715. "The Golden Eagle Insignia"
-* As used in this section, "The Golden Eagle Insignia" means the words "The Golden Eagle" and the representation of an American Golden Eagle (colored gold) and a family group (colored midnight blue) enclosed within a circle (colored white with a midnight blue border) framed by a rounded triangle (colored gold with a midnight blue border) which was originated by the Department of the Interior as the official symbol for Federal recreation fee areas.
-
-* Whoever, except as authorized under rules and regulations issued by the Secretary of the Interior, knowingly manufactures, reproduces, or uses "The Golden Eagle Insignia", or any facsimile thereof, in such a manner as is likely to cause confusion, or to cause mistake, or to deceive, shall be fined under this title or imprisoned not more than six months, or both.
-
-* The use of any such emblem, sign, insignia, or words which was lawful on the date of enactment of this Act shall not be a violation of this section.
-
-* A violation of this section may be enjoined at the suit of the Attorney General, upon complaint by the Secretary of the Interior.
 
 ### §716. Public employee insignia and uniform
 * (a) Whoever—

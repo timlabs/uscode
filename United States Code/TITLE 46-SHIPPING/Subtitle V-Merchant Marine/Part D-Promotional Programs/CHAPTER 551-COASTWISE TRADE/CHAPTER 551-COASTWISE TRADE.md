@@ -194,7 +194,7 @@
 
   * (2) Operations required by United States law or regulation.
 
-  * (3) Operations provided in whole or in part within or through navigation facilities owned, maintained, or operated by the United States Government or the approaches to those facilities, other than facilities operated by the St. Lawrence Seaway Development Corporation on the St. Lawrence River portion of the Seaway.
+  * (3) Operations provided in whole or in part within or through navigation facilities owned, maintained, or operated by the United States Government or the approaches to those facilities, other than facilities operated by the Great Lakes St. Lawrence Seaway Development Corporation on the St. Lawrence River portion of the Seaway.
 
 
 * (b) ESCORT VESSELS.—For purposes of this section, an escort vessel is—
@@ -315,3 +315,6 @@
 
 
 * (c) DEFINITION.—In this section, the term "floating dry dock" means equipment with wing walls and a fully submersible deck.
+
+### §55123. Priority loading for coal
+* A vessel engaged in the coastwise transportation of coal produced in the United States, from a port in the United States to another port in the United States, shall be given priority in loading at any of those ports ahead of a waiting vessel engaged in the export transportation of coal produced in the United States. However, if the Secretary of Transportation finds that it is in the national interest, the Secretary may eliminate this priority loading at any port. The Secretary shall report to Congress within 30 days an action eliminating priority loading under this section.

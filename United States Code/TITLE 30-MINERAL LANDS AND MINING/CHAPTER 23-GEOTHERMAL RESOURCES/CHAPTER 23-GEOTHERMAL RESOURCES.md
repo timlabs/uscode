@@ -43,6 +43,13 @@
 * #### (3) Lands subject to mining claims
   * Lands that are subject to a mining claim for which a plan of operations has been approved by the relevant Federal land management agency may be available for noncompetitive leasing under this section to the mining claim holder.
 
+* #### (4) Land subject to oil and gas lease
+  * Land under an oil and gas lease issued pursuant to the Mineral Leasing Act (30 U.S.C. 181 et seq.) or the Mineral Leasing Act for Acquired Lands (30 U.S.C. 351 et seq.) that is subject to an approved application for permit to drill and from which oil and gas production is occurring may be available for noncompetitive leasing under subsection (c) by the holder of the oil and gas lease—
+
+    * (A) on a determination that geothermal energy will be produced from a well producing or capable of producing oil and gas; and
+
+    * (B) to provide for the coproduction of geothermal energy with oil and gas.
+
 #### (c) Noncompetitive leasing
 * The Secretary shall make available for a period of 2 years for noncompetitive leasing any tract for which a competitive lease sale is held, but for which the Secretary does not receive any bids in a competitive lease sale.
 
@@ -466,8 +473,31 @@
 * The Secretary shall not issue any lease under this chapter on those lands subject to the prohibition provided under section 226–3 of this title.
 
 ### §1028. Hot dry rock geothermal energy
-#### (a) USGS program
+#### (a) Definition of enhanced geothermal systems
+* In this section, the term "enhanced geothermal systems" has the meaning given the term in section 17191 of title 42.
+
+#### (b) USGS program
 * The Secretary of the Interior, acting through the United States Geological Survey, and in consultation with the Secretary of Energy, shall establish a cooperative Government-private sector program with respect to hot dry rock geothermal energy resources on public lands (as such term is defined in section 1702(e) of title 43) and lands managed by the Department of Agriculture, other than any such public or other lands that are withdrawn from geothermal leasing. Such program shall include, but shall not be limited to, activities to identify, select, and classify those areas throughout the United States that have a high potential for hot dry rock geothermal energy production and activities to develop and disseminate information regarding the utilization of such areas for hot dry rock energy production. Such information may include information regarding field test processes and techniques for assuring that hot dry rock geothermal energy development projects are developed in an economically feasible manner without adverse environmental consequences. Utilizing the information developed by the Secretary, together with information developed in connection with other related programs carried out by other Federal agencies, the Secretary, acting through the United States Geological Survey, may also enter into contracts and cooperative agreements with any public or private entity to provide assistance to any such entity to enable such entity to carry out additional projects with respect to the utilization of hot dry rock geothermal energy resources which will further the purposes of this section.
 
-#### (b) Authorization of appropriations
-* There are authorized to be appropriated such sums as may be necesary to carry out this section.
+#### (c) Update to geothermal resource assessment
+* The Secretary of the Interior, acting through the United States Geological Survey, and in consultation with the Secretary of Energy, shall update the 2008 United States geothermal resource assessment carried out by the United States Geological Survey, including—
+
+  * (1) with respect to areas previously identified by the Department of Energy or the United States Geological Survey as having significant potential for hydrothermal energy or enhanced geothermal systems energy, by focusing on—
+
+    * (A) improving the resolution of resource potential at systematic temperatures and depths, including temperatures and depths appropriate for power generation and direct use applications;
+
+    * (B) quantifying the total potential to coproduce geothermal energy and minerals;
+
+    * (C) incorporating data relevant to underground thermal energy storage and exchange, such as aquifer and soil properties; and
+
+    * (D) producing high resolution maps, including—
+
+      * (i) maps that indicate key subsurface parameters for electric and direct use resources; and
+
+      * (ii) risk maps for induced seismicity based on geologic, geographic, and operational parameters; and
+
+
+  * (2) to the maximum extent practicable, by coordinating with relevant State officials and institutions of higher education to expand geothermal assessments, including enhanced geothermal systems assessments, to include assessments for the Commonwealth of Puerto Rico and the States of Alaska and Hawaii.
+
+#### (d) Authorization of appropriations
+* There are authorized to be appropriated such sums as may be necessary to carry out this section.

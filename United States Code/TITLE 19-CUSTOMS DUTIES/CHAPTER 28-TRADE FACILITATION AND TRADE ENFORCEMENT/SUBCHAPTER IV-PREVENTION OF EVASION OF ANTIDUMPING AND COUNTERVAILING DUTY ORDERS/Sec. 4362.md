@@ -1,2 +1,2 @@
 ### §4362. Application to Canada and Mexico
-* Pursuant to article 1902 of the North American Free Trade Agreement and section 3438 of this title, this subchapter and the amendments made by this subchapter shall apply with respect to goods from Canada and Mexico.
+* Pursuant to article 10.10 of the USMCA (as defined in section 4502 of this title) and section 4588 of this title, this subchapter and the amendments made by this title shall apply with respect to goods from Canada and Mexico.

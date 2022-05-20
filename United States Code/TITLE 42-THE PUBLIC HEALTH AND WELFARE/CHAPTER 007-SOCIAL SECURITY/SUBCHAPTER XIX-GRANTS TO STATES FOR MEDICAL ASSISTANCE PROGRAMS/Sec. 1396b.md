@@ -68,7 +68,7 @@
     * (B) 75 per centum of the sums expended during each succeeding calendar quarter,
 
 
-* with respect to costs incurred during such quarter (as found necessary by the Secretary for the elimination of fraud in the provision and administration of medical assistance provided under the State plan) which are attributable to the establishment and operation of (including the training of personnel employed by) a State medicaid fraud control unit (described in subsection (q)); plus
+* with respect to costs incurred during such quarter which are attributable to the establishment and operation of (including the training of personnel employed by) a State medicaid fraud control unit (described in subsection (q)); plus
 
   * (7) subject to section 1396r(g)(3)(B) of this title, an amount equal to 50 per centum of the remainder of the amounts expended during such quarter as found necessary by the Secretary for the proper and efficient administration of the State plan.
 
@@ -241,7 +241,7 @@
 
   * (8) with respect to any amount expended for medical assistance (A) for nursing facility services to reimburse (or otherwise compensate) a nursing facility for payment of a civil money penalty imposed under section 1396r(h) of this title or (B) for home and community care to reimburse (or otherwise compensate) a provider of such care for payment of a civil money penalty imposed under this subchapter or subchapter XI or for legal expenses in defense of an exclusion or civil money penalty under this subchapter or subchapter XI if there is no reasonable legal ground for the provider's case; or
 
-  * (9) Repealed. Pub. L. 104–193, title I, §114(d)(2), Aug. 22, 1996, 110 Stat. 2180.
+  * (9) with respect to any amount expended for non-emergency transportation authorized under section 1396a(a)(4) of this title, unless the State plan provides for the methods and procedures required under section 1396a(a)(30)(A) of this title; or
 
   * (10)(A) with respect to covered outpatient drugs unless there is a rebate agreement in effect under section 1396r–8 of this title with respect to such drugs or unless section 1396r–8(a)(3) of this title applies,
 
@@ -612,7 +612,7 @@
 
     * (i) procedures for reviewing complaints of abuse or neglect of patients in health care facilities which receive payments under the State plan under this subchapter;
 
-    * (ii) at the option of the entity, procedures for reviewing complaints of abuse or neglect of patients residing in board and care facilities; and
+    * (ii) at the option of the entity, procedures for reviewing complaints of abuse or neglect of patients residing in board and care facilities and of patients (who are receiving medical assistance under the State plan under this subchapter (or waiver of such plan)) in a noninstitutional or other setting; and
 
     * (iii) procedures for acting upon such complaints under the criminal laws of the State or for referring such complaints to other State agencies for action.
 
@@ -1422,3 +1422,38 @@
 
 * #### (8) CMS funding
   * There is appropriated, out of any funds in the Treasury not otherwise appropriated, $5,000,000 to the Centers for Medicare & Medicaid Services for purposes of implementing this subsection. Such amount shall remain available until expended.
+
+#### (bb) Supplemental payment reporting requirements
+* #### (1) Collection and availability of supplemental payment data
+  * #### (A) In general
+    * Not later than October 1, 2021, the Secretary shall establish a system for each State to submit reports, as determined appropriate by the Secretary, on supplemental payments data, as a requirement for a State plan or State plan amendment that would provide for a supplemental payment.
+
+  * #### (B) Requirements
+    * Each report submitted by a State in accordance with the requirement established under subparagraph (A) shall include the following:
+
+      * (i) An explanation of how supplemental payments made under the State plan or a State plan amendment will result in payments that are consistent with section 1396a(a)(30)(A) of this title, including standards with respect to efficiency, economy, quality of care, and access, along with the stated purpose and intended effects of the supplemental payment.
+
+      * (ii) The criteria used to determine which providers are eligible to receive the supplemental payment.
+
+      * (iii) A comprehensive description of the methodology used to calculate the amount of, and distribute, the supplemental payment to each eligible provider, including—
+
+        * (I) data on the amount of the supplemental payment made to each eligible provider, if known, or, if the total amount is distributed using a formula based on data from 1 or more fiscal years, data on the total amount of the supplemental payments for the fiscal year or years available to all providers eligible to receive a supplemental payment;
+
+        * (II) if applicable, the specific criteria with respect to Medicaid service, utilization, or cost data to be used as the basis for calculations regarding the amount or distribution of the supplemental payment; and
+
+        * (III) the timing of the supplemental payment made to each eligible provider.
+
+
+      * (iv) An assurance that the total Medicaid payments made to an inpatient hospital provider, including the supplemental payment, will not exceed upper payment limits.
+
+      * (v) If not already submitted, an upper payment limit demonstration under section 447.272 of title 42, Code of Federal Regulations (as such section is in effect as of December 27, 2020).
+
+  * #### (C) Public availability
+    * The Secretary shall make all reports and related data submitted under this paragraph publicly available on the website of the Centers for Medicare & Medicaid Services on a timely basis.
+
+* #### (2) Supplemental payment defined
+  * #### (A) In general
+    * Subject to subparagraph (B), in this subsection, the term "supplemental payment" means a payment to a provider that is in addition to any base payment made to the provider under the State plan under this subchapter or under demonstration authority.
+
+  * #### (B) DSH payments excluded
+    * Such term does not include a disproportionate share hospital payment made under section 1396r–4 of this title.

@@ -599,7 +599,116 @@
 
   * (1) Any loans made by the plan to parties in interest who are participants or beneficiaries of the plan if such loans (A) are available to all such participants and beneficiaries on a reasonably equivalent basis, (B) are not made available to highly compensated employees (within the meaning of section 414(q) of title 26) in an amount greater than the amount made available to other employees, (C) are made in accordance with specific provisions regarding such loans set forth in the plan, (D) bear a reasonable rate of interest, and (E) are adequately secured. A loan made by a plan shall not fail to meet the requirements of the preceding sentence by reason of a loan repayment suspension described under section 414(u)(4) of title 26.
 
-  * (2) Contracting or making reasonable arrangements with a party in interest for office space, or legal, accounting, or other services necessary for the establishment or operation of the plan, if no more than reasonable compensation is paid therefor.
+  * (2)(A) Contracting or making reasonable arrangements with a party in interest for office space, or legal, accounting, or other services necessary for the establishment or operation of the plan, if no more than reasonable compensation is paid therefor.
+
+  * (B)(i) No contract or arrangement for services between a covered plan and a covered service provider, and no extension or renewal of such a contract or arrangement, is reasonable within the meaning of this paragraph unless the requirements of this clause are met.
+
+  * (ii)(I) For purposes of this subparagraph:
+
+    * (aa) The term "covered plan" means a group health plan as defined section 1191b(a) of this title.
+
+    * (bb) The term "covered service provider" means a service provider that enters into a contract or arrangement with the covered plan and reasonably expects $1,000 (or such amount as the Secretary may establish in regulations to account for inflation since December 27, 2020, as appropriate) or more in compensation, direct or indirect, to be received in connection with providing one or more of the following services, pursuant to the contract or arrangement, regardless of whether such services will be performed, or such compensation received, by the covered service provider, an affiliate, or a subcontractor:
+
+      * (AA) Brokerage services, for which the covered service provider, an affiliate, or a subcontractor reasonably expects to receive indirect compensation or direct compensation described in item (dd), provided to a covered plan with respect to selection of insurance products (including vision and dental), recordkeeping services, medical management vendor, benefits administration (including vision and dental), stop-loss insurance, pharmacy benefit management services, wellness services, transparency tools and vendors, group purchasing organization preferred vendor panels, disease management vendors and products, compliance services, employee assistance programs, or third party administration services.
+
+      * (BB) Consulting, for which the covered service provider, an affiliate, or a subcontractor reasonably expects to receive indirect compensation or direct compensation described in item (dd), related to the development or implementation of plan design, insurance or insurance product selection (including vision and dental), recordkeeping, medical management, benefits administration selection (including vision and dental), stop-loss insurance, pharmacy benefit management services, wellness design and management services, transparency tools, group purchasing organization agreements and services, participation in and services from preferred vendor panels, disease management, compliance services, employee assistance programs, or third party administration services.
+
+
+    * (cc) The term "affiliate", with respect to a covered service provider, means an entity that directly or indirectly (through one or more intermediaries) controls, is controlled by, or is under common control with, such provider, or is an officer, director, or employee of, or partner in, such provider.
+
+    * (dd)(AA) The term "compensation" means anything of monetary value, but does not include non-monetary compensation valued at $250 (or such amount as the Secretary may establish in regulations to account for inflation since December 27, 2020, as appropriate) or less, in the aggregate, during the term of the contract or arrangement.
+
+    * (BB) The term "direct compensation" means compensation received directly from a covered plan.
+
+    * (CC) The term "indirect compensation" means compensation received from any source other than the covered plan, the plan sponsor, the covered service provider, or an affiliate. Compensation received from a subcontractor is indirect compensation, unless it is received in connection with services performed under a contract or arrangement with a subcontractor.
+
+    * (ee) The term "responsible plan fiduciary" means a fiduciary with authority to cause the covered plan to enter into, or extend or renew, the contract or arrangement.
+
+    * (ff) The term "subcontractor" means any person or entity (or an affiliate of such person or entity) that is not an affiliate of the covered service provider and that, pursuant to a contract or arrangement with the covered service provider or an affiliate, reasonably expects to receive $1,000 (or such amount as the Secretary may establish in regulations to account for inflation since December 27, 2020, as appropriate) or more in compensation for performing one or more services described in item (bb) under a contract or arrangement with the covered plan.
+
+
+  * (II) For purposes of this subparagraph, a description of compensation or cost may be expressed as a monetary amount, formula, or a per capita charge for each enrollee or, if the compensation or cost cannot reasonably be expressed in such terms, by any other reasonable method, including a disclosure that additional compensation may be earned but may not be calculated at the time of contract if such a disclosure includes a description of the circumstances under which the additional compensation may be earned and a reasonable and good faith estimate if the covered service provider cannot otherwise readily describe compensation or cost and explains the methodology and assumptions used to prepare such estimate. Any such description shall contain sufficient information to permit evaluation of the reasonableness of the compensation or cost.
+
+  * (III) No person or entity is a "covered service provider" within the meaning of subclause (I)(bb) solely on the basis of providing services as an affiliate or a subcontractor that is performing one or more of the services described in subitem (AA) or (BB) of such subclause under the contract or arrangement with the covered plan.
+
+  * (iii) A covered service provider shall disclose to a responsible plan fiduciary, in writing, the following:
+
+    * (I) A description of the services to be provided to the covered plan pursuant to the contract or arrangement.
+
+    * (II) If applicable, a statement that the covered service provider, an affiliate, or a subcontractor will provide, or reasonably expects to provide, services pursuant to the contract or arrangement directly to the covered plan as a fiduciary (within the meaning of section 1002(21) of this title).
+
+    * (III) A description of all direct compensation, either in the aggregate or by service, that the covered service provider, an affiliate, or a subcontractor reasonably expects to receive in connection with the services described in subclause (I).
+
+    * (IV)(aa) A description of all indirect compensation that the covered service provider, an affiliate, or a subcontractor reasonably expects to receive in connection with the services described in subclause (I)—
+
+      * (AA) including compensation from a vendor to a brokerage firm based on a structure of incentives not solely related to the contract with the covered plan; and
+
+      * (BB) not including compensation received by an employee from an employer on account of work performed by the employee.
+
+
+    * (bb) A description of the arrangement between the payer and the covered service provider, an affiliate, or a subcontractor, as applicable, pursuant to which such indirect compensation is paid.
+
+    * (cc) Identification of the services for which the indirect compensation will be received, if applicable.
+
+    * (dd) Identification of the payer of the indirect compensation.
+
+    * (V) A description of any compensation that will be paid among the covered service provider, an affiliate, or a subcontractor, in connection with the services described in subclause (I) if such compensation is set on a transaction basis (such as commissions, finder's fees, or other similar incentive compensation based on business placed or retained), including identification of the services for which such compensation will be paid and identification of the payers and recipients of such compensation (including the status of a payer or recipient as an affiliate or a subcontractor), regardless of whether such compensation also is disclosed pursuant to subclause (III) or (IV).
+
+    * (VI) A description of any compensation that the covered service provider, an affiliate, or a subcontractor reasonably expects to receive in connection with termination of the contract or arrangement, and how any prepaid amounts will be calculated and refunded upon such termination.
+
+
+  * (iv) A covered service provider shall disclose to a responsible plan fiduciary, in writing a description of the manner in which the compensation described in clause (iii), as applicable, will be received.
+
+  * (v)(I) A covered service provider shall disclose the information required under clauses (iii) and (iv) to the responsible plan fiduciary not later than the date that is reasonably in advance of the date on which the contract or arrangement is entered into, and extended or renewed.
+
+  * (II) A covered service provider shall disclose any change to the information required under clause (iii) and (iv) as soon as practicable, but not later than 60 days from the date on which the covered service provider is informed of such change, unless such disclosure is precluded due to extraordinary circumstances beyond the covered service provider's control, in which case the information shall be disclosed as soon as practicable.
+
+  * (vi)(I) Upon the written request of the responsible plan fiduciary or covered plan administrator, a covered service provider shall furnish any other information relating to the compensation received in connection with the contract or arrangement that is required for the covered plan to comply with the reporting and disclosure requirements under this chapter.
+
+  * (II) The covered service provider shall disclose the information required under clause (iii)(I) reasonably in advance of the date upon which such responsible plan fiduciary or covered plan administrator states that it is required to comply with the applicable reporting or disclosure requirement, unless such disclosure is precluded due to extraordinary circumstances beyond the covered service provider's control, in which case the information shall be disclosed as soon as practicable.
+
+  * (vii) No contract or arrangement will fail to be reasonable under this subparagraph solely because the covered service provider, acting in good faith and with reasonable diligence, makes an error or omission in disclosing the information required pursuant to clause (iii) (or a change to such information disclosed pursuant to clause (v)(II)) or clause (vi), provided that the covered service provider discloses the correct information to the responsible plan fiduciary as soon as practicable, but not later than 30 days from the date on which the covered service provider knows of such error or omission.
+
+  * (viii)(I) Pursuant to subsection (a), subparagraphs (C) and (D) of section 1106(a)(1) of this title shall not apply to a responsible plan fiduciary, notwithstanding any failure by a covered service provider to disclose information required under clause (iii), if the following conditions are met:
+
+    * (aa) The responsible plan fiduciary did not know that the covered service provider failed or would fail to make required disclosures and reasonably believed that the covered service provider disclosed the information required to be disclosed.
+
+    * (bb) The responsible plan fiduciary, upon discovering that the covered service provider failed to disclose the required information, requests in writing that the covered service provider furnish such information.
+
+    * (cc) If the covered service provider fails to comply with a written request described in subclause (II) within 90 days of the request, the responsible plan fiduciary notifies the Secretary of the covered service provider's failure, in accordance with subclauses (II) and (III).
+
+
+  * (II) A notice described in subclause (I)(cc) shall contain—
+
+    * (aa) the name of the covered plan;
+
+    * (bb) the plan number used for the annual report on the covered plan;
+
+    * (cc) the plan sponsor's name, address, and employer identification number;
+
+    * (dd) the name, address, and telephone number of the responsible plan fiduciary;
+
+    * (ee) the name, address, phone number, and, if known, employer identification number of the covered service provider;
+
+    * (ff) a description of the services provided to the covered plan;
+
+    * (gg) a description of the information that the covered service provider failed to disclose;
+
+    * (hh) the date on which such information was requested in writing from the covered service provider; and
+
+    * (ii) a statement as to whether the covered service provider continues to provide services to the plan.
+
+
+  * (III) A notice described in subclause (I)(cc) shall be filed with the Department not later than 30 days following the earlier of—
+
+    * (aa) The covered service provider's refusal to furnish the information requested by the written request described in subclause (I)(bb); or
+
+    * (bb) 90 days after the written request referred to in subclause (I)(cc) is made.
+
+
+  * (IV) If the covered service provider fails to comply with the written request under subclause (I)(bb) within 90 days of such request, the responsible plan fiduciary shall determine whether to terminate or continue the contract or arrangement under section 1104 of this title. If the requested information relates to future services and is not disclosed promptly after the end of the 90-day period, the responsible plan fiduciary shall terminate the contract or arrangement as expeditiously as possible, consistent with such duty of prudence.
+
+  * (ix) Nothing in this subparagraph shall be construed to supersede any provision of State law that governs disclosures by parties that provide the services described in this section, except to the extent that such law prevents the application of a requirement of this section.
 
   * (3) A loan to an employee stock ownership plan (as defined in section 1107(d)(6) of this title), if—
 
@@ -1104,7 +1213,7 @@
   * (D) has at all times a combined capital and surplus in excess of such a minimum amount as may be established by regulations issued by the Secretary, which amount shall be at least $1,000,000. Paragraph (2) shall apply to a bank or other financial institution which is authorized to exercise trust powers and the deposits of which are not insured by the Federal Deposit Insurance Corporation, only if such bank or institution meets bonding or similar requirements under State law which the Secretary determines are at least equivalent to those imposed on banks by Federal law.
 
 
-* The amount of such bond shall be fixed at the beginning of each fiscal year of the plan. Such amount shall be not less than 10 per centum of the amount of funds handled. In no case shall such bond be less than $1,000 nor more than $500,000, except that the Secretary, after due notice and opportunity for hearing to all interested parties, and after consideration of the record, may prescribe an amount in excess of $500,000, subject to the 10 per centum limitation of the preceding sentence. For purposes of fixing the amount of such bond, the amount of funds handled shall be determined by the funds handled by the person, group, or class to be covered by such bond and by their predecessor or predecessors, if any, during the preceding reporting year, or if the plan has no preceding reporting year, the amount of funds to be handled during the current reporting year by such person, group, or class, estimated as provided in regulations of the Secretary. Such bond shall provide protection to the plan against loss by reason of acts of fraud or dishonesty on the part of the plan official, directly or through connivance with others. Any bond shall have as surety thereon a corporate surety company which is an acceptable surety on Federal bonds under authority granted by the Secretary of the Treasury pursuant to sections 9304–9308 of title 31. Any bond shall be in a form or of a type approved by the Secretary, including individual bonds or schedule or blanket forms of bonds which cover a group or class. In the case of a plan that holds employer securities (within the meaning of section 1107(d)(1) of this title), this subsection shall be applied by substituting "$1,000,000" for "$500,000" each place it appears.
+* The amount of such bond shall be fixed at the beginning of each fiscal year of the plan. Such amount shall be not less than 10 per centum of the amount of funds handled. In no case shall such bond be less than $1,000 nor more than $500,000, except that the Secretary, after due notice and opportunity for hearing to all interested parties, and after consideration of the record, may prescribe an amount in excess of $500,000, subject to the 10 per centum limitation of the preceding sentence. For purposes of fixing the amount of such bond, the amount of funds handled shall be determined by the funds handled by the person, group, or class to be covered by such bond and by their predecessor or predecessors, if any, during the preceding reporting year, or if the plan has no preceding reporting year, the amount of funds to be handled during the current reporting year by such person, group, or class, estimated as provided in regulations of the Secretary. Such bond shall provide protection to the plan against loss by reason of acts of fraud or dishonesty on the part of the plan official, directly or through connivance with others. Any bond shall have as surety thereon a corporate surety company which is an acceptable surety on Federal bonds under authority granted by the Secretary of the Treasury pursuant to sections 9304–9308 of title 31. Any bond shall be in a form or of a type approved by the Secretary, including individual bonds or schedule or blanket forms of bonds which cover a group or class. In the case of a plan that holds employer securities (within the meaning of section 1107(d)(1) of this title) or in the case of a pooled employer plan (as defined in section 1002(43) of this title), this subsection shall be applied by substituting "$1,000,000" for "$500,000" each place it appears.
 
 #### (b) Unlawful acts
 * It shall be unlawful for any plan official to whom subsection (a) applies, to receive, handle, disburse, or otherwise exercise custody or control of any of the funds or other property of any employee benefit plan, without being bonded as required by subsection (a) and it shall be unlawful for any plan official of such plan, or any other person having authority to direct the performance of such functions, to permit such functions, or any of them, to be performed by any plan official, with respect to whom the requirements of subsection (a) have not been met.

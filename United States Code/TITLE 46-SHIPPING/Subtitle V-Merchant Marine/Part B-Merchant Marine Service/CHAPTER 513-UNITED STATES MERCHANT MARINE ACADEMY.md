@@ -13,14 +13,14 @@
 
     * (A) an individual who has—
 
-      * (i) attained a general or flag officer rank in the Navy, Army, Air Force, Marine Corps, Coast Guard, or National Oceanic and Atmospheric Administration; and
+      * (i) attained the rank of Captain, Chief Mate, or Chief Engineer in the merchant marine of the United States, or a general or flag officer rank in the Navy, Army, Air Force, Marine Corps, Coast Guard, or National Oceanic and Atmospheric Administration; and
 
       * (ii) served at sea in any rank;
 
 
     * (B) an individual who has—
 
-      * (i)(I) served at sea in the Navy, Army, Air Force, Marine Corps, Coast Guard, or National Oceanic and Atmospheric Administration; or
+      * (i)(I) served at sea in the merchant marine, Navy, Army, Air Force, Marine Corps, Coast Guard, or National Oceanic and Atmospheric Administration; or
 
       * (II) held a valid Coast Guard merchant mariner credential; and
 
@@ -29,7 +29,7 @@
 
     * (C) if a qualified individual described in subparagraph (A) or (B) does not apply for the position, an individual who has—
 
-      * (i) attained the grade of captain or above in the Navy, Coast Guard, or National Oceanic and Atmospheric Administration or colonel or above in the Army, Air Force, or Marine Corps; and
+      * (i) attained the grade of captain or above in the merchant marine, Navy, Coast Guard, or National Oceanic and Atmospheric Administration or colonel or above in the Army, Air Force, or Marine Corps; and
 
       * (ii) served at sea in any grade.
 
@@ -199,7 +199,7 @@
   * (4) on any other vessel considered by the Secretary to be necessary or appropriate or in the national interest.
 
 
-* (b) MARITIME SECURITY PROGRAM VESSELS.—The Secretary shall require an operator of a vessel participating in the Maritime Security Program under chapter 531 of this title to carry on each Maritime Security Program vessel 2 United States Merchant Marine Academy cadets, if available, on each voyage.
+* (b) SEA YEAR CADETS ON CABLE SECURITY FLEET AND TANKER SECURITY FLEET VESSELS.—The Secretary shall require an operator of a vessel participating in the Maritime Security Program under chapter 531 of this title, the Cable Security Fleet under chapter 532 of this title, or the Tanker Security Fleet under chapter 534 of this title to carry on each Maritime Security Program vessel, Cable Security Fleet vessel, or Tanker Security Fleet vessel 2 United States Merchant Marine Academy cadets, if available, on each voyage.
 
 * (c) MILITARY SEALIFT COMMAND VESSELS.—
 

@@ -179,7 +179,7 @@
 
 * #### (4) Sunset
   * #### (A) In general
-    * The authority to enter into an agreement under this subsection shall terminate on the date that is 4 years after December 16, 2016.
+    * The authority to enter into an agreement under this subsection shall terminate on the date that is December 16, 2021.
 
   * #### (B) Rule of construction
     * The termination date referred to in subparagraph (A) shall not apply to carrying out the terms of an agreement under this subsection if such agreement is entered into before such termination date.

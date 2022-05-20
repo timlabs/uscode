@@ -4,10 +4,10 @@
 
 #### (b) Repealed. Pub. L. 96–499, title IX, §945(a), Dec. 5, 1980, 94 Stat. 2642
 #### (c) Initial general enrollment period; eligible individuals before March 1, 1966
-* In the case of individuals who first satisfy paragraph (1) or (2) of section 1395o of this title before March 1, 1966, the initial general enrollment period shall begin on the first day of the second month which begins after July 30, 1965, and shall end on May 31, 1966. For purposes of this subsection and subsection (d), an individual who has attained age 65 and who satisfies paragraph (1) of section 1395o of this title but not paragraph (2) of such section shall be treated as satisfying such paragraph (1) on the first day on which he is (or on filing application would have been) entitled to hospital insurance benefits under part A.
+* In the case of individuals who first satisfy paragraph (1) or (2) of section 1395o(a) of this title before March 1, 1966, the initial general enrollment period shall begin on the first day of the second month which begins after July 30, 1965, and shall end on May 31, 1966. For purposes of this subsection and subsection (d), an individual who has attained age 65 and who satisfies paragraph (1) of section 1395o(a) of this title but not paragraph (2) of such section shall be treated as satisfying such paragraph (1) on the first day on which he is (or on filing application would have been) entitled to hospital insurance benefits under part A.
 
 #### (d) Eligible individuals on or after March 1, 1966
-* In the case of an individual who first satisfies paragraph (1) or (2) of section 1395o of this title on or after March 1, 1966, his initial enrollment period shall begin on the first day of the third month before the month in which he first satisfies such paragraphs and shall end seven months later. Where the Secretary finds that an individual who has attained age 65 failed to enroll under this part during his initial enrollment period (based on a determination by the Secretary of the month in which such individual attained age 65), because such individual (relying on documentary evidence) was mistaken as to his correct date of birth, the Secretary shall establish for such individual an initial enrollment period based on his attaining age 65 at the time shown in such documentary evidence (with a coverage period determined under section 1395q of this title as though he had attained such age at that time).
+* In the case of an individual who first satisfies paragraph (1) or (2) of section 1395o(a) of this title on or after March 1, 1966, his initial enrollment period shall begin on the first day of the third month before the month in which he first satisfies such paragraphs and shall end seven months later. Where the Secretary finds that an individual who has attained age 65 failed to enroll under this part during his initial enrollment period (based on a determination by the Secretary of the month in which such individual attained age 65), because such individual (relying on documentary evidence) was mistaken as to his correct date of birth, the Secretary shall establish for such individual an initial enrollment period based on his attaining age 65 at the time shown in such documentary evidence (with a coverage period determined under section 1395q of this title as though he had attained such age at that time).
 
 #### (e) General enrollment period
 * There shall be a general enrollment period during the period beginning on January 1 and ending on March 31 of each year.
@@ -15,7 +15,7 @@
 #### (f) Individuals deemed enrolled in medical insurance program
 * Any individual—
 
-  * (1) who is eligible under section 1395o of this title to enroll in the medical insurance program by reason of entitlement to hospital insurance benefits as described in paragraph (1) of such section, and
+  * (1) who is eligible under section 1395o(a) of this title to enroll in the medical insurance program by reason of entitlement to hospital insurance benefits as described in paragraph (1) of such section, and
 
   * (2) whose initial enrollment period under subsection (d) begins after March 31, 1973, and
 
@@ -41,12 +41,12 @@
 #### (i) Special enrollment periods
 * (1) In the case of an individual who—
 
-  * (A) at the time the individual first satisfies paragraph (1) or (2) of section 1395o of this title, is enrolled in a group health plan described in section 1395y(b)(1)(A)(v) of this title by reason of the individual's (or the individual's spouse's) current employment status, and
+  * (A) at the time the individual first satisfies paragraph (1) or (2) of section 1395o(a) of this title, is enrolled in a group health plan described in section 1395y(b)(1)(A)(v) of this title by reason of the individual's (or the individual's spouse's) current employment status, and
 
   * (B) has elected not to enroll (or to be deemed enrolled) under this section during the individual's initial enrollment period,
 
 
-* there shall be a special enrollment period described in paragraph (3). In the case of an individual not described in the previous sentence who has not attained the age of 65, at the time the individual first satisfies paragraph (1) of section 1395o of this title, is enrolled in a large group health plan (as that term is defined in section 1395y(b)(1)(B)(iii) of this title) by reason of the individual's current employment status (or the current employment status of a family member of the individual), and has elected not to enroll (or to be deemed enrolled) under this section during the individual's initial enrollment period, there shall be a special enrollment period described in paragraph (3)(B).
+* there shall be a special enrollment period described in paragraph (3). In the case of an individual not described in the previous sentence who has not attained the age of 65, at the time the individual first satisfies paragraph (1) of section 1395o(a) of this title, is enrolled in a large group health plan (as that term is defined in section 1395y(b)(1)(B)(iii) of this title) by reason of the individual's current employment status (or the current employment status of a family member of the individual), and has elected not to enroll (or to be deemed enrolled) under this section during the individual's initial enrollment period, there shall be a special enrollment period described in paragraph (3)(B).
 
 * (2) In the case of an individual who—
 
@@ -65,7 +65,7 @@
 
 * (4)(A) In the case of an individual who is entitled to benefits under part A pursuant to section 426(b) of this title and—
 
-  * (i) who at the time the individual first satisfies paragraph (1) of section 1395o of this title—
+  * (i) who at the time the individual first satisfies paragraph (1) of section 1395o(a) of this title—
 
     * (I) is enrolled in a group health plan described in section 1395y(b)(1)(A)(v) of this title by reason of the individual's current or former employment or by reason of the current or former employment status of a member of the individual's family, and
 
@@ -82,14 +82,14 @@
 #### (j) Special rules for individuals with ALS
 * In applying this section in the case of an individual who is entitled to benefits under part A pursuant to the operation of section 426(h) of this title, the following special rules apply:
 
-  * (1) The initial enrollment period under subsection (d) shall begin on the first day of the first month in which the individual satisfies the requirement of section 1395o(1) of this title.
+  * (1) The initial enrollment period under subsection (d) shall begin on the first day of the first month in which the individual satisfies the requirement of section 1395o(a)(1) of this title.
 
   * (2) In applying subsection (g)(1), the initial enrollment period shall begin on the first day of the first month of entitlement to disability insurance benefits referred to in such subsection.
 
 #### (k) Special enrollment period for certain volunteers serving outside United States
 * (1) In the case of an individual who—
 
-  * (A) at the time the individual first satisfies paragraph (1) or (2) of section 1395o of this title, is described in paragraph (3), and has elected not to enroll (or to be deemed enrolled) under this section during the individual's initial enrollment period; or
+  * (A) at the time the individual first satisfies paragraph (1) or (2) of section 1395o(a) of this title, is described in paragraph (3), and has elected not to enroll (or to be deemed enrolled) under this section during the individual's initial enrollment period; or
 
   * (B) has terminated enrollment under this section during a month in which the individual is described in paragraph (3),
 
@@ -121,3 +121,15 @@
 * (5) The Secretary shall ensure that the materials relating to coverage under this part that are provided to an individual described in paragraph (1) prior to the individual's initial enrollment period contain information concerning the impact of not enrolling under this part, including the impact on health care benefits under the TRICARE program under chapter 55 of title 10.
 
 * (6) The Secretary of Defense shall collaborate with the Secretary of Health and Human Services and the Commissioner of Social Security to provide for the accurate identification of individuals described in paragraph (1). The Secretary of Defense shall provide such individuals with notification with respect to this subsection. The Secretary of Defense shall collaborate with the Secretary of Health and Human Services and the Commissioner of Social Security to ensure appropriate follow up pursuant to any notification provided under the preceding sentence.
+
+#### (m) Special enrollment periods for exceptional circumstances
+* Beginning January 1, 2023, the Secretary may establish special enrollment periods in the case of individuals who satisfy paragraph (1) or (2) of section 1395o(a) of this title and meet such exceptional conditions as the Secretary may provide.
+
+#### (n) Enrollment for individuals only eligible for coverage of immunosuppressive drugs
+* (1) Any individual who is eligible for coverage of immunosuppressive drugs under section 1395o(b) of this title may enroll or be deemed to have enrolled only in such manner and form as may be prescribed by regulations, and only during an enrollment period described in this subsection.
+
+* (2) An individual described in paragraph (1) whose entitlement for hospital insurance benefits under part A ends by reason of section 426–1(b)(2) of this title prior to January 1, 2023, may enroll beginning on October 1, 2022, or the day on which the individual first satisfies section 1395o(b) of this title, whichever is later.
+
+* (3) An individual described in paragraph (1) whose entitlement for hospital insurance benefits under part A ends by reason of section 426–1(b)(2) of this title on or after January 1, 2023, shall be deemed to have enrolled in the medical insurance program established by this part for purposes of coverage of immunosuppressive drugs.
+
+* (4) The Secretary shall establish a process under which an individual described in paragraph (1) whose other coverage described in section 1395o(b)(2)(A) of this title, or coverage under this part (including the medical insurance program established under this part for purposes of coverage of immunosuppressive drugs), is terminated voluntarily or involuntary may enroll or reenroll, if applicable, in the medical insurance program established under this part for purposes of coverage of immunosuppressive drugs.

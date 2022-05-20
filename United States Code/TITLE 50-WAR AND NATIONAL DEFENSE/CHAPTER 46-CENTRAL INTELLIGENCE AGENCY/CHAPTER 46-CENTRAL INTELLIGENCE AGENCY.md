@@ -1042,3 +1042,110 @@
 
 * #### (2) Policies
   * The Under Secretary shall develop and supervise the implementation of policies to integrate and communicate Department of Defense requirements and requests for support from the Central Intelligence Agency that are coordinated by the Associate Director pursuant to paragraph (1)(B).
+
+### §3525. Office of the Ombudsman for Analytic Objectivity
+#### (a) Establishment
+* #### (1) In general
+  * There is established in the Agency an Office of the Ombudsman for Analytic Objectivity (in this section referred to as the "Office").
+
+* #### (2) Appointment of Ombudsman
+  * The Office shall be headed by an Ombudsman, who shall be appointed by the Director from among current or former senior staff officers of the Agency.
+
+#### (b) Duties and responsibilities
+* The Ombudsman shall—
+
+  * (1) on an annual basis, conduct a survey of analytic objectivity among officers and employees of the Agency;
+
+  * (2) implement a procedure by which any officer or employee of the Agency may submit to the Office a complaint alleging politicization, bias, lack of objectivity, or other issues relating to a failure of tradecraft in analysis conducted by the Agency;
+
+  * (3) except as provided in paragraph (4), upon receiving a complaint submitted pursuant to paragraph (2), take reasonable action to investigate the complaint, make a determination as to whether the incident described in the complaint involved politicization, bias, or lack of objectivity, and prepare a report that—
+
+    * (A) summarizes the facts relevant to the complaint;
+
+    * (B) documents the determination of the Ombudsman with respect to the complaint; and
+
+    * (C) contains a recommendation for remedial action;
+
+
+  * (4) if a complaint submitted pursuant to paragraph (2) alleges politicization, bias, or lack of objectivity in the collection of intelligence information, refer the complaint to the official responsible for supervising collection operations of the Agency; and
+
+  * (5) continuously monitor changes in areas of analysis that the Ombudsman determines involve a heightened risk of politicization, bias, or lack of objectivity, to ensure that any change in the analytic line arises from proper application of analytic tradecraft and not as a result of politicization, bias, or lack of objectivity.
+
+#### (c) Reports
+* (1) On an annual basis, the Ombudsman shall submit to the intelligence committees a report on the results of the survey conducted pursuant to subsection (b)(1) with respect to the most recent fiscal year.
+
+* (2) On an annual basis, the Ombudsman shall submit to the intelligence committees a report that includes—
+
+  * (A) the number of complaints of submitted pursuant to subsection (b)(2) during the most recent fiscal year; and
+
+  * (B) a description of the nature of such complaints, the actions taken by the Office or any other relevant element or component of the Agency with respect to such complaints, and the resolution of such complaints.
+
+
+* (3) On a quarterly basis, the Ombudsman shall submit to the intelligence committees a report that includes—
+
+  * (A) a list of the areas of analysis monitored during the most recent calendar quarter pursuant to subsection (b)(5); and
+
+  * (B) a brief description of the methods by which the Office has conducted such monitoring.
+
+#### (d) Intelligence committees defined
+* In this section, the term "intelligence committees" means the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.
+
+### §3526. Improvement of education in science, technology, engineering, arts, and mathematics
+#### (a) Definitions
+* In this section:
+
+* #### (1) Eligible entity
+  * The term "eligible entity" includes a department or agency of the Federal Government, a State, a political subdivision of a State, an individual, and a not-for-profit or other organization in the private sector.
+
+* #### (2) Educational institution
+  * The term "educational institution" includes any public or private elementary school or secondary school, institution of higher education, college, university, or any other profit or nonprofit institution that is dedicated to improving science, technology, engineering, the arts, mathematics, business, law, medicine, or other fields that promote development and education relating to science, technology, engineering, the arts, or mathematics.
+
+* #### (3) State
+  * The term "State" means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, and any other territory or possession of the United States.
+
+#### (b) Requirements
+* The Director shall, on a continuing basis—
+
+  * (1) identify actions that the Director may take to improve education in the scientific, technology, engineering, arts, and mathematics (known as "STEAM") skills necessary to meet the long-term national security needs of the United States for personnel proficient in such skills; and
+
+  * (2) establish and conduct programs to carry out such actions.
+
+#### (c) Authorities
+* #### (1) In general
+  * The Director, in support of educational programs in science, technology, engineering, the arts, and mathematics, may—
+
+    * (A) award grants to eligible entities;
+
+    * (B) provide cash awards and other items to eligible entities;
+
+    * (C) accept voluntary services from eligible entities;
+
+    * (D) support national competition judging, other educational event activities, and associated award ceremonies in connection with such educational programs; and
+
+    * (E) enter into one or more education partnership agreements with educational institutions in the United States for the purpose of encouraging and enhancing study in science, technology, engineering, the arts, and mathematics disciplines at all levels of education.
+
+* #### (2) Education partnership agreements
+  * #### (A) Nature of assistance provided
+    * Under an education partnership agreement entered into with an educational institution under paragraph (1)(E), the Director may provide assistance to the educational institution by—
+
+      * (i) loaning equipment to the educational institution for any purpose and duration in support of such agreement that the Director considers appropriate;
+
+      * (ii) making personnel available to teach science courses or to assist in the development of science courses and materials for the educational institution;
+
+      * (iii) providing sabbatical opportunities for faculty and internship opportunities for students;
+
+      * (iv) involving faculty and students of the educational institution in Agency projects, including research and technology transfer or transition projects;
+
+      * (v) cooperating with the educational institution in developing a program under which students may be given academic credit for work on Agency projects, including research and technology transfer for transition projects; and
+
+      * (vi) providing academic and career advice and assistance to students of the educational institution.
+
+  * #### (B) Priorities
+    * In entering into education partnership agreements under paragraph (1)(E), the Director shall prioritize entering into education partnership agreements with the following:
+
+      * (i) Historically Black colleges and universities and other minority-serving institutions, as described in section 1067q(a) of title 20.
+
+      * (ii) Educational institutions serving women, members of minority groups, and other groups of individuals who traditionally are involved in the science, technology, engineering, arts, and mathematics professions in disproportionately low numbers.
+
+#### (d) Designation of advisor
+* The Director shall designate one or more individuals within the Agency to advise and assist the Director regarding matters relating to science, technology, engineering, the arts, and mathematics education and training.

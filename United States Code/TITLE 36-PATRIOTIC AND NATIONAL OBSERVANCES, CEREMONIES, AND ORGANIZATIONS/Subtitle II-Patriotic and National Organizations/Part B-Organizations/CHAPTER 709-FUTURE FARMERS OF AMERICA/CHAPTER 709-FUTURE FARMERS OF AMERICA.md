@@ -20,7 +20,7 @@
 
   * (6) to seek and promote inclusion and diversity in its membership, leadership, and staff to reflect the belief of the FFA in the value of all human beings;
 
-  * (7) to create, foster, and assist subsidiary chapters ) and associations of those chapters in the States, territories, and possessions of the United States as such chapters and associations carry out agricultural education programs that are approved by States, territories, or possessions;
+  * (7) to create, foster, and assist subsidiary chapters) and associations of those chapters in the States, territories, and possessions of the United States as such chapters and associations carry out agricultural education programs that are approved by States, territories, or possessions;
 
   * (8) to build character, and develop competent and assertive agricultural leadership;
 
@@ -30,7 +30,7 @@
 
   * (11) to make available to State associations, local chapters, and members all official supplies, programs, services, and equipment of the FFA;
 
-  * (12) to cooperate with others, including State boards and officials for career and technical, in accomplishing these purposes; and
+  * (12) to cooperate with others, including State boards and officials for career and technical education, in accomplishing these purposes; and
 
   * (13) to engage in other activities, consistent with these purposes, determined by the governing body to be for the best interests of the FFA.
 
@@ -90,7 +90,6 @@
 
 * (b) ELECTION.—The national officers of the corporation shall be elected annually by a majority vote of the delegates assembled in the annual national convention from among qualified members of the corporation.
 
-
 * (c) VOTE AT NATIONAL CONVENTION.—Each qualified delegate has one vote at the annual national convention.
 
 ### §70906. Powers
@@ -121,7 +120,7 @@
   * (12) do any other act necessary and proper to carry out the purposes of the FFA.
 
 ### §70907. Exclusive right to name, seals, emblems, and badges
-* The FFA and its authorized chapters and associations of chapters have the exclusive right to use the names "Future Farmers of America" and "National FFA Organization, " and the initials FFA as representing an agricultural education membership organization and seals, emblems, and badges the FFA adopts.
+* The FFA and its authorized chapters and associations of chapters have the exclusive right to use the names "Future Farmers of America" and "National FFA Organization," and the initials FFA as representing an agricultural education membership organization and seals, emblems, and badges the FFA adopts.
 
 ### §70908. Restrictions
 * (a) STOCK AND DIVIDENDS.—The FFA may not issue stock or declare or pay a dividend.

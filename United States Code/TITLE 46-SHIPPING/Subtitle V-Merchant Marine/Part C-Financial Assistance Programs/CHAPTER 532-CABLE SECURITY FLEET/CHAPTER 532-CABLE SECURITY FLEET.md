@@ -32,7 +32,7 @@
 
   * (12) UNITED STATES CITIZEN TRUST.—
 
-    * (A) Subject to paragraph (C), the term 'United States citizen trust' means a trust that is qualified under this paragraph.
+    * (A) Subject to paragraph (C), the term "United States citizen trust" means a trust that is qualified under this paragraph.
 
     * (B) A trust is qualified under this paragraph with respect to a vessel only if—
 

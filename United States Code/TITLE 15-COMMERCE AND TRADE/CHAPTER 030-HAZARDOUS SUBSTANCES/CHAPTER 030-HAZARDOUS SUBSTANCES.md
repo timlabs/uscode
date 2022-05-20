@@ -523,7 +523,7 @@
 * #### (2) Label
   * The cautionary statement required by paragraph (1) for a toy or game shall be as follows:
 
-    ![](http://uscode.house.gov/images/uscprelim/t151278a.gif)
+    ![](http://uscode.house.gov/images/uscprelim/t151278a.png)
 #### (b) Balloons, small balls, and marbles
 * #### (1) Requirement
   * In the case of any latex balloon, any ball with a diameter of 1.75 inches or less intended for children 3 years of age or older, any marble intended for children 3 years of age or older, or any toy or game which contains such a balloon, ball, or marble, which is manufactured for sale, offered for sale, or distributed in commerce in the United States—
@@ -543,22 +543,22 @@
   * #### (A) Balloons
     * In the case of balloons, or toys or games that contain latex balloons, the following cautionary statement applies:
 
-      ![](http://uscode.house.gov/images/uscprelim/t151278b.gif)
+      ![](http://uscode.house.gov/images/uscprelim/t151278b.png)
   * #### (B) Balls
     * In the case of balls, the following cautionary statement applies:
 
-      ![](http://uscode.house.gov/images/uscprelim/t151278c.gif)
+      ![](http://uscode.house.gov/images/uscprelim/t151278c.png)
   * #### (C) Marbles
     * In the case of marbles, the following cautionary statement applies:
 
-      ![](http://uscode.house.gov/images/uscprelim/t151278d.gif)
+      ![](http://uscode.house.gov/images/uscprelim/t151278d.png)
   * #### (D) Toys and games
     * In the case of toys or games containing balls, the following cautionary statement applies:
 
-      ![](http://uscode.house.gov/images/uscprelim/t151278e.gif)
+      ![](http://uscode.house.gov/images/uscprelim/t151278e.png)
   * In the case of toys or games containing marbles, the following cautionary statement applies:
 
-    ![](http://uscode.house.gov/images/uscprelim/t151278f.gif)
+    ![](http://uscode.house.gov/images/uscprelim/t151278f.png)
 #### (c) Advertising
 * #### (1) Requirement
   * #### (A) Cautionary statement
@@ -621,10 +621,10 @@
 
   * (B)(i) In the case of a product to which subsection (a), subsection (b)(2)(B), subsection (b)(2)(C), or subsection (b)(2)(D) applies, the statement specified by this subparagraph is as follows:
 
-    ![](http://uscode.house.gov/images/uscprelim/t151278g.gif)
+    ![](http://uscode.house.gov/images/uscprelim/t151278g.png)
   * (ii) In the case of a product to which subsection (b)(2)(A) applies, the statement specified by this subparagraph is as follows:
 
-    ![](http://uscode.house.gov/images/uscprelim/t151278h.gif)
+    ![](http://uscode.house.gov/images/uscprelim/t151278h.png)
 #### (e) Treatment as misbranded hazardous substance
 * A balloon, ball, marble, toy, or game, that is not in compliance with the requirements of this subsection shall be considered a misbranded hazardous substance under section 1261(p) of this title.
 

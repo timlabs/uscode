@@ -42,9 +42,11 @@
 
   * (1) a report from each military department on the expenditures, work, and accomplishments of that department;
 
-  * (2) itemized statements showing the savings of public funds, and the eliminations of unnecessary duplications, made under sections 125 and 191 of this title; and
+  * (2) a report from each military department on the status of diversity and inclusion in such department;
 
-  * (3) such recommendations as he considers appropriate.
+  * (3) itemized statements showing the savings of public funds, and the eliminations of unnecessary duplications, made under sections 125 and 191 of this title; and
+
+  * (4) such recommendations as he considers appropriate.
 
 
 * (d) Unless specifically prohibited by law, the Secretary may, without being relieved of his responsibility, perform any of his functions or duties, or exercise any of his powers through, or with the aid of, such persons in, or organizations of, the Department of Defense as he may designate.
@@ -77,6 +79,12 @@
   * (v) The force size and shape, force posture, defense capabilities, force readiness, infrastructure, organization, personnel, technological innovation, and other elements of the defense program necessary to support such strategy.
 
   * (vi) The major investments in defense capabilities, force structure, force readiness, force posture, and technological innovation that the Department will make over the following five-year period in accordance with the strategic framework described in clause (iii).
+
+  * (vii) Strategic goals related to diversity and inclusion in the armed forces, and an assessment of measures of performance related to the efforts of the armed forces to reflect the diverse population of the United States eligible to serve in the armed forces.
+
+  * (viii) A strategic framework prescribed by the Secretary that guides how the Department will prioritize and integrate activities relating to sustainment of major defense acquisition programs, core logistics capabilities (as described under section 2464 of this title), commercial logistics capabilities, and the national technology and industrial base (as defined in section 2500 of this title).
+
+  * (ix) A strategic framework prescribed by the Secretary that guides how the Department will specifically address contested logistics, including major investments for related infrastructure, logistics-related authorities, force posture, related emergent technology and advanced computing capabilities, operational resilience, and operational energy, over the following five-year period to support such strategy.
 
 
 * (C) The Secretary shall seek the military advice and assistance of the Chairman of the Joint Chiefs of Staff in preparing each national defense strategy required by this subsection.
@@ -184,16 +192,59 @@
 
 * (k) The Secretary of Defense, with the advice and assistance of the Chairman of the Joint Chiefs of Staff, shall provide annually to the Secretaries of the military departments and to the commanders of the combatant commands written guidelines to direct the effective detection and monitoring of all potential aerial and maritime threats to the national security of the United States. Those guidelines shall include guidance on the specific force levels and specific supporting resources to be made available for the period of time for which the guidelines are to be in effect.
 
-* [(l) Repealed. Pub. L. 115–91, div. A, title X, §1051(a)(1)(B), Dec. 12, 2017, 131 Stat. 1560.]
+* (l)(1) The Secretary of Defense, in coordination with the Secretary of the Department in which the Coast Guard is operating, shall establish metrics to measure—
 
-* (m) INFORMATION TO ACCOMPANY FUNDING REQUEST FOR CONTINGENCY OPERATION.—Whenever the President submits to Congress a request for appropriations for costs associated with a contingency operation that involves, or likely will involve, the deployment of more than 500 members of the armed forces, the Secretary of Defense shall submit to Congress a report on the objectives of the operation. The report shall include a discussion of the following:
+  * (A) efforts to reflect across all grades comprising the officer and enlisted corps of each armed force the diverse population of the United States eligible to serve in the armed forces; and
+
+  * (B) the efforts of the armed forces to generate and maintain a ready military force that will prevail in war, prevent and deter conflict, defeat adversaries, and succeed in a wide range of contingencies.
+
+
+* (2) In implementing the requirement in paragraph (1), the Secretary of Defense, in coordination with the Secretary of the Department in which the Coast Guard is operating, shall—
+
+  * (A) ensure that data elements, data collection methodologies, and reporting processes and structures pertinent to each metric established pursuant to that paragraph are comparable across the armed forces, to the extent practicable;
+
+  * (B) establish standard classifications that members of the armed forces may use to self-identify their gender, race, or ethnicity, which classifications shall be consistent with Office of Management and Budget Number Directive 15, entitled 'Race and Ethnic Standards for Federal Statistics and Administrative Reporting', or any successor directive;
+
+  * (C) define conscious and unconscious bias with respect to matters of diversity and inclusion, and provide guidance to eliminate such bias;
+
+  * (D) conduct a barrier analysis to review demographic diversity patterns across the military life cycle, starting with enlistment or accession into the armed forces, in order to—
+
+    * (i) identify barriers to increasing diversity;
+
+    * (ii) develop and implement plans and processes to resolve or eliminate any barriers to diversity; and
+
+    * (iii) review the progress of the armed forces in implementing previous plans and processes to resolve or eliminate barriers to diversity;
+
+
+  * (E) develop and implement plans and processes to ensure that advertising and marketing to promote enlistment or accession into the armed forces is representative of the diverse population of the United States eligible to serve in the armed forces; and
+
+  * (F) meet annually with the Secretaries of the military departments, the Chairman of the Joint Chiefs of Staff, and the Chiefs of Staff of the Armed Forces to assess progress toward diversity and inclusion across the armed forces and to elicit recommendations and advice for enhancing diversity and inclusion in the armed forces
+
+
+* (m) Accompanying each national defense strategy provided to the congressional defense committees in accordance with subsection (g)(1)(D), the Secretary of Defense, in coordination with the Secretary of the Department in which the Coast Guard is operating, shall provide a report that sets forth a detailed discussion, current as of the preceding fiscal year, of the following:
+
+  * (1) The number of officers and enlisted members of the armed forces, including the reserve components, disaggregated by gender, race, and ethnicity, for each grade in each armed force.
+
+  * (2) The number of members of the armed forces, including the reserve components, who were promoted during the fiscal year covered by such report, disaggregated by gender, race, and ethnicity, for each grade in each armed force, and of the number so promoted, the number promoted below, in, and above the applicable promotion zone.
+
+  * (3) The number of members of the armed forces, including the reserve components, who were enlisted or accessed into the armed forces during the fiscal year covered by such report, disaggregated by gender, race, and ethnicity, in each armed force.
+
+  * (4) The number of graduates of each military service academy during the fiscal year covered by such report, disaggregated by gender, race, and ethnicity, for each military department and the United States Coast Guard.
+
+  * (5) The number of members of the armed forces, including the reserve components, who reenlisted or otherwise extended a commitment to military service during the fiscal year covered by such report, disaggregated by gender, race, and ethnicity, for each grade in each armed force.
+
+  * (6) An assessment of the pool of officers best qualified for promotion to grades O–9 and O–10, disaggregated by gender, race, and ethnicity, in each military department and the United States Coast Guard.
+
+  * (7) Any other matter the Secretary considers appropriate.
+
+* (n) INFORMATION TO ACCOMPANY FUNDING REQUEST FOR CONTINGENCY OPERATION.—Whenever the President submits to Congress a request for appropriations for costs associated with a contingency operation that involves, or likely will involve, the deployment of more than 500 members of the armed forces, the Secretary of Defense shall submit to Congress a report on the objectives of the operation. The report shall include a discussion of the following:
 
   * (1) What clear and distinct objectives guide the activities of United States forces in the operation.
 
   * (2) What the President has identified on the basis of those objectives as the date, or the set of conditions, that defines the endpoint of the operation.
 
 
-* (n) NOTIFICATION OF CERTAIN OVERSEAS CONTINGENCY OPERATIONS FOR PURPOSES OF INSPECTOR GENERAL ACT OF 1978.—The Secretary of Defense shall provide the Chair of the Council of Inspectors General on Integrity and Efficiency written notification of the commencement or designation of a military operation as an overseas contingency operation upon the earlier of—
+* (o) NOTIFICATION OF CERTAIN OVERSEAS CONTINGENCY OPERATIONS FOR PURPOSES OF INSPECTOR GENERAL ACT OF 1978.—The Secretary of Defense shall provide the Chair of the Council of Inspectors General on Integrity and Efficiency written notification of the commencement or designation of a military operation as an overseas contingency operation upon the earlier of—
 
   * (1) a determination by the Secretary that the overseas contingency operation is expected to exceed 60 days; or
 
@@ -310,7 +361,7 @@
   * (3) the use of reserve component personnel to perform active duty or full-time National Guard duty under subsection (b) unless the strength for such personnel for that reserve component for that fiscal year has been authorized by law.
 
 
-* (d) MILITARY TECHNICIAN (DUAL STATUS) END STRENGTHS TO BE AUTHORIZED BY LAW.—Congress shall authorize for each fiscal year the end strength for military technicians (dual status) for each reserve component of the Army and Air Force. Funds available to the Department of Defense for any fiscal year may not be used for the pay of a military technician (dual status) during that fiscal year unless the technician fills a position that is within the number of such positions authorized by law for that fiscal year for the reserve component of that technician. This subsection applies without regard to section 129 of this title. In each budget submitted by the President to Congress under section 1105 of title 31, the end strength requested for military technicians (dual status) for each reserve component of the Army and Air Force shall be specifically set forth.
+* (d) MILITARY TECHNICIAN (DUAL STATUS) END STRENGTHS TO BE AUTHORIZED BY LAW.—Congress shall authorize for each fiscal year both the minimum end strength for non-temporary military technicians (dual status) and the end strength for temporary military technicians (dual status) for each reserve component of the Army and Air Force. Funds available to the Department of Defense for any fiscal year may not be used for the pay of a military technician (dual status) during that fiscal year unless the technician fills a position that is within the number of such positions authorized by law for that fiscal year for the reserve component of that technician. This subsection applies without regard to section 129 of this title. In each budget submitted by the President to Congress under section 1105 of title 31, the minimum end strength for non-temporary military technicians (dual status), and the end strength for temporary military technicians (dual status), requested' for each reserve component of the Army and Air Force shall be specifically set forth.
 
 * (e) END-OF-QUARTER STRENGTH LEVELS.—(1) The Secretary of Defense shall prescribe and include in the budget justification documents submitted to Congress in support of the President's budget for the Department of Defense for any fiscal year the Secretary's proposed end-of-quarter strengths for each of the first three quarters of the fiscal year for which the budget is submitted, in addition to the Secretary's proposed fiscal-year end-strengths for that fiscal year. Such end-of-quarter strengths shall be submitted for each category of personnel for which end strengths are required to be authorized by law under subsection (a) or (d). The Secretary shall ensure that resources are provided in the budget at a level sufficient to support the end-of-quarter and fiscal-year end-strengths as submitted.
 
@@ -379,7 +430,7 @@
   * (2) the annual civilian personnel requirements level for each component of the Department of Defense for the next fiscal year and the civilian end-strength level for the prior fiscal year.
 
 
-* (b)The Secretary shall include in each report under subsection (a) justification for the strength levels recommended and an explanation of the relationship between the personnel strength levels recommended for that fiscal year and the national security policies of the United States in effect at the time.
+* (b) The Secretary shall include in each report under subsection (a) justification for the strength levels recommended and an explanation of the relationship between the personnel strength levels recommended for that fiscal year and the national security policies of the United States in effect at the time.
 
 * (c) The Secretary shall include in each report under subsection (a) a detailed discussion of the manpower required for support and overhead functions within the armed forces and the Department of Defense.
 
@@ -433,20 +484,7 @@
   * (4) The amount of any adjustment in the limitation on personnel made by the Secretary of Defense or the Secretary of a military department, and, for each adjustment made pursuant to section 1111(b)(2) of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009 (10 U.S.C. 143 note), the purpose of the adjustment.
 
 
-* (g) Not later than September 1 each year, the Secretary shall submit to Congress a report that sets forth a detailed discussion, current as of the preceding fiscal year, of the following:
-
-  * (1) The progress made in implementing the plan required by section 656 of this title to accurately measure the efforts of the Department to reflect the diverse population of the United States eligible to serve in the armed forces.
-
-  * (2) The number of members of the armed forces, including reserve components, listed by gender and race or ethnicity for each rank under each military department.
-
-  * (3) The number of members of the armed forces, including reserve components, who were promoted during the fiscal year covered by the report, listed by gender and race or ethnicity for each rank under each military department.
-
-  * (4) The number of members of the armed forces, including reserve components, who reenlisted or otherwise extended the commitment to military service during the fiscal year covered by the report, listed by gender and race or ethnicity for each rank under each military department.
-
-  * (5) The available pool of qualified candidates for the general officer grades of general and lieutenant general and the flag officer grades of admiral and vice admiral.
-
-
-* (h) Not later than April 1 each year, the Secretary shall submit to Congress a report on the Army and Air Force military technician programs. The report shall include a presentation, shown by reserve component and shown both as of the end of the preceding fiscal year and for the next fiscal year, of the following (displayed in the aggregate and separately for military technicians (dual status) and non-dual status military technicians):
+* (g) Not later than April 1 each year, the Secretary shall submit to Congress a report on the Army and Air Force military technician programs. The report shall include a presentation, shown by reserve component and shown both as of the end of the preceding fiscal year and for the next fiscal year, of the following (displayed in the aggregate and separately for military technicians (dual status) and non-dual status military technicians):
 
   * (1) The number of military technicians required to be employed (as specified in accordance with Department of Defense procedures), the number authorized to be employed under Department of Defense personnel procedures, and the number actually employed.
 
@@ -457,7 +495,7 @@
     * (B) the number applicable to high-priority units and organizations (as specified in section 10216(a) of this title).
 
 ### §116. Annual operations and maintenance report
-* (a)(1) The Secretary of Defense shall submit to Congress a written report, not later than February 15 of each fiscal year, with respect to the operations and maintenance of the Army, Navy, Air Force, and Marine Corps for the next fiscal year. The Secretary shall include in each such report recommendations for—
+* (a)(1) The Secretary of Defense shall submit to Congress a written report, not later than February 15 of each fiscal year, with respect to the operations and maintenance of the Army, Navy, Air Force, Marine Corps, and Space Force for the next fiscal year. The Secretary shall include in each such report recommendations for—
 
   * (A) the number of aircraft flying hours for the Army, Navy, Air Force, and Marine Corps for the next fiscal year, the number of ship steaming hours for the Navy for the next fiscal year, and the number of field training days for the combat arms battalions of the Army and Marine Corps for the next fiscal year;
 
@@ -518,14 +556,88 @@
 
 * (d) REGULATIONS.—The Secretary shall prescribe regulations to carry out this section. In those regulations, the Secretary shall prescribe the established information technology system for Department of Defense reporting, specifically authorize exceptions to a single-system architecture, and identify the organizations, units, and entities that are subject to reporting in the readiness reporting system, what organization resources are subject to such reporting, and the elements of the training establishment and of defense infrastructure that are subject to such reporting.
 
-### §118. Annual report on major weapons systems sustainment
-* Not later than five days after the date on which the Secretary of Defense submits to Congress the materials in support of the budget of the President for a fiscal year, the Secretary of Defense shall submit to the congressional defense committees an annual report on major weapons systems sustainment for the period covered by the future years defense program specified by section 221 of this title. Such report shall include—
+### §118. Materiel readiness metrics and objectives for major weapon systems
+* (a) MATERIEL READINESS METRICS.—Each head of an element of the Department specified in paragraphs (1) through (10) of section 111(b) of this title shall establish and maintain materiel readiness metrics to enable assessment of the readiness of members of the armed forces to carry out—
 
-  * (1) an assessment of the materiel availability, materiel reliability, and mean down time metrics for each major weapons system;
+  * (1) the strategic framework required by section 113(g)(1)(B)(vii) of this title; and
 
-  * (2) a detailed explanation of any factors that could preclude the Department of Defense or any of the military departments from meeting applicable readiness goals or objectives; and
+  * (2) guidance issued by the Secretary of Defense pursuant to section 113(g)(1)(B) of this title.
 
-  * (3) an assessment of the validity and effectiveness of the definitions used to determine defense readiness, including the terms "major weapons system", "covered asset", "total and required inventory", "materiel and operational availability", "materiel and operational capability", "materiel and operational reliability".
+
+* (b) REQUIRED METRICS.—At a minimum, the materiel readiness metrics required by subsection (a) shall address the materiel availability, operational availability, operational capability, and materiel reliability of each major weapon system by designated mission, design series, variant, or class.
+
+* (c) MATERIEL READINESS OBJECTIVES.—(1) Not later than one year after the date of the enactment of this subsection, each head of an element described in subsection (a) shall establish the metrics required by subsection (b) necessary to support the strategic framework and guidance referred to in paragraph (1) and (2) of subsection (a).
+
+* (2) Annually, each head of an element described in subsection (a) shall review and revise the metrics required by subsection (b) and include any such revisions in the materials submitted to Congress in support of the budget of the President under section 1105 of title 31.
+
+* (d) BUDGET JUSTIFICATION.—Not later than five days after the date on which the Secretary of Defense submits to Congress the materials in support of the budget of the President for a fiscal year, the Secretary of Defense shall submit to the congressional defense committees an annual report on major weapons systems sustainment for the period covered by the future years defense program specified by section 221 of this title. Such report shall include—
+
+  * (1) an assessment of the materiel availability, operational availability, and materiel reliability for each major weapon system; and
+
+  * (2) a detailed explanation of any factors that could preclude the Department of Defense or any of the military departments from meeting applicable readiness goals or objectives.
+
+
+* (e) Definitions.—In this section:
+
+  * (1) The term "major weapon system" has the meaning given in section 2379(f) of this title.
+
+  * (2) The term "materiel availability" means a measure of the percentage of the total inventory of a major weapon system that is operationally capable of performing an assigned mission.
+
+  * (3) The term "materiel reliability" means the probability that a major weapon system will perform without failure over a specified interval.
+
+  * (4) The term "operational availability" means a measure of the percentage of time a major weapon system is operationally capable.
+
+  * (5) The term "operationally capable" means a materiel condition indicating that a major weapon system is capable of performing its assigned mission and has no discrepancies with a subsystem of a major weapon system.
+
+### §118a. National defense sustainment and logistics review
+#### (a) Review required
+* Upon submission of each national defense strategy under section 113(g) of this title, the Secretary of Defense shall conduct a comprehensive review of the sustainment and logistics requirements necessary to support the force structure, force modernization, infrastructure, force deployment capabilities, and other elements of the defense program and policies of the United States during the subsequent 5-, 10-, and 25-year periods. Each such review shall be known as the 'National Defense Sustainment and Logistics Review'. Each such review shall be conducted in consultation with the Secretaries of the military departments, the Chiefs of Staff of the Armed Forces, all functional and geographic combatant commanders, and the Director of the Defense Logistics Agency.
+
+#### (b) Report to Congress
+* (1) Not later than the first Monday in February of the year following the fiscal year during which the National Defense Strategy was submitted under section 113(g) of this title, the Secretary shall submit to the congressional defense committees a report on the review required by subsection (a). Each such report shall include each of the following:
+
+  * (A) An assessment of the strategic, operational, and tactical maritime logistics force (including non-military assets provided by Military Sealift Command, the Maritime Administration, and through the Voluntary Intermodal Sealift Agreement and Voluntary Tanker Agreement) required to support sealift, at sea logistics, and over-the-shore logistics of forces to meet steady state and contingency requirements and the strategic and intra-theater movement of supplies, personnel, and equipment.
+
+  * (B) An assessment of the strategic, operational, and tactical airlift and tankers (including non-military assets provided by the Civil Reserve Air Fleet) required to meet steady state and contingency requirements.
+
+  * (C) An assessment of the location, configuration, material condition, and inventory of prepositioned materiel, equipment, and war reserves programs, as well as the ability to store and distribute these items to deployed military forces, required to meet steady state and contingency requirements.
+
+  * (D) An assessment of the location, infrastructure, and storage capacity for petroleum, oil, and lubricant products, as well as the ability to store, transport, and distribute such products from storage supply points to deployed military forces, required to meet steady state and contingency requirements.
+
+  * (E) An assessment of the capabilities, capacity, and infrastructure of the Department of Defense organic industrial base and private sector industrial base required to meet steady-state and surge software and depot maintenance requirements.
+
+  * (F) An assessment of the production capability, capacity, and infrastructure, of the Department of Defense organic industrial base and private sector industrial base required to meet steady-state and surge production requirements for ammunition and other military munitions.
+
+  * (G) An assessment of the condition, capacity, location, and survivability under likely threats of military infrastructure located both inside the continental United States and outside the continental United States, including agreements with and infrastructure provided by international partners, required to generate, project, and sustain military forces to meet steady-state and contingency requirements.
+
+  * (H) An assessment of the cybersecurity risks to military and commercial logistics networks and information technology systems.
+
+  * (I) An assessment of the gaps between the requirements identified under subparagraphs (A) through (H) compared to the actual force structure and infrastructure capabilities, capacity, and posture and the risks associated with each gap as it relates to the ability to meet the national defense strategy.
+
+  * (J) A discussion of the identified mitigations being pursued to address each gap and risk identified under subparagraph (I) as well as the initiatives and resources planned to address such gaps, as included in the Department of Defense budget request submitted during the same year as the report and the applicable future-years defense program.
+
+  * (K) An assessment of the extent to which wargames incorporate logistics capabilities and threats and a description of the logistics constraints and restraints to operations identified through such wargames.
+
+  * (L) An assessment of the ability of the Department of Defense, the Armed Forces, and the combatant commands to leverage and integrate emergent logistics related technologies and advanced computing systems.
+
+  * (M) Such other matters the Secretary of Defense considers appropriate.
+
+
+* (2) In preparing the report under paragraph (1), the Secretary of Defense shall consult with, and consider the recommendations of, the Chairman of the Joint Chiefs of Staff.
+
+* (3) The report required under this subsection shall be submitted in classified form and shall include an unclassified summary.
+
+#### (c) Comptroller General review
+* Not later than 180 days after the date on which Secretary submits each report required under subsection (b), the Comptroller General shall submit to the congressional defense committees a report that includes an assessment of each of the following:
+
+  * (1) Whether the report includes each of the elements referred to in subsection (b).
+
+  * (2) The strengths and weaknesses of the approach and methodology used in conducting the review required under subsection (a) that is covered by the report.
+
+  * (3) Any other matters relating to sustainment that may arise from the report, as the Comptroller General considers appropriate.
+
+#### (d) Relationship to budget
+* Nothing in this section shall be construed to affect section 1105(a) of title 31.
 
 ### §118a. Quadrennial quality of life review
 * (a) REVIEW REQUIRED.—(1) The Secretary of Defense shall every four years conduct a comprehensive examination of the quality of life of the members of the armed forces (to be known as the "quadrennial quality of life review"). The review shall include examination of the programs, projects, and activities of the Department of Defense, including the morale, welfare, and recreation activities.

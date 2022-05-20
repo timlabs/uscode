@@ -1,5 +1,10 @@
 ### **CHAPTER 873—PROCUREMENT OF SUPPLIES AND SERVICES**
 
+### §8751. Notification of Navy procurement production disruptions
+* (a) REQUIREMENT FOR CONTRACTOR TO PROVIDE NOTICE OF DELAYS.—The Secretary of the Navy shall require prime contractors of any Navy procurement program funded under either the Shipbuilding and Conversion, Navy account or the Other Procurement, Navy account to report within 15 calendar days any stop work order or other manufacturing disruption of 15 calendar days or more, by the prime contractor or any subcontractor, to the respective program manager and Navy technical authority.
+
+* (b) QUARTERLY REPORTS.—The Secretary of the Navy shall submit to the congressional defense committees not later than 15 calendar days after the end of each quarter of a fiscal year a report listing all notifications made pursuant to subsection (a) during the preceding quarter.
+
 ### §8752. Contracts for research
 * (a) The Secretary of the Navy and, by direction of the Secretary, the Chief of Naval Research and the chiefs of bureaus may, without advertising, make contracts or amendments or modifications of contracts for services and materials necessary to conduct research and to make or secure reports, tests, models, or apparatus. A contractor supplying such services or materials need not be required to furnish a bond.
 

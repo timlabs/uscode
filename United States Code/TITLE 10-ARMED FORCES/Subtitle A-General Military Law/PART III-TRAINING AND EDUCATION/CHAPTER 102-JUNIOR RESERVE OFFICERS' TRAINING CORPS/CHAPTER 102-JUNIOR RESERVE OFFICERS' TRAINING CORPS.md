@@ -3,7 +3,7 @@
 ### §2031. Junior Reserve Officers' Training Corps
 * (a)(1) The Secretary of each military department shall establish and maintain a Junior Reserve Officers' Training Corps, organized into units, at public and private secondary educational institutions which apply for a unit and meet the standards and criteria prescribed pursuant to this section. The President shall promulgate regulations prescribing the standards and criteria to be followed by the military departments in selecting the institutions at which units are to be established and maintained and shall provide for the fair and equitable distribution of such units throughout the Nation, except that more than one such unit may be established and maintained at any military institute.
 
-* (2) It is a purpose of the Junior Reserve Officers' Training Corps to instill in students in United States secondary educational institutions the values of citizenship, service to the United States, and personal responsibility and a sense of accomplishment.
+* (2) It is a purpose of the Junior Reserve Officers' Training Corps to instill in students in United States secondary educational institutions the values of citizenship, service to the United States (including an introduction to service opportunities in military, national, and public service), and personal responsibility and a sense of accomplishment.
 
 * (b) No unit may be established or maintained at an institution unless—
 
@@ -11,7 +11,7 @@
 
   * (2) the institution has adequate facilities for classroom instruction, storage of arms and other equipment which may be furnished in support of the unit, and adequate drill areas at or in the immediate vicinity of the institution, as determined by the Secretary of the military department concerned;
 
-  * (3) the institution provides a course of military instruction of not less than three academic years' duration, as prescribed by the Secretary of the military department concerned;
+  * (3) the institution provides a course of military instruction of not less than three academic years' duration and which may include instruction or activities in the fields of science, technology, engineering, and mathematics, as prescribed by the Secretary of the military department concerned;
 
   * (4) the institution agrees to limit membership in the unit to students who maintain acceptable standards of academic achievement and conduct, as prescribed by the Secretary of the military department concerned; and
 
@@ -156,3 +156,66 @@
 * (c) FLEXIBILITY IN ALLOCATION AND USE OF TRAVEL FUNDING.—The Secretaries of the military departments shall take appropriate actions to provide so-called regional directors of the Junior Reserve Officers' Training Corps programs located at remote rural schools enhanced discretion in the allocation and use of funds for travel in connection with Junior Reserve Officers' Training Corps activities.
 
 * (d) STANDARDIZATION OF PROGRAM DATA.—The Secretary of Defense shall take appropriate actions to standardize the data collected and maintained on the Junior Reserve Officers' Training Corps programs in order to facilitate and enhance the collection and analysis of such data. Such actions shall include a requirement for the use of the National Center for Education Statistics (NCES) identification code for each school with a unit under a Junior Reserve Officers' Training Corps program in order to facilitate identification of such schools and their units under the Junior Reserve Officers' Training Corps programs.
+
+### §2036. Grants to support science, technology, engineering, and mathematics education
+* (a) AUTHORITY.—The Secretary, in consultation with the Secretary of Education, may carry out a program to make grants to eligible entities to assist such entities in providing education in covered subjects to students in the Junior Reserve Officers' Training Corps.
+
+* (b) COORDINATION.—In carrying out a program under subsection (a), the Secretary may coordinate with the following:
+
+  * (1) The Director of the National Science Foundation.
+
+  * (2) The Administrator of the National Aeronautics and Space Administration.
+
+  * (3) The heads of such other Federal, State, and local government entities the Secretary of Defense determines to be appropriate.
+
+
+* (c) ACTIVITIES.—Activities funded with grants under this section may include the following:
+
+  * (1) Training and other support for instructors to teach courses in covered subjects to students.
+
+  * (2) The acquisition of materials, hardware, and software necessary for the instruction of covered subjects.
+
+  * (3) Activities that improve the quality of educational materials, training opportunities, and curricula available to students and instructors in covered subjects.
+
+  * (4) Development of travel opportunities, demonstrations, mentoring programs, and informal education in covered subjects for students and instructors.
+
+  * (5) Students' pursuit of certifications in covered subjects.
+
+
+* (d) PREFERENCE.—In making any grants under this section, the Secretary shall give preference to eligible entities that are eligible for assistance under part A of title I of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6311 et seq.).
+
+* (e) EVALUATIONS.—In carrying out a program under this section, the Secretary shall establish outcome-based metrics and internal and external assessments to evaluate the merits and benefits of the activities funded with grants under this section with respect to the needs of the Department of Defense.
+
+* (f) AUTHORITIES.—In carrying out a program under this section, the Secretary shall, to the extent practicable, make use of the authorities under chapter 111 and sections 2601 and 2605 of this title, and other authorities the Secretary determines appropriate.
+
+* (g) DEFINITIONS.—In this section:
+
+  * (1) The term "eligible entity" means a local education agency that hosts a unit of the Junior Reserve Officers' Training Corps.
+
+  * (2) The term "covered subjects" means—
+
+    * (A) science;
+
+    * (B) technology;
+
+    * (C) engineering;
+
+    * (D) mathematics;
+
+    * (E) computer science;
+
+    * (F) computational thinking;
+
+    * (G) artificial intelligence;
+
+    * (H) machine learning;
+
+    * (I) data science;
+
+    * (J) cybersecurity;
+
+    * (K) robotics;
+
+    * (L) health sciences; and
+
+    * (M) other subjects determined by the Secretary of Defense to be related to science, technology, engineering, and mathematics.

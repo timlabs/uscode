@@ -5,134 +5,132 @@
 
 * (b) PURPOSES.—The purposes of the program are as follows:
 
-  * (1) To promote the national goals of assuring national security, advancing economic development, protecting quality of life, and strengthening science education and communication through improved knowledge of the ocean.
+  * (1) To promote the national goals of assuring national security, advancing economic development, protecting quality of life, ensuring environmental stewardship, and strengthening science education and communication through improved knowledge of the ocean.
 
   * (2) To coordinate and strengthen oceanographic efforts in support of those goals by—
 
-    * (A) identifying and carrying out partnerships among Federal agencies, academia, industry, and other members of the oceanographic scientific community in the areas of data, resources, education, and communication; and
+    * (A) creating and carrying out partnerships among Federal agencies, academia, industry, and other members of the oceanographic community in the areas of science, data, technology development, resources, education, and communication; and
 
-    * (B) reporting annually to Congress on the program.
+    * (B) accepting, planning, and executing oceanographic research projects funded by grants, contracts, cooperative agreements, or other vehicles as appropriate, that contribute to assuring national security, advancing economic development, protecting quality of life, ensuring environmental stewardship, and strengthening science education and communication through improved knowledge of the ocean.
 
-### §8932. National Ocean Research Leadership Council
-* (a) COUNCIL.—There is a National Ocean Research Leadership Council (hereinafter in this chapter referred to as the "Council").
+### §8932. Ocean Policy Committee
+* (a) COMMITTEE.—There is established an Ocean Policy Committee (hereinafter referred to as the "Committee"). The Committee shall retain broad and inclusive membership.
 
-* (b) MEMBERSHIP.—The Council is composed of the following members:
+* (b) RESPONSIBILITIES.—The Committee shall—
 
-  * (1) The Secretary of the Navy.
+  * (1) continue the activities of that Committee as it was in existence on the day before the date of the enactment of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021;
 
-  * (2) The Administrator of the National Oceanic and Atmospheric Administration.
+  * (2) engage and collaborate, pursuant to existing laws and regulations, with stakeholders, including regional ocean partnerships, to address ocean-related matters that may require interagency or intergovernmental solutions;
 
-  * (3) The Director of the National Science Foundation.
+  * (3) facilitate coordination and integration of Federal activities in ocean and coastal waters to inform ocean policy and identify priority ocean research, technology, and data needs; and
 
-  * (4) The Administrator of the National Aeronautics and Space Administration.
+  * (4) prescribe policies and procedures to implement the National Oceanographic Partnership Program, including developing guidelines for review, selection, identification, and approval of partnership projects, in conjunction with Federal agencies participating in the program, for implementation under the program, based on—
 
-  * (5) The Deputy Secretary of Energy.
+    * (A) whether the project addresses important research objectives or operational goals;
 
-  * (6) The Administrator of the Environmental Protection Agency.
+    * (B) whether the project has, or is designed to have, appropriate participation or support from public, academic, commercial, and private entities within the oceanographic community;
 
-  * (7) The Commandant of the Coast Guard.
+    * (C) whether the partners have a long-term commitment to the objectives of the project;
 
-  * (8) The Director of the United States Geological Survey of the Department of the Interior.
+    * (D) whether the resources supporting the project are shared among the partners;
 
-  * (9) The Director of the Defense Advanced Research Projects Agency.
+    * (E) whether the project has been subjected to adequate scientific and technical merit review according to each participating agency; and
 
-  * (10) The Director of the Minerals Management Service of the Department of the Interior.
-
-  * (11) The Director of the Office of Science and Technology.
-
-  * (12) The Director of the Office of Management and Budget.
-
-  * (13) The Under Secretary for Science and Technology of the Department of Homeland Security.
-
-  * (14) Other Federal officials the Council considers appropriate.
+    * (F) the approval of such guidelines by a consensus of the members of the Committee.
 
 
-* (c) CHAIRMAN AND VICE CHAIRMAN.—(1) Except as provided in paragraph (2), the chairman and vice chairman of the Council shall be appointed every two years by a selection committee of the Council composed of, at a minimum, the Secretary of the Navy, the Administrator of the National Oceanic and Atmospheric Administration, and the Director of the National Science Foundation. The term of office of the chairman and vice chairman shall be two years. A person who has previously served as chairman or vice chairman may be reappointed.
+* (c) DELEGATION OF RESPONSIBILITIES.—In discharging its responsibilities in support of agreed-upon scientific needs, and to assist in the execution of the responsibilities described in subsection (b), the Committee may delegate responsibilities to a subcommittee of the Committee, as the Committee determines appropriate.
 
-* (2) The first chairman of the Council shall be the Secretary of the Navy. The first vice chairman of the Council shall be the Administrator of the National Oceanic and Atmospheric Administration.
+* (d) ANNUAL REPORT AND BRIEFING.—(1) Not later than March 1 of each year, the Committee shall—
 
-* (d) RESPONSIBILITIES.—The Council shall have the following responsibilities:
+  * (A) make publicly available on an appropriate website a report on the National Oceanographic Partnership Program; and
 
-  * (1) To prescribe policies and procedures to implement the National Oceanographic Partnership Program.
-
-  * (2) To review, select, and identify and allocate funds for partnership projects for implementation under the program, based on the following criteria:
-
-    * (A) Whether the project addresses critical research objectives or operational goals, such as data accessibility and quality assurance, sharing of resources, education, or communication.
-
-    * (B) Whether the project has, or is designed to have, broad participation within the oceanographic community.
-
-    * (C) Whether the partners have a long-term commitment to the objectives of the project.
-
-    * (D) Whether the resources supporting the project are shared among the partners.
-
-    * (E) Whether the project has been subjected to adequate peer review.
+  * (B) provide to the appropriate congressional committees a briefing on the contents of the report.
 
 
-  * (3) To assess whether there is a need for a facility (or facilities) to provide national centralization of oceanographic data, and to establish such a facility or facilities if determined necessary. In conducting the assessment, the Council shall review, at a minimum, the following:
+* (2) Not later than 30 days after providing a briefing under paragraph (1)(B), the Committee shall make publicly available on an appropriate website the briefing materials covered by the briefing.
 
-    * (A) The need for a national oceanographic data center.
+* (3) Each report and briefing shall include the following:
 
-    * (B) The need for a national coastal data center.
+  * (A) A description of activities of the National Oceanographic Partnership Program carried out during the fiscal year preceding the fiscal year during which the report is published.
 
-    * (C) Accessibility by potential users of such centers.
+  * (B) A general outline of the activities planned for the program during the fiscal year during which the report is published.
 
-    * (D) Preexisting facilities and expertise.
+  * (C) A summary of projects, partnerships, and collaborations, including the Federal and non-Federal sources of funding, continued from the fiscal year preceding the fiscal year during which the report is published and projects expected to begin during the fiscal year during which the report is published and any subsequent fiscal year, as required under subsection (e)(4)(C).
 
+  * (D) The amounts requested in the budget submitted to Congress pursuant to section 1105(a) of title 31 for the fiscal year following the fiscal year during which the report is published, for the programs, projects, activities and the estimated expenditures under such programs, projects, and activities, to execute the National Oceanographic Partnership Program.
 
-* (e) ANNUAL REPORT.—Not later than March 1 of each year, the Council shall submit to Congress a report on the National Oceanographic Partnership Program. The report shall contain the following:
+  * (E) A summary of national ocean research priorities informed by the Ocean Research Advisory Panel, as required under section 8933(b)(4) of this title.
 
-  * (1) A description of activities of the program carried out during the fiscal year before the fiscal year in which the report is prepared, together with a list of the members of the Ocean Research Advisory Panel and any working groups in existence during the fiscal year covered.
-
-  * (2) A general outline of the activities planned for the program during the fiscal year in which the report is prepared.
-
-  * (3) A summary of projects continued from the fiscal year before the fiscal year in which the report is prepared and projects expected to be started during the fiscal year in which the report is prepared and during the following fiscal year.
-
-  * (4) A description of the involvement of the program with Federal interagency coordinating entities.
-
-  * (5) The amounts requested, in the budget submitted to Congress pursuant to section 1105(a) of title 31 for the fiscal year following the fiscal year in which the report is prepared, for the programs, projects, and activities of the program and the estimated expenditures under such programs, projects, and activities during such following fiscal year.
+  * (F) A list of the members of the Ocean Research Advisory Panel established under section 8933(a) of this title and any working groups described in subsection (e)(4)(A) in existence during the fiscal years covered by the report.
 
 
-* (f) PARTNERSHIP PROGRAM OFFICE.—(1) The Council shall establish a partnership program office for the National Oceanographic Partnership Program. The Council shall use competitive procedures in selecting an operator for the partnership program office.
+* (e) PARTNERSHIP PROGRAM OFFICE.—(1) The Secretary of the Navy and Administrator of the National Oceanic and Atmospheric Administration shall jointly establish a partnership program office for the National Oceanographic Partnership Program.
 
-* (2) The Council shall assign the following duties to the partnership program office:
+* (2) The Secretary of the Navy and Administrator of the National Oceanic and Atmospheric Administration shall use competitive procedures to select a non-Government entity to manage the partnership program office.
 
-  * (A) To establish and oversee working groups to propose partnership projects to the Council and advise the Council on such projects.
+* (3) The Committee shall monitor the management of the partnership program office.
 
-  * (B) To manage the process for proposing partnership projects to the Council, including managing peer review of such projects.
+* (4) The partnership program office shall perform the following duties:
 
-  * (C) To submit to the Council an annual report on the status of all partnership projects and activities of the office.
+  * (A) Supporting working groups established by the Committee or subcommittee and reporting to the Committee and to any Federal agency that has contributed amounts to the National Oceanographic Partnership Program on the activities of such working groups, including the proposals of such working groups for partnership projects.
 
-  * (D) Any additional duties for the administration of the National Oceanographic Partnership Program that the Council considers appropriate.
+  * (B) Supporting the process for proposing partnership projects to the Committee and to the agencies referred to in subparagraph (A), including, where appropriate, managing review of such projects.
+
+  * (C) Submitting to the appropriate congressional committees, and making publicly available, an annual report on the status of all partnership projects, including the Federal and non-Federal sources of funding for each project, and activities of the office.
+
+  * (D) Performing such additional duties for the administration of the National Oceanographic Partnership Program that the Committee and the agencies referred to in subparagraph (A) consider appropriate.
 
 
-* (3) The Council shall supervise the performance of duties by the partnership program office.
+* (f) CONTRACT AND GRANT AUTHORITY.—The Committee may authorize one or more of the departments or agencies represented on the Committee to enter into contracts and make grants, using funds appropriated pursuant to an authorization of appropriations for the National Oceanographic Partnership Program, for the purpose of implementing the program and carrying out the responsibilities of the Committee.
 
-* (g) CONTRACT AND GRANT AUTHORITY.—The Council may authorize one or more of the departments or agencies represented on the Council to enter into contracts and make grants, using funds appropriated pursuant to an authorization of appropriations for the National Oceanographic Partnership Program, for the purpose of implementing the program and carrying out the responsibilities of the Council.
-
-* (h) ESTABLISHMENT AND FORMS OF PARTNERSHIP PROJECTS.—(1) A partnership project under the National Oceanographic Partnership Program may be established by any instrument that the Council considers appropriate, including a memorandum of understanding, a cooperative research and development agreement, and any similar instrument.
+* (g) ESTABLISHMENT AND FORMS OF PARTNERSHIP PROJECTS.—(1) A partnership project under the National Oceanographic Partnership Program may be established by any instrument that the Committee considers appropriate, including a memorandum of understanding, a cooperative research and development agreement, and any similar instrument.
 
 * (2) Projects under the program may include demonstration projects.
 
+* (h) APPROPRIATE CONGRESSIONAL COMMITTEES.—In this section, the term "appropriate congressional committees" means—
+
+  * (1) the Committee on Commerce, Science, and Transportation of the Senate;
+
+  * (2) the Committee on Armed Services of the Senate;
+
+  * (3) the Committee on Appropriations of the Senate;
+
+  * (4) the Committee on Natural Resources of the House of Representatives;
+
+  * (5) the Committee on Science, Space, and Technology of the House of Representatives;
+
+  * (6) the Committee on Armed Services of the House of Representatives; and
+
+  * (7) the Committee on Appropriations of the House of Representatives.
+
 ### §8933. Ocean Research Advisory Panel
-* (a) ESTABLISHMENT.—The Council shall establish an Ocean Research Advisory Panel consisting of not less than 10 and not more than 18 members appointed by the chairman, including the following:
+* (a) ESTABLISHMENT.—(1) The Ocean Policy Committee shall establish an Ocean Research Advisory Panel (in this section referred to as the "Advisory Panel"). The Advisory Panel shall consist of not fewer than 10 and not more than 18 members appointed by the co-chairs of the Committee, including each of the following:
 
-  * (1) One member who will represent the National Academy of Sciences.
+  * (A) Three members who represent the National Academies of Sciences, Engineering, and Medicine.
 
-  * (2) One member who will represent the National Academy of Engineering.
+  * (B) Members selected from among individuals who represent the views of ocean industries, State, tribal, territorial or local governments, academia, and such other views as the co-chairs consider appropriate.
 
-  * (3) One member who will represent the Institute of Medicine.
-
-  * (4) Members selected from among individuals who will represent the views of ocean industries, State governments, academia, and such other views as the chairman considers appropriate.
-
-  * (5) Members selected from among individuals eminent in the fields of marine science or marine policy, or related fields.
+  * (C) Members selected from among individuals eminent in the fields of marine science, marine technology, and marine policy, or related fields.
 
 
-* (b) RESPONSIBILITIES.—The Council shall assign the following responsibilities to the Advisory Panel:
+* (2) The Committee shall ensure that an appropriate balance of academic, scientific, industry, and geographical interests and gender and racial diversity are represented by the members of the Advisory Panel.
 
-  * (1) To advise the Council on policies and procedures to implement the National Oceanographic Partnership Program.
+* (b) RESPONSIBILITIES.—The Committee shall assign the following responsibilities to the Advisory Panel:
 
-  * (2) To advise the Council on selection of partnership projects and allocation of funds for partnership projects for implementation under the program.
+  * (1) To advise the Committee on policies and procedures to implement the National Oceanographic Partnership Program.
 
-  * (3) To advise the Council on matters relating to national oceanographic data requirements.
+  * (2) To advise the Committee on matters relating to national oceanographic science, engineering, facilities, or resource requirements.
 
-  * (4) Any additional responsibilities that the Council considers appropriate.
+  * (3) To advise the Committee on improving diversity, equity, and inclusion in the ocean sciences and related fields.
+
+  * (4) To advise the Committee on national ocean research priorities.
+
+  * (5) Any additional responsibilities that the Committee considers appropriate.
+
+
+* (c) MEETINGS.—The Committee shall require the Advisory Panel to meet not less frequently than two times each year.
+
+* (d) ADMINISTRATIVE AND TECHNICAL SUPPORT.—The Administrator of the National Oceanic and Atmospheric Administration shall provide to the Advisory Panel such administrative and technical support as the Advisory Panel may require.
+
+* (e) TERMINATION.—Notwithstanding section 14 of the Federal Advisory Committee Act (5 U.S.C. App.), the Advisory Panel shall terminate on January 1, 2040.

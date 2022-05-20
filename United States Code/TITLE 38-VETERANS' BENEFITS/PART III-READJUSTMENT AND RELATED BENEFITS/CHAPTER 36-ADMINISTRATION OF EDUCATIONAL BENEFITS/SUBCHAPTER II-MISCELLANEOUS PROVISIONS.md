@@ -18,7 +18,7 @@
 
   * (A) during periods when educational institutions are temporarily closed under an established policy based on an Executive order of the President or due to an emergency situation, except that the total number of weeks for which allowances may continue to be so payable in any 12-month period may not exceed 4 weeks; or
 
-  * (B) solely for the purpose of awarding a monthly housing stipend described in section 3313 of this title, during periods following a permanent closure of an educational institution, or following the disapproval of a course of study described in section 3699(b)(1)(B) of this title, except that payment of such a stipend may only be continued until the earlier of—
+  * (B) solely for the purpose of awarding a monthly housing stipend described in section 3313 of this title or a subsistence allowance described in section 3108, during periods following a permanent closure of an educational institution, or following the disapproval of a course of study described in section 3699(b)(1)(B) of this title, except that payment of such a stipend or allowance may only be continued until the earlier of—
 
     * (i) the date of the end of the term, quarter, or semester during which the closure or disapproval occurred; and
 
@@ -235,9 +235,27 @@
 * (c) For purposes of this section, the term "matching program" has the same meaning provided in section 552a(a)(8) of title 5.
 
 ### §3685. Overpayments to eligible persons or veterans
-* (a) Whenever the Secretary finds that an overpayment has been made to a veteran or eligible person, the amount of such overpayment shall constitute a liability of such veteran or eligible person to the United States.
+* (a) Whenever the Secretary finds that an overpayment has been made to a veteran or eligible person relating to educational assistance under a law administered by the Secretary, the amount of such overpayment shall constitute a liability of such veteran or eligible person to the United States.
 
-* (b) Whenever the Secretary finds that an overpayment has been made to a veteran or eligible person as the result of (1) the willful or negligent failure of an educational institution to report, as required under this chapter or chapter 34 or 35 of this title, to the Department of Veterans Affairs excessive absences from a course, or discontinuance or interruption of a course by the veteran or eligible person, or (2) the willful or negligent false certification by an educational institution, the amount of such overpayment shall constitute a liability of the educational institution to the United States.
+* (b) Any overpayment to a veteran or eligible person with respect to pursuit by the veteran or eligible person of a program of education at an educational institution shall constitute a liability of the educational institution to the United States if—
+
+  * (1) the Secretary finds that the overpayment has been made as the result of—
+
+    * (A) the willful or negligent failure of an educational institution to report, as required under this chapter or chapter 34 or 35 of this title, to the Department of Veterans Affairs excessive absences from a course, or discontinuance or interruption of a course by the veteran or eligible person; or
+
+    * (B) the willful or negligent false certification by an educational institution; or
+
+
+  * (2) the benefit payment sent to an educational institution on behalf of an eligible veteran or person is made pursuant to—
+
+    * (A) section 3313(h) of this title;
+
+    * (B) section 3317 of this title; or
+
+    * (C) section 3680(d) of this title; or
+
+    * (D) section 3320(d) of this title.
+
 
 * (c) Any overpayment referred to in subsection (a) or (b) of this section may be recovered, except as otherwise provided in the last sentence of section 3684(c) of this title, in the same manner as any other debt due the United States.
 
@@ -658,7 +676,7 @@
   * (2) be counted against the aggregate period for which section 3695 of this title limits the receipt of educational assistance by such individual.
 
 
-* (b) EDUCATIONAL ASSISTANCE DESCRIBED.—Subject to subsection (c), the payment of educational assistance described in this subsection is the payment of such assistance to an individual for pursuit of a course or program of education at an educational institution under chapter 30, 32, 33, or 35 of this title, or chapter 1606 or 1607 of title 10, if the Secretary determines that the individual—
+* (b) EDUCATIONAL ASSISTANCE DESCRIBED.—Subject to subsection (c), the payment of educational assistance described in this subsection is the payment of such assistance to an individual for pursuit of a course or program of education at an educational institution under chapter 30, 31, 32, 33, or 35 of this title, or chapter 1606 or 1607 of title 10, if the Secretary determines that the individual—
 
   * (1) was unable to complete such course or program as a result of—
 
@@ -688,9 +706,9 @@
   * (B) continuing pursuing such course is in the best interest of the individual.
 
 
-* (2) An individual described in this paragraph is an individual who is pursuing a course of education at an educational institution under chapter 30, 32, 33, or 35 of this title, or chapter 1606 or 1607 of title 10, as of the date on which the course is disapproved under this chapter.
+* (2) An individual described in this paragraph is an individual who is pursuing a course of education at an educational institution under chapter 30, 31, 32, 33, or 35 of this title, or chapter 1606 or 1607 of title 10, as of the date on which the course is disapproved under this chapter.
 
-* (e) NOTICE OF CLOSURES.—Not later than 5 business days after the date on which the Secretary receives notice that an educational institution will close or is closed, the Secretary shall provide to each individual who is enrolled in a course or program or education at such educational institution using entitlement to educational assistance under chapter 30, 32, 33, or 35 of this title, or chapter 1606 or 1607 of title 10, notice of—
+* (e) NOTICE OF CLOSURES.—Not later than 5 business days after the date on which the Secretary receives notice that an educational institution will close or is closed, the Secretary shall provide to each individual who is enrolled in a course or program or education at such educational institution using entitlement to educational assistance under chapter 30, 31, 32, 33, or 35 of this title, or chapter 1606 or 1607 of title 10, notice of—
 
   * (1) such closure and the date of such closure; and
 
@@ -700,3 +718,8 @@
 * (a) IN GENERAL.—For each veteran or other individual pursuing a course of education that has been approved under this chapter using educational assistance to which the veteran or other individual is entitled under chapter 30, 32, 33, or 35 of this title, the Secretary shall make available to the educational institution offering the course information about the amount of such educational assistance to which the veteran or other individual is entitled. Such information shall be provided to such educational institution through a secure information technology system accessible by the educational institution and shall be regularly updated to reflect any amounts used by the veteran or other individual.
 
 * (b) ELECTION.—A veteran or other individual pursuing a course of education described in subsection (a) may elect not to provide the information described in such subsection to an educational institution in a manner prescribed by the Secretary.
+
+### §3699B. Treatment of certain for-profit educational institutions
+* (a) IN GENERAL.—In the case of any for-profit educational institution that is converted to a nonprofit educational institution, the State approving agency or the Secretary when acting as a State approving agency shall conduct annual risk-based surveys of the institution during the three-year period beginning on the date on which the educational institution is so converted.
+
+* (b) RISK-BASED SURVEY DEFINED.—In this section, the term "risk-based survey" means the risk-based survey developed under section 3673A of this title.

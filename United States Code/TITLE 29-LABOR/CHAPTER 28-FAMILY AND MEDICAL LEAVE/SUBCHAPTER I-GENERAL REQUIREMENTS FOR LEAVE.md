@@ -43,7 +43,7 @@
         * (II) for an employee described in clause (i) who is on reserve status, the number of hours for which an employer has agreed to pay such employee on reserve status for any given month,
 
 
-  * &nbsp;as established in the applicable collective barto gaining agreement or, if none exists, in the employer's policies.
+  * &nbsp;as established in the applicable collective bargaining agreement or, if none exists, in the employer's policies.
 
   * #### (E) GAO employees
     * In the case of an employee of the Government Accountability Office, the requirements of subparagraph (A) shall not apply with respect to leave under section 2612(a)(1)(A) or (B) of this title.
@@ -159,6 +159,8 @@
 
     * (E) Because of any qualifying exigency (as the Secretary shall, by regulation, determine) arising out of the fact that the spouse, or a son, daughter, or parent of the employee is on covered active duty (or has been notified of an impending call or order to covered active duty) in the Armed Forces.
 
+    * (F) During the period beginning on the date the Emergency Family and Medical Leave Expansion Act takes effect, and ending on December 31, 2020, because of a qualifying need related to a public health emergency in accordance with section 2620 of this title.
+
 * #### (2) Expiration of entitlement
   * The entitlement to leave under subparagraphs (A) and (B) of paragraph (1) for a birth or placement of a son or daughter shall expire at the end of the 12-month period beginning on the date of such birth or placement.
 
@@ -183,7 +185,7 @@
     * (B) better accommodates recurring periods of leave than the regular employment position of the employee.
 
 #### (c) Unpaid leave permitted
-* Except as provided in subsection (d), leave granted under subsection (a) may consist of unpaid leave. Where an employee is otherwise exempt under regulations issued by the Secretary pursuant to section 213(a)(1) of this title, the compliance of an employer with this subchapter by providing unpaid leave shall not affect the exempt status of the employee under such section.
+* Except as provided in subsection (d), leave granted under subsection (a) (other than certain periods of leave under subsection (a)(1)(F)) may consist of unpaid leave. Where an employee is otherwise exempt under regulations issued by the Secretary pursuant to section 213(a)(1) of this title, the compliance of an employer with this subchapter by providing unpaid leave shall not affect the exempt status of the employee under such section.
 
 #### (d) Relationship to paid leave
 * #### (1) Unpaid leave
@@ -543,3 +545,110 @@
 
 #### (b) Penalty
 * Any employer that willfully violates this section may be assessed a civil money penalty not to exceed $100 for each separate offense.
+
+### §2620. Public health emergency leave
+#### (a) Definitions
+* The following shall apply with respect to leave under section 2612(a)(1)(F) of this title:
+
+* #### (1) Application of certain terms
+  * The definitions in section 2611 of this title shall apply, except as follows:
+
+  * #### (A) Eligible employee
+    * #### (i) In general
+      * In lieu of the definition in sections 2611(2)(A) and 2611(2)(B)(ii) of this title, the term "eligible employee" means an employee who has been employed for at least 30 calendar days by the employer with respect to whom leave is requested under section 2612(a)(1)(F) of this title.
+
+    * #### (ii) Rule regarding rehired employees
+      * For purposes of clause (i), the term "employed for at least 30 calendar days", used with respect to an employee and an employer described in clause (i), includes an employee who was laid off by that employer not earlier than March 1, 2020, had worked for the employer for not less than 30 of the last 60 calendar days prior to the employee's layoff, and was rehired by the employer.
+
+    * #### (ii) Special rule
+      * For purposes of applying section 2612(a)(1)(F) of this title and this section under the Congressional Accountability Act of 1995 [2 U.S.C. 1301 et seq.], in lieu of the definition in section 202(a)(2)(B) of that Act (2 U.S.C. 1312(a)(2)(B)), the term "eligible employee" means a covered employee (as defined in section 101 of that Act (2 U.S.C. 1301)) who has been employed for at least 30 calendar days by the employing office (as so defined) with respect to whom leave is requested under section 2612(a)(1)(F) of this title.
+
+  * #### (B) Employer threshold
+    * Section 2611(4)(A)(i) of this title shall be applied by substituting "fewer than 500 employees" for "50 or more employees for each working day during each of 20 or more calendar workweeks in the current or preceding calendar year".
+
+* #### (2) Additional definitions
+  * In addition to the definitions described in paragraph (1), the following definitions shall apply with respect to leave under section 2612(a)(1)(F) of this title:
+
+  * #### (A) Qualifying need related to a public health emergency
+    * The term "qualifying need related to a public health emergency", with respect to leave, means the employee is unable to work (or telework) due to a need for leave to care for the son or daughter under 18 years of age of such employee if the school or place of care has been closed, or the child care provider of such son or daughter is unavailable, due to a public health emergency.
+
+  * #### (B) Public health emergency
+    * The term "public health emergency" means an emergency with respect to COVID–19 declared by a Federal, State, or local authority.
+
+  * #### (C) Child care provider
+    * The term "child care provider" means a provider who receives compensation for providing child care services on a regular basis, including an "eligible child care provider" (as defined in section 9858n of title 42).
+
+  * #### (D) School
+    * The term "school" means an "elementary school" or "secondary school" as such terms are defined in section 7801 of title 20.
+
+* #### (3) Regulatory authorities
+  * The Secretary of Labor shall have the authority to issue regulations for good cause under sections 553(b)(B) and 553(d)(3) of title 5—
+
+    * (A) to exclude certain health care providers and emergency responders from the definition of eligible employee under subsection (a)(1)(A);
+
+    * (B) to exempt small businesses with fewer than 50 employees from the requirements of section 2612(a)(1)(F) of this title when the imposition of such requirements would jeopardize the viability of the business as a going concern; and
+
+    * (C) as necessary to carry out the purposes of this Act, including to ensure consistency between this Act and Division E and Division G of the Families First Coronavirus Response Act.
+
+
+  * (4) The Director of the Office of Management and Budget shall have the authority to exclude for good cause from the requirements under subsection (b) certain employers of the United States Government with respect to certain categories of Executive Branch employees.
+
+#### (b) Relationship to paid leave
+* #### (1) Unpaid leave for initial 10 days
+  * #### (A) In general
+    * The first 10 days for which an employee takes leave under section 2612(a)(1)(F) of this title may consist of unpaid leave.
+
+  * #### (B) Employee election
+    * An employee may elect to substitute any accrued vacation leave, personal leave, or medical or sick leave for unpaid leave under section 2612(a)(1)(F) of this title in accordance with section 2612(d)(2)(B) of this title.
+
+* #### (2) Paid leave for subsequent days
+  * #### (A) In general
+    * An employer shall provide paid leave for each day of leave under section 2612(a)(1)(F) of this title that an employee takes after taking leave under such section for 10 days.
+
+  * #### (B) Calculation
+    * #### (i) In general
+      * Subject to clause (ii), paid leave under subparagraph (A) for an employee shall be calculated based on—
+
+        * (I) an amount that is not less than two-thirds of an employee's regular rate of pay (as determined under section 207(e) of this title); and
+
+        * (II) the number of hours the employee would otherwise be normally scheduled to work (or the number of hours calculated under subparagraph (C)).
+
+    * #### (ii) Limitation
+      * An employer shall not be required to pay more than $200 per day and $10,000 in the aggregate for each employee for paid leave under this section.
+
+  * #### (C) Varying schedule hours calculation
+    * In the case of an employee whose schedule varies from week to week to such an extent that an employer is unable to determine with certainty the number of hours the employee would have worked if such employee had not taken leave under section 2612(a)(1)(F) of this title, the employer shall use the following in place of such number:
+
+      * (i) Subject to clause (ii), a number equal to the average number of hours that the employee was scheduled per day over the 6-month period ending on the date on which the employee takes such leave, including hours for which the employee took leave of any type.
+
+      * (ii) If the employee did not work over such period, the reasonable expectation of the employee at the time of hiring of the average number of hours per day that the employee would normally be scheduled to work.
+
+#### (c) Notice
+* In any case where the necessity for leave under section 2612(a)(1)(F) of this title for the purpose described in subsection (a)(2)(A) is foreseeable, an employee shall provide the employer with such notice of leave as is practicable.
+
+#### (d) Restoration to position
+* #### (1) In general
+  * Section 2614(a)(1) of this title shall not apply with respect to an employee of an employer who employs fewer than 25 employees if the conditions described in paragraph (2) are met.
+
+* #### (2) Conditions
+  * The conditions described in this paragraph are the following:
+
+    * (A) The employee takes leave under section 2612(a)(1)(F) of this title.
+
+    * (B) The position held by the employee when the leave commenced does not exist due to economic conditions or other changes in operating conditions of the employer—
+
+      * (i) that affect employment; and
+
+      * (ii) are caused by a public health emergency during the period of leave.
+
+
+    * (C) The employer makes reasonable efforts to restore the employee to a position equivalent to the position the employee held when the leave commenced, with equivalent employment benefits, pay, and other terms and conditions of employment.
+
+    * (D) If the reasonable efforts of the employer under subparagraph (C) fail, the employer makes reasonable efforts during the period described in paragraph (3) to contact the employee if an equivalent position described in subparagraph (C) becomes available.
+
+* #### (3) Contact period
+  * The period described under this paragraph is the 1-year period beginning on the earlier of—
+
+    * (A) the date on which the qualifying need related to a public health emergency concludes; or
+
+    * (B) the date that is 12 weeks after the date on which the employee's leave under section 2612(a)(1)(F) of this title commences.

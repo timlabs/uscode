@@ -131,13 +131,15 @@
 
 * (c) MATTERS INCLUDED.—Travel and transportation allowances which may be provided under subsection (a) include the following:
 
-  * (1) Allowances for transportation, lodging, and meals.
+  * (1) Allowances for transportation (including fares and tolls, without regard to distance travelled), lodging, and meals.
 
   * (2) Dislocation or relocation allowances paid in connection with a change in a member's temporary or permanent duty assignment location.
 
   * (3) A partial dislocation allowance paid to a member ordered to occupy or vacate housing provided by the United States.
 
-  * (4) Other related miscellaneous expenses.
+  * (4) Passport and visa fees required for foreign travel.
+
+  * (5) Other related miscellaneous expenses.
 
 
 * (d) MODE OF PROVIDING TRAVEL AND TRANSPORTATION ALLOWANCES.—Any authorized travel and transportation may be provided—
@@ -186,6 +188,23 @@
 
 
 * (f) ATTENDANCE AT MEMORIAL CEREMONIES AND SERVICES.—A family member or member of the uniformed services who attends a deceased member's repatriation, burial, or memorial ceremony or service may be provided travel and transportation allowances to the extent provided in regulations prescribed under section 464 of this title.
+
+* (g) REIMBURSEMENT OF QUALIFYING SPOUSE RELICENSING COSTS INCIDENT TO A MEMBER'S PERMANENT CHANGE OF STATION OR ASSIGNMENT.—(1) From amounts otherwise made available for a fiscal year to provide travel and transportation allowances under this chapter, the Secretary concerned may reimburse a member of the uniformed services for qualified relicensing costs of the spouse of the member when—
+
+  * (A) the member is reassigned, either as a permanent change of station or permanent change of assignment, between duty stations located in separate jurisdictions with unique licensing or certification requirements and authorities; and
+
+  * (B) the movement of the member's dependents is authorized at the expense of the United States under this section as part of the reassignment.
+
+
+* (2) Reimbursement provided to a member under this subsection may not exceed $1000 in connection with each reassignment described in paragraph (1).
+
+* (3) No reimbursement may be provided under this subsection for qualified relicensing costs paid or incurred after December 31, 2024.
+
+* (4) In this subsection, the term "qualified relicensing costs" means costs, including exam, continuing education courses, and registration fees, incurred by the spouse of a member if—
+
+  * (A) the spouse was licensed or certified in a profession during the member's previous duty assignment and requires a new license or certification to engage in that profession in a new jurisdiction because of movement described in paragraph (1)(B) in connection with the member's change in duty location pursuant to reassignment described in paragraph (1)(A); and
+
+  * (B) the costs were incurred or paid to secure or maintain the license or certification from the new jurisdiction in connection with such reassignment.
 
 ### §454. Travel and transportation: pilot programs
 * (a) PILOT PROGRAMS.—Except as otherwise prohibited by law, the Secretary of Defense may conduct pilot programs to evaluate alternative travel and transportation programs, policies, and processes for Department of Defense authorized travelers. Any such pilot program shall be designed to enhance cost savings or other efficiencies that accrue to the Government and be conducted so as to evaluate one or more of the following:

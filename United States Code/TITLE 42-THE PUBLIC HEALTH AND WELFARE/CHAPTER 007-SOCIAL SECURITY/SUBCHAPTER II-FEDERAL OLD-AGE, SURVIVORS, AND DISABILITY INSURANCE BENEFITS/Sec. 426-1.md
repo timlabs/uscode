@@ -27,7 +27,7 @@
 
 * whichever first occurs (but no earlier than one year preceding the month of the filing of an application for benefits under this section); and
 
-  * (2) shall end, in the case of an individual who receives a kidney transplant, with the thirty-sixth month after the month in which such individual receives such transplant or, in the case of an individual who has not received a kidney transplant and no longer requires a regular course of dialysis, with the twelfth month after the month in which such course of dialysis is terminated.
+  * (2) shall end, in the case of an individual who receives a kidney transplant (except for eligibility for enrollment under part B solely for purposes of coverage of immunosuppressive drugs described in section 1395x(s)(2)(J) of this title), with the thirty-sixth month after the month in which such individual receives such transplant or, in the case of an individual who has not received a kidney transplant and no longer requires a regular course of dialysis, with the twelfth month after the month in which such course of dialysis is terminated.
 
 #### (c) Individuals participating in self-care dialysis training programs; kidney transplant failures; resumption of previously terminated regular course of dialysis
 * Notwithstanding the provisions of subsection (b)—

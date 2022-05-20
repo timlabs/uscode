@@ -36,9 +36,9 @@
 
 * (3) Geospatial intelligence provided in carrying out paragraphs (1) and (2) shall be timely, relevant, and accurate.
 
-* (b) NAVIGATION INFORMATION.—The National Geospatial-Intelligence Agency shall improve means of navigating vessels of the Navy and the merchant marine by providing, under the authority of the Secretary of Defense, accurate and inexpensive nautical charts, sailing directions, books on navigation, and manuals of instructions for the use of all vessels of the United States and of navigators generally.
+* (b) NAVIGATION INFORMATION.—The National Geospatial-Intelligence Agency shall improve the means for safe navigation by providing, under the authority of the Secretary of Defense, accurate geospatial information for use by the departments and agencies of the United States, the merchant marine, and navigators generally.
 
-* (c) MAPS, CHARTS, ETC.—The National Geospatial-Intelligence Agency shall prepare and distribute maps, charts, books, and geodetic products as authorized under subchapter II of this chapter.
+* (c) MAPS, CHARTS, ETC.—The National Geospatial-Intelligence Agency shall acquire, prepare, and distribute maps, safe-for-navigation charts and datasets, books, and geomatics products as authorized under subchapter II of this chapter.
 
 * (d) NATIONAL MISSIONS.—The National Geospatial-Intelligence Agency also has national missions as specified in section 110(a) of the National Security Act of 1947 (50 U.S.C. 3045(a)).
 
@@ -47,6 +47,9 @@
   * (1) the armed forces, including any combatant command, component of a combatant command, joint task force, or tactical unit; or
 
   * (2) any other department or agency of the United States.
+
+
+* (f) VALIDATION.—The National Geospatial-Intelligence Agency shall assist the Joint Chiefs of Staff, combatant commands, and the military departments in establishing, coordinating, consolidating, and validating mapping, charting, geomatics data, and safety of navigation capability requirements through a formal process governed by the Joint Staff. Consistent with validated requirements, the National Geospatial-Intelligence Agency shall provide aeronautical and nautical charts that are safe for navigation, maps, books, datasets, models, and geomatics products.
 
 ### §443. Imagery intelligence and geospatial information: support for foreign countries, regional organizations, and security alliances
 * (a) USE OF APPROPRIATED FUNDS.—The Director of the National Geospatial-Intelligence Agency may use appropriated funds available to the National Geospatial-Intelligence Agency to provide foreign countries, regional organizations with defense or security components, and security alliances of which the United States is a member with imagery intelligence and geospatial information support.

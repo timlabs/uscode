@@ -10,7 +10,7 @@
   * (b) to safeguard against destruction, loss, or injury from sabotage or other subversive acts, accidents, or other causes of similar nature, vessels, harbors, ports, and waterfront facilities in the United States and all territory and water, continental or insular, subject to the jurisdiction of the United States.
 
 
-* The President may delegate the authority to issue such rules and regulations to the Secretary. Any appropriation available to any of the Executive Departments shall be available to carry out the provisions of this subchapter.
+* The President may delegate the authority to issue such rules and regulations to the Secretary of the department in which the Coast Guard is operating. Any appropriation available to any of the Executive Departments shall be available to carry out the provisions of this subchapter.
 
 ### §70052. Seizure and forfeiture of vessel; fine and imprisonment
 * (a) IN GENERAL.—If any owner, agent, master, officer, or person in charge, or any member of the crew of any such vessel fails to comply with any regulation or rule issued or order given under the provisions of this subchapter, or obstructs or interferes with the exercise of any power conferred by this subchapter, the vessel, together with her tackle, apparel, furniture, and equipment, shall be subject to seizure and forfeiture to the United States in the same manner as merchandise is forfeited for violation of the customs revenue laws; and the person guilty of such failure, obstruction, or interference shall be punished by imprisonment for not more than ten years and may, in the discretion of the court, be fined not more than $10,000.
@@ -23,9 +23,9 @@
 
 * (e) WITHHOLDING OF CLEARANCE.—
 
-  * (1) IN GENERAL.—If any owner, agent, master, officer, or person in charge of a vessel is liable for a penalty or fine under subsection (c), or if reasonable cause exists to believe that the owner, agent, master, officer, or person in charge may be subject to a penalty or fine under this section, the Secretary may, with respect to such vessel, refuse or revoke any clearance required by section 4197 of the Revised Statutes of the United States (46 U.S.C. App. 91).
+  * (1) IN GENERAL.—If any owner, agent, master, officer, or person in charge of a vessel is liable for a penalty or fine under subsection (c), or if reasonable cause exists to believe that the owner, agent, master, officer, or person in charge may be subject to a penalty or fine under this section, the Secretary of the department in which the Coast Guard is operating may, with respect to such vessel, refuse or revoke any clearance required by section 4197 of the Revised Statutes of the United States (46 U.S.C. App. 91).
 
-  * (2) CLEARANCE UPON FILING OF BOND OR OTHER SURETY.—The Secretary may require the filing of a bond or other surety as a condition of granting clearance refused or revoked under this subsection.
+  * (2) CLEARANCE UPON FILING OF BOND OR OTHER SURETY.—The Secretary of the department in which the Coast Guard is operating may require the filing of a bond or other surety as a condition of granting clearance refused or revoked under this subsection.
 
 ### §70053. Enforcement provisions
 * The President may employ such departments, agencies, officers, or instrumentalities of the United States as he may deem necessary to carry out this subchapter.

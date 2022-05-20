@@ -1,20 +1,65 @@
 ### **CHAPTER 157—TRANSPORTATION**
 
-### §2631. Supplies: preference to United States vessels
-* (a) Only vessels of the United States or belonging to the United States may be used in the transportation by sea of supplies bought for the Army, Navy, Air Force, or Marine Corps or for a Defense Agency. However, if the President finds that the freight charged by those vessels is excessive or otherwise unreasonable, contracts for transportation may be made as otherwise provided by law. Charges made for the transportation of those supplies by those vessels may not be higher than the charges made for transporting like goods for private persons.
+### §2631. Preference for United States vessels in transporting supplies by sea
+* (a) IN GENERAL.—Supplies bought for the Army, Navy, Air Force, Marine Corps, or Space Force, or for a Defense Agency, or otherwise transported by the Department of Defense, may only be transported by sea in—
 
-* (b)(1) In each request for proposals to enter into a time-charter contract for the use of a vessel for the transportation of supplies under this section, the Secretary of Defense shall require that any reflagging or repair work on a vessel for which a proposal is submitted in response to the request for proposals be performed in the United States (including any territory of the United States).
+  * (1) a vessel belonging to the United States; or
 
-* (2) Before entering into a contract for the transportation by sea of fuel products under this section, the Secretary shall provide a minimum variance of three days on the shipment date.
-
-* (3) In paragraph (1), the term "reflagging or repair work" means work performed on a vessel—
-
-  * (A) to enable the vessel to meet applicable standards to become a vessel of the United States; or
-
-  * (B) to convert the vessel to a more useful military configuration.
+  * (2) a vessel of the United States (as such term is defined in section 116 of title 46).
 
 
-* (4) The Secretary of Defense may waive a requirement under paragraph (1) or (2) if the Secretary determines that such waiver is critical to the national security of the United States. The Secretary shall immediately notify the Congress of any such waiver and the reasons for such waiver.
+* (b) WAIVER AND NOTIFICATION.—(1) The Secretary of Defense may waive the requirement under subsection (a) if such a vessel is—
+
+  * (A) not available at a fair and reasonable rate for commercial vessels of the United States; or
+
+  * (B) otherwise not available.
+
+
+* (2) At least once each fiscal year, the Secretary of Defense shall submit, in writing, to the appropriate congressional committees a notice of any waiver granted under this subsection and the reasons for such waiver.
+
+* (c) REQUIREMENTS FOR REFLAGGING OR REPAIR WORK.—(1) In each request for proposals to enter into a time-charter contract for the use of a vessel for the transportation of supplies under this section, the Secretary of Defense shall require that—
+
+  * (A) any reflagging or repair work on a vessel for which a proposal is submitted in response to the request for proposals be performed in the United States (including any territory of the United States); and
+
+  * (B) any corrective and preventive maintenance or repair work on a vessel under contract pursuant to this section relevant to the purpose of such contract be performed in the United States (including any territory of the United States) for the duration of the contract, to the greatest extent practicable.
+
+
+* (2) The Secretary of Defense may waive a requirement under paragraph (1) if the Secretary determines that such waiver is critical to the national security of the United States. The Secretary shall immediately submit, in writing, to the appropriate congressional committees a notice of any waiver granted under this paragraph and the reasons for such waiver.
+
+* (3) In this subsection:
+
+  * (A) The term "reflagging or repair work" means work performed on a vessel—
+
+    * (i) to enable the vessel to meet applicable standards to become a vessel of the United States; or
+
+    * (ii) to convert the vessel to a more useful military configuration.
+
+
+  * (B) The term "corrective and preventive maintenance or repair" means—
+
+    * (i) maintenance or repair actions performed as a result of a failure in order to return or restore equipment to acceptable performance levels; and
+
+    * (ii) scheduled maintenance or repair actions to prevent or discover functional failures.
+
+
+* (d) COMPLIANCE.—The Secretary of Defense shall ensure that contracting officers of the Department of Defense award contracts under this section to responsible offerors and monitor and ensure compliance with the requirements of this section. The Secretary shall—
+
+  * (1) ensure that timely, accurate, and complete information on contractor performance under this section is included in any contractor past performance database used by an executive agency; and
+
+  * (2) exercise appropriate contractual rights and remedies against contractors who fail to comply with this section, or subchapter I of chapter 553 of title 46, as determined by the Secretary of Transportation under such subchapter, including by—
+
+    * (A) determining that a contractor is ineligible for an award of such a contract; or
+
+    * (B) terminating such a contract or suspension or debarment of the contractor for such contract.
+
+
+* (e) APPROPRIATE CONGRESSIONAL COMMITTEES DEFINED.—In this section, the term "appropriate congressional committees" means—
+
+  * (1) the Committees on Armed Services of the Senate and the House of Representatives;
+
+  * (2) the Committee on Transportation and Infrastructure of the House of Representatives; and
+
+  * (3) the Committee on Commerce, Science, and Transportation of the Senate.
 
 ### §2631a. Contingency planning: sealift and related intermodal transportation requirements
 * (a) CONSIDERATION OF PRIVATE CAPABILITIES.—The Secretary of Defense shall ensure that all studies and reports of the Department of Defense, and all actions taken in the Department of Defense, concerning sealift and related intermodal transportation requirements take into consideration the full range of the transportation and distribution capabilities that are available from operators of privately owned United States flag merchant vessels.
@@ -60,7 +105,7 @@
 
   * (2) maintain and operate that equipment by—
 
-    * (A) enlisted members of the Army, Navy, Air Force, Marine Corps, or the Coast Guard, as the case may be;
+    * (A) enlisted members of the Army, Navy, Air Force, Marine Corps, Space Force, or the Coast Guard, as the case may be;
 
     * (B) employees of the department concerned; and
 
@@ -207,7 +252,7 @@
 
   * (1) The terms "air carrier", "aircraft", "air transportation", and "charter air transportation" have the meanings given such terms by section 40102(a) of title 49.
 
-  * (2) The term "members of the armed forces" means members of the Army, Navy, Air Force, and Marine Corps.
+  * (2) The term "members of the armed forces" means members of the Army, Navy, Air Force, Marine Corps, and Space Force.
 
 ### §2641. Transportation of certain veterans on Department of Defense aeromedical evacuation aircraft
 * (a) The Secretary of Defense may provide transportation on an aircraft operating under the aeromedical evacuation system of the Department of Defense for the purpose of transporting a veteran to or from a Department of Veterans Affairs medical facility or of transporting the remains of a deceased veteran who died at such a facility after being transported to the facility under this subsection. Transportation of the remains of a deceased veteran under this subsection may be provided to the place from which the veteran was transported to the facility or to any other destination which is not farther away from the facility than such place.
@@ -252,7 +297,7 @@
 
   * (A) the basis for the determination;
 
-  * (B) any additional categories of individuals to be eligible for the travel program under subsection (c)(5);
+  * (B) any additional categories of individuals to be eligible for the travel program under subsection (c)(6);
 
   * (C) how the Secretary will ensure that the travel program is established and operated in compliance with the conditions specified in subsection (b); and
 

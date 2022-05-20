@@ -22,7 +22,7 @@
 
     * (iv) an employee of the Panama Canal Commission when employed on the Isthmus of Panama;
 
-    * (v) a physician, dentist, or nurse in the Veterans Health Administration of the Department of Veterans Affairs;
+    * (v) an employee of the Veterans Health Administration who is covered by a leave system established under section 7421 of title 38;
 
     * (vi) an employee of either House of Congress or of the two Houses;
 

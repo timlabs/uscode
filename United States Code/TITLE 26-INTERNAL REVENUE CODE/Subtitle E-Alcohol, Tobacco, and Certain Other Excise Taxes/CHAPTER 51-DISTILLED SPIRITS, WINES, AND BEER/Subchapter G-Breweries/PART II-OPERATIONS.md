@@ -9,34 +9,27 @@
 ### §5413. Brewers procuring beer from other brewers
 * A brewer, under such regulations as the Secretary shall prescribe, may obtain beer in his own hogsheads, barrels, and kegs, marked with his name and address, from another brewer, with taxpayment thereof to be by the producer in the manner prescribed by section 5054.
 
-### §5414. Removals from one brewery to another belonging to the same brewer
+### §5414. Transfer of beer between bonded facilities
 #### (a) In general
-* Beer may be removed from one brewery to another brewery belonging to the same brewer, without payment of tax, and may be mingled with beer at the receiving brewery, subject to such conditions, including payment of the tax, and in such containers, as the Secretary by regulations shall prescribe. The removal from one brewery to another brewery belonging to the same brewer shall be deemed to include any removal from a brewery owned by one corporation to a brewery owned by another corporation when (1) one such corporation owns the controlling interest in the other such corporation, or (2) the controlling interest in each such corporation is owned by the same person or persons.
+* Beer may be removed from one brewery to another brewery, without payment of tax, and may be mingled with beer at the receiving brewery, subject to such conditions, including payment of the tax, and in such containers, as the Secretary by regulations shall prescribe, which shall include—
 
-#### (b) Transfer of beer between bonded facilities
-* #### (1) In general
-  * Beer may be removed from one bonded brewery to another bonded brewery, without payment of tax, and may be mingled with beer at the receiving brewery, subject to such conditions, including payment of the tax, and in such containers, as the Secretary by regulations shall prescribe, which shall include—
+  * (1) any removal from one brewery to another brewery belonging to the same brewer,
 
-    * (A) any removal from one brewery to another brewery belonging to the same brewer,
+  * (2) any removal from a brewery owned by one corporation to a brewery owned by another corporation when—
 
-    * (B) any removal from a brewery owned by one corporation to a brewery owned by another corporation when—
+    * (A) one such corporation owns the controlling interest in the other such corporation, or
 
-      * (i) one such corporation owns the controlling interest in the other such corporation, or
-
-      * (ii) the controlling interest in each such corporation is owned by the same person or persons, and
+    * (B) the controlling interest in each such corporation is owned by the same person or persons, and
 
 
-    * (C) any removal from one brewery to another brewery when—
+  * (3) any removal from one brewery to another brewery when—
 
-      * (i) the proprietors of transferring and receiving premises are independent of each other and neither has a proprietary interest, directly or indirectly, in the business of the other, and
+    * (A) the proprietors of transferring and receiving premises are independent of each other and neither has a proprietary interest, directly or indirectly, in the business of the other, and
 
-      * (ii) the transferor has divested itself of all interest in the beer so transferred and the transferee has accepted responsibility for payment of the tax.
+    * (B) the transferor has divested itself of all interest in the beer so transferred and the transferee has accepted responsibility for payment of the tax.
 
-* #### (2) Transfer of liability for tax
-  * For purposes of paragraph (1)(C), such relief from liability shall be effective from the time of removal from the transferor's bonded premises, or from the time of divestment of interest, whichever is later.
-
-* #### (3) Termination
-  * This subsection shall not apply to any calendar quarter beginning after December 31, 2020.
+#### (b) Transfer of liability for tax
+* For purposes of subsection (a)(3), such relief from liability shall be effective from the time of removal from the transferor's premises, or from the time of divestment of interest, whichever is later.
 
 ### §5415. Records and returns
 #### (a) Records

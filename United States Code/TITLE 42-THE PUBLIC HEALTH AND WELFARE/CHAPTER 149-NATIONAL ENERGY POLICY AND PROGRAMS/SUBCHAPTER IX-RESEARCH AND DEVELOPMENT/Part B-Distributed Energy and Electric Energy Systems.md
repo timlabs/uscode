@@ -88,9 +88,13 @@
 
   * (9) the development and use of advanced grid design, operation, and planning tools;
 
-  * (10) any other infrastructure technologies, as appropriate; and
+  * (10) the development of cost-effective technologies that enable two-way information and power flow between distributed energy resources and the electric grid;
 
-  * (11) technology transfer and education.
+  * (11) the development of technologies and concepts that enable interoperability between distributed energy resources and other behind-the-meter devices and the electric grid;
+
+  * (12) any other infrastructure technologies, as appropriate; and
+
+  * (13) technology transfer and education.
 
 #### (b) Program plan
 * #### (1) In general

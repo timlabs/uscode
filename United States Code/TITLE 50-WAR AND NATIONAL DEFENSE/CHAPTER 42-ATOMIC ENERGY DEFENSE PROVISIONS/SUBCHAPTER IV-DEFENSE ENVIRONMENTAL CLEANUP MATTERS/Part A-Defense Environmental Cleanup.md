@@ -62,6 +62,8 @@
 
     * (C) For any milestone that will not be met, an explanation of why the milestone will not be met and the date by which the milestone is expected to be met.
 
+    * (D) For any milestone that has been missed, renegotiated, or postponed, a statement of the current milestone, the original milestone, and any interim milestones.
+
 #### (c) Sites specified
 * The sites specified in this subsection are the following:
 
@@ -163,3 +165,6 @@
   * (1) a specification of the cost of meeting such milestones during that fiscal year; and
 
   * (2) an estimate of the cost of meeting such milestones during the four fiscal years following that fiscal year.
+
+### §2591. Public statement of environmental liabilities
+* Each year, at the same time that the Department of Energy submits its annual financial report under section 3516 of title 31, the Secretary of Energy shall make available to the public a statement of environmental liabilities, as calculated for the most recent audited financial statement of the Department under section 3515 of that title, for each defense nuclear facility at which defense environmental cleanup activities are occurring.

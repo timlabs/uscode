@@ -357,7 +357,7 @@
 
 ### §1305. Pension benefit guaranty funds
 #### (a) Establishment of four revolving funds on books of Treasury of the United States
-* There are established on the books of the Treasury of the United States for revolving funds to be used by the corporation in carrying out its duties under this subchapter. One of the funds shall be used with respect to basic benefits guaranteed under section 1322 of this title, one of the funds shall be used with respect to basic benefits guaranteed under section 1322a of this title, one of the funds shall be used with respect to nonbasic benefits guaranteed under section 1322 of this title (if any), and the remaining fund shall be used with respect to nonbasic benefits guaranteed under section 1322a of this title (if any), other than subsection (g)(2) thereof (if any). Whenever in this subchapter reference is made to the term "fund" the reference shall be considered to refer to the appropriate fund established under this subsection.
+* There are established on the books of the Treasury of the United States four revolving funds to be used by the corporation in carrying out its duties under this subchapter. One of the funds shall be used with respect to basic benefits guaranteed under section 1322 of this title, one of the funds shall be used with respect to basic benefits guaranteed under section 1322a of this title, one of the funds shall be used with respect to nonbasic benefits guaranteed under section 1322 of this title (if any), and the remaining fund shall be used with respect to nonbasic benefits guaranteed under section 1322a of this title (if any), other than subsection (g)(2) thereof (if any). Whenever in this subchapter reference is made to the term "fund" the reference shall be considered to refer to the appropriate fund established under this subsection.
 
 #### (b) Credits to funds; availability of funds; investment of moneys in excess of current needs
 * (1) Each fund established under this section shall be credited with the appropriate portion of—
@@ -947,7 +947,7 @@
     * The term "at-risk status" has the meaning provided in section 1083(i)(4) of this title.
 
 * #### (3) Pension stabilization disregarded
-  * For purposes of this section, the segment rates used in determining the funding target and funding target attainment percentage shall be determined by not taking into account any adjustment under section 1082(h)(2)(C)(iv) of this title.
+  * For purposes of this section, the segment rates used in determining the funding target and funding target attainment percentage shall be determined by not taking into account any adjustment under section 1083(h)(2)(C)(iv) of this title.
 
 #### (e) Notice to Congress
 * The corporation shall, on an annual basis, submit to the Committee on Health, Education, Labor, and Pensions and the Committee on Finance of the Senate and the Committee on Education and the Workforce and the Committee on Ways and Means of the House of Representatives, a summary report in the aggregate of the information submitted to the corporation under this section.

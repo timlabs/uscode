@@ -307,7 +307,7 @@
 
 * (c) Notwithstanding the provisions of section 7425(a) of this title, a person appointed under section 7306 of this title who is not eligible for pay under subchapter III shall be deemed to be a career appointee for the purposes of sections 4507 and 5384 of title 5.
 
-* (d) Except as provided under subsection (e), subchapter III, and section 7457 of this title, pay for positions for which basic pay is paid under this section may not be paid at a rate in excess of the rate of basic pay authorized by section 5316 of title 5 for positions in Level V of the Executive Schedule.
+* (d) Except as provided under subsection (e), subchapter III, and section 7457 of this title, and except for individuals appointed under sections 7401(4) and 7306 of this title, pay for positions for which basic pay is paid under this section may not be paid at a rate in excess of the rate of basic pay authorized by section 5316 of title 5 for positions in Level V of the Executive Schedule.
 
 * (e) The position of Chief Nursing Officer, Office of Nursing Services, shall be exempt from the provisions of section 7451 of this title and shall be paid at a rate determined by the Secretary, not to exceed the maximum rate established for the Senior Executive Service under section 5382 of title 5.
 

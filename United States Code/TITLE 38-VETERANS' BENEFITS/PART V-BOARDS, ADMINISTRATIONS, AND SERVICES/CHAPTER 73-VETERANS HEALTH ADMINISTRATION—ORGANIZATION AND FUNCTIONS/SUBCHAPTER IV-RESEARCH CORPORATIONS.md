@@ -83,7 +83,7 @@
 
 * (3) Amounts reimbursed to the Office of General Counsel under paragraph (1)(D) shall be available for use by the Office of the General Counsel only for staff and training, and related travel, for the provision of legal services described in that paragraph and shall remain available for such use without fiscal year limitation.
 
-* (b) TRANSFER AND ADMINISTRATION OF FUNDS.—(1) Except as provided in paragraph (2), any funds received by the Secretary for the conduct of research or education at a Department medical center or centers, other than funds appropriated to the Department, may be transferred to and administered by a corporation established under this subchapter for such purposes.
+* (b) TRANSFER AND ADMINISTRATION OF FUNDS.—(1) Except as provided in paragraph (2), any funds received by the Secretary for the conduct of research or education at a Department medical center or centers, other than funds appropriated to the Department, may be transferred to and administered by a corporation established under this subchapter for such purposes. Any amounts so transferred after September 30, 2016, shall be available without regard to fiscal year limitations, notwithstanding section 1535(d) of title 31.
 
 * (2) A Department medical center may reimburse the corporation for all or a portion of the pay, benefits, or both of an employee of the corporation who is assigned to the Department medical center if the assignment is carried out pursuant to subchapter VI of chapter 33 of title 5.
 

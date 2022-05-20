@@ -5,7 +5,7 @@
 
   * (1) An adequate income in retirement in accordance with the American standard of living.
 
-  * (2) The best possible physical and mental health which science can make available and without regard to economic status.
+  * (2) The best possible physical and mental health (including access to person-centered, trauma-informed services as appropriate) which science can make available and without regard to economic status.
 
   * (3) Obtaining and maintaining suitable housing, independently selected, designed and located with reference to special needs and available at costs which older citizens can afford.
 
@@ -41,15 +41,15 @@
     * (D) providing, arranging for, or facilitating the provision of medical, social service, economic, legal, housing, law enforcement, or other protective, emergency, or support services.
 
 
-  * (4) The term "Aging and Disability Resource Center" means an entity, network, or consortium established by a State as part of the State system of long-term care, to provide a coordinated and integrated system for older individuals and individuals with disabilities (as defined in section 12102 of this title), and the caregivers of older individuals and individuals with disabilities, that provides—
+  * (4) The term "Aging and Disability Resource Center" means an entity, network, or consortium established by a State as part of the State system of long-term care, to provide a coordinated and integrated system for older individuals and individuals with disabilities (as defined in section 12102 of this title), and the caregivers of older individuals and individuals with disabilities, that provides, in collaboration with (as appropriate) area agencies on aging, centers for independent living (as described in part C of chapter 1 of title VII of the Rehabilitation Act of 1973 (29 U.S.C. 796f et seq.)), and other aging or disability entities—
 
     * (A) comprehensive information on the full range of available public and private long-term care programs, options, service providers, and resources within a community, including information on the availability of integrated long-term care services, and Federal or State programs that provide long-term care services and supports through home and community-based service programs;
 
-    * (B) person-centered counseling to assist individuals in assessing their existing or anticipated long-term care needs and goals, and developing and implementing a person-centered plan for long-term care that is consistent with the desires of such an individual and designed to meet the individual's specific needs, goals, and circumstances;
+    * (B) person-centered counseling to assist individuals in assessing their existing or anticipated long-term care needs and goals, and developing and implementing a person-centered plan for long-term services, supports, and care that is consistent with the desires and choices of such an individual and designed to meet the individual's specific needs, goals, and circumstances;
 
     * (C) access for individuals to the full range of publicly-supported long-term care services and supports for which the individuals may be eligible, including home and community-based service options, by serving as a convenient point of entry for such programs and supports; and
 
-    * (D) in cooperation with area agencies on aging, centers for independent living described in part C of title VII of the Rehabilitation Act of 1973 (29 U.S.C. 796f et seq.), and other community-based entities, information and referrals regarding available home and community-based services for individuals who are at risk for residing in, or who reside in, institutional settings, so that the individuals have the choice to remain in or to return to the community.
+    * (D) in cooperation with area agencies on aging, centers for independent living described in part C of chapter 1 of title VII of the Rehabilitation Act of 1973, and other community-based entities, including other aging or disability entities, information and referrals regarding available home and community-based services for individuals who are at risk for residing in, or who reside in, institutional settings, so that the individuals have the choice to remain in or to return to the community.
 
 
   * (5) The term "aging network" means the network of—
@@ -72,6 +72,8 @@
   * (8)(A) The term "assistive device" includes an assistive technology device.
 
   * (B) The terms "assistive technology", "assistive technology device", and "assistive technology service" have the meanings given such terms in section 3002 of title 29.
+
+  * (C) The term "State assistive technology entity" means the agency, office, or other entity designated under subsection (c)(1) of section 3003 of title 29 to carry out State activities under such section.
 
   * (9) The term "at risk for institutional placement" means, with respect to an older individual, that such individual is unable to perform at least 2 activities of daily living without substantial assistance (including verbal reminding, physical cuing, or supervision) and is determined by the State involved to be in need of placement in a long-term care facility.
 
@@ -117,11 +119,11 @@
 
     * (A) health risk assessments;
 
-    * (B) routine health screening, which may include hypertension, glaucoma, cholesterol, cancer, vision, hearing, diabetes, bone density, oral health, and nutrition screening;
+    * (B) routine health screening, which may include hypertension, glaucoma, cholesterol, cancer, vision, hearing, diabetes, bone density, oral health, immunization status, and nutrition screening (including screening for malnutrition);
 
     * (C) nutritional counseling and educational services for individuals and their primary caregivers;
 
-    * (D) evidence-based health promotion programs, including programs related to the prevention and mitigation of the effects of chronic disease (including osteoporosis, hypertension, obesity, diabetes, and cardiovascular disease), alcohol and substance abuse reduction, smoking cessation, weight loss and control, stress management, falls prevention, physical activity, and improved nutrition;
+    * (D) evidence-based health promotion programs, including programs related to the prevention and mitigation of the effects of chronic disease (including osteoporosis, hypertension, obesity, diabetes, and cardiovascular disease), infectious disease, and vaccine-preventable disease, prevention of sexually transmitted diseases, as well as alcohol and substance abuse reduction, chronic pain management, smoking cessation, weight loss and control, stress management, falls prevention, physical activity, and improved nutrition;
 
     * (E) programs regarding physical fitness, group exercise, and music therapy, art therapy, and dance-movement therapy, including programs for multigenerational participation that are provided by—
 
@@ -134,17 +136,23 @@
 
     * (F) home injury control services, including screening of high-risk home environments and provision of educational programs on injury prevention (including fall and fracture prevention) in the home environment;
 
-    * (G) screening for the prevention of depression, coordination of community mental and behavioral health services, provision of educational activities, and referral to psychiatric and psychological services;
+    * (G) screening for the prevention of depression and screening for suicide risk, coordination of community mental and behavioral health services, provision of educational activities, and referral to psychiatric and psychological services;
 
-    * (H) educational programs on the availability, benefits, and appropriate use of preventive health services covered under title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.);
+    * (H) screening for fall-related traumatic brain injury and other fall-related injuries, coordination of treatment, rehabilitation and related services, and referral services related to such injury or injuries;
 
-    * (I) medication management screening and education to prevent incorrect medication and adverse drug reactions;
+    * (I) educational programs on the availability, benefits, and appropriate use of preventive health services covered under title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.);
 
-    * (J) information concerning diagnosis, prevention, treatment, and rehabilitation concerning age-related diseases and chronic disabling conditions, including osteoporosis, cardiovascular diseases, diabetes, and Alzheimer's disease and related disorders with neurological and organic brain dysfunction;
+    * (J) medication management screening and education to prevent incorrect medication and adverse drug reactions;
 
-    * (K) gerontological counseling; and
+    * (K) information concerning diagnosis, prevention, treatment, and rehabilitation concerning age-related diseases and chronic disabling conditions, including osteoporosis, cardiovascular diseases, diabetes, and Alzheimer's disease and related disorders with neurological and organic brain dysfunction;
 
-    * (L) counseling regarding social services and followup health services based on any of the services described in subparagraphs (A) through (K).
+    * (L) services that are a part of responses to a public health emergency or emerging health threat;
+
+    * (M) gerontological counseling;
+
+    * (N) screening for the prevention of negative health effects associated with social isolation and coordination of supportive services and health care to address negative health effects associated with social isolation; and
+
+    * (O) counseling regarding social services and followup health services based on any of the services described in subparagraphs (A) through (N).
 
 
 * The term shall not include services for which payment may be made under titles XVIII and XIX of the Social Security Act (42 U.S.C. 1395 et seq., 1396 et seq.).
@@ -308,7 +316,7 @@
 
     * (B) any nursing facility, as defined in section 1919(a) of the Social Security Act (42 U.S.C. 1396r(a));
 
-    * (C) for purposes of sections 3027(a)(9) and 3058g of this title, a board and care facility; and
+    * (C) a board and care facility; and
 
     * (D) any other adult care home, including an assisted living facility, similar to a facility or institution described in subparagraphs (A) through (C).
 
@@ -317,7 +325,7 @@
 
   * (37) The term "Native American" means—
 
-    * (A) an Indian as defined in paragraph (5); and
+    * (A) an Indian as defined in paragraph (26); and
 
     * (B) a Native Hawaiian, as defined in section 3057k of this title.
 
@@ -333,17 +341,26 @@
 
   * (40) The term "older individual" means an individual who is 60 years of age or older.
 
-  * (41) The term "physical harm" means bodily injury, impairment, or disease.
+  * (41) The term "person-centered, trauma-informed", with respect to services, means services provided through an aging program that—
 
-  * (42) The term "planning and service area" means an area designated by a State agency under section 3025(a)(1)(E) of this title, including a single planning and service area described in section 3025(b)(5)(A) of this title.
+    * (A) use a holistic approach to providing services or care;
 
-  * (43) The term "poverty line" means the official poverty line (as defined by the Office of Management and Budget, and adjusted by the Secretary in accordance with section 9902(2) of this title.
+    * (B) promote the dignity, strength, and empowerment of victims of trauma; and
 
-  * (44) The term "representative payee" means a person who is appointed by a governmental entity to receive, on behalf of an older individual who is unable to manage funds by reason of a physical or mental incapacity, any funds owed to such individual by such entity.
+    * (C) incorporate evidence-based practices based on knowledge about the role of trauma in trauma victims' lives.
 
-  * (45) The term "Secretary" means the Secretary of Health and Human Services, except that for purposes of subchapter IX such term means the Secretary of Labor.
 
-  * (46) The term "self-directed care" means an approach to providing services (including programs, benefits, supports, and technology) under this chapter intended to assist an individual with activities of daily living, in which—
+  * (42) The term "physical harm" means bodily injury, impairment, or disease.
+
+  * (43) The term "planning and service area" means an area designated by a State agency under section 3025(a)(1)(E) of this title, including a single planning and service area described in section 3025(b)(5)(A) of this title.
+
+  * (44) The term "poverty line" means the official poverty line (as defined by the Office of Management and Budget, and adjusted by the Secretary in accordance with section 9902(2) of this title.
+
+  * (45) The term "representative payee" means a person who is appointed by a governmental entity to receive, on behalf of an older individual who is unable to manage funds by reason of a physical or mental incapacity, any funds owed to such individual by such entity.
+
+  * (46) The term "Secretary" means the Secretary of Health and Human Services, except that for purposes of subchapter IX such term means the Secretary of Labor.
+
+  * (47) The term "self-directed care" means an approach to providing services (including programs, benefits, supports, and technology) under this chapter intended to assist an individual with activities of daily living, in which—
 
     * (A) such services (including the amount, duration, scope, provider, and location of such services) are planned, budgeted, and purchased under the direction and control of such individual;
 
@@ -363,7 +380,7 @@
     * (E) the area agency on aging or State agency provides for oversight of such individual's self-directed receipt of services, including steps to ensure the quality of services provided and the appropriate use of funds under this chapter.
 
 
-  * (47) The term "self-neglect" means an adult's inability, due to physical or mental impairment or diminished capacity, to perform essential self-care tasks including—
+  * (48) The term "self-neglect" means an adult's inability, due to physical or mental impairment or diminished capacity, to perform essential self-care tasks including—
 
     * (A) obtaining essential food, clothing, shelter, and medical care;
 
@@ -372,24 +389,26 @@
     * (C) managing one's own financial affairs.
 
 
-  * (48) The term "severe disability" means a severe, chronic disability attributable to mental or physical impairment, or a combination of mental and physical impairments, that—
+  * (49) The term "severe disability" means a severe, chronic disability attributable to mental or physical impairment, or a combination of mental and physical impairments, that—
 
     * (A) is likely to continue indefinitely; and
 
     * (B) results in substantial functional limitation in 3 or more of the major life activities specified in subparagraphs (A) through (G) of paragraph (8).
 
 
-  * (49) The term "sexual assault" has the meaning given the term in section 10447 of title 34.
+  * (50) The term "sexual assault" has the meaning given the term in section 10447 of title 34.
 
-  * (50) The term "State" means any of the several States, the District of Columbia, the Virgin Islands of the United States, the Commonwealth of Puerto Rico, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
+  * (51) The term "State" means any of the several States, the District of Columbia, the Virgin Islands of the United States, the Commonwealth of Puerto Rico, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
-  * (51) The term "State agency" means the agency designated under section 3025(a)(1) of this title.
+  * (52) The term "State agency" means the agency designated under section 3025(a)(1) of this title.
 
-  * (52) The term "State system of long-term care" means the Federal, State, and local programs and activities administered by a State that provide, support, or facilitate access to long-term care for individuals in such State.
+  * (53) The term "State system of long-term care" means the Federal, State, and local programs and activities administered by a State that provide, support, or facilitate access to long-term care for individuals in such State.
 
-  * (53) The term "supportive service" means a service described in section 3030d(a) of this title.
+  * (54) The term "supportive service" means a service described in section 3030d(a) of this title.
 
-  * (54) Except for the purposes of subchapter X of this chapter, the term "tribal organization" means the recognized governing body of any Indian tribe, or any legally established organization of Indians which is controlled, sanctioned, or chartered by such governing body. In any case in which a contract is let or grant made to an organization to perform services benefiting more than one Indian tribe, the approval of each such Indian tribe shall be a prerequisite to the letting or making of such contract or grant.
+  * (55) The term "traumatic brain injury" has the meaning given such term in section 280b–1c(d) of this title.
+
+  * (56) Except for the purposes of subchapter X of this chapter, the term "tribal organization" means the recognized governing body of any Indian tribe, or any legally established organization of Indians which is controlled, sanctioned, or chartered by such governing body. In any case in which a contract is let or grant made to an organization to perform services benefiting more than one Indian tribe, the approval of each such Indian tribe shall be a prerequisite to the letting or making of such contract or grant.
 
 ### §3003. Congressional declaration of additional objectives
 * The Congress finds that millions of older citizens in this Nation are suffering unnecessary harm from the lack of adequate services. It is therefore the purpose of this Act, in support of the objectives of the Older Americans Act of 1965 [42 U.S.C. 3001 et seq.], to—

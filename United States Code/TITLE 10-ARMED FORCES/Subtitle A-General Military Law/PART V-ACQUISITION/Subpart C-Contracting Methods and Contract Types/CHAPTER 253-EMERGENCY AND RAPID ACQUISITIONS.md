@@ -1,4 +1,0 @@
-### **CHAPTER 253—EMERGENCY AND RAPID ACQUISITIONS**
-
-### §3601. [Reserved]
-* [Reserved]

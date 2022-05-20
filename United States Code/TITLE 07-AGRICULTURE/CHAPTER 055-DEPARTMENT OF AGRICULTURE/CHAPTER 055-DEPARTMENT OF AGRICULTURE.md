@@ -742,6 +742,22 @@
 * #### (2) Food assistance
   * A debarment under subsection (a) shall not apply with respect to participation in domestic food assistance programs (as defined by the Secretary).
 
+### §2209k. Prohibition on payments to fossil fuel refiners and importers
+#### (a) In general
+* The Secretary of Agriculture may not use any funds, facilities, or authorities of the Commodity Credit Corporation or the Department of Agriculture—
+
+  * (1) to provide a payment to a refiner or importer (as those terms are defined in section 80.2 of title 40, Code of Federal Regulations (or successor regulations)); or
+
+  * (2) to otherwise support, directly or indirectly, a refiner or importer (as so defined) in meeting any requirements under—
+
+    * (A) the renewable fuel program under section 7545(o) of title 42; or
+
+    * (B) any other provision of law that requires the blending of fossil fuel with renewable fuel.
+
+#### (b) The exclusion in (a) shall not apply to any payments or support to producers, refiners, or importers of biofuel (as defined in section 8101 of this title).
+#### (c) Moratorium on authorities relating to exchanges of agricultural products for petroleum products
+* The authorities under the ninth and tenth sentences of section 714b(h) of title 15 (relating to the availability of agricultural products for the Secretary of Energy to exchange for petroleum products and the terms and conditions of those exchanges, respectively) shall not be used during the 180-day period beginning on October 1, 2020.
+
 ### §2210. Deputy Secretary of Agriculture; appointment
 * There is established in the Department of Agriculture the position of Deputy Secretary of Agriculture, to be appointed by the President, by and with the advice and consent of the Senate.
 
@@ -965,6 +981,9 @@
 
 ### §2254b. Availability of funds appropriated for Agricultural Research Service for research related to tobacco or tobacco products; exception
 * On and after December 26, 2007, none of the funds appropriated under this heading shall be available to carry out research related to the production, processing, or marketing of tobacco or tobacco products: _Provided further_, That on and after December 26, 2007, this paragraph shall not apply to research on the medical, biotechnological, food, and industrial uses of tobacco.
+
+### §2254c. Research
+* There is appropriated, out of any funds in the Treasury not otherwise appropriated, $20,000,000 for fiscal year 2021 and each fiscal year thereafter for the Agricultural Research Service to address gaps in nutrition research at the critical intersections of responsive agriculture, quality food production, and human nutrition and health.
 
 ### §2255. Membership in International Wheat Advisory Committee, International Sugar Council, etc.
 * The Secretary of Agriculture is authorized to expend funds, available for agricultural conservation, adjustment, and land use programs, for the share of the United States as a member of the International Wheat Advisory Committee, the International Sugar Council, or like events or bodies concerned with the objectives of said program, together with traveling and other necessary expenses relating thereto: _Provided_, That expenditures under this authority shall not be made unless provision is made therefor in the applicable appropriation and the cost thereof is not in excess of limitations prescribed therein.

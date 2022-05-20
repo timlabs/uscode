@@ -35,3 +35,12 @@
 
 #### (f) Opportunity for review
 * No report described in subsection (e) shall be made public by the Secretary or the State subchapter XIX agency until the contractor or provider of services whose performance is being evaluated has had a reasonable opportunity (not exceeding 60 days) to review such report and to offer comments pertinent parts of which may be incorporated in the public report; nor shall the Secretary be required to include in any such report information with respect to any deficiency (or improper practice or procedures) which is known by the Secretary to have been fully corrected, within 60 days of the date such deficiency was first brought to the attention of such contractor or provider of services, as the case may be.
+
+#### (g) Agreement with Secretary of the Treasury
+* Notwithstanding any other provision of this section, the Commissioner of Social Security shall enter into an agreement with the Secretary of the Treasury under which—
+
+  * (1) if the Secretary provides the Commissioner with the information described in section 6103(k)(15) of title 26 with respect to any individual, the Commissioner shall indicate to the Secretary as to whether such individual receives disability insurance benefits under section 423 of this title or supplemental security income benefits under subchapter XVI of this chapter (including State supplementary payments of the type referred to in section 1382e(a) of this title or payments of the type described in section 212(a) of Public Law 93–66 [42 U.S.C. 1382 note]);
+
+  * (2) appropriate safeguards are included to assure that the indication described in paragraph (1) will be used solely for the purpose of determining if tax receivables involving such individual are not eligible for collection pursuant to a qualified tax collection contract by reason of section 6306(d)(3)(E) of title 26; and
+
+  * (3) the Secretary shall pay the Commissioner of Social Security the full costs (including systems and administrative costs) of providing the indication described in paragraph (1).

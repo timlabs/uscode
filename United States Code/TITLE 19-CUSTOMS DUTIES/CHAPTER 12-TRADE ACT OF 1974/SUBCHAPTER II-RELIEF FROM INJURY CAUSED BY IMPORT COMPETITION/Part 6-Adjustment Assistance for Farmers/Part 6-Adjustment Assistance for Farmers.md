@@ -87,9 +87,9 @@
 * Whenever the Secretary determines, with respect to any certification of eligibility under this part, that the decrease in the national average price, quantity of production, or value of production of, or cash receipts for, the agricultural commodity covered by the certification is no longer attributable to the conditions described in section 2401a of this title, the Secretary shall terminate such certification and promptly cause notice of such termination to be published in the Federal Register, together with the Secretary's reasons for making such determination.
 
 #### (d) Annual report
-* Not later than January 30 of each year, the Secretary shall submit to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives a report containing the following information with respect to the trade adjustment assistance for farmers program under this chapter during the preceding fiscal year:
+* Not later than January 30 of each year, the Secretary shall submit to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives a report containing the following information with respect to the trade adjustment assistance for farmers program under this part during the preceding fiscal year:
 
-  * (1) A list of the agricultural commodities covered by a certification under this chapter.
+  * (1) A list of the agricultural commodities covered by a certification under this part.
 
   * (2) The States or regions in which agricultural commodities are produced and the aggregate amount of such commodities produced in each such State or region.
 
@@ -111,7 +111,7 @@
 
   * (11) The number of long-term business plans approved and denied by the Secretary.
 
-  * (12) The total number of agricultural commodity producers, by congressional district, receiving initial technical assistance and intensive technical assistance, respectively, under this chapter.
+  * (12) The total number of agricultural commodity producers, by congressional district, receiving initial technical assistance and intensive technical assistance, respectively, under this part.
 
   * (13) The types of initial technical assistance received by agricultural commodity producers participating in the program.
 
@@ -119,13 +119,13 @@
 
   * (15) The number of agricultural commodity producers leaving the program before completing the projects in their long-term business plans and the reason those projects were not completed.
 
-  * (16) The total number of agricultural commodity producers, by congressional district, receiving benefits under this chapter.
+  * (16) The total number of agricultural commodity producers, by congressional district, receiving benefits under this part.
 
-  * (17) The average duration of benefits received under this chapter.
+  * (17) The average duration of benefits received under this part.
 
   * (18) The number of agricultural commodity producers in operation as of the date of the report and the number of agricultural commodity producers that ceased operations after completing the program and in the 1-year period following completion of the program.
 
-  * (19) The number of agricultural commodity producers that report that such producers received benefits under a prior certification issued under this chapter in any of the 10 fiscal years preceding the date of the report.
+  * (19) The number of agricultural commodity producers that report that such producers received benefits under a prior certification issued under this part in any of the 10 fiscal years preceding the date of the report.
 
 ### §2401c. Study by Secretary of Agriculture when International Trade Commission begins investigation
 #### (a) In general

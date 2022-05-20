@@ -48,7 +48,7 @@
 * #### (2) Temporary increase termination date
   * For purposes of paragraph (1), the temporary increase termination date is the earlier of—
 
-    * (A) December 31, 2020, or
+    * (A) December 31, 2021, or
 
     * (B) the first December 31 after 2007 as of which there is—
 

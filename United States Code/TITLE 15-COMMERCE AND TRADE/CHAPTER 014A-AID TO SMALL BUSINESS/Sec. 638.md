@@ -29,9 +29,11 @@
 
     * (E) a detailed description of appeals of Phase III awards and notices of noncompliance with the SBIR Policy Directive and the STTR Policy Directive filed by the Administrator with Federal agencies;
 
-    * (F) an accounting of funds, initiatives, and outcomes under the Commercialization Readiness Program; and
+    * (F) an accounting of funds, initiatives, and outcomes under the Commercialization Readiness Program;
 
-    * (G) a description of the extent to which Federal agencies are providing in a timely manner information needed to maintain the database described in subsection (k);
+    * (G) a description of the extent to which Federal agencies are providing in a timely manner information needed to maintain the database described in subsection (k); and
+
+    * (H) with respect to a Federal agency to which subsection (f)(1) or (n)(1) applies, whether the Federal agency has complied with the applicable subsection for the year covered by the report;
 
 
   * (8) to provide for and fully implement the tenets of Executive Order No. 13329 (Encouraging Innovation in Manufacturing);
@@ -246,7 +248,7 @@
 
   * (9) make an annual report on the SBIR program to the Small Business Administration and the Office of Science and Technology Policy;
 
-  * (10) include, as part of its annual performance plan as required by subsections (a) and (b) of section 1115 of title 31, a section on its SBIR program, and shall submit such section to the Committee on Small Business of the Senate, and the Committee on Science and the Committee on Small Business of the House of Representatives;
+  * (10) include, as part of its annual performance plan as required by subsections (a) and (b) of section 1115 of title 31, a section on its SBIR program, which section shall describe whether or not the Federal agency complied with the requirements of subsection (f) for the year covered by that plan and include a justification for failure to comply (if applicable),, and shall submit such section to the Committee on Small Business of the Senate, and the Committee on Science and the Committee on Small Business of the House of Representatives;
 
   * (11) provide for and fully implement the tenets of Executive Order No. 13329 (Encouraging Innovation in Manufacturing); and
 
@@ -532,7 +534,7 @@
 
   * (7) make payments to recipients of STTR funding agreements on the basis of progress toward or completion of the funding agreement requirements and, in all cases, make payment to recipients under such agreements in full, subject to audit, on or before the last day of the 12-month period beginning on the date of the completion of such requirements;
 
-  * (8) include, as part of its annual performance plan as required by subsections (a) and (b) of section 1115 of title 31, a section on its STTR program, and shall submit such section to the Committee on Small Business of the Senate, and the Committee on Science and the Committee on Small Business of the House of Representatives;
+  * (8) include, as part of its annual performance plan as required by subsections (a) and (b) of section 1115 of title 31, a section on its STTR program, which section shall describe whether or not the Federal agency complied with the requirements of subsection (n) for the year covered by that plan and include a justification for failure to comply (if applicable),, and shall submit such section to the Committee on Small Business of the Senate, and the Committee on Science and the Committee on Small Business of the House of Representatives;
 
   * (9) collect annually, and maintain in a common format in accordance with the simplified reporting requirements under subsection (v), such information from applicants and awardees as is necessary to assess the STTR program outputs and outcomes, including information necessary to maintain the database described in subsection (k), including—
 

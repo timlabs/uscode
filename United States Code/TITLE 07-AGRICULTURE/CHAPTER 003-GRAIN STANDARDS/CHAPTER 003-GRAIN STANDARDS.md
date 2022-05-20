@@ -196,7 +196,7 @@
 
   * (C) STATE AGENCY REQUIREMENTS.—
 
-    * (i) IN GENERAL.—If a State agency that has been delegated authority under this paragraph intends to temporarily discontinue official inspection or weighing services for any reason, except in the case of a major disaster, the State agency shall notify the Secretary in writing of the intention of the State agency to do so at least 72 hours in advance of the discontinuation date.
+    * (i) IN GENERAL.—If a State agency that has been delegated authority under this paragraph intends to temporarily discontinue official inspection or weighing services for any reason, except in the case of a major disaster, the State agency shall notify the Secretary and affected customers or applicants for service of official inspection or weighing services provided by the State agency in writing of the intention of the State agency to do so at least 72 hours in advance of the discontinuation date.
 
     * (ii) SECRETARIAL CONSIDERATION.—The Secretary shall consider receipt of a notice described in clause (i) as a factor in administering the delegation of authority under this paragraph.
 
@@ -316,7 +316,7 @@
 
 * (4) ADJUSTMENT OF FEES.—In order to maintain an operating reserve of not less than 3 and not more than 6 months, the Secretary shall adjust the fees described in paragraphs (1) and (2) not less frequently than annually.
 
-* (5) The duties imposed by paragraph (2) on designated official agencies and State agencies described in such paragraph and the investment authority provided by paragraph (3) shall expire on September 30, 2020. After that date, the fees established by the Secretary pursuant to paragraph (1) shall not cover administrative and supervisory costs related to the official inspection of grain.
+* (5) The duties imposed by paragraph (2) on designated official agencies and State agencies described in such paragraph and the investment authority provided by paragraph (3) shall expire on September 30, 2025. After that date, the fees established by the Secretary pursuant to paragraph (1) shall not cover administrative and supervisory costs related to the official inspection of grain.
 
 ### §79a. Weighing authority
 #### (a) Official weighing in accordance with prescribed regulations
@@ -399,7 +399,7 @@
 
 * (3) ADJUSTMENT OF FEES.—In order to maintain an operating reserve of not less than 3 and not more than 6 months, the Secretary shall adjust the fees described in paragraphs (1) and (2) not less frequently than annually.
 
-* (4) The authority provided to the Secretary by paragraph (1) and the duties imposed by paragraph (2) on agencies and other persons described in such paragraph shall expire on September 30, 2020. After that date, the Secretary shall, under such regulations as the Secretary may prescribe, charge and collect reasonable fees to cover the estimated costs of official weighing and supervision of weighing except when the official weighing or supervision of weighing is performed by a designated official agency or by a State under a delegation of authority. The fees authorized by this paragraph shall, as nearly as practicable, cover the costs of the Secretary incident to its performance of official weighing and supervision of weighing services in the United States and on United States grain in Canadian ports, excluding administrative and supervisory costs. The fees authorized by this paragraph shall be deposited into a fund which shall be available without fiscal year limitation for the expenses of the Secretary incident to providing services under this chapter.
+* (4) The authority provided to the Secretary by paragraph (1) and the duties imposed by paragraph (2) on agencies and other persons described in such paragraph shall expire on September 30, 2025. After that date, the Secretary shall, under such regulations as the Secretary may prescribe, charge and collect reasonable fees to cover the estimated costs of official weighing and supervision of weighing except when the official weighing or supervision of weighing is performed by a designated official agency or by a State under a delegation of authority. The fees authorized by this paragraph shall, as nearly as practicable, cover the costs of the Secretary incident to its performance of official weighing and supervision of weighing services in the United States and on United States grain in Canadian ports, excluding administrative and supervisory costs. The fees authorized by this paragraph shall be deposited into a fund which shall be available without fiscal year limitation for the expenses of the Secretary incident to providing services under this chapter.
 
 ### §79b. Testing of equipment
 #### (a) Random and periodic testing at least annually; fees
@@ -412,7 +412,7 @@
 * Notwithstanding any other provision of law, no person shall use for the purposes of this chapter any such equipment not approved by the Secretary.
 
 ### §79d. Limitation on administrative and supervisory costs
-* The total administrative and supervisory costs which may be incurred under this chapter for services performed (excluding standardization, compliance, and foreign monitoring activities) for each of the fiscal years 1989 through 2020 shall not exceed 30 percent of the total costs for such activities carried out by the Secretary for such year.
+* The total administrative and supervisory costs which may be incurred under this chapter for services performed (excluding standardization, compliance, and foreign monitoring activities) for each of the fiscal years 1989 through 2025 shall not exceed 30 percent of the total costs for such activities carried out by the Secretary for such year.
 
 ### §84. Licensing of inspectors
 #### (a) Authorization
@@ -727,17 +727,77 @@
 #### (c) Submission to Congressional committees of annual summary of complaints from foreign purchasers and prospective purchasers of grain
 * On December 1 of each year, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a summary of all other complaints received by the Department of Agriculture during the prior fiscal year from foreign purchasers and prospective purchasers of United States grain and other foreign purchasers interested in the trade of grain, and the resolution thereof: _Provided_, That the summary shall not include a complaint unless reasonable cause exists to believe that the complaint is valid, as determined by the Secretary.
 
+#### (d) Enhancement of current reporting
+* #### (1) Increased frequency of inspection program data reporting
+  * #### (A) In general
+    * Beginning not later than 1 year after December 11, 2020, the Secretary shall publish quarterly reports describing data from the tests and inspections for intrinsic quality factors (including protein, oil, and starch) and food safety factors, as reported, in the aggregate, for fiscal years 2014 through 2018 in the tables in section V (relating to providing official grain inspection and weighing services) of the 2016 through 2018 annual reports to Congress by the Federal Grain Inspection Service.
+
+  * #### (B) Delineation
+    * The data from the tests and inspections under subparagraph (A) shall be delineated to reflect whether the tests and inspections were requested of or performed by—
+
+      * (i) the Secretary; or
+
+      * (ii) a State agency delegated authority under section 79 or 79a of this title or an official agency.
+
+* #### (2) Exceptions and waivers
+  * Beginning not later than 1 year after December 11, 2020, the Secretary shall publish quarterly reports describing—
+
+    * (A) the number of exceptions requested under section 79(f)(2)(B) of this title;
+
+    * (B) the number of exceptions granted under section 79(f)(2)(B) of this title;
+
+    * (C) the number of waivers requested under section 77(a)(1) of this title; and
+
+    * (D) the number of waivers granted under section 77(a)(1) of this title.
+
+#### (e) Additional reporting; consultation
+* The Secretary may, to the extent determined appropriate by the Secretary, in consultation with State agencies delegated authority under sections 79 and 79a of this title, official agencies, and the grain industries described in the second sentence of section 87j(a) of this title, publish—
+
+  * (1) data relating to testing for other intrinsic quality or food safety factors; and
+
+  * (2) other data collected from inspection and weighing activities conducted under this chapter.
+
+#### (f) Protection of confidential business information
+* Any trade secrets or information described in section 552(b)(4) of title 5 that is provided to or collected by the Secretary in carrying out subsection (d) or (e) shall not be included in a report under subsection (d) or (e) or otherwise publicly disclosed.
+
 ### §87g. Relation to State and local laws; separability
 * (a) No State or subdivision thereof may require the inspection or description in accordance with any standards of kind, class, quality, condition, or other characteristics of grain as a condition of shipment, or sale, of such grain in interstate or foreign commerce, or require any license for, or impose any other restrictions upon the performance of any official inspection or weighing function under this chapter by official inspection personnel. Otherwise nothing in this chapter shall invalidate any law or other provision of any State or subdivision thereof in the absence of a conflict with this chapter.
 
 * (b) If any provision of this chapter or the application thereof to any person or circumstances is held invalid, the validity of the remainder of the chapter and of the application of such provision to other persons and circumstances shall not be affected thereby.
 
-### §87h. Appropriations
-* There are hereby authorized to be appropriated such sums as are necessary for standardization and compliance activities, monitoring in foreign ports grain officially inspected and weighed under this chapter, and any other expenses necessary to carry out the provisions of this chapter for each of the fiscal years 1988 through 2020, to the extent that financing is not obtained from fees and sales of samples as provided for in sections 79, 79a, 79b, 87e, and 87f–1 of this title.
+### §87h. Funding
+#### (a) Authorization of appropriations
+* There are authorized to be appropriated $23,000,000 for standardization and compliance activities, monitoring in foreign ports grain officially inspected and weighed under this chapter, and any other expenses necessary to carry out the provisions of this chapter for each of the fiscal years 2021 through 2025, to the extent that financing is not obtained from fees and sales of samples as provided for in sections 79, 79a, 79b, 87e, and 87f–1 of this title.
+
+#### (b) Limitations on uses of user fees
+* #### (1) Definitions
+  * In this subsection:
+
+  * #### (A) Official inspection or weighing service
+    * The term "official inspection or weighing service" means official inspection, official weighing, supervision of weighing, supervision of agency personnel, supervision of the field office personnel of the Secretary, testing of equipment or instruments, other services, or registration, the cost to the Secretary of which is authorized to be covered by the collection of a user fee pursuant to section 79, 79a, 79b, 87e, or 87f–1 of this title, as applicable.
+
+  * #### (B) User fee
+    * The term "user fee" means a fee collected by the Secretary under section 79, 79a, 79b, 87e, or 87f–1 of this title.
+
+* #### (2) Requirement
+  * A user fee—
+
+    * (A) shall be used solely to cover—
+
+      * (i) the cost to the Secretary for carrying out official inspection or weighing services; and
+
+      * (ii) administrative costs to the Secretary directly relating to official inspection or weighing services; and
+
+
+    * (B) shall not be used for—
+
+      * (i) activities relating to the development or maintenance of grain standards; or
+
+      * (ii) any other activity that is not directly related to the performance of official inspection or weighing services.
 
 ### §87j. Advisory committee
 #### (a) Establishment; number and terms of members
-* Not later than ninety days after October 24, 1988, the Secretary shall establish an advisory committee to provide advice to the Secretary with respect to implementation of this chapter consistent with the declarations of policy in section 74 of this title. The advisory committee shall consist of fifteen members, appointed by the Secretary, who represent the interests of all segments of the grain producing, processing, storing, merchandising, consuming, and exporting industries, including grain inspection and weighing agencies and scientists with expertise in research related to the policies established in section 74 of this title. Members of the advisory committee shall be appointed to three-year terms, except that of the initial fifteen members of the advisory committee first appointed following the enactment of this section, five shall be appointed for terms of one year and five shall be appointed for terms of two years. No member of the advisory committee may serve successive terms.
+* Not later than ninety days after October 24, 1988, the Secretary shall establish an advisory committee to provide advice to the Secretary with respect to implementation of this chapter consistent with the declarations of policy in section 74 of this title. The advisory committee shall consist of fifteen members, appointed by the Secretary, who represent the interests of all segments of the grain producing, processing, storing, merchandising, consuming, and exporting industries, including grain inspection and weighing agencies and scientists with expertise in research related to the policies established in section 74 of this title. Members of the advisory committee shall be appointed to three-year terms, except that of the initial fifteen members of the advisory committee first appointed following the enactment of this section, five shall be appointed for terms of one year and five shall be appointed for terms of two years. No member of the advisory committee may serve successively for more than 2 terms.
 
 #### (b) Federal Advisory Committee Act as governing
 * The advisory committee shall be governed by the provisions of the Federal Advisory Committee Act [5 U.S.C. App.].
@@ -749,7 +809,7 @@
 * Members of the advisory committee shall serve without compensation, if not otherwise officers or employees of the United States, except that members shall, while away from their homes or regular places of business in the performance of services under this chapter, be allowed travel expenses, including per diem in lieu of subsistence, as authorized under section 5703 of title 5.
 
 #### (e) Expiration of Secretary's authority
-* The authority provided to the Secretary for the establishment and maintenance of an advisory committee under this section shall expire on September 30, 2020.
+* The authority provided to the Secretary for the establishment and maintenance of an advisory committee under this section shall expire on September 30, 2025.
 
 ### §87k. Standardizing commercial inspections
 #### (a) Testing equipment

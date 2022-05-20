@@ -77,7 +77,7 @@
   * (5) POSSESSORY INTERESTS.—A concessioner may be accorded a possessory interest, consisting of all incidents of ownership except legal title (which shall vest in the United States), in any structure, fixture, or improvement the concessioner constructs or locates upon land owned by the United States. With the approval of the Administration, such possessory interest may be assigned, transferred, encumbered, or relinquished by the concessioner, and, unless otherwise provided by contract, shall not be extinguished by the expiration or other termination of the concession and may not be taken for public use without just compensation.
 
 
-* (l) DETAILING MEMBERS OF ARMED SERVICES.—In the performance of its functions, the Administration is authorized, with the approval of the President, to enter into cooperative agreements under which members of the Army, Navy, Air Force, and Marine Corps may be detailed by the appropriate Secretary for services in the performance of functions under this chapter to the same extent as that to which they might be lawfully assigned in the Department of Defense.
+* (l) DETAILING MEMBERS OF ARMED FORCES.—In the performance of its functions, the Administration is authorized, with the approval of the President, to enter into cooperative agreements under which members of the Army, Navy, Air Force, Marine Corps, and Space Force may be detailed by the appropriate Secretary for services in the performance of functions under this chapter to the same extent as that to which they might be lawfully assigned in the Department of Defense.
 
 * (m) CLAIMS AGAINST THE UNITED STATES.—In the performance of its functions, the Administration is authorized—
 

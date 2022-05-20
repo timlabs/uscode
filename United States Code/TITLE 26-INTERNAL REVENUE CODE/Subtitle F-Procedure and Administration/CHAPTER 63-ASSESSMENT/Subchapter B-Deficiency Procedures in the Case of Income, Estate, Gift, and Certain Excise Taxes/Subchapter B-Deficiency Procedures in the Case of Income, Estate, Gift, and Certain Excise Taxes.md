@@ -24,7 +24,7 @@
 
   * (4) For purposes of subsection (a)—
 
-    * (A) any excess of the sum of the credits allowable under sections 24(d), 25A by reason of subsection (i) thereof, 32, 34, 35, 36, and 36B, 168(k)(4) over the tax imposed by subtitle A (determined without regard to such credits), and
+    * (A) any excess of the sum of the credits allowable under sections 24(d), 25A by reason of subsection (i) thereof, 32, 34, 35, 36, 36B, 6428, and 6428A over the tax imposed by subtitle A (determined without regard to such credits), and
 
     * (B) any excess of the sum of such credits as shown by the taxpayer on his return over the amount shown as the tax by the taxpayer on such return (determined without regard to such credits),
 
@@ -149,7 +149,7 @@
 
     * (K) an omission of information required by section 32(k)(2) (relating to taxpayers making improper prior claims of earned income credit) or an entry on the return claiming the credit under section 32 for a taxable year for which the credit is disallowed under subsection (k)(1) thereof,
 
-    * (L) the inclusion on a return of a TIN required to be included on the return under section 21, 24, or 32 if—
+    * (L) the inclusion on a return of a TIN required to be included on the return under section 21, 24, 32, 6428, or 6428A if—
 
       * (i) such TIN is of an individual whose age affects the amount of the credit under such section, and
 

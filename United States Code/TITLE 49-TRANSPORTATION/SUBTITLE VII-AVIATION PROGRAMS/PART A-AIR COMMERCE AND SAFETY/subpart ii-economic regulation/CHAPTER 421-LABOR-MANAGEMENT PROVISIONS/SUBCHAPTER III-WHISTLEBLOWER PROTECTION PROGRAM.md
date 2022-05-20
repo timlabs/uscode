@@ -1,11 +1,11 @@
 ### SUBCHAPTER III—WHISTLEBLOWER PROTECTION PROGRAM
 
 ### §42121. Protection of employees providing air safety information
-* (a) DISCRIMINATION AGAINST AIRLINE EMPLOYEES.—No air carrier or contractor or subcontractor of an air carrier may discharge an employee or otherwise discriminate against an employee with respect to compensation, terms, conditions, or privileges of employment because the employee (or any person acting pursuant to a request of the employee)—
+* (a) PROHIBITED DISCRIMINATION.—A holder of a certificate under section 44704 or 44705 of this title, or a contractor, subcontractor, or supplier of such holder, may not discharge an employee or otherwise discriminate against an employee with respect to compensation, terms, conditions, or privileges of employment because the employee (or any person acting pursuant to a request of the employee)—
 
-  * (1) provided, caused to be provided, or is about to provide (with any knowledge of the employer) or cause to be provided to the employer or Federal Government information relating to any violation or alleged violation of any order, regulation, or standard of the Federal Aviation Administration or any other provision of Federal law relating to air carrier safety under this subtitle or any other law of the United States;
+  * (1) provided, caused to be provided, or is about to provide (with any knowledge of the employer) or cause to be provided to the employer or Federal Government information relating to any violation or alleged violation of any order, regulation, or standard of the Federal Aviation Administration or any other provision of Federal law relating to aviation safety under this subtitle or any other law of the United States;
 
-  * (2) has filed, caused to be filed, or is about to file (with any knowledge of the employer) or cause to be filed a proceeding relating to any violation or alleged violation of any order, regulation, or standard of the Federal Aviation Administration or any other provision of Federal law relating to air carrier safety under this subtitle or any other law of the United States;
+  * (2) has filed, caused to be filed, or is about to file (with any knowledge of the employer) or cause to be filed a proceeding relating to any violation or alleged violation of any order, regulation, or standard of the Federal Aviation Administration or any other provision of Federal law relating to aviation safety under this subtitle or any other law of the United States;
 
   * (3) testified or is about to testify in such a proceeding; or
 
@@ -67,6 +67,10 @@
 
 * (c) MANDAMUS.—Any nondiscretionary duty imposed by this section shall be enforceable in a mandamus proceeding brought under section 1361 of title 28, United States Code.
 
-* (d) NONAPPLICABILITY TO DELIBERATE VIOLATIONS.—Subsection (a) shall not apply with respect to an employee of an air carrier, contractor, or subcontractor who, acting without direction from such air carrier, contractor, or subcontractor (or such person's agent), deliberately causes a violation of any requirement relating to air carrier safety under this subtitle or any other law of the United States.
+* (d) NONAPPLICABILITY TO DELIBERATE VIOLATIONS.—Subsection (a) shall not apply with respect to an employee of a holder of a certificate issued under section 44704 or 44705, or a contractor or subcontractor thereof, who, acting without direction from such certificate-holder, contractor, or subcontractor (or such person's agent), deliberately causes a violation of any requirement relating to aviation safety under this subtitle or any other law of the United States.
 
-* (e) CONTRACTOR DEFINED.—In this section, the term "contractor" means a company that performs safety-sensitive functions by contract for an air carrier.
+* (e) CONTRACTOR DEFINED.—In this section, the term "contractor" means—
+
+  * (1) a person that performs safety-sensitive functions by contract for an air carrier or commercial operator; or
+
+  * (2) a person that performs safety-sensitive functions related to the design or production of an aircraft, aircraft engine, propeller, appliance, or component thereof by contract for a holder of a certificate issued under section 44704.

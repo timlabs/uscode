@@ -53,7 +53,7 @@
     * The Department and each recipient of a grant administered by the Department shall provide the Comptroller General and any officer or employee of the Government Accountability Office with full access to information regarding the activities carried out related to any grant administered by the Department.
 
   * #### (C) Improper payments
-    * Consistent with the Improper Payments Information Act of 2002 (31 U.S.C. 3321 note), for each of the grant programs under sections 604 and 605 of this title and section 762 of this title, the Administrator shall specify policies and procedures for—
+    * Consistent with subchapter IV of chapter 33 of title 31, for each of the grant programs under sections 604 and 605 of this title and section 762 of this title, the Administrator shall specify policies and procedures for—
 
       * (i) identifying activities funded under any such grant program that are susceptible to significant improper payments; and
 
@@ -92,7 +92,7 @@
   * In conducting program reviews and performance audits under paragraph (2), the Administrator and the Inspector General of the Department shall take into account the performance assessment elements required under paragraph (3).
 
 * #### (5) Recovery audits
-  * The Administrator shall conduct a recovery audit under section 2(h) of the Improper Payments Elimination and Recovery Act of 2010 (31 U.S.C. 3321 note) for any grant administered by the Department with a total value of not less than $1,000,000, if the Administrator finds that—
+  * The Administrator shall conduct a recovery audit under section 3352(i) of title 31 for any grant administered by the Department with a total value of not less than $1,000,000, if the Administrator finds that—
 
     * (A) a financial audit has identified improper payments that can be recouped; and
 

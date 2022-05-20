@@ -656,7 +656,7 @@
 * #### (2) Exception for new exporters and producers
   * After publication of the countervailing duty order, if the administering authority finds that a new exporter or producer is exporting the subject merchandise for sale in the region concerned, the administering authority shall direct that duties be assessed on the subject merchandise of the new exporter or producer consistent with the provisions of section 1675(a)(2)(B) of this title.
 
-### §1671f. Treatment of difference between deposit of estimated countervailing duty and final assessed duty under countervailing duty orders
+### §1671f. Treatment of difference between deposit of estimated countervailing duty and final assessed duty under countervailing duty order
 #### (a) Deposit of estimated countervailing duty under section 1671b(d)(1)(B) of this title
 * If the amount of a cash deposit, or the amount of any bond or other security, required as security for an estimated countervailing duty under section 1671b(d)(1)(B) of this title is different from the amount of the countervailing duty determined under a countervailing duty order issued under section 1671e of this title, then the difference for entries of merchandise entered, or withdrawn from warehouse, for consumption before notice of the affirmative determination of the Commission under section 1671d(b) of this title is published shall be—
 
@@ -677,7 +677,7 @@
 ### §1671g. Effect of derogation of Export-Import Bank financing
 * Nothing in this subtitle shall be interpreted as superseding the provisions of section 635a–3 of title 12, except that in the event of an assessment of duty based on a derogation under section 1671e of this title or action under section 1671b(d)(1)(B) of this title, the Secretary of the Treasury shall not authorize the Bank to provide guarantees, insurance and credits to competing United States sellers pursuant to section 635a–3 of title 12.
 
-### §1671h. Conditional payment of countervailing duties
+### §1671h. Conditional payment of countervailing duty
 #### (a) In general
 * For all entries, or withdrawals from warehouse, for consumption of merchandise subject to a countervailing duty order on or after the date of publication of such order, no customs officer may deliver merchandise of that class or kind to the person by whom or for whose account it was imported unless that person complies with the requirement of subsection (b) and deposits with the appropriate customs officer an estimated countervailing duty in an amount determined by the administering authority.
 

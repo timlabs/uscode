@@ -152,7 +152,7 @@
 
     * (A) in determining under section 172 the amount of any net operating loss for such taxable year, and
 
-    * (B) in determining taxable income for such taxable year for purposes of the 2nd sentence of section 172(b)(2).
+    * (B) in determining taxable income for such taxable year for purposes of subsection (a)(2)(B)(ii)(I) and the second sentence of subsection (b)(2) of section 172.
 
 * #### (4) Coordination with minimum tax
   * For purposes of part VI of subchapter A of this chapter—

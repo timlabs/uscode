@@ -891,7 +891,63 @@
 
   * (2) a description of the individual's right to request a coverage determination, exception, or reconsideration under section 1395w–104(g) of this title, bring an appeal under section 1395w–104(h) of this title, or resolve a grievance under section 1395w–104(f) of this title.
 
-#### (e) Relation to medicaid program
+#### (e) Limited income newly eligible transition program
+* #### (1) In general
+  * Beginning not later than January 1, 2024, the Secretary shall carry out a program to provide transitional coverage for covered part D drugs for LI NET eligible individuals in accordance with this subsection.
+
+* #### (2) LI NET eligible individual defined
+  * For purposes of this subsection, the term "LI NET eligible individual" means a part D eligible individual who—
+
+    * (A) meets the requirements of clauses (ii) and (iii) of subsection (a)(3)(A); and
+
+    * (B) has not yet enrolled in a prescription drug plan or an MA–PD plan, or, who has so enrolled, but with respect to whom coverage under such plan has not yet taken effect.
+
+* #### (3) Transitional coverage
+  * For purposes of this subsection, the term "transitional coverage" means with respect to an LI NET eligible individual—
+
+    * (A) immediate access to covered part D drugs at the point of sale during the period that begins on the first day of the month such individual is determined to meet the requirements of clauses (ii) and (iii) of subsection (a)(3)(A) and ends on the date that coverage under a prescription drug plan or MA–PD plan takes effect with respect to such individual; and
+
+    * (B) in the case of an LI NET eligible individual who is a full-benefit dual eligible individual (as defined in section 1396u–5(c)(6) of this title) or a recipient of supplemental security income benefits under subchapter XVI, retroactive coverage (in the form of reimbursement of the amounts that would have been paid under this part had such individual been enrolled in a prescription drug plan or MA–PD plan) of covered part D drugs purchased by such individual during the period that begins on the date that is the later of—
+
+      * (i) the date that such individual was first eligible for a low-income subsidy under this part; or
+
+      * (ii) the date that is 36 months prior to the date such individual enrolls in a prescription drug plan or MA–PD plan,
+
+
+  * and ends on the date that coverage under such plan takes effect.
+
+* #### (4) Program administration
+  * #### (A) Point of contact
+    * The Secretary shall, as determined appropriate by the Secretary, administer the program under this subsection through a contract with a single program administrator.
+
+  * #### (B) Benefit design
+    * The Secretary shall ensure that the transitional coverage provided to LI NET eligible individuals under this subsection—
+
+      * (i) provides access to all covered part D drugs under an open formulary;
+
+      * (ii) permits all pharmacies determined by the Secretary to be in good standing to process claims under the program;
+
+      * (iii) is consistent with such requirements as the Secretary considers necessary to improve patient safety and ensure appropriate dispensing of medication; and
+
+      * (iv) meets such other requirements as the Secretary may establish.
+
+* #### (5) Relationship to other provisions of this subchapter; waiver authority
+  * #### (A) In general
+    * The following provisions shall not apply with respect to the program under this subsection:
+
+      * (i) Paragraphs (1) and (3)(B) of section 1395w–104(a) of this title (relating to dissemination of general information; availability of information on changes in formulary through the internet).
+
+      * (ii) Subparagraphs (A) and (B) of section 1395w–104(b)(3) of this title (relating to requirements on development and application of formularies; formulary development).
+
+      * (iii) Paragraphs (1)(C) and (2) of section 1395w–104(c) of this title (relating to medication therapy management program).
+
+  * #### (B) Waiver authority
+    * The Secretary may waive such other requirements of subchapter XI and this subchapter as may be necessary to carry out the purposes of the program established under this subsection.
+
+* #### (6) Contracting authority
+  * The authority vested in the Secretary by this subsection may be performed without regard to such provisions of law or regulations relating to the making, performance, amendment, or modification of contracts of the United States as the Secretary may determine to be inconsistent with the furtherance of the purpose of this subchapter.
+
+#### (f) Relation to medicaid program
 * For special provisions under the medicaid program relating to medicare prescription drug benefits, see section 1396u–5 of this title.
 
 ### §1395w–114a. Medicare coverage gap discount program
@@ -1281,10 +1337,25 @@
 
       * (i) carrying out this section; and
 
-      * (ii) conducting oversight, evaluation, and enforcement under this subchapter; and
+      * (ii) conducting oversight, evaluation, and enforcement under this subchapter;
 
 
-    * (B) by the Attorney General and the Comptroller General of the United States for the purposes of, and to the extent necessary in, carrying out health oversight activities.
+    * (B) by the Attorney General and the Comptroller General of the United States for the purposes of, and to the extent necessary in, carrying out health oversight activities; and
+
+    * (C) by the Executive Director of the Medicare Payment Advisory Commission for purposes of monitoring, making recommendations for, and analysis of the program under this subchapter and by the Executive Director of the Medicaid and CHIP Payment and Access Commission for purposes of monitoring, making recommendations for, and analysis of the Medicaid program established under subchapter XIX and the Children's Health Insurance Program under subchapter XXI.
+
+* #### (3) Additional restrictions on disclosure of information
+  * #### (A) In general
+    * The Executive Directors described in paragraph (2)(C) shall not disclose any of the following information disclosed to such Executive Directors or obtained by such Executive Directors pursuant to such paragraph, with respect to a prescription drug plan offered by a PDP sponsor or an MA–PD plan offered by an MA organization:
+
+      * (i) The specific amounts or the identity of the source of any rebates, discounts, price concessions, or other forms of direct or indirect remuneration under such prescription drug plan or such MA–PD plan.
+
+      * (ii) Information submitted with the bid submitted under section 1395w–111(b) of this title by such PDP sponsor or under section 1395w–24(a) of this title by such MA organization.
+
+      * (iii) In the case of such information from prescription drug event records, information in a form that would not be permitted under section 423.505(m) of title 42, Code of Federal Regulations, or any successor regulation, if released by the Centers for Medicare & Medicaid Services.
+
+  * #### (B) Clarification
+    * The restrictions on disclosures described in subparagraph (A) shall also apply to disclosures to individual Commissioners of the Medicare Payment Advisory Commission or of the Medicaid and CHIP Payment and Access Commission.
 
 #### (g) Payment for fallback prescription drug plans
 * In lieu of the amounts otherwise payable under this section to a PDP sponsor offering a fallback prescription drug plan (as defined in section 1395w–111(g)(4) of this title), the amount payable shall be the amounts determined under the contract for such plan pursuant to section 1395w–111(g)(5) of this title.

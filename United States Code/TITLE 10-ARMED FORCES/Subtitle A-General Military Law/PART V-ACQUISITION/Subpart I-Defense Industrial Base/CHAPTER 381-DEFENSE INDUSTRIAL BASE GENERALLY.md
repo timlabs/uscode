@@ -1,4 +1,0 @@
-### **CHAPTER 381—DEFENSE INDUSTRIAL BASE GENERALLY**
-
-### §4801. [Reserved]
-* [Reserved]

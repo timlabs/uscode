@@ -170,3 +170,28 @@
 
 ### §10309. New spending authority; amounts provided in advance
 * Any new spending authority described in subsection (c)(2)(A) or (B) of section 651 of title 2 which is provided under this chapter shall be effective for any fiscal year only to such extent or in such amounts as are provided in advance in appropriations Acts.
+
+### §10310. Produced water research and development
+#### (a) Establishment
+* As soon as possible after December 27, 2020, the Secretary of Energy (in this section referred to as the "Secretary") shall establish a research and development program on produced water to develop—
+
+  * (1) new technologies and practices to reduce the environmental impact; and
+
+  * (2) opportunities for reprocessing of produced water at natural gas or oil development sites.
+
+#### (b) Prioritization
+* In carrying out the program established under subsection (a), the Secretary shall give priority to projects that develop and bring to market—
+
+  * (1) effective systems for on-site management or repurposing of produced water; and
+
+  * (2) new technologies or approaches to reduce the environmental impact of produced water on local water sources and the environment.
+
+#### (c) Conduct of program
+* In carrying out the program established under subsection (a), the Secretary shall carry out science-based research and development activities to pursue—
+
+  * (1) improved efficiency, technologies, and techniques for produced water recycling stations; and
+
+  * (2) alternative approaches to treating, reusing, storing, or decontaminating produced water.
+
+#### (d) Authorization of appropriations
+* There are authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2021 through 2025.

@@ -521,3 +521,62 @@
 
 ### §6371j. Application of sections 3141–3144, 3146, and 3147 of title 40
 * No grant for a project (other than so much of a grant as is used for a preliminary energy audit, energy audit, or technical assistance or a grant the total project cost of which is $5,000 or less, excluding costs for a preliminary energy audit, energy audit, or technical assistance) shall be made under this part or part 1 unless the Secretary finds that all laborers and mechanics employed by contractors or subcontractors in the performance of work on any construction utilizing such grants will be paid at rates not less than those prevailing on similar construction in the locality, as determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40; and the Secretary of Labor shall have with respect to the labor standards specified in this section the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (15 F.R. 3176; 5 U.S.C. Appendix) and section 3145 of title 40.
+
+### §6371k. Coordination of energy retrofitting assistance for schools
+#### (a) Definition of school
+* In this section, the term "school" means—
+
+  * (1) an elementary school or secondary school (as defined in section 8101 7801 of title 20);
+
+  * (2) an institution of higher education (as defined in section 1001(a) of title 20);
+
+  * (3) a postsecondary vocational institution (as defined in section 1002(c) of title 20);
+
+  * (4) a school of the defense dependents' education system under the Defense Dependents' Education Act of 1978 (20 U.S.C. 921 et seq.) or established under section 2164 of title 10;
+
+  * (5) a school operated by the Bureau of Indian Education;
+
+  * (6) a tribally controlled school (as defined in section 2511 of title 25); and
+
+  * (7) a Tribal College or University (as defined in section 1059c(b) of title 20).
+
+#### (b) Designation of lead agency
+* The Secretary of Energy (in this section referred to as the "Secretary"), acting through the Office of Energy Efficiency and Renewable Energy, shall act as the lead Federal agency for coordinating and disseminating information on existing Federal programs and assistance that may be used to help initiate, develop, and finance energy efficiency, renewable energy, and energy retrofitting projects for schools.
+
+#### (c) Requirements
+* In carrying out coordination and outreach under subsection (b), the Secretary shall—
+
+  * (1) in consultation and coordination with the appropriate Federal agencies, carry out a review of existing programs and financing mechanisms (including revolving loan funds and loan guarantees) available in or from the Department of Agriculture, the Department of Energy, the Department of Education, the Department of the Treasury, the Internal Revenue Service, the Environmental Protection Agency, and other appropriate Federal agencies with jurisdiction over energy financing and facilitation that are currently used or may be used to help initiate, develop, and finance energy efficiency, renewable energy, and energy retrofitting projects for schools;
+
+  * (2) establish a Federal cross-departmental collaborative coordination, education, and outreach effort to streamline communication and promote available Federal opportunities and assistance described in paragraph (1), for energy efficiency, renewable energy, and energy retrofitting projects that enables States, local educational agencies, and schools—
+
+    * (A) to use existing Federal opportunities more effectively; and
+
+    * (B) to form partnerships with Governors, State energy programs, local educational, financial, and energy officials, State and local government officials, nonprofit organizations, and other appropriate entities, to support the initiation of the projects;
+
+
+  * (3) provide technical assistance for States, local educational agencies, and schools to help develop and finance energy efficiency, renewable energy, and energy retrofitting projects—
+
+    * (A) to increase the energy efficiency of buildings or facilities;
+
+    * (B) to install systems that individually generate energy from renewable energy resources;
+
+    * (C) to establish partnerships to leverage economies of scale and additional financing mechanisms available to larger clean energy initiatives; or
+
+    * (D) to promote—
+
+      * (i) the maintenance of health, environmental quality, and safety in schools, including the ambient air quality, through energy efficiency, renewable energy, and energy retrofit projects; and
+
+      * (ii) the achievement of expected energy savings and renewable energy production through proper operations and maintenance practices;
+
+
+  * (4) develop and maintain a single online resource website with contact information for relevant technical assistance and support staff in the Office of Energy Efficiency and Renewable Energy for States, local educational agencies, and schools to effectively access and use Federal opportunities and assistance described in paragraph (1) to develop energy efficiency, renewable energy, and energy retrofitting projects; and
+
+  * (5) establish a process for recognition of schools that—
+
+    * (A) have successfully implemented energy efficiency, renewable energy, and energy retrofitting projects; and
+
+    * (B) are willing to serve as resources for other local educational agencies and schools to assist initiation of similar efforts.
+
+#### (d) Report
+* Not later than 180 days after December 27, 2020, the Secretary shall submit to Congress a report describing the implementation of this section.

@@ -9,7 +9,7 @@
 
     * (B) had served at least one enlistment; or
 
-    * (C) had been discharged or released from the active military, naval, or air service for a disability incurred or aggravated in line of duty; and
+    * (C) had been discharged or released from the active military, naval, air, or space service for a disability incurred or aggravated in line of duty; and
 
 
   * (2) deceased individual who at the time of death was entitled to retired pay under chapter 67 of title 10 or would have been entitled to retired pay under that chapter but for the fact that the person was under 60 years of age.
@@ -19,7 +19,7 @@
 
 * (c) For the purpose of this section, the term "Mexican border period" as defined in paragraph (30) of section 101 of this title includes the period beginning on January 1, 1911, and ending on May 8, 1916.
 
-* (d) In the case of any person who died while in the active military, naval, or air service after May 27, 1941, the Secretary shall furnish a flag to the next of kin, or to such other person as the Secretary considers most appropriate, if such next of kin or other person is not otherwise entitled to receive a flag under this section or under section 1482(a) of title 10.
+* (d) In the case of any person who died while in the active military, naval, air, or space service after May 27, 1941, the Secretary shall furnish a flag to the next of kin, or to such other person as the Secretary considers most appropriate, if such next of kin or other person is not otherwise entitled to receive a flag under this section or under section 1482(a) of title 10.
 
 * (e) The Secretary shall furnish a flag to drape the casket of each deceased person who is buried in a national cemetery by virtue of eligibility for burial in such cemetery under section 2402(a)(6) of this title. After the burial, the flag shall be given to the next of kin or to such other person as the Secretary considers appropriate.
 
@@ -69,7 +69,7 @@
     * (B) that there are not available sufficient resources to cover burial and funeral expenses,
 
 
-* the Secretary, in the Secretary's discretion, having due regard to the circumstances in each case, may pay a sum not exceeding $300 to such person as the Secretary prescribes to cover the burial and funeral expenses of the deceased veteran and the expense of preparing the body and transporting it to the place of burial. For the purpose of this subsection, the term "veteran" includes a person who died during a period deemed to be active military, naval, or air service under section 106(c) of this title.
+* the Secretary, in the Secretary's discretion, having due regard to the circumstances in each case, may pay a sum not exceeding $300 to such person as the Secretary prescribes to cover the burial and funeral expenses of the deceased veteran and the expense of preparing the body and transporting it to the place of burial. For the purpose of this subsection, the term "veteran" includes a person who died during a period deemed to be active military, naval, air, or space service under section 106(c) of this title.
 
 * (b) Except as hereafter provided in this subsection, no deduction shall be made from the burial allowance because of the veteran's net assets at the time of the death of such veteran, or because of any contribution from any source toward the burial and funeral expenses (including transportation) unless the amount of expenses incurred is covered by the amount actually paid therefor by the United States, a State, any agency or political subdivision of the United States or of a State, or the employer of the deceased veteran. No claim shall be allowed (1) for more than the difference between the entire amount of the expenses incurred and the amount paid by any or all of the foregoing, or (2) when the burial allowance would revert to the funds of a public or private organization or would discharge such an organization's obligation without payment. The burial allowance or any part thereof shall not be paid in any case where specific provision is otherwise made for payment of expenses of funeral, transportation, and interment under any other Act.
 
@@ -98,7 +98,7 @@
 
   * (1) if such veteran is buried (without charge for the cost of a plot or interment) in a cemetery, or a section of a cemetery, that (A) is used solely for the interment of persons who are (i) eligible for burial in a national cemetery, and (ii) members of a reserve component of the Armed Forces not otherwise eligible for such burial or former members of such a reserve component not otherwise eligible for such burial who are discharged or released from service under conditions other than dishonorable, and (B) is owned by a State or by an agency or political subdivision of a State, the Secretary shall pay to such State, agency, or political subdivision the sum of $700 (as increased from time to time under subsection (c)) as a plot or interment allowance for such veteran; and
 
-  * (2) if such veteran is eligible for a burial allowance under section 2302 of this title or under subsection (a) of this section, or was discharged from the active military, naval, or air service for a disability incurred or aggravated in line of duty, and such veteran is buried in a cemetery, or a section of a cemetery, other than as described in clause (1) of this subsection, the Secretary shall pay a sum not exceeding $700 (as increased from time to time under subsection (c)) as a plot or interment allowance to such person as the Secretary prescribes, except that if any part of the plot or interment costs of a burial to which this clause applies has been paid or assumed by a State, an agency or political subdivision of a State, or a former employer of the deceased veteran, no claim for such allowance shall be allowed for more than the difference between the entire amount of the expenses incurred and the amount paid or assumed by any or all of the foregoing entities.
+  * (2) if such veteran is eligible for a burial allowance under section 2302 of this title or under subsection (a) of this section, or was discharged from the active military, naval, air, or space service for a disability incurred or aggravated in line of duty, and such veteran is buried in a cemetery, or a section of a cemetery, other than as described in clause (1) of this subsection, the Secretary shall pay a sum not exceeding $700 (as increased from time to time under subsection (c)) as a plot or interment allowance to such person as the Secretary prescribes, except that if any part of the plot or interment costs of a burial to which this clause applies has been paid or assumed by a State, an agency or political subdivision of a State, or a former employer of the deceased veteran, no claim for such allowance shall be allowed for more than the difference between the entire amount of the expenses incurred and the amount paid or assumed by any or all of the foregoing entities.
 
 
 * (c) With respect to any fiscal year, the Secretary shall provide a percentage increase (rounded to the nearest dollar) in the maximum amount of burial and funeral expenses payable under subsection (a) and in the maximum amount of the plot or interment allowance payable under subsection (b), equal to the percentage by which—
@@ -150,7 +150,7 @@
 
 * (4) For purposes of this subsection:
 
-  * (A) The term "veteran" includes an individual who dies in the active military, naval, or air service.
+  * (A) The term "veteran" includes an individual who dies in the active military, naval, air, or space service.
 
   * (B) The term "surviving spouse" includes a surviving spouse who had a subsequent remarriage.
 
@@ -233,7 +233,7 @@
 
 * (g)(1) When the Secretary has furnished a headstone or marker under subsection (a) for the unmarked grave of an individual, the Secretary shall, if feasible, add a memorial inscription to that headstone or marker rather than furnishing a separate headstone or marker under that subsection for the surviving spouse or eligible dependent child of such individual.
 
-* (2) When the Secretary has furnished a memorial headstone or marker under subsection (b) for purposes of commemorating a veteran or an individual who died in the active military, naval, or air service, the Secretary shall, if feasible, add a memorial inscription to that headstone or marker rather than furnishing a separate memorial headstone or marker under that subsection for the surviving spouse or eligible dependent child of such individual.
+* (2) When the Secretary has furnished a memorial headstone or marker under subsection (b) for purposes of commemorating a veteran or an individual who died in the active military, naval, air, or space service, the Secretary shall, if feasible, add a memorial inscription to that headstone or marker rather than furnishing a separate memorial headstone or marker under that subsection for the surviving spouse or eligible dependent child of such individual.
 
 * (h)(1) A headstone or marker may not be furnished under subsection (a) for the unmarked grave of a person described in section 2411(b) of this title.
 
@@ -243,7 +243,11 @@
 
 * (4) A casket or urn may not be furnished under subsection (f) for burial of a person described in section 2411(b) of this title.
 
-* (i) In this section, the term "tribal organization" has the meaning given such term in section 3765 of this title.
+* (i)(1) In addition to any other authority under this section, in the case of an individual whose grave is not in a covered cemetery (as that term is defined in subsection (f)(2)) and for whom the Secretary has furnished a headstone or marker under subsection (a) or (d), the Secretary, if feasible and upon request, may replace the headstone or marker to add an inscription for the surviving spouse or eligible dependent child of such individual following the death of the surviving spouse or eligible dependent child.
+
+* (2) If the spouse or eligible dependent child of an individual referred to in paragraph (1) predeceases the individual, the Secretary may, if feasible and upon request, include an inscription for the spouse or dependent child on the headstone or marker furnished for the individual under subsection (a) or (d).
+
+* (j) In this section, the term "tribal organization" has the meaning given such term in section 3765 of this title.
 
 ### §2307. Death from service-connected disability
 * In any case in which a veteran dies as the result of a service-connected disability or disabilities, the Secretary, upon the request of the survivors of such veteran, shall pay the burial and funeral expenses incurred in connection with the death of the veteran in an amount not exceeding the greater of (1) $2,000, or (2) the amount authorized to be paid under section 8134(a) of title 5 in the case of a Federal employee whose death occurs as the result of an injury sustained in the performance of duty. Funeral and burial benefits provided under this section shall be in lieu of any benefits authorized under sections 2302 and 2303(a)(1) and (b)(2) of this title.

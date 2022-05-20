@@ -9,7 +9,7 @@
 
   * (d) "Indian" means a person who is a member of an Indian tribe;
 
-  * (e) "Indian tribe" means any Indian tribe, band, nation, or other organized group or community, including any Alaska Native village or regional or village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act (85 Stat. 688) [43 U.S.C. 1601 et seq.], which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians;
+  * (e) "Indian tribe" or "Indian Tribe" means any Indian tribe, band, nation, or other organized group or community, including any Alaska Native village or regional or village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act (85 Stat. 688) [43 U.S.C. 1601 et seq.], which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians;
 
   * (f) "indirect costs" means costs incurred for a common or joint purpose benefiting more than one contract objective, or which are not readily assignable to the contract objectives specifically benefited without effort disproportionate to the results achieved;
 
@@ -19,11 +19,16 @@
 
   * (i) "Secretary", unless otherwise designated, means either the Secretary of Health and Human Services or the Secretary of the Interior or both;
 
-  * (j) "self-determination contract" means a contract (or grant or cooperative agreement utilized under section 5308 of this title) entered into under subchapter I of this chapter between a tribal organization and the appropriate Secretary for the planning, conduct and administration of programs or services which are otherwise provided to Indian tribes and their members pursuant to Federal law: _Provided_, That except as provided the last proviso in section 5324(a) of this title, no contract (or grant or cooperative agreement utilized under section 5308 of this title) entered into under subchapter I of this chapter shall be construed to be a procurement contract;
+  * (j) "self-determination contract" means a contract entered into under subchapter I (or a grant or cooperative agreement used under section 5308 of this title) between a Tribal organization and the appropriate Secretary for the planning, conduct, and administration of programs or services that are otherwise provided to Indian Tribes and members of Indian Tribes pursuant to Federal law, subject to the condition that, except as provided in section 5324(a)(3) of this title, no contract entered into under subchapter I (or grant or cooperative agreement used under section 5308 of this title) shall be—
+
+    * (1) considered to be a procurement contract; or
+
+    * (2) except as provided in section 5328(a)(1) of this title, subject to any Federal procurement law (including regulations);
+
 
   * (k) "State education agency" means the State board of education or other agency or officer primarily responsible for supervision by the State of public elementary and secondary schools, or, if there is no such officer or agency, an officer or agency designated by the Governor or by State law;
 
-  * (l) "tribal organization" means the recognized governing body of any Indian tribe; any legally established organization of Indians which is controlled, sanctioned, or chartered by such governing body or which is democratically elected by the adult members of the Indian community to be served by such organization and which includes the maximum participation of Indians in all phases of its activities: _Provided_, That in any case where a contract is let or grant made to an organization to perform services benefiting more than one Indian tribe, the approval of each such Indian tribe shall be a prerequisite to the letting or making of such contract or grant; and
+  * (l) "Tribal organization" or "tribal organization" means the recognized governing body of any Indian tribe; any legally established organization of Indians which is controlled, sanctioned, or chartered by such governing body or which is democratically elected by the adult members of the Indian community to be served by such organization and which includes the maximum participation of Indians in all phases of its activities: _Provided_, That in any case where a contract is let or grant made to an organization to perform services benefiting more than one Indian tribe, the approval of each such Indian tribe shall be a prerequisite to the letting or making of such contract or grant; and
 
   * (m) "construction contract" means a fixed-price or cost-reimbursement self-determination contract for a construction project, except that such term does not include any contract—
 

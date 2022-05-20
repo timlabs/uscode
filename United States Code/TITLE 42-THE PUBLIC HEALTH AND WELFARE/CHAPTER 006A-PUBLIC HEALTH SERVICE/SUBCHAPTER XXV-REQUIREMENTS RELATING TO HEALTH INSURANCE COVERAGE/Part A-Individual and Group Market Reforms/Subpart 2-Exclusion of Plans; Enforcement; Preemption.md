@@ -3,7 +3,7 @@
 ### §300gg–21. Exclusion of certain plans
 #### (a) Limitation on application of provisions relating to group health plans
 * #### (1) In general
-  * The requirements of subparts 1 and 2 shall apply with respect to group health plans only—
+  * The requirements of subparts 1 and 2 and part D shall apply with respect to group health plans only—
 
     * (A) subject to paragraph (2), in the case of a plan that is a nonfederal governmental plan, and
 
@@ -37,18 +37,18 @@
     * The election described in subparagraph (A) shall not be available with respect to the provisions of subparts I and II.
 
 #### (b) Exception for certain benefits
-* The requirements of subparts 1 and 2 shall not apply to any individual coverage or any group health plan (or group health insurance coverage) in relation to its provision of excepted benefits described in section 300gg–91(c)(1) of this title.
+* The requirements of subparts 1 and 2 and part D shall not apply to any individual coverage or any group health plan (or group health insurance coverage) in relation to its provision of excepted benefits described in section 300gg–91(c)(1) of this title.
 
 #### (c) Exception for certain benefits if certain conditions met
 * #### (1) Limited, excepted benefits
-  * The requirements of subparts 1 and 2 shall not apply to any individual coverage or any group health plan (and group health insurance coverage offered in connection with a group health plan) in relation to its provision of excepted benefits described in section 300gg–91(c)(2) of this title if the benefits—
+  * The requirements of subparts 1 and 2 and part D shall not apply to any individual coverage or any group health plan (and group health insurance coverage offered in connection with a group health plan) in relation to its provision of excepted benefits described in section 300gg–91(c)(2) of this title if the benefits—
 
     * (A) are provided under a separate policy, certificate, or contract of insurance; or
 
     * (B) are otherwise not an integral part of the plan.
 
 * #### (2) Noncoordinated, excepted benefits
-  * The requirements of subparts 1 and 2 shall not apply to any individual coverage or any group health plan (and group health insurance coverage offered in connection with a group health plan) in relation to its provision of excepted benefits described in section 300gg–91(c)(3) of this title if all of the following conditions are met:
+  * The requirements of subparts 1 and 2 and part D shall not apply to any individual coverage or any group health plan (and group health insurance coverage offered in connection with a group health plan) in relation to its provision of excepted benefits described in section 300gg–91(c)(3) of this title if all of the following conditions are met:
 
     * (A) The benefits are provided under a separate policy, certificate, or contract of insurance.
 
@@ -57,10 +57,10 @@
     * (C) Such benefits are paid with respect to an event without regard to whether benefits are provided with respect to such an event under any group health plan maintained by the same plan sponsor or, with respect to individual coverage, under any health insurance coverage maintained by the same health insurance issuer.
 
 * #### (3) Supplemental excepted benefits
-  * The requirements of this part shall not apply to any individual coverage or any group health plan (and group health insurance coverage) in relation to its provision of excepted benefits described in section 300gg–91(c)(4) of this title if the benefits are provided under a separate policy, certificate, or contract of insurance.
+  * The requirements of this part and part D shall not apply to any individual coverage or any group health plan (and group health insurance coverage) in relation to its provision of excepted benefits described in section 300gg–91(c)(4) of this title if the benefits are provided under a separate policy, certificate, or contract of insurance.
 
 #### (d) Treatment of partnerships
-* For purposes of this part—
+* For purposes of this part and part D—
 
 * #### (1) Treatment as a group health plan
   * Any plan, fund, or program which would not be (but for this subsection) an employee welfare benefit plan and which is established or maintained by a partnership, to the extent that such plan, fund, or program provides medical care (including items and services paid for as medical care) to present or former partners in the partnership or to their dependents (as defined under the terms of the plan, fund, or program), directly or through insurance, reimbursement, or otherwise, shall be treated (subject to paragraph (2)) as an employee welfare benefit plan which is a group health plan.
@@ -81,14 +81,14 @@
 ### §300gg–22. Enforcement
 #### (a) State enforcement
 * #### (1) State authority
-  * Subject to section 300gg–23 of this title, each State may require that health insurance issuers that issue, sell, renew, or offer health insurance coverage in the State in the individual or group market meet the requirements of this part with respect to such issuers.
+  * Subject to section 300gg–23 of this title, each State may require that health insurance issuers that issue, sell, renew, or offer health insurance coverage in the State in the individual or group market meet the requirements of this part and part D with respect to such issuers.
 
 * #### (2) Failure to implement provisions
-  * In the case of a determination by the Secretary that a State has failed to substantially enforce a provision (or provisions) in this part with respect to health insurance issuers in the State, the Secretary shall enforce such provision (or provisions) under subsection (b) insofar as they relate to the issuance, sale, renewal, and offering of health insurance coverage in connection with group health plans or individual health insurance coverage in such State.
+  * In the case of a determination by the Secretary that a State has failed to substantially enforce a provision (or provisions) in this part or part D with respect to health insurance issuers in the State, the Secretary shall enforce such provision (or provisions) under subsection (b) insofar as they relate to the issuance, sale, renewal, and offering of health insurance coverage in connection with group health plans or individual health insurance coverage in such State.
 
 #### (b) Secretarial enforcement authority
 * #### (1) Limitation
-  * The provisions of this subsection shall apply to enforcement of a provision (or provisions) of this part only—
+  * The provisions of this subsection shall apply to enforcement of a provision (or provisions) of this part or part D only—
 
     * (A) as provided under subsection (a)(2); and
 
@@ -98,7 +98,7 @@
   * In the cases described in paragraph (1)—
 
   * #### (A) In general
-    * Subject to the succeeding provisions of this subsection, any non-Federal governmental plan that is a group health plan and any health insurance issuer that fails to meet a provision of this part applicable to such plan or issuer is subject to a civil money penalty under this subsection.
+    * Subject to the succeeding provisions of this subsection, any non-Federal governmental plan that is a group health plan and any health insurance issuer that fails to meet a provision of this part or part D applicable to such plan or issuer is subject to a civil money penalty under this subsection.
 
   * #### (B) Liability for penalty
     * In the case of a failure by—
@@ -116,7 +116,7 @@
       * The maximum amount of penalty imposed under this paragraph is $100 for each day for each individual with respect to which such a failure occurs.
 
     * #### (ii) Considerations in imposition
-      * In determining the amount of any penalty to be assessed under this paragraph, the Secretary shall take into account the previous record of compliance of the entity being assessed with the applicable provisions of this part and the gravity of the violation.
+      * In determining the amount of any penalty to be assessed under this paragraph, the Secretary shall take into account the previous record of compliance of the entity being assessed with the applicable provisions of this part and part D and the gravity of the violation.
 
     * #### (iii) Limitations
       * #### (I) Penalty not to apply where failure not discovered exercising reasonable diligence
@@ -210,10 +210,10 @@
 ### §300gg–23. Preemption; State flexibility; construction
 #### (a) Continued applicability of State law with respect to health insurance issuers
 * #### (1) In general
-  * Subject to paragraph (2) and except as provided in subsection (b), this part and part C insofar as it relates to this part shall not be construed to supersede any provision of State law which establishes, implements, or continues in effect any standard or requirement solely relating to health insurance issuers in connection with individual or group health insurance coverage except to the extent that such standard or requirement prevents the application of a requirement of this part.
+  * Subject to paragraph (2) and except as provided in subsection (b), this part, part D, and part C insofar as it relates to this part or part D shall not be construed to supersede any provision of State law which establishes, implements, or continues in effect any standard or requirement solely relating to health insurance issuers in connection with individual or group health insurance coverage except to the extent that such standard or requirement prevents the application of a requirement of this part or part D.
 
 * #### (2) Continued preemption with respect to group health plans
-  * Nothing in this part shall be construed to affect or modify the provisions of section 1144 of title 29 with respect to group health plans.
+  * Nothing in this part or part D shall be construed to affect or modify the provisions of section 1144 of title 29 with respect to group health plans.
 
 #### (b) Special rules in case of portability requirements
 * #### (1) In general
@@ -237,7 +237,7 @@
     * (vii) reduces the maximum period permitted in an affiliation period under section 2701(g)(1)(B).
 
 #### (c) Rules of construction
-* Nothing in this part (other than section 2704) shall be construed as requiring a group health plan or health insurance coverage to provide specific benefits under the terms of such plan or coverage.
+* Nothing in this part (other than section 2704) or part D shall be construed as requiring a group health plan or health insurance coverage to provide specific benefits under the terms of such plan or coverage.
 
 #### (d) Definitions
 * For purposes of this section—
@@ -449,6 +449,61 @@
 
   * #### (D) Public comment
     * Prior to issuing any final guidance under this paragraph, the Secretary shall provide a public comment period of not less than 60 days during which any member of the public may provide comments on a draft of the guidance.
+
+* #### (8) Compliance requirements
+  * #### (A) Nonquantitative treatment limitation (NQTL) requirements
+    * In the case of a group health plan or a health insurance issuer offering group or individual health insurance coverage that provides both medical and surgical benefits and mental health or substance use disorder benefits and that imposes nonquantitative treatment limitations (referred to in this section as "NQTLs") on mental health or substance use disorder benefits, such plan or issuer shall perform and document comparative analyses of the design and application of NQTLs and, beginning 45 days after December 27, 2020, make available to the applicable State authority (or, as applicable, to the Secretary of Labor or the Secretary of Health and Human Services), upon request, the comparative analyses and the following information:
+
+      * (i) The specific plan or coverage terms or other relevant terms regarding the NQTLs and a description of all mental health or substance use disorder and medical or surgical benefits to which each such term applies in each respective benefits classification.
+
+      * (ii) The factors used to determine that the NQTLs will apply to mental health or substance use disorder benefits and medical or surgical benefits.
+
+      * (iii) The evidentiary standards used for the factors identified in clause (ii), when applicable, provided that every factor shall be defined, and any other source or evidence relied upon to design and apply the NQTLs to mental health or substance use disorder benefits and medical or surgical benefits.
+
+      * (iv) The comparative analyses demonstrating that the processes, strategies, evidentiary standards, and other factors used to apply the NQTLs to mental health or substance use disorder benefits, as written and in operation, are comparable to, and are applied no more stringently than, the processes, strategies, evidentiary standards, and other factors used to apply the NQTLs to medical or surgical benefits in the benefits classification.
+
+      * (v) The specific findings and conclusions reached by the group health plan or health insurance issuer with respect to the health insurance coverage, including any results of the analyses described in this subparagraph that indicate that the plan or coverage is or is not in compliance with this section.
+
+  * #### (B) Secretary request process
+    * #### (i) Submission upon request
+      * The Secretary shall request that a group health plan or a health insurance issuer offering group or individual health insurance coverage submit the comparative analyses described in subparagraph (A) for plans that involve potential violations of this section or complaints regarding noncompliance with this section that concern NQTLs and any other instances in which the Secretary determines appropriate. The Secretary shall request not fewer than 20 such analyses per year.
+
+    * #### (ii) Additional information
+      * In instances in which the Secretary has concluded that the group health plan or health insurance issuer with respect to health insurance coverage has not submitted sufficient information for the Secretary to review the comparative analyses described in subparagraph (A), as requested under clause (i), the Secretary shall specify to the plan or issuer the information the plan or issuer must submit to be responsive to the request under clause (i) for the Secretary to review the comparative analyses described in subparagraph (A) for compliance with this section. Nothing in this paragraph shall require the Secretary to conclude that a group health plan or health insurance issuer is in compliance with this section solely based upon the inspection of the comparative analyses described in subparagraph (A), as requested under clause (i).
+
+    * #### (iii) Required action
+      * #### (I) In general
+        * In instances in which the Secretary has reviewed the comparative analyses described in subparagraph (A), as requested under clause (i), and determined that the group health plan or health insurance issuer is not in compliance with this section, the plan or issuer—
+
+          * (aa) shall specify to the Secretary the actions the plan or issuer will take to be in compliance with this section and provide to the Secretary additional comparative analyses described in subparagraph (A) that demonstrate compliance with this section not later than 45 days after the initial determination by the Secretary that the plan or issuer is not in compliance; and
+
+          * (bb) following the 45-day corrective action period under item (aa), if the Secretary makes a final determination that the plan or issuer still is not in compliance with this section, not later than 7 days after such determination, shall notify all individuals enrolled in the plan or applicable health insurance coverage offered by the issuer that the plan or issuer, with respect to such coverage, has been determined to be not in compliance with this section.
+
+      * #### (II) Exemption from disclosure
+        * Documents or communications produced in connection with the Secretary's recommendations to a group health plan or health insurance issuer shall not be subject to disclosure pursuant to section 552 of title 5.
+
+    * #### (iv) Report
+      * Not later than 1 year after December 27, 2020, and not later than October 1 of each year thereafter, the Secretary shall submit to Congress, and make publicly available, a report that contains—
+
+        * (I) a summary of the comparative analyses requested under clause (i), including the identity of each group health plan or health insurance issuer, with respect to particular health insurance coverage that is determined to be not in compliance after the final determination by the Secretary described in clause (iii)(I)(bb);
+
+        * (II) the Secretary's conclusions as to whether each group health plan or health insurance issuer submitted sufficient information for the Secretary to review the comparative analyses requested under clause (i) for compliance with this section;
+
+        * (III) for each group health plan or health insurance issuer that did submit sufficient information for the Secretary to review the comparative analyses requested under clause (i), the Secretary's conclusions as to whether and why the plan or issuer is in compliance with the requirements under this section;
+
+        * (IV) the Secretary's specifications described in clause (ii) for each group health plan or health insurance issuer that the Secretary determined did not submit sufficient information for the Secretary to review the comparative analyses requested under clause (i) for compliance with this section; and
+
+        * (V) the Secretary's specifications described in clause (iii) of the actions each group health plan or health insurance issuer that the Secretary determined is not in compliance with this section must take to be in compliance with this section, including the reason why the Secretary determined the plan or issuer is not in compliance.
+
+  * #### (C) Compliance program guidance document update process
+    * #### (i) In general
+      * The Secretary shall include instances of noncompliance that the Secretary discovers upon reviewing the comparative analyses requested under subparagraph (B)(i) in the compliance program guidance document described in paragraph (6), as it is updated every 2 years, except that such instances shall not disclose any protected health information or individually identifiable information.
+
+    * #### (ii) Guidance and regulations
+      * Not later than 18 months after December 27, 2020, the Secretary shall finalize any draft or interim guidance and regulations relating to mental health parity under this section. Such draft guidance shall include guidance to clarify the process and timeline for current and potential participants and beneficiaries (and authorized representatives and health care providers of such participants and beneficiaries) with respect to plans to file complaints of such plans or issuers being in violation of this section, including guidance, by plan type, on the relevant State, regional, or national office with which such complaints should be filed.
+
+    * #### (iii) State
+      * The Secretary shall share information on findings of compliance and noncompliance discovered upon reviewing the comparative analyses requested under subparagraph (B)(i) shall be shared with the State where the group health plan is located or the State where the health insurance issuer is licensed to do business for coverage offered by a health insurance issuer in the group market, in accordance with paragraph (6)(B)(iii)(II).
 
 #### (b) Construction
 * Nothing in this section shall be construed—

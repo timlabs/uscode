@@ -69,6 +69,32 @@
 
 * (d) USE OF STATE APPROVING AGENCIES FOR OVERSIGHT ACTIVITIES.—The Secretary may utilize the services of a State approving agency for conducting compliance and risk-based surveys and other such oversight purposes as the Secretary, in consultation with the State approving agencies, considers appropriate without regard to whether the Secretary or the agency approved the courses offered in the State concerned.
 
+### §3673A. Risk-based surveys
+* (a) DEVELOPMENT REQUIRED.—The Secretary, in partnership with State approving agencies, shall develop a searchable risk-based survey for oversight of educational institutions with courses and programs of education approved under this chapter.
+
+* (b) SCOPE.—(1) The scope of the risk-based survey developed under subsection (a) shall be determined by the Secretary, in partnership with the State approving agency.
+
+* (2) At a minimum the scope determined under paragraph (1) shall include the following:
+
+  * (A) Rapid increase in veteran enrollment.
+
+  * (B) Rapid increase in tuition and fees.
+
+  * (C) Complaints tracked and published with the mechanism required by section 3698(b)(2) from students pursuing programs of education with educational assistance furnished under laws administered by the Secretary, based on severity or volume of the complaints.
+
+  * (D) Compliance with section 3680A(d)(1) of this title.
+
+  * (E) Veteran completion rates.
+
+  * (F) Indicators of financial stability.
+
+  * (G) Review of the advertising and recruiting practices of the educational institution, including those by third-party contractors of the educational institution.
+
+  * (H) Matters for which the Federal Government or a State Government brings an action in a court of competent jurisdiction against an educational institution, including matters in cases in which the Federal Government or the State comes to a settled agreement on such matters outside of the court.
+
+
+* (c) DATABASE.—The Secretary, in partnership with the State approving agencies under this chapter, shall establish a database or use an existing system, as the Secretary considers appropriate, to serve as a central repository for information required for or collected during site visits for the risk-based survey developed under subsection (a), so as to improve future oversight of educational institutions with programs of education approved under this chapter.
+
 ### §3674. Reimbursement of expenses
 * (a)(1) Subject to paragraphs (2) through (4) of this subsection, the Secretary is authorized to enter into contracts or agreements with State and local agencies to pay such State and local agencies for reasonable and necessary expenses of salary and travel incurred by employees of such agencies and an allowance for administrative expenses in accordance with the formula contained in subsection (b) of this section in (A) rendering necessary services in ascertaining the qualifications of educational institutions for furnishing courses of education to eligible persons or veterans under this chapter and chapters 30 through 35 of this title and chapter 106 of title 10, and in the supervision of such educational institutions, and (B) furnishing, at the request of the Secretary, any other services in connection with such chapters. Each such contract or agreement shall be conditioned upon compliance with the standards and provisions of such chapters. The Secretary may also reimburse such agencies for work performed by their subcontractors where such work has a direct relationship to the requirements of such chapters, and has had the prior approval of the Secretary.
 
@@ -351,11 +377,11 @@
 
 * (2) For purposes of this subsection, a covered individual is any individual as follows:
 
-  * (A) A veteran who was discharged or released from a period of not fewer than 90 days of service in the active military, naval, or air service less than three years before the date of enrollment in the course concerned.
+  * (A) A veteran who was discharged or released from a period of not fewer than 90 days of service in the active military, naval, air, or space service less than three years before the date of enrollment in the course concerned.
 
   * (B) An individual who is entitled to assistance under—
 
-    * (i) section 3311(b)(9) of this title; or
+    * (i) section 3311(b)(8) of this title; or
 
     * (ii) section 3319 of this title by virtue of the individual's relationship to—
 

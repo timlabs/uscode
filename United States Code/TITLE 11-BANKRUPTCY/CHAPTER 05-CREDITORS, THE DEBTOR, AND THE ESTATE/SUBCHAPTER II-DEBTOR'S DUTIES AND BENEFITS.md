@@ -952,6 +952,8 @@
 
 * (2) In this section, "student loan program" means any program operated under title IV of the Higher Education Act of 1965 or a similar program operated under State or local law.
 
+* (d) A person may not be denied relief under sections 4022 through 4024 of the CARES Act (15 U.S.C. 9056, 9057, 9058) because the person is or has been a debtor under this title.
+
 ### §526. Restrictions on debt relief agencies
 * (a) A debt relief agency shall not—
 

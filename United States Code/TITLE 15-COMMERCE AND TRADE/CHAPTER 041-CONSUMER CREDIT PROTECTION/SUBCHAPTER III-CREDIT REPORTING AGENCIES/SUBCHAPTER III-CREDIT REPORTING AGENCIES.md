@@ -295,6 +295,7 @@
 
   * (3) SELF-REGULATORY ORGANIZATION DEFINED.—For purposes of this subsection, the term "self-regulatory organization" includes any self-regulatory organization (as defined in section 78c(a)(26) of this title), any entity established under title I of the Sarbanes-Oxley Act of 2002 [15 U.S.C. 7211 et seq.], any board of trade designated by the Commodity Futures Trading Commission, and any futures association registered with such Commission.
 
+
 * (z) VETERAN.—The term "veteran" has the meaning given the term in section 101 of title 38.
 
 * (aa) VETERAN'S MEDICAL DEBT.—The term "veteran's medical debt"—
@@ -307,7 +308,7 @@
 #### (a) In general
 * Subject to subsection (c), any consumer reporting agency may furnish a consumer report under the following circumstances and no other:
 
-  * (1) In response to the order of a court having jurisdiction to issue such an order, or a subpoena issued in connection with proceedings before a Federal grand jury.
+  * (1) In response to the order of a court having jurisdiction to issue such an order, a subpoena issued in connection with proceedings before a Federal grand jury, or a subpoena issued in accordance with section 5318 of title 31 or section 3486 of title 18.
 
   * (2) In accordance with the written instructions of the consumer to whom it relates.
 
@@ -595,6 +596,7 @@
   * (A) such name, address, and telephone number are restricted or reported using codes that do not identify, or provide information sufficient to infer, the specific provider or the nature of such services, products, or devices to a person other than the consumer; or
 
   * (B) the report is being provided to an insurance company for a purpose relating to engaging in the business of insurance other than property and casualty insurance.
+
 
 * (7) With respect to a consumer reporting agency described in section 1681a(p) of this title, any information related to a veteran's medical debt if the date on which the hospital care, medical services, or extended care services was rendered relating to the debt antedates the report by less than 1 year if the consumer reporting agency has actual knowledge that the information is related to a veteran's medical debt and the consumer reporting agency is in compliance with its obligation under section 302(c)(5) of the Economic Growth, Regulatory Relief, and Consumer Protection Act.
 
@@ -2171,6 +2173,34 @@
         * (I) the term "appropriate Federal banking agency" has the meaning given the term in section 1813 of title 12; and
 
         * (II) the term "private education loan" has the meaning given the term in section 1650(a) of this title.
+
+  * #### (F) Reporting information during COVID–19 pandemic
+    * #### (i) Definitions
+      * In this subsection:
+
+      * #### (I) Accommodation
+        * The term "accommodation" includes an agreement to defer 1 or more payments, make a partial payment, forbear any delinquent amounts, modify a loan or contract, or any other assistance or relief granted to a consumer who is affected by the coronavirus disease 2019 (COVID–19) pandemic during the covered period.
+
+      * #### (II) Covered period
+        * The term "covered period" means the period beginning on January 31, 2020 and ending on the later of—
+
+          * (aa) 120 days after March 27, 2020; or
+
+          * (bb) 120 days after the date on which the national emergency concerning the novel coronavirus disease (COVID–19) outbreak declared by the President on March 13, 2020 under the National Emergencies Act (50 U.S.C. 1601 et seq.) terminates.
+
+    * #### (ii) Reporting
+      * Except as provided in clause (iii), if a furnisher makes an accommodation with respect to 1 or more payments on a credit obligation or account of a consumer, and the consumer makes the payments or is not required to make 1 or more payments pursuant to the accommodation, the furnisher shall—
+
+        * (I) report the credit obligation or account as current; or
+
+        * (II) if the credit obligation or account was delinquent before the accommodation—
+
+          * (aa) maintain the delinquent status during the period in which the accommodation is in effect; and
+
+          * (bb) if the consumer brings the credit obligation or account current during the period described in item (aa), report the credit obligation or account as current.
+
+    * #### (iii) Exception
+      * Clause (ii) shall not apply with respect to a credit obligation or account of a consumer that has been charged-off.
 
 * #### (2) Duty to correct and update information
   * A person who—

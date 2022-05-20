@@ -6,7 +6,7 @@
 
   * (1) education and training to develop an adequately trained workforce to work with and on behalf of older individuals;
 
-  * (2) applied social research and analysis to improve access to and delivery of services for older individuals;
+  * (2) applied social research, aligned with evidence-based practice, and analysis to improve access to and delivery of services for older individuals;
 
   * (3) evaluation of the performance of the programs, activities, and services provided under this section;
 
@@ -29,7 +29,7 @@
     * (C) training and technical assistance to support States, area agencies on aging, and organizations receiving grants under subchapter X, in engaging in community planning activities;
 
 
-  * (10) the development, implementation, and assessment of technology-based service models and best practices, to support the use of health monitoring and assessment technologies, communication devices, assistive technologies, and other technologies that may remotely connect family and professional caregivers to frail older individuals residing in home and community-based settings or rural areas;
+  * (10) the development, implementation, and assessment of technology-based service models and best practices, to support the use of health monitoring and assessment technologies, communication devices, assistive technologies, and other technologies consistent with section 508 of the Rehabilitation Act of 1973 (29 U.S.C. 794d) that may remotely connect family and professional caregivers to frail older individuals residing in home and community-based settings or rural areas;
 
   * (11) conducting activities of national significance to promote quality and continuous improvement in the support provided to family and other informal caregivers of older individuals through activities that include program evaluation, training, technical assistance, and research, including—
 
@@ -40,18 +40,40 @@
     * (C) programs supporting caregivers in the role they play in providing disease prevention and health promotion services;
 
 
-  * (12) building public awareness of cognitive impairments such as Alzheimer's disease and related disorders with neurological and organic brain dysfunction, depression, and mental disorders;
+  * (12) building public awareness of cognitive impairments, such as Alzheimer's disease and related disorders with neurological and organic brain dysfunction, depression, mental disorders, and traumatic brain injury;
 
-  * (13) continuing support for program integrity initiatives concerning the Medicare program under title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) that train senior volunteers to prevent and identify health care fraud and abuse; and
+  * (13) in coordination with the Secretary of Labor, the demonstration of new strategies for the recruitment, retention, or advancement of direct care workers, and the soliciting, development, and implementation of strategies—
 
-  * (14) any other activities that the Assistant Secretary determines will achieve the objectives of this section.
+    * (A) to reduce barriers to entry for a diverse and high-quality direct care workforce, including providing wages, benefits, and advancement opportunities needed to attract or retain direct care workers; and
 
-#### (b) Authorization of appropriations
+    * (B) to provide education and workforce development programs for direct care workers that include supportive services and career planning;
+
+
+  * (14) the establishment and operation of a national resource center that shall—
+
+    * (A) provide training and technical assistance to agencies in the aging network delivering services to older individuals experiencing the long-term and adverse consequences of trauma;
+
+    * (B) share best practices with the aging network; and
+
+    * (C) make subgrants to the agencies best positioned to advance and improve the delivery of person-centered, trauma-informed services for older individuals experiencing the long-term and adverse consequences of trauma;
+
+
+  * (15) bringing to scale and sustaining evidence-based falls prevention programs that will reduce the number of falls, fear of falling, and fall-related injuries in older individuals, including older individuals with disabilities;
+
+  * (16) bringing to scale and sustaining evidence-based chronic disease self-management programs that empower older individuals, including older individuals with disabilities, to better manage their chronic conditions;
+
+  * (17) continuing support for program integrity initiatives concerning the Medicare program under title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) that train senior volunteers to prevent and identify health care fraud and abuse;
+
+  * (18) projects that address negative health effects associated with social isolation among older individuals; and
+
+  * (19) any other activities that the Assistant Secretary determines will achieve the objectives of this section.
+
+#### (b) Authorization of Appropriations
 * There are authorized to be appropriated to carry out—
 
-  * (1) aging network support activities under this section, $6,216,054 for fiscal year 2017, $6,346,048 for fiscal year 2018, and $6,476,043 for fiscal year 2019; and
+  * (1) aging network support activities under this section, $14,514,550 for fiscal year 2020, $15,385,423 for fiscal year 2021, $16,308,548 for fiscal year 2022, $17,287,061 for fiscal year 2023, and $18,324,285 for fiscal year 2024; and
 
-  * (2) elder rights support activities under this section, $10,856,828 for fiscal year 2017, $11,083,873 for fiscal year 2018, and $11,310,919 for fiscal year 2019.
+  * (2) elder rights support activities under this section, $15,613,440 for fiscal year 2020, $16,550,246 for fiscal year 2021, $17,543,261 for fiscal year 2022, $18,595,857 for fiscal year 2023, and $19,711,608 for fiscal year 2024.
 
 ### §3032a. Career preparation for the field of aging
 #### (a) Grants
@@ -146,11 +168,19 @@
 
     * (A) developing innovative approaches for improving access by older individuals to transportation services, including volunteer driver programs, economically sustainable transportation programs, and programs that allow older individuals to transfer their automobiles to a provider of transportation services in exchange for the services;
 
-    * (B) preparing information on transportation options and resources for older individuals and organizations serving such individuals, and disseminating the information by establishing and operating a toll-free telephone number;
+    * (B) preparing information on transportation options and resources for older individuals and organizations serving such individuals, and disseminating the information by establishing and operating a toll-free telephone number, call center, website or Internet-based portal, mobile application, or other technological tools;
 
-    * (C) developing models and best practices for providing comprehensive integrated transportation services for older individuals, including services administered by the Secretary of Transportation, by providing ongoing technical assistance to agencies providing services under subchapter III and by assisting in coordination of public and community transportation services; and
+    * (C) developing models and best practices for providing comprehensive integrated transportation services for older individuals, including services administered by the Secretary of Transportation, by providing ongoing technical assistance to agencies providing services under subchapter III and by assisting in coordination of public and community transportation services;
 
-    * (D) providing special services to link older individuals to transportation services not provided under subchapter III.
+    * (D)(i) improving the aggregation, availability, and accessibility of information on options for transportation services for older individuals, including information on public transit, on-demand transportation services, volunteer-based transportation services, and other private transportation providers; and
+
+    * (ii) providing older individuals with the ability to schedule trips both in advance and on demand, as appropriate;
+
+    * (E) identifying opportunities to share resources and reduce costs of transportation services for older individuals;
+
+    * (F) coordinating individualized trip planning responses to requests from older individuals for transportation services; and
+
+    * (G) providing special services to link older individuals to transportation services not provided under subchapter III.
 
 #### (c) Economically sustainable transportation
 * In this section, the term "economically sustainable transportation" means demand responsive transportation for older individuals—
@@ -161,76 +191,94 @@
 
 ### §3032f. Demonstration, support, and research projects for multigenerational and civic engagement activities
 #### (a) Grants and contracts
-* The Assistant Secretary shall award grants and enter into contracts with eligible organizations to carry out projects to—
+* The Assistant Secretary shall award grants to and enter into contracts with eligible organizations to carry out projects, serving individuals in younger generations and older individuals, to—
 
-  * (1) provide opportunities for older individuals to participate in multigenerational activities and civic engagement activities designed to meet critical community needs, and use the full range of time, skills, and experience of older individuals, including demonstration and support projects that—
+  * (1) provide opportunities for older individuals to participate in multigenerational activities and civic engagement activities that contribute to the health and wellness of older individuals and individuals in younger generations by promoting—
 
-    * (A) provide support for older relative caregivers (as defined in section 3030s of this title) raising children (such as kinship navigator programs); or
+    * (A) meaningful roles for participants;
 
-    * (B) involve volunteers who are older individuals who provide support and information to families who have a child with a disability or chronic illness, or other families in need of such family support; and
+    * (B) reciprocity in relationship building;
+
+    * (C) reduced social isolation and improved participant social connectedness;
+
+    * (D) improved economic well-being for older individuals;
+
+    * (E) increased lifelong learning; or
+
+    * (F) support for caregivers of families by—
+
+      * (i) providing support for older relative caregivers (as defined in section 3030s(a) of this title) raising children (such as support for kinship navigator programs); or
+
+      * (ii) involving volunteers who are older individuals who provide support and information to families who have a child with a disability or chronic illness, or other families in need of such family support;
 
 
-  * (2) coordinate multigenerational activities and civic engagement activities, promote volunteerism, and facilitate development of and participation in multigenerational activities and civic engagement activities.
+  * (2) coordinate multigenerational activities and civic engagement activities, including multigenerational nutrition and meal service programs;
 
-#### (b) Use of funds
-* An eligible organization shall use funds made available under a grant awarded, or a contract entered into, under this section to—
+  * (3) promote volunteerism, including by providing opportunities for older individuals to become a mentor to individuals in younger generations; and
 
-  * (1) carry out a project described in subsection (a); and
+  * (4) facilitate development of, and participation in, multigenerational activities and civic engagement activities.
 
-  * (2) evaluate the project in accordance with subsection (f).
+#### (b) Grant and contract periods
+* Each grant awarded and contract entered into under subsection (a) shall be for a period of not less than 36 months.
 
-#### (c) Preference
+#### (c) Use of funds
+* #### (1) In general
+  * An eligible organization shall use funds made available under a grant awarded, or a contract entered into, under this section to carry out a project described in subsection (a).
+
+* #### (2) Provision of projects through grantees
+  * In awarding grants and entering into contracts under this section, the Assistant Secretary shall ensure that such grants and contracts are for the projects that satisfy each requirement under paragraphs (1) through (4) of subsection (a).
+
+#### (d) Preference
 * In awarding grants and entering into contracts to carry out a project described in subsection (a), the Assistant Secretary shall give preference to—
 
-  * (1) eligible organizations with a demonstrated record of carrying out multigenerational activities or civic engagement activities;
+  * (1) eligible organizations with a demonstrated record of carrying out, intent to carry out, or intent to partner with local organizations or multiservice organizations to carry out, multigenerational activities or civic engagement activities;
 
   * (2) eligible organizations proposing multigenerational activity projects that will serve older individuals and communities with the greatest need (with particular attention to low-income minority individuals, older individuals with limited English proficiency, older individuals residing in rural areas, and low-income minority communities);
 
-  * (3) eligible organizations proposing civic engagement projects that will serve communities with the greatest need; and
+  * (3) eligible organizations proposing civic engagement projects that will serve communities with the greatest need;
 
-  * (4) eligible organizations with the capacity to develop meaningful roles and assignments that use the time, skills, and experience of older individuals to serve public and nonprofit organizations.
+  * (4) eligible organizations with the capacity to develop meaningful roles and assignments that use the time, skills, and experience of older individuals to serve public and nonprofit organizations; and
 
-#### (d) Application
+  * (5) eligible organizations proposing multigenerational activity projects that utilize shared site programs, such as collocated child care and long-term care facilities.
+
+#### (e) Application
 * To be eligible to receive a grant or enter into a contract under subsection (a), an organization shall submit an application to the Assistant Secretary at such time, in such manner, and accompanied by such information as the Assistant Secretary may reasonably require.
 
-#### (e) Eligible organizations
-* Organizations eligible to receive a grant or enter into a contract under subsection (a)—
+#### (f) Eligible organizations
+* Organizations eligible to receive a grant or enter into a contract under subsection (a) shall—
 
-  * (1) to carry out activities described in subsection (a)(1), shall be organizations that provide opportunities for older individuals to participate in activities described in subsection (a)(1); and
+  * (1) be a State, an area agency on aging, or an organization that provides opportunities for older individuals to participate in activities described in such subsection; and
 
-  * (2) to carry out activities described in subsection (a)(2), shall be organizations with the capacity to conduct the coordination, promotion, and facilitation described in subsection (a)(2), through the use of multigenerational coordinators.
+  * (2) have the capacity to conduct the coordination, promotion, and facilitation described in such subsection through the use of multigenerational coordinators.
 
-#### (f) Local evaluation and report
-* #### (1) Evaluation
-  * Each organization receiving a grant or a contract under subsection (a) to carry out a project described in subsection (a) shall evaluate the multigenerational activities or civic engagement activities carried out under the project to determine—
+#### (g) Evaluation
+* #### (1) In general
+  * Not later than 3 years after March 25, 2020, the Assistant Secretary shall, through data submitted by organizations carrying out projects through grants or contracts under this section, evaluate the activities supported through such grants and contracts to determine—
 
-    * (A) the effectiveness of the activities involved;
+    * (A) the effectiveness of such activities;
 
     * (B) the impact of such activities on the community being served and the organization providing the activities; and
 
-    * (C) the impact of such activities on older individuals involved in such project.
+    * (C) the impact of such activities on older individuals participating in such projects.
 
-* #### (2) Report
-  * The organization shall submit a report to the Assistant Secretary containing the evaluation not later than 6 months after the expiration of the period for which the grant or contract is in effect.
+* #### (2) Report to Congress
+  * Not later than 6 months after the Assistant Secretary completes the evaluation under paragraph (1), the Assistant Secretary shall prepare and submit to the Speaker of the House of Representatives and the President pro tempore of the Senate a report that assesses such evaluation and contains, at a minimum—
 
-#### (g) Report to Congress
-* Not later than 6 months after the Assistant Secretary receives the reports described in subsection (f)(2), the Assistant Secretary shall prepare and submit to the Speaker of the House of Representatives and the President pro tempore of the Senate a report that assesses the evaluations and includes, at a minimum—
+    * (A) the names or descriptive titles of the projects funded under subsection (a);
 
-  * (1) the names or descriptive titles of the projects funded under subsection (a);
+    * (B) a description of the nature and operation of such projects;
 
-  * (2) a description of the nature and operation of the projects;
+    * (C) the names and addresses of organizations that conducted such projects;
 
-  * (3) the names and addresses of organizations that conducted the projects;
+    * (D) a description of the methods and success of such projects in recruiting older individuals as employees and as volunteers to participate in the projects;
 
-  * (4) in the case of projects carried out under subsection (a)(1), a description of the methods and success of the projects in recruiting older individuals as employees and as volunteers to participate in the projects;
+    * (E) a description of the success of the projects in retaining older individuals participating in such projects as employees and as volunteers;
 
-  * (5) in the case of projects carried out under subsection (a)(1), a description of the success of the projects in retaining older individuals participating in the projects as employees and as volunteers;
+    * (F) the rate of turnover of older individuals who are employees or volunteers in such projects;
 
-  * (6) in the case of projects carried out under subsection (a)(1), the rate of turnover of older individual employees and volunteers in the projects;
+    * (G) a strategy for disseminating the findings resulting from such projects; and
 
-  * (7) a strategy for disseminating the findings resulting from the projects described in paragraph (1); and
-
-  * (8) any policy change recommendations relating to the projects.
+    * (H) any policy change recommendations relating to such projects.
 
 #### (h) Definitions
 * As used in this section:
@@ -245,7 +293,7 @@
 
     * (B) nurtures productive, sustainable working relationships between—
 
-      * (i) individuals from the generations with older individuals; and
+      * (i) older individuals; and
 
       * (ii) individuals in younger generations.
 

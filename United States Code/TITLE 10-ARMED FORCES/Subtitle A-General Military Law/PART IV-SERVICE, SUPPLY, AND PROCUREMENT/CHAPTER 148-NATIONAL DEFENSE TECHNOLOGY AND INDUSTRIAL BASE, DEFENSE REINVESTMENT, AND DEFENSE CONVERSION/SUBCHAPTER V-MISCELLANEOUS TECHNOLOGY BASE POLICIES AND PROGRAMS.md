@@ -130,7 +130,9 @@
 
 * (g) EXCEPTION FOR COMMISSARIES, EXCHANGES, AND OTHER NONAPPROPRIATED FUND INSTRUMENTALITIES.—Subsection (a) does not apply to items purchased for resale purposes in commissaries, exchanges, or nonappropriated fund instrumentalities operated by the Department of Defense.
 
-* (h) EXCEPTION FOR SMALL PURCHASES.—Subsection (a) does not apply to purchases for amounts not greater than the simplified acquisition threshold referred to in section 2304(g) of this title.
+* (h) EXCEPTION FOR SMALL PURCHASES.—(1) Subsection (a) does not apply to purchases for amounts not greater than $150,000. A proposed procurement of an item in an amount greater than $150,000 may not be divided into several purchases or contracts for lesser amounts in order to qualify for this exception.
+
+* (2) On October 1 of each year that is evenly divisible by five, the Secretary of Defense may adjust the dollar threshold in this subsection based on changes in the Consumer Price Index. Any such adjustment shall take effect on the date on which the Secretary publishes notice of such adjustment in the Federal Register.
 
 * (i) APPLICABILITY TO CONTRACTS AND SUBCONTRACTS FOR PROCUREMENT OF COMMERCIAL PRODUCTS.—This section is applicable to contracts and subcontracts for the procurement of commercial products notwithstanding section 1906 of title 41.
 
@@ -338,79 +340,95 @@
 
   * (3) END ITEM.—The term "end item" has the meaning given in section 2533b(m) of this title.
 
+### §2533d. Additional requirements pertaining to printed circuit boards
+* (a) IN GENERAL.—
+
+  * (1) Beginning on January 1, 2023, the Secretary of Defense may not acquire a covered printed circuit board from a covered nation.
+
+  * (2) Paragraph (1) shall not apply with respect to any acquisition of supplies or services below the micro-purchase threshold under section 2338 of this title.
+
+
+* (b) WAIVER.—
+
+  * (1) The Secretary may waive the prohibition under subsection (a) if the Secretary determines in writing that—
+
+    * (A) there are no significant national security concerns regarding counterfeiting, quality, or unauthorized access created by such waiver;
+
+    * (B) the waiver is required to support national security; and
+
+    * (C) a covered printed circuit board of satisfactory quality and sufficient quantity, in the required form, cannot be procured as and when needed from nations other than a covered nation at reasonable cost, excluding comparisons with non-market economies.
+
+
+  * (2) Not later than 10 days after the Secretary provides a waiver under paragraph (1), the Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a written notice setting forth the reasoning for the waiver, together with a copy of the waiver itself.
+
+
+* (c) DEFINITIONS.—In this section:
+
+  * (1) COVERED NATION.—The term "covered nation" means—
+
+    * (A) the Democratic People's Republic of North Korea;
+
+    * (B) the People's Republic of China;
+
+    * (C) the Russian Federation; and
+
+    * (D) the Islamic Republic of Iran.
+
+
+  * (2) COVERED PRINTED CIRCUIT BOARD.—The term "covered printed circuit board" means any partially manufactured or complete bare printed circuit board or fully or partially assembled printed circuit board that—
+
+    * (A) performs a mission critical function in any product or service that is not a commercial product or commercial service (as such terms are defined under sections 103 and 103a of title 41, respectively); or
+
+    * (B) the Secretary designates as a covered printed circuit board, after reasonable notice, based on a determination that the designation is required to support national security.
+
+
+  * (3) SECRETARY.—The term "Secretary" means the Secretary of Defense.
+
+
+* (d) RULEMAKING.—Not later than May 1, 2022, the Secretary shall promulgate regulations, after an opportunity for notice and comment, implementing this section.
+
+* (e) APPLICABILITY.—This section shall apply only with respect to contracts entered into after the issuance of a final rule implementing this section.
+
+* (f) RULE OF CONSTRUCTION.—Nothing in this section shall be construed to prohibit the Department of Defense from entering into a contract with an entity that connects to the facilities of a third party, for the purposes of backhaul, roaming, or interconnection arrangements, on the basis of the noncompliance by the third party with the provisions of this section or use of equipment or services that do not route or redirect user data traffic or permit visibility into any user data or packets that such equipment transmits or otherwise handles.
+
 ### §2534. Miscellaneous limitations on the procurement of goods other than United States goods
 * (a) LIMITATION ON CERTAIN PROCUREMENTS.—The Secretary of Defense may procure any of the following items only if the manufacturer of the item satisfies the requirements of subsection (b):
 
   * (1) BUSES.—Multipassenger motor vehicles (buses).
 
-  * (2) CHEMICAL WEAPONS ANTIDOTE.—Chemical weapons antidote contained in automatic injectors (and components for such injectors).
+  * (2) Components for naval vessels.—The following components of vessels, to the extent they are unique to marine applications:
 
-  * (3) COMPONENTS FOR NAVAL VESSELS.—(A) The following components:
+    * (A) Gyrocompasses.
 
-    * (i) Air circuit breakers.
+    * (B) Electronic navigation chart systems.
 
-    * (ii) Welded shipboard anchor and mooring chain with a diameter of four inches or less.
+    * (C) Steering controls.
 
-    * (iii) Vessel propellers with a diameter of six feet or more.
+    * (D) Propulsion and machinery control systems.
 
-
-  * (B) The following components of vessels, to the extent they are unique to marine applications: gyrocompasses, electronic navigation chart systems, steering controls, pumps, propulsion and machinery control systems, and totally enclosed lifeboats.
-
-  * (4) VALVES AND MACHINE TOOLS.—Items in the following categories:
-
-    * (A) Powered and non-powered valves in Federal Supply Classes 4810 and 4820 used in piping for naval surface ships and submarines.
-
-    * (B) Machine tools in the Federal Supply Classes for metal-working machinery numbered 3405, 3408, 3410 through 3419, 3426, 3433, 3438, 3441 through 3443, 3445, 3446, 3448, 3449, 3460, and 3461.
+    * (E) Totally enclosed lifeboats.
 
 
-  * (5) BALL BEARINGS AND ROLLER BEARINGS.—Ball bearings and roller bearings, in accordance with subpart 225.71 of part 225 of the Defense Federal Acquisition Regulation Supplement, as in effect on October 23, 1992, except ball bearings and roller bearings being procured for use in an end product manufactured by a manufacturer that does not satisfy the requirements of subsection (b) or in a component part manufactured by such a manufacturer.
+  * (3) COMPONENTS FOR AUXILIARY SHIPS.—Subject to subsection (j), large medium-speed diesel engines.
 
-  * (6) COMPONENTS FOR AUXILIARY SHIPS.—Subject to subsection (k), large medium-speed diesel engines.
+  * (4) COMPONENTS FOR T–AO 205 CLASS VESSELS.—The following components of T–AO 205 class vessels:
 
+    * (A) Auxiliary equipment, including pumps, for all shipboard services.
 
-* (b) MANUFACTURER IN THE NATIONAL TECHNOLOGY AND INDUSTRIAL BASE.—
+    * (B) Propulsion system components, including engines, reduction gears, and propellers.
 
-  * (1) GENERAL REQUIREMENT.—A manufacturer meets the requirements of this subsection if the manufacturer is part of the national technology and industrial base.
+    * (C) Shipboard cranes.
 
-  * (2) MANUFACTURERS OF CHEMICAL WEAPONS ANTIDOTE.—In the case of a procurement of chemical weapons antidote referred to in subsection (a)(2), a manufacturer meets the requirements of this subsection only if the manufacturer—
-
-    * (A) meets the requirement set forth in paragraph (1);
-
-    * (B) is an existing producer under the industrial preparedness program at the time the contract is awarded;
-
-    * (C) has received all required regulatory approvals; and
-
-    * (D) when the contract for the procurement is awarded, has in existence in the national technology and industrial base the plant, equipment, and personnel necessary to perform the contract.
+    * (D) Spreaders for shipboard cranes.
 
 
-  * (3) MANUFACTURER OF VESSEL PROPELLERS.—In the case of a procurement of vessel propellers referred to in subsection (a)(3)(A)(iii), the manufacturer of the propellers meets the requirements of this subsection only if—
-
-    * (A) the manufacturer meets the requirements set forth in paragraph (1); and
-
-    * (B) all castings incorporated into such propellers are poured and finished in the United States.
+  * (5) STAR TRACKER.—A star tracker used in a satellite weighing more than 400 pounds whose principle purpose is to support the national security, defense, or intelligence needs of the United States Government.
 
 
-* (c) APPLICABILITY TO CERTAIN ITEMS.—
-
-  * (1) COMPONENTS FOR NAVAL VESSELS.—Subsection (a) does not apply to a procurement of spare or repair parts needed to support components for naval vessels produced or manufactured outside the United States.
-
-  * (2) VALVES AND MACHINE TOOLS.—(A) Contracts to which subsection (a) applies include the following contracts for the procurement of items described in paragraph (4) of such subsection:
-
-    * (i) A contract for procurement of such an item for use in property under the control of the Department of Defense, including any Government-owned, contractor-operated facility.
-
-    * (ii) A contract that is entered into by a contractor on behalf of the Department of Defense for the purpose of providing such an item to another contractor as Government-furnished equipment.
+* (b) MANUFACTURER IN THE NATIONAL TECHNOLOGY AND INDUSTRIAL BASE.—A manufacturer meets the requirements of this subsection if the manufacturer is part of the national technology and industrial base.
 
 
-  * (B) In any case in which a contract for items described in subsection (a)(4) includes the procurement of more than one Federal Supply Class of machine tools or machine tools and accessories, each supply class shall be evaluated separately for purposes of determining whether the limitation in subsection (a) applies.
-
-  * (C) Subsection (a)(4) and this paragraph shall cease to be effective on October 1, 1996.
-
-  * (3) BALL BEARINGS AND ROLLER BEARINGS.—Subsection (a)(5) and this paragraph shall cease to be effective on October 1, 2005.
-
-  * (4) VESSEL PROPELLERS.—Subsection (a)(3)(A)(iii) and this paragraph shall cease to be effective on February 10, 1998.
-
-  * (5) CHEMICAL WEAPONS ANTIDOTE.—Subsections (a)(2) and (b)(2) shall cease to be effective on October 1, 2018.
-
+* (c) APPLICABILITY TO CERTAIN ITEMS.—Subsection (a) does not apply to a procurement of spare or repair parts needed to support components for naval vessels produced or manufactured outside the United States.
 
 * (d) WAIVER AUTHORITY.—The Secretary of Defense may waive the limitation in subsection (a) with respect to the procurement of an item listed in that subsection if the Secretary determines that any of the following apply:
 
@@ -449,11 +467,9 @@
   * (3) specifically identifies the particular domestic source involved and states that the contract to be awarded pursuant to such provision of law is being awarded in contravention of this section.
 
 
-* (g) INAPPLICABILITY TO CONTRACTS UNDER SIMPLIFIED ACQUISITION THRESHOLD.—(1) This section does not apply to a contract or subcontract for an amount that does not exceed the simplified acquisition threshold.
+* (g) INAPPLICABILITY TO CONTRACTS UNDER SIMPLIFIED ACQUISITION THRESHOLD.—This section does not apply to a contract or subcontract for an amount that does not exceed the simplified acquisition threshold.
 
-* (2) Paragraph (1) does not apply to contracts for items described in subsection (a)(5) (relating to ball bearings and roller bearings), notwithstanding section 1905 of title 41.
-
-* (h) IMPLEMENTATION OF NAVAL VESSEL COMPONENT LIMITATION.—In implementing subsection (a)(3)(B), the Secretary of Defense—
+* (h) IMPLEMENTATION OF NAVAL VESSEL COMPONENT LIMITATION.—In implementing subsection (a)(2), the Secretary of Defense—
 
   * (1) may not use contract clauses or certifications; and
 
@@ -464,26 +480,13 @@
 
 * (2) This subsection applies to the waiver authority provided by subsection (d) on the basis of the applicability of paragraph (2) or (3) of that subsection.
 
-* (3) The waiver authority described in paragraph (2) may not be delegated below the Under Secretary of Defense for Acquisition, Technology, and Logistics.
+* (3) The waiver authority described in paragraph (2) may not be delegated below the Under Secretary of Defense for Acquisition and Sustainment.
 
 * (4) At least 15 days before the effective date of any waiver made under the waiver authority described in paragraph (2), the Secretary shall publish in the Federal Register and submit to the congressional defense committees a notice of the determination to exercise the waiver authority.
 
 * (5) Any waiver made by the Secretary under the waiver authority described in paragraph (2) shall be in effect for a period not greater than one year, as determined by the Secretary.
 
-* (j) INAPPLICABILITY TO CERTAIN CONTRACTS TO PURCHASE BALL BEARINGS OR ROLLER BEARINGS.—(1) This section does not apply with respect to a contract or subcontract to purchase items described in subsection (a)(5) (relating to ball bearings and roller bearings) for which—
-
-  * (A) the amount of the purchase does not exceed $2,500;
-
-  * (B) the precision level of the ball or roller bearings to be procured under the contract or subcontract is rated lower than the rating known as Annual Bearing Engineering Committee (ABEC) 5 or Roller Bearing Engineering Committee (RBEC) 5, or an equivalent of such rating;
-
-  * (C) at least two manufacturers in the national technology and industrial base that are capable of producing the ball or roller bearings have not responded to a request for quotation issued by the contracting activity for that contract or subcontract; and
-
-  * (D) no bearing to be procured under the contract or subcontract has a basic outside diameter (exclusive of flange diameters) in excess of 30 millimeters.
-
-
-* (2) Paragraph (1) does not apply to a purchase if such purchase would result in the total amount of purchases of ball bearings and roller bearings to satisfy requirements under Department of Defense contracts, using the authority provided in such paragraph, to exceed $200,000 during the fiscal year of such purchase.
-
-* (k) LIMITATION ON CERTAIN PROCUREMENTS APPLICATION PROCESS.—
+* (j) LIMITATION ON CERTAIN PROCUREMENTS APPLICATION PROCESS.—
 
   * (1) IN GENERAL.—The Secretary of Defense shall administer a process to analyze and assess potential items for consideration to be required to be procured from a manufacturer that is part of the national technology and industrial base.
 
@@ -534,7 +537,7 @@
 
   * (4) RECOMMENDATIONS FOR LEGISLATION.—For applications recommended under subsection (3), the official designated pursuant to paragraph (2)(A) shall be responsible for preparing a legislative proposal for consideration by the Secretary.
 
-* (k) IMPLEMENTATION OF AUXILIARY SHIP COMPONENT LIMITATION.—Subsection (a)(6) applies only with respect to contracts awarded by the Secretary of a military department for new construction of an auxiliary ship after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2020 using funds available for National Defense Sealift Fund programs or Shipbuilding and Conversion, Navy. For purposes of this subsection, the term 'auxiliary ship' does not include an icebreaker or a special mission ship.
+* (k) IMPLEMENTATION OF AUXILIARY SHIP COMPONENT LIMITATION.—Subsection (a)(3) applies only with respect to contracts awarded by the Secretary of a military department for new construction of an auxiliary ship after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2020 using funds available for National Defense Sealift Fund programs or Shipbuilding and Conversion, Navy. For purposes of this subsection, the term "auxiliary ship" does not include an icebreaker or a special mission ship.
 
 ### §2535. Defense Industrial Reserve
 * (a) DECLARATION OF PURPOSE AND POLICY.—It is the intent of Congress—

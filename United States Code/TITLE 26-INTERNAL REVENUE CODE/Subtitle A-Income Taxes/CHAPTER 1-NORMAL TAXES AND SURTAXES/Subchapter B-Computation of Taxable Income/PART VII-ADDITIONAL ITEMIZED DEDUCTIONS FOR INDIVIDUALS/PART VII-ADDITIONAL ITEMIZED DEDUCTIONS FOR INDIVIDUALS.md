@@ -14,7 +14,7 @@
 
 ### §213. Medical, dental, etc., expenses
 #### (a) Allowance of deduction
-* There shall be allowed as a deduction the expenses paid during the taxable year, not compensated for by insurance or otherwise, for medical care of the taxpayer, his spouse, or a dependent (as defined in section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof), to the extent that such expenses exceed 10 percent of adjusted gross income.
+* There shall be allowed as a deduction the expenses paid during the taxable year, not compensated for by insurance or otherwise, for medical care of the taxpayer, his spouse, or a dependent (as defined in section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof), to the extent that such expenses exceed 7.5 percent of adjusted gross income.
 
 #### (b) Limitation with respect to medicine and drugs
 * An amount paid during the taxable year for medicine or a drug shall be taken into account under subsection (a) only if such medicine or drug is a prescribed drug or is insulin.
@@ -118,9 +118,6 @@
 
 #### (e) Exclusion of amounts allowed for care of certain dependents
 * Any expense allowed as a credit under section 21 shall not be treated as an expense paid for medical care.
-
-#### (f) Temporary special rule
-* In the case of taxable years beginning before January 1, 2021, subsection (a) shall be applied with respect to a taxpayer by substituting "7.5 percent" for "10 percent".
 
 ### §216. Deduction of taxes, interest, and business depreciation by cooperative housing corporation tenant-stockholder
 #### (a) Allowance of deduction
@@ -487,7 +484,7 @@
 
       * (i) after application of sections 86 and 469, and
 
-      * (ii) without regard to sections 135, 137, 221, 222, and 911 or the deduction allowable under this section.
+      * (ii) without regard to sections 135, 137, 221, and 911 or the deduction allowable under this section.
 
   * #### (B) Applicable dollar amount
     * The term "applicable dollar amount" means the following:
@@ -734,7 +731,7 @@
 
 * #### (2) Qualified medical expenses
   * #### (A) In general
-    * The term "qualified medical expenses" means, with respect to an account holder, amounts paid by such holder for medical care (as defined in section 213(d)) for such individual, the spouse of such individual, and any dependent (as defined in section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof) of such individual, but only to the extent such amounts are not compensated for by insurance or otherwise. Such term shall include an amount paid for medicine or a drug only if such medicine or drug is a prescribed drug (determined without regard to whether such drug is available without a prescription) or is insulin.
+    * The term "qualified medical expenses" means, with respect to an account holder, amounts paid by such holder for medical care (as defined in section 213(d)) for such individual, the spouse of such individual, and any dependent (as defined in section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof) of such individual, but only to the extent such amounts are not compensated for by insurance or otherwise. For purposes of this subparagraph, amounts paid for menstrual care products (as defined in section 223(d)(2)(D)) shall be treated as paid for medical care.
 
   * #### (B) Health insurance may not be purchased from account
     * #### (i) In general
@@ -1009,7 +1006,7 @@
   * #### (C) Modified adjusted gross income
     * The term "modified adjusted gross income" means adjusted gross income determined—
 
-      * (i) without regard to this section and sections 222, 911, 931, and 933, and
+      * (i) without regard to this section and sections 911, 931, and 933, and
 
       * (ii) after application of sections 86, 135, 137, 219, and 469.
 
@@ -1049,7 +1046,7 @@
 
 #### (e) Special rules
 * #### (1) Denial of double benefit
-  * No deduction shall be allowed under this section for any amount for which a deduction is allowable under any other provision of this chapter. The deduction otherwise allowable under subsection (a) (prior to the application of subsection (b)) to the taxpayer for any taxable year shall be reduced (but not below zero) by so much of the distributions treated as a qualified higher education expense under section 529(c)(9) with respect to loans of the taxpayer as would be includible in gross income under section 529(c)(3)(A) for such taxable year but for such treatment.
+  * No deduction shall be allowed under this section for any amount for which a deduction is allowable under any other provision of this chapter, or for which an exclusion is allowable under section 127 to the taxpayer by reason of the payment by the taxpayer's employer of any indebtedness on a qualified education loan of the taxpayer. The deduction otherwise allowable under subsection (a) (prior to the application of subsection (b)) to the taxpayer for any taxable year shall be reduced (but not below zero) by so much of the distributions treated as a qualified higher education expense under section 529(c)(9) with respect to loans of the taxpayer as would be includible in gross income under section 529(c)(3)(A) for such taxable year but for such treatment.
 
 * #### (2) Married couples must file joint return
   * If the taxpayer is married at the close of the taxable year, the deduction shall be allowed under subsection (a) only if the taxpayer and the taxpayer's spouse file a joint return for the taxable year.
@@ -1067,87 +1064,6 @@
 
 * #### (2) Rounding
   * If any amount as adjusted under paragraph (1) is not a multiple of $5,000, such amount shall be rounded to the next lowest multiple of $5,000.
-
-### §222. Qualified tuition and related expenses
-#### (a) Allowance of deduction
-* In the case of an individual, there shall be allowed as a deduction an amount equal to the qualified tuition and related expenses paid by the taxpayer during the taxable year.
-
-#### (b) Dollar limitations
-* #### (1) In general
-  * The amount allowed as a deduction under subsection (a) with respect to the taxpayer for any taxable year shall not exceed the applicable dollar limit.
-
-* #### (2) Applicable dollar limit
-  * #### (A) 2002 and 2003
-    * In the case of a taxable year beginning in 2002 or 2003, the applicable dollar limit shall be equal to—
-
-      * (i) in the case of a taxpayer whose adjusted gross income for the taxable year does not exceed $65,000 ($130,000 in the case of a joint return), $3,000, and—
-
-      * (ii) in the case of any other taxpayer, zero.
-
-  * #### (B) After 2003
-    * In the case of any taxable year beginning after 2003, the applicable dollar amount shall be equal to—
-
-      * (i) in the case of a taxpayer whose adjusted gross income for the taxable year does not exceed $65,000 ($130,000 in the case of a joint return), $4,000,
-
-      * (ii) in the case of a taxpayer not described in clause (i) whose adjusted gross income for the taxable year does not exceed $80,000 ($160,000 in the case of a joint return), $2,000, and
-
-      * (iii) in the case of any other taxpayer, zero.
-
-  * #### (C) Adjusted gross income
-    * For purposes of this paragraph, adjusted gross income shall be determined—
-
-      * (i) without regard to this section and sections 911, 931, and 933, and
-
-      * (ii) after application of sections 86, 135, 137, 219, 221, and 469.
-
-#### (c) No double benefit
-* #### (1) In general
-  * No deduction shall be allowed under subsection (a) for any expense for which a deduction is allowed to the taxpayer under any other provision of this chapter.
-
-* #### (2) Coordination with other education incentives
-  * #### (A) Denial of deduction if credit elected
-    * No deduction shall be allowed under subsection (a) for a taxable year with respect to the qualified tuition and related expenses with respect to an individual if the taxpayer or any other person elects to have section 25A apply with respect to such individual for such year.
-
-  * #### (B) Coordination with exclusions
-    * The total amount of qualified tuition and related expenses shall be reduced by the amount of such expenses taken into account in determining any amount excluded under section 135, 529(c)(1), or 530(d)(2). For purposes of the preceding sentence, the amount taken into account in determining the amount excluded under section 529(c)(1) shall not include that portion of the distribution which represents a return of any contributions to the plan.
-
-* #### (3) Dependents
-  * No deduction shall be allowed under subsection (a) to any individual with respect to whom a deduction under section 151 is allowable to another taxpayer for a taxable year beginning in the calendar year in which such individual's taxable year begins.
-
-#### (d) Definitions and special rules
-* For purposes of this section—
-
-* #### (1) Qualified tuition and related expenses
-  * The term "qualified tuition and related expenses" has the meaning given such term by section 25A(f). Such expenses shall be reduced in the same manner as under section 25A(g)(2).
-
-* #### (2) Identification requirement
-  * No deduction shall be allowed under subsection (a) to a taxpayer with respect to the qualified tuition and related expenses of an individual unless the taxpayer includes the name and taxpayer identification number of the individual on the return of tax for the taxable year.
-
-* #### (3) Limitation on taxable year of deduction
-  * #### (A) In general
-    * A deduction shall be allowed under subsection (a) for qualified tuition and related expenses for any taxable year only to the extent such expenses are in connection with enrollment at an institution of higher education during the taxable year.
-
-  * #### (B) Certain prepayments allowed
-    * Subparagraph (A) shall not apply to qualified tuition and related expenses paid during a taxable year if such expenses are in connection with an academic term beginning during such taxable year or during the first 3 months of the next taxable year.
-
-* #### (4) No deduction for married individuals filing separate returns
-  * If the taxpayer is a married individual (within the meaning of section 7703), this section shall apply only if the taxpayer and the taxpayer's spouse file a joint return for the taxable year.
-
-* #### (5) Nonresident aliens
-  * If the taxpayer is a nonresident alien individual for any portion of the taxable year, this section shall apply only if such individual is treated as a resident alien of the United States for purposes of this chapter by reason of an election under subsection (g) or (h) of section 6013.
-
-* #### (6) Payee statement requirement
-  * #### (A) In general
-    * Except as otherwise provided by the Secretary, no deduction shall be allowed under subsection (a) unless the taxpayer receives a statement furnished under section 6050S(d) which contains all of the information required by paragraph (2) thereof.
-
-  * #### (B) Statement received by dependent
-    * The receipt of the statement referred to in subparagraph (A) by an individual described in subsection (c)(3) shall be treated for purposes of subparagraph (A) as received by the taxpayer.
-
-* #### (7) Regulations
-  * The Secretary may prescribe such regulations as may be necessary or appropriate to carry out this section, including regulations requiring recordkeeping and information reporting.
-
-#### (e) Termination
-* This section shall not apply to taxable years beginning after December 31, 2020.
 
 ### §223. Health savings accounts
 #### (a) Deduction allowed
@@ -1251,7 +1167,7 @@
 
       * (i) coverage for any benefit provided by permitted insurance,
 
-      * (ii) coverage (whether through insurance or otherwise) for accidents, disability, dental care, vision care, or long-term care, and
+      * (ii) coverage (whether through insurance or otherwise) for accidents, disability, dental care, vision care, long-term care, or (in the case of plan years beginning on or before December 31, 2021) telehealth and other remote care, and
 
       * (iii) for taxable years beginning after December 31, 2006, coverage under a health flexible spending arrangement during any period immediately following the end of a plan year of such arrangement during which unused benefits or contributions remaining at the end of such plan year may be paid or reimbursed to plan participants for qualified benefit expenses incurred during such period if—
 
@@ -1261,6 +1177,9 @@
 
   * #### (C) Special rule for individuals eligible for certain veterans benefits
     * An individual shall not fail to be treated as an eligible individual for any period merely because the individual receives hospital care or medical services under any law administered by the Secretary of Veterans Affairs for a service-connected disability (within the meaning of section 101(16) of title 38, United States Code).
+
+  * #### (D) Special rule for individuals receiving benefits subject to surprise billing statutes
+    * An individual shall not fail to be treated as an eligible individual for any period merely because the individual receives benefits for medical care subject to and in accordance with section 9816 or 9817, section 2799A–1 or 2799A–2 of the Public Health Service Act, or section 716 or 717 of the Employee Retirement Income Security Act of 1974, or any State law providing similar protections to such individual.
 
 * #### (2) High deductible health plan
   * #### (A) In general
@@ -1293,6 +1212,12 @@
 
     * #### (ii) Annual deductible
       * Such plan's annual deductible for services provided outside of such network shall not be taken into account for purposes of subsection (b)(2).
+
+  * #### (E) Safe harbor for absence of deductible for telehealth
+    * In the case of plan years beginning on or before December 31, 2021, a plan shall not fail to be treated as a high deductible health plan by reason of failing to have a deductible for telehealth and other remote care services.
+
+  * #### (F) Special rule for surprise billing
+    * A plan shall not fail to be treated as a high deductible health plan by reason of providing benefits for medical care in accordance with section 9816 or 9817, section 2799A–1 or 2799A–2 of the Public Health Service Act, or section 716 or 717 of the Employee Retirement Income Security Act of 1974, or any State law providing similar protections to individuals, prior to the satisfaction of the deductible under paragraph (2)(A)(i).
 
 * #### (3) Permitted insurance
   * The term "permitted insurance" means—
@@ -1345,7 +1270,7 @@
 
 * #### (2) Qualified medical expenses
   * #### (A) In general
-    * The term "qualified medical expenses" means, with respect to an account beneficiary, amounts paid by such beneficiary for medical care (as defined in section 213(d)) for such individual, the spouse of such individual, and any dependent (as defined in section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof) of such individual, but only to the extent such amounts are not compensated for by insurance or otherwise. Such term shall include an amount paid for medicine or a drug only if such medicine or drug is a prescribed drug (determined without regard to whether such drug is available without a prescription) or is insulin.
+    * The term "qualified medical expenses" means, with respect to an account beneficiary, amounts paid by such beneficiary for medical care (as defined in section 213(d)) for such individual, the spouse of such individual, and any dependent (as defined in section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof) of such individual, but only to the extent such amounts are not compensated for by insurance or otherwise. For purposes of this subparagraph, amounts paid for menstrual care products shall be treated as paid for medical care.
 
   * #### (B) Health insurance may not be purchased from account
     * Subparagraph (A) shall not apply to any payment for insurance.
@@ -1360,6 +1285,9 @@
       * (iii) a health plan during a period in which the individual is receiving unemployment compensation under any Federal or State law, or
 
       * (iv) in the case of an account beneficiary who has attained the age specified in section 1811 of the Social Security Act, any health insurance other than a medicare supplemental policy (as defined in section 1882 of the Social Security Act).
+
+  * #### (D) Menstrual care product
+    * For purposes of this paragraph, the term "menstrual care product" means a tampon, pad, liner, cup, sponge, or similar product used by individuals with respect to menstruation or other genital-tract secretions.
 
 * #### (3) Account beneficiary
   * The term "account beneficiary" means the individual on whose behalf the health savings account was established.

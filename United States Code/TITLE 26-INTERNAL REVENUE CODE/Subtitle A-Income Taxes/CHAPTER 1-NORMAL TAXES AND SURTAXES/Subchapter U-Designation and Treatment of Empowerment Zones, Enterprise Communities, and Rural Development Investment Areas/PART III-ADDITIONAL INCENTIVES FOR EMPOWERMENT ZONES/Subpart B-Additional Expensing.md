@@ -15,3 +15,6 @@
 
 #### (b) Recapture
 * Rules similar to the rules under section 179(d)(10) shall apply with respect to any qualified zone property which ceases to be used in an empowerment zone by an enterprise zone business.
+
+#### (c) Termination
+* This section shall not apply to any property placed in service in taxable years beginning after December 31, 2020.

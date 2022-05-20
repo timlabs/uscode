@@ -398,7 +398,7 @@
 
 * (g) WAIVER OF PROTECTION OF IDENTIFIERS. An entity waives the protection of subdivision (a) as to the entity's own information by filing it without redaction and not under seal.
 
-* (h)MOTION TO REDACT A PREVIOUSLY FILED DOCUMENT.
+* (h) MOTION TO REDACT A PREVIOUSLY FILED DOCUMENT.
 
   * (1) _Content of the Motion; Service_. Unless the court orders otherwise, if an entity seeks to redact from a previously filed document information that is protected under subdivision (a), the entity must:
 

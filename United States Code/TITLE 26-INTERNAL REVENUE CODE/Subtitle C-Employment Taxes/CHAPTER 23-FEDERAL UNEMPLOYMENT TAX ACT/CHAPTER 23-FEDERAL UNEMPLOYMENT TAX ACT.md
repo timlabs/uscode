@@ -869,7 +869,7 @@
 
   * (5) such employees meet the availability for work and work search test requirements while collecting short-time compensation benefits, by being available for their workweek as required by the State agency;
 
-  * (6) eligible employees may participate, as appropriate, in training (including employer-sponsored training or worker training funded under the Workforce Investment Act of 1998) to enhance job skills if such program has been approved by the State agency;
+  * (6) eligible employees may participate, as appropriate, in training (including employer-sponsored training or worker training funded under the Workforce Innovation and Opportunity Act) to enhance job skills if such program has been approved by the State agency;
 
   * (7) the State agency shall require employers to certify that if the employer provides health benefits and retirement benefits under a defined benefit plan (as defined in section 414(j)) or contributions under a defined contribution plan (as defined in section 414(i)) to any employee whose workweek is reduced under the program that such benefits will continue to be provided to employees participating in the short-time compensation program under the same terms and conditions as though the workweek of such employee had not been reduced or to the same extent as other employees not participating in the short-time compensation program;
 

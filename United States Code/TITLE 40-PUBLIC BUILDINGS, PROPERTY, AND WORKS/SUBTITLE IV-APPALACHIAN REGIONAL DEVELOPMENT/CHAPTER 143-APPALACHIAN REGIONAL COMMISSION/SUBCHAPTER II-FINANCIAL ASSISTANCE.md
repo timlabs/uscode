@@ -41,7 +41,7 @@
 
       * (i) GRANTS TO WHICH PERCENTAGE LIMITATION DOESN'T APPLY.—Discretionary grants made by the Commission to implement significant regional initiatives, to take advantage of special development opportunities, or to respond to emergency economic distress in the region may be made without regard to the percentage limitations specified in subparagraph (A).
 
-      * (ii) LIMITATION ON AGGREGATE AMOUNT.—For each fiscal year, the aggregate amount of discretionary grants referred to in clause (i) shall not be more than 10 percent of the amount appropriated under section 14703 of this title for the fiscal year.
+      * (ii) LIMITATION ON AGGREGATE AMOUNT.—For each fiscal year, the aggregate amount of discretionary grants referred to in clause (i) shall not be more than 10 percent of the amount appropriated under section 14703 of this title for the fiscal year, except that a discretionary grant to respond to economic distress directly related to the impacts of the Coronavirus Disease 2019 (COVID–19) shall not be included in such aggregate amount.
 
 
   * (3) SOURCES OF GRANTS.—Grant amounts may be provided entirely from appropriations to carry out this section, in combination with amounts available under other federal or federal grant programs, or from any other source.

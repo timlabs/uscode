@@ -25,7 +25,7 @@
 * Not later than 1 year after May 14, 2002, the Secretary of State and the Attorney General shall submit to the appropriate committees of Congress a report setting forth the findings of the study conducted under subsection (a).
 
 ### §1773. Statutory construction
-* Nothing in this chapter shall be construed to impose requirements that are inconsistent with the North American Free Trade Agreement or to require additional documents for aliens for whom documentary requirements are waived under section 1182(d)(4)(B) of this title.
+* Nothing in this chapter shall be construed to impose requirements that are inconsistent with the USMCA (as defined in section 4502 of title 19) or to require additional documents for aliens for whom documentary requirements are waived under section 1182(d)(4)(B) of this title.
 
 ### §1774. Annual report on aliens who fail to appear after release on own recognizance
 #### (a) Requirement for report

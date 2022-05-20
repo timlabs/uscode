@@ -45,7 +45,7 @@
     * (D) for national security purposes, including cyber situational awareness and defense purposes.
 
 
-* (d) PROTECTION FROM LIABILITY OF OPERATIONALLY CRITICAL CONTRACTORS.—(1) No cause of action shall lie or be maintained in any court against any operationally critical contractor, and such action shall be promptly dismissed, for compliance with this section that is conducted in accordance with procedures established pursuant to subsection (b).
+* (d) PROTECTION FROM LIABILITY OF OPERATIONALLY CRITICAL CONTRACTORS.—(1) No cause of action shall lie or be maintained in any court against any operationally critical contractor, and such action shall be promptly dismissed, for compliance with this section and contract requirements established pursuant to Defense Federal Acquisition Regulation Supplement clause 252.204-7012, Safeguarding Covered Defense Information and Cyber Incident Reporting, that is conducted in accordance with procedures established pursuant to subsection (b) and such contract requirements.
 
 * (2)(A) Nothing in this section shall be construed—
 
@@ -152,7 +152,7 @@
 
     * (C) the Under Secretary of Defense for Research and Engineering.
 
-    * (D) The Under Secretary of Defense for Intelligence and Security.
+    * (D) The Under Secretary of Defense for Intelligence and Security
 
     * (E) The Chief Information Officer of the Department of Defense.
 
@@ -259,23 +259,27 @@
 
   * (A) is carried out by the armed forces of the United States;
 
-  * (B) is determined to—
+  * (B) is intended to achieve a cyber effect against a foreign terrorist organization or a country, including its armed forces and the proxy forces of that country located elsewhere—
 
-    * (i) have a medium or high collateral effects estimate;
+    * (i) with which the armed forces of the United States are not involved in hostilities (as that term is used in section 4 of the War Powers Resolution (50 U.S.C. 1543)); or
 
-    * (ii) have a medium or high intelligence gain or loss;
+    * (ii) with respect to which the involvement of the armed forces of the United States in hostilities has not been acknowledged publicly by the United States; and
 
-    * (iii) have a medium or high probability of political retaliation, as determined by the political military assessment contained within the associated concept of operations;
 
-    * (iv) have a medium or high probability of detection when detection is not intended; or
+  * (C)(i) is determined to—
 
-    * (v) result in medium or high collateral effects; and
+    * (I) have a medium or high collateral effects estimate;
 
-  * (C) is intended to cause cyber effects outside a geographic location—
+    * (II) have a medium or high intelligence gain or loss;
 
-    * (i) where the armed forces of the United States are involved in hostilities (as that term is used in section 1543 of title 50, United States Code); or
+    * (III) have a medium or high probability of political retaliation, as determined by the political military assessment contained within the associated concept of operations;
 
-    * (ii) with respect to which hostilities have been declared by the United States.
+    * (IV) have a medium or high probability of detection when detection is not intended; or
+
+    * (V) result in medium or high collateral effects; or
+
+
+  * (ii) is a matter the Secretary determines to be appropriate.
 
 
 * (2) The actions described in this paragraph are the following:
@@ -330,7 +334,7 @@
 
   * (4) Coordination with the head of the Global Engagement Center to support the purpose of the Center (as set forth by section 1287(a)(2) of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328; 22 U.S.C. 2656 note)) and liaison with the Center and other relevant Federal Government entities to support such purpose.
 
-  * (5) Establishing and supervising a rigorous risk management process to mitigate the risk of potential exposure of United States Persons to information intended exclusively for foreign audiences.
+  * (5) Establishing and supervising a rigorous risk management process to mitigate the risk of potential exposure of United States persons to information intended exclusively for foreign audiences.
 
   * (6) Promulgation of standards for the attribution or public acknowledgment, if any, of operations in the information environment.
 

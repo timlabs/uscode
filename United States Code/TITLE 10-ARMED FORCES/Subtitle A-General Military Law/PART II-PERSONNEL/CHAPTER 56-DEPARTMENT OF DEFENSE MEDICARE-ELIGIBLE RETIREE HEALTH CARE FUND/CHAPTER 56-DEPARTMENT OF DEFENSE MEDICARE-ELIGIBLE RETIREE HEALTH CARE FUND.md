@@ -11,7 +11,7 @@
 
   * (3) The term "medicare-eligible", with respect to any person, means entitled to benefits under part A of title XVIII of the Social Security Act (42 U.S.C. 1395c et seq.).
 
-  * (4) The term "participating uniformed service" means the Army, Navy, Air Force, and Marine Corps, and any other uniformed service that is covered by an agreement entered into under subsection (c).
+  * (4) The term "participating uniformed service" means the Army, Navy, Air Force, Marine Corps, and Space Force, and any other uniformed service that is covered by an agreement entered into under subsection (c).
 
   * (5) The term "members of the uniformed services on active duty" does not include a cadet at the United States Military Academy, the United States Air Force Academy, or the Coast Guard Academy or a midshipman at the United States Naval Academy.
 

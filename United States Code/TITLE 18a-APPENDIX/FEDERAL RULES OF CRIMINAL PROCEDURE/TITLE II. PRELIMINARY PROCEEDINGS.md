@@ -205,7 +205,14 @@
 
 * (e) PROCEDURE IN A MISDEMEANOR CASE. If the defendant is charged with a misdemeanor only, the judge must inform the defendant in accordance with Rule 58(b)(2).
 
-* (f) VIDEO TELECONFERENCING. Video teleconferencing may be used to conduct an appearance under this rule if the defendant consents.
+* (f) REMINDER OF PROSECUTORIAL OBLIGATION.—
+
+  * (1) IN GENERAL.—In all criminal proceedings, on the first scheduled court date when both prosecutor and defense counsel are present, the judge shall issue an oral and written order to prosecution and defense counsel that confirms the disclosure obligation of the prosecutor under Brady v. Maryland, 373 U.S. 83 (1963) and its progeny, and the possible consequences of violating such order under applicable law.
+
+  * (2) FORMATION OF ORDER.—Each judicial council in which a district court is located shall promulgate a model order for the purpose of paragraph (1) that the court may use as it determines is appropriate.
+
+
+* (g) VIDEO TELECONFERENCING. Video teleconferencing may be used to conduct an appearance under this rule if the defendant consents.
 
 ### Rule 5.1. Preliminary Hearing
 * (a) IN GENERAL. If a defendant is charged with an offense other than a petty offense, a magistrate judge must conduct a preliminary hearing unless:

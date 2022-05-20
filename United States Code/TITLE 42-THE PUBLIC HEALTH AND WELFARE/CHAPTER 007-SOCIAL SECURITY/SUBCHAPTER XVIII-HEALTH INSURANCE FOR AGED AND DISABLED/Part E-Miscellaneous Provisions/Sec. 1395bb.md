@@ -16,7 +16,7 @@
 * (4) For purposes of this section, the term "provider entity" means a provider of services, supplier, facility (including a renal dialysis facility), clinic, agency, or laboratory.
 
 #### (b) Disclosure of accreditation survey
-* The Secretary may not disclose any accreditation survey (other than a survey with respect to a home health agency) made and released to the Secretary by the American Osteopathic Association or any other national accreditation body, of an entity accredited by such body, except that the Secretary may disclose such a survey and information related to such a survey to the extent such survey and information relate to an enforcement action taken by the Secretary.
+* The Secretary may not disclose any accreditation survey (other than a survey with respect to a home health agency or, beginning on December 27, 2020, a hospice program) made and released to the Secretary by the American Osteopathic Association or any other national accreditation body, of an entity accredited by such body, except that the Secretary may disclose such a survey and information related to such a survey to the extent such survey and information relate to an enforcement action taken by the Secretary.
 
 #### (c) Deficiencies
 * Notwithstanding any other provision of this subchapter, if the Secretary finds that a provider entity has significant deficiencies (as defined in regulations pertaining to health and safety), the entity shall, after the date of notice of such finding to the entity and for such period as may be prescribed in regulations, be deemed not to meet the conditions or requirements the entity has been treated as meeting pursuant to subsection (a)(1).

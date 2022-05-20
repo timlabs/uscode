@@ -58,7 +58,7 @@
 * (h) BALANCED WORKFORCE POLICY.—In the development of defense acquisition workforce policies under this chapter with respect to any civilian employees or applicants for employment, the Secretary of Defense or the Secretary of a military department (as applicable) shall, consistent with the merit system principles set out in paragraphs (1) and (2) of section 2301(b) of title 5, take into consideration the need to maintain a balanced workforce in which women and members of racial and ethnic minority groups are appropriately represented in Government service.
 
 ### §1722a. Special requirements for military personnel in the acquisition field
-* (a) REQUIREMENT FOR POLICY AND GUIDANCE REGARDING MILITARY PERSONNEL IN ACQUISITION.—The Secretary of Defense shall require the Secretary of each military department (with respect to such military department), in collaboration with the Chief of Staff of the Army, the Chief of Naval Operations, the Chief of Staff of the Air Force, and the Commandant of the Marine Corps (with respect to the Army, Navy, Air Force, and Marine Corps, respectively), and the Under Secretary of Defense for Acquisition and Sustainment (with respect to the Office of the Secretary of Defense, the unified combatant commands, the Defense Agencies, and the Defense Field Activities) to establish policies and issue guidance to ensure the proper development, assignment, and employment of members of the armed forces in the acquisition field to achieve the objectives of this section as specified in subsection (b).
+* (a) REQUIREMENT FOR POLICY AND GUIDANCE REGARDING MILITARY PERSONNEL IN ACQUISITION.—The Secretary of Defense shall require the Secretary of each military department (with respect to such military department), in collaboration with the Chief of Staff of the Army, the Chief of Naval Operations, the Chief of Staff of the Air Force,, the Commandant of the Marine Corps, and the Chief of Space Operations (with respect to the Army, Navy, Air Force, Marine Corps, and Space Force, respectively), and the Under Secretary of Defense for Acquisition and Sustainment (with respect to the Office of the Secretary of Defense, the unified combatant commands, the Defense Agencies, and the Defense Field Activities) to establish policies and issue guidance to ensure the proper development, assignment, and employment of members of the armed forces in the acquisition field to achieve the objectives of this section as specified in subsection (b).
 
 * (b) OBJECTIVES.—Policies established and guidance issued pursuant to subsection (a) shall ensure, at a minimum, the following:
 
@@ -207,7 +207,7 @@
 
     * (B) not more than five may be officers of the Navy and Marine Corps; and
 
-    * (C) not more than five may be officers of the Air Force.
+    * (C) not more than five may be officers of the Air Force and Space Force.
 
 
   * (2) NUMBER IN EACH MILITARY DEPARTMENT.—Subject to paragraph (1), the number of Senior Military Acquisition Advisors for each military department shall be as required and identified by the service acquisition executive of such military department and approved by the Under Secretary of Defense for Acquisition and Sustainment.

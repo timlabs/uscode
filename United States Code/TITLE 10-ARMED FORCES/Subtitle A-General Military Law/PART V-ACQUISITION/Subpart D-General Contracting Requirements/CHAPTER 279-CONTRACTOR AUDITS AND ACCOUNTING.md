@@ -1,4 +1,0 @@
-### **CHAPTER 279—CONTRACTOR AUDITS AND ACCOUNTING**
-
-### §3841. [Reserved]
-* [Reserved]

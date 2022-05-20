@@ -51,7 +51,7 @@
 
   * (2) the Secretary of the Navy, with respect to matters concerning the Navy, the Marine Corps, and the Coast Guard when it is operating as a service in the Navy;
 
-  * (3) the Secretary of the Air Force, with respect to matters concerning the Air Force; and
+  * (3) the Secretary of the Air Force, with respect to matters concerning the Air Force and the Space Force; and
 
   * (4) the Secretary of Defense, with respect to personnel of the Department of Defense.
 
@@ -408,7 +408,7 @@
 ### §1044a. Authority to act as notary
 * (a) The persons named in subsection (b) have the general powers of a notary public and of a consul of the United States in the performance of all notarial acts to be executed by any of the following:
 
-  * (1) Members of any of the armed forces.
+  * (1) Members of any of the uniformed services.
 
   * (2) Other persons eligible for legal assistance under the provisions of section 1044 of this title or regulations of the Department of Defense.
 
@@ -425,7 +425,7 @@
 
   * (3) All adjutants, assistant adjutants, and personnel adjutants, including reserve members when not in a duty status.
 
-  * (4) All other members of the armed forces, including reserve members when not in a duty status, who are designated by regulations of the armed forces or by statute to have those powers.
+  * (4) All other members of the uniformed services, including reserve members when not in a duty status, who are designated by regulations of the uniformed services or by statute to have those powers.
 
   * (5) For the performance of notarial acts at locations outside the United States, all employees of a military department or the Coast Guard who are designated by regulations of the Secretary concerned or by statute to have those powers for exercise outside the United States.
 
@@ -642,7 +642,7 @@
     * (C) in any resulting military justice proceedings.
 
 
-  * (11) Such other legal assistance as the Secretary of Defense (or, in the case of the Coast Guard, the Secretary of the Department in which the Coast Guard is operating) may authorize in the regulations prescribed under subsection (h).
+  * (11) Such other legal assistance as the Secretary of Defense (or, in the case of the Coast Guard, the Secretary of the Department in which the Coast Guard is operating) may authorize in the regulations prescribed under subsection (i).
 
 
 * (c) NATURE OF RELATIONSHIP.—The relationship between a Special Victims' Counsel and a victim in the provision of legal advice and assistance shall be the relationship between an attorney and client.
@@ -661,7 +661,7 @@
   * (B) establish the baseline training requirements for a Special Victims' Counsel.
 
 
-* (e) ADMINISTRATIVE RESPONSIBILITY.—(1) Consistent with the regulations prescribed under subsection (h), the Judge Advocate General (as defined in section 801(1) of this title) under the jurisdiction of the Secretary concerned, and within the Marine Corps the Staff Judge Advocate to the Commandant of the Marine Corps, is responsible for the establishment and supervision of individuals designated as Special Victims' Counsel.
+* (e) ADMINISTRATIVE RESPONSIBILITY.—(1) Consistent with the regulations prescribed under subsection (i), the Judge Advocate General (as defined in section 801(1) of this title) under the jurisdiction of the Secretary concerned, and within the Marine Corps the Staff Judge Advocate to the Commandant of the Marine Corps, is responsible for the establishment and supervision of individuals designated as Special Victims' Counsel.
 
 * (2) The Secretary of Defense (and, in the case of the Coast Guard, the Secretary of the Department in which the Coast Guard is operating) shall conduct a periodic evaluation of the Special Victims' Counsel programs operated under this section.
 

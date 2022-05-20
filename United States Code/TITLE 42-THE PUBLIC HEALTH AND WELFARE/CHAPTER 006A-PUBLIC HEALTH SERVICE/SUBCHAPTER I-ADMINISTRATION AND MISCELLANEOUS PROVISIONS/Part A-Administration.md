@@ -9,7 +9,7 @@
 ### §204. Commissioned Corps and Ready Reserve Corps
 #### (a) Establishment
 * #### (1) In general
-  * There shall be in the Service a commissioned Regular Corps and a Ready Reserve Corps for service in time of national emergency.
+  * There shall be in the Service a commissioned Regular Corps and, for service in time of a public health or national emergency, a Ready Reserve Corps.
 
 * #### (2) Requirement
   * All commissioned officers shall be citizens of the United States and shall be appointed without regard to the civil-service laws and compensated without regard to the Classification Act of 1923, as amended.
@@ -26,20 +26,23 @@
 #### (b) Assimilating Reserve Corps officers into the Regular Corps
 * Effective on March 23, 2010, all individuals classified as officers in the Reserve Corps under this section (as such section existed on the day before March 23, 2010) and serving on active duty shall be deemed to be commissioned officers of the Regular Corps.
 
-#### (c) Purpose and use of Ready Reserve
+#### (c) Purpose and use of Ready Reserve Corps
 * #### (1) Purpose
-  * The purpose of the Ready Reserve Corps is to fulfill the need to have additional Commissioned Corps personnel available on short notice (similar to the uniformed service's reserve program) to assist regular Commissioned Corps personnel to meet both routine public health and emergency response missions.
+  * The purpose of the Ready Reserve Corps is to fulfill the need to have additional Commissioned Corps personnel available on short notice (similar to the uniformed service's reserve program) to assist regular Commissioned Corps personnel to meet both routine public health and emergency response missions during public health or national emergencies.
 
 * #### (2) Uses
-  * The Ready Reserve Corps shall—
+  * The Ready Reserve Corps shall, consistent with paragraph (1)—
 
     * (A) participate in routine training to meet the general and specific needs of the Commissioned Corps;
 
     * (B) be available and ready for involuntary calls to active duty during national emergencies and public health crises, similar to the uniformed service reserve personnel;
 
-    * (C) be available for backfilling critical positions left vacant during deployment of active duty Commissioned Corps members, as well as for deployment to respond to public health emergencies, both foreign and domestic; and
+    * (C) be available for backfilling critical positions left vacant during deployment of active duty Commissioned Corps members during such emergencies, as well as for deployment to respond to public health emergencies, both foreign and domestic; and
 
-    * (D) be available for service assignment in isolated, hardship, and medically underserved communities (as defined in section 295p of this title) to improve access to health services.
+    * (D) be available for service assignment in isolated, hardship, and medically underserved communities (as defined in section 295p of this title) to improve access to health services, consistent with subparagraph (C).
+
+* #### (3) Statutory references to reserve
+  * A reference in any Federal statute, except in the case of subsection (b), to the "Reserve Corps" of the Public Health Service or to the "reserve" of the Public Health Service shall be deemed to be a reference to the Ready Reserve Corps.
 
 #### (d) Funding
 * For the purpose of carrying out the duties and responsibilities of the Commissioned Corps under this section, there are authorized to be appropriated $5,000,000 for each of fiscal years 2010 through 2014 for recruitment and training and $12,500,000 for each of fiscal years 2010 through 2014 for the Ready Reserve Corps.
@@ -51,7 +54,7 @@
 
     * (A) Active duty Regular Corps.
 
-    * (B) Active Reserves.
+    * (B) Ready Reserve Corps.
 
 * #### (2) Annual assessment of members
   * The Secretary shall annually determine whether each member of the Corps meets the applicable readiness requirements established under paragraph (1).
@@ -102,7 +105,7 @@
 * For purposes of pay, allowances, and benefits of a Commissioned Corps officer who is detailed or assigned to a Federal entity, the deployment of such officer by the Secretary in response to an urgent or emergency public health care need shall be deemed to be an authorized activity of the Federal entity to which the officer is detailed or assigned.
 
 ### §205. Appointment and tenure of office of Surgeon General; reversion in rank
-* The Surgeon General shall be appointed from the Regular Corps for a four-year term by the President by and with the advice and consent of the Senate. The Surgeon General shall be appointed from individuals who (1) are members of the Regular Corps, and (2) have specialized training or significant experience in public health programs. Upon the expiration of such term the Surgeon General, unless reappointed, shall revert to the grade and number in the Regular or Reserve Corps that he would have occupied had he not served as Surgeon General.
+* The Surgeon General shall be appointed from the Regular Corps for a four-year term by the President by and with the advice and consent of the Senate. The Surgeon General shall be appointed from individuals who (1) are members of the Regular Corps, and (2) have specialized training or significant experience in public health programs. Upon the expiration of such term the Surgeon General, unless reappointed, shall revert to the grade and number in the Regular Corps or Ready Reserve Corps that he would have occupied had he not served as Surgeon General.
 
 ### §206. Assignment of officers
 #### (a) Deputy Surgeon General
@@ -112,9 +115,9 @@
 * The Surgeon General shall assign eight commissioned officers from the Regular Corps to be, respectively, the Director of the National Institutes of Health, the Chief of the Bureau of State Services, the Chief of the Bureau of Medical Services, the Chief Medical Officer of the United States Coast Guard, the Chief Dental Officer of the Service, the Chief Nurse Officer of the Service, the Chief Pharmacist Officer of the Service, and the Chief Sanitary Engineering Officer of the Service, and while so serving they shall each have the title of Assistant Surgeon General.
 
 #### (c) Creation of temporary positions as Assistant Surgeons General
-* (1) The Surgeon General, with the approval of the Secretary, is authorized to create special temporary positions in the grade of Assistant Surgeons General when necessary for the proper staffing of the Service. The Surgeon General may assign officers of either the Regular Corps or the Reserve Corps to any such temporary position, and while so serving they shall each have the title of Assistant Surgeon General.
+* (1) The Surgeon General, with the approval of the Secretary, is authorized to create special temporary positions in the grade of Assistant Surgeons General when necessary for the proper staffing of the Service. The Surgeon General may assign officers of either the Regular Corps or the Ready Reserve Corps to any such temporary position, and while so serving they shall each have the title of Assistant Surgeon General.
 
-* (2) Except as provided in this paragraph, the number of special temporary positions created by the Surgeon General under paragraph (1) shall not on any day exceed 1 per centum of the highest number, during the ninety days preceding such day, of officers of the Regular Corps on active duty and officers of the Reserve Corps on active duty for more than thirty days. If on any day the number of such special temporary positions exceeds such 1 per centum limitation, for a period of not more than one year after such day, the number of such special temporary positions shall be reduced for purposes of complying with such 1 per centum limitation only by the resignation, retirement, death, or transfer to a position of a lower grade, of any officer holding any such temporary position.
+* (2) Except as provided in this paragraph, the number of special temporary positions created by the Surgeon General under paragraph (1) shall not on any day exceed 1 per centum of the highest number, during the ninety days preceding such day, of officers of the Regular Corps on active duty and officers of the Ready Reserve Corps on active duty for more than thirty days. If on any day the number of such special temporary positions exceeds such 1 per centum limitation, for a period of not more than one year after such day, the number of such special temporary positions shall be reduced for purposes of complying with such 1 per centum limitation only by the resignation, retirement, death, or transfer to a position of a lower grade, of any officer holding any such temporary position.
 
 #### (d) Designation of Assistant Surgeon General with respect to absence, disability, or vacancy in offices of Surgeon General and Deputy Surgeon General
 * The Surgeon General shall designate the Assistant Surgeon General who shall serve as Surgeon General in case of absence or disability, or vacancy in the offices, of both the Surgeon General and the Deputy Surgeon General.
@@ -144,7 +147,7 @@
   * (10) Warrant officers of (W–1) grade—warrant officer (W–1).
 
 #### (b) Titles of medical officers
-* The titles of medical officers of the foregoing grades shall be respectively (1) medical director, (2) senior surgeon, (3) surgeon, (4) senior assistant surgeon, (5) assistant surgeon, and (6) junior assistant surgeon. The President is authorized to prescribe titles, appropriate to the several grades, for commissioned officers of the Service other than medical officers. All titles of the officers of the Reserve Corps shall have the suffix "Reserve".
+* The titles of medical officers of the foregoing grades shall be respectively (1) medical director, (2) senior surgeon, (3) surgeon, (4) senior assistant surgeon, (5) assistant surgeon, and (6) junior assistant surgeon. The President is authorized to prescribe titles, appropriate to the several grades, for commissioned officers of the Service other than medical officers. All titles of the officers of the Ready Reserve Corps shall have the suffix "Reserve".
 
 #### (c) Repealed. Pub. L. 96–76, title III, §304(b), Sept. 29, 1979, 93 Stat. 584
 #### (d) Maximum number in grade for each fiscal year
@@ -157,36 +160,36 @@
 * In computing the maximum number of commissioned officers of the Public Health Service authorized by law or administrative determination to serve on active duty, there may be excluded from such computation officers who are assigned to duty in the Department of Defense.
 
 ### §209. Appointment of personnel
-#### (a) Original appointments to Regular and Reserve Corps; limitation on appointment and call to active duty
+#### (a) Original appointments to Regular and Ready Reserve Corps; limitation on appointment and call to active duty
 * (1) Except as provided in subsections (b) and (e) of this section, original appointments to the Regular Corps may be made only in the warrant officer (W–1), chief warrant officer (W–2), chief warrant officer (W–3), chief warrant officer (W–4), junior assistant, assistant, and senior assistant grades and original appointments to a grade above junior assistant shall be made only after passage of an examination, given in accordance with regulations of the President, in one or more of the several branches of medicine, dentistry, hygiene, sanitary engineering, pharmacy, psychology, nursing, or related scientific specialties in the field of public health.
 
-* (2) Original appointments to the Reserve Corps may be made to any grade up to and including the director grade but only after passage of an examination given in accordance with regulations of the President. Reserve commissions shall be for an indefinite period and may be terminated at any time, as the President may direct.
+* (2) Original appointments to the Ready Reserve Corps may be made to any grade up to and including the director grade but only after passage of an examination given in accordance with regulations of the President. Reserve commissions shall be for an indefinite period and may be terminated at any time, as the President may direct.
 
-* (3) No individual who has attained the age of forty-four shall be appointed to the Regular Corps, or called to active duty in the Reserve Corps for a period in excess of one year, unless (A) he has had a number of years of active service (as defined in section 212(d) of this title) equal to the number of years by which his age exceeds forty-four, or (B) the Surgeon General determines that he possesses exceptional qualifications, not readily available elsewhere in the Commissioned Corps of the Public Health Service, for the performance of special duties with the Service, or (C) in the case of an officer of the Reserve Corps, the Commissioned Corps of the Service has been declared by the President to be a military service.
+* (3) No individual who has attained the age of forty-four shall be appointed to the Regular Corps, or called to active duty in the Ready Reserve Corps for a period in excess of one year, unless (A) he has had a number of years of active service (as defined in section 212(d) of this title) equal to the number of years by which his age exceeds forty-four, or (B) the Surgeon General determines that he possesses exceptional qualifications, not readily available elsewhere in the Commissioned Corps of the Public Health Service, for the performance of special duties with the Service, or (C) in the case of an officer of the Ready Reserve Corps, the Commissioned Corps of the Service has been declared by the President to be a military service.
 
 #### (b) Grade and number of original appointments
 * (1) Not more than 10 per centum of the original appointments to the Regular Corps authorized to be made during any fiscal year may be made to grades above that of senior assistant, but no such appointment (other than an appointment under section 205 of this title) may be made to a grade above that of director. For the purpose of this subsection the number of original appointments authorized to be made during a fiscal year shall be (1) the excess of the number of officers of the Regular Corps authorized by the appropriation Act or Acts for such year over the number of officers on active duty in the Regular Corps on the first day of such year, plus (2) the number of such officers of the Regular Corps who, during such fiscal year, have been or will be retired upon attainment of age sixty-four or have for any other reason ceased to be on active duty. In determining the number of appointments authorized by this subsection an appointment shall be deemed to be made in the fiscal year in which the nomination is transmitted by the President to the Senate.
 
 * (2) In addition to the number of original appointments to the Regular Corps authorized by paragraph (1) to be made to grades above that of senior assistant, original appointments authorized to be made to the Regular Corps in any year may be made to grades above that of senior assistant, but not above that of director, in the case of any individual who—
 
-  * (A)(i) was on active duty in the Reserve Corps on July 1, 1960, (ii) was on such active duty continuously for not less than one year immediately prior to such date, and (iii) applies for appointment to the Regular Corps prior to July 1, 1962; or
+  * (A)(i) was on active duty in the Ready Reserve Corps on July 1, 1960, (ii) was on such active duty continuously for not less than one year immediately prior to such date, and (iii) applies for appointment to the Regular Corps prior to July 1, 1962; or
 
-  * (B) does not come within clause (A)(i) and (ii) but was on active duty in the Reserve Corps continuously for not less than one year immediately prior to his appointment to the Regular Corps and has not served on active duty continuously for a period, occurring after June 30, 1960, of more than three and one-half years prior to applying for such appointment.
+  * (B) does not come within clause (A)(i) and (ii) but was on active duty in the Ready Reserve Corps continuously for not less than one year immediately prior to his appointment to the Regular Corps and has not served on active duty continuously for a period, occurring after June 30, 1960, of more than three and one-half years prior to applying for such appointment.
 
 
-* (3) No person shall be appointed pursuant to this subsection unless he meets standards established in accordance with regulations of the President.
+* (3) No person shall be appointed pursuant to this subsection unless he meets standards established in accordance with regulat1ions of the President.
 
 #### (c) Issuance of commissions
-* Commissions evidencing the appointment by the President of officers of the Regular or Reserve Corps shall be issued by the Secretary under the seal of the Department of Health and Human Services.
+* Commissions evidencing the appointment by the President of officers of the Regular Corps or Ready Reserve Corps shall be issued by the Secretary under the seal of the Department of Health and Human Services.
 
 #### (d) Date of appointment; credit for service
 * (1) For purposes of basic pay and for purposes of promotion, any person appointed under subsection (a) to the grade of senior assistant in the Regular Corps, and any person appointed under subsection (b), shall, except as provided in paragraphs (2) and (3) of this subsection, be considered as having had on the date of appointment the following length of service: Three years if appointed to the senior assistant grade, ten years if appointed to the full grade, seventeen years if appointed to the senior grade, and eighteen years if appointed to the director grade.
 
 * (2) For purposes of basic pay, any person appointed under subsection (a) to the grade of senior assistant in the Regular Corps, and any person appointed under subsection (b), shall, in lieu of the credit provided in paragraph (1) of this subsection, be credited with the service for which he is entitled to credit under any other provision of law if such service exceeds that to which he would be entitled under such paragraph.
 
-* (3) For purposes of promotion, any person originally appointed in the Regular Corps to the senior assistant grade or above who has had active service in the Reserve Corps shall be considered as having had on the date of appointment the length of service provided for in paragraph (1) of this subsection, plus whichever of the following is greater: (A) The excess of his total active service in the Reserve Corps (above the grade of junior assistant) over the length of service provided in such paragraph, to the extent that such excess is on account of service in the Reserve Corps in or above the grade to which he is appointed in the Regular Corps or (B) his active service in the same or any higher grade in the Reserve Corps after the first day on which, under regulations in effect on the date of his appointment to the Regular Corps, he would have had the training and experience necessary for such appointment.
+* (3) For purposes of promotion, any person originally appointed in the Regular Corps to the senior assistant grade or above who has had active service in the Ready Reserve Corps shall be considered as having had on the date of appointment the length of service provided for in paragraph (1) of this subsection, plus whichever of the following is greater: (A) The excess of his total active service in the Ready Reserve Corps (above the grade of junior assistant) over the length of service provided in such paragraph, to the extent that such excess is on account of service in the Ready Reserve Corps in or above the grade to which he is appointed in the Regular Corps or (B) his active service in the same or any higher grade in the Ready Reserve Corps after the first day on which, under regulations in effect on the date of his appointment to the Regular Corps, he would have had the training and experience necessary for such appointment.
 
-* (4) For purposes of promotion, any person whose original appointment is to the assistant grade in the Regular Corps shall be considered as having had on the date of appointment service equal to his total active service in the Reserve Corps in and above the assistant grade.
+* (4) For purposes of promotion, any person whose original appointment is to the assistant grade in the Regular Corps shall be considered as having had on the date of appointment service equal to his total active service in the Ready Reserve Corps in and above the assistant grade.
 
 #### (e) Reappointment; credit for service
 * (1) A former officer of the Regular Corps may, if application for appointment is made within two years after the date of the termination of his prior commission in the Regular Corps, be reappointed to the Regular Corps without examination, except as the Surgeon General may otherwise prescribe, and without regard to the numerical limitations of subsection (b).
@@ -211,10 +214,10 @@
 * Graduates of colleges of osteopathy whose graduates are eligible for licensure to practice medicine or osteopathy in a majority of the States of the United States, or approved by a body or bodies acceptable to the Secretary, shall be eligible, subject to the other provisions of this Act, for appointment as commissioned medical officers in the Public Health Service.
 
 ### §210. Pay and allowances
-#### (a) Commissioned officers of Regular and Reserve Corps; special pay for active duty; incentive special pay for Public Health Service nurses
-* (1) Commissioned officers of the Regular and Reserve Corps shall be entitled to receive such pay and allowances as are now or may hereafter be authorized by law.
+#### (a) Commissioned officers of Regular Corps and Ready Reserve Corps; special pay for active duty; incentive special pay for Public Health Service nurses
+* (1) Commissioned officers of the Regular Corps and Ready Reserve Corps shall be entitled to receive such pay and allowances as are now or may hereafter be authorized by law.
 
-* (2) For provisions relating to the receipt of special pay by commissioned officers of the Regular and Reserve Corps while on active duty, see section 303a(b) or 373 of title 37.
+* (2) For provisions relating to the receipt of special pay by commissioned officers of the Regular Corps and Ready Reserve Corps while on active duty, see section 303a(b) or 373 of title 37.
 
 #### (b) Purchase of supplies
 * Commissioned officers on active duty and retired officers entitled to retired pay pursuant to section 211(g)(3), 212, or 213a(a) of this title, shall be permitted to purchase supplies from the Army, Navy, Air Force, and Marine Corps at the same price as is charged officers thereof.
@@ -236,7 +239,7 @@
 
 ### §210–1. Annual and sick leave
 #### (a) Regulations
-* In accordance with regulations of the President, commissioned officers of the Regular Corps and officers of the Reserve Corps on active duty may be granted annual leave and sick leave without any deductions from their pay and allowances: _Provided_, That such regulations shall not authorize annual leave to be accumulated in excess of sixty days.
+* In accordance with regulations of the President, commissioned officers of the Regular Corps and officers of the Ready Reserve Corps on active duty may be granted annual leave and sick leave without any deductions from their pay and allowances: _Provided_, That such regulations shall not authorize annual leave to be accumulated in excess of sixty days.
 
 #### (b) Repealed. Pub. L. 87–649, §14b, Sept. 7, 1962, 76 Stat. 499
 #### (c) Repealed. Pub. L. 96–76, title III, §311, Sept. 29, 1979, 93 Stat. 586
@@ -311,16 +314,16 @@
 #### (j) Determination of order of seniority
 * (1) The order of seniority of officers in a grade in the Regular Corps shall be determined, subject to the provisions of paragraph (2) of this subsection, by the relative length of time spent in active service after the effective date of each such officer's original appointment or permanent promotion to that grade. When permanent promotions of two or more officers to the same grade are effective on the same day, their relative seniority shall be the same as it was in the grade from which promoted. In all other cases of original appointments or permanent promotions (or both) to the same grade effective on the same day, relative seniority shall be determined in accordance with regulations of the President.
 
-* (2) In the case of an officer originally appointed in the Regular Corps to the grade of assistant or above, his seniority in the grade to which appointed shall be determined after inclusion, as service in such grade, of any active service in such grade or in any higher grade in the Reserve Corps, but (if the appointment is to the grade of senior assistant or above) only to the extent of whichever of the following is greater: (A) His active service in such grade or any higher grade in the Reserve Corps after the first day on which, under regulations in effect on the date of his appointment to the Regular Corps, he had the training and experience necessary for such appointment, or (B) the excess of his total active service in the Reserve Corps (above the grade of junior assistant) over three years if his appointment in the Regular Corps is to the senior assistant grade, over ten years if the appointment is to the full grade, or over seventeen years if the appointment is to the senior grade.
+* (2) In the case of an officer originally appointed in the Regular Corps to the grade of assistant or above, his seniority in the grade to which appointed shall be determined after inclusion, as service in such grade, of any active service in such grade or in any higher grade in the Ready Reserve Corps, but (if the appointment is to the grade of senior assistant or above) only to the extent of whichever of the following is greater: (A) His active service in such grade or any higher grade in the Ready Reserve Corps after the first day on which, under regulations in effect on the date of his appointment to the Regular Corps, he had the training and experience necessary for such appointment, or (B) the excess of his total active service in the Ready Reserve Corps (above the grade of junior assistant) over three years if his appointment in the Regular Corps is to the senior assistant grade, over ten years if the appointment is to the full grade, or over seventeen years if the appointment is to the senior grade.
 
 #### (k) Temporary promotions; fill vacancy in higher grade; war or national emergency; selection of officers; termination of appointment
 * Any commissioned officer of the Regular Corps in any grade in any professional category may be recommended to the President for temporary promotion to fill a vacancy in any higher grade in such category, up to and including the director grade. In time of war, or of national emergency proclaimed by the President, any commissioned officer of the Regular Corps in any grade in any professional category may be recommended to the President for promotion to any higher grade in such category, up to and including the director grade, whether or not a vacancy exists in such grade. The selection of officers to be recommended for temporary promotions shall be made in accordance with regulations of the President. Promotion of an officer recommended pursuant to this subsection may be made without regard to length of service, without examination, and without vacating his permanent appointment, and shall carry with it the pay and allowances of the grade to which promoted. Such promotions may be terminated at any time, as may be directed by the President.
 
 #### (l) Determination of requirements of Service by Secretary; assignment of Reserve Officers to professional categories; temporary promotions; termination of temporary promotions
-* Whenever the number of officers of the Regular Corps on active duty, plus the number of officers of the Reserve Corps who have been on active duty for thirty days or more, exceeds the authorized strength of the Regular Corps, the Secretary shall determine the requirements of the Service in each grade in each category, based upon the total number of officers so serving on active duty and the tasks being performed by the Service; and the Surgeon General shall thereupon assign each officer of the Reserve Corps on active duty to a professional category. If the Secretary finds that the number of officers fixed under section 210b(c) of this title for any grade and category (or the number of officers, including officers of the Reserve Corps, on active duty in such grade in such category, if such number is greater than the number fixed under section 210b(c) of this title) is insufficient to meet such requirements of the Service, officers of either the Regular Corps or the Reserve Corps may be recommended for temporary promotion to such grade in such category. Any such promotion may be terminated at any time, as may be directed by the President.
+* Whenever the number of officers of the Regular Corps on active duty, plus the number of officers of the Ready Reserve Corps who have been on active duty for thirty days or more, exceeds the authorized strength of the Regular Corps, the Secretary shall determine the requirements of the Service in each grade in each category, based upon the total number of officers so serving on active duty and the tasks being performed by the Service; and the Surgeon General shall thereupon assign each officer of the Ready Reserve Corps on active duty to a professional category. If the Secretary finds that the number of officers fixed under section 210b(c) of this title for any grade and category (or the number of officers, including officers of the Ready Reserve Corps, on active duty in such grade in such category, if such number is greater than the number fixed under section 210b(c) of this title) is insufficient to meet such requirements of the Service, officers of either the Regular Corps or the Ready Reserve Corps may be recommended for temporary promotion to such grade in such category. Any such promotion may be terminated at any time, as may be directed by the President.
 
 #### (m) Acceptance of promotion; oath and affidavit
-* Any officer of the Regular Corps, or any officer of the Reserve Corps on active duty, who is promoted to a higher grade shall, unless he expressly declines such promotion, be deemed for all purposes to have accepted such promotion; and shall not be required to renew his oath of office, or to execute a new affidavit as required by section 3332 of title 5.
+* Any officer of the Regular Corps, or any officer of the Ready Reserve Corps on active duty, who is promoted to a higher grade shall, unless he expressly declines such promotion, be deemed for all purposes to have accepted such promotion; and shall not be required to renew his oath of office, or to execute a new affidavit as required by section 3332 of title 5.
 
 ### §211c. Promotion credit for medical officers in assistant grade
 * Any medical officer of the Regular Corps of the Public Health Service who—
@@ -334,13 +337,13 @@
 
 ### §212. Retirement of commissioned officers
 #### (a) Age; voluntariness; length of service; computation of retired pay
-* (1) A commissioned officer of the Service shall, if he applies for retirement, be retired on or after the first day of the month following the month in which he attains the age of sixty-four years. This paragraph does not permit or require the involuntary retirement of any individual because of the age of the individual.
+* (1) A commissioned officer of the Regular Corps shall, if he applies for retirement, be retired on or after the first day of the month following the month in which he attains the age of sixty-four years. This paragraph does not permit or require the involuntary retirement of any individual because of the age of the individual.
 
-* (2) A commissioned officer of the Service may be retired by the Secretary, and shall be retired if he applies for retirement, on the first day of any month after completion of thirty years of active service.
+* (2) A commissioned officer of the Regular Corps may be retired by the Secretary, and shall be retired if he applies for retirement, on the first day of any month after completion of thirty years of active service.
 
-* (3) Any commissioned officer of the Service who has had less than thirty years of active service may be retired by the Secretary, with or without application by the officer, on the first day of any month after completion of twenty or more years of active service of which not less than ten are years of active commissioned service in any of the uniformed services.
+* (3) Any commissioned officer of the Regular Corps who has had less than thirty years of active service may be retired by the Secretary, with or without application by the officer, on the first day of any month after completion of twenty or more years of active service of which not less than ten are years of active commissioned service in any of the uniformed services.
 
-* (4) Except as provided in paragraph (6), a commissioned officer retired pursuant to paragraph (1), (2), or (3) who was (in the case of an officer in the Reserve Corps) on active duty with the Service on the day preceding such retirement shall be entitled to receive retired pay calculated by multiplying the retired pay base determined under section 1406 of title 10 by the retired pay multiplier determined under section 1409 of such title for the numbers of years of service credited to the officer under this paragraph and in which, in the case of a temporary promotion to such grade, he has performed active duty for not less than six months, (A) for each year of active service, or (B) if it results in higher retired pay, for each of the following years:
+* (4) Except as provided in paragraph (6), a commissioned officer retired pursuant to paragraph (1), (2), or (3) who was on active duty with the Regular Corps on the day preceding such retirement shall be entitled to receive retired pay calculated by multiplying the retired pay base determined under section 1406 of title 10 by the retired pay multiplier determined under section 1409 of such title for the numbers of years of service credited to the officer under this paragraph and in which, in the case of a temporary promotion to such grade, he has performed active duty for not less than six months, (A) for each year of active service, or (B) if it results in higher retired pay, for each of the following years:
 
   * (i) his years of active service (determined without regard to subsection (d)) as a member of a uniformed service; plus
 
@@ -349,9 +352,9 @@
   * (iii) the number of years of service with which he was entitled to be credited for purposes of basic pay on May 31, 1958, or (if higher) on any date prior thereto, reduced by any such year included under clause (i) and further reduced by any such year with which he was entitled to be credited under paragraphs (7) and (8) of section 205(a) of title 37 on any date before June 1, 1958;
 
 
-* except that (C) in the case of any officer whose retired pay, so computed, is less than 50 per centum of such basic pay, who retires pursuant to paragraph (1) of this subsection, who has not less than twelve whole years of active service (computed without the application of subsection (e)), and who does not use, for purposes of a retirement annuity under subchapter III of chapter 83 of title 5, any service which is also creditable in computing his retired pay from the Service, it shall, instead, be 50 per centum of such pay, (D) the retired pay of an officer shall in no case be more than 75 per centum of such basic pay, and (E) in the case of any officer who participates in the modernized retirement system by reason of section 1409(b) of title 10 (including pursuant to an election under subparagraph (B) of that section), subparagraph (C) shall be applied by substituting "40 per centum" for "50 per centum" each place the term appears.
+* except that (C) in the case of any officer whose retired pay, so computed, is less than 50 per centum of such basic pay, who retires pursuant to paragraph (1) of this subsection, who has not less than twelve whole years of active service (computed without the application of subsection (e)), and who does not use, for purposes of a retirement annuity under subchapter III of chapter 83 of title 5, any service which is also creditable in computing his retired pay from the Regular Corps, it shall, instead, be 50 per centum of such pay, (D) the retired pay of an officer shall in no case be more than 75 per centum of such basic pay, and (E) in the case of any officer who participates in the modernized retirement system by reason of section 1409(b) of title 10 (including pursuant to an election under subparagraph (B) of that section), subparagraph (C) shall be applied by substituting "40 per centum" for "50 per centum" each place the term appears.
 
-* (5) With the approval of the President, a commissioned officer whose service as Surgeon General, Deputy Surgeon General, or Assistant Surgeon General has totaled four years or more and who has had not less than twenty-five years of active service in the Service may retire voluntarily at any time; and except as provided in paragraph (6), his retired pay shall be at the rate of 75 per centum of the basic pay of the highest grade held by him as such officer.
+* (5) With the approval of the President, a commissioned officer whose service as Surgeon General, Deputy Surgeon General, or Assistant Surgeon General has totaled four years or more and who has had not less than twenty-five years of active service in the Regular Corps may retire voluntarily at any time; and except as provided in paragraph (6), his retired pay shall be at the rate of 75 per centum of the basic pay of the highest grade held by him as such officer.
 
 * (6) The retired pay of a commissioned officer retired under this subsection who first became a member of a uniformed service after September 7, 1980, is determined by multiplying—
 
@@ -366,14 +369,14 @@
 * For purposes of subsection (a), the basic pay of the highest grade to which a commissioned officer has received a temporary promotion means the basic pay to which he would be entitled if serving on active duty in such grade on the date of his retirement.
 
 #### (c) Recall to active duty
-* A commissioned officer, retired for reasons other than for failure of promotion to the senior grade, may (1) if an officer of the Regular Corps or an officer of the Reserve Corps entitled to retired pay under subsection (a), be involuntarily recalled to active duty during such times as the Commissioned Corps constitutes a branch of the land or naval forces of the United States, and (2) if an officer of either the Regular or Reserve Corps, be recalled to active duty at any time with his consent.
+* A commissioned officer, retired for reasons other than for failure of promotion to the senior grade, may (1) if an officer of the Regular Corps entitled to retired pay under subsection (a) or under section 213a(a)(19) of this title, be involuntarily recalled to active duty during such times as the Commissioned Corps constitutes a branch of the land or naval forces of the United States, and (2) if an officer of either the Regular Corps or Ready Reserve Corps, be recalled to active duty at any time with his consent.
 
 #### (d) "Active service" defined
 * The term "active service", as used in subsection (a), includes:
 
   * (1) all active service in any of the uniformed services;
 
-  * (2) active service with the Public Health Service, other than as a commissioned officer, which the Surgeon General determines is comparable to service performed by commissioned officers of the Service, except that, if there are more than five years of such service only the last five years thereof may be included;
+  * (2) active service with the Public Health Service, other than as a commissioned officer, which the Surgeon General determines is comparable to service performed by commissioned officers of the Regular Corps, except that, if there are more than five years of such service only the last five years thereof may be included;
 
   * (3) all active service (other than service included under the preceding provisions of this subsection) which is creditable for retirement purposes under laws governing the retirement of members of any of the uniformed services; and
 
@@ -383,7 +386,7 @@
 * For the purpose of determining the number of years by which a percentage of the basic pay of an officer is to be multiplied in computing the amount of his retired pay pursuant to section 211(g)(3) of this title or paragraph (4) of subsection (a) of this section, each full month of service that is in addition to the number of full years of service credited to an officer is counted as one-twelfth of a year and any remaining fractional part of a month is disregarded.
 
 #### (f) Retirement or separation for physical disability
-* For purposes of retirement or separation for physical disability under chapter 61 of title 10, a commissioned officer of the Service shall be credited, in addition to the service described in section 1208(a)(2) of that title, with active service with the Public Health Service, other than as a commissioned officer, which the Surgeon General determines is comparable to service performed by commissioned officers of the Service, except that, if there are more than five years of such service, only the last five years thereof may be so credited. For such purposes, such section 1208(a)(2) shall be applicable to officers of the Regular or Reserve Corps of the Service.
+* For purposes of retirement or separation for physical disability under chapter 61 of title 10, a commissioned officer of the Regular Corps shall be credited, in addition to the service described in section 1208(a)(2) of that title, with active service with the Public Health Service, other than as a commissioned officer, which the Surgeon General determines is comparable to service performed by commissioned officers of the Regular Corps, except that, if there are more than five years of such service, only the last five years thereof may be so credited. For such purposes, such section 1208(a)(2) shall be applicable to officers of the Regular Corps.
 
 ### §213. Military benefits
 #### (a) Rights, privileges, immunities, and benefits accorded to commissioned officers or their survivors
@@ -452,8 +455,18 @@
 
   * (18) Section 1034, Protected Communications; Prohibition of Retaliatory Personnel Actions.
 
+  * (19) Chapter 1223, Retired Pay for Non-Regular Service.
 
-* (b) The authority vested by title 10 in the "military departments", "the Secretary concerned", or "the Secretary of Defense" with respect to the rights, privileges, immunities, and benefits referred to in subsection (a) shall be exercised, with respect to commissioned officers of the Service, by the Secretary of Health and Human Services or his designee. For purposes of paragraph (18) of subsection (a), the term "Inspector General" in section 1034 of such title 10 shall mean the Inspector General of the Department of Health and Human Services.
+  * (20) Section 12601, Compensation: Reserve on active duty accepting from any person.
+
+  * (21) Section 12684, Reserves: separation for absence without authority or sentence to imprisonment.
+
+
+* (b)(1) The authority vested by title 10 in the "military departments", "the Secretary concerned", or "the Secretary of Defense" with respect to the rights, privileges, immunities, and benefits referred to in subsection (a) shall be exercised, with respect to commissioned officers of the Service, by the Secretary of Health and Human Services or the designee of such Secretary.
+
+* (2) For purposes of paragraph (18) of subsection (a), the term "Inspector General" in section 1034 of such title 10 shall mean the Inspector General of the Department of Health and Human Services.
+
+* (3) For purposes of paragraph (19) of subsection (a), the terms "Military department", "Secretary concerned", and "Armed forces" in such title 10 shall be deemed to include, respectively, the Department of Health and Human Services, the Secretary of Health and Human Services, and the Commissioned Corps.
 
 ### §214. Presentation of United States flag upon retirement
 #### (a) Presentation of flag

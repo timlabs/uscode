@@ -31,9 +31,11 @@
 
   * (14) the Chief of Naval Operations;
 
-  * (15) the Chief of Staff of the Air Force; and
+  * (15) the Chief of Staff of the Air Force;
 
-  * (16) the Commandant of the Marine Corps.
+  * (16) the Commandant of the Marine Corps; and
+
+  * (17) the Chief of Space Operations.
 
 
 * (b) The Armed Forces Policy Council shall advise the Secretary of Defense on matters of broad policy relating to the armed forces and shall consider and report on such other matters as the Secretary of Defense may direct.
@@ -112,7 +114,7 @@
 
 * (2) In this subsection, the term "anomaly" means any unplanned, irregular, or abnormal event, whether unexplained or caused intentionally or unintentionally by a person or a system.
 
-* (i) REPORTS ON SPACE ARCHITECTURE DEVELOPMENT.—(1) Not less than 90 days before each of the dates on which a system described in paragraph (2) achieves Milestone A or Milestone B approval, the Under Secretary of Defense for Acquisitions and Sustainment shall submit to the congressional defense committees a report prepared by the Council detailing the implications of any changes to the architecture of such a system with respect to the systems, capabilities, and programs covered under subsection (d).
+* (i) REPORTS ON SPACE ARCHITECTURE DEVELOPMENT.—(1) Not less than 90 days before each of the dates on which a system described in paragraph (2) achieves Milestone A or Milestone B approval, the Under Secretary of Defense for Acquisition and Sustainment shall submit to the congressional defense committees a report prepared by the Council detailing the implications of any changes to the architecture of such a system with respect to the systems, capabilities, and programs covered under subsection (d).
 
 * (2) A system described in this paragraph is any of the following:
 
@@ -177,9 +179,74 @@
   * (3) Such other civilian officials of the United States Government as the President shall designate for purposes of this section.
 
 ### §172. Explosive safety board
-* (a) IN GENERAL.—The Secretary of Defense, acting through a joint board that includes members selected by the Secretaries of the military departments, composed of military officers designated as the chair and voting members of the board for each military department, and other civilian officers and employees of the Department of Defense, as necessary, shall provide oversight on storage and transportation of supplies of ammunition and components thereof for use of the Army, Navy, Air Force, Marine Corps, and Coast Guard, with particular regard to keeping those supplies properly dispersed and stored and to preventing hazardous conditions from arising to endanger life and property inside or outside of storage reservations. When the Coast Guard is not operating as a service in the Department of the Navy, the Secretary of Homeland Security shall appoint an officer of the Coast Guard to serve as a voting member of the board.
+* (a) IN GENERAL.—The Secretary of Defense, acting through a joint board that includes members selected by the Secretaries of the military departments, composed of military officers designated as the chair and voting members of the board for each military department, and other civilian officers and employees of the Department of Defense, as necessary, shall provide oversight on storage and transportation of supplies of ammunition and components thereof for use of the Army, Navy, Air Force, Marine Corps, Space Force, and Coast Guard, with particular regard to keeping those supplies properly dispersed and stored and to preventing hazardous conditions from arising to endanger life and property inside or outside of storage reservations. When the Coast Guard is not operating as a service in the Department of the Navy, the Secretary of Homeland Security shall appoint an officer of the Coast Guard to serve as a voting member of the board.
 
 * (b) OVERSIGHT BY SECRETARIES OF THE MILITARY DEPARTMENTS.—The Secretaries of the military departments shall provide research, development, test, evaluation, and manufacturing oversight for energetic materials supporting military requirements.
+
+* (c) RESPONSIBILITIES OF CHAIR.—The chair of the explosive safety board shall carry out the following responsibilities:
+
+  * (1) To act as the principal executive representative and advisor of the Secretary on explosive and chemical agent safety matters related to Department of Defense military munitions.
+
+  * (2) To perform the hazard classification approval duties assigned to the chair.
+
+  * (3) To preside over meetings of the explosive safety board.
+
+  * (4) To direct the staff of the explosive safety board.
+
+  * (5) To performs other functions relating to explosives safety management, as directed by the Assistant Secretary of Defense for Sustainment.
+
+  * (6) To provide impartial and objective advice related to explosives safety management to the Secretary of Defense and the heads of the military departments.
+
+  * (7) To serve as the principal representative and advisor of the Department of Defense on matters relating to explosives safety management.
+
+  * (8) To provide assistance and advice to the Under Secretary of Defense for Acquisition and Sustainment and the Deputy Director of Land Warfare and Munitions in munitions acquisition oversight and technology advancement for Department of Defense military munitions, especially in the areas of explosives and chemical agent safety and demilitarization.
+
+  * (9) To provide assistance and advice to the Assistant Secretary of Defense for Logistics and Material Readiness in sustainment oversight of Department of Defense military munitions, especially in the areas of explosives and chemical agent safety, storage, transportation, and demilitarization.
+
+  * (10) To develop and recommend issuances to define the functions of the explosive safety board.
+
+  * (11) To establishes joint hazard classification procedures with covered components of the Department.
+
+  * (12) To make recommendations to the Under Secretary of Defense for Acquisition and Sustainment with respect to explosives and chemical agent safety tenets and requirements.
+
+  * (13) To conducts oversight of Department of Defense explosive safety management programs.
+
+  * (14) To carry out such other responsibilities as the Secretary of Defense determines appropriate.
+
+
+* (d) RESPONSIBILITIES OF EXECUTIVE DIRECTOR AND CIVILIAN MEMBERS.—The executive director and civilian members of the explosive safety board shall—
+
+  * (1) provide assistance to the chair in carrying out the responsibilities specified in subsection (c); and
+
+  * (2) carry out such other responsibilities as the chair determines appropriate.
+
+
+* (e) MEETINGS.—(1) The explosive safety board shall meet not less frequently than quarterly.
+
+* (2) The chair shall submit to the congressional defense committees an annual report describing the activities conducted at the meetings of the board.
+
+* (f) EXCLUSIVE RESPONSIBILITIES.—The explosive safety board shall have exclusive responsibility within the Department of Defense for—
+
+  * (1) recommending new and updated explosive and chemical agent safety regulations and standards to the Assistant Secretary of Defense for Energy Installations and Environment for submittal to the Under Secretary of Defense for Acquisition and Sustainment; and
+
+  * (2) acting as the primary forum for coordination among covered components of the Department on all matters related to explosive safety management.
+
+
+* (g) COVERED COMPONENTS.—In this section, the covered components of the Department are each of the following:
+
+  * (1) The Office of the Secretary of Defense.
+
+  * (2) The military departments.
+
+  * (3) The Office of the Chairman of the Joint Chiefs of Staff and the Joint Staff, the Combatant Commands.
+
+  * (4) The Office of the Inspector General of the Department.
+
+  * (5) The Defense Agencies.
+
+  * (6) The Department of Defense field activities.
+
+  * (7) All other organizational entities within the Department.
 
 ### §173. Advisory personnel
 * (a) The Secretary of Defense may establish such advisory committees and employ such part-time advisers as he considers necessary for the performance of his functions and those of the agencies under his control.
@@ -354,11 +421,13 @@
 
   * (8) Coordinating and approving activities conducted by the Department of Energy for the study, development, production, and retirement of nuclear warheads, including concept definition studies, feasibility studies, engineering development, hardware component fabrication, warhead production, and warhead retirement.
 
-  * (9) Preparing comments on annual proposals for budget levels for research on nuclear weapons and transmitting those comments to the Secretary of Defense and the Secretary of Energy before the preparation of the annual budget requests by the Secretaries of those departments.
+  * (9) Reviewing proposed capabilities, and establishing and validating performance requirements (as defined in section 181(h) of this title), for nuclear warhead programs.
 
-  * (10) Coordinating and approving the annual budget proposals of the National Nuclear Security Administration.
+  * (10) Preparing comments on annual proposals for budget levels for research on nuclear weapons and transmitting those comments to the Secretary of Defense and the Secretary of Energy before the preparation of the annual budget requests by the Secretaries of those departments.
 
-  * (11) Providing—
+  * (11) Coordinating and approving the annual budget proposals of the National Nuclear Security Administration.
+
+  * (12) Providing—
 
     * (A) broad guidance regarding priorities for research on improved conventional weapons, and
 
@@ -418,7 +487,7 @@
 
   * (A) The term "budget" has the meaning given that term in section 231(f) of this title.
 
-  * (B) The term "defense budget materials" has the meaning given that term in section 231(f) of this title.
+  * (B) The term "defense budget materials" has the meaning given that term in section 231(f) of this title.e
 
   * (C) The term "proposed transfer of estimated nuclear budget request authority" means, in preparing a budget, a request for the Secretary of Defense to transfer an estimated amount of the proposed budget authority of the Secretary to the Secretary of Energy for purposes relating to nuclear weapons.
 
@@ -492,6 +561,8 @@
 
     * (E) A Marine Corps officer in the grade of general.
 
+    * (F) A Space Force officer in the grade equivalent to the grade of general in the Army, Air Force, or Marine Corps, or admiral in the Navy.
+
 
   * (2) SELECTION OF MEMBERS.—Members of the Council under subparagraphs (B), (C), (D), and (E) of paragraph (1) shall be selected by the Chairman of the Joint Chiefs of Staff, after consultation with the Secretary of Defense, from officers in the grade of general or admiral, as the case may be, who are recommended for selection by the Secretary of the military department concerned.
 
@@ -508,7 +579,7 @@
 
     * (C) The Under Secretary of Defense for Acquisition and Sustainment.
 
-    * (D) the Under Secretary of Defense for Research and Engineering.
+    * (D) The Under Secretary of Defense for Research and Engineering.
 
     * (E) The Under Secretary of Defense (Comptroller).
 
@@ -522,6 +593,8 @@
   * (2) INPUT FROM COMBATANT COMMANDS.—The Council shall seek and consider input from the commanders of the combatant commands in carrying out its mission under paragraphs (1) and (2) of subsection (b).
 
   * (3) INPUT FROM CHIEFS OF STAFF.—The Council shall seek, and strongly consider, the views of the Chiefs of Staff of the armed forces, in their roles as customers of the acquisition system, on matters pertaining to a capability proposed by an armed force, Defense Agency, or other entity of the Department of Defense under subsection (b)(2) and joint performance requirements pursuant to subsection (b)(3).
+
+  * (4) Input from vice chief of the national guard bureau.—The Council shall seek, and strongly consider, the views of the Vice Chief of the National Guard Bureau regarding non-Federalized National Guard capabilities in support of homeland defense and civil support missions.
 
 
 * (e) PERFORMANCE REQUIREMENTS AS RESPONSIBILITY OF ARMED FORCES.—The Chief of Staff of an armed force is responsible for all performance requirements for that armed force and, except for performance requirements specified in subsections (b)(4) and (b)(5), such performance requirements do not need to be validated by the Joint Requirements Oversight Council.
@@ -635,15 +708,19 @@
   * (B) identify any feasible and affordable actions that could be taken by the Department, the developer of such energy project, or others to mitigate the adverse impact and to minimize risks to national security while allowing the energy project to proceed with development.
 
 
-* (2) If the Clearinghouse finds under paragraph (1) that an energy project will have an adverse impact on military operations and readiness, the Clearinghouse shall issue to the applicant a notice of presumed risk that describes the concerns identified by the Department in the preliminary review and requests a discussion of possible mitigation actions.
+* (2)(A) If the Clearinghouse finds under paragraph (1) that an energy project will have an adverse impact on military operations and readiness, the Clearinghouse shall issue to the applicant a notice of presumed risk that describes the concerns identified by the Department in the preliminary review and requests a discussion of possible mitigation actions.
+
+* (B) After the Clearinghouse issues a notice under subparagraph (A) with respect to an energy project, the parties should seek to identify feasible and affordable actions that can be taken by the Department, the developer of such energy project, or others to mitigate any adverse impact on military operations and readiness.
 
 * (3) At the same time that the Clearinghouse issues to the applicant a notice of presumed risk under paragraph (2), the Clearinghouse shall provide the same notice to the governor of the State in which the project is located and request that the governor provide the Clearinghouse any comments the governor believes of relevance to the application. The Secretary of Defense shall consider the comments of the governor in the Secretary's evaluation of whether the project presents an unacceptable risk to the national security of the United States and shall include the comments with the finding provided to the Secretary of Transportation pursuant to section 44718(f) of title 49.
 
-* (4) The Clearinghouse shall develop, in coordination with other departments and agencies of the Federal Government, an integrated review process to ensure timely notification and consideration of energy projects filed with the Secretary of Transportation pursuant to section 44718 of title 49 that may have an adverse impact on military operations and readiness.
+* (4) If, after issuing the notices of presumed risk required by paragraphs (2) and (3), the Secretary of Defense later concludes for any reason that the energy project will not have an adverse impact on military readiness, the Clearinghouse shall notify the applicant and the governor in writing of that conclusion.
 
-* (5) The Clearinghouse shall establish procedures for the Department of Defense for the coordinated consideration of and response to a request for a review received from another Federal agency, a State government, an Indian tribal government, a local government, a landowner, or the developer of an energy project, including guidance to personnel at each military installation in the United States on how to initiate such procedures and ensure a coordinated Department response.
+* (5) The Clearinghouse shall develop, in coordination with other departments and agencies of the Federal Government, an integrated review process to ensure timely notification and consideration of energy projects filed with the Secretary of Transportation pursuant to section 44718 of title 49 that may have an adverse impact on military operations and readiness.
 
-* (6) The Clearinghouse shall develop procedures for conducting early outreach to parties carrying out energy projects that could have an adverse impact on military operations and readiness and to clearly communicate to such parties actions being taken by the Department of Defense under this section. The procedures shall provide for filing by such parties of a project area and preliminary project layout at least one year before expected construction of any project proposed within a military training route or within line-of-sight of any air route surveillance radar, airport surveillance radar, or wide area surveillance over-the-horizon radar operated or used by the Department of Defense in order to provide adequate time for analysis and negotiation of mitigation options. Any setback for a project pursuant to the previous sentence shall not be more than what is determined to be necessary by a technical analysis conducted by the Lincoln Laboratory at the Massachusetts Institute of Technology or any successor entity. Material marked as proprietary or competition sensitive by a party filing for this preliminary review shall be protected from public release by the Department of Defense.
+* (6) The Clearinghouse shall establish procedures for the Department of Defense for the coordinated consideration of and response to a request for a review received from another Federal agency, a State government, an Indian tribal government, a local government, a landowner, or the developer of an energy project, including guidance to personnel at each military installation in the United States on how to initiate such procedures and ensure a coordinated Department response.
+
+* (7) The Clearinghouse shall develop procedures for conducting early outreach to parties carrying out energy projects that could have an adverse impact on military operations and readiness and to clearly communicate to such parties actions being taken by the Department of Defense under this section. The procedures shall provide for filing by such parties of a project area and preliminary project layout at least one year before expected construction of any project proposed within a military training route or within line-of-sight of any air route surveillance radar, airport surveillance radar, or wide area surveillance over-the-horizon radar operated or used by the Department of Defense in order to provide adequate time for analysis and negotiation of mitigation options. Material marked as proprietary or competition sensitive by a party filing for this preliminary review shall be protected from public release by the Department of Defense.
 
 * (d) COMPREHENSIVE REVIEW.—(1) The Secretary of Defense shall develop a comprehensive strategy for addressing the impacts upon the military of projects filed with the Secretary of Transportation pursuant to section 44718 of title 49.
 

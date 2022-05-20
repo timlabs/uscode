@@ -182,7 +182,7 @@
   * In this subsection, the term "Commissioner" means the Commissioner responsible for United States Customs and Border Protection in the Department of Homeland Security.
 
 ### §2076. Advances in foreign countries
-* Section 3324(a) and (b) of title 31 shall not apply to payments made for the United States Customs Service in foreign countries.
+* Section 3648 of the Revised Statutes (31 U.S.C. 529) shall not apply to payments made for the Bureau of Customs in foreign countries.
 
 ### §2077. Advances for enforcement of customs provisions
 * The Commissioner of Customs, with the approval of the Secretary of the Treasury, is authorized to direct the advance of funds by the Fiscal Service, Treasury Department, in connection with the enforcement of the customs laws.

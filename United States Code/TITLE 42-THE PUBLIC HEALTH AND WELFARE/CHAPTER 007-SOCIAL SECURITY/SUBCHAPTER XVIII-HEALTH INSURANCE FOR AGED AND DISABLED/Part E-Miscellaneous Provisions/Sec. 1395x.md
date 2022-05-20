@@ -75,7 +75,7 @@
   * (C) with respect to the fire and safety requirements promulgated under paragraph (9), the Secretary (i) may waive, for such period as he deems appropriate, specific provisions of such requirements which if rigidly applied would result in unreasonable hardship for such a facility and which, if not applied, would not jeopardize the health and safety of patients, and (ii) may accept a facility's compliance with all applicable State codes relating to fire and safety in lieu of compliance with the fire and safety requirements promulgated under paragraph (9), if he determines that such State has in effect fire and safety codes, imposed by State law, which adequately protect patients.
 
 
-* The term "hospital" does not include, unless the context otherwise requires, a critical access hospital (as defined in subsection (mm)(1)).
+* The term "hospital" does not include, unless the context otherwise requires, a critical access hospital (as defined in subsection (mm)(1)) or a rural emergency hospital (as defined in subsection (kkk)(2)).
 
 #### (f) Psychiatric hospital
 * The term "psychiatric hospital" means an institution which—
@@ -145,13 +145,13 @@
 * Any skilled nursing facility which does not have such an agreement in effect, but which is found by a State agency (of the State in which such facility is situated) with which an agreement under section 1395aa of this title is in effect (or, in the case of a State in which no such agency has an agreement under section 1395aa of this title, by the Secretary) to have attempted in good faith to enter into such an agreement with a hospital sufficiently close to the facility to make feasible the transfer between them of patients and the information referred to in paragraph (2), shall be considered to have such an agreement in effect if and for so long as such agency (or the Secretary, as the case may be) finds that to do so is in the public interest and essential to assuring extended care services for persons in the community who are eligible for payments with respect to such services under this subchapter.
 
 #### (m) Home health services
-* The term "home health services" means the following items and services furnished to an individual, who is under the care of a physician, by a home health agency or by others under arrangements with them made by such agency, under a plan (for furnishing such items and services to such individual) established and periodically reviewed by a physician, which items and services are, except as provided in paragraph (7), provided on a visiting basis in a place of residence used as such individual's home—
+* The term "home health services" means the following items and services furnished to an individual, who is under the care of a physician, a nurse practitioner or a clinical nurse specialist (as those terms are defined in subsection (aa)(5)), or a physician assistant (as defined in subsection (aa)(5)), by a home health agency or by others under arrangements with them made by such agency, under a plan (for furnishing such items and services to such individual) established and periodically reviewed by a physician, a nurse practitioner, a clinical nurse specialist, or a physician assistant, which items and services are, except as provided in paragraph (7), provided on a visiting basis in a place of residence used as such individual's home—
 
   * (1) part-time or intermittent nursing care provided by or under the supervision of a registered professional nurse;
 
   * (2) physical or occupational therapy or speech-language pathology services;
 
-  * (3) medical social services under the direction of a physician;
+  * (3) medical social services under the direction of a physician, a nurse practitioner, a clinical nurse specialist, or a physician assistant;
 
   * (4) to the extent permitted in regulations, part-time or intermittent services of a home health aide who has successfully completed a training program approved by the Secretary;
 
@@ -179,7 +179,7 @@
 
   * (1) is primarily engaged in providing skilled nursing services and other therapeutic services;
 
-  * (2) has policies, established by a group of professional personnel (associated with the agency or organization), including one or more physicians and one or more registered professional nurses, to govern the services (referred to in paragraph (1)) which it provides, and provides for supervision of such services by a physician or registered professional nurse;
+  * (2) has policies, established by a group of professional personnel (associated with the agency or organization), including one or more physicians, nurse practitioners or clinical nurse specialists (as those terms are defined in subsection (aa)(5)), certified nurse-midwives (as defined in subsection (gg)), or physician assistants (as defined in subsection (aa)(5)) and one or more registered professional nurses, to govern the services (referred to in paragraph (1)) which it provides, and provides for supervision of such services by a physician, nurse practitioner, clinical nurse specialist, certified nurse-midwife, physician assistant, or registered professional nurse;
 
   * (3) maintains clinical records on all patients;
 
@@ -358,7 +358,7 @@
 
   * (9) leg, arm, back, and neck braces, and artificial legs, arms, and eyes, including replacements if required because of a change in the patient's physical condition;
 
-  * (10)(A) pneumococcal vaccine and its administration and, subject to section 4071(b) of the Omnibus Budget Reconciliation Act of 1987, influenza vaccine and its administration; and
+  * (10)(A) pneumococcal vaccine and its administration and, subject to section 4071(b) of the Omnibus Budget Reconciliation Act of 1987, influenza vaccine and its administration, and COVID–19 vaccine and its administration; and
 
   * (B) hepatitis B vaccine and its administration, furnished to an individual who is at high or intermediate risk of contracting hepatitis B (as determined by the Secretary under regulations);
 
@@ -408,7 +408,7 @@
 * The Secretary may revise the list of compendia in clause (ii)(I) as is appropriate for identifying medically accepted indications for drugs. On and after January 1, 2010, no compendia may be included on the list of compendia under this subparagraph unless the compendia has a publicly transparent process for evaluating therapies and for identifying potential conflicts of interests.
 
 #### (u) Provider of services
-* The term "provider of services" means a hospital, critical access hospital, skilled nursing facility, comprehensive outpatient rehabilitation facility, home health agency, hospice program, or, for purposes of section 1395f(g) and section 1395n(e) of this title, a fund.
+* The term "provider of services" means a hospital, critical access hospital, rural emergency hospital, skilled nursing facility, comprehensive outpatient rehabilitation facility, home health agency, hospice program, or, for purposes of section 1395f(g) and section 1395n(e) of this title, a fund.
 
 #### (v) Reasonable costs
 * (1)(A) The reasonable cost of any services shall be the cost actually incurred, excluding therefrom any part of incurred cost found to be unnecessary in the efficient delivery of needed health services, and shall be determined in accordance with regulations establishing the method or methods to be used, and the items to be included, in determining such costs for various types or classes of institutions, agencies, and services; except that in any case to which paragraph (2) or (3) applies, the amount of the payment determined under such paragraph with respect to the services involved shall be considered the reasonable cost of such services. In prescribing the regulations referred to in the preceding sentence, the Secretary shall consider, among other things, the principles generally applied by national organizations or established prepayment organizations (which have developed such principles) in computing the amount of payment, to be made by persons other than the recipients of services, to providers of services on account of services furnished to such recipients by such providers. Such regulations may provide for determination of the costs of services on a per diem, per unit, per capita, or other basis, may provide for using different methods in different circumstances, may provide for the use of estimates of costs of particular items or services, may provide for the establishment of limits on the direct or indirect overall incurred costs or incurred costs of specific items or services or groups of items or services to be recognized as reasonable based on estimates of the costs necessary in the efficient delivery of needed health services to individuals covered by the insurance programs established under this subchapter, and may provide for the use of charges or a percentage of charges where this method reasonably reflects the costs. Such regulations shall (i) take into account both direct and indirect costs of providers of services (excluding therefrom any such costs, including standby costs, which are determined in accordance with regulations to be unnecessary in the efficient delivery of services covered by the insurance programs established under this subchapter) in order that, under the methods of determining costs, the necessary costs of efficiently delivering covered services to individuals covered by the insurance programs established by this subchapter will not be borne by individuals not so covered, and the costs with respect to individuals not so covered will not be borne by such insurance programs, and (ii) provide for the making of suitable retroactive corrective adjustments where, for a provider of services for any fiscal period, the aggregate reimbursement produced by the methods of determining costs proves to be either inadequate or excessive.
@@ -886,8 +886,6 @@
 
 * (B) Any entity which is certified as a hospice program and as a provider of another type shall have separate provider agreements under section 1395cc of this title and shall file separate cost reports with respect to costs incurred in providing hospice care and in providing other services and items under this subchapter.
 
-* (C) Any entity that is certified as a hospice program shall be subject to a standard survey by an appropriate State or local survey agency, or an approved accreditation agency, as determined by the Secretary, not less frequently than once every 36 months beginning 6 months after October 6, 2014, and ending September 30, 2025.
-
 * (5)(A) The Secretary may waive the requirements of paragraph (2)(A)(ii)(I) for an agency or organization with respect to all or part of the nursing care described in paragraph (1)(A) if such agency or organization—
 
   * (i) is located in an area which is not an urbanized area (as defined by the Bureau of the Census);
@@ -1014,7 +1012,7 @@
 #### (kk) Covered osteoporosis drug
 * The term "covered osteoporosis drug" means an injectable drug approved for the treatment of post-menopausal osteoporosis provided to an individual by a home health agency if, in accordance with regulations promulgated by the Secretary—
 
-  * (1) the individual's attending physician certifies that the individual has suffered a bone fracture related to post-menopausal osteoporosis and that the individual is unable to learn the skills needed to self-administer such drug or is otherwise physically or mentally incapable of self-administering such drug; and
+  * (1) the individual's attending physician, nurse practitioner or clinical nurse specialist (as those terms are defined in subsection (aa)(5)), certified nurse-midwife (as defined in subsection (gg)), or physician assistant (as defined in subsection (aa)(5)) certifies that the individual has suffered a bone fracture related to post-menopausal osteoporosis and that the individual is unable to learn the skills needed to self-administer such drug or is otherwise physically or mentally incapable of self-administering such drug; and
 
   * (2) the individual is confined to the individual's home (except when receiving items and services referred to in subsection (m)(7)).
 
@@ -1647,6 +1645,9 @@
     * (ii) A self-administered drug or biological on a self-administered drug exclusion list.
 
 
+* Clause (ii) shall not apply to a self-administered drug or biological on a self-administered drug exclusion list if such drug or biological was included as a transitional home infusion drug under subparagraph (A)(iii) of section 1395m(u)(7) of this title and was identified by a HCPCS code described in subparagraph (C)(ii) of such section.
+
+
   * (D)(i) The term "qualified home infusion therapy supplier" means a pharmacy, physician, or other provider of services or supplier licensed by the State in which the pharmacy, physician, or provider or services or supplier furnishes items or services and that—
 
     * (I) furnishes infusion therapy to individuals with acute or chronic conditions requiring administration of home infusion drugs;
@@ -1690,3 +1691,136 @@
       * (i) the health and safety of individuals being furnished services under such program; and
 
       * (ii) the effective and efficient furnishing of such services.
+
+#### (kkk) Rural emergency hospital services; rural emergency hospital
+* #### (1) Rural emergency hospital services
+  * #### (A) In general
+    * The term "rural emergency hospital services" means the following services furnished by a rural emergency hospital (as defined in paragraph (2)) that do not exceed an annual per patient average of 24 hours in such rural emergency hospital:
+
+      * (i) Emergency department services and observation care.
+
+      * (ii) At the election of the rural emergency hospital, with respect to services furnished on an outpatient basis, other medical and health services as specified by the Secretary through rulemaking.
+
+  * #### (B) Staffed emergency department
+    * For purposes of subparagraph (A)(i), an emergency department of a rural emergency hospital shall be considered a staffed emergency department if it meets the following requirements:
+
+      * (i) The emergency department is staffed 24 hours a day, 7 days a week.
+
+      * (ii) A physician (as defined in subsection (r)(1)), nurse practitioner, clinical nurse specialist, or physician assistant (as those terms are defined in subsection (aa)(5)) is available to furnish rural emergency hospital services in the facility 24 hours a day.
+
+      * (iii) Applicable staffing and staffing responsibilities under section 485.631 of title 42, Code of Federal Regulations (or any successor regulation).
+
+* #### (2) Rural emergency hospital
+  * The term "rural emergency hospital" means a facility described in paragraph (3) that—
+
+    * (A) is enrolled under section 1395cc(j) of this title, submits the additional information described in paragraph (4)(A) for purposes of such enrollment, and makes the detailed transition plan described in clause (i) of such paragraph available to the public, in a form and manner determined appropriate by the Secretary;
+
+    * (B) does not provide any acute care inpatient services, other than those described in paragraph (6)(A);
+
+    * (C) has in effect a transfer agreement with a level I or level II trauma center;
+
+    * (D) meets—
+
+      * (i) licensure requirements as described in paragraph (5);
+
+      * (ii) the requirements of a staffed emergency department as described in paragraph (1)(B);
+
+      * (iii) such staff training and certification requirements as the Secretary may require;
+
+      * (iv) conditions of participation applicable to—
+
+        * (I) critical access hospitals, with respect to emergency services under section 485.618 of title 42, Code of Federal Regulations (or any successor regulation); and
+
+        * (II) hospital emergency departments under this subchapter, as determined applicable by the Secretary;
+
+
+      * (v) such other requirements as the Secretary finds necessary in the interest of the health and safety of individuals who are furnished rural emergency hospital services; and
+
+      * (vi) in the case where the rural emergency hospital includes a distinct part unit of the facility that is licensed as a skilled nursing facility, such distinct part meets the requirements applicable to skilled nursing facilities under this subchapter.
+
+* #### (3) Facility described
+  * A facility described in this paragraph is a facility that as of December 27, 2020—
+
+    * (A) was a critical access hospital; or
+
+    * (B) was a subsection (d) hospital (as defined in section 1395ww(d)(1)(B) of this title) with not more than 50 beds located in a county (or equivalent unit of local government) in a rural area (as defined in section 1395ww(d)(2)(D) of this title), or was a subsection (d) hospital (as so defined) with not more than 50 beds that was treated as being located in a rural area pursuant to section 1395ww(d)(8)(E) of this title.
+
+* #### (4) Additional information
+  * #### (A) Information
+    * For purposes of paragraph (2)(A), a facility that submits an application for enrollment under section 1395cc(j) of this title as a rural emergency hospital shall submit the following information at such time and in such form as the Secretary may require:
+
+      * (i) An action plan for initiating rural emergency hospital services (as defined in paragraph (1)), including a detailed transition plan that lists the specific services that the facility will—
+
+        * (I) retain;
+
+        * (II) modify
+
+        * (III) add; and
+
+        * (IV) discontinue.
+
+
+      * (ii) A description of services that the facility intends to furnish on an outpatient basis pursuant to paragraph (1)(A)(ii).
+
+      * (iii) Information regarding how the facility intends to use the additional facility payment provided under section 1395m(x)(2) of this title, including a description of the services covered under this subchapter that the additional facility payment would be supporting, such as furnishing telehealth services and ambulance services, including operating the facility and maintaining the emergency department to provide such services covered under this subchapter.
+
+      * (iv) Such other information as the Secretary determines appropriate.
+
+  * #### (B) Effect of enrollment
+    * Such enrollment shall remain effective with respect to a facility until such time as—
+
+      * (i) the facility elects to convert back to its prior designation as a critical access hospital or a subsection (d) hospital (as defined in section 1395ww(d)(1)(B) of this title), subject to requirements applicable under this subchapter for such designation and in accordance with procedures established by the Secretary; or
+
+      * (ii) the Secretary determines the facility does not meet the requirements applicable to a rural emergency hospital under this subsection.
+
+* #### (5) Licensure
+  * A facility may not operate as a rural emergency hospital in a State unless the facility—
+
+    * (A) is located in a State that provides for the licensing of such hospitals under State or applicable local law; and
+
+    * (B)(i) is licensed pursuant to such law; or
+
+    * (ii) is approved by the agency of such State or locality responsible for licensing hospitals, as meeting the standards established for such licensing.
+
+* #### (6) Discretionary authority
+  * A rural emergency hospital may—
+
+    * (A) include a unit of the facility that is a distinct part licensed as a skilled nursing facility to furnish post-hospital extended care services; and
+
+    * (B) be considered a hospital with less than 50 beds for purposes of the exception to the payment limit for rural health clinics under section 1395l(f) of this title.
+
+* #### (7) Quality measurement
+  * #### (A) In general
+    * The Secretary shall establish quality measurement reporting requirements for rural emergency hospitals, which may include the use of a small number of claims-based outcomes measures or surveys of patients with respect to their experience in the rural emergency hospital, in accordance with the succeeding provisions of this paragraph.
+
+  * #### (B) Quality reporting by rural emergency hospitals
+    * #### (i) In general
+      * With respect to each year beginning with 2023, (or each year beginning on or after the date that is one year after one or more measures are first specified under subparagraph (C)), a rural emergency hospital shall submit data to the Secretary in accordance with clause (ii).
+
+    * #### (ii) Submission of quality data
+      * With respect to each such year, a rural emergency hospital shall submit to the Secretary data on quality measures specified under subparagraph (C). Such data shall be submitted in a form and manner, and at a time, specified by the Secretary for purposes of this subparagraph.
+
+  * #### (C) Quality measures
+    * #### (i) In general
+      * Subject to clause (ii), any measure specified by the Secretary under this subparagraph must have been endorsed by the entity with a contract under section 1395aaa(a) of this title.
+
+    * #### (ii) Exception
+      * In the case of a specified area or medical topic determined appropriate by the Secretary for which a feasible and practical measure has not been endorsed by the entity with a contract under section 1395aaa(a) of this title, the Secretary may specify a measure that is not so endorsed as long as due consideration is given to measures that have been endorsed or adopted by a consensus organization identified by the Secretary.
+
+    * #### (iii) Consideration of low case volume when specifying performance measures
+      * The Secretary shall, in the selection of measures specified under this subparagraph, take into consideration ways to account for rural emergency hospitals that lack sufficient case volume to ensure that the performance rates for such measures are reliable.
+
+  * #### (D) Public availability of data submitted
+    * The Secretary shall establish procedures for making data submitted under subparagraph (B) available to the public regarding the performance of individual rural emergency hospitals. Such procedures shall ensure that a rural emergency hospital has the opportunity to review, and submit corrections for, the data that is to be made public with respect to the rural emergency hospital prior to such data being made public. Such information shall be posted on the Internet website of the Centers for Medicare & Medicaid Services in an easily understandable format as determined appropriate by the Secretary.
+
+* #### (8) Clarification regarding application of provisions relating to off-campus outpatient department of a provider
+  * Nothing in this subsection, section 1395l(a)(10) of this title, or section 1395m(x) of this title shall affect the application of paragraph (1)(B)(v) of section 1395l(t) of this title, relating to applicable items and services (as defined in subparagraph (A) of paragraph (21) of such section) that are furnished by an off-campus outpatient department of a provider (as defined in subparagraph (B) of such paragraph).
+
+* #### (9) Implementation
+  * There shall be no administrative or judicial review under section 1395ff of this title, 1395oo of this title, or otherwise of the following:
+
+    * (A) The determination of whether a rural emergency hospital meets the requirements of this subsection.
+
+    * (B) The establishment of requirements under this subsection by the Secretary, including requirements described in paragraphs (2)(D), (4), and (7).
+
+    * (C) The determination of payment amounts under section 1395m(x) of this title, including the additional facility payment described in paragraph (2) of such section.

@@ -109,3 +109,15 @@
 
 
   * (4) The term "fully burdened cost" means the commodity price of the fuel plus the total cost of all personnel and assets required to move and, when necessary, protect the fuel from the point at which the fuel is received from the commercial supplier to the point of use.
+
+### §2922i. Multiyear contracts: purchase of electricity from renewable energy sources
+* (a) MULTIYEAR CONTRACTS AUTHORIZED.—Subject to subsection (b), the Secretary of Defense may enter into a contract for a period not to exceed 10 years for the purchase of electricity from sources of renewable energy, as that term is defined in section 203(b)(2) of the Energy Policy Act of 2005 (42 U.S.C. 15852(b)(2)).
+
+* (b) LIMITATIONS ON CONTRACTS FOR PERIODS IN EXCESS OF FIVE YEARS.—The Secretary may exercise the authority in subsection (a) to enter into a contract for a period in excess of five years only if the Secretary determines, on the basis of a business case analysis prepared by the Department of Defense, that—
+
+  * (1) the proposed purchase of electricity under such contract is cost effective for the Department of Defense; and
+
+  * (2) it would not be possible to purchase electricity from the source in an economical manner without the use of a contract for a period in excess of five years.
+
+
+* (c) RELATIONSHIP TO OTHER MULTIYEAR CONTRACTING AUTHORITY.—Nothing in this section shall be construed to preclude the Department of Defense from using other multiyear contracting authority of the Department to purchase renewable energy.

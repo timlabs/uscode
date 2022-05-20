@@ -40,7 +40,7 @@
 * the term "wages" shall not include any amount paid or incurred by the employer to such individual for services which are the same as, or substantially similar to, those services performed by employees participating in, or affected by, the strike or lockout during the period of such strike or lockout.
 
 * #### (4) Termination
-  * The term "wages" shall not include any amount paid or incurred to an individual who begins work for the employer after December 31, 2020.
+  * The term "wages" shall not include any amount paid or incurred to an individual who begins work for the employer after December 31, 2025.
 
 * #### (5) Coordination with payroll tax forgiveness
   * The term "wages" shall not include any amount paid or incurred to a qualified individual (as defined in section 3111(d)(3)) during the 1-year period beginning on the hiring date of such individual by a qualified employer (as defined in section 3111(d)) unless such qualified employer makes an election not to have section 3111(d) apply.

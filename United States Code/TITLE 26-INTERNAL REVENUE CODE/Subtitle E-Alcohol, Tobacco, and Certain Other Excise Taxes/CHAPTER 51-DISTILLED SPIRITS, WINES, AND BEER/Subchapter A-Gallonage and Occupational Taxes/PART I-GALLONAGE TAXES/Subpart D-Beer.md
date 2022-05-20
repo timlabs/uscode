@@ -4,13 +4,7 @@
 #### (a) Rate of tax
 * #### (1) In general
   * #### (A) Imposition of tax
-    * A tax is hereby imposed on all beer brewed or produced, and removed for consumption or sale, within the United States, or imported into the United States. Except as provided in paragraph (2), the rate of such tax shall be the amount determined under this paragraph.
-
-  * #### (B) Rate
-    * Except as provided in subparagraph (C), the rate of tax shall be $18 for per barrel.
-
-  * #### (C) Special rule
-    * In the case of beer removed after December 31, 2017, and before January 1, 2021, the rate of tax shall be—
+    * A tax is hereby imposed on all beer brewed or produced, and removed for consumption or sale, within the United States, or imported into the United States. Except as provided in paragraph (2), the rate of such tax shall be—
 
       * (i) $16 on the first 6,000,000 barrels of beer—
 
@@ -21,12 +15,12 @@
 
       * (ii) $18 on any barrels of beer to which clause (i) does not apply.
 
-  * #### (D) Barrel
+  * #### (B) Barrel
     * For purposes of this section, a barrel shall contain not more than 31 gallons of beer, and any tax imposed under this section shall be applied at a like rate for any other quantity or for fractional parts of a barrel.
 
 * #### (2) Reduced rate for certain domestic production
-  * #### (A) rate
-    * In the case of a brewer who produces not more than 2,000,000 barrels of beer during the calendar year, the per barrel rate of the tax imposed by this section shall be $7 ($3.50 in the case of beer removed after December 31, 2017, and before January 1, 2021) on the first 60,000 barrels of beer which are removed in such year for consumption or sale and which have been brewed or produced by such brewer at qualified breweries in the United States.
+  * #### (A) $3.50 a barrel rate
+    * In the case of a brewer who produces not more than 2,000,000 barrels of beer during the calendar year, the per barrel rate of the tax imposed by this section shall be $3.50 on the first 60,000 barrels of beer which are removed in such year for consumption or sale and which have been brewed or produced by such brewer at qualified breweries in the United States.
 
   * #### (B) Regulations
     * The Secretary may prescribe such regulations as may be necessary to prevent the reduced rates provided in this paragraph from benefiting any person who produces more than 2,000,000 barrels of beer during a calendar year.
@@ -36,10 +30,10 @@
 
 * #### (4) Reduced tax rate for foreign manufacturers and importers
   * #### (A) In general
-    * In the case of any barrels of beer which have been brewed or produced outside of the United States and imported into the United States, the rate of tax applicable under clause (i) of paragraph (1)(C) (referred to in this paragraph as the "reduced tax rate") may be assigned by the brewer (provided that the brewer makes an election described in subparagraph (B)(ii)) to any electing importer of such barrels pursuant to the requirements established by the Secretary under subparagraph (B).
+    * In the case of any barrels of beer which have been brewed or produced outside of the United States and imported into the United States, the rate of tax applicable under clause (i) of paragraph (1)(A) (referred to in this paragraph as the "reduced tax rate") may be assigned by the brewer (provided that the brewer makes an election described in subparagraph (B)(ii)) to any electing importer of such barrels pursuant to the requirements established by the Secretary under subparagraph (B).
 
   * #### (B) Assignment
-    * The Secretary shall, through such rules, regulations, and procedures as are determined appropriate, establish procedures for assignment of the reduced tax rate provided under this paragraph, which shall include—
+    * The Secretary, after consultation with the Secretary of the Department of Homeland Security, shall, through such rules, regulations, and procedures as are determined appropriate, establish procedures for assignment of the reduced tax rate provided under this paragraph, which shall include—
 
       * (i) a limitation to ensure that the number of barrels of beer for which the reduced tax rate has been assigned by a brewer—
 
@@ -59,13 +53,13 @@
 
 * #### (5) Controlled group and single taxpayer rules
   * #### (A) In general
-    * Except as provided in subparagraph (B), in the case of a controlled group, the 6,000,000 barrel quantity specified in paragraph (1)(C)(i) and the 2,000,000 barrel quantity specified in paragraph (2)(A) shall be applied to the controlled group, and the 6,000,000 barrel quantity specified in paragraph (1)(C)(i) and the 60,000 barrel quantity specified in paragraph (2)(A) shall be apportioned among the brewers who are members of such group in such manner as the Secretary or their delegate shall by regulations prescribe. For purposes of the preceding sentence, the term "controlled group" has the meaning assigned to it by subsection (a) of section 1563, except that for such purposes the phrase "more than 50 percent" shall be substituted for the phrase "at least 80 percent" in each place it appears in such subsection. Under regulations prescribed by the Secretary, principles similar to the principles of the preceding two sentences shall be applied to a group of brewers under common control where one or more of the brewers is not a corporation.
+    * Except as provided in subparagraph (B), in the case of a controlled group, the 6,000,000 barrel quantity specified in paragraph (1)(A)(i) and the 2,000,000 barrel quantity specified in paragraph (2)(A) shall be applied to the controlled group, and the 6,000,000 barrel quantity specified in paragraph (1)(A)(i) and the 60,000 barrel quantity specified in paragraph (2)(A) shall be apportioned among the brewers who are members of such group in such manner as the Secretary or their delegate shall by regulations prescribe. For purposes of the preceding sentence, the term "controlled group" has the meaning assigned to it by subsection (a) of section 1563, except that for such purposes the phrase "more than 50 percent" shall be substituted for the phrase "at least 80 percent" in each place it appears in such subsection. Under regulations prescribed by the Secretary, principles similar to the principles of the preceding two sentences shall be applied to a group of brewers under common control where one or more of the brewers is not a corporation.
 
   * #### (B) Foreign manufacturers and importers
-    * For purposes of paragraph (4), in the case of a controlled group, the 6,000,000 barrel quantity specified in paragraph (1)(C)(i) shall be applied to the controlled group and apportioned among the members of such group in such manner as the Secretary shall by regulations prescribe. For purposes of the preceding sentence, the term "controlled group" has the meaning given such term under subparagraph (A). Under regulations prescribed by the Secretary, principles similar to the principles of the preceding two sentences shall be applied to a group of brewers under common control where one or more of the brewers is not a corporation.
+    * For purposes of paragraph (4), in the case of a controlled group, the 6,000,000 barrel quantity specified in paragraph (1)(A)(i) shall be applied to the controlled group and apportioned among the members of such group in such manner as the Secretary shall by regulations prescribe. For purposes of the preceding sentence, the term "controlled group" has the meaning given such term under subparagraph (A). Under regulations prescribed by the Secretary, principles similar to the principles of the preceding two sentences shall be applied to a group of brewers under common control where one or more of the brewers is not a corporation.
 
   * #### (C) Single taxpayer
-    * Pursuant to rules issued by the Secretary, two or more entities (whether or not under common control) that produce beer marketed under a similar brand, license, franchise, or other arrangement shall be treated as a single taxpayer for purposes of the application of this subsection.
+    * Pursuant to rules issued by the Secretary, two or more entities (whether or not under common control) that produce beer under a license, franchise, or other arrangement shall be treated as a single taxpayer for purposes of the application of this subsection.
 
 #### (b) Assessment on materials used in production in case of fraud
 * Nothing contained in this subpart or subchapter G shall be construed to authorize an assessment on the quantity of materials used in producing or purchased for the purpose of producing beer, nor shall the quantity of materials so used or purchased be evidence, for the purpose of taxation, of the quantity of beer produced; but the tax on all beer shall be paid as provided in section 5054, and not otherwise; except that this subsection shall not apply to cases of fraud, and nothing in this subsection shall have the effect to change the rules of law respecting evidence in any prosecution or suit.

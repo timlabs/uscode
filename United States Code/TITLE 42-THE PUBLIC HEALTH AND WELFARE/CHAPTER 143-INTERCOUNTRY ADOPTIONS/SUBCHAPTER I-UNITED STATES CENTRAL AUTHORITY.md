@@ -76,7 +76,7 @@
 
 ### §14914. Annual report on intercountry adoptions
 #### (a) Reports required
-* Beginning 1 year after the date of the entry into force of the Convention for the United States and each year thereafter, the Secretary, in consultation with the Attorney General and other appropriate agencies, shall submit a report describing the activities of the central authority of the United States under this chapter during the preceding year to the Committee on International Relations, the Committee on Ways and Means, and the Committee on the Judiciary of the House of Representatives and the Committee on Foreign Relations, the Committee on Finance, and the Committee on the Judiciary of the Senate.
+* Beginning 1 year after the date of the entry into force of the Convention for the United States and each year thereafter, the Secretary, in consultation with the Attorney General and other appropriate agencies, shall submit a report describing the activities of the central authority of the United States under this chapter during the preceding year to the Committee on Foreign Affairs, the Committee on Ways and Means, and the Committee on the Judiciary of the House of Representatives and the Committee on Foreign Relations, the Committee on Finance, and the Committee on the Judiciary of the Senate.
 
 #### (b) Report elements
 * Each report under subsection (a) shall set forth with respect to the year concerned, the following:
@@ -96,3 +96,25 @@
   * (7) The range of adoption fees charged in connection with Convention adoptions involving immigration to the United States and the median of such fees set forth by the country of origin.
 
   * (8) The range of fees charged for accreditation of agencies and the approval of persons in the United States engaged in providing adoption services under the Convention.
+
+  * (9) A list of countries that established or maintained a significant law or regulation that prevented or prohibited adoptions involving immigration to the United States, regardless of whether such adoptions occurred under the Convention.
+
+  * (10) For each country listed under paragraph (9), the date on which the law or regulation was initially implemented.
+
+  * (11) Information on efforts taken with respect to a country listed under paragraph (9) to encourage the resumption of halted or stalled adoption proceedings involving immigration to the United States, regardless of whether the adoptions would have occurred under the Convention.
+
+  * (12) Information on any action the Secretary carried out that prevented, prohibited, or halted any adoptions involving immigration to the United States, regardless of whether the adoptions occurred under the Convention.
+
+  * (13) For each country listed pursuant to paragraph (12), a description of—
+
+    * (A) what policies, procedures, resources, and safeguards the country lacks, or other shortcomings or circumstances, that caused the action to be carried out;
+
+    * (B) what progress the country has made to alleviate those shortcomings; and
+
+    * (C) what steps the Department of State has taken in order to assist the country to reopen intercountry adoptions.
+
+
+  * (14) An assessment of the impact of the fee schedule of the Intercountry Adoption Accreditation and Maintenance Entity on families seeking to adopt internationally, especially low-income families, families seeking to adopt sibling groups, or families seeking to adopt children with disabilities.
+
+#### (c) Public availability of report
+* The Secretary shall make the information contained in the report required under subsection (a) available to the public on the website of the Department of State.

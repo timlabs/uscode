@@ -57,7 +57,12 @@
 
   * (8) the term "child abuse" shall not include discipline administered by a parent or legal guardian to his or her child provided it is reasonable in manner and moderate in degree and otherwise does not constitute cruelty;
 
-  * (9) the term "covered individual" means an adult who is authorized, by a national governing body, a member of a national governing body, or an amateur sports organization that participates in interstate or international amateur athletic competition, to interact with a minor or amateur athlete at an amateur sports organization facility or at any event sanctioned by a national governing body, a member of a national governing body, or such an amateur sports organization;
+  * (9) the term "covered individual" means an adult who—
+
+    * (A) is authorized, by a national governing body, a member of a national governing body, or an amateur sports organization that participates in interstate or international amateur athletic competition, to interact with a minor or amateur athlete at an amateur sports organization facility or at any event sanctioned by a national governing body, a member of a national governing body, or such an amateur sports organization; or
+
+    * (B) is an employee or representative of the United States Center for SafeSport;
+
 
   * (10) the term "event" includes travel, lodging, practice, competition, and health or medical treatment;
 

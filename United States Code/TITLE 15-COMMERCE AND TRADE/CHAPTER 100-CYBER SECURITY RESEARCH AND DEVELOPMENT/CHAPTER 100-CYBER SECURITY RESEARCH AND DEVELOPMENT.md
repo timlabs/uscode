@@ -178,7 +178,7 @@
 ### §7404. National Science Foundation computer and network security programs
 #### (a) Computer and network security capacity building grants
 * #### (1) In general
-  * The Director shall establish a program to award grants to institutions of higher education (or consortia thereof) to establish or improve undergraduate and master's degree programs in computer and network security, to increase the number of students, including the number of students from groups historically underrepresented in these fields, who pursue undergraduate or master's degrees in fields related to computer and network security, and to provide students with experience in government or industry related to their computer and network security studies.
+  * The Director shall establish a program to award grants to institutions of higher education (or consortia thereof) to establish or improve undergraduate and master's degree programs in computer and network security, to increase the number of students, including the number of students from groups historically underrepresented in these fields and students who are veterans, who pursue undergraduate or master's degrees in fields related to computer and network security, and to provide students with experience in government or industry related to their computer and network security studies.
 
 * #### (2) Merit review
   * Grants shall be awarded under this subsection on a merit-reviewed competitive basis.
@@ -202,9 +202,11 @@
 
     * (H) establishing collaborations with other academic institutions to establish or enhance a web-based collection of computer and network security courseware and laboratory exercises for sharing with other institutions of higher education, including community colleges;
 
-    * (I) establishing or enhancing bridge programs in computer and network security between community colleges and universities; and
+    * (I) establishing or enhancing bridge programs in computer and network security between community colleges and universities;
 
-    * (J) any other activities the Director determines will accomplish the goals of this subsection.
+    * (J) creating opportunities for veterans to transition to careers in computer and network security; and
+
+    * (K) any other activities the Director determines will accomplish the goals of this subsection.
 
 * #### (4) Selection process
   * #### (A) Application
@@ -293,7 +295,7 @@
 
     * (B) the quality of the applicant's existing research and education programs;
 
-    * (C) the likelihood that the program will recruit increased numbers of students, including students from groups historically underrepresented in computer and network security related disciplines, to pursue and earn doctorate degrees in computer and network security;
+    * (C) the likelihood that the program will recruit increased numbers of students, including students from groups historically underrepresented in computer and network security related disciplines or veterans, to pursue and earn doctorate degrees in computer and network security;
 
     * (D) the nature and quality of the internship program established through collaborations with government laboratories, nonprofit research institutions, and for-profit institutions;
 

@@ -1,7 +1,7 @@
 ### §3030d–21. Purposes
 * The purposes of this part are—
 
-  * (1) to reduce hunger and food insecurity;
+  * (1) to reduce hunger, food insecurity, and malnutrition;
 
   * (2) to promote socialization of older individuals; and
 

@@ -142,7 +142,7 @@
   * The Secretary may purchase any obligations issued under paragraph (3)(A). For such purpose, the Secretary may use the proceeds of the sale of any securities issued under chapter 31 of title 31, and the purposes for which securities may be issued under that chapter 31 are extended to include such purchases, and the amount of any securities issued under that chapter 31 for such purpose shall be treated in the same manner as securities issued under section 208(n)(5)(E).
 
 #### (f) Rule of construction
-* For purposes of this section, a guarantee of deposits held by insured depository institutions shall not be treated as a debt guarantee program.
+* For purposes of this section, a guarantee of deposits held by insured depository institutions in noninterest-bearing transaction accounts may be treated as a debt guarantee program.
 
 #### (g) Definitions
 * For purposes of this section, the following definitions shall apply:
@@ -167,6 +167,13 @@
 
 * #### (4) Solvent
   * The term "solvent" means that the value of the assets of an entity exceed its obligations to creditors.
+
+#### (h) Approval of guarantee program during the COVID–19 crisis
+* #### (1) In general
+  * For purposes of the congressional joint resolution of approval provided for in subsections (c)(1) and (2) and (d), notwithstanding any other provision of this section, the Federal Deposit Insurance Corporation is approved upon enactment of this Act to establish a program provided for in subsection (a), provided that any such program and any such guarantee shall terminate not later than December 31, 2020.
+
+* #### (2) Maximum amount
+  * Any debt guarantee program authorized by this subsection shall include a maximum amount of outstanding debt that is guaranteed.
 
 ### §5613. Additional related matters
 #### (a) Suspension of parallel Federal Deposit Insurance Act authority

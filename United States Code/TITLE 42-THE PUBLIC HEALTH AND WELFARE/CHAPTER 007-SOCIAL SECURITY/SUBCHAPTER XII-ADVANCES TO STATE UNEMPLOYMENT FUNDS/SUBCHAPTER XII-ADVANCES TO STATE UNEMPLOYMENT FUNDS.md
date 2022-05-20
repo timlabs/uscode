@@ -95,7 +95,7 @@
 
 * (9) Any interest otherwise due from a State on September 30 of a calendar year after 1982 may be deferred (and no interest shall accrue on such deferred interest) for a grace period of not to exceed 9 months if, for the most recent 12-month period for which data are available before the date such interest is otherwise due, the State had an average total unemployment rate of 13.5 percent or greater.
 
-* (10)(A) With respect to the period beginning on February 17, 2009, and ending on December 31, 2010—
+* (10)(A) With respect to the period beginning on March 18, 2020, and ending on March 14, 2021—
 
   * (i) any interest payment otherwise due from a State under this subsection during such period shall be deemed to have been made by the State; and
 

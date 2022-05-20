@@ -550,25 +550,29 @@
   * The term "Fund" means the Energy Transformation Acceleration Fund established under subsection (o)(1).
 
 #### (b) Establishment
-* There is established the Advanced Research Projects Agency—Energy within the Department to overcome the long-term and high-risk technological barriers in the development of energy technologies.
+* There is established the Advanced Research Projects Agency—Energy within the Department to overcome the long-term and high-risk technological barriers in the development of transformative science and technology solutions to address the energy and environmental missions of the Department.
 
 #### (c) Goals
 * #### (1) In general
   * The goals of ARPA-E shall be—
 
-    * (A) to enhance the economic and energy security of the United States through the development of energy technologies that result in—
+    * (A) to enhance the economic and energy security of the United States through the development of energy technologies that—
 
-      * (i) reductions of imports of energy from foreign sources;
+      * (i) reduce imports of energy from foreign sources;
 
-      * (ii) reductions of energy-related emissions, including greenhouse gases; and
+      * (ii) reduce energy-related emissions, including greenhouse gases;
 
-      * (iii) improvement in the energy efficiency of all economic sectors; and
+      * (iii) improve the energy efficiency of all economic sectors;
+
+      * (iv) provide transformative solutions to improve the management, clean-up, and disposal of radioactive waste and spent nuclear fuel; and
+
+      * (v) improve the resilience, reliability, and security of infrastructure to produce, deliver, and store energy; and
 
 
     * (B) to ensure that the United States maintains a technological lead in developing and deploying advanced energy technologies.
 
 * #### (2) Means
-  * ARPA-E shall achieve the goals established under paragraph (1) through energy technology projects by—
+  * ARPA-E shall achieve the goals established under paragraph (1) through advanced technology projects by—
 
     * (A) identifying and promoting revolutionary advances in fundamental and applied sciences;
 
@@ -598,7 +602,7 @@
 
   * (3) administering the Fund through awards to institutions of higher education, companies, research foundations, trade and industry research collaborations, or consortia of such entities, which may include federally-funded research and development centers, to achieve the goals described in subsection (c) through targeted acceleration of—
 
-    * (A) novel early-stage energy research with possible technology applications;
+    * (A) novel early-stage research with possible technology applications;
 
     * (B) development of techniques, processes, and technologies, and related testing and evaluation;
 
@@ -667,7 +671,7 @@
 
       * (ii) fix the basic pay of such personnel at a rate to be determined by the Director at rates not in excess of Level II of the Executive Schedule (EX–II) without regard to the civil service laws; and
 
-      * (iii) pay any employee appointed under this subpart payments in addition to basic pay, except that the total amount of additional payments paid to an employee under this subpart for any 12-month period shall not exceed the least of the following amounts:
+      * (iii) pay any employee appointed under this subparagraph payments in addition to basic pay, except that the total amount of additional payments paid to an employee under this subparagraph for any 12-month period shall not exceed the least of the following amounts:
 
         * (I) $25,000.
 
@@ -686,14 +690,24 @@
 
 #### (h) Reports and roadmaps
 * #### (1) Annual report
-  * As part of the annual budget request submitted for each fiscal year, the Director shall provide to the relevant authorizing and appropriations committees of Congress a report describing projects supported by ARPA-E during the previous fiscal year.
+  * As part of the annual budget request submitted for each fiscal year, the Director shall provide to the relevant authorizing and appropriations committees of Congress a report that—
+
+    * (A) describes projects supported by ARPA–E during the previous fiscal year;
+
+    * (B) describes projects supported by ARPA–E during the previous fiscal year that examine topics and technologies closely related to other activities funded by the Department, and includes an analysis of whether in supporting such projects, the Director is in compliance with subsection (i)(1); and
+
+    * (C) describes current, proposed, and planned projects to be carried out pursuant to subsection (e)(3)(D).
 
 * #### (2) Strategic vision roadmap
-  * Not later than October 1, 2010, and October 1, 2013, the Director shall provide to the relevant authorizing and appropriations committees of Congress a roadmap describing the strategic vision that ARPA-E will use to guide the choices of ARPA-E for future technology investments over the following 3 fiscal years.
+  * Not later than October 1, 2021, and every four years thereafter, the Director shall provide to the relevant authorizing and appropriations committees of Congress a roadmap describing the strategic vision that ARPA–E will use to guide the choices of ARPA–E for future technology investments over the following 4 fiscal years.
 
 #### (i) Coordination and nonduplication
 * #### (1) In general
-  * To the maximum extent practicable, the Director shall ensure that the activities of ARPA-E are coordinated with, and do not duplicate the efforts of, programs and laboratories within the Department and other relevant research agencies.
+  * To the maximum extent practicable, the Director shall ensure that—
+
+    * (A) the activities of ARPA–E are coordinated with, and do not duplicate the efforts of, programs and laboratories within the Department and other relevant research agencies; and
+
+    * (B) ARPA–E does not provide funding for a project unless the prospective grantee demonstrates sufficient attempts to secure private financing or indicates that the project is not independently commercially viable.
 
 * #### (2) Technology Transfer Coordinator
   * To the extent appropriate, the Director may coordinate technology transfer efforts with the Technology Transfer Coordinator appointed under section 16391 of this title.
@@ -722,12 +736,12 @@
 
 #### (l) ARPA-E evaluation
 * #### (1) In general
-  * After ARPA-E has been in operation for 6 years, the Secretary shall offer to enter into a contract with the National Academy of Sciences under which the National Academy shall conduct an evaluation of how well ARPA-E is achieving the goals and mission of ARPA-E.
+  * Not later than 3 years after December 27, 2020, the Secretary is authorized to enter into a contract with the National Academy of Sciences under which the National Academy shall conduct an evaluation of how well ARPA–E is achieving the goals and mission of ARPA–E.
 
 * #### (2) Inclusions
-  * The evaluation shall include—
+  * The evaluation may include—
 
-    * (A) the recommendation of the National Academy of Sciences on whether ARPA-E should be continued or terminated; and
+    * (A) a recommendation on whether ARPA-E should be continued or terminated; and
 
     * (B) a description of lessons learned from operation of ARPA-E, and the manner in which those lessons may apply to the operation of other programs of the Department.
 
@@ -762,17 +776,17 @@
   * There is established in the Treasury of the United States a fund, to be known as the "Energy Transformation Acceleration Fund", which shall be administered by the Director for the purposes of carrying out this section.
 
 * #### (2) Authorization of appropriations
-  * Subject to paragraphs (4) and (5), there are authorized to be appropriated to the Director for deposit in the Fund, without fiscal year limitation—
+  * Subject to paragraph (4), there are authorized to be appropriated to the Director for deposit in the Fund, without fiscal year limitation—
 
-    * (A) $300,000,000 for fiscal year 2008;
+    * (A) $435,000,000 for fiscal year 2021;
 
-    * (B) such sums as are necessary for each of fiscal years 2009 and 2010;
+    * (B) $500,000,000 for fiscal year 2022;
 
-    * (C) $300,000,000 for fiscal year 2011;
+    * (C) $575,000,000 for fiscal year 2023;
 
-    * (D) $306,000,000 for fiscal year 2012; and
+    * (D) $662,000,000 for fiscal year 2024; and
 
-    * (E) $312,000,000 for fiscal year 2013.
+    * (E) $761,000,000 for fiscal year 2025.
 
 * #### (3) Separate budget and appropriation
   * #### (A) Budget request
@@ -786,7 +800,7 @@
 
     * (A) not more than 50 percent of the amount shall be used to carry out subsection (e)(3)(D);
 
-    * (B) at least 5 percent of the amount shall be used for technology transfer and outreach activities, consistent with the goal described in subsection (c)(2)(D) and within the responsibilities of program directors described in subsection (g)(2)(B)(vii); and
+    * (B) at least 5 percent of the amount shall be used for technology transfer and outreach activities, consistent with the goal described in subsection (c)(2)(C) and within the responsibilities of program directors described in subsection (g)(2)(B)(vii); and
 
     * (C) no funds may be used for construction of new buildings or facilities during the 5-year period beginning on August 9, 2007.
 

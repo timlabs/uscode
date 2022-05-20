@@ -1,7 +1,7 @@
 ### **CHAPTER 41—SPECIAL APPOINTMENTS, ASSIGNMENTS, DETAILS, AND DUTIES**
 
 ### §711. Senior members of Military Staff Committee of United Nations: appointment
-* The President, by and with the advice and consent of the Senate, may appoint an officer of the Army, an officer of the Navy or the Marine Corps, and an officer of the Air Force, as senior members of the Military Staff Committee of the United Nations.
+* The President, by and with the advice and consent of the Senate, may appoint an officer of the Army, an officer of the Navy or the Marine Corps, and an officer of the Air Force or the Space Force, as senior members of the Military Staff Committee of the United Nations.
 
 ### §711a. American National Red Cross: detail of commissioned officers
 * Commissioned officers of the Army, Navy, and Air Force may be detailed for duty with the American National Red Cross, by the Secretary of the military department concerned, as follows:
@@ -24,7 +24,7 @@
     * (C) a medical officer of the Air Force.
 
 ### §712. Foreign governments: detail to assist
-* (a) Upon the application of the country concerned, the President, whenever he considers it in the public interest, may detail members of the Army, Navy, Air Force, and Marine Corps to assist in military matters—
+* (a) Upon the application of the country concerned, the President, whenever he considers it in the public interest, may detail members of the Army, Navy, Air Force, Marine Corps, and Space Force to assist in military matters—
 
   * (1) any republic in North America, Central America, or South America;
 
@@ -163,7 +163,7 @@
   * (3) the training of animals of the armed forces for, and their attendance at and participation in, those competitions.
 
 
-* (c)(1) Not more than $3,000,000, to be apportioned among the military departments as the Secretary of Defense prescribes, may be spent during each successive four-year period beginning on October 1, 1980, for the participation of members of the Army, Navy, Air Force, and Marine Corps in the competitions covered by subsection (a).
+* (c)(1) Not more than $3,000,000, to be apportioned among the military departments as the Secretary of Defense prescribes, may be spent during each successive four-year period beginning on October 1, 1980, for the participation of members of the Army, Navy, Air Force, Marine Corps, and Space Force in the competitions covered by subsection (a).
 
 * (2) Not more than $100,000 may be spent during each successive four-year period beginning on October 1, 1980, for the participation of members of the Coast Guard in the competitions covered by subsection (a).
 
@@ -171,3 +171,17 @@
 
 ### §719. Department of Commerce: assignment or detail of members of the armed forces to National Oceanic and Atmospheric Administration
 * Upon the request of the Secretary of Commerce, the Secretary of a military department may assign or detail members of the armed forces under his jurisdiction for duty in the National Oceanic and Atmospheric Administration, Department of Commerce, with reimbursement from the Department of Commerce. Notwithstanding any other provision of law, a member so assigned or detailed may exercise the functions, and assume the title, of any position in that Administration without affecting his status as a member of an armed force, but he is not entitled to the compensation fixed for that position.
+
+### §723. Support of Federal authorities in response to civil disturbances: requirement for use of members of the Armed Forces and Federal law enforcement personnel
+* (a) REQUIREMENT.—Whenever a member of the armed forces (including the National Guard) or Federal law enforcement personnel provide support to Federal authorities to respond to a civil disturbance, each individual employed in the capacity of providing such support shall visibly display—
+
+  * (1) the individual's name or other individual identifier that is unique to that individual; and
+
+  * (2) the name of the armed force, Federal entity, or other organization by which such individual is employed.
+
+
+* (b) EXCEPTION.—The requirement under subsection (a) shall not apply to individuals referred to in such subsection who—
+
+  * (1) do not wear a uniform or other distinguishing clothing or equipment in the regular performance of their official duties; or
+
+  * (2) are engaged in undercover operations in the regular performance of their official duties.

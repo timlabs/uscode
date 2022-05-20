@@ -1,4 +1,0 @@
-### **CHAPTER 301—MAJOR DEFENSE ACQUISITION PROGRAMS**
-
-### §4001. [Reserved]
-* [Reserved]

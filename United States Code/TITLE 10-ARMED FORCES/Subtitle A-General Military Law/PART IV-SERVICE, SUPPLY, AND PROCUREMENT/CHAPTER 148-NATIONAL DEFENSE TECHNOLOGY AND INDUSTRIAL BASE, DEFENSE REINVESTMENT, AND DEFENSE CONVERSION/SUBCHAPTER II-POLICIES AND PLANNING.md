@@ -1,7 +1,7 @@
 ### SUBCHAPTER II—POLICIES AND PLANNING
 
 ### §2501. National security strategy for national technology and industrial base
-* (a) NATIONAL SECURITY STRATEGY FOR NATIONAL TECHNOLOGY AND INDUSTRIAL BASE.—The Secretary of Defense shall develop a national security strategy for the national technology and industrial base. The Secretary shall submit such strategy to Congress not later than 180 days after the date of submission of the national security strategy report required under section 108 of the National Security Act of 1947 (50 U.S.C. 3043).Such strategy shall be based on a prioritized assessment of risks and challenges to the defense supply chain and shall ensure that the national technology and industrial base is capable of achieving the following national security objectives:
+* (a) NATIONAL SECURITY STRATEGY FOR NATIONAL TECHNOLOGY AND INDUSTRIAL BASE.—The Secretary of Defense shall develop a national security strategy for the national technology and industrial base. The Secretary shall submit such strategy to Congress not later than 180 days after the date of submission of the national security strategy report required under section 108 of the National Security Act of 1947 (50 U.S.C. 3043). Such strategy shall be based on a prioritized assessment of risks and challenges to the defense supply chain and shall ensure that the national technology and industrial base is capable of achieving the following national security objectives:
 
   * (1) Supplying, equipping, and supporting the force structure of the armed forces that is necessary to achieve—
 
@@ -29,6 +29,8 @@
   * (9) Ensuring reliable sources of materials that are critical to national security, such as specialty metals, essential minerals, armor plate, and rare earth elements.
 
   * (10) Reducing, to the maximum extent practicable, the presence of counterfeit parts in the supply chain and the risk associated with such parts.
+
+  * (11) Providing for the provision of drugs, biological products, vaccines, and critical medical supplies required to enable combat readiness and protect the health of the armed forces.
 
 
 * (b) CIVIL-MILITARY INTEGRATION POLICY.—The Secretary of Defense shall ensure that the United States attains the national technology and industrial base objectives set forth in subsection (a) through acquisition policy reforms that have the following objectives:
@@ -59,9 +61,11 @@
 
   * (1) the capabilities of the national technology and industrial base to meet the national security objectives set forth in section 2501(a) of this title;
 
-  * (2) programs for achieving such national security objectives; and
+  * (2) programs for achieving such national security objectives;
 
-  * (3) changes in acquisition policy that strengthen the national technology and industrial base.
+  * (3) changes in acquisition policy that strengthen the national technology and industrial base; and
+
+  * (4) collaboration with government officials of member countries of the national technology and industrial base in order to strengthen the national technology and industrial base.
 
 
 * (d) ALTERNATIVE PERFORMANCE OF RESPONSIBILITIES.—Notwithstanding subsection (c), the President may assign the responsibilities of the Council to another interagency organization of the executive branch that includes among its members the officials specified in paragraphs (1) through (4) of subsection (b).
@@ -88,8 +92,8 @@
 
   * (4) Dissemination, through the National Technical Information Service of the Department of Commerce, of unclassified information and assessments for further dissemination within the Federal Government and to the private sector.
 
-### §2504. Annual report to Congress
-* The Secretary of Defense shall transmit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives by March 1 of each year a report which shall include the following information:
+### §2504. National technology and industrial base: annual report and quarterly briefings
+* (a) ANNUAL REPORT.—The Secretary of Defense shall transmit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives by March 1 of each year a report which shall include the following information:
 
   * (1) A description of the departmental guidance prepared pursuant to section 2506 of this title.
 
@@ -97,7 +101,7 @@
 
   * (3) Based on the strategy required by section 2501 of this title and on the assessments prepared pursuant to Executive order or section 2505 of this title—
 
-    * (A) a map of the industrial base;(4) by inserting after subparagraph (A) the following new subparagraph:
+    * (A) a map of the industrial base;
 
     * (B) a prioritized list of gaps or vulnerabilities in the national technology and industrial base, including—
 
@@ -112,6 +116,23 @@
 
 
   * (4) Identification of each program designed to sustain specific essential technological and industrial capabilities and processes of the national technology and industrial base.
+
+  * (5) A detailed description of any use by the Secretary of Defense or a Secretary concerned, as applicable, during the prior 12 months of a waiver or exception to the sourcing requirements or prohibitions established by chapter 83 of title 41 or subchapter V of chapter 148 of this title, including—
+
+    * (A) the type of waiver or exception used; and
+
+    * (B) the reasoning for the use of each such waiver or exception.
+
+
+* (b) QUARTERLY BRIEFINGS.—(1) The Secretary of Defense shall ensure that the congressional defense committees receive quarterly briefings on the industrial base supporting the Department of Defense, describing challenges, gaps, and vulnerabilities in the defense industrial base and commercial sector relevant to execution of defense missions, and describing initiatives to address such challenges.
+
+* (2) Each briefing under paragraph (1) shall include an update on the progress of addressing such gaps or vulnerabilities by the Secretary, the Secretary of the military department concerned, or the appropriate head of a Defense Agency, including an update on—
+
+  * (A) actions taken to address such gaps or vulnerabilities;
+
+  * (B) policy changes necessary to address such gaps or vulnerabilities; and
+
+  * (C) the proposed timeline for action and resources required to address such gaps or vulnerabilities.
 
 ### §2504a. Unfunded priorities of the national technology and industrial base: annual report
 * (a) ANNUAL REPORT.—Not later than 10 days after the date on which the budget of the President for a fiscal year is submitted to Congress pursuant to section 1105 of title 31, the Under Secretary of Defense for Acquisition and Sustainment shall submit to the Secretary of Defense, the Chairman of the Joint Chiefs of Staff, and the congressional defense committees a report on the unfunded priorities to address gaps or vulnerabilities in the national technology and industrial base.
@@ -239,11 +260,11 @@
 
 * (2) The analytical framework required under paragraph (1) shall include the following elements:
 
-  * (A) Characterization and monitoring of supply chain risks, including—
+  * (A) Characterization and monitoring of supply chain risks, such as those identified through the supply chain risk management process of the Department and by the Federal Acquisition Security Council, and including—
 
     * (i) material sources and fragility, including the extent to which sources, items, materials, and articles are mined, produced, or manufactured within or outside the United States;
 
-    * (ii) telecommunications services or equipment (other than optical transmission components);
+    * (ii) telecommunications services or equipment;
 
     * (iii) counterfeit parts;
 
@@ -295,9 +316,11 @@
 
     * (ix) suspension and debarment activities and administrative appeals activities;
 
-    * (x) contractor business system reviews; and
+    * (x) contractor business system reviews;
 
-    * (xi) other relevant processes and procedures.
+    * (xi) processes and procedures related to supply chain risk management and processes and procedures implemented pursuant to section 2339a of this title; and
+
+    * (xii) other relevant processes and procedures.
 
 
   * (D) Characterization and monitoring of the health and activities of the defense industrial base, including those relating to—
@@ -311,6 +334,23 @@
     * (iv) corporate governance, leadership, and culture of performance; and
 
     * (v) history of performance on past Department of Defense and government contracts.
+
+
+  * (E) Characterization and assessment of industrial base support policies, programs, and procedures, including—
+
+    * (i) limitations and acquisition guidance relevant to the national technology and industrial base (as defined in section 2500(1) of this title);
+
+    * (ii) limitations and acquisition guidance relevant to section 2533a of this title;
+
+    * (iii) the Industrial Base Analysis and Sustainment program of the Department, including direct support and common design activities;
+
+    * (iv) the Small Business Innovation Research Program (as defined in section 9(e) of the Small Business Act (15 U.S.C. 638(e));
+
+    * (v) the Manufacturing Technology Program established under section 2521 of this title;
+
+    * (vi) programs relating to the Defense Production Act of 1950 (50 U.S.C. 4511 et seq.); and
+
+    * (vii) programs operating in each military department.
 
 
 * (c) ROLES AND RESPONSIBILITIES.—The Secretary of Defense shall designate the roles and responsibilities of organizations and individuals to execute activities under this section, including—
@@ -382,7 +422,7 @@
     * (B) a process for an entity to contact the Department after the entity has taken steps to remediate, mitigate, or otherwise address the risks identified by the Department in conducting activities under subsection (b).
 
 
-  * (2) PHASE 2: IMPLEMENTATION OF FRAMEWORK.—Not later than one year after the date of the submission of the implementation plan and schedule required under paragraph (1), a report on the actions taken to implement the framework established pursuant to subsection (b).
+  * (2) PHASE 2: IMPLEMENTATION OF FRAMEWORK.—Not later than one year after the date of the submission of the implementation plan and schedule required under paragraph (1), a report on the actions taken to implement the framework established pursuant to subsection (b), and supporting policies, procedures, and guidance relating to such actions.
 
 
 * (g) COMPTROLLER GENERAL REVIEWS.—

@@ -1,7 +1,72 @@
 ### SUBCHAPTER IV—MISCELLANEOUS
 
 ### §561. Icebreaking in polar regions
-* The President shall facilitate planning for the design, procurement, maintenance, deployment, and operation of icebreakers as needed to support the statutory missions of the Coast Guard in the polar regions by allocating all funds to support icebreaking operations in such regions, except for recurring incremental costs associated with specific projects, to the Coast Guard.
+* (a) PROCUREMENT AUTHORITY.—
+
+  * (1) IN GENERAL.—The Secretary may enter into one or more contracts for the procurement of—
+
+    * (A) the Polar Security Cutters approved as part of a major acquisition program as of November 1, 2019; and
+
+    * (B) 3 additional Polar Security Cutters.
+
+
+  * (2) CONDITION FOR OUT-YEAR CONTRACT PAYMENTS.—A contract entered into under paragraph (1) shall provide that any obligation of the United States to make a payment under the contract during a fiscal year after fiscal year 2019 is subject to the availability of appropriations or funds for that purpose for such later fiscal year.
+
+
+* (b) PLANNING.—The Secretary shall facilitate planning for the design, procurement, maintenance, deployment, and operation of icebreakers as needed to support the statutory missions of the Coast Guard in the polar regions by allocating all funds to support icebreaking operations in such regions, except for recurring incremental costs associated with specific projects, to the Coast Guard.
+
+* (c) REIMBURSEMENT.—Nothing in this section shall preclude the Secretary from seeking reimbursement for operation and maintenance costs of the _Polar Star_, _Healy_, or any other Polar Security Cutter from other Federal agencies and entities, including foreign countries, that benefit from the use of those vessels.
+
+* (d) RESTRICTION.—
+
+  * (1) IN GENERAL.—The Commandant may not—
+
+    * (A) transfer, relinquish ownership of, dismantle, or recycle the _Polar Sea_ or _Polar Star_;
+
+    * (B) change the current homeport of the _Polar Sea_ or _Polar Star_; or
+
+    * (C) expend any funds—
+
+      * (i) for any expenses directly or indirectly associated with the decommissioning of the _Polar Sea_ or _Polar Star_, including expenses for dock use or other goods and services;
+
+      * (ii) for any personnel expenses directly or indirectly associated with the decommissioning of the _Polar Sea_ or _Polar Star_, including expenses for a decommissioning officer;
+
+      * (iii) for any expenses associated with a decommissioning ceremony for the _Polar Sea_ or _Polar Star_;
+
+      * (iv) to appoint a decommissioning officer to be affiliated with the _Polar Sea_ or _Polar Star_; or
+
+      * (v) to place the _Polar Sea_ or _Polar Star_ in inactive status.
+
+
+  * (2) SUNSET.—This subsection shall cease to have effect on September 30, 2022.
+
+
+* (e) LIMITATION.—
+
+  * (1) IN GENERAL.—The Secretary may not expend amounts appropriated for the Coast Guard for any of fiscal years 2015 through 2024, for—
+
+    * (A) design activities related to a capability of a Polar Security Cutter that is based solely on an operational requirement of a Federal department or agency other than the Coast Guard, except for amounts appropriated for design activities for a fiscal year before fiscal year 2016; or
+
+    * (B) long-lead-time materials, production, or postdelivery activities related to such a capability.
+
+
+  * (2) OTHER AMOUNTS.—Amounts made available to the Secretary under an agreement with a Federal department or agency other than the Coast Guard and expended on a capability of a Polar Security Cutter that is based solely on an operational requirement of such Federal department or agency shall not be treated as amounts expended by the Secretary for purposes of the limitation under paragraph (1).
+
+
+* (f) ENHANCED MAINTENANCE PROGRAM FOR THE POLAR STAR.—
+
+  * (1) IN GENERAL.—Subject to the availability of appropriations, the Commandant shall conduct an enhanced maintenance program on the Polar Star to extend the service life of such vessel until at least December 31, 2025.
+
+  * (2) AUTHORIZATION OF APPROPRIATIONS.—The Commandant may use funds made available pursuant to section 4902(1)(A), to carry out this subsection.
+
+
+* (g) DEFINITIONS.—In this section:
+
+  * (1) POLAR SEA.—The term "_Polar Sea_" means Coast Guard Cutter _Polar Sea_ (WAGB 11).
+
+  * (2) POLAR STAR.—The term "_Polar Star_" means Coast Guard Cutter _Polar Star_ (WAGB 10).
+
+  * (3) HEALY.—The term "_Healy_" means Coast Guard Cutter _Healy_ (WAGB 20).
 
 ### §562. Appeals and waivers
 * Except for the Commandant, any individual adjudicating an appeal or waiver of a decision regarding marine safety, including inspection or manning and threats to the environment, shall—

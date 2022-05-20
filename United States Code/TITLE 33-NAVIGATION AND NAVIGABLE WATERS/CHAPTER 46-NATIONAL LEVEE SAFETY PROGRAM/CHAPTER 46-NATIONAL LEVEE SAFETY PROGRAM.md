@@ -270,6 +270,17 @@
 * #### (5) Exceptions
   * In carrying out the inventory and review under this subsection, the Secretary shall not be required to review any levee that has been inspected by a State, regional district, or Indian tribe using the same methodology described in paragraph (3) during the 1-year period immediately preceding June 10, 2014, if the Governor of the State or chief executive of the regional district or tribal government, as applicable, requests an exemption from the review.
 
+#### (d) Identification of deficiencies
+* #### (1) In general
+  * For each levee included in an inventory established under subsection (b) or for which the Secretary has conducted a review under subsection (c), the Secretary shall—
+
+    * (A) identify the specific engineering and maintenance deficiencies, if any; and
+
+    * (B) describe the recommended remedies to correct each deficiency identified under subparagraph (A), and, if requested by owner of a non-Federal levee, the associated costs of those remedies.
+
+* #### (2) Consultation
+  * In identifying deficiencies and describing remedies for a levee under paragraph (1), the Secretary shall consult with relevant non-Federal interests, including by providing an opportunity for comment by those non-Federal interests.
+
 ### §3303a. Levee safety initiative
 #### (a) Establishment
 * The Secretary, in consultation with the Administrator, shall carry out a levee safety initiative.

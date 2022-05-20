@@ -18,12 +18,7 @@
 
   * (2) LEVEL OF PARTICIPATION IN GUARANTEED LOANS.—
 
-    * (A) IN GENERAL.—Except as provided in subparagraphs (B), (D), and (E), in an agreement to participate in a loan on a deferred basis under this subsection (including a loan made under the Preferred Lenders Program), such participation by the Administration shall be equal to—
-
-      * (i) 75 percent of the balance of the financing outstanding at the time of disbursement of the loan, if such balance exceeds $150,000; or
-
-      * (ii) 85 percent of the balance of the financing outstanding at the time of disbursement of the loan, if such balance is less than or equal to $150,000.
-
+    * (A) IN GENERAL.—Except as provided in subparagraphs (B), (D), (E), and (F), in an agreement to participate in a loan on a deferred basis under this subsection (including a loan made under the Preferred Lenders Program or the Community Advantage Pilot Program of the Administration), such participation by the Administration shall be equal to 90 percent of the balance of the financing outstanding at the time of disbursement of the loan.
 
     * (B) REDUCED PARTICIPATION UPON REQUEST.—
 
@@ -48,6 +43,8 @@
     * (D) PARTICIPATION UNDER EXPORT WORKING CAPITAL PROGRAM.—In an agreement to participate in a loan on a deferred basis under the Export Working Capital Program established pursuant to paragraph (14)(A), such participation by the Administration shall be 90 percent.
 
     * (E) PARTICIPATION IN INTERNATIONAL TRADE LOAN.—In an agreement to participate in a loan on a deferred basis under paragraph (16), the participation by the Administration may not exceed 90 percent.
+
+    * (F) PARTICIPATION IN THE PAYCHECK PROTECTION PROGRAM.—In an agreement to participate in a loan on a deferred basis under paragraph (36), the participation by the Administration shall be 100 percent.
 
 
   * (3) No loan shall be made under this subsection—
@@ -107,7 +104,21 @@
 
 * On that portion of the loan used to refinance existing indebtedness held by a bank or other lending institution, the Administration shall limit the amount of deferred participation to 80 per centum of the amount of the loan at the time of disbursement: _Provided further_, That any authority conferred by this subparagraph on the Administration shall be exercised solely by the Administration and shall not be delegated to other than Administration personnel.
 
-  * (7) The Administration may defer payments on the principal of such loans for a grace period and use such other methods as it deems necessary and appropriate to assure the successful establishment and operation of such concern.
+  * (7)(A) IN GENERAL.—The Administrator may defer payments on the principal and interest of such loans for a grace period and use such other methods as it deems necessary and appropriate to assure the successful establishment and operation of such concern.
+
+  * (B) DEFERRAL REQUIREMENTS.—With respect to a deferral provided under this paragraph, the Administrator may allow lenders under this subsection—
+
+    * (i) to provide full payment deferment relief (including payment of principal and interest) for a period of not more than 1 year; and
+
+    * (ii) to provide an additional deferment period if the borrower provides documentation justifying such additional deferment.
+
+
+  * (C) SECONDARY MARKET.—
+
+    * (i) IN GENERAL.—Except as provided in clause (ii), if an investor declines to approve a deferral or additional deferment requested by a lender under subparagraph (B), the Administrator shall exercise the authority to purchase the loan so that the borrower may receive full payment deferment relief (including payment of principal and interest) or an additional deferment as described in subparagraph (B).
+
+    * (ii) EXCEPTION.—If, in a fiscal year, the Administrator determines that the cost of implementing clause (i) is greater than zero, the Administrator shall not implement that clause.
+
 
   * (8) The Administration may make loans under this subsection to small business concerns owned and controlled by disabled veterans (as defined in section 4211(3) of title 38).
 
@@ -396,14 +407,18 @@
 
       * (iii) The term "express loan" means any loan made pursuant to this paragraph in which a lender utilizes to the maximum extent practicable its own loan analyses, procedures, and documentation.
 
-      * (iv) The term "Express Loan Program" means the program for express loans established by the Administration under paragraph (25)(B), as in existence on April 5, 2004, with a guaranty rate of not more than 50 percent.
+      * (iv) The term "Express Loan Program" means the program for express loans established by the Administration under paragraph (25)(B), as in existence on April 5, 2004, with a guarantee rate—
+
+        * (I) for a loan in an amount less than or equal to $350,000, of not more than 75 percent; and
+
+        * (II) for a loan in an amount greater than $350,000, of not more than 50 percent.
 
 
     * (B) RESTRICTION TO EXPRESS LENDER.—The authority to make an express loan shall be limited to those lenders deemed qualified to make such loans by the Administration. Designation as an express lender for purposes of making an express loan shall not prohibit such lender from taking any other action authorized by the Administration for that lender pursuant to this subsection.
 
     * (C) GRANDFATHERING OF EXISTING LENDERS.—Any express lender shall retain such designation unless the Administration determines that the express lender has violated the law or regulations promulgated by the Administration or modifies the requirements to be an express lender and the lender no longer satisfies those requirements.
 
-    * (D) MAXIMUM LOAN AMOUNT.—The maximum loan amount under the Express Loan Program is $350,000.
+    * (D) MAXIMUM LOAN AMOUNT.—The maximum loan amount under the Express Loan Program is $1,000,000.
 
     * (E) OPTION TO PARTICIPATE.—Except as otherwise provided in this paragraph, the Administration shall take no regulatory, policy, or administrative action, without regard to whether such action requires notification pursuant to paragraph (24), that has the effect of requiring a lender to make an express loan pursuant to subparagraph (D).
 
@@ -459,9 +474,7 @@
 
       * (i) GUARANTEE FEE WAIVER.—The Administrator may not collect a guarantee fee described in paragraph (18) in connection with a loan made under this paragraph to a veteran or spouse of a veteran on or after October 1, 2015.
 
-      * (ii) EXCEPTION.—If the President's budget for the upcoming fiscal year, submitted to Congress pursuant to section 1105(a) of title 31, includes a cost for the program established under this subsection that is above zero, the requirements of clause (i) shall not apply to loans made during such upcoming fiscal year.
-
-      * (iii) DEFINITION.—In this subparagraph, the term "veteran or spouse of a veteran" means—
+      * (ii) DEFINITION.—In this subparagraph, the term "veteran or spouse of a veteran" means—
 
         * (I) a veteran, as defined in section 632(q)(4) of this title;
 
@@ -672,6 +685,685 @@
 
     * (B) AUTHORITY.—The Administration shall guarantee loans made to a cooperative for the purpose described in paragraph (15).
 
+
+  * (36) PAYCHECK PROTECTION PROGRAM.—
+
+    * (A) DEFINITIONS.—In this paragraph—
+
+      * (i) the terms "appropriate Federal banking agency" and "insured depository institution" have the meanings given those terms in section 1813 of title 12;
+
+      * (ii) the term "covered loan" means a loan made under this paragraph during the covered period;
+
+      * (iii) the term "covered period" means the period beginning on February 15, 2020 and ending on March 31, 2021;
+
+      * (iv) the term "eligible recipient" means an individual or entity that is eligible to receive a covered loan;
+
+      * (v) the term "eligible self-employed individual" has the meaning given the term in section 7002(b) of the Families First Coronavirus Response Act (Public Law 116–127);
+
+      * (vi) the term "insured credit union" has the meaning given the term in section 1752 of title 12;
+
+      * (vii) the term "nonprofit organization" means an organization that is described in section 501(c)(3) of title 26 and that is exempt from taxation under section 501(a) of title 26;
+
+      * (viii) the term "payroll costs"—
+
+        * (I) means—
+
+          * (aa) the sum of payments of any compensation with respect to employees that is a—
+
+            * (AA) salary, wage, commission, or similar compensation;
+
+            * (BB) payment of cash tip or equivalent;
+
+            * (CC) payment for vacation, parental, family, medical, or sick leave;
+
+            * (DD) allowance for dismissal or separation;
+
+            * (EE) payment required for the provisions of group health care or group life, disability, vision, or dental insurance benefits, including insurance premiums;
+
+            * (FF) payment of any retirement benefit; or
+
+            * (GG) payment of State or local tax assessed on the compensation of employees; and
+
+          * (bb) the sum of payments of any compensation to or income of a sole proprietor or independent contractor that is a wage, commission, income, net earnings from self-employment, or similar compensation and that is in an amount that is not more than $100,000 on an annualized basis, as prorated for the period during which the payments are made or the obligation to make the payments is incurred; and
+
+
+        * (II) shall not include—
+
+          * (aa) the compensation of an individual employee in excess of $100,000 on an annualized basis, as prorated for the period during which the compensation is paid or the obligation to pay the compensation is incurred;
+
+          * (bb) taxes imposed or withheld under chapters 21, 22, or 24 of title 26 during the applicable period;
+
+          * (cc) any compensation of an employee whose principal place of residence is outside of the United States;
+
+          * (dd) qualified sick leave wages for which a credit is allowed under section 7001 of the Families First Coronavirus Response Act (Public Law 116–127); or
+
+          * (ee) qualified family leave wages for which a credit is allowed under section 7003 of the Families First Coronavirus Response Act (Public Law 116–127);
+
+
+      * (ix) the term "veterans organization" means an organization that is described in section 501(c)(19) of title 26 that is exempt from taxation under section 501(a) of title 26;
+
+      * (x) the term "community development financial institution" has the meaning given the term in section 4702 of title 12);
+
+      * (xi) the term "community financial institutions" means—
+
+        * (I) a community development financial institution;
+
+        * (II) a minority depository institution, as defined in section 308 of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (12 U.S.C. 1463 note);
+
+        * (III) a development company that is certified under title V of the Small Business Investment Act of 1958 (15 U.S.C. 695 et seq.); and
+
+        * (IV) an intermediary, as defined in subsection (m)(11);
+
+
+      * (xii) the term "credit union" means a State credit union or a Federal credit union, as those terms are defined, respectively, in section 1752 of title 12;
+
+      * (xiii) the term "seasonal employer" means an eligible recipient that—
+
+        * (I) does not operate for more than 7 months in any calendar year; or
+
+        * (II) during the preceding calendar year, had gross receipts for any 6 months of that year that were not more than 33.33 percent of the gross receipts of the employer for the other 6 months of that year;
+
+
+      * (xiv) the term "housing cooperative" means a cooperative housing corporation (as defined in section 216(b) of title 26) that employs not more than 300 employees;
+
+      * (xv) the term "destination marketing organization" means a nonprofit entity that is—
+
+        * (I) an organization described in section 501(c) of title 26 and exempt from tax under section 501(a) of such title; or
+
+        * (II) a State, or a political subdivision of a State (including any instrumentality of such entities)—
+
+          * (aa) engaged in marketing and promoting communities and facilities to businesses and leisure travelers through a range of activities, including—
+
+
+            * (AA) assisting with the location of meeting and convention sites;
+
+            * (BB) providing travel information on area attractions, lodging accommodations, and restaurants;
+
+            * (CC) providing maps; and
+
+            * (DD) organizing group tours of local historical, recreational, and cultural attractions; or
+
+          * (bb) that is engaged in, and derives the majority of the operating budget of the entity from revenue attributable to, providing live events; and
+
+
+      * (xvi) the terms "exchange", "issuer", and "security" have the meanings given those terms in section 78c(a) of this title.
+
+
+    * (B) PAYCHECK PROTECTION LOANS.—Except as otherwise provided in this paragraph, the Administrator may guarantee covered loans under the same terms, conditions, and processes as a loan made under this subsection.
+
+    * (C) REGISTRATION OF LOANS.—Not later than 15 days after the date on which a loan is made under this paragraph, the Administration shall register the loan using the TIN (as defined in section 7701 of title 26) assigned to the borrower.
+
+    * (D) INCREASED ELIGIBILITY FOR CERTAIN SMALL BUSINESSES AND ORGANIZATIONS.—
+
+      * (i) IN GENERAL.—During the covered period, in addition to small business concerns, any business concern, nonprofit organization, housing cooperative, veterans organization, or Tribal business concern described in section 657a(b)(2)(C) of this title shall be eligible to receive a covered loan if the business concern, nonprofit organization, housing cooperative, veterans organization, or Tribal business concern employs not more than the greater of—
+
+        * (I) 500 employees; or
+
+        * (II) if applicable, the size standard in number of employees established by the Administration for the industry in which the business concern, nonprofit organization, housing cooperative, veterans organization, or Tribal business concern operates.
+
+
+      * (ii) INCLUSION OF SOLE PROPRIETORS, INDEPENDENT CONTRACTORS, AND ELIGIBLE SELF-EMPLOYED INDIVIDUALS.—
+
+        * (I) IN GENERAL.—During the covered period, individuals who operate under a sole proprietorship or as an independent contractor and eligible self-employed individuals shall be eligible to receive a covered loan.
+
+        * (II) DOCUMENTATION.—An eligible self-employed individual, independent contractor, or sole proprietorship seeking a covered loan shall submit such documentation as determined necessary by the Administrator and the Secretary, to establish the applicant as eligible.
+
+
+      * (iii) BUSINESS CONCERNS WITH MORE THAN 1 PHYSICAL LOCATION.—
+
+        * (I) IN GENERAL.—During the covered period, any business concern that employs not more than 500 employees per physical location of the business concern and that is assigned a North American Industry Classification System code beginning with 72 at the time of disbursal shall be eligible to receive a covered loan.
+
+        * (II) ELIGIBILITY OF NEWS ORGANIZATIONS.—
+
+          * (aa) DEFINITION.—In this subclause, the term "included business concern" means a business concern, including any station which broadcasts pursuant to a license granted by the Federal Communications Commission under title III of the Communications Act of 1934 (47 U.S.C. 301 et seq.) without regard for whether such a station is a concern as defined in section 121.105 of title 13, Code of Federal Regulations, or any successor thereto—
+
+            * (AA) that employs not more than 500 employees, or the size standard established by the Administrator for the North American Industry Classification System code applicable to the business concern, per physical location of such business concern; or
+
+            * (BB) any nonprofit organization or any organization otherwise subject to section 511(a)(2)(B) of title 26 that is a public broadcasting entity (as defined in section 397(11) of the Communications Act of 1934 (47 U.S.C. 397(11))).
+
+
+          * (bb) ELIGIBILITY.—During the covered period, an included business concern shall be eligible to receive a covered loan if—
+
+            * (AA) the included business concern is majority owned or controlled by a business concern that is assigned a North American Industry Classification System code beginning with 511110 or 5151 or, with respect to a public broadcasting entity (as defined in section 397(11) of the Communications Act of 1934 (47 U.S.C. 397(11))), has a trade or business that falls under such a code; and
+
+            * (BB) the included business concern makes a good faith certification that proceeds of the loan will be used to support expenses at the component of the included business concern that produces or distributes locally focused or emergency information.
+
+      * (iv) WAIVER OF AFFILIATION RULES.—During the covered period, the provisions applicable to affiliations under section 121.103 of title 13, Code of Federal Regulations, or any successor regulation, are waived with respect to eligibility for a covered loan for—
+
+        * (I) any business concern with not more than 500 employees that, as of the date on which the covered loan is disbursed, is assigned a North American Industry Classification System code beginning with 72;
+
+        * (II) any business concern operating as a franchise that is assigned a franchise identifier code by the Administration;
+
+        * (III) any business concern that receives financial assistance from a company licensed under section 681 of this title; and
+
+        * (IV)(aa) any business concern (including any station which broadcasts pursuant to a license granted by the Federal Communications Commission under title III of the Communications Act of 1934 (47 U.S.C. 301 et seq.) without regard for whether such a station is a concern as defined in section 121.105 of title 13, Code of Federal Regulations, or any successor thereto) that employs not more than 500 employees, or the size standard established by the Administrator for the North American Industry Classification System code applicable to the business concern, per physical location of such business concern and is majority owned or controlled by a business concern that is assigned a North American Industry Classification System code beginning with 511110 or 5151; or
+
+        * (bb) any nonprofit organization that is assigned a North American Industry Classification System code beginning with 5151.
+
+
+      * (v) EMPLOYEE.—For purposes of determining whether a business concern, nonprofit organization, veterans organization, or Tribal business concern described in section 657a(b)(2)(C) of this title employs not more than 500 employees under clause (i)(I), or for purposes of determining the number of employees of a housing cooperative or a business concern or organization made eligible for a loan under this paragraph under clause (iii)(II), (iv)(IV), or (vii), the term "employee" includes individuals employed on a full-time, part-time, or other basis.
+
+      * (vi) AFFILIATION.—The provisions applicable to affiliations under section 121.103 of title 13, Code of Federal Regulations, or any successor thereto, shall apply with respect to a nonprofit organization, a business concern or organization made eligible for a loan under this paragraph under clause (vii), a housing cooperative, and a veterans organization in the same manner as with respect to a small business concern.
+
+      * (vii) ELIGIBILITY FOR CERTAIN 501(c)(6) ORGANIZATIONS.—
+
+        * (I) IN GENERAL.—Any organization that is described in section 501(c)(6) of title 26 and that is exempt from taxation under section 501(a) of such title (excluding professional sports leagues and organizations with the purpose of promoting or participating in a political campaign or other activity) shall be eligible to receive a covered loan if—
+
+          * (aa) the organization does not receive more than 15 percent of its receipts from lobbying activities;
+
+          * (bb) the lobbying activities of the organization do not comprise more than 15 percent of the total activities of the organization;
+
+          * (cc) the cost of the lobbying activities of the organization did not exceed $1,000,000 during the most recent tax year of the organization that ended prior to February 15, 2020; and
+
+          * (dd) the organization employs not more than 300 employees.
+
+
+        * (II) DESTINATION MARKETING ORGANIZATIONS.—Any destination marketing organization shall be eligible to receive a covered loan if—
+
+          * (aa) the destination marketing organization does not receive more than 15 percent of its receipts from lobbying activities;
+
+          * (bb) the lobbying activities of the destination marketing organization do not comprise more than 15 percent of the total activities of the organization;
+
+          * (cc) the cost of the lobbying activities of the destination marketing organization did not exceed $1,000,000 during the most recent tax year of the destination marketing organization that ended prior to February 15, 2020; and
+
+          * (dd) the destination marketing organization employs not more than 300 employees; and
+
+          * (ee) the destination marketing organization—
+
+            * (AA) is described in section 501(c) of title 26 and is exempt from taxation under section 501(a) of such title; or
+
+            * (BB) is a quasi-governmental entity or is a political subdivision of a State or local government, including any instrumentality of those entities.
+
+
+      * (viii) INELIGIBILITY OF PUBLICLY-TRADED ENTITIES.—
+
+        * (I) IN GENERAL.—Subject to subclause (II), and notwithstanding any other provision of this paragraph, on and after December 27, 2020, an entity that is an issuer, the securities of which are listed on an exchange registered as a national securities exchange under section 78f of this title, shall be ineligible to receive a covered loan under this paragraph.
+
+        * (II) RULE FOR AFFILIATED ENTITIES.—With respect to a business concern made eligible by clause (iii)(II) or clause (iv)(IV) of this subparagraph, the Administrator shall not consider whether any affiliated entity, which for purposes of this subclause shall include any entity that owns or controls such business concern, is an issuer.
+
+
+    * (E) MAXIMUM LOAN AMOUNT.—Except as provided in subparagraph (V), during the covered period, with respect to a covered loan, the maximum loan amount shall be the lesser of—
+
+      * (i)(I) the sum of—
+
+        * (aa) the product obtained by multiplying—
+
+          * (AA) the average total monthly payments by the applicant for payroll costs incurred during the 1-year period before the date on which the loan is made, except that an applicant that is a seasonal employer shall use the average total monthly payments for payroll for any 12-week period selected by the seasonal employer between February 15, 2019, and February 15, 2020; by
+
+          * (BB) 2.5; and
+
+
+        * (bb) the outstanding amount of a loan under subsection (b)(2) that was made during the period beginning on January 31, 2020 and ending on the date on which covered loans are made available to be refinanced under the covered loan; or
+
+
+      * (II) if requested by an otherwise eligible recipient that was not in business during the period beginning on February 15, 2019 and ending on June 30, 2019, the sum of—
+
+        * (aa) the product obtained by multiplying—
+
+          * (AA) the average total monthly payments by the applicant for payroll costs incurred during the period beginning on January 1, 2020 and ending on February 29, 2020; by
+
+          * (BB) 2.5; and
+
+
+        * (bb) the outstanding amount of a loan under subsection (b)(2) that was made during the period beginning on January 31, 2020 and ending on the date on which covered loans are made available to be refinanced under the covered loan; or
+
+
+      * (ii) $10,000,000.
+
+
+    * (F) ALLOWABLE USES OF COVERED LOANS.—
+
+      * (i) IN GENERAL.—During the covered period, an eligible recipient may, in addition to the allowable uses of a loan made under this subsection, use the proceeds of the covered loan for—
+
+        * (I) payroll costs;
+
+        * (II) costs related to the continuation of group health care benefits during periods of paid sick, medical, or family leave, and insurance premiums;
+
+        * (III) employee salaries, commissions, or similar compensations;
+
+        * (IV) payments of interest on any mortgage obligation (which shall not include any prepayment of or payment of principal on a mortgage obligation);
+
+        * (V) rent (including rent under a lease agreement);
+
+        * (VI) utilities;
+
+        * (VII) interest on any other debt obligations that were incurred before the covered period;
+
+        * (VIII) covered operations expenditures, as defined in section 636m(a) of this title;
+
+        * (IX) covered property damage costs, as defined in section 636m(a) of this title;
+
+        * (X) covered supplier costs, as defined in section 636m(a) of this title; and
+
+        * (XI) covered worker protection expenditures, as defined in section 636m(a) of this title.
+
+
+      * (ii) DELEGATED AUTHORITY.—
+
+        * (I) IN GENERAL.—For purposes of making covered loans for the purposes described in clause (i), a lender approved to make loans under this subsection shall be deemed to have been delegated authority by the Administrator to make and approve covered loans, subject to the provisions of this paragraph.
+
+        * (II) CONSIDERATIONS.—In evaluating the eligibility of a borrower for a covered loan with the terms described in this paragraph, a lender shall consider whether the borrower—
+
+          * (aa) was in operation on February 15, 2020; and
+
+          * (bb)(AA) had employees for whom the borrower paid salaries and payroll taxes; or
+
+          * (BB) paid independent contractors, as reported on a Form 1099–MISC.
+
+
+      * (iii) ADDITIONAL LENDERS.—The authority to make loans under this paragraph shall be extended to additional lenders determined by the Administrator and the Secretary of the Treasury to have the necessary qualifications to process, close, disburse and service loans made with the guarantee of the Administration.
+
+      * (iv) REFINANCE.—A loan made under subsection (b)(2) during the period beginning on January 31, 2020 and ending on the date on which covered loans are made available may be refinanced as part of a covered loan.
+
+      * (v) NONRECOURSE.—Notwithstanding the waiver of the personal guarantee requirement or collateral under subparagraph (J), the Administrator shall have no recourse against any individual shareholder, member, or partner of an eligible recipient of a covered loan for nonpayment of any covered loan, except to the extent that such shareholder, member, or partner uses the covered loan proceeds for a purpose not authorized under clause (i) or (iv).
+
+      * (vi) PROHIBITION.—None of the proceeds of a covered loan may be used for—
+
+        * (I) lobbying activities, as defined in section 1602 of title 2;
+
+        * (II) lobbying expenditures related to a State or local election; or
+
+        * (III) expenditures designed to influence the enactment of legislation, appropriations, regulation, administrative action, or Executive order proposed or pending before Congress or any State government, State legislature, or local legislature or legislative body.
+
+
+    * (G) BORROWER REQUIREMENTS.—
+
+      * (i) CERTIFICATION.—An eligible recipient applying for a covered loan shall make a good faith certification—
+
+        * (I) that the uncertainty of current economic conditions makes necessary the loan request to support the ongoing operations of the eligible recipient;
+
+        * (II) acknowledging that funds will be used to retain workers and maintain payroll or make mortgage payments, lease payments, and utility payments;
+
+        * (III) that the eligible recipient does not have an application pending for a loan under this subsection for the same purpose and duplicative of amounts applied for or received under a covered loan; and
+
+        * (IV) during the period beginning on February 15, 2020 and ending on December 31, 2020, that the eligible recipient has not received amounts under this subsection for the same purpose and duplicative of amounts applied for or received under a covered loan.
+
+
+    * (H) FEE WAIVER.—With respect to a covered loan—
+
+      * (i) in lieu of the fee otherwise applicable under paragraph (23)(A), the Administrator shall collect no fee; and
+
+      * (ii) in lieu of the fee otherwise applicable under paragraph (18)(A), the Administrator shall collect no fee.
+
+
+    * (I) CREDIT ELSEWHERE.—During the covered period, the requirement that a small business concern is unable to obtain credit elsewhere, as defined in section 632(h) of this title, shall not apply to a covered loan.
+
+    * (J) WAIVER OF PERSONAL GUARANTEE REQUIREMENT.—With respect to a covered loan—
+
+      * (i) no personal guarantee shall be required for the covered loan; and
+
+      * (ii) no collateral shall be required for the covered loan.
+
+
+    * (K) MATURITY FOR LOANS WITH REMAINING BALANCE AFTER APPLICATION OF FORGIVENESS.—With respect to a covered loan that has a remaining balance after reduction based on the loan forgiveness amount under section 636m of this title—
+
+      * (i) the remaining balance shall continue to be guaranteed by the Administration under this subsection; and
+
+      * (ii) the covered loan shall have a minimum maturity of 5 years and a maximum maturity of 10 years from the date on which the borrower applies for loan forgiveness under that section.
+
+
+    * (L) INTEREST RATE REQUIREMENTS.—A covered loan shall bear an interest rate not to exceed 4 percent, calculated on a non-compounding, non-adjustable basis.
+
+    * (M) LOAN DEFERMENT.—
+
+      * (i) DEFINITION OF IMPACTED BORROWER.—
+
+        * (I) IN GENERAL.—In this subparagraph, the term "impacted borrower" means an eligible recipient that—
+
+          * (aa) is in operation on February 15, 2020; and
+
+          * (bb) has an application for a covered loan that is approved or pending approval on or after March 27, 2020.
+
+
+        * (II) PRESUMPTION.—For purposes of this subparagraph, an impacted borrower is presumed to have been adversely impacted by COVID–19.
+
+
+      * (ii) DEFERRAL.—The Administrator shall—
+
+        * (I) consider each eligible recipient that applies for a covered loan to be an impacted borrower; and
+
+        * (II) require lenders under this subsection to provide complete payment deferment relief for impacted borrowers with covered loans, including payment of principal, interest, and fees, until the date on which the amount of forgiveness determined under section 636m of this title is remitted to the lender.
+
+
+      * (iii) SECONDARY MARKET.—With respect to a covered loan that is sold on the secondary market, if an investor declines to approve a deferral requested by a lender under clause (ii), the Administrator shall exercise the authority to purchase the loan so that the impacted borrower may receive a deferral, including payment of principal, interest, and fees, until the date on which the amount of forgiveness determined under section 636m of this title is remitted to the lender.
+
+      * (iv) GUIDANCE.—Not later than 30 days after March 27, 2020, the Administrator shall provide guidance to lenders under this paragraph on the deferment process described in this subparagraph.
+
+      * (v) RULE OF CONSTRUCTION.—If an eligible recipient fails to apply for forgiveness of a covered loan within 10 months after the last day of the covered period defined in section 636m(a) of this title, such eligible recipient shall make payments of principal, interest, and fees on such covered loan beginning on the day that is not earlier than the date that is 10 months after the last day of such covered period.
+
+
+    * (N) SECONDARY MARKET SALES.—A covered loan shall be eligible to be sold in the secondary market consistent with this subsection. The Administrator may not collect any fee for any guarantee sold into the secondary market under this subparagraph.
+
+    * (O) REGULATORY CAPITAL REQUIREMENTS.—
+
+      * (i) RISK WEIGHT.—With respect to the appropriate Federal banking agencies or the National Credit Union Administration Board applying capital requirements under their respective risk-based capital requirements, a covered loan shall receive a risk weight of zero percent.
+
+      * (ii) TEMPORARY RELIEF FROM TDR DISCLOSURES.—Notwithstanding any other provision of law, an insured depository institution or an insured credit union that modifies a covered loan in relation to COVID–19-related difficulties in a troubled debt restructuring on or after March 13, 2020, shall not be required to comply with the Financial Accounting Standards Board Accounting Standards Codification Subtopic 310–40 ("Receivables – Troubled Debt Restructurings by Creditors") for purposes of compliance with the requirements of the Federal Deposit Insurance Act (12 U.S.C. 1811 et seq.), until such time and under such circumstances as the appropriate Federal banking agency or the National Credit Union Administration Board, as applicable, determines appropriate.
+
+
+    * (P) REIMBURSEMENT FOR PROCESSING.—
+
+      * (i) IN GENERAL.—The Administrator shall reimburse a lender authorized to make a covered loan as follows:
+
+        * (I) With respect to a covered loan made during the period beginning on March 27, 2020, and ending on the day before December 27, 2020, the Administrator shall reimburse such a lender at a rate, based on the balance of the financing outstanding at the time of disbursement of the covered loan, of—
+
+          * (aa) 5 percent for loans of not more than $350,000;
+
+          * (bb) 3 percent for loans of more than $350,000 and less than $2,000,000; and
+
+          * (cc) 1 percent for loans of not less than $2,000,000.
+
+
+        * (II) With respect to a covered loan made on or after December 27, 2020, the Administrator shall reimburse such a lender—
+
+          * (aa) for a covered loan of not more than $50,000, in an amount equal to the lesser of—
+
+            * (AA) 50 percent of the balance of the financing outstanding at the time of disbursement of the covered loan; or
+
+            * (BB) $2,500; and
+
+
+          * (bb) at a rate, based on the balance of the financing outstanding at the time of disbursement of the covered loan, of—
+
+            * (AA) 5 percent for a covered loan of more than $50,000 and not more than $350,000;
+
+            * (BB) 3 percent for a covered loan of more than $350,000 and less than $2,000,000; and
+
+            * (CC) 1 percent for a covered loan of not less than $2,000,000.
+
+
+      * (ii) FEE LIMITS.—An agent that assists an eligible recipient to prepare an application for a covered loan may not collect a fee in excess of the limits established by the Administrator. If an eligible recipient has knowingly retained an agent, such fees shall be paid by the eligible recipient and may not be paid out of the proceeds of a covered loan. A lender shall only be responsible for paying fees to an agent for services for which the lender directly contracts with the agent.
+
+      * (iii) TIMING.—A reimbursement described in clause (i) shall be made not later than 5 days after the reported disbursement of the covered loan and may not be required to be repaid by a lender unless the lender is found guilty of an act of fraud in connection with the covered loan.
+
+      * (iv) SENSE OF THE SENATE.—It is the sense of the Senate that the Administrator should issue guidance to lenders and agents to ensure that the processing and disbursement of covered loans prioritizes small business concerns and entities in underserved and rural markets, including veterans and members of the military community, small business concerns owned and controlled by socially and economically disadvantaged individuals (as defined in section 637(d)(3)(C) of this title), women, and businesses in operation for less than 2 years.
+
+
+    * (Q) DUPLICATION.—Nothing in this paragraph shall prohibit a recipient of an economic injury disaster loan made under subsection (b)(2) that is for a purpose other than paying payroll costs and other obligations described in subparagraph (F) from receiving assistance under this paragraph.
+
+    * (R) WAIVER OF PREPAYMENT PENALTY.—Notwithstanding any other provision of law, there shall be no prepayment penalty for any payment made on a covered loan.
+
+    * (S) SET-ASIDE FOR INSURED DEPOSITORY INSTITUTIONS, CREDIT UNIONS, AND COMMUNITY FINANCIAL INSTITUTIONS.—
+
+      * (i) INSURED DEPOSITORY INSTITUTIONS AND CREDIT UNIONS.—In making loan guarantees under this paragraph after April 24, 2020, the Administrator shall guarantee not less than $30,000,000,000 in loans made by—
+
+        * (I) insured depository institutions with consolidated assets of not less than $10,000,000,000 and less than $50,000,000,000; and
+
+        * (II) credit unions with consolidated assets of not less than $10,000,000,000 and less than $50,000,000,000.
+
+
+      * (ii) COMMUNITY FINANCIAL INSTITUTIONS, SMALL INSURED DEPOSITORY INSTITUTIONS, AND CREDIT UNIONS.—In making loan guarantees under this paragraph after April 24, 2020, the Administrator shall guarantee not less than $30,000,000,000 in loans made by—
+
+        * (I) community financial institutions;
+
+        * (II) insured depository institutions with consolidated assets of less than $10,000,000,000; and
+
+        * (III) credit unions with consolidated assets of less than $10,000,000,000.
+
+
+    * (T) REQUIREMENT FOR DATE IN OPERATION.—A business or organization that was not in operation on February 15, 2020 shall not be eligible for a loan under this paragraph.
+
+    * (U) EXCLUSION OF ENTITIES RECEIVING SHUTTERED VENUE OPERATOR GRANTS.—An eligible person or entity (as defined under of section 9009a of this title) that receives a grant under such section 9009a shall not be eligible for a loan under this paragraph.
+
+    * (V) CALCULATION OF MAXIMUM LOAN AMOUNT FOR FARMERS AND RANCHERS.—
+
+      * (i) DEFINITION.—In this subparagraph, the term "covered recipient" means an eligible recipient that—
+
+        * (I) operates as a sole proprietorship or as an independent contractor, or is an eligible self-employed individual;
+
+        * (II) reports farm income or expenses on a Schedule F (or any equivalent successor schedule); and
+
+        * (III) was in business as of February 15, 2020.
+
+
+      * (ii) NO EMPLOYEES .—With respect to covered recipient without employees, the maximum covered loan amount shall be the lesser of—
+
+        * (I) the sum of—
+
+          * (aa) the product obtained by multiplying—
+
+            * (AA) the gross income of the covered recipient in 2019, as reported on a Schedule F (or any equivalent successor schedule), that is not more than $100,000, divided by 12; and
+
+            * (BB) 2.5; and
+
+
+          * (bb) the outstanding amount of a loan under subsection (b)(2) that was made during the period beginning on January 31, 2020 and ending on April 3, 2020 that the borrower intends to refinance under the covered loan, not including any amount of any advance under the loan that is not required to be repaid; or
+
+
+        * (II) $2,000,000.
+
+
+      * (iii) WITH EMPLOYEES.—With respect to a covered recipient with employees, the maximum covered loan amount shall be calculated using the formula described in subparagraph (E), except that the gross income of the covered recipient described in clause (ii)(I)(aa)(AA) of this subparagraph, as divided by 12, shall be added to the sum calculated under subparagraph (E)(i)(I).
+
+      * (iv) RECALCULATION.—A lender that made a covered loan to a covered recipient before December 27, 2020 may, at the request of the covered recipient—
+
+        * (I) recalculate the maximum loan amount applicable to that covered loan based on the formula described in clause (ii) or (iii), as applicable, if doing so would result in a larger covered loan amount; and
+
+        * (II) provide the covered recipient with additional covered loan amounts based on that recalculation.
+
+
+  * (37) PAYCHECK PROTECTION PROGRAM SECOND DRAW LOANS.—
+
+    * (A) DEFINITIONS.—In this paragraph—
+
+      * (i) the terms "eligible self-employed individual", "housing cooperative", "nonprofit organization", "payroll costs", "seasonal employer", and "veterans organization" have the meanings given those terms in paragraph (36), except that "eligible entity" shall be substituted for "eligible recipient" each place it appears in the definitions of those terms;
+
+      * (ii) the term "covered loan" means a loan made under this paragraph;
+
+      * (iii) the terms "covered mortgage obligation", "covered operating expenditure", "covered property damage cost", "covered rent obligation", "covered supplier cost", "covered utility payment", and "covered worker protection expenditure" have the meanings given those terms in section 636m(a) of this title;
+
+      * (iv) the term "eligible entity"—
+
+        * (I) means any business concern, nonprofit organization, housing cooperative, veterans organization, Tribal business concern, eligible self-employed individual, sole proprietor, independent contractor, or small agricultural cooperative that—
+
+          * (aa) employs not more than 300 employees; and
+
+          * (bb)(AA) except as provided in subitems (BB), (CC), and (DD), had gross receipts during the first, second, third, or, only with respect to an application submitted on or after January 1, 2021, fourth quarter in 2020 that demonstrate not less than a 25 percent reduction from the gross receipts of the entity during the same quarter in 2019;
+
+          * (BB) if the entity was not in business during the first or second quarter of 2019, but was in business during the third and fourth quarter of 2019, had gross receipts during the first, second, third, or, only with respect to an application submitted on or after January 1, 2021, fourth quarter of 2020 that demonstrate not less than a 25 percent reduction from the gross receipts of the entity during the third or fourth quarter of 2019;
+
+          * (CC) if the entity was not in business during the first, second, or third quarter of 2019, but was in business during the fourth quarter of 2019, had gross receipts during the first, second, third, or, only with respect to an application submitted on or after January 1, 2021, fourth quarter of 2020 that demonstrate not less than a 25 percent reduction from the gross receipts of the entity during the fourth quarter of 2019; or
+
+          * (DD) if the entity was not in business during 2019, but was in operation on February 15, 2020, had gross receipts during the second, third, or, only with respect to an application submitted on or after January 1, 2021, fourth quarter of 2020 that demonstrate not less than a 25 percent reduction from the gross receipts of the entity during the first quarter of 2020;
+
+
+        * (II) includes a business concern or organization made eligible for a loan under paragraph (36) under clause (iii)(II), (iv)(IV), or (vii) of subparagraph (D) of paragraph (36) and that meets the requirements described in items (aa) and (bb) of subclause (I); and
+
+        * (III) does not include—
+
+          * (aa) any entity that is a type of business concern (or would be, if such entity were a business concern) described in section 120.110 of title 13, Code of Federal Regulations (or in any successor regulation or other related guidance or rule that may be issued by the Administrator) other than a business concern described in subsection (a) or (k) of such section; or
+
+          * (bb) any business concern or entity primarily engaged in political or lobbying activities, which shall include any entity that is organized for research or for engaging in advocacy in areas such as public policy or political strategy or otherwise describes itself as a think tank in any public documents;
+
+          * (cc) any business concern or entity—
+
+            * (AA) for which an entity created in or organized under the laws of the People's Republic of China or the Special Administrative Region of Hong Kong, or that has significant operations in the People's Republic of China or the Special Administrative Region of Hong Kong, owns or holds, directly or indirectly, not less than 20 percent of the economic interest of the business concern or entity, including as equity shares or a capital or profit interest in a limited liability company or partnership; or
+
+            * (BB) that retains, as a member of the board of directors of the business concern, a person who is a resident of the People's Republic of China;
+
+
+          * (dd) any person required to submit a registration statement under section 612 of title 22; or
+
+          * (ee) an eligible person or entity (as defined under section 9009a of this title) that receives a grant under such section 9009a; and
+
+
+      * (v) the term "Tribal business concern"' means a Tribal business concern described in section 657a(b)(2)(C) of this title.
+
+
+    * (B) LOANS.—Except as otherwise provided in this paragraph, the Administrator may guarantee covered loans to eligible entities under the same terms, conditions, and processes as a loan made under paragraph (36).
+
+    * (C) MAXIMUM LOAN AMOUNT.—
+
+      * (i) IN GENERAL.—Except as otherwise provided in this subparagraph, the maximum amount of a covered loan made to an eligible entity is the lesser of—
+
+        * (I) the product obtained by multiplying—
+
+          * (aa) at the election of the eligible entity, the average total monthly payment for payroll costs incurred or paid by the eligible entity during—
+
+            * (AA) the 1-year period before the date on which the loan is made; or
+
+            * (BB) calendar year 2019; by
+
+
+          * (bb) 2.5; or
+
+
+        * (II) $2,000,000.
+
+
+      * (ii) SEASONAL EMPLOYERS.—The maximum amount of a covered loan made to an eligible entity that is a seasonal employer is the lesser of—
+
+        * (I) the product obtained by multiplying—
+
+          * (aa) at the election of the eligible entity, the average total monthly payments for payroll costs incurred or paid by the eligible entity for any 12-week period between February 15, 2019 and February 15, 2020; by
+
+          * (bb) 2.5; or
+
+
+        * (II) $2,000,000.
+
+
+      * (iii) NEW ENTITIES.—The maximum amount of a covered loan made to an eligible entity that did not exist during the 1-year period preceding February 15, 2020 is the lesser of—
+
+        * (I) the product obtained by multiplying—
+
+          * (aa) the quotient obtained by dividing—
+
+            * (AA) the sum of the total monthly payments by the eligible entity for payroll costs paid or incurred by the eligible entity as of the date on which the eligible entity applies for the covered loan; by
+
+            * (BB) the number of months in which those payroll costs were paid or incurred; by
+
+
+          * (bb) 2.5; or
+
+
+        * (II) $2,000,000.
+
+
+      * (iv) NAICS 72 ENTITIES.—The maximum amount of a covered loan made to an eligible entity that is assigned a North American Industry Classification System code beginning with 72 at the time of disbursal is the lesser of—
+
+        * (I) the product obtained by multiplying—
+
+          * (aa) at the election of the eligible entity, the average total monthly payment for payroll costs incurred or paid by the eligible entity during—
+
+            * (AA) the 1-year period before the date on which the loan is made; or
+
+            * (BB) calendar year 2019; by
+
+
+          * (bb) 3.5; or
+
+
+        * (II) $2,000,000.
+
+    * (D) BUSINESS CONCERNS WITH MORE THAN 1 PHYSICAL LOCATION.—
+
+      * (i) IN GENERAL.—For a business concern with more than 1 physical location, the business concern shall be an eligible entity if the business concern would be eligible for a loan under paragraph (36) pursuant to clause (iii) of subparagraph (D) of such paragraph, as applied in accordance with clause (ii) of this subparagraph, and meets the revenue reduction requirements described in item (bb) of subparagraph (A)(iv)(I).
+
+      * (ii) SIZE LIMIT.—For purposes of applying clause (i), the Administrator shall substitute "not more than 300 employees" for "not more than 500 employees" in paragraph (36)(D)(iii).
+
+    * (E) WAIVER OF AFFILIATION RULES.—
+
+      * (i) IN GENERAL.—The waiver described in paragraph (36)(D)(iv) shall apply for purposes of determining eligibility under this paragraph.
+
+      * (ii) SIZE LIMIT.—For purposes of applying clause (i), the Administrator shall substitute "not more than 300 employees" for "not more than 500 employees" in subclause (I) and (IV) of paragraph (36)(D)(iv).
+
+
+    * (F) LOAN NUMBER LIMITATION.—An eligible entity may only receive 1 covered loan.
+
+    * (G) EXCEPTION FROM CERTAIN CERTIFICATION REQUIREMENTS.—An eligible entity applying for a covered loan shall not be required to make the certification described in clause (iii) or (iv) of paragraph (36)(G).
+
+    * (H) FEE WAIVER.—With respect to a covered loan—
+
+      * (i) in lieu of the fee otherwise applicable under paragraph (23)(A), the Administrator shall collect no fee; and
+
+      * (ii) in lieu of the fee otherwise applicable under paragraph (18)(A), the Administrator shall collect no fee.
+
+
+    * (I) GROSS RECEIPTS AND SIMPLIFIED CERTIFICATION OF REVENUE TEST.—
+
+      * (i) LOANS OF UP TO $150,000.—For a covered loan of not more than $150,000, the eligible entity—
+
+        * (I) may submit a certification attesting that the eligible entity meets the applicable revenue loss requirement under subparagraph (A)(iv)(I)(bb); and
+
+        * (II) if the eligible entity submits a certification under subclause (I), shall, on or before the date on which the eligible entity submits an application for forgiveness under subparagraph (J), produce adequate documentation that the eligible entity met such revenue loss standard.
+
+
+      * (ii) FOR NONPROFIT AND VETERANS ORGANIZATIONS.—For purposes of calculating gross receipts under subparagraph (A)(iv)(I)(bb) for an eligible entity that is a nonprofit organization, a veterans organization, or an organization described in subparagraph (A)(iv)(II), gross receipts means gross receipts within the meaning of section 6033 of title 26.
+
+
+    * (J) LOAN FORGIVENESS.—
+
+      * (i) DEFINITION OF COVERED PERIOD.—In this subparagraph, the term "covered period" has the meaning given that term in section 636m(a) of this title.
+
+      * (ii) FORGIVENESS GENERALLY.—Except as otherwise provided in this subparagraph, an eligible entity shall be eligible for forgiveness of indebtedness on a covered loan in the same manner as an eligible recipient with respect to a loan made under paragraph (36) of this section, as described in section 636m of this title.
+
+      * (iii) FORGIVENESS AMOUNT.—An eligible entity shall be eligible for forgiveness of indebtedness on a covered loan in an amount equal to the sum of the following costs incurred or expenditures made during the covered period:
+
+        * (I) Payroll costs, excluding any payroll costs that are—
+
+          * (aa) qualified wages, as defined in subsection (c)(3) of section 2301 of the CARES Act (26 U.S.C. 3111 note), taken into account in determining the credit allowed under such section; or
+
+          * (bb) qualified wages taken into account in determining the credit allowed under subsection (a) or (d) of section 303 of the Taxpayer Certainty and Disaster Relief Act of 2020.
+
+
+        * (II) Any payment of interest on any covered mortgage obligation (which shall not include any prepayment of or payment of principal on a covered mortgage obligation).
+
+        * (III) Any covered operations expenditure.
+
+        * (IV) Any covered property damage cost.
+
+        * (V) Any payment on any covered rent obligation.
+
+        * (VI) Any covered utility payment.
+
+        * (VII) Any covered supplier cost.
+
+        * (VIII) Any covered worker protection expenditure.
+
+
+      * (iv) LIMITATION ON FORGIVENESS FOR ALL ELIGIBLE ENTITIES.—Subject to any reductions under section 636m(d) of this title, the forgiveness amount under this subparagraph shall be equal to the lesser of—
+
+        * (I) the amount described in clause (ii); and
+
+        * (II) the amount equal to the quotient obtained by dividing—
+
+          * (aa) the amount of the covered loan used for payroll costs during the covered period; and
+
+          * (bb) 0.60.
+
+
+      * (v) SUBMISSION OF MATERIALS FOR FORGIVENESS.—For purposes of applying subsection (l)(1) of section 636m of this title to a covered loan of not more than $150,000 under this paragraph, an eligible entity may be required to provide, at the time of the application for forgiveness, documentation required to substantiate revenue loss in accordance with subparagraph (I).
+
+
+    * (K) LENDER ELIGIBILITY.—Except as otherwise provided in this paragraph, a lender approved to make loans under paragraph (36) may make covered loans under the same terms and conditions as in paragraph (36).
+
+    * (L) REIMBURSEMENT FOR LOAN PROCESSING AND SERVICING.—The Administrator shall reimburse a lender authorized to make a covered loan—
+
+      * (i) for a covered loan of not more than $50,000, in an amount equal to the lesser of—
+
+        * (I) 50 percent of the balance of the financing outstanding at the time of disbursement of the covered loan; or
+
+        * (II) $2,500;
+
+
+      * (ii) at a rate, based on the balance of the financing outstanding at the time of disbursement of the covered loan, of—
+
+        * (I) 5 percent for a covered loan of more than $50,000 and not more than $350,000; and
+
+        * (II) 3 percent for a covered loan of more than $350,000.
+
+
+    * (M) PUBLICATION OF GUIDANCE.—Not later than 10 days after December 27, 2020, the Administrator shall issue guidance addressing barriers to accessing capital for minority, underserved, veteran, and women-owned business concerns for the purpose of ensuring equitable access to covered loans.
+
+    * (N) STANDARD OPERATING PROCEDURE.—The Administrator shall, to the maximum extent practicable, allow a lender approved to make covered loans to use existing program guidance and standard operating procedures for loans made under this subsection.
+
+    * (O) SUPPLEMENTAL COVERED LOANS.—A covered loan under this paragraph may only be made to an eligible entity that—
+
+      * (i) has received a loan under paragraph (36); and
+
+      * (ii) on or before the expected date on which the covered loan under this paragraph is disbursed to the eligible entity, has used, or will use, the full amount of the loan received under paragraph (36).
+
 #### (b) Disaster loans; authorization, scope, terms and conditions, etc.
 * Except as to agricultural enterprises as defined in section 647(b)(1) of this title, the Administration also is empowered to the extent and in such amounts as provided in advance in appropriation Acts—
 
@@ -690,16 +1382,18 @@
 
   * (2) to make such loans (either directly or in cooperation with banks or other lending institutions through agreements to participate on an immediate or deferred (guaranteed) basis) as the Administration may determine to be necessary or appropriate to any small business concern, private nonprofit organization, or small agricultural cooperative located in an area affected by a disaster, (including drought), with respect to both farm-related and nonfarm-related small business concerns, if the Administration determines that the concern, the organization, or the cooperative has suffered a substantial economic injury as a result of such disaster and if such disaster constitutes—
 
-    * (A) a major disaster, as determined by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.); or
+    * (A) a major disaster, as determined by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.);
 
-    * (B) a natural disaster, as determined by the Secretary of Agriculture pursuant to section 1961 of title 7, in which case, assistance under this paragraph may be provided to farm-related and nonfarm-related small business concerns, subject to the other applicable requirements of this paragraph; or
+    * (B) a natural disaster, as determined by the Secretary of Agriculture pursuant to section 1961 of title 7, in which case, assistance under this paragraph may be provided to farm-related and nonfarm-related small business concerns, subject to the other applicable requirements of this paragraph;
 
-    * (C) a disaster, as determined by the Administrator of the Small Business Administration; or
+    * (C) a disaster, as determined by the Administrator of the Small Business Administration;
 
-    * (D) if no disaster declaration has been issued pursuant to subparagraph (A), (B), or (C), the Governor of a State in which a disaster has occurred may certify to the Small Business Administration that small business concerns, private nonprofit organizations, or small agricultural cooperatives (1) have suffered economic injury as a result of such disaster, and (2) are in need of financial assistance which is not available on reasonable terms in the disaster stricken area. Not later than 30 days after the date of receipt of such certification by a Governor of a State, the Administration shall respond in writing to that Governor on its determination and the reasons therefore, and may then make such loans as would have been available under this paragraph if a disaster declaration had been issued.
+    * (D) an emergency involving Federal primary responsibility determined to exist by the President under the section 5191(b) of title 42; or
+
+    * (E) if no disaster or emergency declaration has been issued pursuant to subparagraph (A), (B), (C), or (D), the Governor of a State in which a disaster or emergency has occurred may certify to the Small Business Administration that small business concerns, private nonprofit organizations, or small agricultural cooperatives (1) have suffered economic injury as a result of such disaster or emergency, and (2) are in need of financial assistance which is not available on reasonable terms in the disaster- or emergency-stricken area. Not later than 30 days after the date of receipt of such certification by a Governor of a State, the Administration shall respond in writing to that Governor on its determination and the reasons therefore, and may then make such loans as would have been available under this paragraph if a disaster or emergency declaration had been issued.
 
 
-* _Provided_, That no loan or guarantee shall be extended pursuant to this paragraph (2) unless the Administration finds that the applicant is not able to obtain credit elsewhere.
+* _Provided_, That no loan or guarantee shall be extended pursuant to this paragraph (2) unless the Administration finds that the applicant is not able to obtain credit elsewhere: _Provided further_, That for purposes of subparagraph (D), the Administrator shall deem that such an emergency affects each State or subdivision thereof (including counties), and that each State or subdivision has sufficient economic damage to small business concerns to qualify for assistance under this paragraph and the Administrator shall accept applications for such assistance immediately.
 
   * (3)(A) In this paragraph—
 
@@ -1409,9 +2103,14 @@
 
   * (V) If a small business concern sells or transfers property in violation of the agreement described in subclause (III), the Administrator may initiate proceedings to prohibit the small business concern from receiving a transfer of property under this clause or clause (i), in addition to any other remedy available to the Administrator.
 
-  * (iii)(I) In this clause, the term "covered period" means the period beginning on August 13, 2018, and ending on the date on which the Oversight Board established under section 2121 of title 48 terminates.
+  * (iii)(I) In this clause, the term "covered period" means—
 
-  * (II) The Administrator may transfer technology or surplus property under clause (i) to a Puerto Rico business if the Puerto Rico business meets the requirements for such a transfer, without regard to whether the Puerto Rico business is a Program Participant.
+    * (aa) in the case of a Puerto Rico business, the period beginning on August 13, 2018, and ending on the date on which the Oversight Board established under section 2121 of title 48 terminates; and
+
+    * (bb) in the case of a covered territory business, the period beginning on January 1, 2021, and ending on the date that is 4 years after such date.
+
+
+  * (II) The Administrator may transfer technology or surplus property under clause (i) to a Puerto Rico business or a covered territory business if either such business meets the requirements for such a transfer, without regard to whether either such business is a Program Participant.
 
   * (G) Training assistance whereby the Administration shall conduct training sessions to assist individuals and enterprises eligible to receive contracts under section 637(a) of this title in the development of business principles and strategies to enhance their ability to successfully compete for contracts in the marketplace.
 
@@ -1620,7 +2319,7 @@
     * As a condition of any loan made to an intermediary under subparagraph (B)(i) of paragraph (1), the Administrator shall require the intermediary to contribute not less than 15 percent of the loan amount in cash from non-Federal sources.
 
   * #### (C) Loan limits
-    * Notwithstanding subsection (a)(3), no loan shall be made under this subsection if the total amount outstanding and committed to one intermediary (excluding outstanding grants) from the business loan and investment fund established by this chapter would, as a result of such loan, exceed $750,000 in the first year of such intermediary's participation in the program, and $6,000,000 in the remaining years of the intermediary's participation in the program.
+    * Notwithstanding subsection (a)(3), no loan shall be made under this subsection if the total amount outstanding and committed to one intermediary (excluding outstanding grants) from the business loan and investment fund established by this chapter would, as a result of such loan, exceed $750,000 in the first year of such intermediary's participation in the program, $10,000,000 (in the aggregate) in the remaining years of the intermediary's participation in the program, and $4,500,000 in any of those remaining years.
 
   * #### (D)(i) In general
     * The Administrator shall, by regulation, require each intermediary to establish a loan loss reserve fund, and to maintain such reserve fund until all obligations owed to the Administration under this subsection are repaid.
@@ -1678,14 +2377,22 @@
   * Grants made in accordance with subparagraph (B)(ii) of paragraph (1) shall be subject to the following requirements:
 
   * #### (A) Grant amounts
-    * Except as otherwise provided in subparagraph (C) and subject to subparagraph (B), each intermediary that receives a loan under subparagraph (B)(i) of paragraph (1) shall be eligible to receive a grant to provide marketing, management, and technical assistance to small business concerns that are borrowers under this subsection. Except as provided in subparagraph (C), each intermediary meeting the requirements of subparagraph (B) may receive a grant of not more than 25 percent of the total outstanding balance of loans made to it under this subsection.
+    * Except as otherwise provided in subparagraphs (C) and (G) and subject to subparagraph (B), each intermediary that receives a loan under subparagraph (B)(i) of paragraph (1) shall be eligible to receive a grant to provide marketing, management, and technical assistance to small business concerns that are borrowers under this subsection. Except as provided in subparagraphs (C) and (G), each intermediary meeting the requirements of subparagraph (B) may receive a grant of not more than 25 percent of the total outstanding balance of loans made to it under this subsection.
 
   * #### (B) Contribution
     * As a condition of a grant made under subparagraph (A), the Administrator shall require the intermediary to contribute an amount equal to 25 percent of the amount of the grant, obtained solely from non-Federal sources. In addition to cash or other direct funding, the contribution may include indirect costs or in-kind contributions paid for under non-Federal programs.
 
   * #### (C) Additional technical assistance grants for making certain loans
     * #### (i) In general
-      * Each intermediary that has a portfolio of loans made under this subsection that averages not more than $10,000 during the period of the intermediary's participation in the program shall be eligible to receive a grant equal to 5 percent of the total outstanding balance of loans made to the intermediary under this subsection, in addition to grants made under subparagraph (A).
+      * In addition to grants made under subparagraph (A) or (G), each intermediary shall be eligible to receive a grant equal to 5 percent of the total outstanding balance of loans made to the intermediary under this subsection if—
+
+        * (I) the intermediary provides not less than 25 percent of its loans to small business concerns located in or owned by 1 or more residents of an economically distressed area; or
+
+        * (II) the intermediary has a portfolio of loans made under this subsection—
+
+          * (aa) that averages not more than $10,000 during the period of the intermediary's participation in the program; or
+
+          * (bb) of which not less than 25 percent is serving rural areas during the period of the intermediary's participation in the program.
 
     * #### (ii) Purposes
       * A grant awarded under clause (i) may be used to provide marketing, management, and technical assistance to small business concerns that are borrowers under this subsection.
@@ -1727,6 +2434,9 @@
         * (I) specify the terms and conditions of the grants under this subparagraph; and
 
         * (II) provide for appropriate monitoring of expenditures by each grantee under this subparagraph and each recipient of assistance described in clause (i) who receives assistance from a grantee under this subparagraph, in order to ensure compliance with this subparagraph by those grantees and recipients of assistance.
+
+  * #### (G) Grant amounts based on appropriations
+    * In any fiscal year in which the amount appropriated to make grants under subparagraph (A) is sufficient to provide to each intermediary that receives a loan under paragraph (1)(B)(i) a grant of not less than 25 percent of the total outstanding balance of loans made to the intermediary under this subsection, the Administration shall make a grant under subparagraph (A) to each intermediary of not less than 25 percent and not more than 30 percent of that total outstanding balance for the intermediary.
 
 * #### (5) Private sector borrowing technical assistance grants
   * Grants made in accordance with subparagraph (B)(iii) of paragraph (1) shall be subject to the following requirements:
@@ -1837,6 +2547,8 @@
       * (i) in a nonmetropolitan county (as defined by the Secretary of Agriculture) or its equivalent thereof; or
 
       * (ii) in a metropolitan county or its equivalent that has a resident population of less than 20,000 if the Small Business Administration has determined such political subdivision or area to be rural.
+
+    * (D) the term "economically distressed area", as used in paragraph (4), means a county or equivalent division of local government of a State in which the small business concern is located, in which, according to the most recent data available from the Bureau of the Census, Department of Commerce, not less than 40 percent of residents have an annual income that is at or below the poverty level.
 
 * #### (12) Deferred participation loan pilot
   * In lieu of making direct loans to intermediaries as authorized in paragraph (1)(B), during fiscal years 1998 through 2000, the Administration may, on a pilot program basis, participate on a deferred basis of not less than 90 percent and not more than 100 percent on loans made to intermediaries by a for-profit or nonprofit entity or by alliances of such entities, subject to the following conditions:

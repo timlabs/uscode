@@ -42,7 +42,7 @@
 
 * (3) The Secretary of Defense shall ensure that—
 
-  * (A) not later than September 1, 2021, not less than five full-time visiting professors employed under paragraph (1) are from civilian colleges or universities described under paragraph (2); ; and
+  * (A) not later than September 1, 2021, not less than five full-time visiting professors employed under paragraph (1) are from civilian colleges or universities described under paragraph (2); and
 
   * (B) not later than September 1, 2022, not less than ten full-time visiting professors employed under paragraph (1) are from such civilian colleges or universities.
 

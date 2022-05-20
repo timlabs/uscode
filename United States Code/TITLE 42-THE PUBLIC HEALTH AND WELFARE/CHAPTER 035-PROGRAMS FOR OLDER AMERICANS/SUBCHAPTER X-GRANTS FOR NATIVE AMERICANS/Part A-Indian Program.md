@@ -1,7 +1,7 @@
 ### PART A—INDIAN PROGRAM
 
 ### §3057b. Findings
-* (a) The Congress finds that the older individuals who are Indians of the United States—
+* The Congress finds that the older individuals who are Indians of the United States—
 
   * (1) are a rapidly increasing population;
 
@@ -76,7 +76,7 @@
 
 * (3) The Assistant Secretary shall approve any application that complies with the provisions of subsection (a), except that in determining whether an application complies with the requirements of subsection (a)(8), the Assistant Secretary shall provide maximum flexibility to an applicant that seeks to take into account subsistence needs, local customs, and other characteristics that are appropriate to the unique cultural, regional, and geographic needs of the Indian populations to be served.
 
-* (4) In determining whether an application complies with the requirements of subsection (a)(12), the Assistant Secretary shall require only that an applicant provide an appropriate narrative description of the geographic area to be served and an assurance that procedures will be adopted to ensure against duplicate services being provided to the same recipients.
+* (4) In determining whether an application complies with the requirements of subsection (a)(11), the Assistant Secretary shall require only that an applicant provide an appropriate narrative description of the geographic area to be served and an assurance that procedures will be adopted to ensure against duplicate services being provided to the same recipients.
 
 #### (d) Disapproval by Assistant Secretary
 * Whenever the Assistant Secretary determines not to approve an application submitted under subsection (a) the Assistant Secretary shall—

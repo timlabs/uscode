@@ -746,7 +746,7 @@
 
 #### (c) Amount of grant
 * #### (1) In general
-  * With respect to each of subparagraphs (A), (B), and (C) of subsection (b)(2) that refers to 1 or more grant purposes for which an application of a highest State court is approved under this section, the court shall be entitled to payment, for each of fiscal years 2017 through 2021, from the amount allocated under paragraph (3) of this subsection for grants for the purpose or purposes, of an amount equal to $85,000 plus the amount described in paragraph (2) of this subsection with respect to the purpose or purposes.
+  * With respect to each of subparagraphs (A), (B), and (C) of subsection (b)(2) that refers to 1 or more grant purposes for which an application of a highest State court is approved under this section, the court shall be entitled to payment, for each of fiscal years 2017 through 2022, from the amount allocated under paragraph (3) of this subsection for grants for the purpose or purposes, of an amount equal to $85,000 plus the amount described in paragraph (2) of this subsection with respect to the purpose or purposes.
 
 * #### (2) Amount described
   * The amount described in this paragraph for any fiscal year with respect to the purpose or purposes referred to in a subparagraph of subsection (b)(2) is the amount that bears the same ratio to the total of the amounts allocated under paragraph (3) of this subsection for grants for the purpose or purposes as the number of individuals in the State who have not attained 21 years of age bears to the total number of such individuals in all States the highest State courts of which have approved applications under this section for grants for the purpose or purposes.

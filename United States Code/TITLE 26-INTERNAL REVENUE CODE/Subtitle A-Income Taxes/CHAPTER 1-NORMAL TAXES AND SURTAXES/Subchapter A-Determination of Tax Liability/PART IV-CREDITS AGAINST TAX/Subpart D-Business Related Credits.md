@@ -394,7 +394,7 @@
 
   * #### (J) Application of paragraph
     * #### (i) In general
-      * This paragraph shall apply with respect to qualified second generation biofuel production after December 31, 2008, and before January 1, 2021.
+      * This paragraph shall apply with respect to qualified second generation biofuel production after December 31, 2008, and before January 1, 2022.
 
     * #### (ii) No carryover to certain years after expiration
       * If this paragraph ceases to apply for any period by reason of clause (i), rules similar to the rules of subsection (e)(2) shall apply.
@@ -1521,7 +1521,10 @@
 
 * the applicable percentage shall not be less than 9 percent.
 
-* #### (3) Cross references
+* #### (3) Minimum credit rate
+  * In the case of any new or existing building to which paragraph (2) does not apply and which is placed in service by the taxpayer after December 31, 2020, the applicable percentage shall not be less than 4 percent.
+
+* #### (4) Cross references
     * **(A) For treatment of certain rehabilitation expenditures as separate new buildings, see subsection (e).**
 
     * **(B) For determination of applicable percentage for increases in qualified basis after the 1st year of the credit period, see subsection (f)(3).**
@@ -3002,7 +3005,7 @@
 
     * (C) in the case of any facility the construction of which begins after December 31, 2018, and before January 1, 2020, 60 percent, and
 
-    * (D) in the case of any facility the construction of which begins after December 31, 2019, and before January 1, 2021, 40 percent.
+    * (D) in the case of any facility the construction of which begins after December 31, 2019, and before January 1, 2022, 40 percent.
 
 #### (c) Resources
 * For purposes of this section:
@@ -3154,18 +3157,18 @@
 * For purposes of this section:
 
 * #### (1) Wind facility
-  * In the case of a facility using wind to produce electricity, the term "qualified facility" means any facility owned by the taxpayer which is originally placed in service after December 31, 1993, and the construction of which begins before January 1, 2021. Such term shall not include any facility with respect to which any qualified small wind energy property expenditure (as defined in subsection (d)(4) of section 25D) is taken into account in determining the credit under such section.
+  * In the case of a facility using wind to produce electricity, the term "qualified facility" means any facility owned by the taxpayer which is originally placed in service after December 31, 1993, and the construction of which begins before January 1, 2022. Such term shall not include any facility with respect to which any qualified small wind energy property expenditure (as defined in subsection (d)(4) of section 25D) is taken into account in determining the credit under such section.
 
 * #### (2) Closed-loop biomass facility
   * #### (A) In general
     * In the case of a facility using closed-loop biomass to produce electricity, the term "qualified facility" means any facility—
 
-      * (i) owned by the taxpayer which is originally placed in service after December 31, 1992, and the construction of which begins before January 1, 2021, or
+      * (i) owned by the taxpayer which is originally placed in service after December 31, 1992, and the construction of which begins before January 1, 2022, or
 
-      * (ii) owned by the taxpayer which before January 1, 2021, is originally placed in service and modified to use closed-loop biomass to co-fire with coal, with other biomass, or with both, but only if the modification is approved under the Biomass Power for Rural Development Programs or is part of a pilot project of the Commodity Credit Corporation as described in 65 Fed. Reg. 63052.
+      * (ii) owned by the taxpayer which before January 1, 2022, is originally placed in service and modified to use closed-loop biomass to co-fire with coal, with other biomass, or with both, but only if the modification is approved under the Biomass Power for Rural Development Programs or is part of a pilot project of the Commodity Credit Corporation as described in 65 Fed. Reg. 63052.
 
 
-  * For purposes of clause (ii), a facility shall be treated as modified before January 1, 2021, if the construction of such modification begins before such date.
+  * For purposes of clause (ii), a facility shall be treated as modified before January 1, 2022, if the construction of such modification begins before such date.
 
   * #### (B) Expansion of facility
     * Such term shall include a new unit placed in service after the date of the enactment of this subparagraph in connection with a facility described in subparagraph (A)(i), but only to the extent of the increased amount of electricity produced at the facility by reason of such new unit.
@@ -3183,12 +3186,12 @@
 
       * (i) in the case of a facility using agricultural livestock waste nutrients—
 
-        * (I) is originally placed in service after the date of the enactment of this subclause and the construction of which begins before January 1, 2021, and
+        * (I) is originally placed in service after the date of the enactment of this subclause and the construction of which begins before January 1, 2022, and
 
         * (II) the nameplate capacity rating of which is not less than 150 kilowatts, and
 
 
-      * (ii) in the case of any other facility, the construction of which begins before January 1, 2021.
+      * (ii) in the case of any other facility, the construction of which begins before January 1, 2022.
 
   * #### (B) Expansion of facility
     * Such term shall include a new unit placed in service after the date of the enactment of this subparagraph in connection with a facility described in subparagraph (A), but only to the extent of the increased amount of electricity produced at the facility by reason of such new unit.
@@ -3201,7 +3204,7 @@
 
     * (A) in the case of a facility using solar energy, is placed in service before January 1, 2006, or
 
-    * (B) in the case of a facility using geothermal energy, the construction of which begins before January 1, 2021.
+    * (B) in the case of a facility using geothermal energy, the construction of which begins before January 1, 2022.
 
 
 * Such term shall not include any property described in section 48(a)(3) the basis of which is taken into account by the taxpayer for purposes of determining the energy credit under section 48.
@@ -3210,10 +3213,10 @@
   * In the case of a facility using small irrigation power to produce electricity, the term "qualified facility" means any facility owned by the taxpayer which is originally placed in service after the date of the enactment of this paragraph and before October 3, 2008.
 
 * #### (6) Landfill gas facilities
-  * In the case of a facility producing electricity from gas derived from the biodegradation of municipal solid waste, the term "qualified facility" means any facility owned by the taxpayer which is originally placed in service after the date of the enactment of this paragraph and the construction of which begins before January 1, 2021.
+  * In the case of a facility producing electricity from gas derived from the biodegradation of municipal solid waste, the term "qualified facility" means any facility owned by the taxpayer which is originally placed in service after the date of the enactment of this paragraph and the construction of which begins before January 1, 2022.
 
 * #### (7) Trash facilities
-  * In the case of a facility (other than a facility described in paragraph (6)) which uses municipal solid waste to produce electricity, the term "qualified facility" means any facility owned by the taxpayer which is originally placed in service after the date of the enactment of this paragraph and the construction of which begins before January 1, 2021. Such term shall include a new unit placed in service in connection with a facility placed in service on or before the date of the enactment of this paragraph, but only to the extent of the increased amount of electricity produced at the facility by reason of such new unit.
+  * In the case of a facility (other than a facility described in paragraph (6)) which uses municipal solid waste to produce electricity, the term "qualified facility" means any facility owned by the taxpayer which is originally placed in service after the date of the enactment of this paragraph and the construction of which begins before January 1, 2022. Such term shall include a new unit placed in service in connection with a facility placed in service on or before the date of the enactment of this paragraph, but only to the extent of the increased amount of electricity produced at the facility by reason of such new unit.
 
 * #### (8) Refined coal production facility
   * In the case of a facility that produces refined coal, the term "refined coal production facility" means—
@@ -3226,15 +3229,15 @@
   * #### (A) In general
     * In the case of a facility producing qualified hydroelectric production described in subsection (c)(8), the term "qualified facility" means—
 
-      * (i) in the case of any facility producing incremental hydropower production, such facility but only to the extent of its incremental hydropower production attributable to efficiency improvements or additions to capacity described in subsection (c)(8)(B) placed in service after the date of the enactment of this paragraph and before January 1, 2021, and
+      * (i) in the case of any facility producing incremental hydropower production, such facility but only to the extent of its incremental hydropower production attributable to efficiency improvements or additions to capacity described in subsection (c)(8)(B) placed in service after the date of the enactment of this paragraph and before January 1, 2022, and
 
-      * (ii) any other facility placed in service after the date of the enactment of this paragraph and the construction of which begins before January 1, 2021.
+      * (ii) any other facility placed in service after the date of the enactment of this paragraph and the construction of which begins before January 1, 2022.
 
   * #### (B) Credit period
     * In the case of a qualified facility described in subparagraph (A), the 10-year period referred to in subsection (a) shall be treated as beginning on the date the efficiency improvements or additions to capacity are placed in service.
 
   * #### (C) Special rule
-    * For purposes of subparagraph (A)(i), an efficiency improvement or addition to capacity shall be treated as placed in service before January 1, 2021, if the construction of such improvement or addition begins before such date.
+    * For purposes of subparagraph (A)(i), an efficiency improvement or addition to capacity shall be treated as placed in service before January 1, 2022, if the construction of such improvement or addition begins before such date.
 
 * #### (10) Indian coal production facility
   * The term "Indian coal production facility" means a facility that produces Indian coal.
@@ -3244,7 +3247,7 @@
 
     * (A) which has a nameplate capacity rating of at least 150 kilowatts, and
 
-    * (B) which is originally placed in service on or after the date of the enactment of this paragraph and the construction of which begins before January 1, 2021.
+    * (B) which is originally placed in service on or after the date of the enactment of this paragraph and the construction of which begins before January 1, 2022.
 
 #### (e) Definitions and special rules
 * For purposes of this section—
@@ -3366,13 +3369,13 @@
   * #### (A) Determination of credit amount
     * In the case of a producer of Indian coal, the credit determined under this section (without regard to this paragraph) for any taxable year shall be increased by an amount equal to the applicable dollar amount per ton of Indian coal—
 
-      * (i) produced by the taxpayer at an Indian coal production facility during the 15-year period beginning on January 1, 2006, and
+      * (i) produced by the taxpayer at an Indian coal production facility during the 16-year period beginning on January 1, 2006, and
 
       * (ii) sold by the taxpayer—
 
         * (I) to an unrelated person (either directly by the taxpayer or after sale or transfer to one or more related persons), and
 
-        * (II) during such 15-year period and such taxable year.
+        * (II) during such 16-year period and such taxable year.
 
   * #### (B) Applicable dollar amount
     * #### (i) In general
@@ -3541,7 +3544,7 @@
   * For any taxable year having less than 12 months, the amount determined under subsection (a)(2) shall be multiplied by a fraction, the numerator of which is the number of days in the taxable year and the denominator of which is 365.
 
 #### (f) Termination
-* This section shall not apply to taxable years beginning after December 31, 2020.
+* This section shall not apply to taxable years beginning after December 31, 2021.
 
 ### §45B. Credit for portion of employer social security taxes paid with respect to employee cash tips
 #### (a) General rule
@@ -3802,7 +3805,7 @@
 
     * (G) $3,500,000,000 for each of calendar years 2010 through 2019, and
 
-    * (H) $5,000,000,000 for 2020.
+    * (H) $5,000,000,000 for for each of calendar years 2020 through 2025.
 
 * #### (2) Allocation of limitation
   * The limitation under paragraph (1) shall be allocated by the Secretary among qualified community development entities selected by the Secretary. In making allocations under the preceding sentence, the Secretary shall give priority to any entity—
@@ -3812,7 +3815,7 @@
     * (B) which intends to satisfy the requirement under subsection (b)(1)(B) by making qualified low-income community investments in 1 or more businesses in which persons unrelated to such entity (within the meaning of section 267(b) or 707(b)(1)) hold the majority equity interest.
 
 * #### (3) Carryover of unused limitation
-  * If the new markets tax credit limitation for any calendar year exceeds the aggregate amount allocated under paragraph (2) for such year, such limitation for the succeeding calendar year shall be increased by the amount of such excess. No amount may be carried under the preceding sentence to any calendar year after 2025.
+  * If the new markets tax credit limitation for any calendar year exceeds the aggregate amount allocated under paragraph (2) for such year, such limitation for the succeeding calendar year shall be increased by the amount of such excess. No amount may be carried under the preceding sentence to any calendar year after 2030.
 
 #### (g) Recapture of credit in certain cases
 * #### (1) In general
@@ -4067,7 +4070,7 @@
 
 ### §45G. Railroad track maintenance credit
 #### (a) General rule
-* For purposes of section 38, the railroad track maintenance credit determined under this section for the taxable year is an amount equal to 50 percent of the qualified railroad track maintenance expenditures paid or incurred by an eligible taxpayer during the taxable year.
+* For purposes of section 38, the railroad track maintenance credit determined under this section for the taxable year is an amount equal to 40 percent (50 percent in the case of any taxable year beginning before January 1, 2023) of the qualified railroad track maintenance expenditures paid or incurred by an eligible taxpayer during the taxable year.
 
 #### (b) Limitation
 * #### (1) In general
@@ -4109,9 +4112,6 @@
 
 * #### (3) Basis adjustment
   * For purposes of this subtitle, if a credit is allowed under this section with respect to any railroad track, the basis of such track shall be reduced by the amount of the credit so allowed.
-
-#### (f) Application of section
-* This section shall apply to qualified railroad track maintenance expenditures paid or incurred during taxable years beginning after December 31, 2004, and before January 1, 2023.
 
 ### §45H. Credit for production of low sulfur diesel fuel
 #### (a) In general
@@ -4679,7 +4679,7 @@
 * For purposes of this section, expenditures taken into account under section 47 or 48(a) shall not be taken into account under this section.
 
 #### (g) Termination
-* This section shall not apply to any qualified new energy efficient home acquired after December 31, 2020.
+* This section shall not apply to any qualified new energy efficient home acquired after December 31, 2021.
 
 ### §45N. Mine rescue team training credit
 #### (a) Amount of credit
@@ -4703,7 +4703,7 @@
 * For purposes of this section, the term "wages" has the meaning given to such term by subsection (b) of section 3306 (determined without regard to any dollar limitation contained in such section).
 
 #### (e) Termination
-* This section shall not apply to taxable years beginning after December 31, 2020.
+* This section shall not apply to taxable years beginning after December 31, 2021.
 
 ### §45O. Agricultural chemicals security credit
 #### (a) In general
@@ -4917,7 +4917,7 @@
 #### (d) Qualified facility
 * For purposes of this section, the term "qualified facility" means any industrial facility or direct air capture facility—
 
-  * (1) the construction of which begins before January 1, 2024, and—
+  * (1) the construction of which begins before January 1, 2026, and—
 
     * (A) construction of carbon capture equipment begins before such date, or
 
@@ -5294,7 +5294,7 @@
   * Rules similar to the rules of paragraphs (2) and (3) of section 51(j) shall apply for purposes of this subsection.
 
 #### (i) Termination
-* This section shall not apply to wages paid in taxable years beginning after December 31, 2020.
+* This section shall not apply to wages paid in taxable years beginning after December 31, 2025.
 
 ### §45T. Auto-enrollment option for retirement savings options provided by small employers
 #### (a) In general

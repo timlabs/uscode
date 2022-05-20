@@ -32,10 +32,10 @@
 
   * (i) shall provide to military recruiters the same access to secondary school students as is provided generally to postsecondary educational institutions or to prospective employers of those students; and
 
-  * (ii) shall, upon a request made by military recruiters for military recruiting purposes, provide access to secondary school student names, addresses, and telephone listings, notwithstanding section 444(a)(5)(B) of the General Education Provisions Act (20 U.S.C. 1232g(a)(5)(B)).
+  * (ii) shall, upon a request made by military recruiters for military recruiting purposes, provide access to secondary school student names, addresses, electronic mail addresses (which shall be the electronic mail addresses provided by the school, if available), and telephone listings, notwithstanding subsection (a)(5) of section 444 of the General Education Provisions Act (20 U.S.C. 1232g).
 
 
-* (B) A local educational agency may not release a student's name, address, and telephone listing under subparagraph (A)(ii) without the prior written consent of a parent of the student if the student, or a parent of the student, has submitted a request to the local educational agency that the student's information not be released for a purpose covered by that subparagraph without prior written parental consent. Each local educational agency shall notify parents of the rights provided under the preceding sentence.
+* (B) A local educational agency may not release a student's name, address, electronic mail address, and telephone listing under subparagraph (A)(ii) without the prior written consent of a parent of the student if the student, or a parent of the student, has submitted a request to the local educational agency that the student's information not be released for a purpose covered by that subparagraph without prior written parental consent. Each local educational agency shall notify parents of the rights provided under the preceding sentence.
 
 * (2) If a local educational agency denies a request by the Department of Defense for recruiting access, the Secretary of Defense, in cooperation with the Secretary of the military department concerned, shall designate an officer in a grade not below the grade of colonel or, in the case of the Navy, captain, or a senior executive of that military department to meet with representatives of that local educational agency in person, at the offices of that agency, for the purpose of arranging for recruiting access. The designated officer or senior executive shall seek to have that meeting within 120 days of the date of the denial of the request for recruiting access.
 
@@ -80,9 +80,6 @@
 
   * (F) The term "member of the House of Representatives" includes a Delegate or Resident Commissioner to Congress.
 
-
-* (d) DIRECTORY INFORMATION DEFINED.—In this section, the term "directory information" has the meaning given that term in subsection (a)(5)(A) of section 444 of the General Education Provisions Act (20 U.S.C. 1232g).
-
 ### §504. Persons not qualified
 * (a) INSANITY, DESERTION, FELONS, ETC.—No person who is insane, intoxicated, or a deserter from an armed force, or who has been convicted of a felony, may be enlisted in any armed force. However, the Secretary concerned may authorize exceptions, in meritorious cases, for the enlistment of deserters and persons convicted of felonies.
 
@@ -117,13 +114,13 @@
   * (ii) a period of 30 days has elapsed after the date on which Congress receives the notice.
 
 ### §505. Regular components: qualifications, term, grade
-* (a) The Secretary concerned may accept original enlistments in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, or Regular Coast Guard, as the case may be, of qualified, effective, and able-bodied persons who are not less than seventeen years of age nor more than forty-two years of age. However, no person under eighteen years of age may be originally enlisted without the written consent of his parent or guardian, if he has a parent or guardian entitled to his custody and control.
+* (a) The Secretary concerned may accept original enlistments in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, Regular Space Force, or Regular Coast Guard, as the case may be, of qualified, effective, and able-bodied persons who are not less than seventeen years of age nor more than forty-two years of age. However, no person under eighteen years of age may be originally enlisted without the written consent of his parent or guardian, if he has a parent or guardian entitled to his custody and control.
 
-* (b) A person is enlisted in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, or Regular Coast Guard in the grade or rating prescribed by the Secretary concerned.
+* (b) A person is enlisted in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, Regular Space Force, or Regular Coast Guard in the grade or rating prescribed by the Secretary concerned.
 
-* (c) The Secretary concerned may accept original enlistments of persons for the duration of their minority or for a period of at least two but not more than eight years, in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, or Regular Coast Guard, as the case may be.
+* (c) The Secretary concerned may accept original enlistments of persons for the duration of their minority or for a period of at least two but not more than eight years, in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, Regular Space Force, or Regular Coast Guard, as the case may be.
 
-* (d)(1) The Secretary concerned may accept a reenlistment in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, or Regular Coast Guard, as the case may be, for a period determined under this subsection.
+* (d)(1) The Secretary concerned may accept a reenlistment in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, Regular Space Force, or Regular Coast Guard, as the case may be, for a period determined under this subsection.
 
 * (2) In the case of a member who has less than 10 years of service in the armed forces as of the day before the first day of the period for which reenlisted, the period for which the member reenlists shall be at least two years but not more than eight years.
 
@@ -137,7 +134,7 @@
 * (4) No enlisted member is entitled to be reenlisted for a period that would expire before the end of the member's current enlistment.
 
 ### §506. Regular components: extension of enlistments during war
-* An enlistment in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, or Regular Coast Guard in effect at the beginning of a war, or entered into during a war, unless sooner terminated by the President, continues in effect until six months after the termination of that war.
+* An enlistment in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, Regular Space Force, or Regular Coast Guard in effect at the beginning of a war, or entered into during a war, unless sooner terminated by the President, continues in effect until six months after the termination of that war.
 
 ### §507. Extension of enlistment for members needing medical care or hospitalization
 * (a) An enlisted member of an armed force on active duty whose term of enlistment expires while he is suffering from disease or injury incident to service and not due to his misconduct, and who needs medical care or hospitalization, may be retained on active duty, with his consent, until he recovers to the extent that he is able to meet the physical requirements for reenlistment, or it is determined that recovery to that extent is impossible.
@@ -147,9 +144,9 @@
 ### §508. Reenlistment: qualifications
 * (a) No person whose service during his last term of enlistment was not honest and faithful may be reenlisted in an armed force. However, the Secretary concerned may authorize the reenlistment in the armed force under his jurisdiction of such a person if his conduct after that service has been good.
 
-* (b) A person discharged from a Regular component may be reenlisted in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, or Regular Coast Guard, as the case may be, under such regulations as the Secretary concerned may prescribe.
+* (b) A person discharged from a Regular component may be reenlisted in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, Regular Space Force, or Regular Coast Guard, as the case may be, under such regulations as the Secretary concerned may prescribe.
 
-* (c) This section does not deprive a person of any right to be reenlisted in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, or Regular Coast Guard under any other provision of law.
+* (c) This section does not deprive a person of any right to be reenlisted in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, Regular Space Force, or Regular Coast Guard under any other provision of law.
 
 ### §509. Voluntary extension of enlistments: periods and benefits
 * (a) Under such regulations as the Secretary concerned may prescribe, the term of enlistment of a member of an armed force may be extended or reextended with his written consent for any period. However, the total of all such extensions of an enlistment may not exceed four years.
@@ -300,15 +297,15 @@
 
 * (b) If a person covered by subsection (a) is separated from service as a cadet or midshipman, or from service as a midshipman in the Navy Reserve, for any reason other than his appointment as a commissioned officer of a regular or reserve component of an armed force or because of a physical disability, he resumes his enlisted status and shall complete the period of service for which he was enlisted or for which he has an obligation, unless he is sooner discharged. In computing the unexpired part of an enlistment or period of obligated service for the purposes of this subsection, all service as a cadet or midshipman is counted as service under that enlistment or period of obligated service.
 
-### §517. Authorized daily average: members in pay grades E–8 and E–9
-* (a) The authorized daily average number of enlisted members on active duty (other than for training) in an armed force in pay grades E–8 and E–9 in a fiscal year may not be more than 2.5 percent and 1.25 percent, respectively, of the number of enlisted members of that armed force who are on active duty (other than for training) on the first day of that fiscal year. In computing the limitations prescribed in the preceding sentence, there shall be excluded enlisted members of an armed force on active duty as authorized under section 115(a)(1)(B) or 115(b) of this title, or excluded from counting for active duty end strengths under section 115(i) of this title.
+### §517. Authorized enlisted end strength: members in pay grades E–8 and E–9
+* (a) The authorized end strength for enlisted members on active duty (other than for training) in an armed force in pay grades E–8 and E–9 as of the last day of a fiscal year may not be more than 3.0 percent and 1.25 percent, respectively, of the number of enlisted members of that armed force who are on active duty (other than for training). In computing the limitations prescribed in the preceding sentence, there shall be excluded enlisted members of an armed force on active duty as authorized under section 115(a)(1)(B) or 115(b) of this title, or excluded from counting for active duty end strengths under section 115(i) of this title.
 
-* (b) Whenever the number of members serving in pay grade E–9 is less than the number authorized for that grade under subsection (a), the difference between the two numbers may be applied to increase the number authorized under such subsection for pay grade E–8.
+* [(b) Repealed. Pub. L. 116–283, div. A, title IV, §403(a)(3), Jan. 1, 2021, 134 Stat. 3556.]
 
 * (c) Whenever under section 527 of this title the President may suspend the operation of any provision of section 523, 525, or 526 of this title, the Secretary of Defense may suspend the operation of any provision of this section. Any such suspension shall, if not sooner ended, end in the manner specified in section 527 for a suspension under that section.
 
 ### §518. Temporary enlistments
-* Temporary enlistments may be made only in the Army, Navy, Air Force, Marine Corps, or Coast Guard, as the case may be, without specification of component.
+* Temporary enlistments may be made only in the Army, Navy, Air Force, Marine Corps, Space Force, or Coast Guard, as the case may be, without specification of component.
 
 ### §519. Temporary enlistments: during war or emergency
 * Except as provided in section 505 of this title and except for enlistments as Reserves of an armed force—

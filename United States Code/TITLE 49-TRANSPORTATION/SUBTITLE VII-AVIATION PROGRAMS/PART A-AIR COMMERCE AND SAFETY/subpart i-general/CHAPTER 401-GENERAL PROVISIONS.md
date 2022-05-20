@@ -381,7 +381,34 @@
 ### §40104. Promotion of civil aeronautics and safety of air commerce
 * (a) DEVELOPING CIVIL AERONAUTICS AND SAFETY OF AIR COMMERCE.—The Administrator of the Federal Aviation Administration shall encourage the development of civil aeronautics and safety of air commerce in and outside the United States. In carrying out this subsection, the Administrator shall take action that the Administrator considers necessary to establish, within available resources, a program to distribute civil aviation information in each region served by the Administration. The program shall provide, on request, informational material and expertise on civil aviation to State and local school administrators, college and university officials, and officers of other interested organizations.
 
-* (b) INTERNATIONAL ROLE OF THE FAA.—The Administrator shall promote and achieve global improvements in the safety, efficiency, and environmental effect of air travel by exercising leadership with the Administrator's foreign counterparts, in the International Civil Aviation Organization and its subsidiary organizations, and other international organizations and fora, and with the private sector.
+* (b) INTERNATIONAL ROLE OF THE FAA.—
+
+  * (1) IN GENERAL.—The Administrator shall promote and achieve global improvements in the safety, efficiency, and environmental effect of air travel by exercising leadership with the Administrator's foreign counterparts, in the International Civil Aviation Organization and its subsidiary organizations, and other international organizations and fora, and with the private sector.
+
+  * (2) BILATERAL AND MULTILATERAL ENGAGEMENT; TECHNICAL ASSISTANCE.—The Administrator shall—
+
+    * (A) in consultation with the Secretary of State, engage bilaterally and multilaterally, including with the International Civil Aviation Organization, on an ongoing basis to bolster international collaboration, data sharing, and harmonization of international aviation safety requirements including through—
+
+      * (i) sharing of continued operational safety information;
+
+      * (ii) prioritization of pilot training deficiencies, including manual flying skills and flight crew training, to discourage over reliance on automation, further bolstering the components of airmanship;
+
+      * (iii) encouraging the consideration of the safety advantages of appropriate Federal regulations, which may include relevant Federal regulations pertaining to flight crew training requirements; and
+
+      * (iv) prioritizing any other flight crew training areas that the Administrator believes will enhance all international aviation safety; and
+
+
+    * (B) seek to expand technical assistance provided by the Federal Aviation Administration in support of enhancing international aviation safety, including by—
+
+      * (i) promoting and enhancing effective oversight systems, including operational safety enhancements identified through data collection and analysis;
+
+      * (ii) promoting and encouraging compliance with international safety standards by counterpart civil aviation authorities;
+
+      * (iii) minimizing cybersecurity threats and vulnerabilities across the aviation ecosystem;
+
+      * (iv) supporting the sharing of safety information, best practices, risk assessments, and mitigations through established international aviation safety groups; and
+
+      * (v) providing technical assistance on any other aspect of aviation safety that the Administrator determines is likely to enhance international aviation safety.
 
 * (c) AIRPORT CAPACITY ENHANCEMENT PROJECTS AT CONGESTED AIRPORTS.—In carrying out subsection (a), the Administrator shall take action to encourage the construction of airport capacity enhancement projects at congested airports as those terms are defined in section 47175.
 
@@ -753,7 +780,7 @@
 
 * (e) ASSISTANCE TO FOREIGN AVIATION AUTHORITIES.—
 
-  * (1) SAFETY-RELATED TRAINING AND OPERATIONAL SERVICES.—The Administrator may provide safety-related training and operational services to foreign aviation authorities (whether public or private) with or without reimbursement, if the Administrator determines that providing such services promotes aviation safety or efficiency. The Administrator is authorized to participate in, and submit offers in response to, competitions to provide these services, and to contract with foreign aviation authorities to provide these services consistent with section 106(l)(6). To the extent practicable, air travel reimbursed under this subsection shall be conducted on United States air carriers.
+  * (1) SAFETY-RELATED TRAINING AND OPERATIONAL SERVICES.—The Administrator may provide safety-related training and operational services to foreign aviation authorities (whether public or private) with or without reimbursement, if the Administrator determines that providing such services promotes aviation safety or efficiency. The Administrator may also provide technical assistance related to all aviation safety-related training and operational services in connection with bilateral and multilateral agreements, including further bolstering the components of airmanship. The Administrator is authorized to participate in, and submit offers in response to, competitions to provide these services, and to contract with foreign aviation authorities to provide these services consistent with section 106(l)(6). To the extent practicable, air travel reimbursed under this subsection shall be conducted on United States air carriers.
 
   * (2) REIMBURSEMENT SOUGHT.—The Administrator shall actively seek reimbursement for services provided under this subsection from foreign aviation authorities capable of providing such reimbursement. The Administrator is authorized, notwithstanding any other provision of law or policy, to accept payments for services provided under this subsection in arrears.
 
@@ -767,6 +794,8 @@
 
 
   * (4) REPORTING.—Not later than December 31, 1995, and annually thereafter, the Administrator shall transmit to Congress a list of the foreign aviation authorities to which the Administrator provided services under this subsection in the preceding fiscal year. Such list shall specify the dollar value of such services and any reimbursement received for such services.
+
+  * (5) AUTHORIZATION OF APPROPRIATIONS.—There is authorized to be appropriated to the Administrator, $5,000,000 for each of fiscal years 2021 through 2023, to carry out this subsection. Amounts appropriated under the preceding sentence for any fiscal year shall remain available until expended.
 
 
 * (f) APPLICATION OF CERTAIN REGULATIONS TO ALASKA.—In amending title 14, Code of Federal Regulations, in a manner affecting intrastate aviation in Alaska, the Administrator of the Federal Aviation Administration shall consider the extent to which Alaska is not served by transportation modes other than aviation, and shall establish such regulatory distinctions as the Administrator considers appropriate.
@@ -1291,7 +1320,9 @@
 
   * (4) CERTIFICATION OF DISABLED VETERAN LEAVE.—In order to verify that leave credited to an employee pursuant to paragraph (2)(J) is used for treating a service-connected disability, that employee shall, notwithstanding section 6329(c) of title 5, submit to the Assistant Administrator for Human Resource Management of the Federal Aviation Administration certification, in such form and manner as the Administrator of the Federal Aviation Administration may prescribe, that the employee used that leave for purposes of being furnished treatment for that disability by a health care provider.
 
-  * (5) EFFECTIVE DATE.—This subsection shall take effect on April 1, 1996.
+  * (5) PAID PARENTAL LEAVE.—The Administrator shall implement a paid parental leave benefit for employees of the Administration that is, at a minimum, consistent with the paid parental leave benefits provided under section 6382 of title 5.
+
+  * (6) EFFECTIVE DATE.—This subsection shall take effect on April 1, 1996.
 
 
 * (h) RIGHT TO CONTEST ADVERSE PERSONNEL ACTIONS.—An employee of the Federal Aviation Administration who is the subject of a major adverse personnel action may contest the action either through any contractual grievance procedure that is applicable to the employee as a member of the collective bargaining unit or through the Administration's internal process relating to review of major adverse personnel actions of the Administration, known as Guaranteed Fair Treatment, or under section 40122(g)(3).

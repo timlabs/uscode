@@ -236,3 +236,91 @@
 
 #### (g) Reports
 * Not later than 1 year after January 6, 2017, and annually thereafter for 3 years, the Working Group shall submit to the appropriate committees of Congress a report on its responsibilities under this section, including a discussion of the considerations described in paragraphs (2)(B), (3)(B), and (5)(B) of subsection (e) and recommendations made under subsection (e)(1).
+
+### §6605. Disclosure of funding sources in applications for Federal research and development awards
+#### (a) Disclosure requirement
+* Each Federal research agency shall require, as part of any application for a research and development award from such agency—
+
+  * (1) that each covered individual listed on the application—
+
+    * (A) disclose the amount, type, and source of all current and pending research support received by, or expected to be received by, the individual as of the time of the disclosure;
+
+    * (B) certify that the disclosure is current, accurate, and complete; and
+
+    * (C) agree to update such disclosure at the request of the agency prior to the award of support and at any subsequent time the agency determines appropriate during the term of the award; and
+
+
+  * (2) that any entity applying for such award certify that each covered individual who is employed by the entity and listed on the application has been made aware of the requirements under paragraph (1).
+
+#### (b) Consistency
+* The Director of the Office of Science and Technology Policy, acting through the National Science and Technology Council and in accordance with the authority provided under section 1746(a) of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; 42 U.S.C. 6601 note) shall ensure that the requirements issued by Federal research agencies under subsection (a) are consistent.
+
+#### (c) Enforcement
+* #### (1) Rejection for violation of law or agency terms
+  * A Federal research agency may reject an application for a research and development award if the current and pending research support disclosed by an individual under subsection (a) violates Federal law or agency terms and conditions.
+
+* #### (2) Enforcement for noncompliance
+  * Subject to paragraph (3), in the event that a covered individual listed on an entity's application for a research and development award knowingly fails to disclose information under subsection (a), a Federal research agency may take one or more of the following actions:
+
+    * (A) Reject the application.
+
+    * (B) Suspend or terminate a research and development award made by that agency to the individual or entity.
+
+    * (C) Temporarily or permanently discontinue any or all funding from that agency for the individual or entity.
+
+    * (D) Temporarily or permanently suspend or debar the individual or entity in accordance with part 180 of title 2, Code of Federal Regulations, any successor regulation, or any other appropriate law or regulation, from receiving government funding.
+
+    * (E) Refer the failure to disclose under subsection (a) to the Inspector General of the agency concerned for further investigation or to Federal law enforcement authorities to determine whether any criminal or civil laws were violated.
+
+    * (F) Place the individual or entity in the Federal Awardee Performance and Integrity Information System for noncompliance to alert other agencies.
+
+    * (G) Take such other actions against the individual or entity as are authorized under applicable law or regulations.
+
+* #### (3) Special rule for enforcement against entities
+  * An enforcement action described in paragraph (2) may be taken against an entity only in a case in which—
+
+    * (A) the entity did not meet the requirements of subsection (a)(2);
+
+    * (B) the entity knew that a covered individual failed to disclose information under subsection (a)(1) and the entity did not take steps to remedy such nondisclosure before the application was submitted; or
+
+    * (C) the head of the Federal research agency concerned determines that—
+
+      * (i) the entity is owned, controlled, or substantially influenced by a covered individual; and
+
+      * (ii) such individual knowingly failed to disclose information under subsection (a)(1).
+
+* #### (4) Notice
+  * A Federal research agency that intends to take action under paragraph (1) or (2) shall, as practicable and in accordance with part 180 of title 2, Code of Federal Regulations, any successor regulation, or any other appropriate law or regulation, notify each individual or entity subject to such action about the specific reason for the action, and shall provide such individuals and entities with the opportunity to, and a process by which, to contest the proposed action.
+
+* #### (5) Evidentiary standards
+  * A Federal research agency seeking suspension or debarment under paragraph (2)(D) shall abide by the procedures and evidentiary standards set forth in part 180 of title 2, Code of Federal Regulations, any successor regulation, or any other appropriate law or regulation.
+
+#### (d) Definitions
+* In this section:
+
+  * (1) The term "covered individual" means an individual who—
+
+    * (A) contributes in a substantive, meaningful way to the scientific development or execution of a research and development project proposed to be carried out with a research and development award from a Federal research agency; and
+
+    * (B) is designated as a covered individual by the Federal research agency concerned.
+
+
+  * (2) The term "current and pending research support"—
+
+    * (A) means all resources made available, or expected to be made available, to an individual in support of the individual's research and development efforts, regardless of—
+
+      * (i) whether the source of the resource is foreign or domestic;
+
+      * (ii) whether the resource is made available through the entity applying for a research and development award or directly to the individual; or
+
+      * (iii) whether the resource has monetary value; and
+
+
+    * (B) includes in-kind contributions requiring a commitment of time and directly supporting the individual's research and development efforts, such as the provision of office or laboratory space, equipment, supplies, employees, or students.
+
+
+  * (3) The term "entity" means an entity that has applied for or received a research and development award from a Federal research agency.
+
+  * (4) The term "Federal research agency" means any Federal agency with an annual extramural research expenditure of over $100,000,000.
+
+  * (5) The term "research and development award" means support provided to an individual or entity by a Federal research agency to carry out research and development activities, which may include support in the form of a grant, contract, cooperative agreement, or other such transaction. The term does not include a grant, contract, agreement or other transaction for the procurement of goods or services to meet the administrative needs of a Federal research agency.

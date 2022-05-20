@@ -3,7 +3,7 @@
 ### §1941. Civilian teaching staff
 * (a) The Secretary may appoint in the Coast Guard such number of civilian faculty members at the Academy as the needs of the Service may require. They shall have such titles and perform duties as prescribed by the Secretary. Leaves of absence and hours of work for civilian faculty members shall be governed by regulations promulgated by the Secretary, without regard to the provisions of title 5.
 
-* (b) The compensation of persons employed under this section is as prescribed by the Secretary.
+* (b) The compensation of individuals employed under this section is as prescribed by the Secretary.
 
 ### §1942. Permanent commissioned teaching staff; composition
 * The permanent commissioned teaching staff at the Academy shall consist of professors, associate professors, assistant professors and instructors, in such numbers as the needs of the Service require. They shall perform duties as prescribed by the Commandant, and exercise command only in the academic department of the Academy.

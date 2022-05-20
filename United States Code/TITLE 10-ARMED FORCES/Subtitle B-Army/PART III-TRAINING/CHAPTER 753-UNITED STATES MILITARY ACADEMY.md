@@ -291,7 +291,7 @@
 
 * (b) If a cadet who is charged with violating a regulation issued under subsection (a), the penalty for which is or may be dismissal from the Academy, requests in writing a trial by a general court-martial, he may not be dismissed for that offense except under sentence of such a court.
 
-* (c) A cadet dismissed from the Academy for hazing may not be reappointed to the Corps of Cadets, and is ineligible for appointment as a commissioned officer in a regular component of the Army, Navy, Air Force, or Marine Corps, until two years after the graduation of his class.
+* (c) A cadet dismissed from the Academy for hazing may not be reappointed to the Corps of Cadets, and is ineligible for appointment as a commissioned officer in a regular component of the Army, Navy, Air Force, Marine Corps, or Space Force, until two years after the graduation of his class.
 
 ### §7453. Cadets: degree and commission on graduation
 * (a) Under such conditions as the Secretary of the Army may prescribe, the Superintendent of the Academy may confer the degree of bachelor of science upon graduates of the Academy.
@@ -463,6 +463,12 @@
 
     * (iv) any other issues relating to sexual harassment and sexual violence involving Academy personnel.
 
+
+* (3)(A) The Secretary of Defense may postpone the conduct of an assessment under this subsection if the Secretary determines that conducting such assessment is not practicable due to a war or national emergency declared by the President or Congress.
+
+* (B) The Secretary of Defense shall ensure that an assessment postponed under subparagraph (A) is conducted as soon as practicable after the end of the period of war or national emergency concerned, or earlier if the Secretary determines appropriate.
+
+* (C) The Secretary of Defense shall notify Congress of a determination under subparagraph (A) not later than 30 days after the date on which the Secretary makes such determination.
 
 * (d) ANNUAL REPORT.—(1) The Secretary of the Army shall direct the Superintendent of the Academy to submit to the Secretary a report on sexual harassment and sexual violence involving cadets or other personnel at the Academy for each Academy program year.
 

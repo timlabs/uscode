@@ -32,9 +32,9 @@
 
   * (5) deadlines and timetables for performance of required activities, except that such deadlines and timetables may only be modified, not waived;
 
-  * (6) limitations on payments under section 1395w–21(i) of this title for health care items and services furnished to individuals enrolled in a Medicare+Choice plan by health care professionals or facilities not included under such plan; and
+  * (6) limitations on payments under section 1395w–21(i) of this title for health care items and services furnished to individuals enrolled in a Medicare+Choice plan by health care professionals or facilities not included under such plan;
 
-  * (7) sanctions and penalties that arise from noncompliance with the following requirements (as promulgated under the authority of section 264(c) of the Health Insurance Portability and Accountability Act of 1996 (42 U.S.C. 1320d–2 note)—
+  * (7) sanctions and penalties that arise from noncompliance with the following requirements (as promulgateid under the authority of section 264(c) of the Health Insurance Portability and Accountability Act of 1996 (42 U.S.C. 1320d–2 note)—
 
     * (A) section 164.510 of title 45, Code of Federal Regulations, relating to—
 
@@ -49,7 +49,9 @@
 
       * (i) the patient's right to request privacy restrictions; and
 
-      * (ii) the patient's right to request confidential communications.
+      * (ii) the patient's right to request confidential communications; and
+
+  * (8) in the case of a telehealth service (as defined in paragraph (4)(F) of section 1395m(m) of this title) furnished in any emergency area (or portion of such an area) during any portion of any emergency period, the requirements of section 1395m(m) of this title.
 
 
 * Insofar as the Secretary exercises authority under paragraph (6) with respect to individuals enrolled in a Medicare+Choice plan, to the extent possible given the circumstances, the Secretary shall reconcile payments made on behalf of such enrollees to ensure that the enrollees do not pay more than would be required had they received services from providers within the network of the plan and may reconcile payments to the organization offering the plan to ensure that such organization pays for services for which payment is included in the capitation payment it receives under part C of subchapter XVIII. A waiver or modification provided for under paragraph (3) or (7) shall only be in effect if such actions are taken in a manner that does not discriminate among individuals on the basis of their source of payment or of their ability to pay, and, except in the case of a waiver or modification to which the fifth sentence of this subsection applies, shall be limited to a 72-hour period beginning upon implementation of a hospital disaster protocol. A waiver or modification under such paragraph (7) shall be withdrawn after such period and the provider shall comply with the requirements under such paragraph for any patient still under the care of the provider. If a public health emergency described in subsection (g)(1)(B) involves a pandemic infectious disease (such as pandemic influenza), the duration of a waiver or modification under paragraph (3) shall be determined in accordance with subsection (e) as such subsection applies to public health emergencies.
@@ -93,11 +95,19 @@
 * For purposes of this section:
 
 * #### (1) Emergency area; emergency period
-  * An "emergency area" is a geographical area in which, and an "emergency period" is the period during which, there exists—
+  * #### (A) In general
+    * Subject to subparagraph (B), an "emergency area" is a geographical area in which, and an "emergency period" is the period during which, there exists—
 
-    * (A) an emergency or disaster declared by the President pursuant to the National Emergencies Act [50 U.S.C. 1601 et seq.] or the Robert T. Stafford Disaster Relief and Emergency Assistance Act [42 U.S.C. 5121 et seq.]; and
+      * (i) an emergency or disaster declared by the President pursuant to the National Emergencies Act [50 U.S.C. 1601 et seq.] or the Robert T. Stafford Disaster Relief and Emergency Assistance Act [42 U.S.C. 5121 et seq.]; and
 
-    * (B) a public health emergency declared by the Secretary pursuant to section 247d of this title.
+      * (ii) a public health emergency declared by the Secretary pursuant to section 247d of this title.
+
+  * #### (B) Exception
+    * For purposes of subsection (b)(8), an "emergency area" is a geographical area in which, and an "emergency period" is the period during which, there exists—
+
+      * (i) the public health emergency declared by the Secretary pursuant to section 247d of this title on January 31, 2020, entitled "Determination that a Public Health Emergency Exists Nationwide as the Result of the 2019 Novel Coronavirus"; and
+
+      * (ii) any renewal of such declaration pursuant to such section 247d of this title.
 
 * #### (2) Health care provider
   * The term "health care provider" means any entity that furnishes health care items or services, and includes a hospital or other provider of services, a physician or other health care practitioner or professional, a health care facility, or a supplier of health care items or services.

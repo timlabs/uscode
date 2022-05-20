@@ -162,6 +162,20 @@
   * #### (C) Status as a small business concern
     * Participation of a small business concern in a team or a joint venture under this paragraph shall not affect the status of that concern as a small business concern for any other purpose.
 
+* #### (5) Past performance ratings of joint ventures for small business concerns
+  * With respect to evaluating an offer for a prime contract made by a small business concern that previously participated in a joint venture with another business concern (whether or not such other business concern was a small business concern), the Administrator shall establish regulations—
+
+    * (A) allowing the small business concern to elect to use the past performance of the joint venture if the small business concern has no relevant past performance of its own;
+
+    * (B) requiring the small business concern, when making an election under subparagraph (A)—
+
+      * (i) to identify to the contracting officer the joint venture of which the small business concern was a member; and
+
+      * (ii) to inform the contracting officer what duties and responsibilities the small business concern carried out as part of the joint venture; and
+
+
+    * (C) requiring a contracting officer, if the small business concern makes an election under subparagraph (A), to consider the past performance of the joint venture when evaluating the past performance of the small business concern, giving due consideration to the information provided under subparagraph (B)(ii).
+
 #### (f) Contracting preference for small business concerns in a major disaster area
 * #### (1) Definition
   * In this subsection, the term "disaster area" means the area for which the President has declared a major disaster, during the period of the declaration.
@@ -776,14 +790,3 @@
 
 * #### (2) Report
   * Along with the report required under subsection (h)(1), the head of each Federal agency shall submit to the Administrator, and make publicly available on the scorecard described in section 868(b) of the National Defense Authorization Act for Fiscal Year 2016 (15 U.S.C. 644 note), an analysis of the number and dollar amount of prime contracts awarded pursuant to paragraph (1) for each fiscal year of the period described in such paragraph.
-
-* #### (3) Covered territory business defined
-  * In this subsection, the term "covered territory business" means a small business concern that has its principal office located in one of the following:
-
-    * (A) The United States Virgin Islands.
-
-    * (B) American Samoa.
-
-    * (C) Guam.
-
-    * (D) The Northern Mariana Islands.

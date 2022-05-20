@@ -81,7 +81,7 @@
   * The term "COASTAL Formula" means the formula established under subsection (b).
 
 * #### (3) Coastal State
-  * The term "coastal State" has the meaning given the term "coastal state" in section 1453 of title 16.
+  * The term "coastal State" has the meaning given the term "coastal state" in section 1453 of title 16, except that the term shall not apply with respect to a State or territory that has an operational wind and flood loss allocation system.
 
 * #### (4) Indeterminate loss
   * #### (A) In general
@@ -95,7 +95,7 @@
       * (ii) there is insufficient or no tangible evidence created, yielded, or otherwise left behind of the specific property for which the claim is made as a result of the named storm.
 
 * #### (5) Named storm
-  * The term "named storm" means any organized weather system with a defined surface circulation and maximum winds of not less than 39 miles per hour which the National Hurricane Center of the United States National Weather Service names as a tropical storm or a hurricane.
+  * The term "named storm" means any organized weather system with a defined surface circulation and maximum sustained winds of not less than 39 miles per hour which the National Hurricane Center of the United States National Weather Service names as a tropical storm or a hurricane.
 
 * #### (6) Post-storm assessment
   * The term "post-storm assessment" means the post-storm assessment developed under section 3611(b) of title 33.
@@ -117,14 +117,14 @@
 
 #### (b) Establishment of flood loss allocation formula for indeterminate claims
 * #### (1) In general
-  * Not later than 180 days after the date on which the protocol is established under section 3611(c)(1) of title 33, the Secretary, acting through the Administrator and in consultation with the Under Secretary, shall establish by rule a standard formula to determine and allocate wind losses and flood losses for claims involving indeterminate losses.
+  * Not later than 180 days after the date on which the protocol is established under section 3611(c)(1) of title 33, the Secretary, acting through the Administrator and in consultation with the Under Secretary, shall publish for comment in the Federal Register a standard formula to determine and allocate wind losses and flood losses for claims involving indeterminate losses.
 
 * #### (2) Contents
   * The standard formula established under paragraph (1) shall—
 
     * (A) incorporate data available from the Coastal Wind and Water Event Database established under section 3611(f) of title 33;
 
-    * (B) use relevant data provided on the National Flood Insurance Program Elevation Certificate for each indeterminate loss for which the formula is used;
+    * (B) use relevant data provided on the National Flood Insurance Program Elevation Certificate, or other data or information used to determine a property's current risk of flood, as determined by the Administrator, for each indeterminate loss for which the formula is used;
 
     * (C) consider any sufficient and credible evidence, approved by the Administrator, of the pre-event condition of a specific property, including the findings of any policyholder or insurance claims adjuster in connection with the indeterminate loss to that specific property;
 
@@ -153,7 +153,7 @@
 * #### (3) National Academy of Sciences evaluation
   * #### (A) Evaluation required
     * #### (i) Evaluation
-      * Upon the issuance of the rule establishing the COASTAL Formula, and each time the Administrator modifies the COASTAL Formula, the National Academy of Sciences shall—
+      * Upon publication of the COASTAL Formula in the Federal Register as required by subsection (b)(1), and each time the Administrator modifies the COASTAL Formula, the National Academy of Sciences shall—
 
         * (I) evaluate the expected financial impact on the national flood insurance program of the use of the COASTAL Formula as so established or modified; and
 
@@ -173,7 +173,7 @@
     * Notwithstanding section 4017 of this title, there shall be available to the Administrator from the National Flood Insurance Fund, of amounts not otherwise obligated, not more than $750,000 to carry out this paragraph.
 
 #### (d) Disclosure of COASTAL Formula
-* Not later than 30 days after the date on which a post-storm assessment is submitted to the Secretary under section 3611(b)(2)(C) of title 33, for each indeterminate loss for which the COASTAL Formula is used pursuant to subsection (c)(2), the Administrator shall disclose to the policyholder that makes a claim relating to the indeterminate loss—
+* Not later than 30 days after the date on which a post-storm assessment is submitted to the Secretary under section 3611(b)(2)(E) of title 33, for each indeterminate loss for which the COASTAL Formula is used pursuant to subsection (c)(2), the Administrator shall disclose to the policyholder that makes a claim relating to the indeterminate loss—
 
   * (1) that the Administrator used the COASTAL Formula with respect to the indeterminate loss; and
 
@@ -207,10 +207,13 @@
   * Notwithstanding section 3302 of title 31 or any other law relating to the crediting of money, the Administrator shall deposit in the National Flood Insurance Fund any amounts received under this subsection, which shall remain available until expended and be available to the Administrator for purposes authorized for the National Flood Insurance Fund without further appropriation.
 
 #### (h) Rule of construction
-* Nothing in this subsection shall be construed to require the Administrator to make any payment under the national flood insurance program, or an insurance company to make any payment, for an indeterminate loss based upon post-storm assessment or the COASTAL Formula.
+* Nothing in this subsection shall be construed to require the Administrator to make any payment under the national flood insurance program, or an insurance company that issues a standard flood insurance policy under the national flood insurance program to make any payment, for an indeterminate loss based upon post-storm assessment, the COASTAL Formula, or any other loss allocation or post-storm assessment arising under the laws or ordinances of any State.
 
 #### (i) Applicability
-* Subsection (c) shall apply with respect to an indeterminate loss associated with a named storm that occurs after the date on which the Administrator issues the rule establishing the COASTAL Formula under subsection (b).
+* Subsection (c) shall apply with respect to an indeterminate loss associated with a named storm that occurs 60 days after publication of the COASTAL Formula in the Federal Register as required by subsection (b)(1).
 
 #### (j) Rule of Construction
 * Nothing in this subsection shall be construed to negate, set aside, or void any policy limit, including any loss limitation, set forth in a standard insurance policy.
+
+#### (k) Rule of construction
+* Nothing in this section shall be construed to create a cause of action under this chapter.

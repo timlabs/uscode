@@ -173,13 +173,29 @@
       * (ii) are determined by the head of the agency to be hazardous duties;
 
 
-    * (D) a member of a rescue squad or ambulance crew who, as authorized or licensed by law and by the applicable agency or entity, is engaging in rescue activity or in the provision of emergency medical services; or
+    * (D) a member of a rescue squad or ambulance crew who, as authorized or licensed by law and by the applicable agency or entity, is engaging in rescue activity or in the provision of emergency medical services;
 
     * (E) an individual appointed to the National Disaster Medical System under section 300hh–11 of title 42 who is performing official duties of the Department of Health and Human Services, if those official duties are—
 
       * (i) related to responding to a public health emergency or potential public health emergency, or other activities for which the Secretary of Health and Human Services has activated such National Disaster Medical System; and
 
-      * (ii) determined by the Secretary of Health and Human Services to be hazardous.
+      * (ii) determined by the Secretary of Health and Human Services to be hazardous; or
+
+
+    * (F) an employee or contractor of the Department of Energy who—
+
+      * (i) is—
+
+        * (I) a nuclear materials courier (as defined in section 8331(27) of title 5); or
+
+        * (II) designated by the Secretary of Energy as a member of an emergency response team; and
+
+
+      * (ii) is performing official duties of the Department, pursuant to a deployment order issued by the Secretary, to protect the public, property, or the interests of the United States by—
+
+        * (I) assessing, locating, identifying, securing, rendering safe, or disposing of weapons of mass destruction (as defined in section 2302 of title 50); or
+
+        * (II) managing the immediate consequences of a radiological release or exposure.
 
 ### §10285. Administrative provisions
 #### (a) Rules, regulations, and procedures

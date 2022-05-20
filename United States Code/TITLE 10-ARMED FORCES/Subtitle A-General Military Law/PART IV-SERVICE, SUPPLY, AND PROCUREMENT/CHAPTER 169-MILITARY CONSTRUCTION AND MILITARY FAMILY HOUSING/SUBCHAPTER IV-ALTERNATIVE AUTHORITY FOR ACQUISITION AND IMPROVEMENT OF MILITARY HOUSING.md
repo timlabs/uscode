@@ -275,7 +275,9 @@
   * (F) Any amounts that the Secretary concerned transfers to that Fund pursuant to section 2869 of this title.
 
 
-* (d) USE OF AMOUNTS IN FUNDS.—(1) In such amounts as provided in appropriation Acts and except as provided in subsection (e), the Secretary of Defense may use amounts in the Department of Defense Family Housing Improvement Fund to carry out activities under this subchapter with respect to military family housing, including activities required in connection with the planning, execution, and administration of contracts entered into under the authority of this subchapter. The Secretary may also use for expenses of activities required in connection with the planning, execution, and administration of such contracts funds that are otherwise available to the Department of Defense for such types of expenses.
+* (d) USE OF AMOUNTS IN FUNDS.—(1)(A) In such amounts as provided in appropriation Acts and except as provided in subsection (e), the Secretary of Defense may use amounts in the Department of Defense Family Housing Improvement Fund to carry out activities under this subchapter with respect to military family housing, including activities required in connection with the planning, execution, and administration of contracts entered into under the authority of this subchapter. The Secretary may also use for expenses of activities required in connection with the planning, execution, and administration of such contracts funds that are otherwise available to the Department of Defense for such types of expenses.
+
+* (B) The Secretary of Defense shall require that eligible entities receiving amounts from the Department of Defense Family Housing Improvement Fund prioritize the use of such amounts for expenditures related to asset recapitalization, operating expenses, and debt payments before other program management-incentive fee expenditures. In the case of asset recapitalization, the primary purpose of the expenditures must be to sustain existing housing units owned or managed by the eligible entity or for which the eligible entity is otherwise responsible.
 
 * (2) In such amounts as provided in appropriation Acts and except as provided in subsection (e), the Secretary of Defense may use amounts in the Department of Defense Military Unaccompanied Housing Improvement Fund to carry out activities under this subchapter with respect to military unaccompanied housing, including activities required in connection with the planning, execution, and administration of contracts entered into under the authority of this subchapter. The Secretary may also use for expenses of activities required in connection with the planning, execution, and administration of such contracts funds that are otherwise available to the Department of Defense for such types of expenses.
 
@@ -295,36 +297,36 @@
 * (c) TRANSFERS SUBJECT TO APPROPRIATIONS.—The transfer of funds under the authority of subsection (a) is limited to such amounts as may be provided in advance in appropriations Acts.
 
 ### §2884. Reports
-* (a) PROJECT REPORTS.—(1) The Secretary of Defense shall transmit to the appropriate committees of Congress a report describing—
+* (a) PROJECT REPORTS.—(1) The Secretary concerned shall transmit to the appropriate committees of Congress a report describing—
 
-  * (A) each contract for the acquisition or construction of family housing units or unaccompanied housing units that the Secretary proposes to solicit under this subchapter; and
+  * (A) each contract or agreement for the acquisition or construction of family housing units or unaccompanied housing units under this subchapter; and
 
   * (B) each conveyance or lease proposed under section 2878 of this title.
 
 
-* (2) For each proposed contract, conveyance, or lease described in paragraph (1), the report required by such paragraph shall include the following:
+* (2) A report required by paragraph (1) shall include the following:
 
-  * (A) A description of the contract, conveyance, or lease, including a summary of the terms of the contract, conveyance, or lease.
+  * (A) A description of the contract, agreement, conveyance, or lease, including a summary of the terms of the contract, agreement, conveyance, or lease.
 
-  * (B) A description of the authorities to be utilized in entering into the contract, conveyance, or lease and the intended method of participation of the United States in the contract, conveyance, or lease, including a justification of the intended method of participation.
+  * (B) A description of the authorities to be utilized in entering into the contract, agreement, conveyance, or lease and the intended method of participation of the United States in the contract, agreement, conveyance, or lease, including a justification of the intended method of participation.
 
-  * (C) A statement of the scored cost of the contract, conveyance, or lease, as determined by the Office of Management and Budget.
+  * (C) A statement of the scored cost of the contract, agreement, conveyance, or lease, as determined by the Office of Management and Budget.
 
-  * (D) A statement of the United States funds required for the contract, conveyance, or lease and a description of the source of such funds, including a description of the specific construction, acquisition, or improvement projects from which funds were transferred to the Funds established under section 2883 of this title in order to finance the contract, conveyance, or lease.
+  * (D) A statement of the United States funds required for the contract, agreement, conveyance, or lease and a description of the source of such funds, including a description of the specific construction, acquisition, or improvement projects from which funds were transferred to the Funds established under section 2883 of this title in order to finance the contract, agreement, conveyance, or lease.
 
-  * (E) An economic assessment of the life cycle costs of the contract, conveyance, or lease, including an estimate of the amount of United States funds that would be paid over the life of the contract, conveyance, or lease from amounts derived from payments of government allowances, including the basic allowance for housing under section 403 of title 37, if the housing affected by the project were fully occupied by military personnel over the life of the contract, conveyance, or lease.
+  * (E) An economic assessment of the life cycle costs of the contract, agreement, conveyance, or lease, including an estimate of the amount of United States funds that would be paid over the life of the contract, agreement, conveyance, or lease from amounts derived from payments of government allowances, including the basic allowance for housing under section 403 of title 37, if the housing affected by the project were fully occupied by military personnel over the life of the contract, agreement, conveyance, or lease.
 
 
-* (3)(A) In the case of a contract described in paragraph (1) proposed to be entered into with a private party, the report shall specify whether the contract will or may include a guarantee (including the making of mortgage or rental payments) by the Secretary to the private party in the event of—
+* (3)(A) In the case of a contract or agreement described in paragraph (1) proposed to be entered into with a private party, the report shall specify whether the contract or agreement will or may include a guarantee (including the making of mortgage or rental payments) by the Secretary to the private party in the event of—
 
-  * (i) the closure or realignment of the installation for which housing will be provided under the contract;
+  * (i) the closure or realignment of the installation for which housing will be provided under the contract or agreement;
 
   * (ii) a reduction in force of units stationed at such installation; or
 
   * (iii) the extended deployment of units stationed at such installation.
 
 
-* (B) If the contract will or may include such a guarantee, the report shall also—
+* (B) If the contract or agreement will or may include such a guarantee, the report shall also—
 
   * (i) describe the nature of the guarantee; and
 
@@ -374,7 +376,7 @@
 
   * (9) An assessment of maintenance response times and completion of maintenance requests.
 
-  * (10) An assessment of the dispute resolution process, which shall include a specific analysis of each denied tenant request to withhold rent payments and each instance in which the dispute resolution process resulted in a favorable outcome for the landlord.
+  * (10) An assessment of the dispute resolution process under section 2894(c) of this title, which shall include a list of dispute resolution cases by installation and the final outcome of each case.
 
   * (11) An assessment of overall customer service for tenants.
 

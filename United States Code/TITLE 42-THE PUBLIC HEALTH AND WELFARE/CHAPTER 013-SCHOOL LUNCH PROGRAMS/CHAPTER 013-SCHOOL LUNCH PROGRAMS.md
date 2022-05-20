@@ -1022,14 +1022,14 @@
   * Nothing in paragraph (1) prevents any State or local government from adopting or enforcing any requirement for more frequent food safety inspections of schools.
 
 * #### (3) Audits and reports by States
-  * For fiscal year 2020, each State shall annually—
+  * For fiscal year 2021, each State shall annually—
 
     * (A) audit food safety inspections of schools conducted under paragraphs (1) and (2); and
 
     * (B) submit to the Secretary a report of the results of the audit.
 
 * #### (4) Audit by the Secretary
-  * For fiscal year 2020, the Secretary shall annually audit State reports of food safety inspections of schools submitted under paragraph (3).
+  * For fiscal year 2021, the Secretary shall annually audit State reports of food safety inspections of schools submitted under paragraph (3).
 
 * #### (5) School food safety program
   * #### (A) In general
@@ -4268,7 +4268,7 @@
 * The Secretary shall establish fair and reasonable auditing procedures regarding the expenditures of funds to carry out this section.
 
 #### (d) Funding
-* Out of any moneys in the Treasury not otherwise appropriated, the Secretary of the Treasury shall pay to the Secretary to provide to the organization selected under this section, to establish and maintain the information clearinghouse, $200,000 for each of fiscal years 1995 and 1996, $150,000 for fiscal year 1997, $100,000 for fiscal year 1998, $166,000 for each of fiscal years 1999 through 2004, and $250,000 for each of fiscal years 2010 through 2021. The Secretary shall be entitled to receive the funds and shall accept the funds, without further appropriation.
+* Out of any moneys in the Treasury not otherwise appropriated, the Secretary of the Treasury shall pay to the Secretary to provide to the organization selected under this section, to establish and maintain the information clearinghouse, $200,000 for each of fiscal years 1995 and 1996, $150,000 for fiscal year 1997, $100,000 for fiscal year 1998, $166,000 for each of fiscal years 1999 through 2004, and $250,000 for each of fiscal years 2010 through 2022. The Secretary shall be entitled to receive the funds and shall accept the funds, without further appropriation.
 
 ### §1769i. Program evaluation
 #### (a) Performance assessments

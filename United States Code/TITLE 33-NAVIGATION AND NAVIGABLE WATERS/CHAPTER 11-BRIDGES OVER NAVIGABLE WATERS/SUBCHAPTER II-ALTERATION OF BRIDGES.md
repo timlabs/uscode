@@ -43,22 +43,6 @@
 ### §521. Regulations and orders
 * The Secretary is authorized to prescribe such rules and regulations, and to make and issue such orders, as may be necessary or appropriate for carrying out the provisions of this subchapter.
 
-### §522. Existing provisions of law
-#### (a) Obstructing navigation; criminal penalties
-* The first sentence of section 494 of this title, and section 502 of this title, shall be inapplicable with respect to any bridge to which the provisions of this subchapter are applicable, except to the extent provided in this section.
-
-#### (b) Construction, reconstruction, or alteration of bridges not completed on July 1, 1939; apportionment of costs
-* Any bridge, the construction, reconstruction, or alteration of which was required by an order of the Secretary issued prior to July 1, 1939, and was not completed on such date, and in the case of which no penalties have accrued at the time of the enactment of this subchapter, shall be constructed, reconstructed, or altered as required by such order, and not in accordance with the provisions of this subchapter. In the case of any such bridge, however, the Secretary shall apportion the cost of the project between the bridge owner and the United States, and payment of the share of the United States shall be made, in the same manner as if the provisions of this subchapter applied to such construction, reconstruction, or alteration, subject to the following limitations:
-
-* (1) In case such construction, reconstruction, or alteration has not begun on or before April 1, 1940, such apportionment of cost shall be made only if (A) the construction, reconstruction, or alteration is carried out in accordance with plans and specifications, and pursuant to bids, approved by the Secretary, and (B) the bridge owner has submitted to the Secretary a written guaranty of cost as provided for in section 515 of this title.
-
-* (2) The Secretary's determination as to such apportionment, and as to such plans and specifications and bids, shall be final.
-
-* (3) Such apportionment shall not be made if such construction, reconstruction, or alteration is not completed within the time fixed in such order of the Secretary or within such additional time as the Secretary, for good cause shown, may allow.
-
-#### (c) Construction, reconstruction, or alteration of bridges not begun on July 1, 1939
-* Any bridge (except a bridge to which subsection (b) applies) the construction, reconstruction, or alteration of which was required by an order of the Secretary issued prior to July 1, 1939, and was not begun before such date, shall be subject to the provisions of this subchapter as though such order had not been issued, and compliance with the provisions of this subchapter and with such orders as may be issued thereunder shall be considered to constitute compliance with such order issued prior to July 1, 1939, and with the provisions of law under which it was issued.
-
 ### §523. Relocation of bridges
 * If the owner of any bridge and the Secretary shall agree that in order to remove an obstruction to navigation, or for any other purpose, a relocation of such bridge or the construction of a new bridge upon a new location would be preferable to an alteration of the existing bridge, such relocation or new construction may be carried out at such new site and upon such terms as may be acceptable to the bridge owner and the Secretary, and the cost of such relocation or new construction, including also any expense of changes in and additions to rights-of-way, stations, tracks, spurs, sidings, switches, signals, and other railroad facilities and property, and relocation of shippers required for railroad connection with the bridge at the new site, shall be apportioned as between the bridge owner and the United States in the manner which is provided for in section 516 of this title in the case of an alteration and the share of the United States paid from the appropriation authorized in section 518 of this title: _Provided_, That nothing in this section shall be construed as requiring the United States to pay any part of the expense of building any bridge across a navigable stream which the Secretary of the department in which the Coast Guard is operating shall not find to be, in fact, a relocation of an existing bridge.
 

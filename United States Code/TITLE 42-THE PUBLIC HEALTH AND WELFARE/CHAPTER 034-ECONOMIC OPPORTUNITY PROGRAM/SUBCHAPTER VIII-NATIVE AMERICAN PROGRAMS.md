@@ -8,31 +8,44 @@
 
 ### §2991b. Financial assistance for Native American projects
 #### (a) Authorization for financial assistance to public and nonprofit agencies; consultation with other Federal agencies to avoid duplication
-* The Commissioner is authorized to provide financial assistance, on a single year or multiyear basis, to public and nonprofit private agencies, including but not limited to, governing bodies of Indian tribes on Federal and State reservations, Alaska Native villages and regional corporations established by the Alaska Native Claims Settlement Act [43 U.S.C. 1601 et seq.], and such public and nonprofit private agencies serving Native Hawaiians, and Indian and Alaska Native organizations in urban or rural areas that are not Indian reservations or Alaska Native villages, for projects pertaining to the purposes of this subchapter. The Commissioner is authorized to provide financial assistance to public and nonprofit private agencies serving other Native American Pacific Islanders (including American Samoan Natives) for projects pertaining to the purposes of this Act. In determining the projects to be assisted under this subchapter, the Commissioner shall consult with other Federal agencies for the purpose of eliminating duplication or conflict among similar activities or projects and for the purpose of determining whether the findings resulting from those projects may be incorporated into one or more programs for which those agencies are responsible. Every determination made with respect to a request for financial assistance under this section shall be made without regard to whether the agency making such request serves, or the project to be assisted is for the benefit of, Indians who are not members of a federally recognized tribe. To the greatest extent practicable, the Commissioner shall ensure that each project to be assisted under this subchapter is consistent with the priorities established by the agency which receives such assistance.
+* The Commissioner is authorized to provide financial assistance, on a single year or multiyear basis, to public and nonprofit private agencies, including but not limited to, governing bodies of Indian Tribes on Federal and State reservations, Alaska Native villages and regional corporations established by the Alaska Native Claims Settlement Act [43 U.S.C. 1601 et seq.], and such public and nonprofit private agencies serving Native Hawaiians, and Indian and Alaska Native organizations in urban or rural areas that are not Indian reservations or Alaska Native villages, for projects pertaining to the purposes of this subchapter. The Commissioner is authorized to provide financial assistance to public and nonprofit private agencies serving other Native American Pacific Islanders (including American Samoan Natives) for projects pertaining to the purposes of this Act. In determining the projects to be assisted under this subchapter, the Commissioner shall consult with other Federal agencies for the purpose of eliminating duplication or conflict among similar activities or projects and for the purpose of determining whether the findings resulting from those projects may be incorporated into one or more programs for which those agencies are responsible. Every determination made with respect to a request for financial assistance under this section shall be made without regard to whether the agency making such request serves, or the project to be assisted is for the benefit of, Indians who are not members of a federally recognized Tribe. To the greatest extent practicable, the Commissioner shall ensure that each project to be assisted under this subchapter is consistent with the priorities established by the agency which receives such assistance.
 
-#### (b) Limitations of financial assistance; exceptions; non-Federal contributions
+#### (b) Economic Development
+* #### (1) In general
+  * The Commissioner may provide assistance under subsection (a) for projects relating to the purposes of this subchapter to a Native community development financial institution, as defined by the Secretary of the Treasury.
+
+* #### (2) Priority
+  * With regard to not less than 50 percent of the total amount available for assistance under this section, the Commissioner shall give priority to any application seeking assistance for—
+
+    * (A) the development of a Tribal code or court system for purposes of economic development, including commercial codes, training for court personnel, regulation pursuant to section 261 of title 25, and the development of nonprofit subsidiaries or other Tribal business structures;
+
+    * (B) the development of a community development financial institution, including training and administrative expenses; or
+
+    * (C) the development of a Tribal master plan for community and economic development and infrastructure.
+
+#### (c) Limitations of financial assistance; exceptions; non-Federal contributions
 * Financial assistance extended to an agency under this subchapter shall not exceed 80 per centum of the approved costs of the assisted project, except that the Commissioner may approve assistance in excess of such percentage if the Commissioner determines, in accordance with regulations establishing objective criteria, that such action is required in furtherance of the purposes of this subchapter. Non-Federal contributions may be in cash or in kind, fairly evaluated, including but not limited to plant, equipment, and services. The Commissioner shall not require non-Federal contributions in excess of 20 per centum of the approved costs of programs or activities assisted under this subchapter.
 
-#### (c) Assistance as addition to, and not substitution for, activities previously carried out without Federal assistance; waiver; nonreservation areas
+#### (d) Assistance as addition to, and not substitution for, activities previously carried out without Federal assistance; waiver; nonreservation areas
 * (1) No project shall be approved for assistance under this subchapter unless the Commissioner is satisfied that the activities to be carried out under such project will be in addition to, and not in substitution for, comparable activities previously carried out without Federal assistance, except that the Commissioner may waive this requirement in any case in which the Commissioner determines, in accordance with regulations establishing objective criteria, that application of the requirement would result in unnecessary hardship or otherwise be inconsistent with the purposes of this subchapter.
 
 * (2) No project may be disapproved for assistance under this subchapter solely because the agency requesting such assistance is an Indian organization in a nonreservation area or serves Indians in a nonreservation area.
 
-#### (d) Grants to improve tribal regulation of environmental quality
-* (1) The Commissioner shall award grants to Indian tribes for the purpose of funding 80 percent of the costs of planning, developing, and implementing programs designed to improve the capability of the governing body of the Indian tribe to regulate environmental quality pursuant to Federal and tribal environmental laws.
+#### (e) Grants to improve Tribal regulation of environmental quality
+* (1) The Commissioner shall award grants to Indian Tribes for the purpose of funding 80 percent of the costs of planning, developing, and implementing programs designed to improve the capability of the governing body of the Indian Tribe to regulate environmental quality pursuant to Federal and Tribal environmental laws.
 
 * (2) The purposes for which funds provided under any grant awarded under paragraph (1) may be used include, but are not limited to—
 
   * (A) the training and education of employees responsible for enforcing, or monitoring compliance with, environmental quality laws,
 
-  * (B) the development of tribal laws on environmental quality, and
+  * (B) the development of Tribal laws on environmental quality, and
 
   * (C) the enforcement and monitoring of environmental quality laws.
 
 
 * (3) The 20 percent of the costs of planning, developing, and implementing a program for which a grant is awarded under paragraph (1) that are not to be paid from such grant may be paid by the grant recipient in cash or through the provision of property or services, but only to the extent that such cash or property is from any source (including any Federal agency) other than a program, contract, or grant authorized under this subchapter.
 
-* (4) Grants shall be awarded under paragraph (1) on the basis of applications that are submitted by Indian tribes to the Commissioner in such form as the Commissioner shall prescribe.
+* (4) Grants shall be awarded under paragraph (1) on the basis of applications that are submitted by Indian Tribes to the Commissioner in such form as the Commissioner shall prescribe.
 
 ### §2991b–1. Loan fund; demonstration project
 #### (a) Grant to Office of Hawaiian Affairs to establish revolving loan fund; purposes of fund; administrative costs; matching funds
@@ -151,7 +164,7 @@
 
 * (2) The membership of the Council shall be the heads of principal operating divisions within the Department, as determined by the Secretary, and such persons in the Office of the Secretary as the Secretary may designate.
 
-* (3) In addition to the duties described in subsection (c)(3), the Council shall, within 180 days following September 30, 1992, prepare a plan, including legislative recommendations, to allow tribal governments and other organizations described in section 2991b(a) of this title to consolidate grants administered by the Department and to designate a single office to oversee and audit the grants. Such plan shall be submitted to the committees of the Senate and the House of Representatives having jurisdiction over the Administration for Native Americans.
+* (3) In addition to the duties described in subsection (c)(3), the Council shall, within 180 days following September 30, 1992, prepare a plan, including legislative recommendations, to allow Tribal governments and other organizations described in section 2991b(a) of this title to consolidate grants administered by the Department and to designate a single office to oversee and audit the grants. Such plan shall be submitted to the committees of the Senate and the House of Representatives having jurisdiction over the Administration for Native Americans.
 
 #### (e) Staffing levels
 * The Secretary shall assure that adequate staff and administrative support is provided to carry out the purpose of this subchapter. In determining the staffing levels of the Administration, the Secretary shall consider among other factors the unmet needs of the Native American population, the need to provide adequate oversight and technical assistance to grantees, the need to carry out the activities of the Council, the additional reporting requirements established, and the staffing levels previously maintained in support of the Administration.
@@ -247,7 +260,7 @@
   * (7) in the case of an application for a grant to carry out any purpose specified in subsection (b)(7)(B), a certification by the applicant that the applicant has not less than 3 years of experience in operating and administering a Native American language survival school, a Native American language nest, or any other educational program in which instruction is conducted in a Native American language.
 
 #### (d) Participating organizations
-* If a tribal organization or other eligible applicant decides that the objectives of its proposed Native American language project would be accomplished more effectively through a partnership arrangement with a school, college, or university, the applicant shall identify such school, college, or university as a participating organization in the application submitted under subsection (c).
+* If a Tribal organization or other eligible applicant decides that the objectives of its proposed Native American language project would be accomplished more effectively through a partnership arrangement with a school, college, or university, the applicant shall identify such school, college, or university as a participating organization in the application submitted under subsection (c).
 
 #### (e) Limitations on funding
 * #### (1) Share
@@ -257,13 +270,13 @@
 
     * (B)(i) may be provided from any private or non-Federal source; and
 
-    * (ii) may include funds (including interest) distributed to a tribe—
+    * (ii) may include funds (including interest) distributed to a Tribe—
 
       * (I) by the Federal Government pursuant to the satisfaction of a claim made under Federal law;
 
-      * (II) from funds collected and administered by the Federal Government on behalf of such tribe or its constituent members; or
+      * (II) from funds collected and administered by the Federal Government on behalf of such Tribe or its constituent members; or
 
-      * (III) by the Federal Government for general tribal administration or tribal development under a formula or subject to a tribal budgeting priority system, such as, but not limited to, funds involved in the settlement of land or other judgment claims, severance or other royalty payments, or payments under the Indian Self-Determination Act (25 U.S.C. 450f et seq.) or tribal budget priority system.
+      * (III) by the Federal Government for general Tribal administration or Tribal development under a formula or subject to a Tribal budgeting priority system, such as, but not limited to, funds involved in the settlement of land or other judgment claims, severance or other royalty payments, or payments under the Indian Self-Determination Act (25 U.S.C. 450f et seq.) or Tribal budget priority system.
 
 * #### (2) Duration
   * The Secretary may make grants made under subsection (a) on a 1-year, 2-year, 3-year, 4-year, or 5-year basis, except that grants made under such subsection for any purpose specified in subsection (b)(7) may be made only on a 3-year, 4-year, or 5-year basis.
@@ -286,12 +299,12 @@
 
   * (ii) a designee of the regional centers funded under section 3215 of title 20;
 
-  * (iii) representatives of national, tribal, and regional organizations that focus on Native American language, or Native American cultural, research, development, or training; and
+  * (iii) representatives of national, Tribal, and regional organizations that focus on Native American language, or Native American cultural, research, development, or training; and
 
   * (iv) other individuals who are recognized for their expertise in the area of Native American language.
 
 
-* Recommendations for appointment to such panel shall be solicited from Indian tribes and tribal organizations.
+* Recommendations for appointment to such panel shall be solicited from Indian Tribes and Tribal organizations.
 
 * (C) The duties of such panel include—
 
@@ -318,20 +331,21 @@
 
 * for preservation and use consonant with their respective responsibilities under other Federal law.
 
-* (ii) Based on the Federal recognition of the sovereign authority of Indian tribes over all aspects of their cultures and language and except as provided in clause (iii), an Indian tribe may make a determination—
+* (ii) Based on the Federal recognition of the sovereign authority of Indian Tribes over all aspects of their cultures and language and except as provided in clause (iii), an Indian Tribe may make a determination—
 
   * (I) not to transmit copies of such products under clause (i) or not to permit the redistribution of such copies; or
 
   * (II) to restrict in any manner the use or redistribution of such copies after transmission under such clause.
 
 
-* (iii) Clause (ii) shall not be construed to authorize Indian tribes—
+* (iii) Clause (ii) shall not be construed to authorize Indian Tribes—
 
   * (I) to limit the access of the Secretary to such products for purposes of administering this section or evaluating such products; or
 
   * (II) to sell such products, or copies of such products, for profit to the entities referred to in clause (i).
 
 ### §2991c. Technical assistance and training
+#### (a) In general
 * The Commissioner shall provide, directly or through other arrangements—
 
   * (1) technical assistance to the public and private agencies in planning, developing, conducting, and administering projects under this subchapter;
@@ -339,6 +353,9 @@
   * (2) short-term in-service training for specialized or other personnel that is needed in connection with projects receiving financial assistance under this subchapter; and
 
   * (3) upon denial of a grant application, technical assistance to a potential grantee in revising a grant proposal.
+
+#### (b) Priority
+* In providing assistance under subsection (a), the Commissioner shall give priority to any application described in section 2991b(b)(2) of this title.
 
 ### §2991d. Research, demonstration, and pilot projects
 * (a) The Commissioner may provide financial assistance through grants or contracts for research, demonstration, or pilot projects conducted by public or private agencies which are designed to test or assist in the development of new approaches or methods that will aid in overcoming special problems or otherwise furthering the purposes of this subchapter.
@@ -502,7 +519,7 @@
 
   * (2) "financial assistance" includes assistance advanced by grant, agreement, or contract, but does not include the procurement of plant or equipment, or goods or services;
 
-  * (3) "Indian reservation or Alaska Native village" includes the reservation of any federally or State recognized Indian tribe, including any band, nation, pueblo, or rancheria, any former reservation in Oklahoma, and community under the jurisdiction of an Indian tribe, including a band, nation, pueblo, or rancheria, with allotted lands or lands subject to a restriction against alienation imposed by the United States or a State, and any lands of or under the jurisdiction of an Alaska Native village or group, including any lands selected by Alaska Natives or Alaska Native organizations under the Alaska Native Claims Settlement Act [43 U.S.C. 1601 et seq.];
+  * (3) "Indian reservation or Alaska Native village" includes the reservation of any federally or State recognized Indian Tribe, including any band, nation, pueblo, or rancheria, any former reservation in Oklahoma, and community under the jurisdiction of an Indian Tribe, including a band, nation, pueblo, or rancheria, with allotted lands or lands subject to a restriction against alienation imposed by the United States or a State, and any lands of or under the jurisdiction of an Alaska Native village or group, including any lands selected by Alaska Natives or Alaska Native organizations under the Alaska Native Claims Settlement Act [43 U.S.C. 1601 et seq.];
 
   * (4) "Native Hawaiian" means any individual any of whose ancestors were natives of the area which consists of the Hawaiian Islands prior to 1778;
 
@@ -513,11 +530,11 @@
   * (7) the term "Native American Pacific Islander" means an individual who is indigenous to a United States territory or possession located in the Pacific Ocean, and includes such individual while residing in the United States.
 
 ### §2992d. Authorization of appropriations
-* (a) There are authorized to be appropriated for the purpose of carrying out the provisions of this subchapter (other than sections 2991b(d), 2991b–1, 2991b–3 of this title, subsection (d) of this section, and any other provision of this subchapter for which there is an express authorization of appropriations), such sums as may be necessary for each of fiscal years 1999, 2000, 2001, and 2002.
+* (a) There are authorized to be appropriated for the purpose of carrying out the provisions of this subchapter (other than sections 2991b(e), 2991b–1, 2991b–3 of this title, subsection (d) of this section, and any other provision of this subchapter for which there is an express authorization of appropriations), $34,000,000 for each of fiscal years 2021 through 2025.
 
-* (b) Not less than 90 per centum of the funds made available to carry out the provisions of this subchapter (other than sections 2991b(d), 2991b–1, 2991b–3, 2991c of this title, subsection (d) of this section, and any other provision of this subchapter for which there is an express authorization of appropriations) for a fiscal year shall be expended to carry out section 2991b(a) of this title for such fiscal year.
+* (b) Not less than 90 per centum of the funds made available to carry out the provisions of this subchapter (other than sections 2991b(e), 2991b–1, 2991b–3, 2991c of this title, subsection (d) of this section, and any other provision of this subchapter for which there is an express authorization of appropriations) for a fiscal year shall be expended to carry out section 2991b(a) of this title for such fiscal year.
 
-* (c) There is authorized to be appropriated $8,000,000 for each of fiscal years 1999, 2000, 2001, and 2002, for the purpose of carrying out the provisions of section 2991b(d) of this title.
+* (c) There is authorized to be appropriated $8,000,000 for each of fiscal years 1999, 2000, 2001, and 2002, for the purpose of carrying out the provisions of section 2991b(e) of this title.
 
 * (d)(1) For fiscal year 1994, there are authorized to be appropriated such sums as may be necessary for the purpose of—
 

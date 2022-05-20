@@ -97,6 +97,85 @@
 
 * (k) PROMOTION BOARD DEFINED.—In this section, the term "promotion board" means a selection board convened by the Secretary of a military department under section 573(a) or 611(a) of this title.
 
+### §628a. Special selection review boards
+* (a) IN GENERAL.—(1) If the Secretary of the military department concerned determines that a person recommended by a promotion board for promotion to a grade at or below the grade of major general, rear admiral in the Navy, or an equivalent grade in the Space Force is the subject of credible information of an adverse nature, including any substantiated adverse finding or conclusion described in section 615(a)(3)(A) of this title, that was not furnished to the promotion board during its consideration of the person for promotion as otherwise required by such section, the Secretary shall convene a special selection review board under this section to review the person and recommend whether the recommendation for promotion of the person should be sustained.
+
+* (2) If a person and the recommendation for promotion of the person is subject to review under this section by a special selection review board convened under this section, the name of the person—
+
+  * (A) shall not be disseminated or publicly released on the list of officers recommended for promotion by the promotion board recommending the promotion of the person; and
+
+  * (B) shall not be forwarded to the Secretary of Defense, the President, or the Senate, as applicable, or included on a promotion list under section 624(a) of this title.
+
+
+* (b) CONVENING.—(1) Any special selection review board convened under this section shall be convened in accordance with the provisions of section 628(f) of this title.
+
+* (2) Any special selection review board convened under this section may review such number of persons, and recommendations for promotion of such persons, as the Secretary of the military department concerned shall specify in convening such special selection review board.
+
+* (c) INFORMATION CONSIDERED.—(1) In reviewing a person and recommending whether the recommendation for promotion of the person should be sustained under this section, a special selection review board convened under this section shall be furnished and consider the following:
+
+  * (A) The record and information concerning the person furnished in accordance with section 615(a)(2) of this title to the promotion board that recommended the person for promotion.
+
+  * (B) Any credible information of an adverse nature on the person, including any substantiated adverse finding or conclusion from an officially documented investigation or inquiry described in section 615(a)(3)(A) of this title.
+
+
+* (2) The furnishing of information to a special selection review board under paragraph (1)(B) shall be governed by the standards and procedures referred to in paragraph (3)(C) of section 615(a) of this title applicable to the furnishing of information described in paragraph (3)(A) of such section to selection boards in accordance with that section.
+
+* (3)(A) Before information on a person described in paragraph (1)(B) is furnished to a special selection review board for purposes of this section, the Secretary of the military department concerned shall ensure that—
+
+  * (i) such information is made available to the person; and
+
+  * (ii) subject to subparagraphs (C) and (D), the person is afforded a reasonable opportunity to submit comments on such information to the special selection review board before its review of the person and the recommendation for promotion of the person under this section.
+
+
+* (B) If information on a person described in paragraph (1)(B) is not made available to the person as otherwise required by subparagraph (A)(i) due to the classification status of such information, the person shall, to the maximum extent practicable, be furnished a summary of such information appropriate to the person's authorization for access to classified information.
+
+* (C)(i) An opportunity to submit comments on information is not required for a person under subparagraph (A)(ii) if—
+
+  * (I) such information was made available to the person in connection with the furnishing of such information under section 615(a) of this title to the promotion board that recommended the promotion of the person subject to review under this section; and
+
+  * (II) the person submitted comments on such information to that promotion board.
+
+
+* (ii) The comments on information of a person described in clause (i)(II) shall be furnished to the special selection review board.
+
+* (D) A person may waive either or both of the following:
+
+  * (i) The right to submit comments to a special selection review board under subparagraph (A)(ii).
+
+  * (ii) The furnishing of comments to a special selection review board under subparagraph (C)(ii).
+
+
+* (d) CONSIDERATION.—(1) In considering the record and information on a person under this section, the special selection review board shall compare such record and information with an appropriate sampling of the records of those officers of the same competitive category who were recommended for promotion by the promotion board that recommended the person for promotion, and an appropriate sampling of the records of those officers who were considered by and not recommended for promotion by that promotion board.
+
+* (2) Records and information shall be presented to a special selection review board for purposes of paragraph (1) in a manner that does not indicate or disclose the person or persons for whom the special selection review board was convened.
+
+* (3) In considering whether the recommendation for promotion of a person should be sustained under this section, a special selection review board shall, to the greatest extent practicable, apply standards used by the promotion board that recommended the person for promotion.
+
+* (4) The recommendation for promotion of a person may be sustained under this section only if the special selection review board determines that the person—
+
+  * (A) ranks on an order of merit created by the special selection review board as better qualified for promotion than the sample officer highest on the order of merit list who was considered by and not recommended for promotion by the promotion board concerned; and
+
+  * (B) is comparable in qualification for promotion to those sample officers who were recommended for promotion by that promotion board.
+
+
+* (5) A recommendation for promotion of a person may be sustained under this section only by a vote of a majority of the members of the special selection review board.
+
+* (6) If a special selection review board does not sustain a recommendation for promotion of a person under this section, the person shall be considered to have failed of selection for promotion.
+
+* (e) REPORTS.—(1) Each special selection review board convened under this section shall submit to the Secretary of the military department concerned a written report, signed by each member of the board, containing the name of each person whose recommendation for promotion it recommends for sustainment and certifying that the board has carefully considered the record and information of each person whose name was referred to it.
+
+* (2) The provisions of sections 617(b) and 618 of this title apply to the report and proceedings of a special selection review board convened under this section in the same manner as they apply to the report and proceedings of a promotion board convened under section 611(a) of this title.
+
+* (f) APPOINTMENT OF PERSONS.—(1) If the report of a special selection review board convened under this section recommends the sustainment of the recommendation for promotion to the next higher grade of a person whose name was referred to it for review under this section, and the President approves the report, the person shall, as soon as practicable, be appointed to that grade in accordance with subsections (b) and (c) of section 624 of this title.
+
+* (2) A person who is appointed to the next higher grade as described in paragraph (1) shall, upon that appointment, have the same date of rank, the same effective date for the pay and allowances of that grade, and the same position on the active-duty list as the person would have had pursuant to the original recommendation for promotion of the promotion board concerned.
+
+* (g) REGULATIONS.—(1) The Secretary of Defense shall prescribe regulations to carry out this section. Such regulations shall apply uniformly across the military departments.
+
+* (2) Any regulation prescribed by the Secretary of a military department to supplement the regulations prescribed pursuant to paragraph (1) may not take effect without the approval of the Secretary of Defense, in writing.
+
+* (h) PROMOTION BOARD DEFINED.—In this section, the term "promotion board" means a selection board convened by the Secretary of a military department under section 611(a) of this title.
+
 ### §629. Removal from a list of officers recommended for promotion
 * (a) REMOVAL BY PRESIDENT.—The President may remove the name of any officer from a list of officers recommended for promotion by a selection board convened under this chapter.
 
@@ -129,7 +208,7 @@
   * (2) shall, unless the officer has been promoted, discharge any officer described in paragraph (1)(B) at the end of the 18-month period beginning on the date on which the officer is first found not qualified for promotion.
 
 ### §631. Effect of failure of selection for promotion: first lieutenants and lieutenants (junior grade)
-* (a) Except an officer of the Navy and Marine Corps who is an officer designated for limited duty (to whom section 8146(e) or 8372 of this title applies), each officer of the Army, Air Force, or Marine Corps on the active-duty list who holds the grade of first lieutenant and has failed of selection for promotion to the grade of captain for the second time, and each officer of the Navy on the active-duty list who holds the grade of lieutenant (junior grade) and has failed of selection for promotion to the grade of lieutenant for the second time, whose name is not on a list of officers recommended for promotion to the next higher grade shall—
+* (a) Except an officer of the Navy and Marine Corps who is an officer designated for limited duty (to whom section 8146(e) or 8372 of this title applies), each officer of the Army, Air Force, Marine Corps, or Space Force on the active-duty list who holds the grade of first lieutenant and has failed of selection for promotion to the grade of captain for the second time, and each officer of the Navy on the active-duty list who holds the grade of lieutenant (junior grade) and has failed of selection for promotion to the grade of lieutenant for the second time, whose name is not on a list of officers recommended for promotion to the next higher grade shall—
 
   * (1) be discharged on the date requested by him and approved by the Secretary of the military department concerned, which date shall be not later than the first day of the seventh calendar month beginning after the month in which the President approves the report of the board which considered him for the second time;
 
@@ -142,10 +221,10 @@
 
 * (c) An officer who is subject to discharge under subsection (a)(1) is not eligible for further consideration for promotion.
 
-* (d) For the purposes of this chapter, an officer of the Army, Air Force, or Marine Corps who holds the grade of first lieutenant, and an officer of the Navy who holds the grade of lieutenant (junior grade), shall be treated as having failed of selection for promotion if the Secretary of the military department concerned determines that the officer would be eligible for consideration for promotion to the next higher grade by a selection board convened under section 611(a) of this title if such a board were convened but is not fully qualified for promotion when recommending for promotion under section 624(a)(3) of this title all fully qualified officers of the officer's armed force in such grade who would be eligible for such consideration.
+* (d) For the purposes of this chapter, an officer of the Army, Air Force, Marine Corps, or Space Force who holds the grade of first lieutenant, and an officer of the Navy who holds the grade of lieutenant (junior grade), shall be treated as having failed of selection for promotion if the Secretary of the military department concerned determines that the officer would be eligible for consideration for promotion to the next higher grade by a selection board convened under section 611(a) of this title if such a board were convened but is not fully qualified for promotion when recommending for promotion under section 624(a)(3) of this title all fully qualified officers of the officer's armed force in such grade who would be eligible for such consideration.
 
 ### §632. Effect of failure of selection for promotion: captains and majors of the Army, Air Force, and Marine Corps and lieutenants and lieutenant commanders of the Navy
-* (a) Except an officer of the Navy and Marine Corps who is an officer designated for limited duty (to whom section 8146(e) or 8372 of this title applies) and except as provided under section 637(a) of this title, each officer of the Army, Air Force, or Marine Corps on the active-duty list who holds the grade of captain or major, and each officer of the Navy on the active-duty list who holds the grade of lieutenant or lieutenant commander, who has failed of selection for promotion to the next higher grade for the second time and whose name is not on a list of officers recommended for promotion to the next higher grade shall—
+* (a) Except an officer of the Navy and Marine Corps who is an officer designated for limited duty (to whom section 8146(e) or 8372 of this title applies) and except as provided under section 637(a) of this title, each officer of the Army, Air Force, Marine Corps, or Space Force on the active-duty list who holds the grade of captain or major, and each officer of the Navy on the active-duty list who holds the grade of lieutenant or lieutenant commander, who has failed of selection for promotion to the next higher grade for the second time and whose name is not on a list of officers recommended for promotion to the next higher grade shall—
 
   * (1) except as provided in paragraph (3) and in subsection (c), be discharged on the date requested by him and approved by the Secretary concerned, which date shall be not later than the first day of the seventh calendar month beginning after the month in which the President approves the report of the board which considered him for the second time;
 
@@ -163,7 +242,7 @@
 * (3) This subsection applies to a medical officer or dental officer or an officer appointed in a medical skill other than as a medical officer or dental officer (as defined in regulations prescribed by the Secretary of Defense).
 
 ### §633. Retirement for years of service: regular lieutenant colonels and commanders
-* (a) 28 YEARS OF ACTIVE COMMISSIONED SERVICE.—Except as provided in subsection (b) and as provided under section 637(b) or 637a of this title, each officer of the Regular Army, Regular Air Force, or Regular Marine Corps who holds the regular grade of lieutenant colonel, and each officer of the Regular Navy who holds the regular grade of commander, who is not on a list of officers recommended for promotion to the regular grade of colonel or captain, respectively, shall, if not earlier retired, be retired on the first day of the month after the month in which he completes 28 years of active commissioned service.
+* (a) 28 YEARS OF ACTIVE COMMISSIONED SERVICE.—Except as provided in subsection (b) and as provided under section 637(b) or 637a of this title, each officer of the Regular Army, Regular Air Force, Regular Marine Corps, or Regular Space Force who holds the regular grade of lieutenant colonel, and each officer of the Regular Navy who holds the regular grade of commander, who is not on a list of officers recommended for promotion to the regular grade of colonel or captain, respectively, shall, if not earlier retired, be retired on the first day of the month after the month in which he completes 28 years of active commissioned service.
 
 * (b) EXCEPTIONS.—Subsection (a) does not apply to the following:
 
@@ -172,7 +251,7 @@
   * (2) An officer of the Navy or Marine Corps who is a permanent professor at the United States Naval Academy.
 
 ### §634. Retirement for years of service: regular colonels and Navy captains
-* (a) 30 YEARS OF ACTIVE COMMISSIONED SERVICE.—Except as provided in subsection (b) and as provided under section 637(b) or 637a of this title, each officer of the Regular Army, Regular Air Force, or Regular Marine Corps who holds the regular grade of colonel, and each officer of the Regular Navy who holds the regular grade of captain, who is not on a list of officers recommended for promotion to the regular grade of brigadier general or rear admiral (lower half), respectively, shall, if not earlier retired, be retired on the first day of the month after the month in which he completes 30 years of active commissioned service.
+* (a) 30 YEARS OF ACTIVE COMMISSIONED SERVICE.—Except as provided in subsection (b) and as provided under section 637(b) or 637a of this title, each officer of the Regular Army, Regular Air Force, Regular Marine Corps, or Regular Space Force who holds the regular grade of colonel, and each officer of the Regular Navy who holds the regular grade of captain, who is not on a list of officers recommended for promotion to the regular grade of brigadier general or rear admiral (lower half), respectively, shall, if not earlier retired, be retired on the first day of the month after the month in which he completes 30 years of active commissioned service.
 
 * (b) EXCEPTIONS.—Subsection (a) does not apply to the following:
 
@@ -181,10 +260,10 @@
   * (2) An officer of the Navy or Marine Corps who is a permanent professor at the United States Naval Academy.
 
 ### §635. Retirement for years of service: regular brigadier generals and rear admirals (lower half)
-* Except as provided under section 637(b) or 637a of this title, each officer of the Regular Army, Regular Air Force, or Regular Marine Corps who holds the regular grade of brigadier general, and each officer of the Regular Navy who holds the regular grade of rear admiral (lower half), who is not on a list of officers recommended for promotion to the regular grade of major general or rear admiral, respectively, shall, if not earlier retired, be retired on the first day of the first month beginning after the date of the fifth anniversary of his appointment to that grade or on the first day of the month after the month in which he completes 30 years of active commissioned service, whichever is later.
+* Except as provided under section 637(b) or 637a of this title, each officer of the Regular Army, Regular Air Force, Regular Marine Corps, or Regular Space Force who holds the regular grade of brigadier general, and each officer of the Regular Navy who holds the regular grade of rear admiral (lower half), who is not on a list of officers recommended for promotion to the regular grade of major general or rear admiral, respectively, shall, if not earlier retired, be retired on the first day of the first month beginning after the date of the fifth anniversary of his appointment to that grade or on the first day of the month after the month in which he completes 30 years of active commissioned service, whichever is later.
 
 ### §636. Retirement for years of service: regular officers in grades above brigadier general and rear admiral (lower half)
-* (a) MAJOR GENERALS AND REAR ADMIRALS SERVING IN GRADE.—Except as provided in subsection (b) or (c) and under section 637(b) or 637a of this title, each officer of the Regular Army, Regular Air Force, or Regular Marine Corps who holds the regular grade of major general, and each officer of the Regular Navy who holds the regular grade of rear admiral, shall, if not earlier retired, be retired on the first day of the first month beginning after the date of the fifth anniversary of his appointment to that grade or on the first day of the month after the month in which he completes 35 years of active commissioned service, whichever is later.
+* (a) MAJOR GENERALS AND REAR ADMIRALS SERVING IN GRADE.—Except as provided in subsection (b) or (c) and under section 637(b) or 637a of this title, each officer of the Regular Army, Regular Air Force, Regular Marine Corps, or Regular Space Force who holds the regular grade of major general, and each officer of the Regular Navy who holds the regular grade of rear admiral, shall, if not earlier retired, be retired on the first day of the first month beginning after the date of the fifth anniversary of his appointment to that grade or on the first day of the month after the month in which he completes 35 years of active commissioned service, whichever is later.
 
 * (b) LIEUTENANT GENERALS AND VICE ADMIRALS.—In the administration of subsection (a) in the case of an officer who is serving in the grade of lieutenant general or vice admiral, the number of years of active commissioned service applicable to the officer is 38 years.
 

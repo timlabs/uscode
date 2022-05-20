@@ -140,9 +140,11 @@
 
     * (ii) an offense against property under this title, or under section 416(a) of the Controlled Substances Act (21 U.S.C. 856(a)), including any offense committed by fraud or deceit;
 
-    * (iii) an offense described in section 1365 (relating to tampering with consumer products); or
+    * (iii) an offense described in section 3 of the Rodchenkov Anti-Doping Act of 2019;
 
-    * (iv) an offense under section 670 (relating to theft of medical products); and
+    * (iv) an offense described in section 1365 (relating to tampering with consumer products); or
+
+    * (v) an offense under section 670 (relating to theft of medical products); and
 
 
   * (B) in which an identifiable victim or victims has suffered a physical injury or pecuniary loss.
@@ -150,7 +152,7 @@
 
 * (2) In the case of a plea agreement that does not result in a conviction for an offense described in paragraph (1), this section shall apply only if the plea specifically states that an offense listed under such paragraph gave rise to the plea agreement.
 
-* (3) This section shall not apply in the case of an offense described in paragraph (1)(A)(ii) if the court finds, from facts on the record, that—
+* (3) This section shall not apply in the case of an offense described in paragraph (1)(A)(ii) or (iii) if the court finds, from facts on the record, that—
 
   * (A) the number of identifiable victims is so large as to make restitution impracticable; or
 

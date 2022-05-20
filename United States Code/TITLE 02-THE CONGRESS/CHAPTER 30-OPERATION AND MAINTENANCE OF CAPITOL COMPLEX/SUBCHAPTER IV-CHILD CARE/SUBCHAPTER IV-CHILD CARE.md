@@ -62,9 +62,11 @@
 
 * (3) The House of Representatives shall make payments from amounts provided in appropriations acts for salaries and expenses of the Office of the Chief Administrative Officer for the following activities carried out under this section:
 
-  * (A) The payment of the salary of the director of the center.
+  * (A) The payment of the salary of the director of the center, and, at the option of the Chief Administrative Officer during an emergency situation, the payment of the salary of other employees of the Center.
 
   * (B) The reimbursement of individuals employed by the center for the cost of training classes and conferences in connection with the provision of child care services, together with the cost of travel (including transportation and subsistence) incurred in connection with such classes and conferences.
+
+  * (C) During an emergency situation, the payment of such other expenses for activities carried out under this section as the Chief Administrative Officer determines appropriate.
 
 
 * (4) In the case of a child of an employee of the center who is furnished care at the center, the Chief Administrative Officer shall reduce the amount of tuition otherwise charged with respect to such child during a month by the greater of—

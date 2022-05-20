@@ -247,3 +247,31 @@
 
 ### §13343. Authorization of appropriations
 * There are authorized to be appropriated to the Secretary for carrying out this part $278,139,000 for fiscal year 1993 and such sums as may be necessary for fiscal years 1994 through 1997.
+
+### §13344. Rare earth elements
+#### (a) Research program
+* #### (1) In general
+  * The Secretary of Energy, acting through the Assistant Secretary for Fossil Energy (referred to in this section as the "Secretary"), shall conduct a program of research and development—
+
+    * (A) to develop and assess advanced separation technologies for the extraction and recovery of rare earth elements and other critical materials from coal and coal byproducts; and
+
+    * (B) to determine if there are, and mitigate, any potential environmental or public health impacts that could arise from the recovery of rare earth elements from coal-based resources.
+
+* #### (2) Authorization of appropriations
+  * There is authorized to be appropriated to the Secretary to carry out the program described in paragraph (1)—
+
+    * (A) $23,000,000 for each of fiscal years 2021 and 2022;
+
+    * (B) $24,200,000 for fiscal year 2023;
+
+    * (C) $25,400,000 for fiscal year 2024;
+
+    * (D) $26,600,000 for fiscal year 2025; and
+
+    * (E) $27,800,000 for fiscal year 2026.
+
+#### (b) Report
+* Not later than 1 year after December 27, 2020, the Secretary shall submit to the Committee on Energy and Natural Resources of the Senate and the Committees on Science, Space, and Technology and Energy and Commerce of the House of Representatives a report evaluating the development of advanced separation technologies for the extraction and recovery of rare earth elements and other critical materials from coal and coal byproducts, including acid mine drainage from coal mines.
+
+#### (c) Critical material
+* In this section, the term "critical material" has the meaning given the term in section 1606 of title 30.

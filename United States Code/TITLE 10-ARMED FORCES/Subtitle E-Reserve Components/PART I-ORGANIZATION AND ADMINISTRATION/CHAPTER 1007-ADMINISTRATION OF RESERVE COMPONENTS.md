@@ -372,6 +372,3 @@
   * (1) provides training and assistance under subsections (b), (c), and (d); and
 
   * (2) implements subsection (e).
-
-
-* (h) TERMINATION.—The program under this section shall terminate on October 1, 2025.

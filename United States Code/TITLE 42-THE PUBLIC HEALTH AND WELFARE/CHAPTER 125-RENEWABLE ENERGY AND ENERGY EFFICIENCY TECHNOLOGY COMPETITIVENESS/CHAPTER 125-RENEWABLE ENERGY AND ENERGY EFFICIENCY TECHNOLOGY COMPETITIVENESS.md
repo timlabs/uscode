@@ -55,55 +55,11 @@
 
   * (6) the term "United States" means the several States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and any other Commonwealth, territory, or possession of the United States.
 
-### §12003. National goals and multi-year funding for Federal wind, photovoltaics, and solar thermal programs
+### §12003. National goals and multi-year funding for Federal alcohol from biomass and other technology programs
 #### (a) National goals
-* The following are declared to be the national goals for the wind, photovoltaics, and solar thermal energy programs being carried out by the Secretary:
+* The following are declared to be the national goals for the alcohol from biomass and other energy technology programs being carried out by the Secretary:
 
-* #### (1) Wind
-  * (A) In general, the goals for the Wind Energy Research Program include improving design methodologies and developing more reliable and efficient wind turbines to increase the cost competitiveness of wind energy. Research efforts shall emphasize—
-
-    * (i) activities that address near-term technical problems and assist private sector exploitation of market opportunities of the wind energy industry;
-
-    * (ii) developing technologies such as advanced airfoils and variable speed generators to increase wind turbine output and reduce maintenance costs by decreasing structural stress and fatigue;
-
-    * (iii) increasing the basic knowledge of aerodynamics, structural dynamics, fatigue, and electrical systems interactions as applied to wind energy technology; and
-
-    * (iv) improving the compatibility of electricity produced from wind farms with conventional utility needs.
-
-
-  * (B) Specific goals for the Wind Energy Research Program shall be to—
-
-    * (i) reduce average wind energy costs to 3 to 5 cents per kilowatt hour by 1995;
-
-    * (ii) reduce capital costs of new wind energy systems to $500 to $750 per kilowatt of installed capacity by 1995;
-
-    * (iii) reduce operation and maintenance costs for wind energy systems to less than one cent per kilowatt hour by 1995; and
-
-    * (iv) increase capacity factors for new wind energy systems to 25 to 35 percent by 1995.
-
-* #### (2) Photovoltaics
-  * (A) In general, the goals of the Photovoltaic Energy Systems Program shall include improving the reliability and conversion efficiencies of and lowering the costs of photovoltaic conversion. Research efforts shall emphasize advancements in the performance, stability, and durability of photovoltaic materials.
-
-  * (B) Specific goals of the Photovoltaic Energy Systems Program shall be to—
-
-    * (i) improve operational reliability of photovoltaic modules to 30 years by 1995;
-
-    * (ii) increase photovoltaic conversion efficiencies by 20 percent by 1995;
-
-    * (iii) decrease new photovoltaic module direct manufacturing costs to $800 per kilowatt by 1995; and
-
-    * (iv) increase cost efficiency of photovoltaic power production to 10 cents per kilowatt hour by 1995.
-
-* #### (3) Solar thermal
-  * (A) In general, the goal of the Solar Thermal Energy Systems Program shall be to advance research and development to a point where solar thermal technology is cost-competitive with conventional energy sources, and to promote the integration of this technology into the production of industrial process heat and the conventional utility network. Research and development shall emphasize development of a thermal storage technology to provide capacity for shifting power to periods of demand when full insolation is not available; improvement in receivers, energy conversion devices, and innovative concentrators using stretch membranes, lenses, and other materials; and exploration of advanced manufacturing techniques.
-
-  * (B) Specific goals of the Solar Thermal Energy Systems Program shall be to—
-
-    * (i) reduce solar thermal costs for industrial process heat to $9.00 per million Btu by 1995; and
-
-    * (ii) reduce average solar thermal costs for electricity to 4 to 5 cents per kilowatt hour by 1995.
-
-* #### (4) Alcohol from biomass
+* #### (1) Alcohol from biomass
   * (A) In general, the goal of the Alcohol From Biomass Program shall be to advance research and development to a point where alcohol from biomass technology is cost-competitive with conventional hydrocarbon transportation fuels, and to promote the integration of this technology into the transportation fuel sector of the economy.
 
   * (B)(i) Specific goals for producing ethanol from biomass shall be to—
@@ -123,31 +79,27 @@
 
     * (II) reduce the capital component of the cost of alcohol to 16 cents per gallon.
 
-* #### (5) Other technologies
-  * The Secretary shall submit to the Congress, as part of the first report submitted under section 12006 of this title, recommendations for specific cost goals and other pertinent goals for 1995 for Department of Energy research, development, and demonstration programs in Biofuels Energy Systems, Biodiesel Energy Systems, Hydrogen Energy Systems, Solar Buildings Energy Systems, Ocean Energy Systems, Geothermal Energy Systems, Low-Head Hydro, and Energy Storage Systems.
+* #### (2) Other technologies
+  * The Secretary shall submit to the Congress, as part of the first report submitted under section 12006 of this title, recommendations for specific cost goals and other pertinent goals for 1995 for Department of Energy research, development, and demonstration programs in Biofuels Energy Systems, Biodiesel Energy Systems, Hydrogen Energy Systems, Solar Buildings Energy Systems, Marine Energy Systems, Geothermal Energy Systems, Low-Head Hydro, and Energy Storage Systems.
 
 #### (b) Amended goals
 * Whenever the Secretary determines that any of the goals established under this section is no longer appropriate, the Secretary shall notify Congress, as part of a report submitted under section 12006 of this title, of the reason for the determination and provide an amended goal that is consistent with the purpose stated in section 12001(b) of this title.
 
 #### (c) Authorizations
-* There are authorized to be appropriated to the Secretary for the following renewable energy research, development, and demonstration programs: the Wind Energy Research Program, the Photovoltaic Energy Systems Program, the Solar Thermal Energy Systems Program, the Biofuels Energy Systems Program, the Hydrogen Energy Systems Program, the Solar Buildings Energy Systems Program, the Ocean Energy Systems Program, and the Geothermal Energy Systems Program—
+* There are authorized to be appropriated to the Secretary for the following renewable energy research, development, and demonstration programs: the Biofuels Energy Systems Program, the Hydrogen Energy Systems Program, the Solar Buildings Energy Systems Program, the Marine Energy Systems Program, and the Geothermal Energy Systems Program—
 
   * (1) not to exceed $113,000,000 for fiscal year 1991, of which—
 
-    * (A) not to exceed $39,000,000 shall be available for the Photovoltaic Energy Systems Program;
+    * (A) not to exceed $19,000,000 shall be available for the Geothermal Energy Systems Program; and
 
-    * (B) not to exceed $19,000,000 shall be available for the Geothermal Energy Systems Program; and
-
-    * (C) not to exceed $4,000,000 shall be available for the Hydrogen Energy Systems Program; and
+    * (B) not to exceed $4,000,000 shall be available for the Hydrogen Energy Systems Program; and
 
 
   * (2) not to exceed $121,000,000 for fiscal year 1992, of which—
 
-    * (A) not to exceed $40,000,000 shall be available for the Photovoltaic Energy Systems Program;
+    * (A) not to exceed $20,500,000 shall be available for the Geothermal Energy Systems Program; and
 
-    * (B) not to exceed $20,500,000 shall be available for the Geothermal Energy Systems Program; and
-
-    * (C) not to exceed $5,000,000 shall be available for the Hydrogen Energy Systems Program.
+    * (B) not to exceed $5,000,000 shall be available for the Hydrogen Energy Systems Program.
 
 
 * Each of the President's annual budget requests submitted to Congress after December 11, 1989, shall include as separate line items each of the categories of renewable energy programs described in this subsection.
@@ -318,7 +270,7 @@
 * (6) Within one year after October 24, 1992, the Secretary shall submit a revised management plan under this section to Congress. Thereafter, the Secretary shall submit a management plan every three years at the time of submittal of the President's annual budget submission to the Congress.
 
 #### (c) Report on options
-* As part of the first report submitted under subsection (a), the Secretary shall submit to Congress a report analyzing options available to the Secretary under existing law to assist the private sector with the timely commercialization of wind, photovoltaic, solar thermal, biofuels, hydrogen, solar buildings, ocean, geothermal, low-head hydro, and energy storage renewable energy technologies and energy efficiency technologies through emphasis on development and demonstration assistance to specific technologies in the research, development, and demonstration programs of the Department of Energy that are near commercial application.
+* As part of the first report submitted under subsection (a), the Secretary shall submit to Congress a report analyzing options available to the Secretary under existing law to assist the private sector with the timely commercialization of wind, photovoltaic, solar thermal, biofuels, hydrogen, solar buildings, marine, geothermal, low-head hydro, and energy storage renewable energy technologies and energy efficiency technologies through emphasis on development and demonstration assistance to specific technologies in the research, development, and demonstration programs of the Department of Energy that are near commercial application.
 
 ### §12007. No antitrust immunity or defenses
 * Nothing in this chapter shall be deemed to convey to any person, partnership, corporation, or other entity immunity from civil or criminal liability under any antitrust law or to create defenses to actions under any antitrust law. As used in this section, "antitrust laws" means those Acts set forth in section 12 of title 15.

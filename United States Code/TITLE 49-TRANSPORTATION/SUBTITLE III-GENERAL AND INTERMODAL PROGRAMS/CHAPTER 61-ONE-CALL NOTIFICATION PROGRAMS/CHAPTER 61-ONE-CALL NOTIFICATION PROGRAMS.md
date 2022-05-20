@@ -135,7 +135,7 @@
 * (c) FUNDING FOR ONE-CALL NOTIFICATION SYSTEMS.—A State may provide funds received under this section directly to any one-call notification system in such State that substantially adopts the best practices identified under section 6105.
 
 ### §6107. Funding
-* Of the amounts made available under section 60125(a)(1), the Secretary shall expend $1,058,000 for each of fiscal years 2016 through 2019 to carry out section 6106.
+* Of the amounts made available under section 60125(a)(1), the Secretary shall expend $1,058,000 for each of fiscal years 2021 through 2023 to carry out section 6106.
 
 ### §6108. Relationship to State laws
 * Nothing in this chapter preempts State law or shall impose a new requirement on any State or mandate revisions to a one-call system.

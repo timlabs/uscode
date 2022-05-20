@@ -209,7 +209,7 @@
       * (iii) has less than 5 years of creditable civilian service under section 8411; and
 
 
-    * (B) after December 31, 2012, and before January 1, 2014, becomes employed as an employee or becomes a Member covered under this chapter performing service which is creditable service under section 8411; and
+    * (B) after December 31, 2012, and before January 1, 2014, becomes employed as an employee or becomes a Member covered under this chapter performing service which is creditable service under section 8411;
 
 
   * (38) the term "further revised annuity employee" means any individual who—
@@ -223,7 +223,10 @@
       * (iii) has less than 5 years of creditable civilian service under section 8411; and
 
 
-    * (B) after December 31, 2013, becomes employed as an employee or becomes a Member covered under this chapter performing service which is creditable service under section 8411.
+    * (B) after December 31, 2013, becomes employed as an employee or becomes a Member covered under this chapter performing service which is creditable service under section 8411; and
+
+
+  * (39) "representative payee" means a person (including an organization) designated under section 8466(c)(1) to receive payments on behalf of a minor or an individual mentally incompetent or under other legal disability.
 
 ### §8402. Federal Employees' Retirement System; exclusions
 * (a) The provisions of this chapter comprise the Federal Employees' Retirement System.

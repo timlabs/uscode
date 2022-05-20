@@ -439,7 +439,7 @@
   * (C) the use of standard classifications.
 
 ### §1115. Federal Government and agency performance plans
-* (a) FEDERAL GOVERNMENT PERFORMANCE PLANS.—In carrying out the provisions of section 1105(a)(28), the Director of the Office of Management and Budget shall coordinate with agencies to develop the Federal Government performance plan. In addition to the submission of such plan with each budget of the United States Government, the Director of the Office of Management and Budget shall ensure that all information required by this subsection is concurrently made available on the website provided under section 1122 and updated periodically, but no less than annually. The Federal Government performance plan shall—
+* (a) FEDERAL GOVERNMENT PERFORMANCE PLANS.—In carrying out the provisions of section 1105(a)(28), the Director of the Office of Management and Budget shall coordinate with agencies to develop the Federal Government performance plan. In addition to the submission of such plan with each budget of the United States Government, the Director of the Office of Management and Budget shall ensure that all information required by this subsection is concurrently made available on a website described in section 1122 and updated periodically, but no less than annually. The Federal Government performance plan shall—
 
   * (1) establish Federal Government performance goals to define the level of performance to be achieved during the year in which the plan is submitted and the next fiscal year for each of the Federal Government priority goals required under section 1120(a) of this title;
 
@@ -722,7 +722,7 @@
 
   * (4) The Director of the Office of Management and Budget shall consult with the appropriate committees of Congress at least once every 2 years.
 
-  * (5) The Director of the Office of Management and Budget shall make information about the Federal Government priority goals available on the website described under section 1122 of this title.
+  * (5) The Director of the Office of Management and Budget shall make information about the Federal Government priority goals available on a website described in section 1122 of this title.
 
   * (6) The Federal Government performance plan required under section 1115(a) of this title shall be consistent with the Federal Government priority goals.
 
@@ -776,25 +776,89 @@
 ### §1122. Transparency of programs, priority goals, and results
 * (a) TRANSPARENCY OF AGENCY PROGRAMS.—
 
-  * (1) IN GENERAL.—Not later than October 1, 2012, the Office of Management and Budget shall—
+  * (1) Definitions.—For purposes of this subsection—
 
-    * (A) ensure the effective operation of a single website;
+    * (A) the term "Federal financial assistance" has the meaning given that term under section 7501;
 
-    * (B) at a minimum, update the website on a quarterly basis; and
+    * (B) the term "open Government data asset" has the meaning given that term under section 3502 of title 44;
 
-    * (C) include on the website information about each program identified by the agencies.
+    * (C) the term "program" means a single program activity or an organized set of aggregated, disaggregated, or consolidated program activities by one or more agencies directed toward a common purpose or goal; and
+
+    * (D) the term "program activity" has the meaning given that term in section 1115(h).
 
 
-  * (2) INFORMATION.—Information for each program described under paragraph (1) shall include—
+  * (2) WEBSITE AND PROGRAM INVENTORY.—The Director of the Office of Management and Budget shall—
+
+    * (A) ensure the effective operation of a single website that includes the information required under subsections (b) and (c);
+
+    * (B) include on the website described in subparagraph (A), or another appropriate Federal Government website where related information is made available, as determined by the Director—
+
+      * (i) a program inventory that shall identify each program; and
+
+      * (ii) for each program identified in the program inventory, the information required under paragraph (3);
+
+
+    * (C) make the information in the program inventory required under subparagraph (B) available as an open Government data asset; and
+
+    * (D) at a minimum—
+
+      * (i) update the information required to be included on the single website under subparagraph (A) on a quarterly basis; and
+
+      * (ii) update the program inventory required under subparagraph (B) on an annual basis.
+
+
+  * (3) INFORMATION.—Information for each program identified in the program inventory required under paragraph (2)(B) shall include—
 
     * (A) an identification of how the agency defines the term "program", consistent with guidance provided by the Director of the Office of Management and Budget, including the program activities that are aggregated, disaggregated, or consolidated to be considered a program by the agency;
 
-    * (B) a description of the purposes of the program and the contribution of the program to the mission and goals of the agency; and
+    * (B) a description of the purposes of the program and the contribution of the program to the mission and goals of the agency;
 
-    * (C) an identification of funding for the current fiscal year and previous 2 fiscal years.
+    * (C) an identification of funding for the current fiscal year and previous 2 fiscal years and,
+
+    * (D) for each program activity that is part of a program—
+
+      * (i) a description of the purposes of the program activity and the contribution of the program activity to the mission and goals of the agency;
+
+      * (ii) a consolidated view for the current fiscal year and each of the 2 fiscal years before the current fiscal year of—
+
+        * (I) the amount appropriated;
+
+        * (II) the amount obligated; and
+
+        * (III) the amount outlayed;
 
 
-* (b) TRANSPARENCY OF AGENCY PRIORITY GOALS AND RESULTS.—The head of each agency required to develop agency priority goals shall make information about each agency priority goal available to the Office of Management and Budget for publication on the website, with the exception of any information covered by section 1120(b)(2) of this title. In addition to an identification of each agency priority goal, the website shall also consolidate information about each agency priority goal, including—
+      * (iii) to the extent practicable and permitted by law, links to any related evaluation, assessment, or program performance review by the agency, an inspector general, or the Government Accountability Office (including program performance reports required under section 1116), and other related evidence assembled in response to implementation of the Foundations for Evidence-Based Policymaking Act of 2018 (Public Law 115–435; 132 Stat. 5529);
+
+      * (iv) an identification of the statutes that authorize the program activity or the authority under which the program activity was created or operates;
+
+      * (v) an identification of any major regulations specific to the program activity;
+
+      * (vi) any other information that the Director of the Office of Management and Budget determines relevant relating to program activity data in priority areas most relevant to Congress or the public to increase transparency and accountability; and
+
+      * (vii) for each assistance listing under which Federal financial assistance is provided, for the current fiscal year and each of the 2 fiscal years before the current fiscal year and consistent with existing law relating to the protection of personally identifiable information—
+
+        * (I) a linkage to the relevant program activities that fund Federal financial assistance by assistance listing;
+
+        * (II) information on the population intended to be served by the assistance listing based on the language of the solicitation, as required under section 6102;
+
+        * (III) to the extent practicable and based on data reported to the agency providing the Federal financial assistance, the results of the Federal financial assistance awards provided by the assistance listing;
+
+        * (IV) to the extent practicable, the percentage of the amount appropriated for the assistance listing that is used for management and administration;
+
+        * (V) the identification of each award of Federal financial assistance and, to the extent practicable, the name of each direct or indirect recipient of the award; and
+
+        * (VI) any information relating to the award of Federal financial assistance that is required to be included on the website established under section 2(b) of the Federal Funding Accountability and Transparency Act of 2006 (31 U.S.C. 6101 note).
+
+
+  * (4) ARCHIVING.—The Director of the Office of Management and Budget shall—
+
+    * (A) archive and preserve the information included in the program inventory required under paragraph (2)(B) after the end of the period during which such information is made available under paragraph (3); and
+
+    * (B) make information archived in accordance with subparagraph (A) publicly available as an open Government data asset.
+
+
+* (b) TRANSPARENCY OF AGENCY PRIORITY GOALS AND RESULTS.—The head of each agency required to develop agency priority goals shall make information about each agency priority goal available to the Office of Management and Budget for publication on the website described in subsection (a)(2)(A), with the exception of any information covered by section 1120(b)(2) of this title. In addition to an identification of each agency priority goal, the website described in subsection (a)(2)(A) shall also consolidate information about each agency priority goal, including—
 
   * (1) a description of how the agency incorporated any views and suggestions obtained through congressional consultations about the agency priority goal;
 
@@ -837,7 +901,7 @@
   * (9) any prospects or strategies for performance improvement.
 
 
-* (c) TRANSPARENCY OF FEDERAL GOVERNMENT PRIORITY GOALS AND RESULTS.—The Director of the Office of Management and Budget shall also make available on the website—
+* (c) TRANSPARENCY OF FEDERAL GOVERNMENT PRIORITY GOALS AND RESULTS.—The Director of the Office of Management and Budget shall also make available on the website described in subsection (a)(2)(A)—
 
   * (1) a brief description of each of the Federal Government priority goals required by section 1120(a) of this title;
 
@@ -858,7 +922,7 @@
   * (9) any prospects or strategies for performance improvement.
 
 
-* (d) INFORMATION ON WEBSITE.—The information made available on the website under this section shall be readily accessible and easily found on the Internet by the public and members and committees of Congress. Such information shall also be presented in a searchable, machine-readable format. The Director of the Office of Management and Budget shall issue guidance to ensure that such information is provided in a way that presents a coherent picture of all Federal programs, and the performance of the Federal Government as well as individual agencies.
+* (d) INFORMATION.—The information made available under this section shall be readily accessible and easily found on the Internet by the public and members and committees of Congress. Such information shall also be presented in a searchable, machine-readable format. The Director of the Office of Management and Budget shall issue guidance to ensure that such information is provided in a way that presents a coherent picture of all Federal programs, and the performance of the Federal Government as well as individual agencies.
 
 ### §1123. Chief Operating Officers
 * (a) ESTABLISHMENT.—At each agency, the deputy head of agency, or equivalent, shall be the Chief Operating Officer of the agency.
@@ -959,7 +1023,7 @@
 ### §1126. Program Management Improvement Officers and Program Management Policy Council
 * (a) PROGRAM MANAGEMENT IMPROVEMENT OFFICERS.—
 
-  * (1) DESIGNATION.—The head of each agency described in section 901(b) shall designate a senior executive of the agency as the Program Management Improvement Officer of the agency.
+  * (1) DESIGNATION.—The head of each agency described in section 901(b) shall designate a senior executive of the agency, who has significant program and project management oversight responsibilities, as the Program Management Improvement Officer of the agency.
 
   * (2) FUNCTIONS.—The Program Management Improvement Officer of an agency designated under paragraph (1) shall—
 
@@ -1009,7 +1073,7 @@
 
     * (D) advise on the development and applicability of standards governmentwide for program management transparency; and
 
-    * (E) review the information published on the website of the Office of Management and Budget pursuant to section 1122.
+    * (E) review the information published on a website described in section 1122.
 
 
   * (3) MEMBERSHIP.—
@@ -1041,6 +1105,6 @@
       * (ii) DUTIES.—The Chairperson shall preside at the meetings of the Council, determine the agenda of the Council, direct the work of the Council, and establish and direct subgroups of the Council as appropriate.
 
 
-  * (4) MEETINGS.—The Council shall meet not less than twice per fiscal year and may meet at the call of the Chairperson or a majority of the members of the Council.
+  * (4) MEETINGS.—The Council shall meet not less than four times per fiscal year and may meet at the call of the Chairperson or a majority of the members of the Council.
 
   * (5) SUPPORT.—The head of each agency with a Project Management Improvement Officer serving on the Council shall provide administrative support to the Council, as appropriate, at the request of the Chairperson.

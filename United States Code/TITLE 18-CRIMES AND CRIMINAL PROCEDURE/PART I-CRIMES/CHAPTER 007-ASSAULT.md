@@ -139,7 +139,16 @@
 * (d) This section shall not interfere with the investigative authority of the United States Secret Service, as provided under sections 3056, 871, and 879 of this title.
 
 ### §116. Female genital mutilation
-* (a) Except as provided in subsection (b), whoever knowingly circumcises, excises, or infibulates the whole or any part of the labia majora or labia minora or clitoris of another person who has not attained the age of 18 years shall be fined under this title or imprisoned not more than 5 years, or both.
+* (a) Except as provided in subsection (b), whoever, in any circumstance described in subsection (d), knowingly—
+
+  * (1) performs, attempts to perform, or conspires to perform female genital mutilation on another person who has not attained the age of 18 years;
+
+  * (2) being the parent, guardian, or caretaker of a person who has not attained the age of 18 years facilitates or consents to the female genital mutilation of such person; or
+
+  * (3) transports a person who has not attained the age of 18 years for the purpose of the performance of female genital mutilation on such person,
+
+
+* shall be fined under this title, imprisoned not more than 10 years, or both.
 
 * (b) A surgical operation is not a violation of this section if the operation is—
 
@@ -148,9 +157,34 @@
   * (2) performed on a person in labor or who has just given birth and is performed for medical purposes connected with that labor or birth by a person licensed in the place it is performed as a medical practitioner, midwife, or person in training to become such a practitioner or midwife.
 
 
-* (c) In applying subsection (b)(1), no account shall be taken of the effect on the person on whom the operation is to be performed of any belief on the part of that person, or any other person, that the operation is required as a matter of custom or ritual.
+* (c) It shall not be a defense to a prosecution under this section that female genital mutilation is required as a matter of religion, custom, tradition, ritual, or standard practice.
 
-* (d) Whoever knowingly transports from the United States and its territories a person in foreign commerce for the purpose of conduct with regard to that person that would be a violation of subsection (a) if the conduct occurred within the United States, or attempts to do so, shall be fined under this title or imprisoned not more than 5 years, or both.
+* (d) For the purposes of subsection (a), the circumstances described in this subsection are that—
+
+  * (1) the defendant or victim traveled in interstate or foreign commerce, or traveled using a means, channel, facility, or instrumentality of interstate or foreign commerce, in furtherance of or in connection with the conduct described in subsection (a);
+
+  * (2) the defendant used a means, channel, facility, or instrumentality of interstate or foreign commerce in furtherance of or in connection with the conduct described in subsection (a);
+
+  * (3) any payment of any kind was made, directly or indirectly, in furtherance of or in connection with the conduct described in subsection (a) using any means, channel, facility, or instrumentality of interstate or foreign commerce or in or affecting interstate or foreign commerce;
+
+  * (4) the defendant transmitted in interstate or foreign commerce any communication relating to or in furtherance of the conduct described in subsection (a) using any means, channel, facility, or instrumentality of interstate or foreign commerce or in or affecting interstate or foreign commerce by any means or in manner, including by computer, mail, wire, or electromagnetic transmission;
+
+  * (5) any instrument, item, substance, or other object that has traveled in interstate or foreign commerce was used to perform the conduct described in subsection (a);
+
+  * (6) the conduct described in subsection (a) occurred within the special maritime and territorial jurisdiction of the United States, or any territory or possession of the United States; or
+
+  * (7) the conduct described in subsection (a) otherwise occurred in or affected interstate or foreign commerce.
+
+
+* (e) For purposes of this section, the term "female genital mutilation" means any procedure performed for non-medical reasons that involves partial or total removal of, or other injury to, the external female genitalia, and includes—
+
+  * (1) a clitoridectomy or the partial or total removal of the clitoris or the prepuce or clitoral hood;
+
+  * (2) excision or the partial or total removal (with or without excision of the clitoris) of the labia minora or the labia majora, or both;
+
+  * (3) infibulation or the narrowing of the vaginal opening (with or without excision of the clitoris); or
+
+  * (4) other procedures that are harmful to the external female genitalia, including pricking, incising, scraping, or cauterizing the genital area.
 
 ### §117. Domestic assault by an habitual offender
 * (a) IN GENERAL.—Any person who commits a domestic assault within the special maritime and territorial jurisdiction of the United States or Indian country and who has a final conviction on at least 2 separate prior occasions in Federal, State, or Indian tribal court proceedings for offenses that would be, if subject to Federal jurisdiction—

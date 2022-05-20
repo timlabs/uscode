@@ -1,7 +1,9 @@
 ### SUBCHAPTER II—MILITARY CHILD CARE
 
 ### §1791. Funding for military child care
-* It is the policy of Congress that the amount of appropriated funds available during a fiscal year for operating expenses for military child development centers and programs shall be not less than the amount of child care fee receipts that are estimated to be received by the Department of Defense during that fiscal year.
+* (a) POLICY.—It is the policy of Congress that the amount of appropriated funds available during a fiscal year for operating expenses for military child development centers and programs shall be not less than the amount of child care fee receipts that are estimated to be received by the Department of Defense during that fiscal year.
+
+* (b) RESPONSIBILITY FOR ALLOCATIONS OF CERTAIN FUNDS.—The Secretary of Defense shall be responsible for the allocation of Office of the Secretary of Defense level funds for military child development programs for children from birth through 12 years of age, and may not delegate such responsibility to the military departments.
 
 ### §1792. Child care employees
 * (a) REQUIRED TRAINING.—(1) The Secretary of Defense shall prescribe regulations implementing a training program for child care employees. Those regulations shall apply uniformly among the military departments. Subject to paragraph (2), satisfactory completion of the training program shall be a condition of employment of any person as a child care employee.
@@ -49,6 +51,8 @@
 * (a) IN GENERAL.—The Secretary of Defense shall prescribe regulations establishing fees to be charged parents for the attendance of children at military child development centers. Those regulations shall be uniform for the military departments and shall require that, in the case of children who attend the centers on a regular basis, the fees shall be based on family income.
 
 * (b) LOCAL WAIVER AUTHORITY.—The Secretary of Defense may provide authority to installation commanders, on a case-by-case basis, to establish fees for attendance of children at child development centers at rates lower than those prescribed under subsection (a) if the rates prescribed under subsection (a) are not competitive with rates at local non-military child development centers.
+
+* (c) FAMILY DISCOUNT.—In the case of a family with two or more children attending a child development center, the regulations prescribed pursuant to subsection (a) may require that installations commanders charge a fee for attendance at the center of any child of the family after the first child of the family in amount equal to 85 percent of the amount of the fee otherwise chargeable for the attendance of such child at the center.
 
 ### §1794. Child abuse prevention and safety at facilities
 * (a) CHILD ABUSE TASK FORCE.—The Secretary of Defense shall maintain a special task force to respond to allegations of widespread child abuse at a military installation. The task force shall be composed of personnel from appropriate disciplines, including, where appropriate, medicine, psychology, and childhood development. In the case of such allegations, the task force shall provide assistance to the commander of the installation, and to parents at the installation, in helping them to deal with such allegations.

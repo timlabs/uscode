@@ -5,9 +5,9 @@
 
   * (1) According to the 2017 National Security Strategy of the United States of America, "Retaining our position as the world's preeminent economic actor strengthens our ability to use the tools of economic diplomacy for the good of Americans and others.".
 
-  * (2) A November 7, 2018, cable from Secretary of State Michael R. Pompeo to all diplomatic and consular posts—"Boosting Commercial Diplomacy Around the World"—stated that "helping American companies is a foreign policy priority. . .Promoting broad-based, responsible, and sustainable economic growth helps to stabilize regions and creates new and growing markets for U.S. companies. A transparent and level playing field for U.S. investment in these countries counters real and growing challenges such as China's Belt and Road initiative.".
+  * (2) A November 7, 2018, cable from Secretary of State Michael R. Pompeo to all diplomatic and consular posts—"Boosting Commercial Diplomacy Around the World"—stated that "helping American companies is a foreign policy priority.&nbsp;.&nbsp;.Promoting broad-based, responsible, and sustainable economic growth helps to stabilize regions and creates new and growing markets for U.S. companies. A transparent and level playing field for U.S. investment in these countries counters real and growing challenges such as China's Belt and Road initiative.".
 
-  * (3) In the January–February 2019 issue of The Foreign Service Journal, Ambassador Barbara Stephenson, the President of the American Foreign Service Association, wrote, "Foreign Service support for American business. . .is a major reason why the U.S. Foreign Service was created.".
+  * (3) In the January–February 2019 issue of The Foreign Service Journal, Ambassador Barbara Stephenson, the President of the American Foreign Service Association, wrote, "Foreign Service support for American business.&nbsp;.&nbsp;.is a major reason why the U.S. Foreign Service was created.".
 
 ### §9902. Report from each mission on matters of commercial relations
 #### (a) In general
@@ -114,7 +114,7 @@
   * The Group shall develop a joint strategic plan for all United States capacity building and technical assistance programs.
 
 #### (d) Diplomacy trade expansion advisory committee
-* #### (1) Establishment of teac
+* #### (1) Establishment of TEAC
   * The Chair and Vice-Chairs of the Economic Diplomacy Action Group shall establish a trade expansion advisory committee with selected representatives of the United States private sector and other organizations, including labor organizations, with direct and relevant operational experience in importing from and exporting into developing countries, as appropriate, to provide comment and advice on priorities for trade expansion initiatives. The Chair and Vice-Chairs of the Group may also appoint representatives from select non-profit organizations to the advisory committee if such representatives can demonstrate both a presence in and relevant operational or programmatic experience with trade capacity building efforts in developing countries.
 
 * #### (2) Meetings

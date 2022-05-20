@@ -17,7 +17,7 @@
 
   * (4) $108,000,000 for fiscal year 2011; and
 
-  * (5) $110,000,000 for each of fiscal years 2012 through 2020.
+  * (5) $110,000,000 for each of fiscal years 2012 through 2021.
 
 
 * (b) ECONOMIC AND ENERGY DEVELOPMENT INITIATIVE.—Of the amounts made available under subsection (a), the following amounts may be used to carry out section 14508—
@@ -33,11 +33,11 @@
   * (5) $14,000,000 for fiscal year 2012.
 
 
-* (c) HIGH-SPEED BROADBAND DEPLOYMENT INITIATIVE.—Of the amounts made available under subsection (a), $10,000,000 may be used to carry out section 14509 for each of fiscal years 2016 through 2020.
+* (c) HIGH-SPEED BROADBAND DEPLOYMENT INITIATIVE.—Of the amounts made available under subsection (a), $10,000,000 may be used to carry out section 14509 for each of fiscal years 2016 through 2021.
 
 * (d) AVAILABILITY.—Amounts made available under subsection (a) remain available until expended.
 
 * (e) ALLOCATION OF FUNDS.—Funds approved by the Appalachian Regional Commission for a project in a State in the Appalachian region pursuant to a congressional directive shall be derived from the total amount allocated to the State by the Appalachian Regional Commission from amounts appropriated to carry out this subtitle.
 
 ### §14704. Termination
-* This subtitle, except sections 14102(a)(1) and (b) and 14501, ceases to be in effect on October 1, 2020.
+* This subtitle, except sections 14102(a)(1) and (b) and 14501, ceases to be in effect on October 1, 2021.

@@ -96,7 +96,7 @@
 
 #### (g) Funding
 * #### (1) In general
-  * To carry out this section, there are appropriated such sums as may be necessary, not to exceed $230,000,000, for the period of fiscal years 2011 through 2015, $60,000,000 for each of fiscal years 2016 and 2017, $126,500,000 for each of fiscal years 2018 and 2019, and $81,445,205 for the period beginning on October 1, 2019, and ending on May 22, 2020, to remain available until expended.
+  * To carry out this section, there are appropriated such sums as may be necessary, not to exceed $230,000,000, for the period of fiscal years 2011 through 2015, $60,000,000 for each of fiscal years 2016 and 2017, and $126,500,000 for each of fiscal years 2018 through 2023, to remain available until expended.
 
 * #### (2) Administrative expenses
   * Of the amount made available to carry out this section for any fiscal year, the Secretary may not use more than 5 percent of such amount for the expenses of administering this section.

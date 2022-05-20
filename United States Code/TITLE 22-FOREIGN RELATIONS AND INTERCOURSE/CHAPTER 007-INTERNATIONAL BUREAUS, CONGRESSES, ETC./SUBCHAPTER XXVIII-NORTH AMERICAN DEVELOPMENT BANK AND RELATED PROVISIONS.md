@@ -165,3 +165,33 @@
 
 * #### (2) Limitation
   * Not more than an aggregate of $5,000,000 in grants may be made under this subsection.
+
+### §290m–7. First capital increase
+#### (a) Subscription authorized
+* #### (1) In general
+  * The Secretary of the Treasury is authorized to subscribe on behalf of the United States to, and make payment for, 150,000 additional shares of the capital stock of the Bank.
+
+* #### (2) Limitation
+  * Any subscription by the United States to the capital stock of the Bank shall be effective only to such extent and in such amounts as are provided in advance in appropriations Acts.
+
+#### (b) Limitations on authorization of appropriations
+* #### (1) In general
+  * In order to pay for the increase in the United States subscription to the Bank under subsection (a), there are authorized to be appropriated, without fiscal year limitation, $1,500,000,000 for payment by the Secretary of the Treasury.
+
+* #### (2) Allocation of funds
+  * Of the amount authorized to be appropriated under paragraph (1)—
+
+    * (A) $225,000,000 shall be for paid in shares of the Bank; and
+
+    * (B) $1,275,000,000 shall be for callable shares of the Bank.
+
+### §290m–8. Performance measures
+#### (a) In general
+* The Secretary of the Treasury should direct the representatives of the United States to the Board of Directors of the North American Development Bank to use the voice and vote of the United States to seek to require the Bank to develop performance measures that—
+
+  * (1) demonstrate how projects and financing approved by the Bank are meeting the Bank's mission and providing added value to the region near the international land border between the United States and Mexico; and
+
+  * (2) are reviewed and updated not less frequently than annually.
+
+#### (b) Report to Congress
+* The Secretary of the Treasury shall submit to Congress, with the submission to Congress of the budget of the President for a fiscal year under section 1105(a) of title 31, a report on progress in imposing the performance measures described in subsection (a) of this section.

@@ -276,19 +276,19 @@
 
     * (F) A court or grand jury.
 
-    * (G) A management official or other employee of the contractor, subcontractor, or grantee who has the responsibility to investigate, discover, or address misconduct.
+    * (G) A management official or other employee of the contractor, subcontractor, grantee, or subgrantee who has the responsibility to investigate, discover, or address misconduct.
 
 
   * (3) RULES OF CONSTRUCTION.—For the purposes of paragraph (1)—
 
-    * (A) an employee who initiates or provides evidence of contractor, subcontractor, or grantee misconduct in any judicial or administrative proceeding relating to waste, fraud, or abuse on a Federal contract or grant shall be deemed to have made a disclosure covered by such paragraph; and
+    * (A) an employee who initiates or provides evidence of contractor, subcontractor, grantee, or subgrantee misconduct in any judicial or administrative proceeding relating to waste, fraud, or abuse on a Federal contract or grant shall be deemed to have made a disclosure covered by such paragraph; and
 
     * (B) a reprisal described in paragraph (1) is prohibited even if it is undertaken at the request of an executive branch official, unless the request takes the form of a non-discretionary directive and is within the authority of the executive branch official making the request.
 
 
 * (b) INVESTIGATION OF COMPLAINTS.—
 
-  * (1) SUBMISSION OF COMPLAINT.—A person who believes that the person has been subjected to a reprisal prohibited by subsection (a) may submit a complaint to the Inspector General of the executive agency involved. Unless the Inspector General determines that the complaint is frivolous, fails to allege a violation of the prohibition in subsection (a), or has previously been addressed in another Federal or State judicial or administrative proceeding initiated by the complainant, the Inspector General shall investigate the complaint and, upon completion of such investigation, submit a report of the findings of the investigation to the person, the contractor or grantee concerned, and the head of the agency.
+  * (1) SUBMISSION OF COMPLAINT.—A person who believes that the person has been subjected to a reprisal prohibited by subsection (a) may submit a complaint to the Inspector General of the executive agency involved. Unless the Inspector General determines that the complaint is frivolous, fails to allege a violation of the prohibition in subsection (a), or has previously been addressed in another Federal or State judicial or administrative proceeding initiated by the complainant, the Inspector General shall investigate the complaint and, upon completion of such investigation, submit a report of the findings of the investigation to the person, the contractor, subcontractor, grantee, or subgrantee concerned, and the head of the agency.
 
   * (2) INSPECTOR GENERAL ACTION.—
 
@@ -311,16 +311,16 @@
 
 * (c) REMEDY AND ENFORCEMENT AUTHORITY.—
 
-  * (1) IN GENERAL.—Not later than 30 days after receiving an Inspector General report pursuant to subsection (b), the head of the executive agency concerned shall determine whether there is sufficient basis to conclude that the contractor or grantee concerned has subjected the complainant to a reprisal prohibited by subsection (a) and shall either issue an order denying relief or shall take one or more of the following actions:
+  * (1) IN GENERAL.—Not later than 30 days after receiving an Inspector General report pursuant to subsection (b), the head of the executive agency concerned shall determine whether there is sufficient basis to conclude that the contractor, subcontractor, grantee, or subgrantee concerned has subjected the complainant to a reprisal prohibited by subsection (a) and shall either issue an order denying relief or shall take one or more of the following actions:
 
-    * (A) Order the contractor or grantee to take affirmative action to abate the reprisal.
+    * (A) Order the contractor, subcontractor, grantee, or subgrantee to take affirmative action to abate the reprisal.
 
-    * (B) Order the contractor or grantee to reinstate the person to the position that the person held before the reprisal, together with compensatory damages (including back pay), employment benefits, and other terms and conditions of employment that would apply to the person in that position if the reprisal had not been taken.
+    * (B) Order the contractor, subcontractor, grantee, or subgrantee to reinstate the person to the position that the person held before the reprisal, together with compensatory damages (including back pay), employment benefits, and other terms and conditions of employment that would apply to the person in that position if the reprisal had not been taken.
 
-    * (C) Order the contractor or grantee to pay the complainant an amount equal to the aggregate amount of all costs and expenses (including attorneys' fees and expert witnesses' fees) that were reasonably incurred by the complainant for, or in connection with, bringing the complaint regarding the reprisal, as determined by the head of the executive agency.
+    * (C) Order the contractor, subcontractor, grantee, or subgrantee to pay the complainant an amount equal to the aggregate amount of all costs and expenses (including attorneys' fees and expert witnesses' fees) that were reasonably incurred by the complainant for, or in connection with, bringing the complaint regarding the reprisal, as determined by the head of the executive agency.
 
 
-  * (2) EXHAUSTION OF REMEDIES.—If the head of an executive agency issues an order denying relief under paragraph (1) or has not issued an order within 210 days after the submission of a complaint under subsection (b), or in the case of an extension of time under paragraph (b)(2)(B), not later than 30 days after the expiration of the extension of time, and there is no showing that such delay is due to the bad faith of the complainant, the complainant shall be deemed to have exhausted all administrative remedies with respect to the complaint, and the complainant may bring a de novo action at law or equity against the contractor or grantee to seek compensatory damages and other relief available under this section in the appropriate district court of the United States, which shall have jurisdiction over such an action without regard to the amount in controversy. Such an action shall, at the request of either party to the action, be tried by the court with a jury. An action under this paragraph may not be brought more than two years after the date on which remedies are deemed to have been exhausted.
+  * (2) EXHAUSTION OF REMEDIES.—If the head of an executive agency issues an order denying relief under paragraph (1) or has not issued an order within 210 days after the submission of a complaint under subsection (b), or in the case of an extension of time under paragraph (b)(2)(B), not later than 30 days after the expiration of the extension of time, and there is no showing that such delay is due to the bad faith of the complainant, the complainant shall be deemed to have exhausted all administrative remedies with respect to the complaint, and the complainant may bring a de novo action at law or equity against the contractor, subcontractor, grantee, or subgrantee to seek compensatory damages and other relief available under this section in the appropriate district court of the United States, which shall have jurisdiction over such an action without regard to the amount in controversy. Such an action shall, at the request of either party to the action, be tried by the court with a jury. An action under this paragraph may not be brought more than two years after the date on which remedies are deemed to have been exhausted.
 
   * (3) ADMISSIBILITY OF EVIDENCE.—An Inspector General determination and an agency head order denying relief under paragraph (2) shall be admissible in evidence in any de novo action at law or equity brought pursuant to this subsection.
 
@@ -333,17 +333,17 @@
   * (7) RIGHTS AND REMEDIES NOT WAIVABLE.—The rights and remedies provided for in this section may not be waived by any agreement, policy, form, or condition of employment.
 
 
-* (d) NOTIFICATION OF EMPLOYEES.—The head of each executive agency shall ensure that contractors, subcontractors, and grantees of the agency inform their employees in writing of the rights and remedies provided under this section, in the predominant native language of the workforce.
+* (d) NOTIFICATION OF EMPLOYEES.—The head of each executive agency shall ensure that contractors, subcontractors, grantees, and subgrantees of the agency inform their employees in writing of the rights and remedies provided under this section, in the predominant native language of the workforce.
 
 * (e) CONSTRUCTION.—Nothing in this section may be construed to authorize the discharge of, demotion of, or discrimination against an employee for a disclosure other than a disclosure protected by subsection (a) or to modify or derogate from a right or remedy otherwise available to the employee.
 
 * (f) EXCEPTIONS.—(1) This section shall not apply to any element of the intelligence community, as defined in section 3(4) of the National Security Act of 1947 (50 U.S.C. 401a(4)).
 
-* (2) This section shall not apply to any disclosure made by an employee of a contractor, subcontractor, or grantee of an element of the intelligence community if such disclosure—
+* (2) This section shall not apply to any disclosure made by an employee of a contractor, subcontractor, grantee, or subgrantee of an element of the intelligence community if such disclosure—
 
   * (A) relates to an activity of an element of the intelligence community; or
 
-  * (B) was discovered during contract, subcontract, or grantee services provided to an element of the intelligence community.
+  * (B) was discovered during contract, subcontract, grantee, or subgrantee services provided to an element of the intelligence community.
 
 
 * (g) DEFINITIONS.—In this section:

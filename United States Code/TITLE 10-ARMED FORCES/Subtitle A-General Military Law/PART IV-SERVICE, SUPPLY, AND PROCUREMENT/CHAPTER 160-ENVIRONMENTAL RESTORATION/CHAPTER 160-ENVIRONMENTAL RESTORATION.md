@@ -5,9 +5,7 @@
 
   * (1) The term "CERCLA" means the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601 et seq.).
 
-  * (2)(A) The terms "environment", "facility", "hazardous substance", "person", "pollutant or contaminant", "release", "removal", "response", "disposal", and "hazardous waste" have the meanings given those terms in section 101 of CERCLA (42 U.S.C. 9601).
-
-  * (B) The term "facility" includes real property that is owned by, leased to, or otherwise possessed by the United States at locations at which military activities are conducted under this title or title 32 (including real property owned or leased by the Federal Government that is licensed to and operated by a State for training for the National Guard).
+  * (2)The term "environment", "facility", "hazardous substance", "person", "pollutant or contaminant", "release", "removal", "response", "disposal", and "hazardous waste" have the meanings given those terms in section 101 of CERCLA (42 U.S.C. 9601).
 
   * (3) The term "Administrator" means the Administrator of the Environmental Protection Agency.
 
@@ -280,7 +278,11 @@
 
 * (d) ENVIRONMENTAL RESTORATION PROJECT DEFINED.—In this section, the term "environmental restoration project" includes any construction, development, conversion, or extension of a structure, or installation of equipment, in direct support of a response.
 
-* (e) AUTHORITY FOR NATIONAL GUARD PROJECTS.—Notwithstanding subsection (a) of this section and section 2701(c)(1) of this title, the Secretary concerned may use funds described in subsection (c) to carry out an environmental restoration project at a facility in response to perfluorooctanoic acid or perfluorooctane sulfonate contamination under this chapter or CERCLA.
+* (e) AUTHORITY FOR NATIONAL GUARD PROJECTS.—
+
+  * (1) Notwithstanding subsection (a) of this section and section 2701(c)(1) of this title, the Secretary concerned may use funds described in subsection (c) to carry out an environmental restoration project at a facility where military activities are conducted by the National Guard of a State under title 32 in response to perfluorooctanoic acid or perfluorooctane sulfonate contamination under this chapter or CERCLA.
+
+  * (2) The Secretary concerned may use the authority under section 2701(d) of this title to carry out environmental restoration projects under paragraph (1).
 
 ### §2708. Contracts for handling hazardous waste from defense facilities
 * (a) REIMBURSEMENT REQUIREMENT.—(1) Each contract or subcontract to which this section applies shall provide that, upon receipt of hazardous wastes properly characterized pursuant to applicable laws and regulations, the contractor or subcontractor will reimburse the Federal Government for all liabilities incurred by, penalties assessed against, costs incurred by, and damages suffered by, the Government that are caused by—
@@ -456,3 +458,65 @@
     * (B) conservation activities; and
 
     * (C) pollution prevention activities.
+
+### §2712. Reporting on usage and spills of aqueous film-forming foam
+* (a) IN GENERAL.—Not later than 48 hours after the Deputy Assistant Secretary of Defense for Environment receives notice of the usage or spill of aqueous film forming foam, either as concentrate or mixed foam, at any military installation, the Deputy Assistant Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives notice of a usage or spill of greater than 10 gallons of concentrate, or greater than 300 gallons of mixed foam. Each such notice shall include each of the following information:
+
+  * (1) The name of the installation where the usage or spill occurred.
+
+  * (2) The date on which the usage or spill occurred.
+
+  * (3) The amount, type, and specified concentration of aqueous film-forming foam that was used or spilled.
+
+  * (4) The cause of the usage or spill.
+
+  * (5) A summary narrative of the usage or spill.
+
+
+* (b) ACTION PLAN.—Not later than 60 days after submitting notice of a usage or spill under subsection (a), the Deputy Assistant Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives an action plan for addressing such usage or spill. The action plan shall include the following:
+
+  * (1) A description of what actions have been taken to arrest and clean up a spill.
+
+  * (2) A description of any coordination with relevant local and State environmental protection agencies.
+
+### §2713. Native American lands environmental mitigation program
+* (a) ESTABLISHMENT.—The Secretary of Defense may establish and carry out a program to mitigate the environmental effects of actions by the Department of Defense on Indian lands and on other locations where the Department, an Indian tribe, and the current land owner agree that such mitigation is appropriate.
+
+* (b) PROGRAM ACTIVITIES.—The activities that may be carried out under the program established under subsection (a) are the following:
+
+  * (1) Identification, investigation, and documentation of suspected environmental effects attributable to past actions by the Department of Defense.
+
+  * (2) Development of mitigation options for such environmental effects, including development of cost-to-complete estimates and a system for prioritizing mitigation actions.
+
+  * (3) Direct mitigation actions that the Secretary determines are necessary and appropriate to mitigate the adverse environmental effects of past actions by the Department.
+
+  * (4) Demolition and removal of unsafe buildings and structures used by, under the jurisdiction of, or formerly used by or under the jurisdiction of the Department.
+
+  * (5) Training, technical assistance, and administrative support to facilitate the meaningful participation of Indian tribes in mitigation actions under the program.
+
+  * (6) Development and execution of a policy governing consultation with Indian tribes that have been or may be affected by action by the Department, including training personnel of the Department to ensure compliance with the policy.
+
+
+* (c) COOPERATIVE AGREEMENTS.—(1) In carrying out the program established under subsection (a), the Secretary of Defense may enter into a cooperative agreement with an Indian tribe or an instrumentality of tribal government.
+
+* (2) Notwithstanding chapter 63 of title 31, a cooperative agreement under this section may be used to acquire property or services for the direct benefit of the United States Government.
+
+* (3) A cooperative agreement under this section for the procurement of severable services may begin in one fiscal year and end in another fiscal year only if the total period of performance does not exceed two calendar years.
+
+* (d) DEFINITIONS.—In this section:
+
+  * (1) The term "Indian land" includes—
+
+    * (A) any land located within the boundaries and a part of an Indian reservation, pueblo, or rancheria;
+
+    * (B) any land that has been allotted to an individual Indian but has not been conveyed to such Indian with full power of alienation;
+
+    * (C) Alaska Native village and regional corporation lands; and
+
+    * (D) lands and waters upon which any federally recognized Indian tribe has rights reserved by treaty, Act of Congress, or action by the President.
+
+
+  * (2) The term "Indian tribe" means any Indian tribe, band, nation, or other organized group or community, including any Alaska Native village or regional or village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.), which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
+
+
+* (e) LIMITATION.—Nothing in this section shall be interpreted to require, compel, or otherwise authorize access to any lands without the landowner's consent.

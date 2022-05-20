@@ -33,7 +33,7 @@
 
       * (iii) hygiene supplies and sanitation services.
 
-* #### (2) Aid to venezuelans in neighboring countries
+* #### (2) Aid to Venezuelans in neighboring countries
   * The aid described in paragraph (1)(B)—
 
     * (A) may be provided—

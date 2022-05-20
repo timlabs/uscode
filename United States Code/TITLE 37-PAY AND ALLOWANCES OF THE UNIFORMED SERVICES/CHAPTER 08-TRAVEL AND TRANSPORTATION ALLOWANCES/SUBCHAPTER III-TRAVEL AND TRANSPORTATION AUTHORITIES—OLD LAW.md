@@ -212,28 +212,6 @@
 
 * (e) TERMINATION.—No payment or reimbursement may be provided under this section with respect to an authorized absence that begins after the travel authorities transition expiration date.
 
-### §475. Travel and transportation allowances: per diem while on duty outside the continental United States
-* (a) PER DIEM AUTHORIZED.—Without regard to the monetary limitation of this title, the Secretary concerned may pay a per diem to a member of the uniformed services who is on duty outside of the continental United States, whether or not the member is in a travel status. The Secretary may pay the per diem in advance of the accrual of the per diem.
-
-* (b) DETERMINATION OF PER DIEM.—In determining the per diem to be paid under this section, the Secretary concerned shall consider all elements of the cost of living to members of the uniformed services under the Secretary's jurisdiction and their dependents, including the cost of quarters, subsistence, and other necessary incidental expenses. However, dependents may not be considered in determining the per diem allowance for a member in a travel status.
-
-* (c) TREATMENT OF HOUSING COST AND ALLOWANCE.—Housing cost and allowance may be disregarded in prescribing a station cost of living allowance under this section.
-
-* (d) UNUSUAL OR EXTRAORDINARY EXPENSES.—(1) The Secretary concerned may reimburse a member of the uniformed services on duty as described in subsection (a) or (e) for an unusual or extraordinary expense incurred by the member incident to such duty that—
-
-  * (A) is directly related to the conditions or location of the duty or the location of the member's dependents;
-
-  * (B) is of a nature or a magnitude not normally incurred by members of the uniformed services on duty inside the continental United States; and
-
-  * (C) is not included in the per diem determined under subsection (b) as payable to the member under subsection (a) or (e).
-
-
-* (2) Any reimbursement provided to a member under paragraph (1) is in addition to a per diem payable to that member under subsection (a) or (e).
-
-* (e) PAYMENT OF ALLOWANCE BASED ON OVERSEAS LOCATION OF DEPENDENTS.—In the case of a member assigned to duty inside the continental United States whose dependents continue to reside outside the continental United States, the Secretary concerned may pay the member a per diem under this section based on the location of the dependents and provide reimbursement under subsection (d) for an unusual or extraordinary expense incurred by the dependents if the Secretary determines that such payment or reimbursement is in the best interest of the member or the member's dependents and in the best interest of the United States.
-
-* (f) TERMINATION.—During and after the travel authorities expiration date, no per diem may be paid under this section for any period.
-
 ### §475a. Travel and transportation allowances: departure allowances
 * (a) Under regulations prescribed by the Secretaries concerned, when dependents of members of the uniformed services are authorized or ordered to depart by competent authority, they may be authorized such allowances as the Secretary concerned determines necessary to offset the expenses incident to the departure. Allowances authorized by this section are in addition to those authorized by any other section of this title. Such allowances may be paid in advance. For the purposes of this section, a dependent "authorized or ordered to depart by competent authority" includes—
 
@@ -470,33 +448,6 @@
   * (1) with respect to a change of temporary or permanent station for which orders are issued after the travel authorities transition expiration date; or
 
   * (2) in a case covered by this section when such orders are not issued, with respect to a movement of baggage or household effects that begins after such date.
-
-
-* (p)(1) From amounts otherwise made available for a fiscal year to provide travel and transportation allowances under this chapter, the Secretary concerned may reimburse a member of the uniformed services for qualified relicensing costs of the spouse of the member when—
-
-  * (A) the member is reassigned, either as a permanent change of station or permanent change of assignment, from a duty station in one State to a duty station in another State; and
-
-  * (B) the movement of the member's dependents is authorized at the expense of the United States under this section as part of the reassignment.
-
-
-* (2) Reimbursement provided to a member under this subsection may not exceed $1,000 in connection with each reassignment described in paragraph (1).
-
-* (3) Not later than December 31, 2021, the Secretary of Defense, in consultation with the Secretary of Homeland Security with respect to the Coast Guard, shall submit to the congressional defense committees, the Committee on Homeland Security and Government Affairs of the Senate, and the Committee on Oversight and Government Reform of the House of Representatives a report—
-
-  * (A) describing the extent to which the reimbursement authority provided by this subsection has been used;
-
-  * (B) containing a recommendation by the Secretaries regarding whether the authority should be extended beyond the date specified in paragraph (4); and
-
-  * (C) an analysis of whether the maximum reimbursement amount under paragraph (2) is sufficient to cover the average costs of relicensing described in paragraph (1).
-
-
-* (4) No reimbursement may be provided under this subsection for qualified relicensing costs paid or incurred after December 31, 2024.
-
-* (5) In this subsection, the term "qualified relicensing costs" means costs, including exam and registration fees, that—
-
-  * (A) are imposed by the State of the new duty station to secure a license or certification to engage in the same profession that the spouse of the member engaged in while in the State of the original duty station; and
-
-  * (B) are paid or incurred by the member or spouse to secure the license or certification from the State of the new duty station after the date on which the orders directing the reassignment described in paragraph (1) are issued.
 
 ### §476a. Travel and transportation allowances: authorized for travel performed under orders that are canceled, revoked, or modified
 * (a) AUTHORITY.—Under uniform regulations prescribed by the Secretaries concerned, a member of a uniformed service is entitled to travel and transportation allowances under section 474 of this title, and to transportation of his dependents, baggage, and household effects under sections 476 and 479 of this title, if otherwise qualified, for travel performed before the effective date of orders that direct him to make a change of station and that are later—
@@ -831,7 +782,7 @@
 
 * (2) If no person described in subparagraphs (A) through (D) of paragraph (1) is provided travel and transportation allowances under paragraph (1) or (2) of subsection (a), the travel and transportation allowances may be provided to one or two other persons who are closely related to the deceased member and are selected by the person referred to in paragraph (1)(E). A person provided travel and transportation allowances under this paragraph is in addition to the person referred to in paragraph (1)(E).
 
-* (d) TRANSPORTATION TO TRANSFER CEREMONIES OF MEMBERS OF THE ARMED FORCES WHO DIE OVERSEAS.—(1) The Secretary of the military department concerned may provide round trip transportation to ceremonies for the transfer of a member of the armed forces who dies while located or serving overseas (including during a humanitarian relief operation) to the following:
+* (d) TRAVEL AND TRANSPORTATION ALLOWANCES IN CONNECTION WITH TRANSFER CEREMONIES OF MEMBERS OF THE ARMED FORCES WHO DIE OVERSEAS.—(1) The Secretary of the military department concerned may provide round trip travel and transportation allowances in connection with ceremonies for the transfer of a member of the armed forces who dies while located or serving overseas (including during a humanitarian relief operation) to the following:
 
   * (A) The primary next of kin of the member.
 
@@ -938,7 +889,7 @@
 ### §481i. Travel and transportation allowances: parking expenses
 * (a) REIMBURSEMENT AUTHORITY.—Under regulations prescribed by the Secretary of Defense, the Secretary of a military department may reimburse eligible Department of Defense personnel for expenses incurred after October 1, 2001, for parking a privately owned vehicle at a place of duty described in subsection (b).
 
-* (b) ELIGIBILITY.—A member of the Army, Navy, Air Force, or Marine Corps or an employee of the Department of Defense may be reimbursed under subsection (a) for parking expenses while—
+* (b) ELIGIBILITY.—A member of the Army, Navy, Air Force, Marine Corps, or Space Force or an employee of the Department of Defense may be reimbursed under subsection (a) for parking expenses while—
 
   * (1) assigned to duty at a recruiting facility of the armed forces;
 
@@ -1208,12 +1159,3 @@
 * (c) EFFECT OF LOCATION OF MEMBER'S PERMANENT DUTY STATION.—The authority under subsection (a) applies to a member of the armed forces whether the duties referred to in that subsection are performed at, near, or away from the member's permanent duty station.
 
 * (d) TERMINATION.—No reimbursement may be provided under this section for expenses incurred after the travel authorities transition expiration date.
-
-### §495. Funeral honors duty: allowance
-* (a) ALLOWANCE AUTHORIZED.—(1) The Secretary concerned may authorize payment of an allowance to a member of the Ready Reserve for any day on which the member performs at least two hours of funeral honors duty pursuant to section 12503 of title 10 or section 115 of title 32.
-
-* (2) The Secretary concerned may also authorize payment of that allowance to a member of the armed forces in a retired status for any day on which the member serves in a funeral honors detail under section 1491 of title 10, if the time required for service in such detail (including time for preparation) is not less than two hours. The amount of an allowance paid to a member under this paragraph shall be in addition to any other compensation to which the member may be entitled under this title or title 10 or 38.
-
-* (b) AMOUNT.—The daily rate of an allowance under this section is $50.
-
-* (c) TERMINATION.—No allowance may be paid under this section for any day after the travel authorities transition expiration date.

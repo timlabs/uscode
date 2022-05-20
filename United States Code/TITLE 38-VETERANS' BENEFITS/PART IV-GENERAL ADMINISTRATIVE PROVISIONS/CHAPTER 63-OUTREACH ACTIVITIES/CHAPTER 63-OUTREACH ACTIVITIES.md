@@ -3,7 +3,7 @@
 ### §6301. Purpose; definitions
 * (a) PURPOSE.—The Congress declares that—
 
-  * (1) the outreach services program authorized by this chapter is for the purpose of ensuring that all veterans (especially those who have been recently discharged or released from active military, naval, or air service, or from a reserve component, and those who are eligible for readjustment or other benefits and services under laws administered by the Department) are provided timely and appropriate assistance to aid and encourage them in applying for and obtaining such benefits and services in order that they may achieve a rapid social and economic readjustment to civilian life and obtain a higher standard of living for themselves and their dependents; and
+  * (1) the outreach services program authorized by this chapter is for the purpose of ensuring that all veterans (especially those who have been recently discharged or released from active military, naval, air, or space service, or from a reserve component, and those who are eligible for readjustment or other benefits and services under laws administered by the Department) are provided timely and appropriate assistance to aid and encourage them in applying for and obtaining such benefits and services in order that they may achieve a rapid social and economic readjustment to civilian life and obtain a higher standard of living for themselves and their dependents; and
 
   * (2) the outreach services program authorized by this chapter is for the purpose of charging the Department with the affirmative duty of seeking out eligible veterans and eligible dependents and providing them with such services.
 
@@ -14,7 +14,7 @@
 
   * (2) the term "other governmental programs" includes all programs under State or local laws as well as all programs under Federal law other than those authorized by this title; and
 
-  * (3) the term "eligible dependent" means a spouse, surviving spouse, child, or dependent parent of a person who served in the active military, naval, or air service.
+  * (3) the term "eligible dependent" means a spouse, surviving spouse, child, or dependent parent of a person who served in the active military, naval, air, or space service.
 
 ### §6302. Biennial plan
 * (a) BIENNIAL PLAN REQUIRED.—The Secretary shall, during the first nine months of every odd-numbered year, prepare a biennial plan for the outreach activities of the Department for the two-fiscal-year period beginning on October 1 of that year.
@@ -41,7 +41,7 @@
 ### §6303. Outreach services
 * (a) REQUIREMENT TO PROVIDE SERVICES.—In carrying out the purposes of this chapter, the Secretary shall provide the outreach services specified in subsections (b) through (d). In areas where a significant number of eligible veterans and eligible dependents speak a language other than English as their principal language, such services shall, to the maximum feasible extent, be provided in the principal language of such persons.
 
-* (b) INDIVIDUAL NOTICE TO NEW VETERANS.—The Secretary shall by letter advise each veteran at the time of the veteran's discharge or release from active military, naval, or air service (or as soon as possible after such discharge or release) of all benefits and services under laws administered by the Department for which the veteran may be eligible. In carrying out this subsection, the Secretary shall ensure, through the use of veteran-student services under section 3485 of this title, that contact, in person or by telephone, is made with those veterans who, on the basis of their military service records, do not have a high school education or equivalent at the time of discharge or release.
+* (b) INDIVIDUAL NOTICE TO NEW VETERANS.—The Secretary shall by letter advise each veteran at the time of the veteran's discharge or release from active military, naval, air, or space service (or as soon as possible after such discharge or release) of all benefits and services under laws administered by the Department for which the veteran may be eligible. In carrying out this subsection, the Secretary shall ensure, through the use of veteran-student services under section 3485 of this title, that contact, in person or by telephone, is made with those veterans who, on the basis of their military service records, do not have a high school education or equivalent at the time of discharge or release.
 
 * (c) DISTRIBUTION OF INFORMATION.—(1) The Secretary—
 
@@ -61,7 +61,7 @@
 
 * (b) LOCATION OF OFFICES.—In establishing and maintaining such offices, the Secretary shall give due regard to—
 
-  * (1) the geographical distribution of veterans recently discharged or released from active military, naval, or air service;
+  * (1) the geographical distribution of veterans recently discharged or released from active military, naval, air, or space service;
 
   * (2) the special needs of educationally disadvantaged veterans (including their need for accessibility of outreach services); and
 

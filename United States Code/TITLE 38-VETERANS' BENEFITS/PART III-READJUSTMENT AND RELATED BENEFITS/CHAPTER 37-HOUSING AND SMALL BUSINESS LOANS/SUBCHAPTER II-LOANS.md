@@ -359,7 +359,7 @@
 
   * (1) the loan is repayable in approximately equal monthly installments;
 
-  * (2) the terms of repayment bear a proper relationship to the veteran's present and anticipated income and expenses, and the veteran is a satisfactory credit risk, as determined in accordance with the regulations prescribed under section 3710(g) of this title and taking into account the purpose of this program to make available lower cost housing to low and lower income veterans, especially those who have been recently discharged or released from active military, naval, or air service, who may not have previously established credit ratings;
+  * (2) the terms of repayment bear a proper relationship to the veteran's present and anticipated income and expenses, and the veteran is a satisfactory credit risk, as determined in accordance with the regulations prescribed under section 3710(g) of this title and taking into account the purpose of this program to make available lower cost housing to low and lower income veterans, especially those who have been recently discharged or released from active military, naval, air, or space service, who may not have previously established credit ratings;
 
   * (3) the loan is secured by a first lien on the manufactured home purchased with the proceeds of the loan and on any lot acquired or improved with the proceeds of the loan;
 

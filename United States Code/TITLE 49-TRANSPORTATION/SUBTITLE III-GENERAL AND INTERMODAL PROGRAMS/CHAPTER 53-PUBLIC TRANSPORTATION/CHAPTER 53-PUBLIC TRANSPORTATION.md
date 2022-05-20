@@ -2052,7 +2052,7 @@
 
     * (A) AMOUNT AVAILABLE.—The amount available for capital projects under paragraph (1)(A) shall be not less than 55 percent of the funds apportioned to the recipient under this section.
 
-    * (B) _Allocation to subrecipients_.—A recipient of a grant under paragraph (1)(A) may allocate the amounts provided under the grant to—
+    * (B) ALLOCATION TO SUBRECIPIENTS.—A recipient of a grant under paragraph (1)(A) may allocate the amounts provided under the grant to—
 
       * (i) a private nonprofit organization; or
 

@@ -185,6 +185,9 @@
 * #### (17) Victim of trafficking
   * The term "victim of trafficking" means a person subjected to an act or practice described in paragraph (9) or (10).
 
+* #### (18) Grounds related to human trafficking
+  * The term "grounds related to human trafficking" means grounds related to the criteria for inadmissibility to the United States described in subsection (a)(2)(H) of section 1182 of title 8.
+
 ### §7103. Interagency Task Force to Monitor and Combat Trafficking
 #### (a) Establishment
 * The President shall establish an Interagency Task Force to Monitor and Combat Trafficking.
@@ -618,6 +621,17 @@
     * (H) the Committee on the Judiciary of the Senate; and
 
     * (I) the Committee on Health, Education, Labor, and Pensions of the Senate.
+
+#### (l) Information regarding human trafficking-related visa denials
+* #### (1) In general
+  * The Secretary of State shall ensure that the Office to Monitor and Combat Trafficking in Persons and the Bureau of Diplomatic Security of the Department of State receive timely and regular information regarding United States visa denials based, in whole or in part, on grounds related to human trafficking.
+
+* #### (2) Decisions regarding allocation
+  * The Secretary of State shall ensure that decisions regarding the allocation of resources of the Department of State related to combating human trafficking and to law enforcement presence at United States diplomatic and consular posts appropriately take into account—
+
+    * (A) the information described in paragraph (1); and
+
+    * (B) the information included in the most recent report submitted in accordance with section 7107(b) of this title.
 
 ### §7104a. Compliance plan and certification requirement
 #### (a) Requirement
@@ -1069,7 +1083,7 @@
 
 #### (b) Reports to Congress
 * #### (1) Annual report
-  * Not later than June 1 of each year, the Secretary of State shall submit to the appropriate congressional committees a report describing the anti-trafficking efforts of the United States and foreign governments according to the minimum standards and criteria enumerated in section 7106 of this title, and the nature and scope of trafficking in persons in each country and analysis of the trend lines for individual governmental efforts. The report shall, to the extent concurrent reporting data is available, cover efforts and activities taking place during the period between April 1 of the year preceding the report and March 31 of the year in which the report is made, and should include—
+  * Not later than June 30 of each year, the Secretary of State shall submit to the appropriate congressional committees a report describing the anti-trafficking efforts of the United States and foreign governments according to the minimum standards and criteria enumerated in section 7106 of this title, and the nature and scope of trafficking in persons in each country and analysis of the trend lines for individual governmental efforts. The report shall, to the extent concurrent reporting data is available, cover efforts and activities taking place during the period between April 1 of the year preceding the report and March 31 of the year in which the report is made, and should include—
 
     * (A) a list of those countries, if any, to which the minimum standards for the elimination of trafficking are applicable and whose governments fully comply with such standards based only on concrete actions taken by the country that are recorded during the reporting period;
 

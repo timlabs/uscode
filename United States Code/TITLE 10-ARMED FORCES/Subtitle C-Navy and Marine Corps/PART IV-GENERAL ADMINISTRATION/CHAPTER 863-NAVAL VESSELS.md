@@ -290,7 +290,7 @@
 * (c) EXCEPTION FOR INFLATABLE BOATS.—An inflatable boat or a rigid inflatable boat, as defined by the Secretary of the Navy, is not a vessel for the purpose of the restriction in subsection (a).
 
 ### §8680. Overhaul, repair, etc. of vessels in foreign shipyards: restrictions
-* (a) VESSELS UNDER JURISDICTION OF THE SECRETARY OF THE NAVY WITH HOMEPORT IN UNITED STATES OR GUAM.—(1) A naval vessel the homeport of which is in the United States or Guam may not be overhauled, repaired, or maintained in a shipyard outside the United States or Guam, other than in the case of voyage repairs.
+* (a) VESSELS UNDER JURISDICTION OF THE SECRETARY OF THE NAVY WITH HOMEPORT IN UNITED STATES OR GUAM.—(1) A naval vessel the homeport of which is in the United States or Guam may not be overhauled, repaired, or maintained in a shipyard outside the United States or Guam.
 
 * (2)(A) Notwithstanding paragraph (1) and subject to subparagraph (B), in the case of a naval vessel classified as a Littoral Combat Ship and operating on deployment, corrective and preventive maintenance or repair (whether intermediate or depot level) and facilities maintenance may be performed on the vessel—
 
@@ -301,7 +301,11 @@
   * (iii) at any other facility convenient to the vessel.
 
 
-* (B)(i) Corrective and preventive maintenance or repair may be performed on a vessel as described in subparagraph (A) if the work is performed by United States Government personnel or United States contractor personnel.
+* (B)(i)(I) Corrective and preventive maintenance or repair may be performed on a vessel as described in subparagraph (A) if the work is performed by United States Government personnel or United States contractor personnel.
+
+* (II) Notwithstanding subclause (I), foreign workers may be used to perform corrective and preventive maintenance or repair on a vessel as described in subparagraph (A) only if the Secretary of the Navy determines that travel by United States Government personnel or United States contractor personnel to perform the corrective or preventive maintenance or repair is not advisable for health or safety reasons. The Secretary of the Navy may not delegate the authority to make a determination under this subclause.
+
+* (III) Not later than 30 days after making a determination under subclause (II), the Secretary of the Navy shall submit to the congressional defense committees written notification of the determination. The notification shall include the reasons why travel by United States personnel is not advisable for health or safety reasons, the location where the corrective and preventive maintenance or repair will be performed, and the approximate duration of the corrective and preventive maintenance or repair.
 
 * (ii) Facilities maintenance may be performed by a foreign contractor on a vessel as described in subparagraph (A) only as approved by the Secretary of the Navy.
 
@@ -314,13 +318,20 @@
     * (II) scheduled maintenance or repair actions to prevent or discover functional failures.
 
 
-  * (ii) The term "facilities maintenance" means—.
+  * (ii) The term "facilities maintenance" means—
 
     * (I) the effort required to provide housekeeping services throughout the ship;
 
     * (II) the effort required to perform coating maintenance and repair to exterior and interior surfaces due to normal environmental conditions; and
 
     * (III) the effort required to clean mechanical spaces, mission zones, and topside spaces.
+
+
+* (3) Notwithstanding paragraph (1), a naval vessel described in paragraph (1) may be repaired in a shipyard outside the United States or Guam if the repairs are—
+
+  * (A) voyage repairs; or
+
+  * (B) necessary to correct damage sustained due to hostile actions or interventions.
 
 
 * (b) VESSEL CHANGING HOMEPORTS.—(1) In the case of a naval vessel the homeport of which is not in the United States (or a territory of the United States), the Secretary of the Navy may not during the 15-month period preceding the planned reassignment of the vessel to a homeport in the United States (or a territory of the United States) begin any work for the overhaul, repair, or maintenance of the vessel that is scheduled to be for a period of more than six months.
@@ -445,6 +456,9 @@
 
   * (2) for payments under a contract for amounts required because of changes in the scope of work, in the case of a contract entered into during the fiscal year for ship overhaul, maintenance, and repair.
 
+
+* (c) TREATMENT OF AMOUNTS APPROPRIATED AFTER END OF PERIOD OF OBLIGATION.—In the application of section 1553(c) of title 31 to funds appropriated in the Operation and Maintenance, Navy account that are available for ship overhaul, the Secretary of the Navy may treat the limitation specified in paragraph (1) of such section to be "$10,000,000" rather than "$4,000,000".
+
 ### §8684. Overhaul of naval vessels: competition between public and private shipyards
 * The Secretary of the Navy should ensure, in any case in which the Secretary awards a project for repair, alteration, overhaul, or conversion of a naval vessel following competition between public and private shipyards, that each of the following criteria is met:
 
@@ -458,6 +472,13 @@
   * (2) Costs applicable to oversight of the contract by the appropriate Navy supervisor of shipbuilding, conversion, and repair are added to the bid of any private shipyard for the purpose of comparability analysis.
 
   * (3) The award is made using the results of the comparability analysis.
+
+### §8684a. Repair, maintenance, or overhaul of naval vessels: rate for progress payments
+* The Secretary of the Navy shall provide that the rate for progress payments on any contract awarded by the Secretary for repair, maintenance, or overhaul of a naval vessel shall be not less than—
+
+  * (1) 95 percent, in the case of a firm considered to be a small business; and
+
+  * (2) 90 percent, in the case of any other firm.
 
 ### §8685. Preservation of Navy shipbuilding capability
 * (a) SHIPBUILDING CAPABILITY PRESERVATION AGREEMENTS.—The Secretary of the Navy may enter into an agreement, to be known as a "shipbuilding capability preservation agreement", with a shipbuilder under which the cost reimbursement rules described in subsection (b) shall be applied to the shipbuilder under a Navy contract for the construction of a ship. Such an agreement may be entered into in any case in which the Secretary determines that the application of such cost reimbursement rules would facilitate the achievement of the policy objectives set forth in section 2501(b) of this title.
@@ -528,6 +549,9 @@
 * (a) REQUIREMENT.—A contracting officer for a contract for new construction for which funds are expended from the Shipbuilding and Conversion, Navy account shall require, as a condition of the contract, that the work performed under the contract is covered by a warranty for a period of at least one year.
 
 * (b) WAIVER.—If the contracting officer for a contract covered by the requirement under subsection (a) determines that a limited liability of warranted work is in the best interest of the Government, the contracting officer may agree to limit the liability of the work performed under the contract to a level that the contracting officer determines is sufficient to protect the interests of the Government and in keeping with historical levels of warranted work on similar vessels.
+
+### §8688a. Construction and conversion of naval vessels: liens
+* The Secretary of the Navy shall provide, in each contract for construction or conversion of a naval vessel, that, when partial, progress, or other payments are made under such contract, the United States is secured by a lien upon work in progress and on property acquired for performance of the contract on account of all payments so made. The lien is paramount to all other liens.
 
 ### §8689. Requirements for availability of funds relating to advanced naval nuclear fuel systems based on low-enriched uranium
 * (a) AUTHORIZATION.—Low-enriched uranium activities may only be carried out using funds authorized to be appropriated or otherwise made available for the Department of Energy for atomic energy defense activities for defense nuclear nonproliferation.
@@ -626,3 +650,18 @@
 
 
 * (c) WRITTEN NOTICE AND BRIEFING ON CHANGE IN AMOUNT.—The Secretary of the Navy may adjust an amount listed in subsection (a) not fewer than 15 days after submitting written notice and providing a briefing to the congressional defense committees, each of which shall include the amount and rationale of any change and the resulting amount after such change.
+
+### §8692. Biennial report on shipbuilder training and the defense industrial base
+* Not later than February 1 of each even-numbered year until 2026, the Secretary of the Navy, in coordination with the Secretary of Labor, shall submit to the Committee on Armed Services and the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Armed Services and the Committee on Education and Labor of the House of Representatives a report on shipbuilder training and hiring requirements necessary to achieve the Navy's 30-year shipbuilding plan and to maintain the shipbuilding readiness of the defense industrial base. Each such report shall include each of the following:
+
+  * (1) An analysis and estimate of the time and investment required for new shipbuilders to gain proficiency in particular shipbuilding occupational specialties, including detailed information about the occupational specialty requirements necessary for construction of naval surface ship and submarine classes to be included in the Navy's 30-year shipbuilding plan.
+
+  * (2) An analysis of the age demographics and occupational experience level (measured in years of experience) of the shipbuilding defense industrial workforce.
+
+  * (3) An analysis of the potential time and investment challenges associated with developing and retaining shipbuilding skills in organizations that lack intermediate levels of shipbuilding experience.
+
+  * (4) Recommendations concerning how to address shipbuilder training during periods of demographic transition and evolving naval fleet architecture consistent with the Navy's most recent Integrated Force Structure Assessment.
+
+  * (5) An analysis of whether emerging technologies, such as augmented reality, may aid in new shipbuilder training.
+
+  * (6) Recommendations concerning how to encourage young adults to enter the defense shipbuilding industry and to develop the skills necessary to support the shipbuilding defense industrial base.

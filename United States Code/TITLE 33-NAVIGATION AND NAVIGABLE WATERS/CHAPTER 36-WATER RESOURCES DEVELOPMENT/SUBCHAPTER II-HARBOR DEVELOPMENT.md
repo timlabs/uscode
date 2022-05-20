@@ -3,17 +3,46 @@
 ### §2231. Study of water resources development projects by non-Federal interests
 #### (a) Submission to Secretary
 * #### (1) In general
-  * A non-Federal interest may undertake a federally authorized feasibility study of a proposed water resources development project and submit the study to the Secretary.
+  * A non-Federal interest may undertake a federally authorized feasibility study of a proposed water resources development project, or, upon the written approval of the Secretary that the modifications are consistent with the authorized purposes of the project, undertake a feasibility study on modifications to a water resources development project constructed by the Corps of Engineers, and submit the study to the Secretary.
 
 * #### (2) Guidelines
-  * To assist non-Federal interests, the Secretary, as soon as practicable, shall issue guidelines for feasibility studies of water resources development projects to provide sufficient information for the formulation of the studies.
+  * To assist non-Federal interests, the Secretary, as soon as practicable, shall issue guidelines for the formulation of feasibility studies of water resources development projects undertaken by non-Federal interests to—
+
+    * (A) ensure that any feasibility study with respect to which the Secretary submits an assessment to Congress under subsection (c) complies with all of the requirements that would apply to a feasibility study undertaken by the Secretary; and
+
+    * (B) provide sufficient information for the formulation of the studies, including processes and procedures related to reviews and assistance under subsection (e).
 
 #### (b) Review by Secretary
-* The Secretary shall review each feasibility study received under subsection (a)(1) for the purpose of determining whether or not the study, and the process under which the study was developed, each comply with Federal laws and regulations applicable to feasibility studies of water resources development projects.
+* #### (1) In general
+  * The Secretary shall review each feasibility study received under subsection (a)(1) for the purpose of determining whether or not the study, and the process under which the study was developed, each comply with Federal laws and regulations applicable to feasibility studies of water resources development projects.
+
+* #### (2) Timing
+  * The Secretary may not submit to Congress an assessment of a feasibility study under this section until such time as the Secretary—
+
+    * (A) determines that the feasibility study complies with all of the requirements that would apply to a feasibility study undertaken by the Secretary; and
+
+    * (B) completes all of the Federal analyses, reviews, and compliance processes under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), that would be required with respect to the proposed project if the Secretary had undertaken the feasibility study.
+
+* #### (3) Initiation of review
+  * #### (A) Request
+    * #### (i) Submission
+      * The non-Federal interest may submit to the Secretary a request that the Secretary initiate the analyses, reviews, and compliance processes described in paragraph (2)(B) with respect to the proposed project prior to the non-Federal interest's submission of a feasibility study under subsection (a)(1).
+
+    * #### (ii) Effect
+      * Receipt by the Secretary of a request submitted under clause (i) shall be considered the receipt of a proposal or application that will lead to a major Federal action that is subject to the requirements of section 102(2)(C) of the National Environmental Policy Act of 1969 (42 U.S.C. 4332(2)(C)) that would be required if the Secretary were to undertake the feasibility study.
+
+  * #### (B) Deadline
+    * Not later than 10 days after the Secretary receives a request under this paragraph, the Secretary shall begin the required analyses, reviews, and compliance processes.
+
+* #### (4) Notification
+  * Upon receipt of a request under paragraph (3), the Secretary shall notify the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate of the request and a timeline for completion of the required analyses, reviews, and compliance processes.
+
+* #### (5) Status updates
+  * Not later than 30 days after receiving a request under paragraph (3), and every 30 days thereafter until the Secretary submits an assessment under subsection (c) for the applicable feasibility study, the Secretary shall notify the Committee on Transportation and Infrastructure of the House of Representatives, the Committee on Environment and Public Works of the Senate, and the non-Federal interest of the status of the Secretary's required analyses, reviews, and compliance processes.
 
 #### (c) Submission to Congress
 * #### (1) Review and submission of studies to Congress
-  * Not later than 180 days after the date of receipt of a feasibility study of a project under subsection (a)(1), the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that describes—
+  * Not later than 180 days after the completion of review of a feasibility study under subsection (b), the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives an assessment that describes—
 
     * (A) the results of the Secretary's review of the study under subsection (b), including a determination of whether the project is feasible;
 
@@ -94,7 +123,7 @@
 
 #### (c) Studies and engineering
 * #### (1) In general
-  * When requested by an appropriate non-Federal interest, the Secretary shall undertake all necessary studies, engineering, and technical assistance on construction for any project to be undertaken under subsection (b), and provide technical assistance in obtaining all necessary permits for the construction, if the non-Federal interest contracts with the Secretary to furnish the United States funds for the studies, engineering, or technical assistance on construction in the period during which the studies, engineering, or technical assistance on construction are being conducted.
+  * When requested by an appropriate non-Federal interest, the Secretary shall undertake all necessary studies, engineering, and technical assistance on construction for any project to be undertaken under this section, and provide technical assistance in obtaining all necessary permits for the construction, if the non-Federal interest contracts with the Secretary to furnish the United States funds for the studies, engineering, or technical assistance on construction in the period during which the studies, engineering, or technical assistance on construction are being conducted.
 
 * #### (2) No waiver
   * Nothing in this section may be construed to waive any requirement of section 3142 of title 40.
@@ -185,18 +214,22 @@
 * If a non-Federal interest notifies the Secretary that the non-Federal interest intends to carry out a project, or separable element thereof, under this section, the Secretary shall provide written notice to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives concerning the intent of the non-Federal interest.
 
 #### (f) Operation and maintenance
-* Whenever a non-Federal interest carries out improvements to a federally authorized harbor or inland harbor, the Secretary shall be responsible for operation and maintenance in accordance with section 2211(b) of this title if—
+* #### (1) Assumption of maintenance
+  * Whenever a non-Federal interest carries out improvements to a federally authorized harbor or inland harbor, the Secretary shall be responsible for operation and maintenance in accordance with section 2211(b) of this title if—
 
-  * (1) before construction of the improvements—
+    * (A) before construction of the improvements—
 
-    * (A) the Secretary determines that the improvements are feasible and consistent with the purposes of this subchapter; and
+      * (i) the Secretary determines that the improvements are feasible and consistent with the purposes of this subchapter; and
 
-    * (B) the Secretary and the non-Federal interest execute a written agreement relating to operation and maintenance of the improvements;
+      * (ii) the Secretary and the non-Federal interest execute a written agreement relating to operation and maintenance of the improvements;
 
 
-  * (2) the Secretary certifies that the project or separable element of the project is constructed in accordance with applicable permits and appropriate engineering and design standards; and
+    * (B) the Secretary certifies that the project or separable element of the project is constructed in accordance with applicable permits and appropriate engineering and design standards; and
 
-  * (3) the Secretary does not find that the project or separable element is no longer feasible.
+    * (C) the Secretary does not find that the project or separable element is no longer feasible.
+
+* #### (2) Federal financial participation in the costs of a locally preferred plan.
+  * In the case of improvements determined by the Secretary pursuant to paragraph (1)(A)(i) to deviate from the national economic development plan, the Secretary shall be responsible for all operation and maintenance costs of such improvements, as described in section 2211(b) of this title, including costs in excess of the costs of the national economic development plan, if the Secretary determines that the improvements satisfy the requirements of paragraph (1).
 
 ### §2233. Coordination and scheduling of Federal, State, and local actions
 #### (a) Notice of intent
@@ -227,7 +260,7 @@
 * Not later than one year after November 17, 1986, the Secretary shall prepare and transmit to Congress a report estimating the time required for the issuance of all Federal, State, and local permits for the construction of navigation projects for harbors or inland harbors and associated activities. The Secretary shall include in that report recommendations for further reducing the amount of time required for the issuance of those permits, including any proposed changes in existing law.
 
 ### §2234. Nonapplicability to Saint Lawrence Seaway
-* Sections 2231, 2232, and 2233 of this title do not apply to any harbor or inland harbor project for that portion of the Saint Lawrence Seaway administered by the Saint Lawrence Seaway Development Corporation.
+* Sections 2231, 2232, and 2233 of this title do not apply to any harbor or inland harbor project for that portion of the Saint Lawrence Seaway administered by the Great Lakes St. Lawrence Seaway Development Corporation.
 
 ### §2235. Construction in usable increments
 * Any navigation project for a harbor or inland harbor authorized by this subchapter or any other provision of law enacted before, on, or after November 17, 1986, may be constructed in usable increments.
@@ -346,7 +379,7 @@
 #### (a) Trust fund
 * There are authorized to be appropriated out of the Harbor Maintenance Trust Fund, established by section 9505 of title 26, for each fiscal year such sums as may be necessary to pay—
 
-  * (1) 100 percent of the eligible operations and maintenance costs of those portions of the Saint Lawrence Seaway operated and maintained by the Saint Lawrence Seaway Development Corporation for such fiscal year; and
+  * (1) 100 percent of the eligible operations and maintenance costs of those portions of the Saint Lawrence Seaway operated and maintained by the Great Lakes St. Lawrence Seaway Development Corporation for such fiscal year; and
 
   * (2) up to 100 percent of the eligible operations and maintenance costs assigned to commercial navigation of all harbors and inland harbors within the United States.
 
@@ -371,7 +404,22 @@
     * The Secretary shall not allocate funds under paragraph (1) based solely on the tonnage transiting through a harbor.
 
 * #### (3) Emerging harbor projects
-  * Notwithstanding any other provision of this subsection, in making expenditures under paragraph (1) for each fiscal year, the Secretary shall allocate for operation and maintenance costs of emerging harbor projects an amount that is not less than 10 percent of the funds made available under this section for fiscal year 2012 to pay the costs described in subsection (a)(2).
+  * #### (A) Allocation
+    * Notwithstanding any other provision of this subsection, in making expenditures under paragraph (1) for each fiscal year, the Secretary shall allocate for operation and maintenance costs of emerging harbor projects an amount that is not less than 10 percent of the funds made available under this section for fiscal year 2012 to pay the costs described in subsection (a)(2).
+
+  * #### (B) Additional uses at emerging harbors
+    * #### (i) Uses
+      * In each fiscal year, the Secretary may use not more than $5,000,000 of funds allocated for emerging harbor projects under paragraph (1) to pay for the costs of up to 10 projects for maintenance dredging of a marina or berthing area, in an emerging harbor, that includes an area that is located adjacent to, or is accessible by, a Federal navigation project, subject to clauses (ii) and (iii) of this subparagraph.
+
+    * #### (ii) Eligible emerging harbors
+      * The Secretary may use funds as authorized under clause (i) at an emerging harbor that—
+
+        * (I) supports commercial activities, including commercial fishing operations, commercial fish processing operations, recreational and sport fishing, and commercial boat yards; or
+
+        * (II) supports activities of the Secretary of the department in which the Coast Guard is operating.
+
+    * #### (iii) Cost-sharing requirements
+      * The Secretary shall require a non-Federal interest to contribute not less than 25 percent of the costs for maintenance dredging of that portion of a maintenance dredging project described in clause (i) that is located outside of the Federal navigation project, which may be provided as an in-kind contribution, including through the use of dredge equipment owned by non-Federal interest to carry out such activities.
 
 * #### (4) Management of Great Lakes Navigation System
   * To sustain effective and efficient operation and maintenance of the Great Lakes Navigation System, including any navigation feature in the Great Lakes that is a Federal responsibility with respect to operation and maintenance, the Secretary shall manage all of the individually authorized projects in the Great Lakes Navigation System as components of a single, comprehensive system, recognizing the interdependence of the projects.
@@ -445,7 +493,7 @@
 
       * (i) the total future costs required to achieve and maintain the constructed width and depth for the harbors and inland harbors referred to in subsection (a)(2); and
 
-      * (ii) the total expected costs for expanded uses at eligible harbors or inland harbors referred to in subsection (d)(2).
+      * (ii) the total expected costs for uses described in subsection (c)(3)(B) and expanded uses at eligible harbors or inland harbors referred to in subsection (d)(2).
 
   * #### (B) Uses of harbors and inland harbors
     * In carrying out paragraph (1), the Secretary shall identify current uses (and, to the extent practicable, assess the national, regional, and local benefits of such uses) of harbors and inland harbors referred to in subsection (a)(2), including the use of those harbors for—
@@ -503,10 +551,13 @@
 * #### (1) Constructed width and depth
   * The term "constructed width and depth" means the width and depth to which a project has been constructed, which may not exceed the authorized width and depth of the project.
 
-* #### (2) Emerging harbor project
-  * The term "emerging harbor project" means a project that is assigned to a harbor or inland harbor referred to in subsection (a)(2) that transits less than 1,000,000 tons of cargo annually.
+* #### (2) Emerging harbor
+  * The term "emerging harbor" means a harbor or inland harbor referred to in subsection (a)(2) that transits less than 1,000,000 tons of cargo annually.
 
-* #### (3) Expanded uses
+* #### (3) Emerging harbor project
+  * The term "emerging harbor project" means a project that is assigned to an emerging harbor.
+
+* #### (4) Expanded uses
   * The term "expanded uses" means the following activities:
 
     * (A) The maintenance dredging of a berth in a harbor that is accessible to a Federal navigation project and that benefits commercial navigation at the harbor.
@@ -517,7 +568,18 @@
 
       * (ii) such sediment is located in and affects the maintenance of a Federal navigation project or is located in a berth that is accessible to a Federal navigation project.
 
-* #### (4) Great Lakes Navigation System
+    * (C) An in-water improvement, if the improvement—
+
+      * (i) is for the seismic reinforcement of a wharf or other berthing structure, or the repair or replacement of a deteriorating wharf or other berthing structure, at a port facility;
+
+      * (ii) benefits commercial navigation at the harbor; and
+
+      * (iii) is located in, or adjacent to, a berth that is accessible to a Federal navigation project.
+
+
+    * (D) An activity to maintain slope stability at a berth in a harbor that is accessible to a Federal navigation project if such activity benefits commercial navigation at the harbor.
+
+* #### (5) Great Lakes Navigation System
   * The term "Great Lakes Navigation System" includes—
 
     * (A)(i) Lake Superior;
@@ -536,11 +598,8 @@
 
     * (D) areas of the Saint Lawrence River that are operated or maintained by the Federal Government for commercial navigation.
 
-* #### (5) Harbor maintenance tax
+* #### (6) Harbor maintenance tax
   * The term "harbor maintenance tax" means the amounts collected under section 4461 of title 26.
-
-* #### (6) High-use harbor project
-  * The term "high-use harbor project" means a project that is assigned to a harbor or inland harbor referred to in subsection (a)(2) that transits not less than 10,000,000 tons of cargo annually.
 
 * #### (7) Moderate-use harbor project
   * The term "moderate-use harbor project" means a project that is assigned to a harbor or inland harbor referred to in subsection (a)(2) that transits annually—
@@ -628,6 +687,59 @@
 
 * #### (2) Application
   * The target total budget resources for a fiscal year specified in subsection (b)(1) shall only apply in a fiscal year for which the level of appropriations provided for the civil works program of the Corps of Engineers in that fiscal year is increased, as compared to the previous fiscal year, by a dollar amount that is at least equivalent to the dollar amount necessary to address such target total budget resources in that fiscal year.
+
+### §2238b–1. Budgetary Treatment Expansion and Adjustment for the Harbor Maintenance Trust Fund
+* Any discretionary appropriation for the Corps of Engineers—
+
+  * (1) derived from the Harbor Maintenance Trust Fund, in this fiscal year and thereafter, not to exceed the sum of—
+
+    * (A) the total amount deposited in the Harbor Maintenance Trust Fund in the fiscal year that is two years prior to the fiscal year for which the appropriation is being made; and
+
+    * (B)(i) $500,000,000 for fiscal year 2021;
+
+    * (ii) $600,000,000 for fiscal year 2022;
+
+    * (iii) $700,000,000 for fiscal year 2023;
+
+    * (iv) $800,000,000 for fiscal year 2024;
+
+    * (v) $900,000,000 for fiscal year 2025;
+
+    * (vi) $1,000,000,000 for fiscal year 2026;
+
+    * (vii) $1,200,000,000 for fiscal year 2027;
+
+    * (viii) $1,300,000,000 for fiscal year 2028;
+
+    * (ix) $1,400,000,000 for fiscal year 2029; and
+
+    * (x) $1,500,000,000 for fiscal year 2030 and thereafter; and
+
+
+  * (2) for the Operation and Maintenance account of the Corps of Engineers which is designated in statute as being to carry out subsection (c) of section 2238c of this title, not to exceed—
+
+    * (A) $50,000,000 for fiscal year 2021;
+
+    * (B) $50,000,000 for fiscal year 2022;
+
+    * (C) $56,000,000 for fiscal year 2023;
+
+    * (D) $58,000,000 for fiscal year 2024;
+
+    * (E) $60,000,000 for fiscal year 2025;
+
+    * (F) $62,000,000 for fiscal year 2026;
+
+    * (G) $64,000,000 for fiscal year 2027;
+
+    * (H) $66,000,000 for fiscal year 2028;
+
+    * (I) $68,000,000 for fiscal year 2029; and
+
+    * (J) $70,000,000 for fiscal year 2030;
+
+
+* shall be subtracted from the estimate of discretionary budget authority and outlays for any estimate of an appropriations Act under the Congressional Budget and Impoundment Control Act of 1974 or the Balanced Budget and Emergency Deficit Control Act of 1985.
 
 ### §2238c. Additional measures at donor ports and energy transfer ports
 #### (a) Definitions
@@ -743,7 +855,7 @@
 
 #### (f) Authorization of appropriations
 * #### (1) In general
-  * There is authorized to be appropriated to carry out this section $50,000,000 for each of fiscal years 2015 through 2020.
+  * There is authorized to be appropriated to carry out this section $50,000,000 for each of fiscal years 2015 through 2022.
 
 * #### (2) Division between donor ports, medium-sized donor ports, and energy transfer ports
   * For each fiscal year, amounts made available to carry out this section shall be provided in equal amounts to—
@@ -751,9 +863,6 @@
     * (A) donor ports and medium-sized donor ports; and
 
     * (B) energy transfer ports.
-
-* #### (3) Additional appropriations
-  * If the target total budget resources under subparagraphs (A) through (D) of section 2238b(b)(1) of this title are met for each of fiscal years 2016 through 2020, there is authorized to be appropriated to carry out this section $50,000,000 for each of fiscal years 2021 through 2025.
 
 #### (g) Savings clause
 * Nothing in this section waives any statutory requirement related to the transportation of merchandise as authorized under chapter 551 of title 46.
@@ -777,7 +886,7 @@
 * #### (2) Eligible operations and maintenance
   * (A) Except as provided in subparagraph (B), the term "eligible operations and maintenance" means all Federal operations, maintenance, repair, and rehabilitation, including (i) maintenance dredging reasonably necessary to maintain the width and nominal depth of any harbor or inland harbor; (ii) the construction of dredged material disposal facilities that are necessary for the operation and maintenance of any harbor or inland harbor; (iii) dredging and disposing of contaminated sediments that are in or that affect the maintenance of Federal navigation channels; (iv) mitigating for impacts resulting from Federal navigation operation and maintenance activities; and (v) operating and maintaining dredged material disposal facilities.
 
-  * (B) As applied to the Saint Lawrence Seaway, the term "eligible operations and maintenance" means all operations, maintenance, repair, and rehabilitation, including maintenance dredging reasonably necessary to keep such Seaway or navigation improvements operated or maintained by the Saint Lawrence Seaway Development Corporation in operation and reasonable state of repair.
+  * (B) As applied to the Saint Lawrence Seaway, the term "eligible operations and maintenance" means all operations, maintenance, repair, and rehabilitation, including maintenance dredging reasonably necessary to keep such Seaway or navigation improvements operated or maintained by the Great Lakes St. Lawrence Seaway Development Corporation in operation and reasonable state of repair.
 
   * (C) The term "eligible operations and maintenance" does not include providing any lands, easements, or rights-of-way, or performing relocations required for project operations and maintenance.
 

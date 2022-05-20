@@ -689,8 +689,8 @@
     * #### (ii) Failure to offer to all employees
       * In the case of a qualified HSA distribution to any employee, the failure to offer such distribution to any eligible individual covered under a high deductible health plan of the employer shall (notwithstanding section 4980G(d)) be treated for purposes of section 4980G as a failure to meet the requirements of section 4980G(b).
 
-#### (f) Reimbursements for medicine restricted to prescribed drugs and insulin
-* For purposes of this section and section 105, reimbursement for expenses incurred for a medicine or a drug shall be treated as a reimbursement for medical expenses only if such medicine or drug is a prescribed drug (determined without regard to whether such drug is available without a prescription) or is insulin.
+#### (f) Reimbursements for menstrual care products
+* For purposes of this section and section 105, expenses incurred for menstrual care products (as defined in section 223(d)(2)(D)) shall be treated as incurred for medical care.
 
 #### (g) Qualified small employer health reimbursement arrangement
 * For purposes of this section and section 105, payments or reimbursements from a qualified small employer health reimbursement arrangement (as defined in section 9831(d)) of an individual for medical care (as defined in section 213(d)) shall not be treated as paid or reimbursed under employer-provided coverage for medical expenses under an accident or health plan if for the month in which such medical care is provided the individual does not have minimum essential coverage (within the meaning of section 5000A(f)).
@@ -717,9 +717,9 @@
 
     * (E) the indebtedness discharged is qualified principal residence indebtedness which is discharged—
 
-      * (i) before January 1, 2021, or
+      * (i) before January 1, 2026, or
 
-      * (ii) subject to an arrangement that is entered into and evidenced in writing before January 1, 2021.
+      * (ii) subject to an arrangement that is entered into and evidenced in writing before January 1, 2026.
 
 * #### (2) Coordination of exclusions
   * #### (A) Title 11 exclusion takes precedence
@@ -1064,7 +1064,7 @@
   * The amount excluded from gross income by reason of subsection (a)(1)(E) shall be applied to reduce (but not below zero) the basis of the principal residence of the taxpayer.
 
 * #### (2) Qualified principal residence indebtedness
-  * For purposes of this section, the term "qualified principal residence indebtedness" means acquisition indebtedness (within the meaning of section 163(h)(3)(B), applied by substituting "$2,000,000 ($1,000,000" for "$1,000,000 ($500,000" in clause (ii) thereof and determined without regard to the substitution described in section 163(h)(3)(F)(i)(II)) with respect to the principal residence of the taxpayer.
+  * For purposes of this section, the term "qualified principal residence indebtedness" means acquisition indebtedness (within the meaning of section 163(h)(3)(B), applied by substituting "$750,000 ($375,000" for "$1,000,000 ($500,000" in clause (ii) thereof and determined without regard to the substitution described in section 163(h)(3)(F)(i)(II)) with respect to the principal residence of the taxpayer.
 
 * #### (3) Exception for certain discharges not related to taxpayer's financial condition
   * Subsection (a)(1)(E) shall not apply to the discharge of a loan if the discharge is on account of services performed for the lender or any other factor not directly related to a decline in the value of the residence or to the financial condition of the taxpayer.
@@ -2042,9 +2042,11 @@
 * #### (1) Educational assistance
   * The term "educational assistance" means—
 
-    * (A) the payment, by an employer, of expenses incurred by or on behalf of an employee for education of the employee (including, but not limited to, tuition, fees, and similar payments, books, supplies, and equipment), and
+    * (A) the payment, by an employer, of expenses incurred by or on behalf of an employee for education of the employee (including, but not limited to, tuition, fees, and similar payments, books, supplies, and equipment),
 
-    * (B) the provision, by an employer, of courses of instruction for such employee (including books, supplies, and equipment),
+    * (B) in the case of payments made before January 1, 2026, the payment by an employer, whether paid to the employee or to a lender, of principal or interest on any qualified education loan (as defined in section 221(d)(1)) incurred by the employee for education of the employee, and
+
+    * (C) the provision, by an employer, of courses of instruction for such employee (including books, supplies, and equipment),
 
 
 * but does not include payment for, or the provision of, tools or supplies which may be retained by the employee after completion of a course of instruction, or meals, lodging, or transportation. The term "educational assistance" also does not include any payment for, or the provision of any benefits with respect to, any course or other education involving sports, games, or hobbies.
@@ -2735,7 +2737,7 @@
 * #### (4) Modified adjusted gross income
   * The term "modified adjusted gross income" means the adjusted gross income of the taxpayer for the taxable year determined—
 
-    * (A) without regard to this section and sections 137, 221, 222, 911, 931, and 933, and
+    * (A) without regard to this section and sections 137, 221, 911, 931, and 933, and
 
     * (B) after the application of sections 86, 469, and 219.
 
@@ -2809,7 +2811,7 @@
 * #### (3) Determination of adjusted gross income
   * For purposes of paragraph (2), adjusted gross income shall be determined—
 
-    * (A) without regard to this section and sections 221, 222, 911, 931, and 933, and
+    * (A) without regard to this section and sections 221, 911, 931, and 933, and
 
     * (B) after the application of sections 86, 135, 219, and 469.
 
@@ -3009,13 +3011,6 @@
     * (A) which is organized and operated to provide firefighting or emergency medical services for persons in the State or political subdivision, as the case may be, and
 
     * (B) which is required (by written agreement) by the State or political subdivision to furnish firefighting or emergency medical services in such State or political subdivision.
-
-#### (d) Termination
-* This section shall not apply with respect to taxable years beginning—
-
-  * (1) after December 31, 2010, and before January 1, 2020, or
-
-  * (2) after December 31, 2020.
 
 ### §139D. Indian health care benefits
 #### (a) General rule

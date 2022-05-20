@@ -630,7 +630,18 @@
 
   * #### (C) Written notice
     * #### (i) In general
-      * Any party or parties to any covered transaction may initiate a review of the transaction under this paragraph by submitting a written notice of the transaction to the Chairperson of the Committee.
+      * #### (I) In general
+        * Any party or parties to any covered transaction may initiate a review of the transaction under this paragraph by submitting a written notice of the transaction to the Chairperson of the Committee.
+
+      * #### (II) Comments and acceptance
+        * #### (aa) In general
+          * Subject to item (cc), the Committee shall provide comments on a draft or formal written notice or accept a formal written notice submitted under subclause (I) with respect to a covered transaction not later than the date that is 10 business days after the date of submission of the draft or formal written notice.
+
+        * #### (bb) Completeness
+          * If the Committee determines that a draft or formal written notice described in item (aa) is not complete, the Committee shall notify the party or parties to the transaction in writing that the notice is not complete and provide an explanation of all material respects in which the notice is incomplete.
+
+        * #### (cc) Stipulations required
+          * The timing requirement under item (aa) shall apply only in a case in which the parties stipulate under clause (vi) that the transaction is a covered transaction.
 
     * #### (ii) Withdrawal of notice
       * No covered transaction for which a notice was submitted under clause (i) may be withdrawn from review, unless a written request for such withdrawal is submitted to the Committee by any party to the transaction and approved by the Committee.
@@ -640,6 +651,70 @@
 
     * #### (iv) Inclusion of partnership and side agreements
       * The Committee may require a written notice submitted under clause (i) to include a copy of any partnership agreements, integration agreements, or other side agreements relating to the transaction, as specified in regulations prescribed by the Committee.
+
+    * #### (v) Declarations for certain covered transactions
+      * #### (I) In general
+        * A party to any covered transaction may submit to the Committee a declaration with basic information regarding the transaction instead of a written notice under clause (i).
+
+      * #### (II) Regulations
+        * The Committee shall prescribe regulations establishing requirements for declarations submitted under this clause. In prescribing such regulations, the Committee shall ensure that such declarations are submitted as abbreviated notifications that would not generally exceed 5 pages in length.
+
+      * #### (III) Committee response to declaration
+        * #### (aa) In general
+          * Upon receiving a declaration under this clause with respect to a covered transaction, the Committee may, at the discretion of the Committee—
+
+            * (AA) request that the parties to the transaction file a written notice under clause (i);
+
+            * (BB) inform the parties to the transaction that the Committee is not able to complete action under this section with respect to the transaction on the basis of the declaration and that the parties may file a written notice under clause (i) to seek written notification from the Committee that the Committee has completed all action under this section with respect to the transaction;
+
+            * (CC) initiate a unilateral review of the transaction under subparagraph (D); or
+
+            * (DD) notify the parties in writing that the Committee has completed all action under this section with respect to the transaction.
+
+        * #### (bb) Timing
+          * The Committee shall take action under item (aa) not later than 30 days after receiving a declaration under this clause.
+
+        * #### (cc) Rule of construction
+          * Nothing in this subclause (other than item (aa)(CC)) shall be construed to affect the authority of the President or the Committee to take any action authorized by this section with respect to a covered transaction.
+
+      * #### (IV) Mandatory declarations
+        * #### (aa) Regulations
+          * The Committee shall prescribe regulations specifying the types of covered transactions for which the Committee requires a declaration under this subclause.
+
+        * #### (bb) Certain covered transactions with foreign government interests
+        * #### &nbsp;(AA) In general
+            * Except as provided in subitem (BB), the parties to a covered transaction shall submit a declaration described in subclause (I) with respect to the transaction if the transaction involves an investment that results in the acquisition, directly or indirectly, of a substantial interest in a United States business described in subsection (a)(4)(B)(iii) by a foreign person in which a foreign government has, directly or indirectly, a substantial interest.
+
+        * #### &nbsp;(BB) Substantial interest defined
+            * In this item, the term "substantial interest" has the meaning given that term in regulations which the Committee shall prescribe. In developing those regulations, the Committee shall consider the means by which a foreign government could influence the actions of a foreign person, including through board membership, ownership interest, or shareholder rights. An interest that is excluded under subparagraph (D) of subsection (a)(4) from the term "other investment" as used in subparagraph (B)(iii) of that subsection or that is less than a 10 percent voting interest shall not be considered a substantial interest.
+
+        * #### &nbsp;(CC) Waiver
+            * The Committee may waive, with respect to a foreign person, the requirement under subitem (AA) for the submission of a declaration described in subclause (I) if the Committee determines that the foreign person demonstrates that the investments of the foreign person are not directed by a foreign government and the foreign person has a history of cooperation with the Committee.
+
+        * #### (cc) Other declarations required by Committee
+          * The Committee may require the submission of a declaration described in subclause (I) with respect to any covered transaction identified under regulations prescribed by the Committee for purposes of this item, at the discretion of the Committee, that involves a United States business described in subsection (a)(4)(B)(iii)(II).
+
+        * #### (dd) Exception
+          * The submission of a declaration described in subclause (I) shall not be required pursuant to this subclause with respect to an investment by an investment fund if—
+
+            * (AA) the fund is managed exclusively by a general partner, a managing member, or an equivalent;
+
+            * (BB) the general partner, managing member, or equivalent is not a foreign person; and
+
+            * (CC) the investment fund satisfies, with respect to any foreign person with membership as a limited partner on an advisory board or a committee of the fund, the criteria specified in items (cc) and (dd) of subsection (a)(4)(D)(iv).
+
+        * #### (ee) Submission of written notice as an alternative
+          * Parties to a covered transaction for which a declaration is required under this subclause may instead elect to submit a written notice under clause (i).
+
+        * #### (ff) Timing and refiling of submission
+        * #### &nbsp;(AA) In general
+            * In the regulations prescribed under item (aa), the Committee may not require a declaration to be submitted under this subclause with respect to a covered transaction more than 45 days before the completion of the transaction.
+
+        * #### &nbsp;(BB) Refiling of declaration
+            * The Committee may not request or recommend that a declaration submitted under this subclause be withdrawn and refiled, except to permit parties to a covered transaction to correct material errors or omissions in the declaration submitted with respect to that transaction.
+
+        * #### (gg) Penalties
+          * The Committee may impose a penalty pursuant to subsection (h)(3) with respect to a party that fails to comply with this subclause.
 
     * #### (vi) Stipulations regarding transactions
       * #### (I) In general
@@ -730,8 +805,8 @@
     * The Chairperson shall, not later than 180 days after the effective date of the Foreign Investment and National Security Act of 2007, publish in the Federal Register guidance on the types of transactions that the Committee has reviewed and that have presented national security considerations, including transactions that may constitute covered transactions that would result in control of critical infrastructure relating to United States national security by a foreign government or an entity controlled by or acting on behalf of a foreign government.
 
 * #### (3) Certifications to Congress
-  * #### (A) Certified notice at completion of review
-    * Upon completion of a review under subsection (b) that concludes action under this section, the chairperson and the head of the lead agency shall transmit a certified notice to the members of Congress specified in subparagraph (C)(iii).
+  * #### (A) Certified notice at completion of review or assessment
+    * Upon completion of a review under this subsection that concludes action under this section, or upon the Committee making a notification under paragraph (1)(C)(v)(III)(aa)(DD), the chairperson and the head of the lead agency shall transmit a certified notice to the members of Congress specified in subparagraph (C)(iii).
 
   * #### (B) Certified report at completion of investigation
     * As soon as is practicable after completion of an investigation under subsection (b) that concludes action under this section, the chairperson and the head of the lead agency shall transmit to the members of Congress specified in subparagraph (C)(iii) a certified written report (consistent with the requirements of subsection (c)) on the results of the investigation, unless the matter under investigation has been sent to the President for decision.
@@ -740,9 +815,11 @@
     * #### (i) In general
       * Each certified notice and report required under subparagraphs (A) and (B), respectively, shall be submitted to the members of Congress specified in clause (iii), and shall include—
 
-        * (I) a description of the actions taken by the Committee with respect to the transaction; and
+        * (I) a description of the actions taken by the Committee with respect to the transaction;
 
-        * (II) identification of the determinative factors considered under subsection (f).
+        * (II) a certification that all relevant national security factors have received full consideration; and
+
+        * (III) whether the transaction is described under clause (i), (ii), (iii), (iv), or (v) of subsection (a)(4)(B).
 
     * #### (ii) Content of certification
       * Each certified notice and report required under subparagraphs (A) and (B), respectively, shall be signed by the chairperson and the head of the lead agency, and shall state that, in the determination of the Committee, there are no unresolved national security concerns with the transaction that is the subject of the notice or report.
@@ -764,12 +841,15 @@
       * #### (I) In general
         * Each certified notice and report required under subparagraphs (A) and (B), respectively, shall be signed by the chairperson and the head of the lead agency, which signature requirement may only be delegated in accordance with subclause (II).
 
-      * #### (II) Limitation on delegation of certifications
-        * The chairperson and the head of the lead agency may delegate the signature requirement under subclause (I)—
+      * #### (II) Delegation of certifications
+        * #### (aa) In general
+          * Subject to item (bb), the chairperson, in consultation with the Committee, may determine the level of official to whom the signature requirement under subclause (I) for the chairperson and the head of the lead agency may be delegated. The level of official to whom the signature requirement may be delegated may differ based on any factor relating to a transaction that the chairperson, in consultation with the Committee, deems appropriate, including the type or value of the transaction.
 
-          * (aa) only to an appropriate employee of the Department of the Treasury (in the case of the Secretary of the Treasury) or to an appropriate employee of the lead agency (in the case of the lead agency) who was appointed by the President, by and with the advice and consent of the Senate, with respect to any notice provided under paragraph (1) following the completion of a review under this section; or
+        * #### (bb) Limitation on delegation with respect to certain transactions
+          * The signature requirement under subclause (I) may be delegated not below the level of the Assistant Secretary of the Treasury or an equivalent official of the lead agency.
 
-          * (bb) only to a Deputy Secretary of the Treasury (in the case of the Secretary of the Treasury) or a person serving in the Deputy position or the equivalent thereof at the lead agency (in the case of the lead agency), with respect to any report provided under subparagraph (B) following an investigation under this section.
+    * #### (v) Authority to consolidate documents
+      * Instead of transmitting a separate certified notice or certified report under subparagraph (A) or (B) with respect to each covered transaction, the Committee may, on a monthly basis, transmit such notices and reports in a consolidated document to the Members of Congress specified in clause (iii).
 
 * #### (4) Analysis by Director of National Intelligence
   * #### (A) Analysis required
@@ -1160,7 +1240,16 @@
 * #### (2) Contents of report relating to covered transactions
   * The annual report under paragraph (1) shall contain the following information, with respect to each covered transaction, for the reporting period:
 
-    * (A) A list of all notices filed and all reviews or investigations completed during the period, with basic information on each party to the transaction, the nature of the business activities or products of all pertinent persons, along with information about any withdrawal from the process, and any decision or action by the President under this section.
+    * (A) A list of all notices filed and all reviews or investigations of covered transactions completed during the period, with—
+
+      * (i) a description of the outcome of each review or investigation, including whether an agreement was entered into or condition was imposed under subsection (l)(3)(A) with respect to the transaction being reviewed or investigated, and whether the President took any action under this section with respect to that transaction;
+
+      * (ii) basic information on each party to each such transaction;
+
+      * (iii) the nature of the business activities or products of the United States business with which the transaction was entered into or intended to be entered into; and
+
+      * (iv) information about any withdrawal from the process.
+
 
     * (B) Specific, cumulative, and, as appropriate, trend information on the numbers of filings, investigations, withdrawals, and decisions or actions by the President under this section.
 
@@ -1172,16 +1261,31 @@
 
     * (F) A detailed discussion of all perceived adverse effects of covered transactions on the national security or critical infrastructure of the United States that the Committee will take into account in its deliberations during the period before delivery of the next report, to the extent possible.
 
+    * (G) Statistics on compliance plans conducted and actions taken by the Committee under subsection (l)(6), including subparagraph (D) of that subsection, during that period, a general assessment of the compliance of parties with agreements entered into and conditions imposed under subsection (l)(3)(A) that are in effect during that period, including a description of any actions taken by the Committee to impose penalties or initiate a unilateral review pursuant to subsection (b)(1)(D)(iii), and any recommendations for improving the enforcement of such agreements and conditions.
+
+    * (H) Cumulative and, as appropriate, trend information on the number of declarations filed under subsection (b)(1)(C)(v), the actions taken by the Committee in response to those declarations, the business sectors involved in those declarations, and the countries involved in those declarations.
+
+    * (I) A description of—
+
+      * (i) the methods used by the Committee to identify non-notified and non-declared transactions under subsection (b)(1)(H);
+
+      * (ii) potential methods to improve such identification and the resources required to do so; and
+
+      * (iii) the number of transactions identified through the process established under that subsection during the reporting period and the number of such transactions flagged for further review.
+
+
+    * (J) A summary of the hiring practices and policies of the Committee pursuant to subsection (k)(4).
+
+    * (K) A list of the waivers granted by the Committee under subsection (b)(1)(C)(v)(IV)(bb)(CC).
+
 * #### (3) Contents of report relating to critical technologies
-  * #### (A) In general
-    * In order to assist Congress in its oversight responsibilities with respect to this section, the President and such agencies as the President shall designate shall include in the annual report submitted under paragraph (1)—
+  * In order to assist Congress in its oversight responsibilities with respect to this section, the President and such agencies as the President shall designate shall include in the annual report submitted under paragraph (1)—
 
-      * (i) an evaluation of whether there is credible evidence of a coordinated strategy by 1 or more countries or companies to acquire United States companies involved in research, development, or production of critical technologies for which the United States is a leading producer; and
+    * (A) an evaluation of whether there is credible evidence of a coordinated strategy by 1 or more countries or companies to acquire United States companies involved in research, development, or production of critical technologies for which the United States is a leading producer;
 
-      * (ii) an evaluation of whether there are industrial espionage activities directed or directly assisted by foreign governments against private United States companies aimed at obtaining commercial secrets related to critical technologies.
+    * (B) an evaluation of whether there are industrial espionage activities directed or directly assisted by foreign governments against private United States companies aimed at obtaining commercial secrets related to critical technologies; and
 
-  * #### (B) Release of unclassified study
-    * All appropriate portions of the annual report under paragraph (1) may be classified. An unclassified version of the report, as appropriate, consistent with safeguarding national security and privacy, shall be made available to the public.
+    * (C) a description of the technologies recommended by the chairperson under subsection (a)(6)(B) for identification under the interagency process set forth in section 4817(a) of this title.
 
 * #### (4) Form of report
   * #### (A) In general

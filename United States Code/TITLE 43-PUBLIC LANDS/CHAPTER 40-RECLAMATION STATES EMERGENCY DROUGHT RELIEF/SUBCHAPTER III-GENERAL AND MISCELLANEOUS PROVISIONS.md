@@ -1,7 +1,7 @@
 ### SUBCHAPTER III—GENERAL AND MISCELLANEOUS PROVISIONS
 
 ### §2241. Authorization of appropriations
-* Except as otherwise provided in section 2243 of this title (relating to temperature control devices at Shasta Dam, California), there is authorized to be appropriated not more than $120,000,000 in total for the period of fiscal years 2006 through 2020.
+* Except as otherwise provided in section 2243 of this title (relating to temperature control devices at Shasta Dam, California), there is authorized to be appropriated not more than $120,000,000 in total for the period of fiscal years 2006 through 2021.
 
 ### §2242. Authority of Secretary
 * The Secretary is authorized to perform any and all acts and to promulgate such regulations as may be necessary and appropriate for the purpose of implementing this chapter. In carrying out the authorities under this chapter, the Secretary shall give specific consideration to the needs of fish and wildlife, together with other project purposes, and shall consider temporary operational changes which will mitigate, or can be expected to have an effect in mitigating, fish and wildlife losses and damages resulting from drought conditions, consistent with the Secretary's other obligations.

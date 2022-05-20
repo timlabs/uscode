@@ -665,7 +665,7 @@
 * The Secretary may enter into contracts to carry out the Secretary's responsibilities under this section. The Secretary shall enter into a contract on a sole-source basis to ensure the timely completion of the National Summit in fiscal year 1998.
 
 ### §1148. Authority to postpone certain deadlines by reason of Presidentially declared disaster or terroristic or military actions
-* In the case of a pension or other employee benefit plan, or any sponsor, administrator, participant, beneficiary, or other person with respect to such plan, affected by a Presidentially declared disaster (as defined in section 1033(h)(3) of title 26) or a terroristic or military action (as defined in section 692(c)(2) of such title), the Secretary may, notwithstanding any other provision of law, prescribe, by notice or otherwise, a period of up to 1 year which may be disregarded in determining the date by which any action is required or permitted to be completed under this chapter. No plan shall be treated as failing to be operated in accordance with the terms of the plan solely as the result of disregarding any period by reason of the preceding sentence.
+* In the case of a pension or other employee benefit plan, or any sponsor, administrator, participant, beneficiary, or other person with respect to such plan, affected by a Presidentially declared disaster (as defined in section 1033(h)(3) of title 26) a terroristic or military action (as defined in section 692(c)(2) of such title), or a public health emergency declared by the Secretary of Health and Human Services pursuant to section 247d of title 42, the Secretary may, notwithstanding any other provision of law, prescribe, by notice or otherwise, a period of up to 1 year which may be disregarded in determining the date by which any action is required or permitted to be completed under this chapter. No plan shall be treated as failing to be operated in accordance with the terms of the plan solely as the result of disregarding any period by reason of the preceding sentence.
 
 ### §1149. Prohibition on false statements and representations
 * No person, in connection with a plan or other arrangement that is multiple employer welfare arrangement described in section 1002(40) of this title, shall make a false statement or false representation of fact, knowing it to be false, in connection with the marketing or sale of such plan or arrangement, to any employee, any member of an employee organization, any beneficiary, any employer, any employee organization, the Secretary, or any State, or the representative or agent of any such person, State, or the Secretary, concerning—
@@ -705,3 +705,14 @@
 
 #### (g) Exception
 * This section shall not apply to any plan or arrangement that does not fall within the meaning of the term "multiple employer welfare arrangement" under section 1002(40)(A) of this title.
+
+### §1152. Coordination of enforcement regarding violations of certain health care provider requirements; complaint process
+#### (a) Investigating violations
+* Upon receiving a notice from a State or the Secretary of Health and Human Services of violations of sections 300gg–131, 300gg–132, or 300gg–135 of title 42, the Secretary of Labor shall identify patterns of such violations with respect to participants or beneficiaries under a group health plan or group health insurance coverage offered by a health insurance issuer and conduct an investigation pursuant to section 1134 of this title where appropriate, as determined by the Secretary. The Secretary shall coordinate with States and the Secretary of Health and Human Services, in accordance with section 1136 of this title and with section 104 of Health Insurance Portability and Accountability Act of 1996, where appropriate, as determined by the Secretary, to ensure that appropriate measures have been taken to correct such violations retrospectively and prospectively with respect to participants or beneficiaries under a group health plan or group health insurance coverage offered by a health insurance issuer.
+
+#### (b) Complaint process
+* Not later than January 1, 2022, the Secretary shall ensure a process under which the Secretary—
+
+  * (1) may receive complaints from participants and beneficiaries of group health plans or group health insurance coverage offered by a health insurance issuer relating to alleged violations of the sections specified in subsection (a); and
+
+  * (2) transmits such complaints to States or the Secretary of Health and Human Services (as determined appropriate by the Secretary) for potential enforcement actions.

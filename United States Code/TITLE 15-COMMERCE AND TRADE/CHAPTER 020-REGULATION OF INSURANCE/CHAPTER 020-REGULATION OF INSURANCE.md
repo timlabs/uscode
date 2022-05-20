@@ -15,6 +15,38 @@
 
 * (b) Nothing contained in this chapter shall render the said Sherman Act inapplicable to any agreement to boycott, coerce, or intimidate, or act of boycott, coercion, or intimidation.
 
+* (c)(1) Nothing contained in this chapter shall modify, impair, or supersede the operation of any of the antitrust laws with respect to the business of health insurance (including the business of dental insurance and limited-scope dental benefits).
+
+  * (2) Paragraph (1) shall not apply with respect to making a contract, or engaging in a combination or conspiracy—
+
+    * (A) to collect, compile, or disseminate historical loss data;
+
+    * (B) to determine a loss development factor applicable to historical loss data;
+
+    * (C) to perform actuarial services if such contract, combination, or conspiracy does not involve a restraint of trade; or
+
+    * (D) to develop or disseminate a standard insurance policy form (including a standard addendum to an insurance policy form and standard terminology in an insurance policy form) if such contract, combination, or conspiracy is not to adhere to such standard form or require adherence to such standard form.
+
+
+  * (3) For purposes of this subsection—
+
+    * (A) the term "antitrust laws" has the meaning given it in section 12(a) of this title, except that such term includes section 45 of this title to the extent that such section 45 applies to unfair methods of competition;
+
+    * (B) the term "business of health insurance (including the business of dental insurance and limited-scope dental benefits)" does not include—
+
+      * (i) the business of life insurance (including annuities); or
+
+      * (ii) the business of property or casualty insurance, including but not limited to—
+
+        * (I) any insurance or benefits defined as "excepted benefits" under paragraph (1), subparagraph (B) or (C) of paragraph (2), or paragraph (3) of section 9832(c) of title 26 whether offered separately or in combination with insurance or benefits described in paragraph (2)(A) of such section; and
+
+        * (II) any other line of insurance that is classified as property or casualty insurance under State law;
+
+
+    * (C) the term "historical loss data" means information respecting claims paid, or reserves held for claims reported, by any person engaged in the business of insurance; and
+
+    * (D) the term "loss development factor" means an adjustment to be made to reserves held for losses incurred for claims reported by any person engaged in the business of insurance, for the purpose of bringing such reserves to an ultimate paid basis.
+
 ### §1014. Effect on other laws
 * Nothing contained in this chapter shall be construed to affect in any manner the application to the business of insurance of the Act of July 5, 1935, as amended, known as the National Labor Relations Act [29 U.S.C. 151 et seq.], or the Act of June 25, 1938, as amended, known as the Fair Labor Standards Act of 1938 [29 U.S.C. 201 et seq.], or the Act of June 5, 1920, known as the Merchant Marine Act, 1920.
 

@@ -20,9 +20,16 @@
 
 * (b) REQUIREMENT THAT PROJECTS IMPROVE CONVENTIONAL DEFENSE CAPABILITIES.—(1) The Secretary of Defense may not enter into a memorandum of understanding (or other formal agreement) to conduct a cooperative research and development project under this section unless the Secretary determines that the proposed project will improve, through the application of emerging technology, the conventional defense capabilities of the North Atlantic Treaty Organization or the common conventional defense capabilities of the United States and a country or organization referred to in subsection (a)(2).
 
-* (2) The authority of the Secretary to make a determination under paragraph (1) may only be delegated to the Deputy Secretary of Defense, the Under Secretary of Defense for Acquisition and Sustainment, and the Under Secretary of Defense for Research and Engineering.
+* (2) The authority of the Secretary to make a determination under paragraph (1) may only be delegated to the Deputy Secretary of Defense, the Under Secretary of Defense for Acquisition and Sustainment, or the Under Secretary of Defense for Research and Engineering.
 
-* (c) COST SHARING.—Each cooperative research and development project entered into under this section shall require sharing of the costs of the project (including the costs of claims) between the participants on an equitable basis.
+* (c) COST SHARING.—
+
+  * (1) Except as provided in paragraph (2), each cooperative research and development project entered into under this section shall require sharing of the costs of the project (including the costs of claims) between the participants on an equitable basis.
+
+  * (2) A cooperative research and development project may be entered into under this section under which costs are shared between the participants on an unequal basis if the Secretary of Defense, or an official specified in subsection (b)(2) to whom the Secretary delegates authority under this paragraph, makes a written determination that unequal cost sharing provides strategic value to the United States or another participant in the project.
+
+  * (3) For purposes of this subsection, the term "cost" means the total value of cash and non-cash contributions.
+
 
 * (d) RESTRICTIONS ON PROCUREMENT OF EQUIPMENT AND SERVICES.—(1) In order to assure substantial participation on the part of countries and organizations referred to in subsection (a)(2) in cooperative research and development projects, funds made available for such projects may not be used to procure equipment or services from any foreign government, foreign research organization, or other foreign entity.
 
@@ -45,14 +52,21 @@
 
 * (g) SIDE-BY-SIDE TESTING.—(1) It is the sense of Congress—
 
-  * (A) that the Secretary of Defense should test conventional defense equipment, munitions, and technologies manufactured and developed by countries referred to in subsection (a)(2) to determine the ability of such equipment, munitions, and technologies to satisfy United States military requirements or to correct operational deficiencies; and
+  * (A) that the Secretary of Defense should test covered equipment, munitions, and technologies to determine the ability of such covered equipment, munitions, and technologies to satisfy United States military requirements or to correct operational deficiencies; and
 
-  * (B) that while the testing of nondevelopmental items and items in the late state of the development process are preferred, the testing of equipment, munitions, and technologies may be conducted to determine procurement alternatives.
+  * (B) that while the testing of nondevelopmental items and items in the late state of the development process are preferred, the testing of such covered equipment, munitions, and technologies may be conducted to determine procurement alternatives.
 
 
-* (2) The Secretary of Defense may acquire equipment, munitions, and technologies of the type described in paragraph (1) for the purpose of conducting the testing described in that paragraph.
+* (2) The Secretary of Defense may acquire covered equipment, munitions, and technologies for the purpose of conducting the testing described in that paragraph.
 
 * (3) The use of side-by-side testing under this subsection may be considered to be the use of competitive procedures for purposes of chapter 137 of this title, when procuring items within 5 years after an initial determination that the items have been successfully tested and found to satisfy United States military requirements or to correct operational deficiencies.
+
+* (4) Covered Equipment, Munitions, and Technologies Defined.—In this subsection, the term "covered equipment, munitions, and technologies" means—
+
+  * (A) conventional defense equipment, munitions, and technologies manufactured and developed by countries referred to in subsection (a)(2); and
+
+  * (B) conventional defense equipment, munitions, and technologies manufactured and developed domestically.
+
 
 * (h) SECRETARY TO ENCOURAGE SIMILAR PROGRAMS.—The Secretary of Defense shall encourage member nations of the North Atlantic Treaty Organization, major non-NATO allies, and other friendly foreign countries to establish programs similar to the one provided for in this section.
 
@@ -325,6 +339,37 @@
 
   * (ii) a statement of the current estimated cost of the project, including the cost of any real property transaction in connection with the project.
 
+
+* (f) REPORT ON CONTRIBUTIONS RECEIVED FROM DESIGNATED COUNTRIES.—
+
+  * (1) IN GENERAL.—Not later than January 15 each year, the Secretary of Defense shall submit to the appropriate committees of Congress a report on the burden sharing contributions received under this section from designated countries.
+
+  * (2) ELEMENTS.—Each report required by paragraph (1) shall include the following for the preceding fiscal year:
+
+    * (A) A list of all designated countries from which burden sharing contributions were received.
+
+    * (B) An explanation of the purpose for which each such burden sharing contribution was provided.
+
+    * (C) A description of any written agreement entered into with a designated country under this section, including the date on which the agreement was signed.
+
+    * (D) For each designated country—
+
+      * (i) the amount provided by the designated country; and
+
+      * (ii) the amount of any remaining unobligated balance.
+
+
+    * (E) The amount of such burden sharing contributions expended, by eligible category, including compensation for local national employees, military construction projects, and supplies and services of the Department of Defense.
+
+    * (F) Any other matter the Secretary of Defense considers relevant.
+
+
+  * (3) APPROPRIATE COMMITTEES OF CONGRESS DEFINED.—In this subsection, the term "appropriate committees of Congress" means—
+
+    * (A) the Committee on Armed Services, the Committee on Foreign Relations, and the Committee on Appropriations of the Senate; and
+
+    * (B) the Committee on Armed Services, the Committee on Foreign Affairs, and the Committee on Appropriations of the House of Representatives.
+
 ### §2350k. Relocation within host nation of elements of armed forces overseas
 * (a) AUTHORITY TO ACCEPT CONTRIBUTIONS.—The Secretary of Defense may accept contributions from any nation because of or in support of the relocation of elements of the armed forces from or to any location within that nation. Such contributions may be accepted in dollars or in the currency of the host nation. Any such contribution shall be placed in an account established for such purpose and shall remain available until expended for the purposes specified in subsection (b). The Secretary shall establish a separate account for such purpose for each country from which such contributions are accepted.
 
@@ -389,9 +434,176 @@
 
   * (3) The term "test facility" means a range or other facility at which testing of defense equipment may be carried out.
 
+### §2350m. Participation in European program on multilateral exchange of surface transportation services
+* (a) PARTICIPATION AUTHORIZED.—
+
+  * (1) IN GENERAL.—The Secretary of Defense, with the concurrence of the Secretary of State, may authorize the participation of the Department of Defense in the Surface Exchange of Services program (in this section referred to as the "SEOS program") of the Movement Coordination Centre Europe.
+
+  * (2) SCOPE OF PARTICIPATION.—Participation of the Department of Defense in the SEOS program under paragraph (1) may include—
+
+    * (A) the reciprocal exchange or transfer of surface transportation on a reimbursable basis or by replacement-in-kind; and
+
+    * (B) the exchange of surface transportation services of an equal value.
+
+
+* (b) WRITTEN ARRANGEMENT OR AGREEMENT.—
+
+  * (1) IN GENERAL.—Participation of the Department of Defense in the SEOS program shall be in accordance with a written arrangement or agreement entered into by the Secretary of Defense, with the concurrence of the Secretary of State, and the Movement Coordination Centre Europe.
+
+  * (2) NOTIFICATION.—The Secretary of Defense shall provide to the congressional defense committees notification of any arrangement or agreement entered into under paragraph (1).
+
+  * (3) FUNDING ARRANGEMENTS.—If Department of Defense facilities, equipment, or funds are used to support the SEOS program, the written arrangement or agreement under paragraph (1) shall specify the details of any equitable cost-sharing or other funding arrangement.
+
+  * (4) OTHER ELEMENTS.—Any written arrangement or agreement entered into under paragraph (1) shall require that any accrued credits or liability resulting from an unequal exchange or transfer of surface transportation services shall be liquidated through the SEOS program not less than once every five years.
+
+
+* (c) IMPLEMENTATION.—In carrying out any arrangement or agreement entered into under subsection (b), the Secretary of Defense may—
+
+  * (1) pay the equitable share of the Department of Defense for the operating expenses of the Movement Coordination Centre Europe and the SEOS program from funds available to the Department of Defense for operation and maintenance; and
+
+  * (2) assign members of the armed forces or Department of Defense civilian personnel, within billets authorized for the United States European Command, to duty at the Movement Coordination Centre Europe as necessary to fulfill Department of Defense obligations under that arrangement or agreement.
+
+
+* (d) CREDITING OF RECEIPTS.—Any amount received by the Department of Defense as part of the SEOS program shall be credited, at the option of the Secretary of Defense, to—
+
+  * (1) the appropriation, fund, or account used in incurring the obligation for which such amount is received; or
+
+  * (2) an appropriate appropriation, fund, or account currently available for the purposes for which the expenditures were made.
+
+
+* (e) ANNUAL REPORT.—
+
+  * (1) IN GENERAL.—Not later than 30 days after the end of each fiscal year in which the authority under this section is in effect, the Secretary of Defense shall submit to the congressional defense committees a report on Department of Defense participation in the SEOS program during such fiscal year.
+
+  * (2) ELEMENTS.—Each report required by paragraph (1) shall include the following:
+
+    * (A) A description of the equitable share of the costs and activities of the SEOS program paid by the Department of Defense.
+
+    * (B) A description of any amount received by the Department of Defense as part of such program, including the country from which the amount was received.
+
+
+* (f) LIMITATION ON STATUTORY CONSTRUCTION.—Nothing in this section may be construed to authorize the use of foreign sealift in violation of section 2631.
+
 ### §2350n. North Atlantic Treaty Organization Joint Force Command
 * (a) AUTHORIZATION.—The Secretary of Defense shall authorize the establishment of, and the participation by members of the armed forces in, the North Atlantic Treaty Organization Joint Force Command (in this section referred to as the "Joint Force Command"), to be established in the United States.
 
 * (b) USE OF DEPARTMENT OF DEFENSE FACILITIES AND EQUIPMENT.—The Secretary may use facilities and equipment of the Department of Defense to support the Joint Force Command.
 
 * (c) AVAILABILITY OF FUNDS.—Amounts authorized to be appropriated to the Department of Defense shall be available to carry out the purposes of this section.
+
+### §2350_o_. Participation in programs relating to coordination or exchange of air refueling and air transportation services
+* (a) PARTICIPATION AUTHORIZED.—
+
+  * (1) IN GENERAL.—The Secretary of Defense, with the concurrence of the Secretary of State, may authorize the participation of the Department of Defense in programs relating to the coordination or exchange of air refueling and air transportation services, including in the arrangement known as the Air Transport and Air-to-Air Refueling and other Exchanges of Services program (in this section referred to as the "ATARES program").
+
+  * (2) SCOPE OF PARTICIPATION.—Participation of the Department of Defense in programs referred to in paragraph (1) may include—
+
+    * (A) the reciprocal exchange or transfer of air refueling and air transportation services on a reimbursable basis or by replacement-in-kind; and
+
+    * (B) the exchange of air refueling and air transportation services of an equal value.
+
+
+  * (3) LIMITATIONS WITH RESPECT TO PARTICIPATION IN ATARES PROGRAM.—
+
+    * (A) IN GENERAL.—The Department of Defense balance of executed flight hours in participation in the ATARES program under paragraph (1), whether as credits or debits, may not exceed a total of 500 hours.
+
+    * (B) AIR REFUELING.—The Department of Defense balance of executed flight hours for air refueling in participation in the ATARES program under paragraph (1) may not exceed 200 hours.
+
+
+* (b) WRITTEN ARRANGEMENT OR AGREEMENT.—Participation of the Department of Defense in a program referred to in subsection (a)(1) shall be in accordance with a written arrangement or agreement entered into by the Secretary of Defense, with the concurrence of the Secretary of State.
+
+* (c) IMPLEMENTATION.—In carrying out any arrangement or agreement entered into under subsection (b), the Secretary of Defense may—
+
+  * (1) pay the equitable share of the Department of Defense for the recurring and nonrecurring costs of the applicable program referred to in subsection (a)(1) from funds available to the Department for operation and maintenance; and
+
+  * (2) assign members of the armed forces or Department of Defense civilian personnel to fulfill Department obligations under that arrangement or agreement.
+
+### §2350p. Reciprocal patient movement agreements
+* (a) AUTHORITY.—Subject to the availability of appropriations, the Secretary of Defense, with the concurrence of the Secretary of State, may enter into a bilateral or multilateral memorandum of understanding or other formal agreement with one or more governments of partner countries that provides for—
+
+  * (1) the interchangeable, nonreimbursable use of patient movement personnel, either individually or as members of a patient movement crew or team, and equipment, belonging to one partner country to perform patient movement services aboard the aircraft, vessels, or vehicles of another partner country;
+
+  * (2) the reciprocal recognition and acceptance of —
+
+    * (A) national professional credentials, certifications, and licenses of patient movement personnel; and
+
+    * (B) national certifications, approvals, and licenses of equipment used in the provision of patient movement services; and
+
+
+  * (3) the acceptance of agreed-upon standards for the provision of patient movement services by aircraft, vessel, or vehicle, including, as determined to be beneficial and otherwise permitted by law, the harmonization of patient treatment standards and procedures.
+
+
+* (b) CERTIFICATION.—(1) Before entering into a memorandum of understanding or other formal agreement with the government of a partner country under this section, the Secretary of Defense shall certify in writing that the professional credentials, certifications, licenses, and approvals for patient movement personnel and patient movement equipment of the partner country—
+
+  * (A) meet or exceed the equivalent standards of the United States for similar personnel and equipment; and
+
+  * (B) will provide for a level of care comparable to, or better than, the level of care provided by the Department of Defense.
+
+
+* (2) A certification under paragraph (1) shall be—
+
+  * (A) submitted to the appropriate committees of Congress not later than 15 days after the date on which the Secretary of Defense makes the certification; and
+
+  * (B) reviewed and recertified by the Secretary of Defense not less frequently than annually.
+
+
+* (c) SUSPENSION.—If the Secretary of Defense is unable to recertify a partner country as required by subsection (b)(2)(B), use of the personnel or equipment of the partner country by the Department of Defense under a memorandum of understanding or other formal agreement concluded pursuant to subsection (a) shall be suspended until the date on which the Secretary of Defense is able to recertify the partner country.
+
+* (d) DEFINITIONS.—In this section:
+
+  * (1) APPROPRIATE COMMITTEES OF CONGRESS.—The term "appropriate committees of Congress" means—
+
+    * (A) the congressional defense committees; and
+
+    * (B) the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives.
+
+
+  * (2) PARTNER COUNTRY.—The term "partner country" means any of the following:
+
+    * (A) A member country of the North Atlantic Treaty Organization.
+
+    * (B) Australia.
+
+    * (C) Japan.
+
+    * (D) New Zealand.
+
+    * (E) The Republic of Korea.
+
+    * (F) Any other country designated as a partner country by the Secretary of Defense, with the concurrence of the Secretary of State, for purposes of this section.
+
+
+  * (3) PATIENT MOVEMENT.—The term "patient movement" means the act or process of moving wounded, ill, injured, or other persons (including contaminated, contagious, and potentially exposed patients) to obtain medical, surgical, mental health, or dental care or treatment.
+
+### §2350m. Execution of projects under the North Atlantic Treaty Organization Security Investment Program
+* (a) AUTHORITY TO EXECUTE PROJECTS.—When the United States is designated as the Host Nation for purposes of executing a project under the North Atlantic Treaty Organization Security Investment Program (in this section referred to as the "Program"), the Secretary of Defense may accept such designation and carry out such project consistent with the requirements of this section.
+
+* (b) PROJECT FUNDING.—The Secretary of Defense may fund authorized expenditures of projects accepted under subsection (a) with—
+
+  * (1) contributions under subsection (c);
+
+  * (2) appropriations of the Department of Defense for the Program when directed by the North Atlantic Treaty Organization to apply amounts of such appropriations as part of the share of contributions of the United States for the Program; or
+
+  * (3) any combination of amounts described in paragraphs (1) and (2).
+
+
+* (c) AUTHORITY TO ACCEPT CONTRIBUTIONS.—(1) The Secretary of Defense may accept contributions from the North Atlantic Treaty Organization and member nations of the North Atlantic Treaty Organization for the purpose of carrying out a project under subsection (a).
+
+* (2) Contributions accepted under paragraph (1) shall be placed in an account established for the purpose of carrying out the project for which the funds were provided and shall remain available until expended.
+
+* (3)(A) If contributions are made under paragraph (1) as reimbursement for a project or portion of a project previously completed by the Department of Defense, such contributions shall be credited to—
+
+  * (i) the appropriations used for the project or portion thereof, if such appropriations have not yet expired; or
+
+  * (ii) the appropriations for the Program, if the appropriations described in clause (i) have expired.
+
+
+* (B) Funding credited under subparagraph (A) shall merge with and remain available for the same purposes and duration as the appropriations to which credited.
+
+* (d) OBLIGATION AUTHORITY.—The construction agent of the Department of Defense designated by the Secretary of Defense to execute a project under subsection (a) may recognize the North Atlantic Treaty Organization project authorization amounts as budgetary resources to incur obligations against for the purposes of executing the project.
+
+* (e) INSUFFICIENT CONTRIBUTIONS.—(1) In the event that the North Atlantic Treaty Organization does not agree to contribute funding for all costs necessary for the Department of Defense to carry out a project under subsection (a), including necessary personnel costs of the construction agent designated by the Department of Defense, contract claims, and any conjunctive funding requirements that exceed the project authorization or standards of the North Atlantic Treaty Organization, the Secretary of Defense, upon determination that completion of the project is in the national interest of the United States, may fund such costs, and undertake such conjunctively funded requirements not otherwise authorized by law, using any unobligated funds available among funds appropriated for the Program for military construction.
+
+* (2) The use of funds under paragraph (1) from appropriations for the Program may be in addition to or in place of any other funding sources otherwise available for the purposes for which those funds are used.
+
+* (f) AUTHORIZED EXPENDITURES DEFINED.—In this section, the term "authorized expenditures" means project expenses for which the North Atlantic Treaty Organization has agreed to contribute funding.

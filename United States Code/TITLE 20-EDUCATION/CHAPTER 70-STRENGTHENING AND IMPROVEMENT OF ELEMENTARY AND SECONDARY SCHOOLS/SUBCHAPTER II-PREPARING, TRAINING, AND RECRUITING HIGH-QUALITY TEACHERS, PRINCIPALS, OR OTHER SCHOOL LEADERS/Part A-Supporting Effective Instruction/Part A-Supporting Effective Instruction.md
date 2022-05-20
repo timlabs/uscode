@@ -48,7 +48,7 @@
         * (II) an amount that bears the same relationship to 75 percent of the excess amount as the number of individuals aged 5 through 17 from families with incomes below the poverty line in the State, as determined by the Secretary on the basis of the most recent satisfactory data, bears to the number of those individuals in all such States, as so determined; and
 
 
-      * (iv) for fiscal year 2020—
+      * (iv) for fiscal year 2020 through fiscal year 2022—
 
         * (I) an amount that bears the same relationship to 20 percent of the excess amount as the number of individuals aged 5 through 17 in the State, as determined by the Secretary on the basis of the most recent satisfactory data, bears to the number of those individuals in all such States, as so determined; and
 
@@ -57,8 +57,8 @@
   * #### (B) Exception
     * No State receiving an allotment under subparagraph (A) may receive less than one-half of 1 percent of the total excess amount allotted under such subparagraph for a fiscal year.
 
-* #### (3) Fiscal year 2021 and succeeding fiscal years
-  * For fiscal year 2021 and each of the succeeding fiscal years—
+* #### (3) Fiscal year 2023 and succeeding fiscal years
+  * For fiscal year 2023 and each of the succeeding fiscal years—
 
     * (A) the Secretary shall allot funds appropriated under section 6603(a) of this title and not reserved under subsection (a) to each State in accordance with paragraph (2)(A)(iv); and
 

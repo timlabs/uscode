@@ -5,7 +5,7 @@
 
 * (1) The terms "Secretary" and "Department" mean the Secretary of Veterans Affairs and the Department of Veterans Affairs, respectively.
 
-* (2) The term "veteran" means a person who served in the active military, naval, or air service, and who was discharged or released therefrom under conditions other than dishonorable.
+* (2) The term "veteran" means a person who served in the active military, naval, air, or space service, and who was discharged or released therefrom under conditions other than dishonorable.
 
 * (3) The term "surviving spouse" means (except for purposes of chapter 19 of this title) a person of the opposite sex who was the spouse of a veteran at the time of the veteran's death, and who lived with the veteran continuously from the date of marriage to the date of the veteran's death (except where there was a separation which was due to the misconduct of, or procured by, the veteran without the fault of the spouse) and who has not remarried or (in cases not involving remarriage) has not since the death of the veteran, and after September 19, 1962, lived with another person and held himself or herself out openly to the public to be the spouse of such other person.
 
@@ -40,7 +40,7 @@
     * (II) for a period of at least one year prior to such veteran's death, such person met the requirements of clause (i) of this subparagraph.
 
 
-* (5) The term "parent" means (except for purposes of chapter 19 of this title) a father, a mother, a father through adoption, a mother through adoption, or an individual who for a period of not less than one year stood in the relationship of a parent to a veteran at any time before the veteran's entry into active military, naval, or air service or if two persons stood in the relationship of a father or a mother for one year or more, the person who last stood in the relationship of father or mother before the veteran's last entry into active military, naval, or air service.
+* (5) The term "parent" means (except for purposes of chapter 19 of this title) a father, a mother, a father through adoption, a mother through adoption, or an individual who for a period of not less than one year stood in the relationship of a parent to a veteran at any time before the veteran's entry into active military, naval, air, or space service or if two persons stood in the relationship of a father or a mother for one year or more, the person who last stood in the relationship of father or mother before the veteran's last entry into active military, naval, air, or space service.
 
 * (6) The term "Spanish-American War" (A) means the period beginning on April 21, 1898, and ending on July 4, 1902, (B) includes the Philippine Insurrection and the Boxer Rebellion, and (C) in the case of a veteran who served with the United States military forces engaged in hostilities in the Moro Province, means the period beginning on April 21, 1898, and ending on July 15, 1903.
 
@@ -50,11 +50,11 @@
 
 * (9) The term "Korean conflict" means the period beginning on June 27, 1950, and ending on January 31, 1955.
 
-* (10) The term "Armed Forces" means the United States Army, Navy, Marine Corps, Air Force, and Coast Guard, including the reserve components thereof.
+* (10) The term "Armed Forces" means the United States Army, Navy, Marine Corps, Air Force, Space Force, and Coast Guard, including the reserve components thereof.
 
 * (11) The term "period of war" means the Spanish-American War, the Mexican border period, World War I, World War II, the Korean conflict, the Vietnam era, the Persian Gulf War, and the period beginning on the date of any future declaration of war by the Congress and ending on the date prescribed by Presidential proclamation or concurrent resolution of the Congress.
 
-* (12) The term "veteran of any war" means any veteran who served in the active military, naval, or air service during a period of war.
+* (12) The term "veteran of any war" means any veteran who served in the active military, naval, air, or space service during a period of war.
 
 * (13) The term "compensation" means a monthly payment made by the Secretary to a veteran because of service-connected disability, or to a surviving spouse, child, or parent of a veteran because of the service-connected death of the veteran occurring before January 1, 1957.
 
@@ -62,13 +62,13 @@
 
 * (15) The term "pension" means a monthly or other periodic payment made by the Secretary to a veteran because of service, age, or non-service-connected disability, or to a surviving spouse or child of a veteran because of the non-service-connected death of the veteran.
 
-* (16) The term "service-connected" means, with respect to disability or death, that such disability was incurred or aggravated, or that the death resulted from a disability incurred or aggravated, in line of duty in the active military, naval, or air service.
+* (16) The term "service-connected" means, with respect to disability or death, that such disability was incurred or aggravated, or that the death resulted from a disability incurred or aggravated, in line of duty in the active military, naval, air, or space service.
 
-* (17) The term "non-service-connected" means, with respect to disability or death, that such disability was not incurred or aggravated, or that the death did not result from a disability incurred or aggravated, in line of duty in the active military, naval, or air service.
+* (17) The term "non-service-connected" means, with respect to disability or death, that such disability was not incurred or aggravated, or that the death did not result from a disability incurred or aggravated, in line of duty in the active military, naval, air, or space service.
 
-* (18) The term "discharge or release" includes (A) retirement from the active military, naval, or air service, and (B) the satisfactory completion of the period of active military, naval, or air service for which a person was obligated at the time of entry into such service in the case of a person who, due to enlistment or reenlistment, was not awarded a discharge or release from such period of service at the time of such completion thereof and who, at such time, would otherwise have been eligible for the award of a discharge or release under conditions other than dishonorable.
+* (18) The term "discharge or release" includes (A) retirement from the active military, naval, air, or space service, and (B) the satisfactory completion of the period of active military, naval, air, or space service for which a person was obligated at the time of entry into such service in the case of a person who, due to enlistment or reenlistment, was not awarded a discharge or release from such period of service at the time of such completion thereof and who, at such time, would otherwise have been eligible for the award of a discharge or release under conditions other than dishonorable.
 
-* (19) The term "State home" means a home established by a State (other than a possession) for veterans disabled by age, disease, or otherwise who by reason of such disability are incapable of earning a living. Such term also includes such a home which furnishes nursing home care for veterans.
+* (19) The term "State home" means a home established by a State (other than a possession) or Indian tribe (as defined in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304)) for veterans disabled by age, disease, or otherwise who by reason of such disability are incapable of earning a living. Such term also includes such a home which furnishes nursing home care for veterans.
 
 * (20) The term "State" means each of the several States, Territories, and possessions of the United States, the District of Columbia, and the Commonwealth of Puerto Rico. For the purpose of section 2303 and chapters 34 and 35 of this title, such term also includes the Canal Zone.
 
@@ -78,7 +78,7 @@
 
   * (B) full-time duty (other than for training purposes) as a commissioned officer of the Regular or Reserve Corps of the Public Health Service (i) on or after July 29, 1945, or (ii) before that date under circumstances affording entitlement to "full military benefits" or (iii) at any time, for the purposes of chapter 13 of this title;
 
-  * (C) full-time duty as a commissioned officer of the National Oceanic and Atmospheric Administration or its predecessor organization the Coast and Geodetic Survey (i) on or after July 29, 1945, or (ii) before that date (I) while on transfer to one of the Armed Forces, or (II) while, in time of war or national emergency declared by the President, assigned to duty on a project for one of the Armed Forces in an area determined by the Secretary of Defense to be of immediate military hazard, or (III) in the Philippine Islands on December 7, 1941, and continuously in such islands thereafter, or (iii) at any time, for the purposes of chapter 13 of this title;
+  * (C) full-time duty as a commissioned officer in the commissioned officer corps of the National Oceanic and Atmospheric Administration or its predecessor organization the Coast and Geodetic Survey (i) on or after July 29, 1945, or (ii) before that date (I) while on transfer to one of the Armed Forces, or (II) while, in time of war or national emergency declared by the President, assigned to duty on a project for one of the Armed Forces in an area determined by the Secretary of Defense to be of immediate military hazard, or (III) in the Philippine Islands on December 7, 1941, and continuously in such islands thereafter, or (iii) at any time, for the purposes of chapter 13 of this title;
 
   * (D) service as a cadet at the United States Military, Air Force, or Coast Guard Academy, or as a midshipman at the United States Naval Academy; and
 
@@ -111,7 +111,7 @@
 
 * In the case of a member of the Army National Guard or Air National Guard of any State, such term means duty (other than full-time duty) under sections 316, 502, 503, 504, or 505 of title 32, or the prior corresponding provisions of law. Such term does not include (i) work or study performed in connection with correspondence courses, (ii) attendance at an educational institution in an inactive status, or (iii) duty performed as a temporary member of the Coast Guard Reserve.
 
-* (24) The term "active military, naval, or air service" includes—
+* (24) The term "active military, naval, air, or space service" includes—
 
   * (A) active duty;
 
@@ -130,7 +130,7 @@
 
   * (B) the Secretary of the Navy, with respect to matters concerning the Navy or the Marine Corps;
 
-  * (C) the Secretary of the Air Force, with respect to matters concerning the Air Force;
+  * (C) the Secretary of the Air Force, with respect to matters concerning the Air Force or the Space Force;
 
   * (D) the Secretary of Homeland Security, with respect to matters concerning the Coast Guard;
 
@@ -151,18 +151,20 @@
 
   * (D) the Air Force Reserve;
 
-  * (E) the Coast Guard Reserve;
+  * (E) the Space Force Reserve;
 
-  * (F) the Army National Guard of the United States; and
+  * (F) the Coast Guard Reserve;
 
-  * (G) the Air National Guard of the United States.
+  * (G) the Army National Guard of the United States; and
+
+  * (H) the Air National Guard of the United States.
 
 
 * (28) The term "nursing home care" means the accommodation of convalescents or other persons who are not acutely ill and not in need of hospital care, but who require nursing care and related medical services, if such nursing care and medical services are prescribed by, or are performed under the general direction of, persons duly licensed to provide such care. Such term includes services furnished in skilled nursing care facilities, in intermediate care facilities, and in combined facilities. It does not include domiciliary care.
 
 * (29) The term "Vietnam era" means the following:
 
-  * (A) The period beginning on February 28, 1961, and ending on May 7, 1975, in the case of a veteran who served in the Republic of Vietnam during that period.
+  * (A) The period beginning on November 1, 1955, and ending on May 7, 1975, in the case of a veteran who served in the Republic of Vietnam during that period.
 
   * (B) The period beginning on August 5, 1964, and ending on May 7, 1975, in all other cases.
 
@@ -171,7 +173,7 @@
 
 * (31) The term "spouse" means a person of the opposite sex who is a wife or husband.
 
-* (32) The term "former prisoner of war" means a person who, while serving in the active military, naval or air service, was forcibly detained or interned in line of duty—
+* (32) The term "former prisoner of war" means a person who, while serving in the active military, naval air, or space service, was forcibly detained or interned in line of duty—
 
   * (A) by an enemy government or its agents, or a hostile force, during a period of war; or
 
@@ -204,7 +206,7 @@
 
 * (2)(A) The remarriage of the surviving spouse of a veteran shall not bar the furnishing of benefits specified in paragraph (5) to such person as the surviving spouse of the veteran if the remarriage has been terminated by death or divorce unless the Secretary determines that the divorce was secured through fraud or collusion.
 
-* (B) The remarriage after age 57 of the surviving spouse of a veteran shall not bar the furnishing of benefits specified in paragraph (5) to such person as the surviving spouse of the veteran. Notwithstanding the previous sentence, the remarriage after age 55 of the surviving spouse of a veteran shall not bar the furnishing of benefits under section 1781 of this title to such person as the surviving spouse of the veteran.
+* (B) The remarriage after age 57 of the surviving spouse of a veteran shall not bar the furnishing of benefits specified in paragraph (5) to such person as the surviving spouse of the veteran. Notwithstanding the previous sentence, the remarriage after age 55 of the surviving spouse of a veteran shall not bar the furnishing of benefits under chapter 13 or section 1781 of this title to such person as the surviving spouse of the veteran.
 
 * (3) If the surviving spouse of a veteran ceases living with another person and holding himself or herself out openly to the public as that person's spouse, the bar to granting that person benefits as the surviving spouse of the veteran shall not apply in the case of the benefits specified in paragraph (5).
 
@@ -225,6 +227,8 @@
 
   * (D) Chapter 37, relating to housing loans.
 
+  * (E) Section 1562(a)(2), relating to Medal of Honor special pension.
+
 
 * (e) The marriage of a child of a veteran shall not bar recognition of such child as the child of the veteran for benefit purposes if the marriage is void, or has been annulled by a court with basic authority to render annulment decrees unless the Secretary determines that the annulment was secured through fraud by either party or collusion.
 
@@ -234,7 +238,7 @@
 * (b) The Secretary may not approve an educational institution under this section unless such institution has agreed to report to the Secretary the termination of attendance of any child. If any educational institution fails to report any such termination promptly, the approval of the Secretary shall be withdrawn.
 
 ### §105. Line of duty and misconduct
-* (a) An injury or disease incurred during active military, naval, or air service will be deemed to have been incurred in line of duty and not the result of the veteran's own misconduct when the person on whose account benefits are claimed was, at the time the injury was suffered or disease contracted, in active military, naval, or air service, whether on active duty or on authorized leave, unless such injury or disease was a result of the person's own willful misconduct or abuse of alcohol or drugs. Venereal disease shall not be presumed to be due to willful misconduct if the person in service complies with the regulations of the appropriate service department requiring the person to report and receive treatment for such disease.
+* (a) An injury or disease incurred during active military, naval, air, or space service will be deemed to have been incurred in line of duty and not the result of the veteran's own misconduct when the person on whose account benefits are claimed was, at the time the injury was suffered or disease contracted, in active military, naval, air, or space service, whether on active duty or on authorized leave, unless such injury or disease was a result of the person's own willful misconduct or abuse of alcohol or drugs. Venereal disease shall not be presumed to be due to willful misconduct if the person in service complies with the regulations of the appropriate service department requiring the person to report and receive treatment for such disease.
 
 * (b) The requirement for line of duty will not be met if it appears that at the time the injury was suffered or disease contracted the person on whose account benefits are claimed (1) was avoiding duty by deserting the service or by absenting himself or herself without leave materially interfering with the performance of military duties; (2) was confined under sentence of court-martial involving an unremitted dishonorable discharge; or (3) was confined under sentence of a civil court for a felony (as determined under the laws of the jurisdiction where the person was convicted by such court).
 
@@ -247,14 +251,14 @@
 
 * (b) Any person—
 
-  * (1) who has applied for enlistment or enrollment in the active military, naval, or air service and has been provisionally accepted and directed or ordered to report to a place for final acceptance into such service; or
+  * (1) who has applied for enlistment or enrollment in the active military, naval, air, or space service and has been provisionally accepted and directed or ordered to report to a place for final acceptance into such service; or
 
   * (2) who has been selected or drafted for service in the Armed Forces and has reported pursuant to the call of the person's local draft board and before rejection; or
 
   * (3) who has been called into the Federal service as a member of the National Guard, but has not been enrolled for the Federal service; and
 
 
-* who has suffered an injury or contracted a disease in line of duty while en route to or from, or at, a place for final acceptance or entry upon active duty, will, for the purposes of chapters 11, 13, 19, 21, 31, and 39 of this title, and for purposes of determining service-connection of a disability under chapter 17 of this title, be considered to have been on active duty and to have incurred such disability in the active military, naval, or air service.
+* who has suffered an injury or contracted a disease in line of duty while en route to or from, or at, a place for final acceptance or entry upon active duty, will, for the purposes of chapters 11, 13, 19, 21, 31, and 39 of this title, and for purposes of determining service-connection of a disability under chapter 17 of this title, be considered to have been on active duty and to have incurred such disability in the active military, naval, air, or space service.
 
 * (c) For the purposes of this title, an individual discharged or released from a period of active duty shall be deemed to have continued on active duty during the period of time immediately following the date of such discharge or release from such duty determined by the Secretary concerned to have been required for that individual to proceed to that individual's home by the most direct route, and in any event that individual shall be deemed to have continued on active duty until midnight of the date of such discharge or release.
 
@@ -424,9 +428,19 @@
 ### §111A. Transportation of individuals to and from Department facilities
 * (a) TRANSPORTATION BY SECRETARY.—(1) The Secretary may transport any person to or from a Department facility or other place in connection with vocational rehabilitation, counseling required by the Secretary pursuant to chapter 34 or 35 of this title, or for the purpose of examination, treatment, or care.
 
-* (2) The authority granted by paragraph (1) shall expire on September 30, 2020.
+* (2) The authority granted by paragraph (1) shall expire on September 30, 2022.
 
-* (b) TRANSPORTATION BY THIRD-PARTIES.—The Secretary, in consultation and coordination with the Secretary of Transportation and appropriate representatives of veterans' service organizations, shall take all appropriate steps to facilitate the establishment and maintenance of a program under which such organizations, or individuals who are volunteering their services to the Department, would take responsibility for the transportation, without reimbursement from the Department, to Department facilities of veterans (primarily those residing in areas which are geographically accessible to such facilities) who seek services or benefits from the Department under chapter 17 or other provisions of this title.
+* (b) TRANSPORTATION BY THIRD-PARTIES.—(1) The Secretary, in consultation and coordination with the Secretary of Transportation and appropriate representatives of veterans' service organizations, shall take all appropriate steps to facilitate the establishment and maintenance of a program under which such organizations, or individuals who are volunteering their services to the Department, would take responsibility for the transportation, without reimbursement from the Department, to Department facilities of veterans (primarily those residing in areas which are geographically accessible to such facilities) who seek services or benefits from the Department under chapter 17 or other provisions of this title.
+
+* (2)(A) Not later than 90 days after the date of the enactment of the Johnny Isakson and David P. Roe, M.D. Veterans Health Care and Benefits Improvement Act of 2020, the Secretary shall develop and establish a national protocol for the administration of medical examinations for volunteer drivers to participate in the program described in paragraph (1).
+
+* (B) In developing the protocol required by subparagraph (A), the Secretary shall consult with such persons as the Secretary determines have an interest in the program described in paragraph (1).
+
+* (C)(i) The Secretary shall implement the protocol by first conducting a one-year pilot program using the protocol.
+
+* (ii) After conducting the pilot program required by clause (i), the Secretary shall assess the pilot program and make such changes to the protocol as the Secretary considers appropriate.
+
+* (iii) After making changes to the protocol under clause (ii), the Secretary shall implement the protocol in phases during the course of one year.
 
 ### §112. Presidential memorial certificate program
 * (a) At the request of the President the Secretary may conduct a program for honoring the memory of deceased persons eligible for burial in a national cemetery by reason of any of paragraphs (1), (2), (3), or (7) of section 2402(a) of this title, by preparing and sending to eligible recipients a certificate bearing the signature of the President and expressing the country's grateful recognition of the deceased individual's service in the Armed Forces. The award of a certificate to one eligible recipient will not preclude authorization of another certificate if a request is received from some other eligible recipient.
@@ -597,3 +611,8 @@
 * (b) TREATMENT.—The submission of a copy of a report in accordance with this section shall be treated as meeting any requirement of law to submit such report to Congress (or any committee of either chamber of Congress).
 
 * (c) REPORT DEFINED.—For purposes of this section, the term "report" includes any certification, notification, or other communication in writing.
+
+### §119. Contracting for statistical analyses and data evaluation
+* (a) IN GENERAL.—The Secretary may enter into a contract or other agreement with an academic institution or other qualified entity, as determined by the Secretary, to carry out statistical analyses and data evaluation as required of the Secretary by law.".
+
+* (b) RULE OF CONSTRUCTION.—Nothing in this section may be construed to limit the authority of the Secretary to enter into contracts or other agreements for statistical analyses and data evaluation under any other provision of law.

@@ -222,6 +222,13 @@
 
 * (4) The Secretary shall approve or deny any application for a deepwater port for natural gas submitted pursuant to this chapter not later than 90 days after the last public hearing on a proposed license. Paragraphs (1), (2), and (3) of this subsection shall not apply to an application for a deepwater port for natural gas.
 
+#### (j) LNG tankers
+* #### (1) Program
+  * The Secretary of Transportation shall develop and implement a program to promote the transportation of liquefied natural gas to and from the United States on United States flag vessels.
+
+* #### (2) Information to be provided
+  * When the Coast Guard is operating as a contributing agency in the Federal Energy Regulatory Commission's shoreside licensing process for a liquefied natural gas or liquefied petroleum gas terminal located on shore or within State seaward boundaries, the Coast Guard shall provide to the Commission the information described in subsection (c)(2)(K) with respect to vessels reasonably anticipated to be servicing that port.
+
 ### §1505. Environmental review criteria
 #### (a) Establishment; evaluation of proposed deepwater ports
 * The Secretary, in accordance with the recommendations of the Administrator of the Environmental Protection Agency and the Administrator of the National Oceanic and Atmospheric Administration and after consultation with any other Federal departments and agencies having jurisdiction over any aspect of the construction or operation of a deepwater port, shall establish, as soon as practicable after January 3, 1975, environmental review criteria consistent with the National Environmental Policy Act [42 U.S.C. 4321 et seq.]. Such criteria shall be used to evaluate a deepwater port as proposed in an application, including—

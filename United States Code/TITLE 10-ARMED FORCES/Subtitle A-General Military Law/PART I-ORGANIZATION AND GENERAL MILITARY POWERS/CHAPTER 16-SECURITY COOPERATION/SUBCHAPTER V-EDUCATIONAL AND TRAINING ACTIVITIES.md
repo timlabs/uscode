@@ -161,7 +161,7 @@
 
   * (D) One person designated by the Secretary of State.
 
-  * (E) The senior military officer responsible for training and doctrine for the Army or, if the Secretary of the Navy or the Secretary of the Air Force is designated as the executive agent of the Secretary of Defense under subsection (a)(2), the senior military officer responsible for training and doctrine for the Navy or Marine Corps or for the Air Force, respectively, or a designee of the senior military officer concerned.
+  * (E) The senior military officer responsible for training and doctrine for the Army or, if the Secretary of the Navy or the Secretary of the Air Force is designated as the executive agent of the Secretary of Defense under subsection (a)(2), the senior military officer responsible for training and doctrine for the Navy or Marine Corps or for the Air Force or Space Force, respectively, or a designee of the senior military officer concerned.
 
   * (F) The commanders of the combatant commands having geographic responsibility for the Western Hemisphere, or the designees of those officers.
 
@@ -217,38 +217,44 @@
 
 * (i) ANNUAL REPORT.—Not later than March 15 of each year, the Secretary of Defense shall submit to Congress a detailed report on the activities of the Institute during the preceding year. The report shall include a copy of the latest report of the Board of Visitors received by the Secretary under subsection (e)(5), together with any comments of the Secretary on the Board's report. The report shall be prepared in consultation with the Secretary of State.
 
-### §344. Participation in multinational military centers of excellence
-* (a) PARTICIPATION AUTHORIZED.—The Secretary of Defense may, with the concurrence of the Secretary of State, authorize the participation of members of the armed forces and Department of Defense civilian personnel in any multinational military center of excellence for purposes of—
+### §344. Participation in multinational centers of excellence
+* (a) PARTICIPATION AUTHORIZED.—The Secretary of Defense may, with the concurrence of the Secretary of State, authorize the participation of members of the armed forces and Department of Defense civilian personnel in any multinational center of excellence for purposes of—
 
   * (1) enhancing the ability of military forces and civilian personnel of the nations participating in such center to engage in joint exercises or coalition or international military operations; or
 
   * (2) improving interoperability between the armed forces and the military forces of friendly foreign nations.
 
 
-* (b) MEMORANDUM OF UNDERSTANDING.—(1) The participation of members of the armed forces or Department of Defense civilian personnel in a multinational military center of excellence under subsection (a) shall be in accordance with the terms of one or more memoranda of understanding entered into by the Secretary of Defense, with the concurrence of the Secretary of State, and the foreign nation or nations concerned.
+* (b) MEMORANDUM OF UNDERSTANDING.—(1) The participation of members of the armed forces or Department of Defense civilian personnel in a multinational center of excellence under subsection (a) shall be in accordance with the terms of one or more memoranda of understanding entered into by the Secretary of Defense, with the concurrence of the Secretary of State, or entered into by the Secretary of State, and the foreign nation or nations concerned.
 
-* (2) If Department of Defense facilities, equipment, or funds are used to support a multinational military center of excellence under subsection (a), the memoranda of understanding under paragraph (1) with respect to that center shall provide details of any cost-sharing arrangement or other funding arrangement.
+* (2) If Department of Defense facilities, equipment, or funds are used to support a multinational center of excellence under subsection (a), the memoranda of understanding under paragraph (1) with respect to that center shall provide details of any cost-sharing arrangement or other funding arrangement.
 
 * (c) AVAILABILITY OF APPROPRIATED FUNDS.—(1) Funds appropriated to the Department of Defense for operation and maintenance are available as follows:
 
-  * (A) To pay the United States share of the operating expenses of any multinational military center of excellence in which the United States participates under this section.
+  * (A) To pay the United States share of the operating expenses of any multinational center of excellence in which the United States participates under this section.
 
-  * (B) To pay the costs of the participation of members of the armed forces and Department of Defense civilian personnel in multinational military centers of excellence under this section, including the costs of expenses of such participants.
+  * (B) To pay the costs of the participation of members of the armed forces and Department of Defense civilian personnel in multinational centers of excellence under this section, including the costs of expenses of such participants.
 
 
-* (2) No funds may be used under this section to fund the pay or salaries of members of the armed forces and Department of Defense civilian personnel who participate in multinational military centers of excellence under this section.
+* (2) No funds may be used under this section to fund the pay or salaries of members of the armed forces and Department of Defense civilian personnel who participate in multinational centers of excellence under this section.
 
-* (d) USE OF DEPARTMENT OF DEFENSE FACILITIES AND EQUIPMENT.—Facilities and equipment of the Department of Defense may be used for purposes of the support of multinational military centers of excellence under this section that are hosted by the Department.
+* (d) USE OF DEPARTMENT OF DEFENSE FACILITIES AND EQUIPMENT.—Facilities and equipment of the Department of Defense may be used for purposes of the support of multinational centers of excellence under this section that are hosted by the Department.
 
-* (e) MULTINATIONAL MILITARY CENTER OF EXCELLENCE DEFINED.—In this section, the term "multinational military center of excellence" means an entity sponsored by one or more nations that is accredited and approved by the Military Committee of the North Atlantic Treaty Organization (NATO) as offering recognized expertise and experience to personnel participating in the activities of such entity for the benefit of NATO by providing such personnel opportunities to—
+* (e) NOTIFICATION.—Not later than 30 days before the date on which the Secretary of Defense authorizes participation under subsection (a) in a new multinational center of excellence, the Secretary shall notify the congressional defense committees of such participation.
 
-  * (1) enhance education and training;
+* (f) MULTINATIONAL CENTER OF EXCELLENCE DEFINED.—In this section, the term "multinational center of excellence" means—
 
-  * (2) improve interoperability and capabilities;
+  * (1) an entity sponsored by one or more nations that is accredited and approved by the Military Committee of the North Atlantic Treaty Organization (NATO) as offering recognized expertise and experience to personnel participating in the activities of such entity for the benefit of NATO by providing such personnel opportunities to—
 
-  * (3) assist in the development of doctrine; and
+    * (A) enhance education and training;
 
-  * (4) validate concepts through experimentation.
+    * (B) improve interoperability and capabilities;
+
+    * (C) assist in the development of doctrine;
+
+    * (D) validate concepts through experimentation; and
+
+  * (2) the European Centre of Excellence for Countering Hybrid Threats, established in 2017 and located in Helsinki, Finland.
 
 ### §345. Regional Defense Combating Terrorism and Irregular Warfare Fellowship Program
 * (a) PROGRAM AUTHORIZED.—
@@ -467,7 +473,16 @@
 ### §350. Inter-European Air Forces Academy
 * (a) OPERATION.—The Secretary of the Air Force may operate the Air Force education and training facility known as the Inter-European Air Forces Academy (in this section referred to as the "Academy").
 
-* (b) PURPOSE.—The purpose of the Academy shall be to provide military education and training to military personnel of countries that are members of the North Atlantic Treaty Organization or signatories to the Partnership for Peace Framework Documents.
+* (b) PURPOSE.—The purpose of the Academy shall be to provide military education and training to military personnel of countries that are—
+
+  * (1) members of the North Atlantic Treaty Organization;
+
+  * (2) signatories to the Partnership for Peace Framework Documents; or
+
+  * (3)(A) within the United States Africa Command area of responsibility; and
+
+  * (B) eligible for assistance under chapter 5 of part II of the Foreign Assistance Act of 1961 (22 U.S.C. 2347 et seq.).
+
 
 * (c) LIMITATIONS.—
 

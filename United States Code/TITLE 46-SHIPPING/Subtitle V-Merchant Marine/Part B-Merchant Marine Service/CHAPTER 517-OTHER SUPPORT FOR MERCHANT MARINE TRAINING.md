@@ -65,3 +65,76 @@
   * (4) standard rules for the use of force for self-defense as developed by the Secretary of the department in which the Coast Guard is operating under section 912(c) of the Coast Guard Authorization Act of 2010 (Public Law 111–281; 46 U.S.C. 8107 note), including instruction on firearm safety for crewmembers of vessels carrying cargo under section 55305 of this title; and
 
   * (5) procedures to follow to improve crewmember survivability if captured and taken hostage by pirates.
+
+### §51706. Centers of excellence for domestic maritime workforce training and education
+* (a) DESIGNATION.—The Secretary of Transportation may designate as a center of excellence for domestic maritime workforce training and education a covered training entity located in a State that borders on the—
+
+  * (1) Gulf of Mexico;
+
+  * (2) Atlantic Ocean;
+
+  * (3) Long Island Sound;
+
+  * (4) Pacific Ocean;
+
+  * (5) Great Lakes;
+
+  * (6) Mississippi River System;
+
+  * (7) Arctic; or
+
+  * (8) Gulf of Alaska.
+
+
+* (b) ASSISTANCE.—The Secretary may enter into a cooperative agreement (as that term is used in section 6305 of title 31) with a center of excellence designated under subsection (a) to support maritime workforce training and education at the center of excellence, including efforts of the center of excellence to—
+
+  * (1) admit additional students;
+
+  * (2) recruit and train faculty;
+
+  * (3) expand facilities;
+
+  * (4) create new maritime career pathways; or
+
+  * (5) award students credit for prior experience, including military service.
+
+
+* (c) DEFINITIONS.—In this section,
+
+  * (1) COVERED TRAINING ENTITY.—the term "covered training entity" means an entity that is—
+
+    * (A) a community or technical college; or
+
+    * (B) a maritime training center—
+
+      * (i) operated by, or under the supervision of, a State; and
+
+      * (ii) with a maritime training program in operation on the date of enactment of this section.
+
+
+  * (2) ARCTIC.—The term "Arctic" has the meaning that term has under section 112 of the Arctic Research and Policy Act of 1984 (15 U.S.C. 4111).
+
+### §51707. Merchant mariner recruitment, training, and retention strategic plan
+* (a) STRATEGIC PLAN.—
+
+  * (1) IN GENERAL.—Not later than one year after the date of the enactment of this section, and at least once every five years thereafter until the termination date under paragraph (6), the Secretary of Transportation, acting through the Administrator of the Maritime Administration, shall publish in the Federal Register a plan to recruit, train, and retain merchant mariners for the five-year period following the date of publication of the most recently published plan under this paragraph.
+
+  * (2) CONTENTS.—A plan published under paragraph (1) shall contain—
+
+    * (A) a strategy to address merchant mariner recruitment, training, and retention issues in the United States; and
+
+    * (B) demonstration and research priorities concerning merchant mariner recruitment, training, and retention.
+
+
+  * (3) FACTORS.—In developing a plan under paragraph (1), the Secretary shall take into account, at a minimum—
+
+    * (A) the availability of existing research (as of the date of publication of the plan); and
+
+    * (B) the need to ensure results that have broad applicability for the United States merchant marine workforce development.
+
+
+  * (4) CONSULTATION.—In developing a plan under paragraph (1), the Secretary shall consult with representatives of the maritime industry, labor organizations, including the Commander of the Transportation Command and the Commander of the Military Sealift Command, and other governmental entities and stakeholders in the maritime industry.
+
+  * (5) TRANSMITTAL TO CONGRESS.—The Secretary shall transmit copies of any plan published under paragraph (1) to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
+
+  * (6) TERMINATION DATE.—The requirement to publish a plan under this paragraph shall terminate on the date that the Administrator of the Maritime Administration determines that there is an adequate number of United States mariners for sustained strategic sealift.

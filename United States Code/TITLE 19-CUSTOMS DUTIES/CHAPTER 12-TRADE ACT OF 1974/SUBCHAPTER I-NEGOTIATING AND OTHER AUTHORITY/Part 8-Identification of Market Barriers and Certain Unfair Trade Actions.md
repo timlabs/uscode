@@ -178,10 +178,10 @@
 
     * (B) is adopted or expanded after December 17, 1992, and
 
-    * (C) is actionable under article 2106 of the North American Free Trade Agreement.
+    * (C) is actionable under article 32.6 of the USMCA (as defined in section 4502 of this title).
 
 * #### (2) Special rules for identifications
-  * For purposes of section 2412(b)(2)(A) of this title, an act, policy, or practice identified under this subsection shall be treated as an act, policy, or practice that is the basis for identification of a country under subsection (a)(2), unless the United States has already taken action pursuant to article 2106 of the North American Free Trade Agreement in response to such act, policy, or practice. In deciding whether to identify an act, policy, or practice under paragraph (1), the Trade Representative shall—
+  * For purposes of section 2412(b)(2)(A) of this title, an act, policy, or practice identified under this subsection shall be treated as an act, policy, or practice that is the basis for identification of a country under subsection (a)(2), unless the United States has already taken action pursuant to article 32.6 of the USMCA in response to such act, policy, or practice. In deciding whether to identify an act, policy, or practice under paragraph (1), the Trade Representative shall—
 
     * (A) consult with and take into account the views of representatives of the relevant domestic industries, appropriate committees established pursuant to section 2155 of this title, and appropriate officers of the Federal Government, and
 

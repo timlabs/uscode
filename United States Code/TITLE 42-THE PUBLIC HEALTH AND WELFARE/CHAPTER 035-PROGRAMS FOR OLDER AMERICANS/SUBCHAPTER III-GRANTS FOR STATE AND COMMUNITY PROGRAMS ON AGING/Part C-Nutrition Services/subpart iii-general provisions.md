@@ -13,14 +13,14 @@
 
       * (ii) provide to each participating older individual—
 
-        * (I) a minimum of 331/3 percent of the dietary reference intakes established by the Food and Nutrition Board of the Institute of Medicine of the National Academy of Sciences, if the project provides one meal per day,
+        * (I) a minimum of 331/3 percent of the dietary reference intakes established by the Food and Nutrition Board of the National Academies of Sciences, Engineering, and Medicine, if the project provides one meal per day,
 
         * (II) a minimum of 662/3 percent of the allowances if the project provides two meals per day, and
 
         * (III) 100 percent of the allowances if the project provides three meals per day, and
 
 
-      * (iii) to the maximum extent practicable, are adjusted to meet any special dietary needs of program participants,
+      * (iii) to the maximum extent practicable, are adjusted to meet any special dietary needs of program participants, including meals adjusted for cultural considerations and preferences and medically tailored meals,
 
 
     * (B) provides flexibility to local nutrition providers in designing meals that are appealing to program participants,
@@ -54,3 +54,29 @@
 
 ### §3030g–22. Payment requirement
 * Payments made by a State agency or an area agency on aging for nutrition services (including meals) provided under part A, B, or C may not be reduced to reflect any increase in the level of assistance provided under section 3030a of this title.
+
+### §3030g–23. Nutrition services impact study
+#### (a) Study
+* #### (1) In general
+  * The Assistant Secretary shall perform a study to assess how to measure and evaluate the discrepancy between available services and the demand for such services in the home delivered nutrition services program and the congregate nutrition services program under this part, which shall include assessing various methods (such as those that States use) to measure and evaluate the discrepancy (such as measurement through the length of waitlists).
+
+* #### (2) Contents
+  * In performing the study, the Assistant Secretary shall—
+
+    * (A) consider means of obtaining information in rural and underserved communities; and
+
+    * (B) consider using existing tools (existing as of the date the Assistant Secretary begins the study) such as the tools developed through the Performance Outcome Measurement Project.
+
+* #### (3) Analysis
+  * The Assistant Secretary shall analyze and determine which methods are the least burdensome and most effective for measuring and evaluating the discrepancy described in paragraph (1).
+
+#### (b) Recommendations
+* #### (1) Preparation
+  * Not later than 3 years after March 25, 2020, the Assistant Secretary shall prepare recommendations—
+
+    * (A) on how to measure and evaluate, with the least burden and the most effectiveness, the discrepancy described in subsection (a)(1) (such as measurement through the length of waitlists); and
+
+    * (B) about whether studies similar to the study described in subsection (a) should be carried out for programs carried out under this chapter, other than this part.
+
+* #### (2) Issuance
+  * The Assistant Secretary shall issue the recommendations, and make the recommendations available as a notification pursuant to section 3012(a)(34) of this title and to the committees of the Senate and of the House of Representatives with jurisdiction over this chapter, and the Special Committee on Aging of the Senate.

@@ -282,7 +282,7 @@
     * The term "agent" includes an entity established by a person for purposes of conducting transactions on behalf of the person in order to conceal the identity of the person.
 
   * #### (C) Financial institution
-    * The term "financial institution" means a financial institution specified in subparagraph (A), (B), (C), (D), (E), (F), (G), (H), (I), (J), (M), or (Y) of section 5312(a)(2) of title 31.
+    * The term "financial institution" means a financial institution specified in subparagraph (A), (B), (C), (D), (E), (F), (G), (H), (I), (J), (M), or (Z) of section 5312(a)(2) of title 31.
 
   * #### (D) Foreign financial institution; domestic financial institution
     * The terms "foreign financial institution" and "domestic financial institution" shall have the meanings of those terms as determined by the Secretary of the Treasury.
@@ -450,7 +450,7 @@
 * In this section:
 
 * #### (1) Financial institution
-  * The term "financial institution" means a financial institution specified in subparagraph (A), (B), (C), (D), (E), (F), (G), (H), (I), (J), (K), (M), (N), (R), or (Y) of section 5312(a)(2) of title 31.
+  * The term "financial institution" means a financial institution specified in subparagraph (A), (B), (C), (D), (E), (F), (G), (H), (I), (J), (K), (M), (N), (R), or (Z) of section 5312(a)(2) of title 31.
 
 * #### (2) Foreign financial institution
   * The term "foreign financial institution" has the meaning of that term as determined by the Secretary of the Treasury pursuant to section 8513(i) of this title.

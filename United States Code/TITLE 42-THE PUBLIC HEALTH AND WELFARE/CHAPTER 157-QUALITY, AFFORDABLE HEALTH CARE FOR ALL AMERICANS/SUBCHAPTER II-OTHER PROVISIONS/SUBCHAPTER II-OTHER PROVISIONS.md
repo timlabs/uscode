@@ -30,6 +30,9 @@
     * #### (ii) Adult child coverage
       * For plan years beginning before January 1, 2014, the provisions of section 2714 of the Public Health Service Act [42 U.S.C. 300gg–14] (as added by this subtitle) shall apply in the case of an adult child with respect to a grandfathered health plan that is a group health plan only if such adult child is not eligible to enroll in an eligible employer-sponsored health plan (as defined in section 5000A(f)(2) of title 26) other than such grandfathered health plan.
 
+* #### (5) Application of additional provisions
+  * Sections 300gg–111, 300gg–112, and 300gg–117 of this title shall apply to grandfathered health plans for plan years beginning on or after January 1, 2022.
+
 #### (b) Allowance for family members to join current coverage
 * With respect to a group health plan or health insurance coverage in which an individual was enrolled on March 23, 2010, and which is renewed after such date, family members of such individual shall be permitted to enroll in such plan or coverage if such enrollment is permitted under the terms of the plan in effect as of March 23, 2010.
 

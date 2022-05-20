@@ -40,11 +40,11 @@
 
 * (3) In no event shall payment of educational assistance under this subsection for such a test exceed the amount of the individual's available entitlement under this chapter.
 
-* (g)(1) Subject to paragraph (3), the amount of educational assistance payable under this chapter for a national test for admission or national test providing an opportunity for course credit at institutions of higher learning described in section 3501(a)(5) of this title is the amount of the fee charged for the test.
+* (g)(1) Subject to paragraph (3), the amount of educational assistance payable under this chapter for a national test for admission or national test providing an opportunity for course credit at institutions of higher learning described in section 3501(a)(5) of this title or a covered preparatory course (as that term is defined in section 3315B(a) of this title) is the amount of the fee charged for the test.
 
-* (2) The number of months of entitlement charged in the case of any individual for a test described in paragraph (1) is equal to the number (including any fraction) determined by dividing the total amount of educational assistance paid such individual for such test by the full-time monthly institutional rate of educational assistance, except for paragraph (1), such individual would otherwise be paid under this chapter.
+* (2) The number of months of entitlement charged in the case of any individual for a test or covered preparatory course described in paragraph (1) is equal to the number (including any fraction) determined by dividing the total amount of educational assistance paid such individual for such test or covered preparatory course by the full-time monthly institutional rate of educational assistance, except for paragraph (1), such individual would otherwise be paid under this chapter.
 
-* (3) In no event shall payment of educational assistance under this subsection for a test described in paragraph (1) exceed the amount of the individual's available entitlement under this chapter.
+* (3) In no event shall payment of educational assistance under this subsection for a test or covered preparatory course described in paragraph (1) exceed the amount of the individual's available entitlement under this chapter.
 
 ### §3533. Special assistance for the educationally disadvantaged
 * (a)(1) Any eligible person shall be entitled to the assistance provided an eligible veteran under section 3491(a) (if pursued in a State) of this title and be paid an educational assistance allowance therefor in the manner prescribed by section 3491(b) of this title, except that the corresponding rate provisions of this chapter shall apply, as determined by the Secretary, to such pursuit by an eligible person.

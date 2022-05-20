@@ -341,7 +341,7 @@
 
   * (1) IN GENERAL.—The Administrator of the National Highway Traffic Safety Administration shall carry out a collaborative research effort under chapter 301 of title 49 on in-vehicle technology to prevent alcohol-impaired driving.
 
-  * (2) FUNDING.—The Secretary shall obligate from funds made available to carry out this section for the period covering fiscal years 2017 through 2020 not more than $21,248,000 to conduct the research described in paragraph (1).
+  * (2) FUNDING.—The Secretary shall obligate from funds made available to carry out this section for the period covering fiscal years 2017 through 2021 not more than $26,560,000' to conduct the research described in paragraph (1).
 
   * (3) PRIVACY PROTECTION.—The Administrator shall not develop requirements for any device or means of technology to be installed in an automobile intended for retail sale that records a driver's blood alcohol concentration.
 

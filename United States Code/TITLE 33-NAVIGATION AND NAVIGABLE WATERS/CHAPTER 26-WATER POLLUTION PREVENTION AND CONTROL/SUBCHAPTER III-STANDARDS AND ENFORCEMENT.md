@@ -3854,7 +3854,7 @@
     * In any case where the Administrator determines, on his own initiative or upon nomination of a State under paragraph (1), that the attainment or maintenance of that water quality in an estuary which assures protection of public water supplies and the protection and propagation of a balanced, indigenous population of shellfish, fish, and wildlife, and allows recreational activities, in and on the water, requires the control of point and nonpoint sources of pollution to supplement existing controls of pollution in more than one State, the Administrator shall select such estuary and convene a management conference.
 
   * #### (B) Priority consideration
-    * The Administrator shall give priority consideration under this section to Long Island Sound, New York and Connecticut; Narragansett Bay, Rhode Island; Buzzards Bay, Massachusetts; Massachusetts Bay, Massachusetts (including Cape Cod Bay and Boston Harbor); Puget Sound, Washington; New York-New Jersey Harbor, New York and New Jersey; Delaware Bay, Delaware and New Jersey; Delaware Inland Bays, Delaware; Albemarle Sound, North Carolina; Sarasota Bay, Florida; San Francisco Bay, California; Santa Monica Bay, California; Galveston Bay, Texas; Barataria-Terrebonne Bay estuary complex, Louisiana; Indian River Lagoon, Florida; Lake Pontchartrain Basin, Louisiana and Mississippi; and Peconic Bay, New York.
+    * The Administrator shall give priority consideration under this section to Long Island Sound, New York and Connecticut; Narragansett Bay, Rhode Island; Buzzards Bay, Massachusetts; Massachusetts Bay, Massachusetts (including Cape Cod Bay and Boston Harbor); Puget Sound, Washington; New York-New Jersey Harbor, New York and New Jersey; Delaware Bay, Delaware and New Jersey; Delaware Inland Bays, Delaware; Albemarle Sound, North Carolina; Sarasota Bay, Florida; San Francisco Bay, California; Santa Monica Bay, California; Galveston Bay, Texas; Barataria-Terrebonne Bay estuary complex, Louisiana; Indian River Lagoon, Florida; Lake Pontchartrain Basin, Louisiana and Mississippi; Peconic Bay, New York; Casco Bay, Maine; Tampa Bay, Florida; Coastal Bend, Texas; San Juan Bay, Puerto Rico; Tillamook Bay, Oregon; Piscataqua Region, New Hampshire; Barnegat Bay, New Jersey; Maryland Coastal Bays, Maryland; Charlotte Harbor, Florida; Mobile Bay, Alabama; Morro Bay, California; and Lower Columbia River, Oregon and Washington.
 
 * #### (3) Boundary dispute exception
   * In any case in which a boundary between two States passes through an estuary and such boundary is disputed and is the subject of an action in any court, the Administrator shall not convene a management conference with respect to such estuary before a final adjudication has been made of such dispute.
@@ -3868,7 +3868,14 @@
 
   * (3) develop the relationship between the inplace loads and point and nonpoint loadings of pollutants to the estuarine zone and the potential uses of the zone, water quality, and natural resources;
 
-  * (4) develop a comprehensive conservation and management plan that recommends priority corrective actions and compliance schedules addressing point and nonpoint sources of pollution to restore and maintain the chemical, physical, and biological integrity of the estuary, including restoration and maintenance of water quality, a balanced indigenous population of shellfish, fish and wildlife, and recreational activities in the estuary, and assure that the designated uses of the estuary are protected;
+  * (4) develop a comprehensive conservation and management plan that—
+
+    * (A) recommends priority corrective actions and compliance schedules addressing point and nonpoint sources of pollution to restore and maintain the chemical, physical, and biological integrity of the estuary, including restoration and maintenance of water quality, a balanced indigenous population of shellfish, fish and wildlife, and recreational activities in the estuary, and assure that the designated uses of the estuary are protected;
+
+    * (B) addresses the effects of recurring extreme weather events on the estuary, including the identification and assessment of vulnerabilities in the estuary and the development and implementation of adaptation strategies; and
+
+    * (C) increases public education and awareness of the ecological health and water quality conditions of the estuary;
+
 
   * (5) develop plans for the coordinated implementation of the plan by the States as well as Federal and local agencies participating in the conference;
 
@@ -3890,7 +3897,7 @@
 
   * (4) local governments having jurisdiction over any land or water within the estuarine zone, as determined appropriate by the Administrator; and
 
-  * (5) affected industries, public and private educational institutions, and the general public, as determined appropriate by the Administrator.
+  * (5) affected industries, public and private educational institutions, nonprofit organizations, and the general public, as determined appropriate by the Administrator.
 
 #### (d) Utilization of existing data
 * In developing a conservation and management plan under this section, the management conference shall survey and utilize existing reports, data, and studies relating to the estuary that have been developed by or made available to Federal, interstate, State, and local agencies.
@@ -3932,7 +3939,7 @@
     * The Administrator shall solicit applications for awards under this paragraph from State, interstate, and regional water pollution control agencies and entities, State coastal zone management agencies, interstate agencies, other public or nonprofit private agencies, institutions, organizations, and individuals.
 
   * #### (C) Selection of recipients
-    * In selecting award recipients under this paragraph, the Administrator shall select recipients that are best able to address urgent and challenging issues that threaten the ecological and economic well-being of coastal areas. Such issues shall include—
+    * In selecting award recipients under this paragraph, the Administrator shall select recipients that are best able to address urgent, emerging, and challenging issues that threaten the ecological and economic well-being of the estuaries selected by the Administrator under subsection (a)(2), or that relate to the coastal resiliency of such estuaries. Such issues shall include—
 
       * (i) extensive seagrass habitat losses resulting in significant impacts on fisheries and water quality;
 
@@ -3944,16 +3951,20 @@
 
       * (v) jellyfish proliferation limiting community access to water during peak tourism seasons;
 
-      * (vi) flooding that may be related to sea level rise or wetland degradation or loss; and
+      * (vi) stormwater runoff;
 
-      * (vii) low dissolved oxygen conditions in estuarine waters and related nutrient management.
+      * (vii) accelerated land loss;
+
+      * (viii) flooding that may be related to sea level rise, extreme weather, or wetland degradation or loss; and
+
+      * (ix) low dissolved oxygen conditions in estuarine waters and related nutrient management.
 
 #### (h) Grant reporting
 * Any person (including a State, interstate, or regional agency or entity) that receives a grant under subsection (g) shall report to the Administrator not later than 18 months after receipt of such grant and biennially thereafter on the progress being made under this section.
 
 #### (i) Authorization of appropriations
 * #### (1) In general
-  * There is authorized to be appropriated to the Administrator $26,500,000 for each of fiscal years 2017 through 2021 for—
+  * There is authorized to be appropriated to the Administrator $26,500,000 for each of fiscal years 2017 through 2021, and $50,000,000 for each of fiscal years 2022 through 2026, for—
 
     * (A) expenses relating to the administration of grants or awards by the Administrator under this section, including the award and oversight of grants and awards, except that such expenses may not exceed 5 percent of the amount appropriated under this subsection for a fiscal year; and
 

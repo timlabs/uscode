@@ -3,7 +3,7 @@
 ### §7501. Duplicates
 * (a) If a license, certificate of registry, or merchant mariner's document issued under this part is lost as a result of a marine casualty, the holder shall be supplied with a duplicate without cost.
 
-* (b) For any other loss, the seaman may obtain a duplicate on payment of reasonable costs prescribed by regulation by the Secretary.
+* (b) For any other loss, the holder may obtain a duplicate on payment of reasonable costs prescribed by regulation by the Secretary.
 
 ### §7502. Records
 * (a) The Secretary shall maintain records, including electronic records, on the issuances, denials, suspensions, and revocations of licenses, certificates of registry, merchant mariners' documents, and endorsements on those licenses, certificates, and documents.
@@ -20,7 +20,7 @@
   * (2) when applying, has ever been a user of, or addicted to, a dangerous drug unless the individual provides satisfactory proof that the individual is cured.
 
 ### §7504. Travel and expense reimbursement
-* When a requirement to qualify for the issuance of, or endorsement on, a certificate, license, or document under this part is administered at a place at the request of an applicant or an applicant's representative, the applicant or representative may reimburse the Secretary for the travel and subsistence expenses incurred by the personnel assigned to perform the administration of the requirement. Amounts received as reimbursement under this section shall be credited to the appropriation for operating expenses of the Coast Guard.
+* When a requirement to qualify for the issuance of, or endorsement on, a certificate, license, or document under this part is administered at a place at the request of an applicant or an applicant's representative, the applicant or representative may reimburse the Secretary for the travel and subsistence expenses incurred by the personnel assigned to perform the administration of the requirement. Amounts received as reimbursement under this section shall be credited to the appropriation for operations and support of the Coast Guard.
 
 ### §7505. Review of information in National Driver Register
 * The Secretary shall make information received from the National Driver Register under section 30305(b)(7) of title 49 available to an individual for review and written comment before denying, suspending, revoking, or taking any other action relating to a license, certificate of registry, or merchant mariner's document authorized to be issued for that individual under this part, based on that information.
@@ -52,7 +52,7 @@
 ### §7508. Authority to extend the duration of medical certificates
 * (a) GRANTING OF EXTENSIONS.—Notwithstanding any other provision of law, the Secretary may extend for not more than one year a medical certificate issued to an individual holding a license, merchant mariner's document, or certificate of registry issued under chapter 71 or 73 if the Secretary determines that the extension is required to enable the Coast Guard to eliminate a backlog in processing applications for medical certificates or is in response to a national emergency or natural disaster.
 
-* (b) MANNER OF EXTENSION.—An extension under this section may be granted to individual seamen or a specifically identified group of seamen.
+* (b) MANNER OF EXTENSION.—An extension under this section may be granted to an individual or a specifically identified group of individuals.
 
 ### §7509. Medical certification by trusted agents
 * (a) IN GENERAL.—Notwithstanding any other provision of law and pursuant to regulations prescribed by the Secretary, a trusted agent may issue a medical certificate to an individual who—
@@ -143,10 +143,10 @@
 
     * (A) prioritizes the review of examinations required for merchant mariner credentials; and
 
-    * (B) not later than 3 years after the date of enactment of the Coast Guard Authorization Act of 2016, completes a formal review, including an appropriate analysis, of the topics and testing methodology employed by the National Maritime Center for merchant seamen licensing.
+    * (B) not later than 3 years after the date of enactment of the Coast Guard Authorization Act of 2016, completes a formal review, including an appropriate analysis, of the topics and testing methodology employed by the National Maritime Center for merchant mariner licensing.
 
 
   * (9) FACA.—The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to any working group created under this section to review the Coast Guard's merchant mariner credentialing examinations.
 
 
-* (d) MERCHANT MARINER CREDENTIAL DEFINED.—In this section, the term "merchant mariner credential" means a merchant seaman license, certificate, or document that the Secretary is authorized to issue pursuant to this title.
+* (d) MERCHANT MARINER CREDENTIAL DEFINED.—In this section, the term "merchant mariner credential" means a merchant mariner license, certificate, or document that the Secretary is authorized to issue pursuant to this title.

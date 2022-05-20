@@ -243,7 +243,7 @@
 * An eligible entity receiving funds under this section shall not provide services through a SBHC funded under this section to an individual without the consent of the parent or guardian of such individual if such individual is considered a minor under applicable State law.
 
 #### (l) Authorization of appropriations
-* For purposes of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2010 through 2014.
+* For purposes of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2022 through 2026.
 
 ### §280h–6. Infant and early childhood mental health promotion, intervention, and treatment
 #### (a) Grants

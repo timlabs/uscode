@@ -191,7 +191,11 @@
   * A proposed sunscreen order issued under paragraph (4) or (5), or a notification of the availability of a letter under paragraph (3), with respect to a pending request shall provide for a period of 45 calendar days for public comment.
 
 * #### (7) Meeting
-  * A sponsor may request, in writing, a meeting with respect to a proposed sunscreen order issued under this subsection, including a letter deemed to be a proposed sunscreen order under paragraph (3), not later than 30 calendar days after the Secretary issues such order or the date upon which such feedback letter is deemed to be a proposed sunscreen order, as applicable. The Secretary shall convene a meeting with such sponsor not later than 45 calendar days after the date of such request for a meeting.
+  * #### (A) In general
+    * A sponsor may request, in writing, a meeting with respect to a proposed sunscreen order issued under this subsection, including a letter deemed to be a proposed sunscreen order under paragraph (3), not later than 30 calendar days after the Secretary issues such order or the date upon which such feedback letter is deemed to be a proposed sunscreen order, as applicable. The Secretary shall convene a meeting with such sponsor not later than 45 calendar days after the date of such request for a meeting.
+
+  * #### (B) Confidential meetings
+    * A sponsor may request one or more confidential meetings with respect to a proposed sunscreen order, including a letter deemed to be a proposed sunscreen order under paragraph (3), to discuss matters relating to data requirements to support a general recognition of safety and effectiveness involving confidential information and public information related to such proposed sunscreen order, as appropriate. The Secretary shall convene a confidential meeting with such sponsor in a reasonable time period. If a sponsor requests more than one confidential meeting for the same proposed sunscreen order, the Secretary may refuse to grant an additional confidential meeting request if the Secretary determines that such additional confidential meeting is not reasonably necessary for the sponsor to advance its proposed sunscreen order, or if the request for a confidential meeting fails to include sufficient information upon which to base a substantive discussion. The Secretary shall publish a post-meeting summary of each confidential meeting under this subparagraph that does not disclose confidential commercial information or trade secrets. This subparagraph does not authorize the disclosure of confidential commercial information or trade secrets subject to 552(b)(4) of title 5 or section 1905 of title 18.
 
 * #### (8) Advisory Committee
   * In the case of a proposed sunscreen order under paragraph (3), (4), or (5), an Advisory Committee meeting may be convened for the purpose of reviewing and providing recommendations regarding the pending request.
@@ -248,22 +252,28 @@
   * #### (C) Applicability of final orders
     * Once the Secretary issues a new proposed sunscreen order to amend a final sunscreen order under subparagraph (A) or (B), such final sunscreen order shall remain in effect and paragraph (3) shall not apply to such final sunscreen order until the Secretary has issued a new final sunscreen order or has determined not to amend the final sunscreen order.
 
-* #### (3) Inclusion of ingredients that are subjects of final orders in the sunscreen monograph
-  * #### (A) Amending regulations
-    * #### (i) Requirement
-      * At any time that the Secretary proposes to amend part 352 of title 21, Code of Federal Regulations (or any successor regulations) concerning nonprescription sunscreen, including pursuant to section 360fff–5 of this title, except as provided in clause (iv), the Secretary shall include in such part 352 (or any successor regulations) any nonprescription sunscreen active ingredient or combination of nonprescription sunscreen active ingredients that is the subject of an effective final sunscreen order of the type described in section 360fff(2)(A) of this title and issued since the time that the Secretary last amended such regulations. Such regulation shall set forth conditions of use under which each such ingredient or combination of ingredients is GRASE and not misbranded. If these conditions differ from, or are in addition to, those previously set forth in the applicable final sunscreen order, the Secretary shall provide notice and opportunity for comment on such conditions in the rulemaking, and the applicable final sunscreen order shall continue in effect until the effective date of a final regulation, as set forth in clause (iii).
+* #### (3) Relationship to orders under section 355h of this title
+  * A final sunscreen order shall be deemed to be a final order under section 355h of this title.
 
-    * #### (ii) Inclusion of orders
-      * In proposing to amend the regulations as described in clause (i), the Secretary shall include in the proposed regulations a list of final sunscreen orders that shall cease to be effective on the effective date of a resulting final regulation. Such list shall include all final sunscreen orders of the type described in section 360fff(2)(A) of this title that are in effect on the date that such regulations are proposed, with the exception that such list shall not include any final sunscreen orders that, on the date that the regulations are proposed, the Secretary is in the process of amending under paragraph (2).
+#### (f) Exclusivity
+* #### (1) In general
+  * A final sunscreen order shall have the effect of authorizing solely the order requestor (or the licensees, assignees, or successors in interest of such requestor with respect to the subject of such request and listed under paragraph (5)) for a period of 18 months, to market a sunscreen ingredient under this section incorporating changes described in paragraph (2) subject to the limitations under paragraph (4), beginning on the date the requestor (or any licensees, assignees, or successors in interest of such requestor with respect to the subject of such request and listed under paragraph (5)) may lawfully market such sunscreen ingredient pursuant to the order.
 
-    * #### (iii) Orders no longer effective
-      * Any final sunscreen order included by the Secretary in a list described in clause (ii) and in a list included in resulting final regulations shall cease to be effective on the date that such final regulations including such order in such list become effective.
+* #### (2) Changes described
+  * A change described in this paragraph is a change subject to an order specified in paragraph (1) that permits a sunscreen to contain an active sunscreen ingredient not previously incorporated in a marketed sunscreen listed in paragraph (3).
 
-    * #### (iv) Ingredients not GRASE
-      * If, notwithstanding a final sunscreen order stating that a nonprescription sunscreen active ingredient or combination of nonprescription sunscreen active ingredients is GRASE and is not misbranded if marketed in accordance with such order, while amending the regulations as described in clause (i), the Secretary concludes that such ingredient or combination of ingredients is no longer GRASE for use in nonprescription sunscreen, the Secretary shall, at the discretion of the Secretary, either initiate the process for amending the final sunscreen order set forth in paragraph (2) of this subsection or include in a proposed regulation an explanation and information supporting the determination of the Secretary that such ingredient or combination of ingredients is no longer GRASE for use in nonprescription sunscreen.
+* #### (3) Marketed sunscreen
+  * The marketed sunscreen ingredients described in this paragraph are sunscreen ingredients—
 
-  * #### (B) Procedure for updating regulations
-    * After the Secretary amends and finalizes the regulations under part 352 of title 21, Code of Federal Regulations under section 360fff–5 of this title and such regulations become effective, the Secretary may use direct final rulemaking to include in such regulations any nonprescription sunscreen active ingredients that are the subject of effective final sunscreen orders.
+    * (A) marketed in accordance with a final monograph for sunscreen drug products set forth at part 352 of title 21, Code of Federal Regulations (as published at 64 Fed. Reg. 27687); or
+
+    * (B) marketed in accordance with a final order issued under this section.
+
+* #### (4) Limitations on exclusivity
+  * Only one 18-month period may be granted per ingredient under paragraph (1).
+
+* #### (5) Listing of licensees, assignees, or successors in interest
+  * Requestors shall submit to the Secretary at the time when a drug subject to such request is introduced or delivered for introduction into interstate commerce, a list of licensees, assignees, or successors in interest under paragraph (1).
 
 ### §360fff–4. Guidance; other provisions
 #### (a) Guidance
@@ -307,13 +317,6 @@
 
 #### (c) Timelines
 * The timelines for the processes and procedures under paragraphs (1), (2), (5), and (6) of section 360fff–3(a) of this title shall not apply to any requests submitted to the Secretary under section 360fff–1 of this title after the date that is 6 years after November 26, 2014.
-
-### §360fff–5. Sunscreen monograph
-#### (a) In general
-* Not later than 5 years after November 26, 2014, the Secretary shall amend and finalize regulations under part 352 of title 21, Code of Federal Regulations concerning nonprescription sunscreen that are effective not later than 5 years after November 26, 2014. The Secretary shall publish such regulations not less than 30 calendar days before the effective date of such regulations.
-
-#### (b) Reports
-* If the regulations promulgated under subsection (a) do not include provisions related to the effectiveness of various sun protection factor levels, and do not address all dosage forms known to the Secretary to be used in sunscreens marketed in the United States without a new drug approval under section 355 of this title, the Secretary shall submit a report to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives on the rationale for such provisions not being included in such regulations, and a plan and timeline to compile any information necessary to address such provisions through final regulations.
 
 ### §360fff–6. Non-sunscreen time and extent applications
 #### (a) Pending time and extent applications
@@ -442,3 +445,6 @@
 
 #### (b) Method
 * The Secretary shall publish the reports under subsection (a) in the manner the Secretary determines to be the most effective for efficiently disseminating the report, including publication of the report on the Internet website of the Food and Drug Administration.
+
+### §360fff–8. Sunset
+* This part shall cease to be effective at the end of fiscal year 2022.

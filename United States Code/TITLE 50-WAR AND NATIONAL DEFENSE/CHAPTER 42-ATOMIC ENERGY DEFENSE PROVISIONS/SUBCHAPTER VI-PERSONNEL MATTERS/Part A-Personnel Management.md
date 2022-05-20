@@ -25,7 +25,7 @@
   * (B) cease appointment of persons under such authority.
 
 #### (c) Termination
-* (1) The authority provided under subsection (a)(1) shall terminate on September 30, 2020.
+* (1) The authority provided under subsection (a)(1) shall terminate on September 30, 2021.
 
 * (2) An employee may not be separated from employment with the Department of Energy or receive a reduction in pay by reason of the termination of authority under paragraph (1).
 

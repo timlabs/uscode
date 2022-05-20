@@ -16,7 +16,7 @@
 
   * (3) DETERMINATION OF LAST DISCHARGE OR RELEASE.—For purposes of subsection (a), an individual's last discharge or release from active duty shall not include any discharge or release from a period of active duty of less than 90 days of continuous service, unless the individual is discharged or released as described in section 3311(b)(2).
 
-  * (4) APPLICABILITY TO CHILDREN OF DECEASED MEMBERS.—The period during which a child entitled to educational assistance by reason of section 3311(b)(9) of this title may use such child's entitlement—
+  * (4) APPLICABILITY TO CHILDREN OF DECEASED MEMBERS.—The period during which a child entitled to educational assistance by reason of section 3311(b)(8) of this title may use such child's entitlement—
 
     * (A) in the case of a child who first becomes entitled to such entitlement before January 1, 2013, expires at the end of the 15-year period beginning on the date of such child's eighteenth birthday; or
 
@@ -38,9 +38,9 @@
 
 * (d) ADDITIONAL COORDINATION MATTERS.—In the case of an individual entitled to educational assistance under chapter 30, 31, 32, or 35 of this title, chapter 107, 1606, or 1607 of title 10, or the provisions of the Hostage Relief Act of 1980, or making contributions toward entitlement to educational assistance under chapter 30 of this title, as of August 1, 2009, coordination of entitlement to educational assistance under this chapter, on the one hand, and such chapters or provisions, on the other, shall be governed by the provisions of section 5003(c) of the Post-9/11 Veterans Educational Assistance Act of 2008.
 
-* (e) BAR TO CONCURRENT RECEIPT OF TRANSFERRED EDUCATION BENEFITS AND MARINE GUNNERY SERGEANT JOHN DAVID FRY SCHOLARSHIP ASSISTANCE.—An individual entitled to educational assistance under both sections 3311(b)(9) and 3319 may not receive assistance under both provisions concurrently, but shall elect (in such form and manner as the Secretary may prescribe) under which provision to receive educational assistance.
+* (e) BAR TO CONCURRENT RECEIPT OF TRANSFERRED EDUCATION BENEFITS AND MARINE GUNNERY SERGEANT JOHN DAVID FRY SCHOLARSHIP ASSISTANCE.—An individual entitled to educational assistance under both section 3319 and paragraph (8), (9), or (10) of section 3311 of this title may not receive assistance under both provisions concurrently, but shall elect (in such form and manner as the Secretary may prescribe) under which provision to receive educational assistance.
 
-* (f) BAR TO RECEIPT OF COMPENSATION AND PENSION AND MARINE GUNNERY SERGEANT JOHN DAVID FRY SCHOLARSHIP ASSISTANCE.—The commencement of a program of education under section 3311(b)(9) shall be a bar to the following:
+* (f) BAR TO RECEIPT OF COMPENSATION AND PENSION AND MARINE GUNNERY SERGEANT JOHN DAVID FRY SCHOLARSHIP ASSISTANCE.—The commencement of a program of education under paragraph (8), (9), or (10) of section 3311 of this title shall be a bar to the following:
 
   * (1) Subsequent payments of dependency and indemnity compensation or pension based on the death of a parent to an eligible person over the age of 18 years by reason of pursuing a course in an educational institution.
 
@@ -53,7 +53,7 @@
 
   * (1) ACTIVE-DUTY SERVICE.—An individual with qualifying service in the Armed Forces that establishes eligibility on the part of such individual for educational assistance under this chapter, chapter 30 or 32 of this title, and chapter 1606 or 1607 of title 10, shall elect (in such form and manner as the Secretary may prescribe) under which authority such service is to be credited.
 
-  * (2) ELIGIBILITY FOR EDUCATIONAL ASSISTANCE BASED ON PARENT'S SERVICE.—A child of a member of the Armed Forces who, on or after September 11, 2001, dies in the line of duty while serving on active duty, who is eligible for educational assistance under either section 3311(b)(9) or chapter 35 of this title based on the parent's death may not receive such assistance under both this chapter and chapter 35 of this title, but shall elect (in such form and manner as the Secretary may prescribe) under which chapter to receive such assistance.
+  * (2) ELIGIBILITY FOR EDUCATIONAL ASSISTANCE BASED ON PARENT'S SERVICE.—A child of a member of the Armed Forces who, on or after September 11, 2001, dies in the line of duty while serving on active duty, who is eligible for educational assistance under either chapter 35 or paragraph (8), (9), or (10) of section 3311 of this title based on the parent's death may not receive such assistance under both this chapter and chapter 35 of this title, but shall elect (in such form and manner as the Secretary may prescribe) under which chapter to receive such assistance.
 
 ### §3323. Administration
 * (a) IN GENERAL.—

@@ -70,11 +70,11 @@
 
 * (b) Except in time of war or national emergency declared by Congress, not less than 20 percent of the aviation cadets procured in each fiscal year shall be procured from qualified enlisted members of the Coast Guard.
 
-* (c) No persons may be enlisted or designated as an aviation cadet unless—
+* (c) No individuals may be enlisted or designated as an aviation cadet unless—
 
-  * (1) the person agrees in writing that, upon successful completion of the course of training as an aviation cadet, the person will accept a commission as an ensign in the Coast Guard Reserve and will serve on active duty as such for at least three years, unless sooner released; and
+  * (1) the individual agrees in writing that, upon successful completion of the course of training as an aviation cadet, the individual will accept a commission as an ensign in the Coast Guard Reserve and will serve on active duty as such for at least three years, unless sooner released; and
 
-  * (2) if under twenty-one years of age, the person has the consent of the person's parent or guardian to the agreement.
+  * (2) if under twenty-one years of age, the individual has the consent of the individual's parent or guardian to the agreement.
 
 
 * (d) Under such regulations as the Secretary prescribes, an aviation cadet may be transferred to another enlisted grade or rating in the Coast Guard, released from active duty, or discharged.

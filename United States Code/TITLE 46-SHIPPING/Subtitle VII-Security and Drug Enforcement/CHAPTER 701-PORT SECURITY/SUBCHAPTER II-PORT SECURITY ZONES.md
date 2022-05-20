@@ -12,7 +12,7 @@
     * (B) transfers such cargo or residue in any port or place, under the jurisdiction of the United States, within the territorial sea of the United States or the internal waters of the United States.
 
 ### §70132. Credentialing standards, training, and certification for State and local support for the enforcement of security zones for the transportation of especially hazardous cargo
-* (a) STANDARD.—The Commandant of the Coast Guard shall establish, by regulation, national standards for training and credentialing of law enforcement personnel—
+* (a) STANDARD.—The Commandant of the Coast Guard shall establish, by regulation, national standards for training and credentialing of public safety personnel—
 
   * (1) to enforce a security zone; or
 
@@ -25,9 +25,9 @@
 
     * (A) shall develop and publish a training curriculum for—
 
-      * (i) law enforcement personnel to enforce a security zone;
+      * (i) public safety personnel to enforce a security zone;
 
-      * (ii) law enforcement personnel to enforce or assist in the enforcement of a security zone; and
+      * (ii) public safety personnel to enforce or assist in the enforcement of a security zone; and
 
       * (iii) personnel who are employed or retained by a facility or vessel owner to assist in the enforcement of a security zone; and
 
@@ -43,11 +43,11 @@
 
   * (2) Any Federal agency that provides such training, and any public or private entity that receives moneys, pursuant to section 70107(b)(8) of this title, to provide such training, shall provide such training—
 
-    * (A) to law enforcement personnel who enforce or assist in the enforcement of a security zone; and
+    * (A) to public safety personnel who enforce or assist in the enforcement of a security zone; and
 
     * (B) on an availability basis to—
 
-      * (i) law enforcement personnel who assist in the enforcement of a security zone; and
+      * (i) public safety personnel who assist in the enforcement of a security zone; and
 
       * (ii) personnel who are employed or retained by a facility or vessel owner or operator to assist in the enforcement of a security zone.
 
@@ -64,3 +64,6 @@
   * (2) utilize, as appropriate, government training facilities, courses provided by community colleges, public safety academies, State and private universities, and other facilities; and
 
   * (3) certify organizations that offer the curriculum for training and certification.
+
+
+* (d) PUBLIC SAFETY PERSONNEL DEFINED.—For the purposes of this section, the term "public safety personnel" includes any Federal, State (or political subdivision thereof), territorial, or Tribal law enforcement officer, firefighter, or emergency response provider.

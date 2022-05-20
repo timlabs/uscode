@@ -483,6 +483,7 @@
 
     * (D) On and after January 1, 2023, the full amount of the annuity under this section.
 
+
   * (2) EFFECTIVE DATE OF OFFSET.—A reduction in an annuity under this section required by paragraph (1) shall be effective on the date of the commencement of the period of payment of such dependency and indemnity compensation under title 38.
 
   * (3) LIMITATION ON RECOUPMENT OF OFFSET AMOUNT.—Any amount subject to offset under this subsection that was previously paid to the surviving spouse or former spouse shall be recouped only to the extent that the amount paid exceeds any amount to be refunded under subsection (e). In notifying a surviving spouse or former spouse of the recoupment requirement, the Secretary shall provide the spouse or former spouse—

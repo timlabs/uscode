@@ -1,4 +1,4 @@
-### §656. Women's business center program
+### §656. Women's Business Center program
 #### (a) Definitions
 * In this section—
 

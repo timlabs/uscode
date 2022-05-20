@@ -123,7 +123,7 @@
   * Any amount repaid by, or recovered from, an individual under subsection (a)(1) and its implementing regulations shall be credited to the appropriation account available for salaries or general expenses of the Capitol Police at the time of repayment or recovery. Such credited amount may be used for any authorized purpose of the account and shall remain available until expended.
 
 #### (c) Limit on amount of payments
-* The total amount paid by the Capitol Police with respect to any individual under the program under this section may not exceed $60,000.
+* The total amount paid by the Capitol Police with respect to any individual under the program under this section may not exceed $80,000.
 
 #### (d) No review of determinations
 * Any determination made under the program under this section shall not be reviewable or appealable in any manner.

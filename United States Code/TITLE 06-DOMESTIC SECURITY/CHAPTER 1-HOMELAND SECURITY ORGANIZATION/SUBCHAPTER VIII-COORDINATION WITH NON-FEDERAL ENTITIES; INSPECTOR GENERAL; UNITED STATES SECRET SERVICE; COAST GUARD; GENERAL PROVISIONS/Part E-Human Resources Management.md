@@ -183,3 +183,16 @@
 
 ### §416. Use of protective equipment or measures by employees
 * None of the funds made available in this or any other Act for fiscal year 2013 and thereafter may be used to propose or effect a disciplinary or adverse action, with respect to any Department of Homeland Security employee who engages regularly with the public in the performance of his or her official duties solely because that employee elects to utilize protective equipment or measures, including but not limited to surgical masks, N95 respirators, gloves, or hand-sanitizers, where use of such equipment or measures is in accord with Department of Homeland Security policy, and Centers for Disease Control and Prevention and Office of Personnel Management guidance.
+
+### §417. Rotational cybersecurity research program
+* To enhance the Department's cybersecurity capacity, the Secretary may establish a rotational research, development, and training program for—
+
+  * (1) detail to the Cybersecurity and Infrastructure Security Agency (including the national cybersecurity and communications integration center authorized by section 659 of this title) of Coast Guard Academy graduates and faculty; and
+
+  * (2) detail to the Coast Guard Academy, as faculty, of individuals with expertise and experience in cybersecurity who are employed by—
+
+    * (A) the Agency (including the center);
+
+    * (B) the Directorate of Science and Technology; or
+
+    * (C) institutions that have been designated by the Department as a Center of Excellence for Cyber Defense, or the equivalent.

@@ -220,7 +220,7 @@
   * (5) the development and dissemination of instructional materials in support of improving the advanced scientific and technical education and training capabilities of associate-degree-granting colleges, including programs for students who are not pursuing a science degree.
 
 #### (b) National centers of scientific and technical education
-* The Director shall award grants for the establishment of centers of excellence, not to exceed 10 in number, among associate-degree-granting colleges. Centers shall meet one or both of the following criteria:
+* The Director shall award grants for the establishment of centers of excellence, not to exceed 12 in number, among associate-degree-granting colleges. Centers shall meet one or both of the following criteria:
 
   * (1) Exceptional instructional programs in advanced-technology fields.
 
@@ -380,7 +380,7 @@
 
   * (8) the term "region" means a labor market area, as that term is defined in section 3102 of title 29; and
 
-  * (9) the terms "mathematics, science, engineering, or technology" or "STEM" mean science, technology, engineering, and mathematics, including computer science.
+  * (9) the terms "mathematics, science, engineering, or technology" or "STEM" mean science, technology, engineering, and mathematics, including computer science and cybersecurity.
 
 ### §1862j. Authorization of appropriations
 * There are authorized to be appropriated, from sums otherwise authorized to be appropriated, to the Director for carrying out sections 1862h to 1862j of this title—
@@ -715,9 +715,11 @@
 * #### (5) Awards
   * In awarding grants under this section, the Director shall ensure that the eligible entities (and participating institutions of higher education of the consortia, if applicable) represent a variety of types of institutions of higher education. In support of this goal, the Director shall broadly disseminate information about when and how to apply for grants under this section, including by conducting outreach to—
 
-    * (A) historically Black colleges and universities that are part B institutions, as defined in section 322(2) of the Higher Education Act of 1965 (20 U.S.C. 1061(2)); and
+    * (A) historically Black colleges and universities that are part B institutions, as defined in section 322(2) of the Higher Education Act of 1965 (20 U.S.C. 1061(2));
 
-    * (B) minority institutions, as defined in section 365(3) of the Higher Education Act of 1965 (20 U.S.C. 1067k(3)).
+    * (B) minority institutions, as defined in section 365(3) of the Higher Education Act of 1965 (20 U.S.C. 1067k(3)); and
+
+    * (C) higher education programs that serve or support veterans.
 
 * #### (6) Supplement not supplant
   * Grant funds provided under this section shall be used to supplement, and not supplant, other Federal or State funds available for the type of activities supported by the grant.
@@ -760,7 +762,7 @@
 
     * (E) the number and academic qualifications of the students who will be served by the program; and
 
-    * (F) the ability of the applicant (and the participating institutions of higher education of the consortium, if applicable) to recruit students who would otherwise not pursue a career in teaching in elementary schools or secondary schools and students who are individuals identified in section 1885a or 1885b of this title.
+    * (F) the ability of the applicant (and the participating institutions of higher education of the consortium, if applicable) to recruit students who would otherwise not pursue a career in teaching in elementary schools or secondary schools, students who are individuals identified in section 1885a or 1885b of this title, and veterans.
 
 #### (c) Scholarship requirements
 * #### (1) In general
@@ -771,7 +773,7 @@
     * (B) have attained at least junior status in a baccalaureate degree program.
 
 * #### (2) Selection
-  * Individuals shall be selected to receive scholarships primarily on the basis of academic merit, with consideration given to financial need and to the goal of promoting the participation of individuals identified in section 1885a or 1885b of this title.
+  * Individuals shall be selected to receive scholarships primarily on the basis of academic merit, with consideration given to financial need and to the goal of promoting the participation of individuals identified in section 1885a or 1885b of this title and veterans.
 
 * #### (3) Amount
   * The Director shall establish for each year the amount to be awarded for scholarships under this section for that year, which shall be not less than $10,000 per year, except that no individual shall receive for any year more than the cost of attendance at that individual's institution. Full-time students may receive annual scholarships through the completion of a baccalaureate degree program, not to exceed a maximum of 3 years. Part-time students may receive scholarships that are prorated according to such students' enrollment status, not to exceed 6 years of scholarship support.
@@ -784,7 +786,7 @@
   * Stipends under this section shall be available only to science, technology, engineering, or mathematics professionals who, while receiving the stipend, are enrolled in a program established under subsection (a)(3)(B).
 
 * #### (2) Selection
-  * Individuals shall be selected to receive stipends under this section primarily on the basis of academic merit and professional achievement, with consideration given to financial need and to the goal of promoting the participation of individuals identified in section 1885a or 1885b of this title.
+  * Individuals shall be selected to receive stipends under this section primarily on the basis of academic merit and professional achievement, with consideration given to financial need and to the goal of promoting the participation of individuals identified in section 1885a or 1885b of this title and veterans.
 
 * #### (3) Amount and duration
   * Stipends under this section shall be not less than $10,000 per year, except that no individual shall receive for any year more than the cost of attendance at such individual's institution. Individuals may receive a maximum of 1 year of stipend support, except that if an individual is enrolled in a part-time program, such amount shall be prorated according to the length of the program.
@@ -872,7 +874,7 @@
 
   * (4) the term "high need local educational agency" has the meaning given such term in section 201 of the Higher Education Act of 1965 (20 U.S.C. 1021);
 
-  * (5) the term "mathematics and science teacher" means a science, technology, engineering, mathematics, or computer science, including cybersecurity, teacher at the elementary school or secondary school level;
+  * (5) the term "mathematics and science teacher" means a science, technology, engineering, mathematics, or computer science and artificial intelligence, including cybersecurity, teacher at the elementary school or secondary school level;
 
   * (6) the term "scholarship" means an award under subsection (c);
 
@@ -995,7 +997,7 @@
 
     * (E) the number and quality of the individuals that will be served by the program; and
 
-    * (F) in the case of the National Science Foundation Teaching Fellowship, the ability of the applicant (and participating institutions of higher education of the consortium, if applicable) to recruit individuals who would otherwise not pursue a career in teaching and individuals identified in section 1885a or 1885b of this title.
+    * (F) in the case of the National Science Foundation Teaching Fellowship, the ability of the applicant (and participating institutions of higher education of the consortium, if applicable) to recruit individuals who would otherwise not pursue a career in teaching, individuals identified in section 1885a or 1885b of this title, and veterans.
 
 * #### (4) Selection of fellows
   * #### (A) In general
@@ -1010,7 +1012,7 @@
       * (iv) in the case of National Science Foundation Master Teaching Fellows, demonstrated success in improving student academic achievement in science, technology, engineering, or mathematics.
 
   * #### (B) Promoting participation of certain individuals
-    * Among individuals demonstrating equivalent qualifications, consideration may be given to the goal of promoting the participation of individuals identified in section 1885a or 1885b of this title.
+    * Among individuals demonstrating equivalent qualifications, consideration may be given to the goal of promoting the participation of individuals identified in section 1885a or 1885b of this title and veterans.
 
 #### (e) Duties of National Science Foundation Teaching Fellows and Master Teaching Fellows
 * A National Science Foundation Teaching Fellow or a National Science Foundation Master Teaching Fellow, while fulfilling the service obligation under subsection (h) and in addition to regular classroom activities, shall take on a leadership role within the school or local educational agency in which the fellow is employed, as defined by the partnership according to such fellow's expertise, including serving as a mentor or master teacher, developing curricula, and assisting in the development and implementation of professional development activities.
@@ -2275,16 +2277,7 @@
   * The term "appropriate committees of Congress" means the Committee on Commerce, Science, and Transportation and the Committee on Appropriations of the Senate and the Committee on Science, Space, and Technology and the Committee on Appropriations of the House of Representatives.
 
 * #### (2) Major multi-user research facility project
-  * The term "&nbsp;'major multi-user research facility project'&nbsp;" means a science and engineering facility project that—
-
-    * (A) exceeds the lesser of—
-
-      * (i) 10 percent of a Directorate's annual budget; or
-
-      * (ii) $100,000,000 in total project costs; or
-
-
-    * (B) is funded by the major research equipment and facilities construction account, or any successor account.
+  * The term "major multi-user research facility project" means a science and engineering facility project that exceeds $100,000,000 in total construction, acquisition, or upgrade costs to the Foundation.
 
 ### §1862s–3. Personnel oversight
 #### (a) Conflicts of interest
@@ -2398,7 +2391,7 @@
 
 #### (b) Grant program
 * #### (1) In general
-  * The Director of the Foundation shall award grants to eligible entities to research computer science education and computational thinking.
+  * The Director of the Foundation shall award grants to eligible entities to research computer science and cybersecurity education and computational thinking.
 
 * #### (2) Research
   * The research described in paragraph (1) may include the development or adaptation, piloting or full implementation, and testing of—
@@ -2407,9 +2400,11 @@
 
     * (B) scalable and sustainable models of professional development and ongoing support for the teachers described in subparagraph (A);
 
-    * (C) tools and models for teaching and learning aimed at supporting student success and inclusion in computing within and across diverse populations, particularly poor, rural, and tribal populations and other populations that have been historically underrepresented in computer science and STEM fields; and
+    * (C) tools and models for teaching and learning aimed at supporting student success and inclusion in computing within and across diverse populations, particularly poor, rural, and tribal populations and other populations that have been historically underrepresented in computer science and STEM fields;
 
-    * (D) high-quality learning opportunities for teaching computer science and, especially in poor, rural, or tribal schools at the elementary school and middle school levels, for integrating computational thinking into STEM teaching and learning.
+    * (D) high-quality learning opportunities for teaching computer science and, especially in poor, rural, or tribal schools at the elementary school and middle school levels, for integrating computational thinking into STEM teaching and learning; and
+
+    * (E) tools and models for the integration of cybersecurity and other interdisciplinary efforts into computer science education and computational thinking at secondary and postsecondary levels of education.
 
 * #### (3) Uses of funds
   * The tools and models described in paragraph (2)(C) may include—
@@ -2438,7 +2433,7 @@
     * (I) developing tools to evaluate activities conducted under this subsection, including reports for evaluating the effectiveness of activities under this section.
 
 #### (c) Collaborations
-* In carrying out the grants established in subsection (b), eligible entities may collaborate and partner with local or remote schools to support the integration of computing and computational thinking within pre-kindergarten through grade 12 STEM curricula and instruction.
+* In carrying out the grants established in subsection (b), eligible entities may collaborate and partner with local or remote schools to support the integration of computing, cybersecurity, and computational thinking within pre-kindergarten through grade 12 STEM curricula and instruction.
 
 #### (d) Metrics
 * The Director of the Foundation shall develop metrics to measure the success of the grant program funded under this section in achieving program goals.
@@ -2561,6 +2556,72 @@
 #### (e) Applications
 * An eligible entity seeking a grant under this section shall submit an application to the Director at such time, in such manner, and containing such information as the Director may require.
 
+### §1862t. Supporting veterans in STEM education and computer science
+#### (a) Supporting veteran involvement in scientific research and STEM education
+* The Director shall, through the research and education activities of the Foundation, encourage veterans to study and pursue careers in STEM and computer science, in coordination with other Federal agencies that serve veterans.
+
+#### (b) Veteran outreach plan
+* Not later than 180 days after February 11, 2020, the Director shall submit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a plan for how the Foundation can enhance its outreach efforts to veterans. Such plan shall—
+
+  * (1) report on the Foundation's existing outreach activities;
+
+  * (2) identify the best method for the Foundation to leverage existing authorities and programs to facilitate and support veterans in STEM careers and studies, including teaching programs; and
+
+  * (3) include options for how the Foundation could track veteran participation in research and education programs of the Foundation, and describe any barriers to collecting such information.
+
+#### (c) National Science Board indicators report
+* The National Science Board shall provide in its annual report on indicators of the state of science and engineering in the United States any available and relevant data on veterans in science and engineering careers or education programs.
+
+#### (d) to (g) Omitted
+#### (h) Veterans and military families STEM education interagency working group
+* #### (1) In general
+  * The Director of the Office of Science and Technology Policy shall establish, or designate, an interagency working group to improve veteran and military spouse equity and representation in STEM fields.
+
+* #### (2) Duties of interagency working group
+  * An interagency working group established under paragraph (1) shall develop and facilitate the implementation by participating agencies of a strategic plan, which shall—
+
+    * (A) specify and prioritize short- and long-term objectives;
+
+    * (B) specify the common metrics that will be used by Federal agencies to assess progress toward achieving such objectives;
+
+    * (C) identify barriers veterans face in reentering the workforce, including a lack of formal STEM education, career guidance, and the process of transferring military credits and skills to college credits;
+
+    * (D) identify barriers military spouses face in establishing careers in STEM fields;
+
+    * (E) describe the approaches that each participating agency will take to address administratively the barriers described in subparagraphs (C) and (D); and
+
+    * (F) identify any barriers that require Federal or State legislative or regulatory changes in order to be addressed.
+
+* #### (3) Report
+  * The Director of the Office of Science and Technology Policy shall—
+
+    * (A) not later than 1 year after February 11, 2020, submit to Congress the strategic plan required under paragraph (2); and
+
+    * (B) include in the annual report required by section 6621(d) of this title a description of any progress made in carrying out the activities described in paragraph (2) of this subsection.
+
+* #### (4) Sunset
+  * An interagency working group established under paragraph (1) shall terminate on the date that is 3 years after the date that it is established.
+
+### §1862u. NSF support of research on opioid addiction
+* The Director of the National Science Foundation, in consultation with the Director of the National Institutes of Health, shall support merit-reviewed and competitively awarded research on the science of opioid addiction.
+
+### §1862v. National Science Foundation research
+#### (a) In general
+* The Director of the National Science Foundation, in consultation with the Director of the National Institutes of Health and the Director of the National Institute of Mental Health and taking into consideration prioritized research agendas or strategic plans, as appropriate, shall, subject to the availability of appropriations, award grants on a competitive, merit-reviewed basis to institutions of higher education (or consortia of such institutions) to support multidisciplinary, fundamental research with potential relevance to suicide, including potential relevance to prevention and treatment, including, but not limited to—
+
+  * (1) basic understanding of human social behavior;
+
+  * (2) the neural basis of human cognition;
+
+  * (3) basic understanding of cognitive, linguistic, social, cultural, and biological processes related to human development across the lifespan;
+
+  * (4) basic understanding of perceptual, motor, and cognitive processes, and their interaction, in typical human behavior; and
+
+  * (5) basic understanding of the relevance of drug and alcohol abuse.
+
+#### (b) Encouraging applications from early career researchers
+* To promote the development of early career researchers, in awarding funds under subsection (a), the Director of the National Science Foundation shall encourage applications submitted by early career researchers, including doctoral students or postdoctoral researchers.
+
 ### §1863. National Science Board
 #### (a) Composition; appointment; establishment of policies of the Foundation
 * The Board shall consist of twenty-four members to be appointed by the President and of the Director ex officio. In addition to any powers and functions otherwise granted to it by this chapter, the Board shall establish the policies of the Foundation, within the framework of applicable national policies as set forth by the President and the Congress.
@@ -2660,7 +2721,7 @@
 
 ### §1869c. Low-income scholarship program
 #### (1) Establishment
-* The Director of the National Science Foundation (referred to in this section as the "Director") shall award scholarships to low-income individuals to enable such individuals to pursue associate, undergraduate, or graduate level degrees in mathematics, engineering, or computer science.
+* The Director of the National Science Foundation (referred to in this section as the "Director") shall award scholarships to low-income individuals to enable such individuals to pursue associate, undergraduate, or graduate level degrees in mathematics, engineering, computer science, or cybersecurity.
 
 #### (2) Eligibility
 * #### (A) In general
@@ -2670,7 +2731,7 @@
 
     * (ii) shall prepare and submit to the Director an application at such time, in such manner, and containing such information as the Director may require; and
 
-    * (iii) shall certify to the Director that the individual intends to use amounts received under the scholarship to enroll or continue enrollment at an institution of higher education (as defined in section 1001(a) of title 20) in order to pursue an associate, undergraduate, or graduate level degree in mathematics, engineering, computer science, or other technology and science programs designated by the Director.
+    * (iii) shall certify to the Director that the individual intends to use amounts received under the scholarship to enroll or continue enrollment at an institution of higher education (as defined in section 1001(a) of title 20) in order to pursue an associate, undergraduate, or graduate level degree in mathematics, engineering, computer science, cybersecurity, or other technology and science programs designated by the Director.
 
 * #### (B) Ability
   * Awards of scholarships under this section shall be made by the Director solely on the basis of the ability of the applicant, except that in any case in which 2 or more applicants for scholarships are deemed by the Director to be possessed of substantially equal ability, and there are not sufficient scholarships available to grant one to each of such applicants, the available scholarship or scholarships shall be awarded to the applicants in a manner that will tend to result in a geographically wide distribution throughout the United States of recipients' places of permanent residence.

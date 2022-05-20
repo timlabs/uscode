@@ -280,7 +280,7 @@
       * (iv) is not imprisoned under Federal, State, or local authority, and
 
 
-    * (B) such month begins more than 90 days after the date of the enactment of the Trade Act of 2002, and before January 1, 2021.
+    * (B) such month begins more than 90 days after the date of the enactment of the Trade Act of 2002, and before January 1, 2022.
 
 * #### (2) Joint returns
   * In the case of a joint return, the requirements of paragraph (1)(A) shall be treated as met with respect to any month if at least 1 spouse satisfies such requirements.

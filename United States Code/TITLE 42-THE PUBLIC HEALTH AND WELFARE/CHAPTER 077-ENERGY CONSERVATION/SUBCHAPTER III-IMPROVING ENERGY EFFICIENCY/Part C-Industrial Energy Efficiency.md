@@ -391,82 +391,73 @@
   * #### (D) New petition
     * If a State regulatory authority (with respect to each electric utility for which the authority has ratemaking authority) or nonregulated electric utility declines to implement the standard established by this section, the project sponsor may submit a new petition under this section with respect to the project at any time after the date that is 2 years after the date on which the State regulatory authority or nonregulated utility declined to implement the standard.
 
-### §6345. Clean Energy Application Centers
+### §6345. CHP Technical Assistance Partnership Program
 #### (a) Renaming
 * #### (1) In general
-  * The Combined Heat and Power Application Centers of the Department of Energy are redesignated as Clean Energy Application Centers.
+  * The Clean Energy Application Centers of the Department of Energy are redesignated as the CHP Technical Assistance Partnership Program (referred to in this section as the "Program").
 
-* #### (2) References
-  * Any reference in any law, rule, regulation, or publication to a Combined Heat and Power Application Center shall be treated as a reference to a Clean Energy Application Center.
+* #### (2) Program description
+  * The Program shall consist of—
 
-#### (b) Relocation
+    * (A) the 10 regional CHP Technical Assistance Partnerships in existence on December 27, 2020;
+
+    * (B) such other regional CHP Technical Assistance Partnerships as the Secretary may establish with consideration given to establishing such partnerships in rural communities; and
+
+    * (C) any supporting technical activities under the Technical Partnership Program of the Advanced Manufacturing Office.
+
+* #### (3) References
+  * Any reference in any law, rule, regulation, or publication to a Combined Heat and Power Application Center or a Clean Energy Application Center shall be deemed to be a reference to the Program.
+
+#### (b) CHP Technical Assistance Partnership Program
 * #### (1) In general
-  * In order to better coordinate efforts with the separate Industrial Assessment Centers and to ensure that the energy efficiency and, when applicable, the renewable nature of deploying mature clean energy technology is fully accounted for, the Secretary shall relocate the administration of the Clean Energy Application Centers to the Office of Energy Efficiency and Renewable Energy within the Department of Energy.
+  * The Program shall—
 
-* #### (2) Office of Electricity Delivery and Energy Reliability
-  * The Office of Electricity Delivery and Energy Reliability shall—
+    * (A) operate programs to encourage deployment of combined heat and power, waste heat to power, and efficient district energy (collectively referred to in this subsection as "CHP") technologies by providing education and outreach to—
 
-    * (A) continue to perform work on the role of technology described in paragraph (1) in support of the grid and the reliability and security of the technology; and
+      * (i) building, industrial, and electric and natural gas utility professionals;
 
-    * (B) shall assist the Clean Energy Application Centers in the work of the Centers with regard to the grid and with electric utilities.
+      * (ii) State and local policymakers; and
 
-#### (c) Grants
-* #### (1) In general
-  * The Secretary shall make grants to universities, research centers, and other appropriate institutions to ensure the continued operations and effectiveness of 8 Regional Clean Energy Application Centers in each of the following regions (as designated for such purposes as of December 19, 2007):
+      * (iii) other individuals and organizations with an interest in efficient energy use, local or opportunity fuel use, resiliency, or energy security, microgrids, and district energy; and
 
-    * (A) Gulf Coast.
 
-    * (B) Intermountain.
+    * (B) provide project specific support to building and industrial professionals through economic and engineering assessments and advisory activities.
 
-    * (C) Mid-Atlantic.
+* #### (2) Funding for certain activities
+  * #### (A) In general
+    * The Program shall make funds available to institutions of higher education, research centers, and other appropriate institutions to ensure the continued operations and effectiveness of the regional CHP Technical Assistance Partnerships.
 
-    * (D) Midwest.
+  * #### (B) Use of funds
+    * Funds made available under subparagraph (A) may be used—
 
-    * (E) Northeast.
+      * (i) to collect and distribute informational materials relevant to manufacturers, commercial buildings, institutional facilities, and Federal sites, including continued support of the mission goals of the Department of Defense, on CHP and microgrid technologies, including continuation and updating of—
 
-    * (F) Northwest.
+        * (I) the CHP installation database;
 
-    * (G) Pacific.
+        * (II) CHP technology potential analyses;
 
-    * (H) Southeast.
+        * (III) State CHP resource pages; and
 
-* #### (2) Establishment of goals and compliance
-  * In making grants under this subsection, the Secretary shall ensure that sufficient goals are established and met by each Center throughout the program duration concerning outreach and technology deployment.
+        * (IV) CHP Technical Assistance Partnerships websites;
 
-#### (d) Activities
-* #### (1) In general
-  * Each Clean Energy Application Center shall—
 
-    * (A) operate a program to encourage deployment of clean energy technologies through education and outreach to building and industrial professionals; and other individuals and organizations with an interest in efficient energy use; and
+      * (ii) to produce and conduct workshops, reports, seminars, internet programs, CHP resiliency resources, and other activities to provide education to end users, regulators, and stakeholders in a manner that leads to the deployment of CHP technologies;
 
-    * (B) provide project specific support to building and industrial professionals through assessments and advisory activities.
+      * (iii) to provide or coordinate onsite assessments for sites and enterprises that may consider deployment of CHP technology, including the potential use of biomass CHP systems;
 
-* #### (2) Types of activities
-  * Funds made available under this section may be used—
+      * (iv) to identify candidates for deployment of CHP technologies, hybrid renewable-CHP technologies, biomass CHP, microgrids, and clean energy;
 
-    * (A) to develop and distribute informational materials on clean energy technologies, including continuation of the 8 websites in existence on December 19, 2007;
+      * (v) to provide nonbiased engineering support to sites considering deployment of CHP technologies;
 
-    * (B) to develop and conduct target market workshops, seminars, Internet programs, and other activities to educate end users, regulators, and stakeholders in a manner that leads to the deployment of clean energy technologies;
+      * (vi) to assist organizations and communities, including rural communities, developing clean energy technologies and policies in overcoming barriers to deployment; and
 
-    * (C) to provide or coordinate onsite assessments for sites and enterprises that may consider deployment of clean energy technology;
+      * (vii) to assist companies, communities (including rural communities), and organizations with field validation and performance evaluations of CHP and other clean energy technologies implemented.
 
-    * (D) to perform market research to identify high profile candidates for clean energy deployment;
+  * #### (C) Duration
+    * The Program shall make funds available under subparagraph (A) for a period of 5 years.
 
-    * (E) to provide consulting support to sites considering deployment of clean energy technologies;
-
-    * (F) to assist organizations developing clean energy technologies to overcome barriers to deployment; and
-
-    * (G) to assist companies and organizations with performance evaluations of any clean energy technology implemented.
-
-#### (e) Duration
-* #### (1) In general
-  * A grant awarded under this section shall be for a period of 5 years
-
-* #### (2) Annual evaluations
-  * Each grant shall be evaluated annually for the continuation of the grant based on the activities and results of the grant.
-
-#### (f) Authorization
-* There is authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2008 through 2012.
+#### (c) Authorization of appropriations
+* There are authorized to be appropriated to carry out this section $12,000,000 for each of fiscal years 2021 through 2025.
 
 ### §6348. Energy efficiency in industrial facilities
 #### (a) Grant program
@@ -611,13 +602,13 @@
 
 ### §6351. Coordination of research and development of energy efficient technologies for industry
 #### (a) In general
-* As part of the research and development activities of the Industrial Technologies Program of the Department of Energy, the Secretary of Energy (referred to in this section as the "Secretary") shall establish, as appropriate, collaborative research and development partnerships with other programs within the Office of Energy Efficiency and Renewable Energy (including the Building Technologies Program), the Office of Electricity Delivery and Energy Reliability, and the Office of Science that—
+* As part of the research and development activities of the Advanced Manufacturing Office of the Department of Energy, the Secretary of Energy (referred to in this section as the "Secretary") shall establish, as appropriate, collaborative research and development partnerships with other programs within the Department of Energy that—
 
   * (1) leverage the research and development expertise of those programs to promote early stage energy efficiency technology development;
 
   * (2) support the use of innovative manufacturing processes and applied research for development, demonstration, and commercialization of new technologies and processes to improve efficiency (including improvements in efficient use of water), reduce emissions, reduce industrial waste, and improve industrial cost-competitiveness; and
 
-  * (3) apply the knowledge and expertise of the Industrial Technologies Program to help achieve the program goals of the other programs.
+  * (3) apply the knowledge and expertise of the Advanced Manufacturing Office to help achieve the program goals of the other programs.
 
 #### (b) Reports
 * Not later than 2 years after December 18, 2012, and biennially thereafter, the Secretary shall submit to Congress a report that describes actions taken to carry out subsection (a) and the results of those actions.

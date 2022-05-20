@@ -673,7 +673,7 @@
 
 * (d) NUMBER OF COPIES. The number of copies to be filed must be prescribed by local rule and may be altered by order in a particular case.
 
-* (e) RESPONSE. No response may be filed to a petition for an en banc consideration unless the court orders a response.
+* (e) RESPONSE. No response may be filed to a petition for an en banc consideration unless the court orders a response. The length limits in Rule 35(b)(2) apply to a response.
 
 * (f) CALL FOR A VOTE. A vote need not be taken to determine whether the case will be heard or reheard en banc unless a judge calls for a vote.
 
@@ -731,7 +731,7 @@
   * (4) the fee for filing the notice of appeal.
 
 ### Rule 40. Petition for Panel Rehearing
-* (a) TIME TO FILE; CONTENTS; ANSWER; ACTION BY THE COURT IF GRANTED.
+* (a) TIME TO FILE; CONTENTS; RESPONSE; ACTION BY THE COURT IF GRANTED.
 
   * (1) _Time._ Unless the time is shortened or extended by order or local rule, a petition for panel rehearing may be filed within 14 days after entry of judgment. But in a civil case, unless an order shortens or extends the time, the petition may be filed by any party within 45 days after entry of judgment if one of the parties is:
 
@@ -746,7 +746,7 @@
 
   * (2) _Contents._ The petition must state with particularity each point of law or fact that the petitioner believes the court has overlooked or misapprehended and must argue in support of the petition. Oral argument is not permitted.
 
-  * (3) _Answer._ Unless the court requests, no answer to a petition for panel rehearing is permitted. But ordinarily rehearing will not be granted in the absence of such a request.
+  * (3) _Response._ Unless the court requests, no response to a petition for panel rehearing is permitted. Ordinarily, rehearing will not be granted in the absence of such a request. If a response is requested, the requirements of Rule 40(b) apply to the response.
 
   * (4) _Action by the Court._ If a petition for panel rehearing is granted, the court may do any of the following:
 

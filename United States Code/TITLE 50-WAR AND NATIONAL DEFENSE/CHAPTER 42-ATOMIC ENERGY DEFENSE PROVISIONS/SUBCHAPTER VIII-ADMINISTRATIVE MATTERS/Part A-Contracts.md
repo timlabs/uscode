@@ -99,9 +99,9 @@
 #### (a) Authority
 * Subject to subsection (b), the Secretary of Energy may—
 
-  * (1) carry out a covered procurement action; and
+  * (1) carry out a covered procurement action or special exclusion action; and
 
-  * (2) notwithstanding any other provision of law, limit, in whole or in part, the disclosure of information relating to the basis for carrying out a covered procurement action.
+  * (2) notwithstanding any other provision of law, limit, in whole or in part, the disclosure of information relating to the basis for carrying out a covered procurement action or special exclusion action.
 
 #### (b) Requirements
 * The Secretary may exercise the authority under subsection (a) only after—
@@ -128,7 +128,7 @@
 #### (c) Notifications
 * If the Secretary has exercised the authority under subsection (a), the Secretary shall—
 
-  * (1) notify appropriate parties of the covered procurement action and the basis for the action only to the extent necessary to carry out the covered procurement action;
+  * (1) notify appropriate parties of the covered procurement action or special exclusion action and the basis for the action only to the extent necessary to carry out the covered procurement action or special exclusion action;
 
   * (2) notify other Federal agencies responsible for procurement that may be subject to the same or similar supply chain risk, in a manner and to the extent consistent with the requirements of national security; and
 
@@ -137,7 +137,14 @@
 #### (d) Limitation of review
 * No action taken by the Secretary under the authority under subsection (a) shall be subject to review in any Federal court.
 
-#### (e) Definitions
+#### (e) Delegation of authority
+* The Secretary may delegate the authority under this section to—
+
+  * (1) in the case of the Administration, the Administrator; and
+
+  * (2) in the case of any other component of the Department of Energy, the Senior Procurement Executive of the Department.
+
+#### (f) Definitions
 * In this section:
 
 * #### (1) Appropriate congressional committees
@@ -183,12 +190,14 @@
 
     * (D) Items associated with the surveillance of the nuclear weapon stockpile.
 
-    * (E) Items associated with the design and development of nonproliferation and counterproliferation programs and systems.
+    * (E) Items associated with the design and development of nonproliferation and counterproliferation programs and systems.(6) Special exclusion action
 
-* #### (6) Supply chain risk
+  * The term "special exclusion action" means an action to prohibit, for a period not to exceed two years, the award of any contracts or subcontracts by the Administration or any other component of the Department of Energy related to any covered system to a source the Secretary determines to represent a supply chain risk.
+
+* #### (7) Supply chain risk
   * The term "supply chain risk" means the risk that an adversary may sabotage, maliciously introduce unwanted function, or otherwise subvert the design, integrity, manufacturing, production, distribution, installation, operation, or maintenance of a covered system or covered item of supply so as to surveil, deny, disrupt, or otherwise degrade the function, use, or operation of the system or item of supply.
 
-#### (f) Termination
+#### (g) Termination
 * The authority under this section shall terminate on June 30, 2023.
 
 ### §2787. Cost-benefit analyses for competition of management and operating contracts

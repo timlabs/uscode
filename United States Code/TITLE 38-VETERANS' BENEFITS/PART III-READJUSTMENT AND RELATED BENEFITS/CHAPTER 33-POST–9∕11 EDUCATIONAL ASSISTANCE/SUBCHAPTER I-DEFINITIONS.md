@@ -22,7 +22,7 @@
 
     * (B) In the case of members of the Navy, Recruit Training (or Boot Camp) and Skill Training (or so-called "A" School).
 
-    * (C) In the case of members of the Air Force, Basic Military Training and Technical Training.
+    * (C) In the case of members of the Air Force or the Space Force, Basic Military Training and Technical Training.
 
     * (D) In the case of members of the Marine Corps, Recruit Training and Marine Corps Training (or School of Infantry Training).
 

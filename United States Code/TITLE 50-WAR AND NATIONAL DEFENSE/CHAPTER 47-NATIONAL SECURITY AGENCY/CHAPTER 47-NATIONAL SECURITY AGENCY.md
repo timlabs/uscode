@@ -280,3 +280,10 @@
 
 #### (e) Crediting of amounts collected
 * Amounts collected under this section shall be credited to the account or accounts from which costs associated with such amounts have been or will be incurred, to reimburse or offset the direct costs of the program referred to in subsection (a).
+
+### §3619. Senior Chief Petty Officer Shannon Kent Award for Distinguished Female Personnel
+#### (a) Establishment
+* The Director of the National Security Agency shall establish an honorary award for the recognition of female personnel of the National Security Agency for distinguished career contributions in support of the mission of the Agency as civilian employees or members of the Armed Forces assigned to the Agency. The award shall be known as the "Senior Chief Petty Officer Shannon Kent Award" and shall consist of a design determined appropriate by the Director.
+
+#### (b) Award
+* The Director shall award the Senior Chief Petty Officer Shannon Kent Award to female civilian employees, members of the Armed Forces, or former civilian employees or members, whom the Director determines meet the criteria under subsection (a).

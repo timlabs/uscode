@@ -375,7 +375,7 @@
 #### (a) Publication and filing
 * (1)(A) An annual report shall be published with respect to every employee benefit plan to which this part applies. Such report shall be filed with the Secretary in accordance with section 1024(a) of this title, and shall be made available and furnished to participants in accordance with section 1024(b) of this title.
 
-* (B) The annual report shall include the information described in subsections (b) and (c) and where applicable subsections (d), (e), and (f) and shall also include—
+* (B) The annual report shall include the information described in subsections (b) and (c) and where applicable subsections (d), (e), (f), and (g) and shall also include—
 
   * (i) a financial statement and opinion, as required by paragraph (3) of this subsection, and
 
@@ -581,14 +581,23 @@
 
     * (I) In the case of a multiemployer plan that has merged with another plan or to which assets and liabilities have been transferred, the actuarial valuation of the assets and liabilities of each affected plan during the year preceding the effective date of the merger or transfer, based upon the most recent data available as of the day before the first day of the plan year, or other valuation method performed under standards and procedures as the Secretary may prescribe by regulation.
 
-#### (g) Additional information with respect to multiple employer plans
-* With respect to any multiple employer plan, an annual report under this section for a plan year shall include a list of participating employers and a good faith estimate of the percentage of total contributions made by such participating employers during the plan year.
+#### (g) Additional information with respect to pooled employer and multiple employer plans
+* An annual report under this section for a plan year shall include—
+
+  * (1) with respect to any plan to which section 1060(a) of this title applies (including a pooled employer plan), a list of employers in the plan and a good faith estimate of the percentage of total contributions made by such employers during the plan year and the aggregate account balances attributable to each employer in the plan (determined as the sum of the account balances of the employees of such employer (and the beneficiaries of such employees)); and
+
+  * (2) with respect to a pooled employer plan, the identifying information for the person designated under the terms of the plan as the pooled plan provider.
 
 ### §1024. Filing with Secretary and furnishing information to participants and certain employers
 #### (a) Filing of annual report with Secretary
 * (1) The administrator of any employee benefit plan subject to this part shall file with the Secretary the annual report for a plan year within 210 days after the close of such year (or within such time as may be required by regulations promulgated by the Secretary in order to reduce duplicative filing). The Secretary shall make copies of such annual reports available for inspection in the public document room of the Department of Labor.
 
-* (2)(A) With respect to annual reports required to be filed with the Secretary under this part, he may by regulation prescribe simplified annual reports for any pension plan which covers less than 100 participants.
+* (2)(A) With respect to annual reports required to be filed with the Secretary under this part, the Secretary may by regulation prescribe simplified annual reports for any pension plan that—
+
+  * (i) covers fewer than 100 participants; or
+
+  * (ii) is a plan described in section 1060(a) of this title that covers fewer than 1,000 participants, but only if no single employer in the plan has 100 or more participants covered by the plan.
+
 
 * (B) Nothing contained in this paragraph shall preclude the Secretary from requiring any information or data from any such plan to which this part applies where he finds such data or information is necessary to carry out the purposes of this subchapter nor shall the Secretary be precluded from revoking provisions for simplified reports for any such plan if he finds it necessary to do so in order to carry out the objectives of this subchapter.
 

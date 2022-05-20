@@ -55,7 +55,7 @@
 #### (c) Liability insurance; waiver of defense
 * (1) Beginning in 1990, the Secretary shall be responsible for obtaining or providing liability insurance or equivalent coverage, on the most cost-effective basis, for Indian tribes, tribal organizations, and tribal contractors carrying out contracts, grant agreements and cooperative agreements pursuant to this chapter. In obtaining or providing such coverage, the Secretary shall take into consideration the extent to which liability under such contracts or agreements are covered by the Federal Tort Claims Act.
 
-* (2) In obtaining or providing such coverage, the Secretary shall, to the greatest extent practicable, give a preference to coverage underwritten by Indian-owned economic enterprises as defined in section 1452 of this title, except that, for the purposes of this subsection, such enterprises may include non-profit corporations.
+* (2) In obtaining or providing such coverage, the Secretary shall, to the greatest extent practicable, give a preference to coverage underwritten by Indian-owned economic enterprises (as defined in section 1452 of this title), except that, for the purposes of this subsection, such enterprises may include non-profit corporations.
 
 * (3)(A) Any policy of insurance obtained or provided by the Secretary pursuant to this subsection shall contain a provision that the insurance carrier shall waive any right it may have to raise as a defense the sovereign immunity of an Indian tribe from suit, but that such waiver shall extend only to claims the amount and nature of which are within the coverage and limits of the policy and shall not authorize or empower such insurance carrier to waive or otherwise limit the tribe's sovereign immunity outside or beyond the coverage or limits of the policy of insurance.
 
@@ -72,6 +72,20 @@
   * (A) by an official of the Department who holds a position at a higher organizational level within the Department than the level of the departmental agency (such as the Indian Health Service or the Bureau of Indian Affairs) in which the decision that is the subject of the appeal was made; or
 
   * (B) by an administrative judge.
+
+#### (f) Good faith requirement
+* In the negotiation of contracts and funding agreements, the Secretary shall—
+
+  * (1) at all times negotiate in good faith to maximize implementation of the self-determination policy; and
+
+  * (2) carry out this chapter in a manner that maximizes the policy of Tribal self-determination, in a manner consistent with—
+
+    * (A) the purposes specified in section 5302 of this title; and
+
+    * (B) the PROGRESS for Indian Tribes Act.
+
+#### (g) Rule of construction
+* Subject to section 101(a) of the PROGRESS for Indian Tribes Act, each provision of this chapter and each provision of a contract or funding agreement shall be liberally construed for the benefit of the Indian Tribe participating in self-determination, and any ambiguity shall be resolved in favor of the Indian Tribe.
 
 ### §5322. Grants to tribal organizations or tribes
 #### (a) Request by tribe for contract or grant by Secretary of the Interior for improving, etc., tribal governmental, contracting, and program planning activities
@@ -326,6 +340,25 @@
 * #### (2) Treatment of records
   * Patient records that are deemed to be Federal records under those provisions of title 44 that are commonly referred to as the "Federal Records Act of 1950" pursuant to this subsection shall not be considered Federal records for the purposes of chapter 5 of title 5.
 
+#### (p) Interpretation by Secretary
+* Except as otherwise provided by law, the Secretary shall interpret all Federal laws (including regulations) and Executive orders in a manner that facilitates, to the maximum extent practicable—
+
+  * (1) the inclusion in self-determination contracts and funding agreements of—
+
+    * (A) applicable programs, services, functions, and activities (or portions thereof); and
+
+    * (B) funds associated with those programs, services, functions, and activities;
+
+
+  * (2) the implementation of self-determination contracts and funding agreements; and
+
+  * (3) the achievement of Tribal health objectives.
+
+#### (q) Technical assistance for internal controls
+* (1) TECHNICAL ASSISTANCE FOR INTERNAL CONTROLS.—&nbsp;In considering proposals for, amendments to, or in the course of, a contract under this subchapter and compacts under subchapters IV and V of this chapter, if the Secretary determines that the Indian Tribe lacks adequate internal controls necessary to manage the contracted program or programs, the Secretary shall, as soon as practicable, provide the necessary technical assistance to assist the Indian Tribe in developing adequate internal controls. As part of that technical assistance, the Secretary and the Tribe shall develop a plan for assessing the subsequent effectiveness of such technical assistance. The inability of the Secretary to provide technical assistance or lack of a plan under this subsection shall not result in the reassumption of an existing agreement, contract, or compact, or declination or rejection of a new agreement, contract, or compact.
+
+* (2) The Secretary shall prepare a report to be included in the information required for the reports under sections 5372(b)(2)(A) and 5394(b)(2)(A) of this title. The Secretary shall include in this report, in the aggregate, a description of the internal controls that were inadequate, the technical assistance provided, and a description of Secretarial actions taken to address any remaining inadequate internal controls after the provision of technical assistance and implementation of the plan required by paragraph (1).
+
 ### §5325. Contract funding and indirect costs
 #### (a) Amount of funds provided
 * (1) The amount of funds provided under the terms of self-determination contracts entered into pursuant to this chapter shall not be less than the appropriate Secretary would have otherwise provided for the operation of the programs or portions thereof for the period covered by the contract, without regard to any organizational level within the Department of the Interior or the Department of Health and Human Services, as appropriate, at which the program, function, service, or activity or portion thereof, including supportive administrative functions that are otherwise contractable, is operated.
@@ -339,14 +372,16 @@
 
 * (3)(A) The contract support costs that are eligible costs for the purposes of receiving funding under this chapter shall include the costs of reimbursing each tribal contractor for reasonable and allowable costs of—
 
-  * (i) direct program expenses for the operation of the Federal program that is the subject of the contract, and
+  * (i) direct program expenses for the operation of the Federal program that is the subject of the contract; and
 
-  * (ii) any additional administrative or other expense related to the overhead incurred by the tribal contractor in connection with the operation of the Federal program, function, service, or activity pursuant to the contract,
+  * (ii) any additional administrative or other expense incurred by the governing body of the Indian Tribe or Tribal organization and any overhead expense incurred by the tribal contractor in connection with the operation of the Federal program, function, service, or activity pursuant to the contract,
 
 
 * except that such funding shall not duplicate any funding provided under subsection (a)(1) of this section.
 
-* (B) On an annual basis, during such period as a tribe or tribal organization operates a Federal program, function, service, or activity pursuant to a contract entered into under this chapter, the tribe or tribal organization shall have the option to negotiate with the Secretary the amount of funds that the tribe or tribal organization is entitled to receive under such contract pursuant to this paragraph.
+* (B) In calculating the reimbursement rate for expenses described in subparagraph (A)(ii), not less than 50 percent of the expenses described in subparagraph (A)(ii) that are incurred by the governing body of an Indian Tribe or Tribal organization relating to a Federal program, function, service, or activity carried out pursuant to the contract shall be considered to be reasonable and allowable.
+
+* (C) On an annual basis, during such period as a tribe or tribal organization operates a Federal program, function, service, or activity pursuant to a contract entered into under this chapter, the tribe or tribal organization shall have the option to negotiate with the Secretary the amount of funds that the tribe or tribal organization is entitled to receive under such contract pursuant to this paragraph.
 
 * (4) For each fiscal year during which a self-determination contract is in effect, any savings attributable to the operation of a Federal program, function, service, or activity under a self-determination contract by a tribe or tribal organization (including a cost reimbursement construction contract) shall—
 
@@ -526,7 +561,7 @@
 
   * (1) contain, or incorporate by reference, the provisions of the model agreement described in subsection (c) of this section (with modifications where indicated and the blanks appropriately filled in), and
 
-  * (2) contain such other provisions as are agreed to by the parties.
+  * (2) subject to subsections (a) and (b) of section 5321 of this title, contain such other provisions as are agreed to by the parties.
 
 #### (b) Payments; Federal records
 * Notwithstanding any other provision of law, the Secretary may make payments pursuant to section 1(b)(6) of such model agreement. As provided in section 1(b)(7) of the model agreement, the records of the tribal government or tribal organization specified in such section shall not be considered Federal records for purposes of chapter 5 of title 5.
@@ -578,7 +613,7 @@
 
     * "(B) RECORDKEEPING SYSTEM.—The Contractor shall maintain a recordkeeping system and, upon reasonable advance request, provide reasonable access to such records to the Secretary.
 
-    * "(C) RESPONSIBILITIES OF CONTRACTOR.—The Contractor shall be responsible for managing the day-to-day operations conducted under this Contract and for monitoring activities conducted under this Contract to ensure compliance with the Contract and applicable Federal requirements. With respect to the monitoring activities of the Secretary, the routine monitoring visits shall be limited to not more than one performance monitoring visit for this Contract by the head of each operating division, departmental bureau, or departmental agency, or duly authorized representative of such head unless—
+    * "(C) RESPONSIBILITIES OF CONTRACTOR.—The Contractor shall be responsible for managing the day-to-day operations conducted under this Contract and for monitoring activities conducted under this Contract to ensure compliance with the Contract and applicable Federal requirements. With respect to the monitoring activities of the Secretary, the routine monitoring visits shall be limited to not more than two performance monitoring visits for this Contract by the head of each operating division, departmental bureau, or departmental agency, or duly authorized representative of such head unless—
 
       * "(i) the Contractor agrees to one or more additional visits; or
 
@@ -722,7 +757,7 @@
 
       * "(i) terms that identify the programs, services, functions, and activities to be performed or administered, the general budget category assigned, the funds to be provided, and the time and method of payment; and
 
-      * "(ii) such other provisions, including a brief description of the programs, services, functions, and activities to be performed (including those supported by financial resources other than those provided by the Secretary), to which the parties agree.
+      * "(ii) subject to subsections (a) and (b) of section 102 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5321), such other provisions, including a brief description of the programs, services, functions, and activities to be performed (including those supported by financial resources other than those provided by the Secretary), to which the parties agree.
 
 
     * "(B) INCORPORATION BY REFERENCE.—The annual funding agreement is hereby incorporated in its entirety in this Contract and attached to this Contract as attachment 2."

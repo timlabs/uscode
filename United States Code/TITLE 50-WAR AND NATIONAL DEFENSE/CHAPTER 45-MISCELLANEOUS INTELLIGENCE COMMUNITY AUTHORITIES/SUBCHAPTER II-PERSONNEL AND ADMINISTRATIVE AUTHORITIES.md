@@ -375,7 +375,7 @@
 
     * (B) Members of the Armed Forces attending the University will be eligible to receive credit for Phase I joint professional military education.
 
-    * (C) The Secretary of Education has informed the Director of National Intelligence that the Secretary has recommended approval of the degrees to be conferred pursuant to subsection (e)(2) or will provide such recommended approval as of the date on which the University is transferred under subsection (a).
+    * (C) The Secretary of Education has informed the Director of National Intelligence that the Secretary has recommended approval of the degrees to be conferred pursuant to section 3227a(b) of this title or will provide such recommended approval as of the date on which the University is transferred under subsection (a).
 
     * (D) The Director of National Intelligence, in collaboration with the Secretary of Defense, has established an appropriate governance model for the University.
 
@@ -418,35 +418,13 @@
 * #### (2) Inclusion of indirect costs
   * The estimate submitted under paragraph (1) shall include all indirect costs, including with respect to human resources, security, facilities, and information technology.
 
-#### (e) Degree-granting authority
-* #### (1) Regulations
-  * Beginning on the date on which the National Intelligence University is transferred under subsection (a), under regulations prescribed by the Director of National Intelligence, the President of the National Intelligence University may, upon the recommendation of the faculty of the University, confer appropriate degrees upon graduates who meet the degree requirements.
-
-* #### (2) Limitation
-  * A degree may not be conferred under this section unless—
-
-    * (A) the Secretary of Education has recommended approval of the degree in accordance with the Federal Policy Governing Granting of Academic Degrees by Federal Agencies; and
-
-    * (B) the University is accredited by the appropriate civilian academic accrediting agency or organization to award the degree, as determined by the Secretary of Education.
-
-#### (f) Congressional notification requirements
-* #### (1) Actions on nonaccreditation
-  * Beginning on the date on which the National Intelligence University is transferred under subsection (a), the Director of National Intelligence shall promptly—
-
-    * (A) notify the congressional intelligence committees of any action by the Middle States Commission on Higher Education, or other appropriate academic accrediting agency or organization, to not accredit the University to award any new or existing degree; and
-
-    * (B) submit to such committees a report containing an explanation of any such action.
-
-* #### (2) Modification or redesignation of degree-granting authority
-  * Beginning on the date on which the National Intelligence University is transferred under subsection (a), upon any modification or redesignation of existing degree-granting authority, the Director shall submit to the congressional intelligence committees a report containing the rationale for the proposed modification or redesignation and any subsequent recommendation of the Secretary of Education with respect to the proposed modification or redesignation.
-
-#### (g) Conforming repeal
+#### (e) Conforming repeal
 * #### (1) Omitted
 * #### (2) Effective date
   * The amendments made by paragraph (1) shall take effect on the date on which the Secretary of Defense and the Director of National Intelligence jointly submit the joint certifications under subsection (b)(1). The Secretary and the Director shall jointly notify the Law Revision Counsel of the House of Representatives of the submission of the certifications so that the Law Revision Counsel may execute the amendments made by paragraph (1).
 
-* #### (h) Definitions
-  * In this section:
+#### (f) Definitions
+* In this section:
 
 * #### (1) Appropriate congressional committees
   * The term "appropriate congressional committees" means—
@@ -720,3 +698,51 @@
     * (B) The total amount of funds each element expended for each such program.
 
     * (C) A description of the efforts made by each element to promote each covered program pursuant to both the personnel of the element of the intelligence community and to prospective personnel.
+
+### §3334h. Data collection on attrition in intelligence community
+#### (a) Standards for data collection
+* #### (1) In general
+  * Not later than 90 days after December 27, 2020, the Director of National Intelligence shall establish standards for collecting data relating to attrition in the intelligence community workforce across demographics, specialities, and length of service.
+
+* #### (2) Inclusion of certain candidates
+  * The Director shall include, in the standards established under paragraph (1), standards for collecting data from candidates who accepted conditional offers of employment but chose to withdraw from the hiring process before entering into service, including data with respect to the reasons such candidates chose to withdraw.
+
+#### (b) Collection of data
+* Not later than 120 days after December 27, 2020, each element of the intelligence community shall begin collecting data on workforce and candidate attrition in accordance with the standards established under subsection (a).
+
+#### (c) Annual report
+* Not later than 1 year after December 27, 2020, and annually thereafter, the Director shall submit to the congressional intelligence committees a report on workforce and candidate attrition in the intelligence community that includes—
+
+  * (1) the findings of the Director based on the data collected under subsection (b);
+
+  * (2) recommendations for addressing any issues identified in those findings; and
+
+  * (3) an assessment of timeliness in processing hiring applications of individuals previously employed by an element of the intelligence community, consistent with the Trusted Workforce 2.0 initiative sponsored by the Security Clearance, Suitability, and Credentialing Performance Accountability Council.
+
+### §3334i. Seedling investment in next-generation microelectronics in support of artificial intelligence
+#### (a) Findings
+* Congress finds that—
+
+  * (1) developing faster, more energy efficient, and more resilient computing is important to the future of the national security of the United States and the leadership by the United States in artificial intelligence; and
+
+  * (2) multidisciplinary teams co-designing microelectronics for artificial intelligence will lead to unprecedented capabilities that will help ensure that the United States maintains its superiority in this worldwide competition for economic and national security.
+
+#### (b) Awards for research and development
+* The Director of National Intelligence, acting through the Director of the Intelligence Advanced Research Projects Activity, shall award contracts or grants, or enter into transactions other than contracts, to encourage microelectronics research.
+
+#### (c) Use of funds
+* The Director shall award contracts or grants to, or enter into transactions other than contracts with, entities under subsection (b) to carry out any of the following:
+
+  * (1) Advanced engineering and applied research into novel computing models, materials, devices, architectures, or algorithms to enable the advancement of artificial intelligence and machine learning.
+
+  * (2) Research efforts to—
+
+    * (A) overcome challenges with engineering and applied research of microelectronics, including with respect to the physical limits on transistors, electrical interconnects, and memory elements; or
+
+    * (B) promote long-term advancements in computing technologies, including by fostering a unified and multidisciplinary approach encompassing research and development into algorithm design, computing architectures, microelectronic devices and circuits, and the chemistry and physics of new materials.
+
+
+  * (3) Any other activity the Director determines would promote the development of microelectronics research.
+
+#### (d) Award amounts
+* In awarding contracts or grants, or entering into transactions other than contracts, under subsection (b), the Director may award not more than a total of $15,000,000.

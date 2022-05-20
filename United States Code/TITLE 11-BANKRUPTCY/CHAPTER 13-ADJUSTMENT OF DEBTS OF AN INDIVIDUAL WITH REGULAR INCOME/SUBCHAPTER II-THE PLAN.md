@@ -142,7 +142,7 @@
   * (B) the plan provides that all of the debtor's projected disposable income to be received in the applicable commitment period beginning on the date that the first payment is due under the plan will be applied to make payments to unsecured creditors under the plan.
 
 
-* (2) For purposes of this subsection, the term "disposable income" means current monthly income received by the debtor (other than child support payments, foster care payments, or disability payments for a dependent child made in accordance with applicable nonbankruptcy law to the extent reasonably necessary to be expended for such child) less amounts reasonably necessary to be expended—
+* (2) For purposes of this subsection, the term "disposable income" means current monthly income received by the debtor (other than payments made under Federal law relating to the national emergency declared by the President under the National Emergencies Act (50 U.S.C. 1601 et seq.) with respect to the coronavirus disease 2019 (COVID–19), child support payments, foster care payments, or disability payments for a dependent child made in accordance with applicable nonbankruptcy law to the extent reasonably necessary to be expended for such child) less amounts reasonably necessary to be expended—
 
   * (A)(i) for the maintenance or support of the debtor or a dependent of the debtor, or for a domestic support obligation, that first becomes payable after the date the petition is filed; and
 
@@ -284,6 +284,15 @@
 
   * (2) there is pending any proceeding in which the debtor may be found guilty of a felony of the kind described in section 522(q)(1)(A) or liable for a debt of the kind described in section 522(q)(1)(B).
 
+
+* (i) Subject to subsection (d), after notice and a hearing, the court may grant a discharge of debts dischargeable under subsection (a) to a debtor who has not completed payments to the trustee or a creditor holding a security interest in the principal residence of the debtor if—
+
+  * (1) the debtor defaults on not more than 3 monthly payments due on a residential mortgage under section 1322(b)(5) on or after March 13, 2020, to the trustee or creditor caused by a material financial hardship due, directly or indirectly, by the coronavirus disease 2019 (COVID–19) pandemic; or
+
+  * (2)(A) the plan provides for the curing of a default and maintenance of payments on a residential mortgage under section 1322(b)(5); and
+
+  * (B) the debtor has entered into a forbearance agreement or loan modification agreement with the holder or servicer (as defined in section 6(i) of the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2605(i)) of the mortgage described in subparagraph (A).
+
 ### §1329. Modification of plan after confirmation
 * (a) At any time after confirmation of the plan but before the completion of payments under such plan, the plan may be modified, upon request of the debtor, the trustee, or the holder of an allowed unsecured claim, to—
 
@@ -312,6 +321,21 @@
 * (2) The plan as modified becomes the plan unless, after notice and a hearing, such modification is disapproved.
 
 * (c) A plan modified under this section may not provide for payments over a period that expires after the applicable commitment period under section 1325(b)(1)(B) after the time that the first payment under the original confirmed plan was due, unless the court, for cause, approves a longer period, but the court may not approve a period that expires after five years after such time.
+
+* (d)(1) Subject to paragraph (3), for a plan confirmed prior to the date of enactment of this subsection, the plan may be modified upon the request of the debtor if—
+
+  * (A) the debtor is experiencing or has experienced a material financial hardship due, directly or indirectly, to the coronavirus disease 2019 (COVID–19) pandemic; and
+
+  * (B) the modification is approved after notice and a hearing.
+
+
+* (2) A plan modified under paragraph (1) may not provide for payments over a period that expires more than 7 years after the time that the first payment under the original confirmed plan was due.
+
+* (3) Sections 1322(a), 1322(b), 1323(c), and the requirements of section 1325(a) shall apply to any modification under paragraph (1).
+
+* (e)(1) A debtor of a case for which a creditor files a proof of claim under section 501(f) may file a request for a modification of the plan to provide for the proof of claim.
+
+* (2) If the debtor does not file a request for a modification of the plan under paragraph (1) on or before the date that is 30 days after the date on which a creditor files a claim under section 501(f), after notice, the court, on a motion of the court or on a motion of the United States trustee, the trustee, a bankruptcy administrator, or any party in interest, may request a modification of the plan to provide for the proof of claim.
 
 ### §1330. Revocation of an order of confirmation
 * (a) On request of a party in interest at any time within 180 days after the date of the entry of an order of confirmation under section 1325 of this title, and after notice and a hearing, the court may revoke such order if such order was procured by fraud.

@@ -1039,7 +1039,7 @@
     * Paragraph (1) shall not apply to any taxpayer for any taxable year if the adjusted gross income (determined without regard to this subsection) of such taxpayer for such taxable year exceeds $1,000,000 (half of such amount in the case of a married individual filing a separate return).
 
   * #### (B) Coordination with other limitations
-    * For purposes of sections 86, 135, 137, 219, 221, 222, and 469, adjusted gross income shall be determined after the application of paragraph (1) and before the application of subparagraph (A).
+    * For purposes of sections 86, 135, 137, 219, 221, and 469, adjusted gross income shall be determined after the application of paragraph (1) and before the application of subparagraph (A).
 
 ### §75. Dealers in tax-exempt securities
 #### (a) Adjustment for bond premium
@@ -1516,7 +1516,7 @@
 * #### (2) Modified adjusted gross income
   * For purposes of this subsection, the term "modified adjusted gross income" means adjusted gross income—
 
-    * (A) determined without regard to this section and sections 135, 137, 221, 222, 911, 931, and 933, and
+    * (A) determined without regard to this section and sections 135, 137, 221, 911, 931, and 933, and
 
     * (B) increased by the amount of interest received or accrued by the taxpayer during the taxable year which is exempt from tax.
 

@@ -132,9 +132,9 @@
 
 * (c) COMPTROLLER GENERAL REVIEW.—The Comptroller General of the United States shall—
 
-  * (1) review each report under subsection (a) for accuracy and completeness with respect to the matters described in paragraphs (2)(F) and (3) of such subsection; and
+  * (1) periodically review reports submitted under subsection (a) for accuracy and completeness with respect to the matters described in paragraphs (2)(F) and (3) of such subsection; and
 
-  * (2) not later than 180 days after the date on which such report under subsection (a) is submitted, submit to the congressional defense committees a summary of each such review.
+  * (2) submit to the congressional defense committees a summary of each such review.
 
 ### §493. Reports to Congress on the modification of the force structure for the strategic nuclear weapons delivery systems of the United States
 * Whenever after December 31, 2011, the President proposes a modification of the force structure for the strategic nuclear weapons delivery systems of the United States, the President shall submit to Congress a report on the modification. The report shall include a description of the manner in which such modification will maintain for the United States a range of strategic nuclear weapons delivery systems appropriate for the current and anticipated threats faced by the United States when compared with the current force structure of strategic nuclear weapons delivery systems.

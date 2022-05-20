@@ -106,7 +106,7 @@
 
 * (C) In no case may the amount of insurance coverage under this subsection of a member's spouse exceed the amount of insurance coverage of the member.
 
-* (D) In the case of a member who elects under paragraph (2)(A) not to be insured under this section, or who elects under subparagraph (B) to be insured for an amount less than the maximum amount provided under subparagraph (A), and who is deployed to a combat theater of operations the member—
+* (D) In the case of a member who elects under paragraph (2)(A) not to be insured under this section, or who elects under subparagraph (B) to be insured for an amount less than the maximum amount provided under subparagraph (A), and who is deployed to a combat theater of operations, the member—
 
   * (i) shall be insured under this subchapter for the maximum amount provided under subparagraph (A) for the period of such deployment; and
 
@@ -505,3 +505,13 @@
   * (A) designate an individual as the member's fiduciary or trustee for purposes of subsection (a); or
 
   * (B) elect that a court of proper jurisdiction designate an individual as the member's fiduciary or trustee for purposes of subsection (a) in the event that the member becomes medically incapacitated or experiences an extended loss of consciousness.
+
+
+* (l)(1) If a claim for benefits under this section is denied, the Secretary concerned shall provide to the member at the same time as the member is informed of such denial a description of the following:
+
+  * (A) Each reason for that denial, including a description of all the information upon which the denial is based and a description of the applicable laws, regulations, or policies, with appropriate citations, and an explanation of how such laws, regulations, or policies affected the denial.
+
+  * (B) Each finding that is favorable to the member.
+
+
+* (2) Any finding favorable to the member as described in paragraph (1)(B) shall be binding on all subsequent reviews or appeals of the denial of the claim, unless clear and convincing evidence is shown to the contrary to rebut such favorable finding.

@@ -24,7 +24,7 @@
 
   * (6) "system of records" has the same meaning given that term in section 552a(a)(5) of title 5.
 
-  * (7) "uniformed services" means the Army, Navy, Air Force, Marine Corps, Coast Guard, Commissioned Corps of the National Oceanic and Atmospheric Administration, and Commissioned Corps of the Public Health Service.
+  * (7) "uniformed services" means the Army, Navy, Air Force, Marine Corps, Space Force, Coast Guard, Commissioned Corps of the National Oceanic and Atmospheric Administration, and Commissioned Corps of the Public Health Service.
 
   * (8) "nontax" means, with respect to any debt or claim, any debt or claim other than a debt or claim under the Internal Revenue Code of 1986.
 

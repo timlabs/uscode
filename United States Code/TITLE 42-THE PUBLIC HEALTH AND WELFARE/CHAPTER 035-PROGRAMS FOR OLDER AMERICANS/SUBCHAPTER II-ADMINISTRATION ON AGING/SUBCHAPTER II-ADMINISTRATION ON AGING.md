@@ -155,6 +155,53 @@
 
 * (2) It shall be the duty of the Assistant Secretary, acting through the individual designated under paragraph (1), to develop objectives, priorities, and a long-term plan for supporting State and local efforts involving education about and prevention, detection, and treatment of mental disorders, including age-related dementia, depression, and Alzheimer's disease and related neurological disorders with neurological and organic brain dysfunction.
 
+#### (g) Research, Demonstration, and Evaluation Center for the Aging Network
+* (1) The Assistant Secretary shall, as appropriate, coordinate the research and evaluation functions of this chapter under a Research, Demonstration, and Evaluation Center for the Aging Network (in this subsection referred to as the "Center"), which shall be headed by a director designated by the Assistant Secretary from individuals described in paragraph (4).
+
+* (2) The purpose of the Center shall be—
+
+  * (A) to coordinate, as appropriate, research, research dissemination, evaluation, demonstration projects, and related activities carried out under this chapter;
+
+  * (B) to provide assessment of the programs and interventions authorized under this chapter; and
+
+  * (C) to increase the repository of information on evidence-based programs and interventions available to the aging network, which information shall be applicable to existing programs and interventions and help in the development of new evidence-based programs and interventions.
+
+
+* (3) Activities of the Center shall include, as appropriate, conducting, promoting, coordinating, and providing support for—
+
+  * (A) research and evaluation activities that support the objectives of this chapter, including—
+
+    * (i) evaluation of new and existing programs and interventions authorized by this chapter; and
+
+    * (ii) research on and assessment of the relationship between programs and interventions under this chapter and the health outcomes, social determinants of health, quality of life, and independence of individuals served under this chapter;
+
+
+  * (B) demonstration projects that support the objectives of this chapter, including activities to bring effective demonstration projects to scale with a prioritization of projects that address the needs of underserved populations, and promote partnerships among aging services, community-based organizations, and Medicare and Medicaid providers, plans, and health (including public health) systems;
+
+  * (C) outreach and dissemination of research findings; and
+
+  * (D) technical assistance related to the activities described in this paragraph.
+
+
+* (4) The director shall be an individual with substantial knowledge of and experience in aging and health policy, and research administration.
+
+* (5) Not later than October 1, 2020, and at 5-year intervals thereafter, the director shall prepare and publish in the Federal Register for public comment a draft of a 5-year plan that—
+
+  * (A) outlines priorities for research, research dissemination, evaluation, demonstration projects, and related activities;
+
+  * (B) explains the basis for such priorities; and
+
+  * (C) describes how the plan will meet the needs of underserved populations.
+
+
+* (6) The director shall coordinate, as appropriate, research, research dissemination, evaluation, and demonstration projects, and related activities with appropriate agency program staff, and, as appropriate, with other Federal departments and agencies involved in research in the field of aging.
+
+* (7) Not later than December 31, 2020, and annually thereafter, the director shall prepare, and submit to the Secretary, the Committee on Health, Education, Labor, and Pensions of the Senate, the Special Committee on Aging of the Senate, and the Committee on Education and Labor of the House of Representatives, a report on the activities funded under this section and subchapter IV.
+
+* (8) The director shall, as appropriate, consult with experts on aging research and evaluation and aging network stakeholders on the implementation of the activities described under paragraph (3) of this subsection.
+
+* (9) The director shall coordinate, as appropriate, all research and evaluation authorities under this chapter.
+
 ### §3012. Functions of Assistant Secretary
 #### (a) Duties and functions of Administration
 * It shall be the duty and function of the Administration to—
@@ -165,9 +212,14 @@
 
   * (3) directly assist the Secretary in all matters pertaining to problems of the aged and aging;
 
-  * (4) administer the grants provided by this chapter;
+  * (4) administer the grants provided by this chapter, but not approve an application submitted by an applicant for a grant for an activity under a provision of this chapter for which such applicant previously received a grant under such provision unless the Assistant Secretary determines—
 
-  * (5) develop plans, conduct and arrange for research in the field of aging, and assist in the establishment and implementation of programs designed to meet the health and economic needs of older individuals for supportive services, including nutrition, hospitalization, education and training services (including preretirement training, and continuing education), low-cost transportation and housing, assistive technology, and health (including mental and behavioral health) services;
+    * (A) the activity for which such application was submitted is being operated, or was operated, effectively to achieve its stated purpose; and
+
+    * (B) such applicant has complied with the assurances provided to the Assistant Secretary with the application for such previous grant.
+
+
+  * (5) develop plans, conduct and arrange for research in the field of aging, and assist in the establishment and implementation of programs designed to meet the health and economic needs of older individuals for supportive services, including nutrition, hospitalization, education and training services (including preretirement training, and continuing education), cultural experiences, activities, and services, including in the arts, low-cost transportation and housing, assistive technology, and health (including mental and behavioral health) services;
 
   * (6) provide technical assistance and consultation to States and political subdivisions thereof with respect to programs for the aged and aging;
 
@@ -273,7 +325,7 @@
 
   * (22) develop guidelines for area agencies on aging to follow in choosing and evaluating providers of legal assistance;
 
-  * (23) develop guidelines and a model job description for choosing and evaluating legal assistance developers referred to in section 3027(a)(13) of this title and section 3058j of this title;
+  * (23) develop guidelines and a model job description for choosing and evaluating legal assistance developers referred to in sections 3027(a)(13) and 3058j of this title;
 
   * (24) establish and carry out pension counseling and information programs described in section 3020e–1 of this title;
 
@@ -301,13 +353,19 @@
     * (C) providing training and technical assistance to States to implement these best practices of service delivery;
 
 
-  * (28) make available to States, area agencies on aging, and service providers information and technical assistance to support the provision of evidence-based disease prevention and health promotion services;
+  * (28) make available to States, area agencies on aging, and service providers information and technical assistance to support the provision of evidence-based disease prevention and health promotion services, including information and technical assistance on delivery of such services in different settings;
 
   * (29) provide information and technical assistance to States, area agencies on aging, and service providers, in collaboration with relevant Federal agencies, on providing efficient, person-centered transportation services, including across geographic boundaries;
 
-  * (30) identify model programs and provide information and technical assistance to States, area agencies on aging, and service providers (including providers operating multipurpose senior centers), to support the modernization of multipurpose senior centers; and
+  * (30) identify model programs and provide information and technical assistance to States, area agencies on aging, and service providers (including providers operating multipurpose senior centers), to support the modernization of multipurpose senior centers;
 
-  * (31) provide technical assistance to and share best practices with States, area agencies on aging, and Aging and Disability Resource Centers, on how to collaborate and coordinate services with health care entities, such as Federally-qualified health centers, as defined in section 1905(l)(2)(B) of the Social Security Act (42 U.S.C. 1396d(l)(2)(B)), in order to improve care coordination for individuals with multiple chronic illnesses.
+  * (31) provide technical assistance to and share best practices with States, area agencies on aging, and Aging and Disability Resource Centers, on how to collaborate and coordinate services with health care entities, such as Federally-qualified health centers, as defined in section 1905(l)(2)(B) of the Social Security Act (42 U.S.C. 1396d(l)(2)(B)), in order to improve care coordination for individuals with multiple chronic illnesses;
+
+  * (32) provide technical assistance to, and share best practices with, State agencies and area agencies on aging on how to collaborate and coordinate activities and develop long-range emergency preparedness plans with local and State emergency response agencies, relief organizations, local and State governments, Federal agencies as appropriate, and any other institutions that have responsibility for disaster relief service delivery;
+
+  * (33) with input from aging network stakeholders, including caregivers, develop objectives, priorities, and a long-term plan for supporting State and local efforts involving education about prevention of, detection of, and response to negative health effects associated with social isolation among older individuals, and submit a report to Congress on this effort by January 2021; and
+
+  * (34) provide (to the extent practicable) a standardized notification to State agencies, area agencies on aging, providers of services under this chapter, and grantees or contract awardees under this chapter, through an electronic format (e-mail or other electronic notification), of the availability of, or updates to, policies, practices, and procedures under this chapter.
 
 #### (b) Development and implementation of comprehensive, coordinated systems for long-term care
 * To promote the development and implementation of comprehensive, coordinated systems at Federal, State, and local levels that enable older individuals to receive long-term care in home and community-based settings, in a manner responsive to the needs and preferences of older individuals and their family caregivers, the Assistant Secretary shall, consistent with the applicable provisions of this subchapter—
@@ -376,7 +434,9 @@
 
     * (A) home and community-based long-term care systems, including evidence-based programs; and
 
-    * (B) evidence-based disease prevention and health promotion services programs;
+    * (B) evidence-based disease prevention and health promotion services programs, including delivery of such services in different settings; and
+
+    * (C) activities for increasing business acumen, capacity building, organizational development, innovation, and other methods of growing and sustaining the capacity of the aging network to serve older individuals and caregivers most effectively;
 
 
   * (10) develop, in collaboration with the Administrator of the Centers for Medicare & Medicaid Services, performance standards and measures for use by States to determine the extent to which their State systems of long-term care fulfill the objectives described in this subsection; and
@@ -486,6 +546,12 @@
 #### (g) Training and provision of services addressing elder justice and exploitation
 * The Assistant Secretary shall, as appropriate, ensure that programs authorized under this chapter include appropriate training in the prevention of abuse, neglect, and exploitation and provision of services that address elder justice and the exploitation of older individuals.
 
+#### (h) Publication of funded centers and demonstration projects
+* The Assistant Secretary shall publish, on an annual basis, a list of centers and demonstration projects funded under each subchapter of this chapter. The Assistant Secretary shall ensure that this information is also directly provided to State agencies and area agencies on aging.
+
+#### (i) RAISE Family Caregivers Act
+* The Assistant Secretary shall carry out the RAISE Family Caregivers Act (42 U.S.C. 3030s note).
+
 ### §3013. Federal agency consultation
 #### (a) In general
 * (1) The Assistant Secretary, in carrying out the objectives and provisions of this chapter, shall coordinate, advise, consult with, and cooperate with the head of each department, agency, or instrumentality of the Federal Government proposing or administering programs or services substantially related to the objectives of this chapter, with respect to such programs or services. In particular, the Assistant Secretary shall coordinate, advise, consult, and cooperate with the Secretary of Labor in carrying out subchapter IX and with the Corporation for National and Community Service in carrying out this chapter.
@@ -535,63 +601,52 @@
 
   * (17) the Developmental Disabilities Assistance and Bill of Rights Act of 2000 [42 U.S.C. 15001 et seq.],
 
-  * (18) the Edward Byrne Memorial State and Local Law Enforcement Assistance Programs, established under part E of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3750–3766b)), and
+  * (18) the Edward Byrne Memorial State and Local Law Enforcement Assistance Programs, established under part E of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3750–3766b)),
 
-  * (19) sections 3003 and 3004 of title 29.
+  * (19) sections 3003 and 3004 of title 29, and
+
+  * (20) section 393D of the Public Health Service Act (42 U.S.C. 280b–1f), relating to safety of seniors.
 
 #### (c) Interagency Coordinating Committee on Aging
-* (1) The Secretary, in collaboration with the Federal officials specified in paragraph (2), shall establish an Interagency Coordinating Committee on Aging (referred to in this subsection as the "Committee") focusing on the coordination of agencies with respect to aging issues.
+* (1) The Secretary, in collaboration with other Federal officials specified in paragraph (2), shall establish an Interagency Coordinating Committee on Healthy Aging and Age-Friendly Communities (referred to in this subsection as the "Committee") focusing on the coordination of agencies with respect to aging issues and the development of a national set of recommendations, in accordance with paragraph (6), to support the ability of older individuals to age in place and access homelessness prevention services, preventive health care, promote age-friendly communities, and address the ability of older individuals to access long-term care supports, including access to caregivers and home- and community-based health services.
 
 * (2) The officials referred to in paragraph (1) shall include the Secretary of Labor and the Secretary of Housing and Urban Development, and may include, at the direction of the President, the Attorney General, the Secretary of Transportation, the Secretary of the Treasury, the Secretary of Agriculture, the Secretary of Homeland Security, the Commissioner of Social Security, and such other Federal officials as the President may direct. An official described in this paragraph may appoint a designee to carry out the official's duties under paragraph (1).
 
 * (3) The Secretary of Health and Human Services shall serve as the first chairperson of the Committee, for 1 term, and the Secretary of Housing and Urban Development shall serve as the chairperson for the following term. After that following term, the Committee shall select a chairperson from among the members of the Committee, and any member may serve as the chairperson. No member may serve as the chairperson for more than 1 consecutive term.
 
-* (4) For purposes of this subsection, a term shall be a period of 2 calendar years.
+* (4) For purposes of this subsection, a term shall be a period of 2 calendar years. The first term, after March 25, 2020, shall start not later than 1 year after March 25, 2020.
 
 * (5) The Committee shall meet not less often than once each year.
 
-* (6) The Committee shall—
+* (6) The recommendations described in paragraph (1) may include recommendations for—
 
-  * (A) share information with and establish an ongoing system to improve coordination among Federal agencies with responsibility for programs and services for older individuals and recommend improvements to such system with an emphasis on—
+  * (A) ways to improve coordination among Federal agencies with responsibility for programs and services that impact older individuals;
 
-    * (i) improving access to programs and services for older individuals;
+  * (B) best practices and evidence-based program and service models to assist older individuals in meeting their housing, health care, and other supportive service needs, including—
 
-    * (ii) maximizing the impact of federally funded programs and services for older individuals by increasing the efficiency, effectiveness, and delivery of such programs and services;
+    * (i) consumer-directed care models for home and community-based care and supportive services that link housing, health care, and other supportive services and that facilitate aging in place, enabling older individuals to remain in their homes and communities as the individuals age;
 
-    * (iii) planning and preparing for the impact of demographic changes on programs and services for older individuals; and
+    * (ii) innovations in technology applications (including assistive technology devices and assistive technology services) that give older individuals access to information on available services or that help in providing services to older individuals; and
 
-    * (iv) reducing or eliminating areas of overlap and duplication by Federal agencies in the provision and accessibility of such programs and services;
-
-
-  * (B) identify, promote, and implement (as appropriate), best practices and evidence-based program and service models to assist older individuals in meeting their housing, health care, and other supportive service needs, including—
-
-    * (i) consumer-directed care models for home and community-based care and supportive services that link housing, health care, and other supportive services and that facilitate aging in place, enabling older individuals to remain in their homes and communities as the individuals age; and
-
-    * (ii) innovations in technology applications (including assistive technology devices and assistive technology services) that give older individuals access to information on available services or that help in providing services to older individuals;
+    * (iii) best practices identified in coordination with the Centers for Disease Control and Prevention, the National Institute on Aging, the Centers for Medicare & Medicaid Services, the Office of Lead Hazard Control and Healthy Homes of the Department of Housing and Urban Development, and other Federal agencies, as appropriate, to reduce and prevent falls among older individuals, that incorporate evidence-based falls prevention programs and home modifications, which recommendations shall supplement and not unnecessarily duplicate activities authorized under section 393D of the Public Health Service Act (42 U.S.C. 280b–1f), relating to safety of seniors;
 
 
-  * (C) collect and disseminate information about older individuals and the programs and services available to the individuals to ensure that the individuals can access comprehensive information;
+  * (C) ways to collect and disseminate information about the programs and services available to older individuals to ensure that such information is accessible;
 
-  * (D) work with the Federal Interagency Forum on Aging-Related Statistics, the Bureau of the Census, and member agencies to ensure the continued collection of data relating to the housing, health care, and other supportive service needs of older individuals and to support efforts to identify and address unmet data needs;
+  * (D) ways to ensure the continued collection of data relating to the housing, health care, and other supportive service needs of older individuals and to support efforts to identify and address unmet data needs;
 
-  * (E) actively seek input from and consult with nongovernmental experts and organizations, including public health interest and research groups and foundations about the activities described in subparagraphs (A) through (F);
+  * (E) actively seeking input from and consulting with nonprofit organizations, academic or research institutions, community-based organizations, philanthropic organizations, or other entities supporting age-friendly communities about the activities described in subparagraphs (A) through (F);
 
-  * (F) identify any barriers and impediments, including barriers and impediments in statutory and regulatory law, to the access and use by older individuals of federally funded programs and services; and
+  * (F) identifying any barriers and impediments, including barriers and impediments in statutory and regulatory law, to the access and use by older individuals of federally funded programs and services; and
 
-  * (G) work with States to better provide housing, health care, and other supportive services to older individuals by—
-
-    * (i) holding meetings with State agencies;
-
-    * (ii) providing ongoing technical assistance to States about better meeting the needs of older individuals; and
-
-    * (iii) working with States to designate liaisons, from the State agencies, to the Committee.
+  * (G) ways to improve coordination to provide housing, health care, and other supportive services to older individuals.
 
 
-* (7) Not later than 90 days following the end of each term, the Committee shall prepare and submit to the Committee on Financial Services of the House of Representatives, the Committee on Education and the Workforce of the House of Representatives, the Committee on Energy and Commerce of the House of Representatives, the Committee on Ways and Means of the House of Representatives, the Committee on Banking, Housing, and Urban Affairs of the Senate, the Committee on Health, Education, Labor, and Pensions of the Senate, and the Special Committee on Aging of the Senate, a report that—
+* (7) Not later than 90 days following the end of each term, the Committee shall prepare and submit to the Committee on Financial Services of the House of Representatives, the Committee on Education and Labor of the House of Representatives, the Committee on Energy and Commerce of the House of Representatives, the Committee on Ways and Means of the House of Representatives, the Committee on Banking, Housing, and Urban Affairs of the Senate, the Committee on Health, Education, Labor, and Pensions of the Senate, and the Special Committee on Aging of the Senate, a report that—
 
   * (A) describes the activities and accomplishments of the Committee in—
 
-    * (i) enhancing the overall coordination of federally funded programs and services for older individuals; and
+    * (i) enhancing the overall coordination of federally funded programs and services that impact older individuals; and
 
     * (ii) meeting the requirements of paragraph (6);
 
@@ -602,6 +657,21 @@
 
 
 * (8) On the request of the Committee, any Federal Government employee may be detailed to the Committee without reimbursement, and such detail shall be without interruption or loss of civil service status or privilege.
+
+* (9) In this subsection, the term "age-friendly community" means a community that—
+
+  * (A) is taking measurable steps to—
+
+    * (i) include adequate and accessible housing, public spaces and buildings, safe and secure paths, variable route transportation services, and programs and services designed to support health and well-being;
+
+    * (ii) respect and include older individuals in social opportunities, civic participation, volunteerism, and employment; and
+
+    * (iii) facilitate access to supportive services for older individuals;
+
+
+  * (B) is not an assisted living facility or long-term care facility; and
+
+  * (C) has a plan in place to meet local needs for housing, transportation, civic participation, social connectedness, and accessible public spaces.
 
 ### §3013a. Consultation with State agencies, area agencies on aging, and Native American grant recipients
 * The Assistant Secretary shall consult and coordinate with State agencies, area agencies on aging, and recipients of grants under subchapter X in the development of Federal goals, regulations, program instructions, and policies under this chapter.
@@ -664,15 +734,18 @@
 
 * (B) The regional offices of the Administration shall be responsible for disseminating, and providing technical assistance regarding, the guidelines and information described in clauses (ii), (iii), and (v) of subparagraph (A) to State agencies, area agencies on aging, and persons that provide nutrition services under part C of subchapter III.
 
-* (C) The officer or employee designated under subparagraph (A) shall—
+* (C) The Assistant Secretary may provide technical assistance, including through the regional offices of the Administration, to State agencies, area agencies on aging, local government agencies, or leaders in age-friendly communities (as defined, for purposes of this subparagraph, in section 3013(c)(9) of this title) regarding—
+
+  * (i) dissemination of, or consideration of ways to implement, best practices and recommendations from the Interagency Coordinating Committee on Healthy Aging and Age-Friendly Communities established under section 3013(c) of this title; and
+
+  * (ii) methods for managing and coordinating existing programs to meet the needs of growing age-friendly communities.
+
+
+* (D) The officer or employee designated under subparagraph (A) shall—
 
   * (i) have expertise in nutrition, energy balance, and meal planning; and
 
-  * (ii)(I) be a registered dietitian;
-
-  * (II) be a credentialed nutrition professional; or
-
-  * (III) have education and training that is substantially equivalent to the education and training for a registered dietitian or a credentialed nutrition professional.
+  * (ii) be a registered dietitian or registered dietitian nutritionist.
 
 #### (b) Utilization of services and facilities of Federal and other public or nonprofit agencies; advance or reimbursement payments for such use
 * In administering the functions of the Administration under this chapter, the Assistant Secretary may utilize the services and facilities of any agency of the Federal Government and of any other public or nonprofit agency or organization, in accordance with agreements between the Assistant Secretary and the head thereof, and is authorized to pay therefor, in advance or by way of reimbursement, as may be provided in the agreement.
@@ -681,22 +754,25 @@
 #### (a) Authority of Secretary; scope of evaluation; persons conducting evaluation
 * The Secretary shall measure and evaluate the impact of all programs authorized by this chapter, their effectiveness in achieving stated goals in general, and in relation to their cost, their impact on related programs, their effectiveness in targeting for services under this chapter unserved older individuals with greatest economic need (including low-income minority individuals and older individuals residing in rural areas) and unserved older individuals with greatest social need (including low-income minority individuals and older individuals residing in rural areas), and their structure and mechanisms for delivery of services, including, where appropriate, comparisons with appropriate control groups composed of persons who have not participated in such programs. Evaluations shall be conducted by persons not immediately involved in the administration of the program or project evaluated.
 
-#### (b) General standards
+#### (b) Relationship of programs to health care expenditures
+* Not later than July 1, 2020, the Secretary shall provide, directly or through grant or contract, for an evaluation of programs under this chapter, which shall include, to the extent practicable, an analysis of the relationship of such programs, including demonstration projects under subchapter IV of this chapter, to health care expenditures under the Medicare program established under title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) and the Medicaid program established under title XIX of the Social Security Act (42 U.S.C. 1396 et seq.). The Secretary shall oversee analyses of data obtained in connection with program evaluation to evaluate, where feasible, the relationship of programs under this chapter to health care expenditures, including under the Medicare and Medicaid programs.
+
+#### (c) General standards
 * The Secretary may not make grants or contracts under subchapter IV of this chapter until the Secretary develops and publishes general standards to be used by the Secretary in evaluating the programs and projects assisted under such subchapter. Results of evaluations conducted pursuant to such standards shall be included in the reports required by section 3018 of this title.
 
-#### (c) Opinions of program and project participants; comparison of effectiveness of related programs; consultation with organizations concerned with older individuals
+#### (d) Opinions of program and project participants; comparison of effectiveness of related programs; consultation with organizations concerned with older individuals
 * In carrying out evaluations under this section, the Secretary shall, whenever possible, arrange to obtain the opinions of program and project participants about the strengths and weaknesses of the programs and projects, and conduct, where appropriate, evaluations which compare the effectiveness of related programs in achieving common objectives. In carrying out such evaluations, the Secretary shall consult with organizations concerned with older individuals, including those representing minority individuals, older individuals residing in rural areas and older individuals with disabilities.
 
-#### (d) Annual summaries and analyses of evaluation; demonstration projects; transmittal to Congress; dissemination to Federal, State, and local agencies and private organizations; accessibility to public
+#### (e) Annual summaries and analyses of evaluation; demonstration projects; transmittal to Congress; dissemination to Federal, State, and local agencies and private organizations; accessibility to public
 * The Secretary shall annually publish summaries and analyses of the results of evaluative research and evaluation of program and project impact and effectiveness, including, as appropriate, health and nutrition education demonstration projects conducted under section 3027(f) of this title, the full contents of which shall be transmitted to Congress, be disseminated to Federal, State, and local agencies and private organizations with an interest in aging, and be accessible to the public.
 
-#### (e) Federal property
+#### (f) Federal property
 * The Secretary shall take the necessary action to assure that all studies, evaluations, proposals, and data produced or developed with Federal funds shall become the property of the United States.
 
-#### (f) Availability to Secretary of information from executive agencies
+#### (g) Availability to Secretary of information from executive agencies
 * Such information as the Secretary may deem necessary for purposes of the evaluations conducted under this section shall be made available to him, upon request, by the departments and agencies of the executive branch.
 
-#### (g) Funds
+#### (h) Funds
 * From the total amount appropriated for each fiscal year to carry out subchapter III, the Secretary may use such sums as may be necessary, but not to exceed ½ of 1 percent of such amount, for purposes of conducting evaluations under this section, either directly or through grants or contracts. No part of such sums may be reprogrammed, transferred, or used for any other purpose. Funds expended under this subsection shall be justified and accounted for by the Secretary.
 
 ### §3018. Reports to Congress
@@ -727,14 +803,14 @@
 
   * (A) the Special Committee on Aging of the Senate;
 
-  * (B) the Committee on Education and the Workforce of the House of Representatives; and
+  * (B) the Committee on Education and Labor of the House of Representatives; and
 
   * (C) the Committee on Health, Education, Labor, and Pensions of the Senate.
 
 
 * (3) The Assistant Secretary shall provide the report required by paragraph (1), and make the State reports required under subchapters III and XI in accordance with section 3058g(h)(1) of this title available, to—
 
-  * (A) the Administrator of the Health Care Finance Administration;
+  * (A) the Administrator of the Centers for Medicare & Medicaid Services;
 
   * (B) the Office of the Inspector General of the Department of Health and Human Services;
 
@@ -756,6 +832,19 @@
   * (4) the effect of such activities on supportive services and nutrition services furnished under subchapter III of this chapter; and
 
   * (5) the effectiveness of State and local efforts to target older individuals with greatest economic need (including low-income minority individuals and older individuals residing in rural areas) and older individuals with greatest social need (including low-income minority individuals and older individuals residing in rural areas) to receive services under this chapter.
+
+#### (d) Evaluation to Congress
+* The Assistant Secretary shall provide the evaluation required under section 3017(b) of this title to—
+
+  * (1) the Committee on Health, Education, Labor, and Pensions of the Senate;
+
+  * (2) the Committee on Appropriations of the Senate;
+
+  * (3) the Special Committee on Aging of the Senate;
+
+  * (4) the Committee on Education and Labor of the House of Representatives; and
+
+  * (5) the Committee on Appropriations of the House of Representatives.
 
 ### §3019. Joint funding of projects
 * Pursuant to regulations prescribed by the President, and to the extent consistent with the other provisions of this chapter, where funds are provided for a single project by more than one Federal agency to any agency or organization assisted under this chapter, the Federal agency principally involved may be designated to act for all in administering the funds provided. In such cases, a single non-Federal share requirement may be established according to the proportion of funds advanced by each Federal agency, and any such agency may waive any technical grant or contract requirement (as defined by such regulations) which is inconsistent with the similar requirements of the administering agency or which the administering agency does not impose.
@@ -923,7 +1012,7 @@
   * The Assistant Secretary may enter into agreements with the Secretary of Labor and the heads of other Federal agencies that regulate the provision of pension and other retirement benefits in order to carry out this subsection.
 
 #### (i) Report to Congress
-* Not later than 30 months after November 13, 2000, the Assistant Secretary shall submit to the Committee on Education and the Workforce of the House of Representatives and the Committee on Health, Education, Labor and Pensions of the Senate a report that—
+* Not later than 30 months after November 13, 2000, the Assistant Secretary shall submit to the Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor and Pensions of the Senate a report that—
 
   * (1) summarizes the distribution of funds authorized for grants under this section and the expenditure of such funds;
 
@@ -936,15 +1025,32 @@
 #### (j) Administrative expenses
 * Of the funds appropriated under section 3020f of this title to carry out this section for a fiscal year, not more than $100,000 may be used by the Administration for administrative expenses.
 
+#### (k) National Resource Center for Women and Retirement
+* (1) The Assistant Secretary shall, directly or by grant or contract, operate the National Resource Center for Women and Retirement (in this subsection referred to as the "Center").
+
+* (2) The Center shall—
+
+  * (A) provide tools, such as basic financial management, retirement planning, and other tools that promote financial literacy and help to identify and prevent exploitation (including fraud), and integrate these with information on health and long-term care;
+
+  * (B) annually disseminate a summary of outreach activities provided, including work to provide user-friendly consumer information and public education materials;
+
+  * (C) develop targeted outreach strategies;
+
+  * (D) provide technical assistance to State agencies and to other public and nonprofit private agencies and organizations; and
+
+  * (E) develop partnerships and collaborations to address program objectives.
+
 ### §3020f. Authorization of appropriations
-* (a) IN GENERAL.—For purposes of carrying out this chapter, there are authorized to be appropriated for administration, salaries, and expenses of the Administration $40,063,000 for each of the fiscal years 2017, 2018, and 2019.
+#### (a) In general
+* For purposes of carrying out this chapter, there are authorized to be appropriated for administration, salaries, and expenses of the Administration $43,937,410 for fiscal year 2020, $46,573,655 for fiscal year 2021, $49,368,074 for fiscal year 2022, $52,330,158 for fiscal year 2023, and $55,469,968 for fiscal year 2024.
 
-* (b) There are authorized to be appropriated—
+#### (b) Additional authorizations
+* There are authorized to be appropriated—
 
-  * (1) to carry out section 3012(a)(21) of this title (relating to the National Eldercare Locator Service), $2,088,758 for fiscal year 2017, $2,132,440 for fiscal year 2018, and $2,176,121 for fiscal year 2019;
+  * (1) to carry out section 3012(a)(21) of this title (relating to the National Eldercare Locator Service), $2,180,660 for fiscal year 2020, $2,311,500 for fiscal year 2021, $2,450,190 for fiscal year 2022, $2,597,201 for fiscal year 2023, and $2,753,033 for fiscal year 2024;
 
-  * (2) to carry out section 3020e–1 of this title, $1,904,275 for fiscal year 2017, $1,944,099 for fiscal year 2018, and $1,983,922 for fiscal year 2019;
+  * (2) to carry out section 3020e–1 of this title, $1,988,060 for fiscal year 2020, $2,107,344 for fiscal year 2021, $2,233,784 for fiscal year 2022, $2,367,811 for fiscal year 2023, and $2,509,880 for fiscal year 2024;
 
-  * (3) to carry out section 3012 of this title (relating to Elder Rights Support Activities under this subchapter), $1,312,904 for fiscal year 2017, $1,340,361 for fiscal year 2018, and $1,367,817 for fiscal year 2019; and
+  * (3) to carry out section 3012 of this title (relating to Elder Rights Support Activities under this subchapter), $1,371,740 for fiscal year 2020, $1,454,044 for fiscal year 2021, $1,541,287 for fiscal year 2022, $1,633,764 for fiscal year 2023, and $1,731,790 for fiscal year 2024; and
 
-  * (4) to carry out section 3012(b) of this title (relating to the Aging and Disability Resource Centers), $6,271,399 for fiscal year 2017, $6,402,551 for fiscal year 2018, and $6,533,703 for fiscal year 2019.
+  * (4) to carry out section 3012(b) of this title (relating to the Aging and Disability Resource Centers), $8,687,330 for fiscal year 2020, $9,208,570 for fiscal year 2021, $9,761,084 for fiscal year 2022, $10,346,749 for fiscal year 2023, and $10,967,554 for fiscal year 2024.

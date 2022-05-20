@@ -65,6 +65,9 @@
 * #### (2) Definition
   * For purposes of paragraph (1), the term "clinically superior" with respect to a drug means that the drug provides a significant therapeutic advantage over and above an already approved or licensed drug in terms of greater efficacy, greater safety, or by providing a major contribution to patient care.
 
+* #### (3) Applicability
+  * This subsection applies to any drug designated under section 360bb of this title for which an application was approved under section 355 of this title or licensed under section 262 of title 42 after August 18, 2017, regardless of the date on which such drug was designated under section 360bb of this title.
+
 #### (d) Regulations
 * The Secretary may promulgate regulations for the implementation of subsection (c). Beginning on August 18, 2017, until such time as the Secretary promulgates regulations in accordance with this subsection, the Secretary may apply any definitions set forth in regulations that were promulgated prior to such date, to the extent such definitions are not inconsistent with the terms of this section, as amended by such Act.
 
@@ -186,11 +189,11 @@
       * The sponsor of a human drug application that provides notification of the intent of such sponsor to use the voucher for the human drug application under clause (i) may transfer the voucher after such notification is provided, if such sponsor has not yet submitted the human drug application described in the notification.
 
 * #### (5) Termination of authority
-  * The Secretary may not award any priority review vouchers under paragraph (1) after September 30, 2020, unless the rare pediatric disease product application—
+  * The Secretary may not award any priority review vouchers under paragraph (1) after September 30, 2024, unless the rare pediatric disease product application—
 
-    * (A) is for a drug that, not later than September 30, 2020, is designated under subsection (d) as a drug for a rare pediatric disease; and
+    * (A) is for a drug that, not later than September 30, 2024, is designated under subsection (d) as a drug for a rare pediatric disease; and
 
-    * (B) is, not later than September 30, 2022, approved under section 355(b)(1) of this title or section 351(a) of the Public Health Service Act [42 U.S.C. 262(a)].
+    * (B) is, not later than September 30, 2026, approved under section 355(b)(1) of this title or section 351(a) of the Public Health Service Act [42 U.S.C. 262(a)].
 
 #### (c) Priority review user fee
 * #### (1) In general

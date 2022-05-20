@@ -83,7 +83,7 @@
 
   * (2) TESTING, INSPECTION, AND INITIAL APPROVAL.—The owner of a container submitted to the procedure established by the Secretary for testing, inspection, and initial approval, and the manufacturer of a container that submits a design to the procedure established by the Secretary for testing, inspection, and initial approval, shall pay or reimburse the Secretary for the expenses arising from the testing, inspection, or approval.
 
-  * (3) CREDIT TO APPROPRIATION.—Amounts received by the Secretary as reimbursement shall be credited to the appropriation for operating expenses of the Coast Guard.
+  * (3) CREDIT TO APPROPRIATION.—Amounts received by the Secretary as reimbursement shall be credited to the appropriation for operations and support of the Coast Guard.
 
 
 * (c) PRESUMPTION BASED ON SAFETY APPROVAL PLATE.—A container bearing a safety approval plate authorized by a country that is a party to the Convention is presumed to be in a safe condition unless there is significant evidence that the container is in a condition that creates an obvious risk to safety.

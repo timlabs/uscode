@@ -741,13 +741,15 @@
 ### §2439. Negotiation of price for technical data before development, production, or sustainment of major weapon systems
 * The Secretary of Defense shall ensure, to the maximum extent practicable, that the Department of Defense, before selecting a contractor for the engineering and manufacturing development of a major weapon system, production of a major weapon system, or sustainment of a major weapon system, negotiates a price for technical data to be delivered under a contract for such development, production, or sustainment.
 
-### §2440. Technology and industrial base plans
-* The Secretary of Defense shall prescribe regulations requiring consideration of the national technology and industrial base, in accordance with the strategy required by section 2501 of this title, in the development and implementation of acquisition plans for each major defense acquisition program.
+### §2440. National technology and industrial base plans, policy, and guidance
+* (a) IN GENERAL.—The Secretary of Defense shall prescribe regulations requiring consideration of the national technology and industrial base, in accordance with the strategy required by section 2501 of this title, in the development and implementation of acquisition plans for each major defense acquisition program.
+
+* (b) ACQUISITION POLICY AND GUIDANCE.—The Secretary of Defense shall develop and promulgate acquisition policy and guidance to the service acquisition executives, the heads of the appropriate Defense Agencies and Department of Defense Field Activities, and relevant program managers. Such policy and guidance shall be germane to the use of the research and development, manufacturing, and production capabilities identified pursuant to chapter 148 of this title and the technologies, companies, laboratories, and factories in specific Department of Defense research and development, international cooperative research, procurement, and sustainment activities.
 
 ### §2441. Sustainment reviews
-* (a) IN GENERAL.—The Secretary of each military department shall conduct a sustainment review of each major weapon system not later than five years after declaration of initial operational capability of a major defense acquisition program and throughout the life cycle of the weapon system to assess the product support strategy, performance, and operation and support costs of the weapon system. For any review after the first one, the Secretary concerned shall use availability and reliability thresholds and cost estimates as the basis for the circumstances that prompt such a review. The results of the sustainment review shall be documented in a memorandum by the relevant decision authority. The Secretary concerned shall make the memorandum and supporting documentation for each sustainment review available to the Under Secretary of Defense for Acquisition and Sustainment within 30 days after the review is completed.
+* (a) IN GENERAL.—The Secretary of each military department shall conduct a sustainment review of each covered system not later than five years after declaration of initial operational capability of a major defense acquisition program, and every five years thereafter throughout the life cycle of the covered system, to assess the product support strategy, performance, and operation and support costs of the covered system. The results of the sustainment review shall be documented in a memorandum by the relevant decision authority. The Secretary concerned shall make the memorandum and supporting documentation for each sustainment review available to the Under Secretary of Defense for Acquisition and Sustainment within 30 days after the review is completed.
 
-* (b) ELEMENTS.—At a minimum, the review required under subsection (a) shall include the following elements:
+* (b) ELEMENTS.—At a minimum, the review required under subsection (a) shall assess execution of the life cycle sustainment plan of the covered system and include the following elements:
 
   * (1) An independent cost estimate for the remainder of the life cycle of the program.
 
@@ -767,8 +769,26 @@
 
   * (9) An analysis of whether accurate and complete data are being reported in the cost systems of the military department concerned, and if deficiencies exist, a plan to update the data and ensure accurate and complete data are submitted in the future.
 
+  * (10) As applicable, information regarding any decision to restructure the life cycle sustainment plan for a covered system or any other action that will lead to critical operating and support cost growth.
+
 
 * (c) COORDINATION.—The review required under subsection (a) shall be conducted in coordination with the requirements of sections 2337 and 2337a of this title.
+
+* (d) SUBMISSION TO CONGRESS.—(1) Not later than September 30 of each fiscal year, the Secretary of each military department shall annually submit to the congressional defense committees the sustainment reviews required by this section for such fiscal year.
+
+* (2) Each submission under paragraph (1) shall be submitted in unclassified form, but may include a classified annex.
+
+* (3) For a covered system with critical operating and support cost growth, such submission shall include a remediation plan to reduce operating and support costs or a certification by the Secretary concerned that such critical operating and support cost growth is necessary to meet national security requirements.
+
+* (e) DEFINITIONS.—In this section:
+
+  * (1) COVERED SYSTEM.—The term "covered system" shall have the meaning given in section 2337 of this title.
+
+  * (2) CRITICAL OPERATING AND SUPPORT COST GROWTH.—The term "critical operating and support cost growth" means operating and support cost growth—
+
+    * (A) of at least 25 percent more than the estimate documented in the most recent independent cost estimate for the covered system; or
+
+    * (B) of at least 50 percent more than the estimate documented in the original Baseline Estimate (as defined in section 2435(d) of this title) for the covered system.
 
 ### §2442. Prohibition on use of lowest price technically acceptable source selection process
 * (a) IN GENERAL.—The Department of Defense shall not use a lowest price technically acceptable source selection process for the engineering and manufacturing development contract of a major defense acquisition program.

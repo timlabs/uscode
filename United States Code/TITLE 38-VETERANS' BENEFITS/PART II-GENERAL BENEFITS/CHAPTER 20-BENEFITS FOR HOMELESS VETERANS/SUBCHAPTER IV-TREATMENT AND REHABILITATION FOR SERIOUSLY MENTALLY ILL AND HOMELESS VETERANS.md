@@ -10,7 +10,7 @@
   * (3) therapeutic transitional housing assistance under section 2032 of this title, in conjunction with work therapy under subsection (a) or (b) of section 1718 of this title and outpatient care.
 
 
-* (b) The authority of the Secretary under subsection (a) expires on September 30, 2020.
+* (b) The authority of the Secretary under subsection (a) expires on September 30, 2022.
 
 ### §2032. Therapeutic housing
 * (a) The Secretary, in connection with the conduct of compensated work therapy programs, may operate residences and facilities as therapeutic housing.
@@ -68,7 +68,7 @@
 
 * (c) The program shall include the services of such employees of the Veterans Benefits Administration as the Secretary determines appropriate at sites under the jurisdiction of the Secretary at which services are provided to homeless veterans.
 
-* (d) The program under this section shall terminate on September 30, 2020.
+* (d) The program under this section shall terminate on September 30, 2022.
 
 ### §2034. Coordination with other agencies and organizations
 * (a) In assisting homeless veterans, the Secretary shall coordinate with, and may provide services authorized under this title in conjunction with, State and local governments, other appropriate departments and agencies of the Federal Government, and nongovernmental organizations.

@@ -19,12 +19,12 @@
 
   * (1) damage to or loss of real property, including damage or loss incident to use and occupancy;
 
-  * (2) damage to or loss of personal property, including property bailed to the United States and including registered or insured mail damaged, lost, or destroyed by a criminal act while in the possession of the Army, Navy, Air Force, Marine Corps, or Coast Guard, as the case may be; or
+  * (2) damage to or loss of personal property, including property bailed to the United States and including registered or insured mail damaged, lost, or destroyed by a criminal act while in the possession of the Army, Navy, Air Force, Marine Corps, Space Force, or Coast Guard, as the case may be; or
 
   * (3) personal injury or death;
 
 
-* either caused by a civilian officer or employee of that department, or the Coast Guard, or a member of the Army, Navy, Air Force, Marine Corps, or Coast Guard, as the case may be, acting within the scope of his employment, or otherwise incident to noncombat activities of that department, or the Coast Guard.
+* either caused by a civilian officer or employee of that department, or the Coast Guard, or a member of the Army, Navy, Air Force, Marine Corps, Space Force, or Coast Guard, as the case may be, acting within the scope of his employment, or otherwise incident to noncombat activities of that department, or the Coast Guard.
 
 * (b) A claim may be allowed under subsection (a) only if—
 

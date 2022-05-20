@@ -534,15 +534,28 @@
 
 * (e) SIGNATURE. Every document filed electronically must include the electronic signature of the person filing it or, if the person is represented, the electronic signature of counsel. A filing made through a person's electronic-filing account and authorized by that person, together with that person's name on a signature block, constitutes the person's signature. Every document filed in paper form must be signed by the person filing the document or, if the person is represented, by counsel.
 
-### Rule 8012. Corporate Disclosure Statement
-* (a) WHO MUST FILE. Any nongovernmental corporate party appearing in the district court or BAP must file a statement that identifies any parent corporation and any publicly held corporation that owns 10% or more of its stock or states that there is no such corporation.
+### Rule 8012. Disclosure Statement
+* (a) NONGOVERNMENTAL CORPORATIONS. Any nongovernmental corporation that is a party to a proceeding in the district court or BAP must file a statement that identifies any parent corporation and any publicly held corporation that owns 10% or more of its stock or states that there is no such corporation. The same requirement applies to a nongovernmental corporation that seeks to intervene.
 
-* (b) TIME TO FILE; SUPPLEMENTAL FILING. A party must file the statement with its principal brief or upon filing a motion, response, petition, or answer in the district court or BAP, whichever occurs first, unless a local rule requires earlier filing. Even if the statement has already been filed, the party's principal brief must include a statement before the table of contents. A party must supplement its statement whenever the required information changes.
+* (b) DISCLOSURE ABOUT THE DEBTOR. The debtor, the trustee, or, if neither is a party, the appellant must file a statement that:
+
+  * (1) identifies each debtor not named in the caption; and
+
+  * (2) for each debtor that is a corporation, discloses the information required by Rule 8012(a).
+
+
+* (c) TIME TO FILE; SUPPLEMENTAL FILING. A Rule 8012 statement must:
+
+  * (1) be filed with the principal brief or upon filing a motion, response, petition, or answer in the district court or BAP, whichever occurs first, unless a local rule requires earlier filing;
+
+  * (2) be included before the table of contents in the principal brief; and
+
+  * (3) be supplemented whenever the information required by Rule 8012 changes.
 
 ### Rule 8013. Motions; Intervention
 * (a) CONTENTS OF A MOTION; RESPONSE; REPLY.
 
-  * (1) _Request for Relief_. A request for an order or other relief is made by filing a motion with the district or BAP clerk, with proof of service on the other parties to the appeal.
+  * (1) _Request for Relief_. A request for an order or other relief is made by filing a motion with the district or BAP clerk.
 
   * (2) _Contents of a Motion._
 
@@ -759,23 +772,23 @@
 
 * (g) ITEMS EXCLUDED FROM LENGTH. In computing any length limit, headings, footnotes, and quotations count toward the limit, but the following items do not:
 
-  * • the cover page;
+  * • cover page;
 
-  * • a corporate disclosure statement;
+  * • disclosure statement under Rule 8012;
 
-  * • a table of contents;
+  * • table of contents;
 
-  * • a table of citations;
+  * • table of citations;
 
-  * • a statement regarding oral argument;
+  * • statement regarding oral argument;
 
-  * • an addendum containing statutes, rules, or regulations;
+  * • addendum containing statutes, rules, or regulations;
 
   * • certificates of counsel;
 
-  * • the signature block;
+  * • signature block;
 
-  * • the proof of service; and
+  * • proof of service; and
 
   * • any item specifically excluded by these rules or by local rule.
 
@@ -998,7 +1011,7 @@
   * (5) the fee for filing the notice of appeal.
 
 
-* (d) BILL OF COSTS; OBJECTIONS. A party who wants costs taxed must, within 14 days after entry of judgment on appeal, file with the bankruptcy clerk, with proof of service, an itemized and verified bill of costs. Objections must be filed within 14 days after service of the bill of costs, unless the bankruptcy court extends the time.
+* (d) BILL OF COSTS; OBJECTIONS. A party who wants costs taxed must, within 14 days after entry of judgment on appeal, file with the bankruptcy clerk and serve an itemized and verified bill of costs. Objections must be filed within 14 days after service of the bill of costs, unless the bankruptcy court extends the time.
 
 ### Rule 8022. Motion for Rehearing
 * (a) TIME TO FILE; CONTENTS; RESPONSE; ACTION BY THE DISTRICT COURT OR BAP IF GRANTED.

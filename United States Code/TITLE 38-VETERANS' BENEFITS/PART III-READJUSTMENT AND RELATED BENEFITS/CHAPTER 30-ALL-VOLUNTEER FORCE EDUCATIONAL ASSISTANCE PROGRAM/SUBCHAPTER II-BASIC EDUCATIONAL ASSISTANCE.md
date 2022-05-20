@@ -5,7 +5,7 @@
 
   * (1) who—
 
-    * (A) after June 30, 1985, first becomes a member of the Armed Forces or first enters on active duty as a member of the Armed Forces and—
+    * (A) during the period beginning July 1, 1985, and ending September 30, 2030, first becomes a member of the Armed Forces or first enters on active duty as a member of the Armed Forces and—
 
       * (i) who (I) in the case of an individual whose obligated period of active duty is three years or more, serves at least three years of continuous active duty in the Armed Forces, or (II) in the case of an individual whose obligated period of active duty is less than three years, serves at least two years of continuous active duty in the Armed Forces; or
 
@@ -544,7 +544,7 @@
 
   * (1) the Secretary of Defense shall, subject to the availability of appropriations, allow an individual who—
 
-    * (A) is separated from the active military, naval, or air service with an honorable discharge and receives voluntary separation incentives under section 1174a or 1175 of title 10;
+    * (A) is separated from the active military, naval, air, or space service with an honorable discharge and receives voluntary separation incentives under section 1174a or 1175 of title 10;
 
     * (B) before applying for benefits under this section, has completed the requirements of a secondary school diploma (or equivalency certificate) or has successfully completed (or otherwise received academic credit for) the equivalent of 12 semester hours in a program of education leading to a standard college degree;
 
@@ -557,7 +557,7 @@
 
   * (2) the Secretary, in consultation with the Secretary of Defense, shall, subject to the availability of appropriations, allow an individual who—
 
-    * (A) separated before October 23, 1992, from the active military, naval, or air service with an honorable discharge and received or is receiving voluntary separation incentives under section 1174a or 1175 of title 10;
+    * (A) separated before October 23, 1992, from the active military, naval, air, or space service with an honorable discharge and received or is receiving voluntary separation incentives under section 1174a or 1175 of title 10;
 
     * (B) before applying for benefits under this section, has completed the requirements of a secondary school diploma (or equivalency certificate) or has successfully completed (or otherwise received academic credit for) the equivalent of 12 semester hours in a program of education leading to a standard college degree;
 
@@ -775,6 +775,6 @@
 
   * (2) the Secretary of the Navy with respect to matters concerning the Navy or the Marine Corps;
 
-  * (3) the Secretary of the Air Force with respect to matters concerning the Air Force; and
+  * (3) the Secretary of the Air Force with respect to matters concerning the Air Force or the Space Force; and
 
   * (4) the Secretary of Defense with respect to matters concerning the Coast Guard, or the Secretary of Homeland Security when it is not operating as a service in the Navy.

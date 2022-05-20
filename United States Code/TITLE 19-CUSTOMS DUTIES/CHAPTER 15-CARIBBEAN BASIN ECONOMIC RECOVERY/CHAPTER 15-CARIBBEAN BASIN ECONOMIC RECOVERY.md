@@ -13,7 +13,7 @@
 
   * (C) The term "HTS" means Harmonized Tariff Schedule of the United States.
 
-  * (D) The term "NAFTA" means the North American Free Trade Agreement entered into between the United States, Mexico, and Canada on December 17, 1992.
+  * (D) The term "USMCA" has the meaning given that term in section 4502 of this title.
 
   * (E) The terms "WTO" and "WTO member" have the meanings given those terms in section 3501 of this title.
 
@@ -242,7 +242,7 @@
 
         * (bb) 850,000,000 square meter equivalents during the 1-year period beginning on October 1, 2003.
 
-        * (cc) 970,000,000 square meter equivalents in each succeeding 1-year period through September 30, 2020.
+        * (cc) 970,000,000 square meter equivalents in each succeeding 1-year period through September 30, 2030.
 
 
       * (III) T-shirts, other than underwear, classifiable under subheadings 6109.10.00 and 6109.90.10 of the HTS, made in one or more CBTPA beneficiary countries from fabric formed in one or more CBTPA beneficiary countries from yarns wholly formed in the United States, in an amount not exceeding the amount set forth in subclause (IV).
@@ -255,7 +255,7 @@
 
         * (cc) 10,000,000 dozen during the 1-year period beginning on October 1, 2003.
 
-        * (dd) 12,000,000 dozen in each succeeding 1-year period through September 30, 2020.
+        * (dd) 12,000,000 dozen in each succeeding 1-year period through September 30, 2030.
 
 
       * (V) It is the sense of the Congress that the Congress should determine, based on the record of expansion of exports from the United States as a result of the preferential treatment of articles under this clause, the percentage by which the amount provided in subclauses (II) and (IV) should be compounded for the 1-year periods occurring after the 1-year period ending on September 30, 2004.
@@ -265,13 +265,13 @@
         * Subject to subclause (II), any apparel article classifiable under subheading 6212.10 of the HTS, except for articles entered under clause (i), (ii), (iii), (v), or (vi), if the article is both cut and sewn or otherwise assembled in the United States, or one or more CBTPA beneficiary countries, or both.
 
       * #### (II) Limitation
-        * During the 1-year period beginning on October 1, 2001, and during each of the 18 succeeding 1-year periods, apparel articles described in subclause (I) of a producer or an entity controlling production shall be eligible for preferential treatment under subparagraph (B) only if the aggregate cost of fabrics (exclusive of all findings and trimmings) formed in the United States that are used in the production of all such articles of that producer or entity that are entered and eligible under this clause during the preceding 1-year period is at least 75 percent of the aggregate declared customs value of the fabric (exclusive of all findings and trimmings) contained in all such articles of that producer or entity that are entered and eligible under this clause during the preceding 1-year period.
+        * During the 1-year period beginning on October 1, 2001, and during each of the 28 succeeding 1-year periods, apparel articles described in subclause (I) of a producer or an entity controlling production shall be eligible for preferential treatment under subparagraph (B) only if the aggregate cost of fabrics (exclusive of all findings and trimmings) formed in the United States that are used in the production of all such articles of that producer or entity that are entered and eligible under this clause during the preceding 1-year period is at least 75 percent of the aggregate declared customs value of the fabric (exclusive of all findings and trimmings) contained in all such articles of that producer or entity that are entered and eligible under this clause during the preceding 1-year period.
 
       * #### (III) Development of procedure to ensure compliance
         * The United States Customs Service shall develop and implement methods and procedures to ensure ongoing compliance with the requirement set forth in subclause (II). If the Customs Service finds that a producer or an entity controlling production has not satisfied such requirement in a 1-year period, then apparel articles described in subclause (I) of that producer or entity shall be ineligible for preferential treatment under subparagraph (B) during any succeeding 1-year period until the aggregate cost of fabrics (exclusive of all findings and trimmings) formed in the United States that are used in the production of such articles of that producer or entity entered during the preceding 1-year period is at least 85 percent of the aggregate declared customs value of the fabric (exclusive of all findings and trimmings) contained in all such articles of that producer or entity that are entered and eligible under this clause during the preceding 1-year period.
 
     * #### (v) Apparel articles assembled from fabrics or yarn not widely available in commercial quantities
-      * (I) Apparel articles that are both cut (or knit-to-shape) and sewn or otherwise assembled in one or more CBTPA beneficiary countries, to the extent that apparel articles of such fabrics or yarn would be eligible for preferential treatment, without regard to the source of the fabrics or yarn, under Annex 401 of the NAFTA.
+      * (I) Apparel articles that are both cut (or knit-to-shape) and sewn or otherwise assembled in one or more CBTPA beneficiary countries, to the extent that apparel articles of such fabrics or yarn would be eligible for preferential treatment, without regard to the source of the fabrics or yarn, under Annex 4–B of the USMCA.
 
       * (II) At the request of any interested party, the President is authorized to proclaim additional fabrics and yarn as eligible for preferential treatment under subclause (I) if—
 
@@ -308,7 +308,11 @@
         * An article that would otherwise be ineligible for preferential treatment under this paragraph because the article contains fibers or yarns not wholly formed in the United States or in one or more CBTPA beneficiary countries shall not be ineligible for such treatment if the total weight of all such fibers or yarns is not more than 7 percent of the total weight of the good. Notwithstanding the preceding sentence, an apparel article containing elastomeric yarns shall be eligible for preferential treatment under this paragraph only if such yarns are wholly formed in the United States.
 
       * #### (IV) Special origin rule
-        * An article otherwise eligible for preferential treatment under clause (i), (ii), or (ix) of this subparagraph shall not be ineligible for such treatment because the article contains nylon filament yarn (other than elastomeric yarn) that is classifiable under subheading 5402.10.30, 5402.10.60, 5402.31.30, 5402.31.60, 5402.32.30, 5402.32.60, 5402.41.10, 5402.41.90, 5402.51.00, or 5402.61.00 of the HTS duty-free from a country that is a party to an agreement with the United States establishing a free trade area, which entered into force before January 1, 1995.
+        * An article otherwise eligible for preferential treatment under clause (i), (ii), or (ix) of this subparagraph shall not be ineligible for such treatment because the article contains nylon filament yarn (other than elastomeric yarn) that is classifiable under subheading 5402.10.30, 5402.10.60, 5402.31.30, 5402.31.60, 5402.32.30, 5402.32.60, 5402.41.10, 5402.41.90, 5402.51.00, or 5402.61.00 of the HTS duty-free from—
+
+          * (aa) a country that is a party to an agreement with the United States establishing a free trade area, which entered into force before January 1, 1995; or
+
+          * (bb) a USMCA country (as defined in section 4502 of this title).
 
       * #### (V) Thread
         * An article otherwise eligible for preferential treatment under this paragraph shall not be ineligible for such treatment because the thread used to assemble the article is dyed, printed, or finished in one or more CBTPA beneficiary countries.
@@ -327,7 +331,7 @@
     * Except as provided in subparagraph (E), during the transition period, the articles to which this subparagraph applies shall enter the United States free of duty and free of any quantitative restrictions, limitations, or consultation levels.
 
   * #### (C) Handloomed, handmade, and folklore articles
-    * For purposes of subparagraph (A)(vi), the President shall consult with representatives of the CBTPA beneficiary countries concerned for the purpose of identifying particular textile and apparel goods that are mutually agreed upon as being handloomed, handmade, or folklore goods of a kind described in section 2.3(a), (b), or (c) of the Annex or Appendix 3.1.B.11 of the Annex.
+    * For purposes of subparagraph (A)(vi), the President shall consult with representatives of the CBTPA beneficiary countries concerned for the purpose of identifying particular textile and apparel goods that are mutually agreed upon as being handloomed, handmade, or folklore goods of a kind described in article 6.2 of the USMCA.
 
   * #### (D) Penalties for transshipments
     * #### (i) Penalties for exporters
@@ -355,7 +359,7 @@
 * #### (3) Transition period treatment of certain other articles originating in beneficiary countries
   * #### (A) Equivalent tariff treatment
     * #### (i) In general
-      * Subject to clauses (ii) and (iii), the tariff treatment accorded at any time during the transition period to any article referred to in any of subparagraphs (B) through (F) of paragraph (1) that is a CBTPA originating good shall be identical to the tariff treatment that is accorded at such time under Annex 302.2 of the NAFTA to an article described in the same 8-digit subheading of the HTS that is a good of Mexico and is imported into the United States.
+      * Subject to clauses (ii) and (iii), the tariff treatment accorded at any time during the transition period to any article referred to in any of subparagraphs (B) through (F) of paragraph (1) that is a CBTPA originating good shall be identical to the tariff treatment that is accorded at such time under Annex 2–B of the USMCA to an article described in the same 8-digit subheading of the HTS that is a good of Mexico and is imported into the United States.
 
     * #### (ii) Exception
       * Clause (i) does not apply to any article accorded duty-free treatment under U.S. Note 2(b) to subchapter II of chapter 98 of the HTS.
@@ -373,7 +377,7 @@
 * #### (4) Customs procedures
   * #### (A) In general
     * #### (i) Regulations
-      * Any importer that claims preferential treatment under paragraph (2) or (3) shall comply with customs procedures similar in all material respects to the requirements of Article 502(1) of the NAFTA as implemented pursuant to United States law, in accordance with regulations promulgated by the Secretary of the Treasury.
+      * Any importer that claims preferential treatment under paragraph (2) or (3) shall comply with customs procedures similar in all material respects to the requirements of article 5.4.1 of the USMCA as implemented pursuant to United States law, in accordance with regulations promulgated by the Secretary of the Treasury.
 
     * #### (ii) Determination
       * #### (I) In general
@@ -384,7 +388,7 @@
           * (bb) is making substantial progress toward implementing and following,
 
 
-      * procedures and requirements similar in all material respects to the relevant procedures and requirements under chapter 5 of the NAFTA.
+      * procedures and requirements similar in all material respects to the relevant procedures and requirements under chapter 5 of the USMCA.
 
       * #### (II) Country described
         * A country is described in this subclause if it is a CBTPA beneficiary country—
@@ -394,7 +398,7 @@
           * (bb) in which materials used in the production of the article originate or in which the article or such materials undergo production that contributes to a claim that the article is eligible for preferential treatment under paragraph (2) or (3).
 
   * #### (B) Certificate of origin
-    * The Certificate of Origin that otherwise would be required pursuant to the provisions of subparagraph (A) shall not be required in the case of an article imported under paragraph (2) or (3) if such Certificate of Origin would not be required under Article 503 of the NAFTA (as implemented pursuant to United States law), if the article were imported from Mexico.
+    * The Certificate of Origin that otherwise would be required pursuant to the provisions of subparagraph (A) shall not be required in the case of an article imported under paragraph (2) or (3) if such Certificate of Origin would not be required under article 5.5 of the USMCA (as implemented pursuant to United States law), if the article were imported from Mexico.
 
   * #### (C) Report by USTR on cooperation of other countries concerning circumvention
     * The United States Commissioner of Customs shall conduct a study analyzing the extent to which each CBTPA beneficiary country—
@@ -412,7 +416,7 @@
   * For purposes of this subsection—
 
   * #### (A) Annex
-    * The term "the Annex" means Annex 300–B of the NAFTA.
+    * The term "the Annex" means Annex 300–B of the North American Free Trade Agreement entered into between the United States, Mexico, and Canada on December 17, 1992.
 
   * #### (B) CBTPA beneficiary country
     * The term "CBTPA beneficiary country" means any "beneficiary country", as defined in section 2702(a)(1)(A) of this title, which the President designates as a CBTPA beneficiary country, taking into account the criteria contained in subsections (b) and (c) of section 2702 of this title and other appropriate criteria, including the following:
@@ -453,12 +457,12 @@
 
   * #### (C) CBTPA originating good
     * #### (i) In general
-      * The term "CBTPA originating good" means a good that meets the rules of origin for a good set forth in chapter 4 of the NAFTA as implemented pursuant to United States law.
+      * The term "CBTPA originating good" means a good that meets the rules of origin for a good set forth in chapter 4 of the USMCA as implemented pursuant to United States law.
 
     * #### (ii) Application of chapter 4
-      * In applying chapter 4 of the NAFTA with respect to a CBTPA beneficiary country for purposes of this subsection—
+      * In applying chapter 4 of the USMCA with respect to a CBTPA beneficiary country for purposes of this subsection—
 
-        * (I) no country other than the United States and a CBTPA beneficiary country may be treated as being a party to the NAFTA;
+        * (I) no country other than the United States and a CBTPA beneficiary country may be treated as being a party to the USMCA;
 
         * (II) any reference to trade between the United States and Mexico shall be deemed to refer to trade between the United States and a CBTPA beneficiary country;
 
@@ -469,9 +473,9 @@
   * #### (D) Transition period
     * The term "transition period" means, with respect to a CBTPA beneficiary country, the period that begins on October 1, 2000, and ends on the earlier of—
 
-      * (i) September 30, 2020; or
+      * (i) September 30, 2030; or
 
-      * (ii) the date on which the FTAA or another free trade agreement that makes substantial progress in achieving the negotiating objectives set forth in section 3317(b)(5) of this title enters into force with respect to the United States and the CBTPA beneficiary country.
+      * (ii) the date on which the FTAA or another free trade agreement that makes substantial progress in achieving the negotiating objectives set forth in section 108(b)(5) of Public Law 103–182 (19 U.S.C. 3317(b)(5)) enters into force with respect to the United States and the CBTPA beneficiary country.
 
   * #### (E) CBTPA
     * The term "CBTPA" means the United States-Caribbean Basin Trade Partnership Act.
@@ -785,7 +789,7 @@
       * #### (I) In general
         * For purposes of determining the applicable percentage under clause (i) or (iv), there may be included in that percentage—
 
-          * (aa) the cost of fabrics or yarns to the extent that apparel articles of such fabrics or yarns would be eligible for preferential treatment, without regard to the source of the fabrics or yarns, under Annex 401 of the NAFTA; and
+          * (aa) the cost of fabrics or yarns to the extent that apparel articles of such fabrics or yarns would be eligible for preferential treatment, without regard to the source of the fabrics or yarns, under Annex 4–B of the USMCA; and
 
           * (bb) the cost of fabrics or yarns that are designated as not being available in commercial quantities for purposes of—
 
@@ -1296,7 +1300,7 @@
   * #### (A) In general
     * Any apparel article that is wholly assembled, or knit-to-shape, in Haiti from any combination of fabrics, fabric components, components knit-to-shape, or yarns and is imported directly from Haiti or the Dominican Republic shall enter the United States free of duty, without regard to the source of the fabrics, fabric components, components knit-to-shape, or yarns from which the article is made, if the fabrics, fabric components, components knit-to-shape, or yarns comprising the component that determines the tariff classification of the article are of any of the following:
 
-      * (i) Fabrics or yarns, to the extent that apparel articles of such fabrics or yarns would be eligible for preferential treatment, without regard to the source of the fabrics or yarns, under Annex 401 of the NAFTA.
+      * (i) Fabrics or yarns, to the extent that apparel articles of such fabrics or yarns would be eligible for preferential treatment, without regard to the source of the fabrics or yarns, under Annex 4–B of the USMCA.
 
       * (ii) Fabrics or yarns, to the extent that such fabrics or yarns are designated as not being available in commercial quantities for purposes of—
 

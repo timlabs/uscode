@@ -58,7 +58,7 @@
 
   * (6) An individual who—
 
-    * (A) commencing on or after September 11, 2001, serves an aggregate of at least 12 months, but less than 18 months, on active duty in the Armed Forces (excluding service on active duty in entry level and skill training); and
+    * (A) commencing on or after September 11, 2001, serves an aggregate of at least 6 months, but less than 18 months, on active duty in the Armed Forces (excluding service on active duty in entry level and skill training); and
 
     * (B) after completion of service described in subparagraph (A)—
 
@@ -69,17 +69,6 @@
 
   * (7) An individual who—
 
-    * (A) commencing on or after September 11, 2001, serves an aggregate of at least 6 months, but less than 12 months, on active duty in the Armed Forces (excluding service on active duty in entry level and skill training); and
-
-    * (B) after completion of service described in subparagraph (A)—
-
-      * (i) continues on active duty for an aggregate of less than 12 months; or
-
-      * (ii) before completion of service on active duty of an aggregate of 12 months, is discharged or released from active duty as described in subsection (c).
-
-
-  * (8) An individual who—
-
     * (A) commencing on or after September 11, 2001, serves an aggregate of at least 90 days, but less than 6 months, on active duty in the Armed Forces (excluding service on active duty in entry level and skill training); and
 
     * (B) after completion of service described in subparagraph (A)—
@@ -89,9 +78,13 @@
       * (ii) before completion of service on active duty of an aggregate of 6 months, is discharged or released from active duty as described in subsection (c).
 
 
-  * (9) An individual who is the child or spouse of a person who, on or after September 11, 2001, dies in line of duty while serving on active duty as a member of the Armed Forces.
+  * (8) An individual who is the child or spouse of a person who, on or after September 11, 2001, dies in line of duty while serving on active duty as a member of the Armed Forces.
 
-  * (10) An individual who is awarded the Purple Heart for service in the Armed Forces occurring on or after September 11, 2001, and continues to serve on active duty in the Armed Forces or is discharged or released from active duty as described in subsection (c).
+  * (9) An individual who is the child or spouse of a person who, on or after September 11, 2001, dies in line of duty while serving on duty other than active duty as a member of the Armed Forces.
+
+  * (10) An individual who is the child or spouse of a member of the Selected Reserve who dies on or after September 11, 2001, while a member of the Selected Reserve from a service-connected disability.
+
+  * (11) An individual who is awarded the Purple Heart for service in the Armed Forces occurring on or after September 11, 2001, and continues to serve on active duty in the Armed Forces or is discharged or released from active duty as described in subsection (c).
 
 
 * (c) COVERED DISCHARGES AND RELEASES.—A discharge or release from active duty of an individual described in this subsection is a discharge or release as follows:
@@ -130,16 +123,16 @@
 
 * (f) MARINE GUNNERY SERGEANT JOHN DAVID FRY SCHOLARSHIP.—
 
-  * (1) IN GENERAL.—Educational assistance payable by reason of paragraph (9) of subsection (b) shall be known as the "Marine Gunnery Sergeant John David Fry scholarship".
+  * (1) IN GENERAL.—Educational assistance payable by reason of paragraphs (8), (9), and (10) of subsection (b) shall be known as the "Marine Gunnery Sergeant John David Fry scholarship".
 
-  * (2) LIMITATION.—The entitlement of an individual to assistance under subsection (a) pursuant to paragraph (9) of subsection (b) because the individual was a spouse of a person described in such paragraph shall expire on the earlier of—
+  * (2) LIMITATION.—The entitlement of an individual to assistance under subsection (a) pursuant to paragraphs (8), (9), and (10) of subsection (b) because the individual was a spouse of a person described in such paragraph shall expire on the earlier of—
 
     * (A) the date that is 15 years after the date on which the person died; or
 
     * (B) the date on which the individual remarries.
 
 
-  * (3) ELECTION ON RECEIPT OF CERTAIN BENEFITS.—Except as provided in paragraph (4), a surviving spouse entitled to assistance under subsection (a) pursuant to paragraph (9) of subsection (b) who is also entitled to educational assistance under chapter 35 of this title may not receive assistance under both this section and such chapter, but shall make an irrevocable election (in such form and manner as the Secretary may prescribe) under which section or chapter to receive educational assistance.
+  * (3) ELECTION ON RECEIPT OF CERTAIN BENEFITS.—Except as provided in paragraph (4), a surviving spouse entitled to assistance under subsection (a) pursuant to paragraphs (8), (9), and (10) of subsection (b) who is also entitled to educational assistance under chapter 35 of this title may not receive assistance under both this section and such chapter, but shall make an irrevocable election (in such form and manner as the Secretary may prescribe) under which section or chapter to receive educational assistance.
 
   * (4) EXCEPTION FOR CERTAIN ELECTIONS.—
 
@@ -147,12 +140,12 @@
 
     * (B) ELIGIBLE SURVIVING SPOUSE.—A spouse described in this subparagraph is an individual—
 
-      * (i) who is entitled to assistance under subsection (a) pursuant to paragraph (9) of subsection (b); and
+      * (i) who is entitled to assistance under subsection (a) pursuant to paragraphs (8), (9), and (10) of subsection (b); and
 
       * (ii) who was the spouse of a member of the Armed Forces who died during the period beginning on September 11, 2001, and ending on December 31, 2005.
 
 
-  * (5) DEFINITION OF CHILD.—For purposes of paragraph (9) of subsection (b), the term "child" includes a married individual or an individual who is above the age of twenty-three years.
+  * (5) DEFINITION OF CHILD.—For purposes of paragraphs (8), (9), and (10) of subsection (b), the term "child" includes a married individual or an individual who is above the age of twenty-three years.
 
 ### §3312. Educational assistance: duration
 * (a) IN GENERAL.—Subject to section 3695 and except as provided in subsections (b) and (c), an individual entitled to educational assistance under this chapter is entitled to a number of months of educational assistance under section 3313 equal to 36 months.
@@ -186,7 +179,7 @@
 
 * (c) PROGRAMS OF EDUCATION LEADING TO A DEGREE PURSUED AT INSTITUTIONS OF HIGHER LEARNING ON MORE THAN HALF-TIME BASIS.—The amounts payable under this subsection for pursuit of an approved program of education leading to a degree at an institution of higher learning (as that term is defined in section 3452(f)) are amounts as follows:
 
-  * (1) In the case of an individual entitled to educational assistance under this chapter by reason of paragraph (1), (2), (9), or (10) of section 3311(b), amounts as follows:
+  * (1) In the case of an individual entitled to educational assistance under this chapter by reason of paragraph (1), (2), (8), (9), (10), or (11) of section 3311(b), amounts as follows:
 
     * (A) An amount equal to the following:
 
@@ -256,14 +249,12 @@
 
   * (6) In the case of an individual entitled to educational assistance under this chapter by reason of section 3311(b)(7), amounts equal to 50 percent of the amounts that would be payable to the individual under paragraph (1) for the program of education if the individual were entitled to amounts for the program of education under paragraph (1) rather than this paragraph.
 
-  * (7) In the case of an individual entitled to educational assistance under this chapter by reason of section 3311(b)(8), amounts equal to 40 percent of the amounts that would be payable to the individual under paragraph (1) for the program of education if the individual were entitled to amounts for the program of education under paragraph (1) rather than this paragraph.
-
 
 * (d) FREQUENCY OF PAYMENT.—
 
-  * (1) QUARTER, SEMESTER, OR TERM PAYMENTS.—Payment of the amounts payable under subsection (c)(1)(A), and of similar amounts payable under paragraphs (2) through (7) of subsection (c), for pursuit of a program of education shall be made for the entire quarter, semester, or term, as applicable, of the program of education.
+  * (1) QUARTER, SEMESTER, OR TERM PAYMENTS.—Payment of the amounts payable under subsection (c)(1)(A), and of similar amounts payable under paragraphs (2) through (6) of subsection (c), for pursuit of a program of education shall be made for the entire quarter, semester, or term, as applicable, of the program of education.
 
-  * (2) MONTHLY PAYMENTS.—Payment of the amount payable under subsection (c)(1)(B), and of similar amounts payable under paragraphs (2) through (7) of subsection (c), for pursuit of a program of education shall be made on a monthly basis.
+  * (2) MONTHLY PAYMENTS.—Payment of the amount payable under subsection (c)(1)(B), and of similar amounts payable under paragraphs (2) through (6) of subsection (c), for pursuit of a program of education shall be made on a monthly basis.
 
   * (3) REGULATIONS.—The Secretary shall prescribe in regulations methods for determining the number of months (including fractions thereof) of entitlement of an individual to educational assistance under this chapter that are chargeable under this chapter for an advance payment of amounts under paragraphs (1) and (2) for pursuit of a program of education on a quarter, semester, term, or other basis.
 
@@ -309,7 +300,7 @@
       * (ii) the fraction of a complete academic year under the program of education that such quarter, semester, or term constitutes.
 
 
-    * (C) In the case of an individual entitled to educational assistance by reason of paragraphs (3) through (8) of section 3311(b), the amounts payable to the individual pursuant to subparagraphs (A)(i), (A)(ii), and (B) shall be the amounts otherwise determined pursuant to such subparagraphs multiplied by the same percentage applicable to the monthly amounts payable to the individual under paragraphs (2) through (7) of subsection (c).
+    * (C) In the case of an individual entitled to educational assistance by reason of paragraphs (3) through (7) of section 3311(b), the amounts payable to the individual pursuant to subparagraphs (A)(i), (A)(ii), and (B) shall be the amounts otherwise determined pursuant to such subparagraphs multiplied by the same percentage applicable to the monthly amounts payable to the individual under paragraphs (2) through (6) of subsection (c).
 
 
   * (3) QUARTER, SEMESTER, OR TERM PAYMENTS.—Payment of the amount payable under paragraph (2) for pursuit of a program of education shall be made for the entire quarter, semester, or term, as applicable, of the program of education.
@@ -332,7 +323,7 @@
         * (II) any scholarship, or other Federal, State, institutional, or employer-based aid or assistance (other than loans and any funds provided under section 401(b) of the Higher Education Act of 1965 (20 U.S.C. 1070a(b))) that is provided directly to the institution and specifically designated for the sole purpose of defraying tuition and fees; or
 
 
-      * (ii) the maximum amount that would be payable to the individual for the program of education under paragraph (1)(A) of subsection (c), or under the provisions of paragraphs (2) through (7) of subsection (c) applicable to the individual, for the program of education if the individual were entitled to amounts for the program of education under subsection (c) rather than this subsection.
+      * (ii) the maximum amount that would be payable to the individual for the program of education under paragraph (1)(A) of subsection (c), or under the provisions of paragraphs (2) through (6) of subsection (c) applicable to the individual, for the program of education if the individual were entitled to amounts for the program of education under subsection (c) rather than this subsection.
 
 
     * (B) A stipend in an amount equal to the amount of the appropriately reduced amount of the lump sum amount for books, supplies, equipment, and other educational costs otherwise payable to the individual under subsection (c).
@@ -391,7 +382,7 @@
 
       * (iii) Subject to clause (iv), a monthly stipend in an amount equal to $83 for each month (or pro rata amount for a partial month) of training pursued for books, supplies, equipment, and other educational costs.
 
-      * (iv) In the case of an individual entitled to educational assistance by reason of paragraphs (3) through (8) of section 3311(b), the amounts payable pursuant to clauses (i), (ii), and (iii) shall be the amounts otherwise determined pursuant to such clauses multiplied by the same percentage applicable to the monthly amounts payable to the individual under paragraphs (2) through (7) of subsection (c).
+      * (iv) In the case of an individual entitled to educational assistance by reason of paragraphs (3) through (7) of section 3311(b), the amounts payable pursuant to clauses (i), (ii), and (iii) shall be the amounts otherwise determined pursuant to such clauses multiplied by the same percentage applicable to the monthly amounts payable to the individual under paragraphs (2) through (6) of subsection (c).
 
 
     * (B) In the case of an individual pursuing a full-time program of apprenticeship or other on-job training, amounts as follows:
@@ -411,7 +402,7 @@
 
       * (ii) Subject to clauses (iii) and (iv), a monthly stipend in an amount equal to $83 for each month (or pro rata amount for each partial month) of training pursued for books, supplies, equipment, and other educational costs.
 
-      * (iii) In the case of an individual entitled to educational assistance by reason of paragraphs (3) through (8) of sections 3311(b), the amounts payable pursuant to clauses (i) and (ii) shall be the amounts otherwise determined pursuant to such clauses multiplied by the same percentage applicable to the monthly amounts payable to the individual under paragraphs (2) through (7) of subsection (c).
+      * (iii) In the case of an individual entitled to educational assistance by reason of paragraphs (3) through (7) of sections 3311(b), the amounts payable pursuant to clauses (i) and (ii) shall be the amounts otherwise determined pursuant to such clauses multiplied by the same percentage applicable to the monthly amounts payable to the individual under paragraphs (2) through (6) of subsection (c).
 
       * (iv) In any month in which an individual pursuing a program of education consisting of a program of apprenticeship or other on-job training fails to complete 120 hours of training, the amount of monthly educational assistance allowance payable under clauses (i) and (iii) to the individual shall be limited to the same proportion of the applicable rate determined under this subparagraph as the number of hours worked during such month, rounded to the nearest eight hours, bears to 120 hours.
 
@@ -436,9 +427,9 @@
 
       * (ii) either—
 
-        * (I) in the case of an individual entitled to educational assistance by reason of paragraphs (1), (2), or (9) of section 3311(b), 100 percent; or
+        * (I) in the case of an individual entitled to educational assistance by reason of paragraphs (1), (2), or (8) of section 3311(b), 100 percent; or
 
-        * (II) in the case of an individual entitled to educational assistance by reason of paragraphs (3) through (8) of section 3311(b), the same percentage as would otherwise apply to the monthly amounts payable to the individual under paragraphs (2) through (7) of subsection (c).
+        * (II) in the case of an individual entitled to educational assistance by reason of paragraphs (3) through (7) of section 3311(b), the same percentage as would otherwise apply to the monthly amounts payable to the individual under paragraphs (2) through (6) of subsection (c).
 
 
     * (D) In the case of an individual enrolled in a program of education that is pursued exclusively by correspondence (regardless of the institution providing such program of education), an amount equal to—
@@ -461,9 +452,9 @@
 
       * (ii) either—
 
-        * (I) in the case of an individual entitled to educational assistance by reason of paragraphs (1), (2), or (9) of section 3311(b), 100 percent; or
+        * (I) in the case of an individual entitled to educational assistance by reason of paragraphs (1), (2), or (8) of section 3311(b), 100 percent; or
 
-        * (II) in the case of an individual entitled to educational assistance by reason of paragraphs (3) through (8) of section 3311(b), the same percentage as would otherwise apply to the monthly amounts payable to the individual under paragraphs (2) through (7) of subsection (c).
+        * (II) in the case of an individual entitled to educational assistance by reason of paragraphs (3) through (7) of section 3311(b), the same percentage as would otherwise apply to the monthly amounts payable to the individual under paragraphs (2) through (6) of subsection (c).
 
 
   * (4) FREQUENCY OF PAYMENT.—
@@ -494,7 +485,7 @@
     * (B) PRO RATA ADJUSTMENT BASED ON CERTAIN ELIGIBILITY.—If the amount otherwise payable with respect to an individual under paragraph (3)(A)(i) is subject to a percentage adjustment under paragraph (3)(A)(iv), the amount applicable with respect to the individual under subparagraph (A)(ii) shall be the amount otherwise determined pursuant to such subparagraph subject to a percentage adjustment equal to the percentage adjustment applicable with respect to the individual under paragraph (3)(A)(iv).
 
 
-* (h) PAYMENT OF ESTABLISHED CHARGES TO EDUCATIONAL INSTITUTIONS.—Amounts payable under subsections (c)(1)(A) (and of similar amounts payable under paragraphs (2) through (7) of subsection (c)), (e)(2), and (f)(2)(A), and under subparagraphs (A)(i), (C), and (D) of subsection (g)(3), shall be paid directly to the educational institution concerned.
+* (h) PAYMENT OF ESTABLISHED CHARGES TO EDUCATIONAL INSTITUTIONS.—Amounts payable under subsections (c)(1)(A) (and of similar amounts payable under paragraphs (2) through (6) of subsection (c)), (e)(2), and (f)(2)(A), and under subparagraphs (A)(i), (C), and (D) of subsection (g)(3), shall be paid directly to the educational institution concerned.
 
 * (i) DETERMINATION OF HOUSING STIPEND PAYMENTS FOR ACADEMIC YEARS.—Any monthly housing stipend payable under this section during the academic year beginning on August 1 of a calendar year shall be determined utilizing rates for basic allowances for housing payable under section 403 of title 37 in effect as of January 1 of such calendar year.
 
@@ -570,17 +561,40 @@
 
   * (2) for an academic year beginning on any subsequent August 1, the amount for the previous academic year beginning on August 1 under this subsection, as increased by the percentage increase equal to the most recent percentage increase determined under section 3015(h).
 
+### §3315B. Preparatory courses for licensure, certification, or national tests
+* (a) IN GENERAL.—An individual entitled to educational assistance under this chapter shall also be entitled to payment for a covered preparatory course.
+
+* (b) AMOUNT.—The amount of educational assistance payable under this chapter for a covered preparatory course is the lesser of—
+
+  * (1) the fee charged for the covered preparatory course; or
+
+  * (2) the amount of entitlement available to the individual under this chapter at the time of payment for the covered preparatory course under this section.
+
+
+* (c) CHARGE AGAINST ENTITLEMENT.—The number of months of entitlement charged an individual under this chapter for a covered preparatory course shall be pro-rated based on the actual amount of the fee charged for the covered preparatory course relative to the rate for 1 month payable—
+
+  * (1) for the academic year beginning on August 1, 2020, $2,042; or
+
+  * (2) for an academic year beginning on any subsequent August 1, the amount for the previous academic year beginning on August 1 under this subsection, as increased by the percentage increase equal to the most recent percentage increase determined under section 3015(h).
+
+
+* (d) COVERED PREPARATORY COURSE DEFINED.—In this section, the term "covered preparatory course" means a course—
+
+  * (1) for a licensing or certification test that is required or used to enter into, maintain, or advance in employment in a predetermined and identified vocation or profession; and
+
+  * (2) that has been approved by the State approving agency concerned.
+
 ### §3316. Supplemental educational assistance: members with critical skills or specialty; members serving additional service
 * (a) INCREASED ASSISTANCE FOR MEMBERS WITH CRITICAL SKILLS OR SPECIALTY.—
 
-  * (1) IN GENERAL.—In the case of an individual who has a skill or specialty designated by the Secretary concerned as a skill or specialty in which there is a critical shortage of personnel or for which it is difficult to recruit or, in the case of critical units, retain personnel, the Secretary concerned may increase the monthly amount of educational assistance otherwise payable to the individual under paragraph (1)(B) of section 3313(c), or under paragraphs (2) through (7) of such section (as applicable).
+  * (1) IN GENERAL.—In the case of an individual who has a skill or specialty designated by the Secretary concerned as a skill or specialty in which there is a critical shortage of personnel or for which it is difficult to recruit or, in the case of critical units, retain personnel, the Secretary concerned may increase the monthly amount of educational assistance otherwise payable to the individual under paragraph (1)(B) of section 3313(c), or under paragraphs (2) through (6) of such section (as applicable).
 
   * (2) MAXIMUM AMOUNT OF INCREASE IN ASSISTANCE.—The amount of the increase in educational assistance authorized by paragraph (1) may not exceed the amount equal to the monthly amount of increased basic educational assistance providable under section 3015(d)(1) at the time of the increase under paragraph (1).
 
 
 * (b) SUPPLEMENTAL ASSISTANCE FOR ADDITIONAL SERVICE.—
 
-  * (1) IN GENERAL.—The Secretary concerned may provide for the payment to an individual entitled to educational assistance under this chapter of supplemental educational assistance for additional service authorized by subchapter III of chapter 30. The amount so payable shall be payable as an increase in the monthly amount of educational assistance otherwise payable to the individual under paragraph (1)(B) of section 3313(c), or under paragraphs (2) through (7) of such section (as applicable).
+  * (1) IN GENERAL.—The Secretary concerned may provide for the payment to an individual entitled to educational assistance under this chapter of supplemental educational assistance for additional service authorized by subchapter III of chapter 30. The amount so payable shall be payable as an increase in the monthly amount of educational assistance otherwise payable to the individual under paragraph (1)(B) of section 3313(c), or under paragraphs (2) through (6) of such section (as applicable).
 
   * (2) ELIGIBILITY.—Eligibility for supplemental educational assistance under this subsection shall be determined in accordance with the provisions of subchapter III of chapter 30, except that any reference in such provisions to eligibility for basic educational assistance under a provision of subchapter II of chapter 30 shall be treated as a reference to eligibility for educational assistance under the appropriate provision of this chapter.
 
@@ -610,7 +624,7 @@
 * (e) REGULATIONS.—The Secretaries concerned shall administer this section in accordance with such regulations as the Secretary of Defense shall prescribe.
 
 ### §3317. Public-private contributions for additional educational assistance
-* (a) ESTABLISHMENT OF PROGRAM.—In instances where the educational assistance provided pursuant to section 3313(c)(1)(A) does not cover the full cost of established charges (as specified in section 3313), the Secretary shall carry out a program under which colleges and universities can, voluntarily, enter into an agreement with the Secretary to cover a portion of those established charges not otherwise covered under section 3313(c)(1)(A), which contributions shall be matched by equivalent contributions toward such costs by the Secretary. The program shall only apply to covered individuals described in paragraphs (1), (2), (9), and (10) of section 3311(b).
+* (a) ESTABLISHMENT OF PROGRAM.—In instances where the educational assistance provided pursuant to section 3313(c)(1)(A) does not cover the full cost of tuition and fees for a program of education, the Secretary shall carry out a program under which colleges and universities can, voluntarily, enter into an agreement with the Secretary to cover a portion of such tuition and fees not otherwise covered under section 3313(c)(1)(A), which contributions shall be matched by equivalent contributions toward such costs by the Secretary. The program shall only apply to covered individuals described in paragraphs (1), (2), (8), (9), (10), and (11) of section 3311(b).
 
 * (b) DESIGNATION OF PROGRAM.—The program under this section shall be known as the "Yellow Ribbon G.I. Education Enhancement Program".
 
@@ -676,13 +690,11 @@
   * (2) the years of service as determined in regulations pursuant to subsection (j).
 
 
-* (c) ELIGIBLE DEPENDENTS.—An individual approved to transfer an entitlement to educational assistance under this section may transfer the individual's entitlement as follows:
+* (c) ELIGIBLE DEPENDENTS.—
 
-  * (1) To the individual's spouse.
+  * (1) TRANSFER.—An individual approved to transfer an entitlement to educational assistance under this section may transfer the individual's entitlement to an eligible dependent or a combination of eligible dependents.
 
-  * (2) To one or more of the individual's children.
-
-  * (3) To a combination of the individuals referred to in paragraphs (1) and (2).
+  * (2) DEFINITION OF ELIGIBLE DEPENDENT.—For purposes of this subsection, the term "eligible dependent" has the meaning given the term "dependent" under subparagraphs (A), (I), and (D) of section 1072(2) of title 10.
 
 
 * (d) LIMITATION ON MONTHS OF TRANSFER.—The total number of months of entitlement transferred by a individual under this section may not exceed 36 months. The Secretary of Defense may prescribe regulations that would limit the months of entitlement that may be transferred under this section to no less than 18 months.
@@ -837,7 +849,7 @@
 
     * (A) is an individual who—
 
-      * (i) is enrolled in a program of education leading to a post-secondary degree that, in accordance with the guidelines of the applicable regional or national accrediting agency, requires at least the standard 120 semester (or 180 quarter) credit hours for completion in a standard, undergraduate college degree in—
+      * (i) is enrolled in a program of education leading to a post-secondary degree that, in accordance with the guidelines of the applicable regional or national accrediting agency, requires at least the standard 120 semester (or 180 quarter) credit hours for completion in a standard, undergraduate college degree, or a dual degree program that includes such an undergraduate college degree, in—
 
         * (I) biological or biomedical science;
 
@@ -855,24 +867,37 @@
 
         * (VIII) a health profession or related program;
 
-        * (IX) a medical residency program;
+        * (IX) an agriculture science program or a natural resources science program; or
 
-        * (X) an agriculture science program or a natural resources science program; or
-
-        * (XI) other subjects and fields identified by the Secretary as meeting national needs;
+        * (X) other subjects and fields identified by the Secretary as meeting national needs;
 
 
       * (ii) has completed at least 60 standard semester (or 90 quarter) credit hours in a field referred to in clause (i); or
 
 
-    * (B) is an individual who has earned a post-secondary degree in a field referred to in subparagraph (A)(i) and is enrolled in a program of education leading to a teaching certification.
+    * (B) is an individual who has earned a post-secondary degree in a field referred to in subparagraph (A)(i) and is enrolled in a covered clinical training program for health care professionals or a program of education leading to a teaching certification; or
+
+    * (C) is an individual who has earned a graduate degree in a field referred to in subparagraph (A)(i) and is enrolled in a covered clinical training program for health care professionals.
 
 
-* (c) PRIORITY.—In selecting eligible individuals to receive additional benefits under this section, the Secretary shall give priority to the following individuals:
+* (c) PRIORITY.—(1) If the Secretary determines that there are insufficient funds available in a fiscal year to provide additional benefits under this section to all eligible individuals, the Secretary may give priority to the following eligible individuals:
 
-  * (1) Individuals who require the most credit hours described in subsection (b)(4).
+  * (A) Individuals who require the most credit hours described in subsection (b)(4).
 
-  * (2) Individuals who are entitled to educational assistance under this chapter by reason of paragraph (1), (2), (8), or (9) of section 3311(b) of this title.
+  * (B) Individuals who are entitled to educational assistance under this chapter by reason of paragraph (1), (2), (8), (9), (10), or (11) of section 3311(b) of this title.
+
+
+* (2) The Secretary shall give priority to individuals under paragraph (1) in the following order:
+
+  * (A) Individuals who are enrolled in a program of education leading to an undergraduate degree in a field referred to in subsection (b)(4)(A)(i).
+
+  * (B) Individuals who are enrolled in a program of education leading to a teaching certificate.
+
+  * (C) Individuals who are enrolled in a dual-degree program leading to both an undergraduate and graduate degree in a field referred to in subsection (b)(4)(A)(i).
+
+  * (D) Individuals who have earned an undergraduate degree and are enrolled in a covered clinical training program for health care professionals.
+
+  * (E) Individuals who have earned a graduate degree and are enrolled in a covered clinical training program for health care professionals.
 
 
 * (d) AMOUNT OF ASSISTANCE.—(1) The Secretary shall pay to each eligible individual who receives additional benefits under this section the monthly amount payable under section 3313 of this title for not more than 9 months of the program of education in which the individual is enrolled (adjusted with respect to the individual pursuant to section 3313(c), as appropriate), except that the aggregate amount paid to an individual under this section may not exceed $30,000.
@@ -880,6 +905,8 @@
 * (2) The Secretary may not pay to such an individual an amount in addition to the amount payable under paragraph (1) by reason of section 3317 of this title.
 
 * (3) An individual who receives additional benefits under this section may also receive amounts payable by a college or university pursuant to section 3317 of this title.
+
+* (4) Notwithstanding any other provision of this chapter or chapter 36 of this title, any additional benefits under this section may not be counted toward the aggregate period for which section 3695 of this title limits an individual's receipt of allowance or assistance.
 
 * (e) PROHIBITION ON TRANSFER.—An individual who receives additional benefits under this section may not transfer any amount of such additional benefits under section 3319 of this title.
 
@@ -893,3 +920,5 @@
 
 
 * (g) CONGRESSIONAL NOTICE.—If the Secretary identifies a new subject or field pursuant to subsection (b)(4)(A)(i)(XI) as meeting a national need, the Secretary shall submit to Congress notice of such identification at least 90 days before conferring eligibility on any individual for purposes of this section on the basis of such identification, including any analysis of labor market supply and demand used in identifying the new subject or field, as applicable.
+
+* (h) COVERED CLINICAL TRAINING PROGRAM DEFINED.—In this section, the term "covered clinical training program" means any clinical training required by a health care professional to be licensed to practice in a State or locality.

@@ -23,12 +23,12 @@
 
 * (b) VOLUNTARY PARTICIPATION.—Participation in any survey conducted under subsection (a) shall be voluntary.
 
-* (c) FEDERAL RECORDKEEPING.—Each person surveyed under subsection (a) shall be considered an employee of the United States for purposes of section 3502(3)(A)(i) of title 44.
+* (c) FEDERAL RECORDKEEPING.—Each individual surveyed under subsection (a) shall be considered an employee of the United States for purposes of section 3502(3)(A)(i) of title 44.
 
 ### §2903. Reimbursement for adoption expenses
 * (a) AUTHORIZATION TO REIMBURSE.—The Secretary shall carry out a program under which a member of the Coast Guard may be reimbursed, as provided in this section, for qualifying adoption expenses incurred by the member in the adoption of a child under 18 years of age.
 
-* (b) ADOPTIONS COVERED.—An adoption for which expenses may be reimbursed under this section includes an adoption by a single person, an infant adoption, an intercountry adoption, and an adoption of a child with special needs (as defined in section 473(c) of the Social Security Act (42 U.S.C. 673(c))).
+* (b) ADOPTIONS COVERED.—An adoption for which expenses may be reimbursed under this section includes an adoption by a single individual, an infant adoption, an intercountry adoption, and an adoption of a child with special needs (as defined in section 473(c) of the Social Security Act (42 U.S.C. 673(c))).
 
 * (c) BENEFITS PAID AFTER ADOPTION IS FINAL.—Benefits paid under this section in the case of an adoption may be paid only after the adoption is final.
 
@@ -82,7 +82,7 @@
 
     * (A) IN GENERAL.—The term "eligible spouse" means the spouse of a member of the Coast Guard who is serving on active duty and includes a spouse who receives transitional compensation under section 1059 of title 10.
 
-    * (B) EXCLUSION.—The term "eligible spouse" does not include a person who—
+    * (B) EXCLUSION.—The term "eligible spouse" does not include an individual who—
 
       * (i) is married to, but legally separated from, a member of the Coast Guard under a court order or statute of any State or territorial possession of the United States; or
 

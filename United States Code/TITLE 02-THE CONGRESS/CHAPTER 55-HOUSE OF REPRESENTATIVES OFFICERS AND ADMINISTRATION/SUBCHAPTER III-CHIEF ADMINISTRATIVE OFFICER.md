@@ -248,3 +248,17 @@
 * (a) At any time on or after February 20, 2003, the Chief Administrative Officer of the House of Representatives may incur obligations and make expenditures out of available appropriations for meals, refreshments, and other support and maintenance for Members, officers, and employees of the House of Representatives when, in the judgment of the Chief Administrative Officer, such obligations and expenditures are necessary to respond to emergencies involving the safety of human life or the protection of property.
 
 * (b) Nothing in this section may be construed to affect any other authority of the Chief Administrative Officer to incur obligations and make expenditures for the items and services described in subsection (a) for Members, officers, and employees of the House of Representatives.
+
+### §5548. Payments to ensure continuing availability of goods and services during the coronavirus emergency
+#### (a) Authorization to make payments
+* Notwithstanding any other provision of law and subject to subsection (b), during an emergency situation, the Chief Administrative Officer of the House of Representatives may make payments under contracts with vendors providing goods and services to the House in amounts and under terms and conditions other than those provided under the contract in order to ensure that those goods and services remain available to the House throughout the duration of the emergency.
+
+#### (b) Conditions
+* #### (1) Approval required
+  * The Chief Administrative Officer may not make payments under the authority of subsection (a) without the approval of the Committee on House Administration of the House of Representatives.
+
+* #### (2) Availability of appropriations
+  * The authority of the Chief Administrative Officer to make payments under the authority of subsection (a) is subject to the availability of appropriations to make such payments.
+
+#### (c) Applicability
+* This section shall apply with respect to fiscal year 2020 and each succeeding fiscal year.

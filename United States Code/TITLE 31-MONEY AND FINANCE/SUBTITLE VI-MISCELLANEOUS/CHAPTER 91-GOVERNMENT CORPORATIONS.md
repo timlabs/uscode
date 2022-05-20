@@ -50,7 +50,7 @@
 
     * (J) the Pension Benefit Guaranty Corporation.
 
-    * (K) the Saint Lawrence Seaway Development Corporation.
+    * (K) the Great Lakes St. Lawrence Seaway Development Corporation.
 
     * (L) the Secretary of Housing and Urban Development when carrying out duties and powers related to the Federal Housing Administration Fund.
 

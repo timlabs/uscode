@@ -2,7 +2,7 @@
 
 ### §15851. Assessment of renewable energy resources
 #### (a) Resource assessment
-* Not later than 6 months after August 8, 2005, and each year thereafter, the Secretary shall review the available assessments of renewable energy resources within the United States, including solar, wind, biomass, ocean (including tidal, wave, current, and thermal), geothermal, and hydroelectric energy resources, and undertake new assessments as necessary, taking into account changes in market conditions, available technologies, and other relevant factors.
+* Not later than 6 months after August 8, 2005, and each year thereafter, the Secretary shall review the available assessments of renewable energy resources within the United States, including solar, wind, biomass, marine, geothermal, and hydroelectric energy resources, and undertake new assessments as necessary, taking into account changes in market conditions, available technologies, and other relevant factors.
 
 #### (b) Contents of reports
 * Not later than 1 year after August 8, 2005, and each year thereafter, the Secretary shall publish a report based on the assessment under subsection (a). The report shall contain—
@@ -39,16 +39,24 @@
     * (D) a plant that is grown exclusively as a fuel for the production of electricity.
 
 * #### (2) Renewable energy
-  * The term "renewable energy" means electric energy generated from solar, wind, biomass, landfill gas, ocean (including tidal, wave, current, and thermal), geothermal, municipal solid waste, or new hydroelectric generation capacity achieved from increased efficiency or additions of new capacity at an existing hydroelectric project.
+  * The term "renewable energy" means marine energy (as defined in section 17211 of this title), or electric energy produced from solar, wind, biomass, landfill gas, geothermal, municipal solid waste, or new hydroelectric generation capacity achieved from increased efficiency or additions of new capacity at an existing hydroelectric project.
 
 #### (c) Calculation
-* For purposes of determining compliance with the requirement of this section, the amount of renewable energy shall be doubled if—
+* #### (1) In general
+  * For purposes of determining compliance with the requirement of this section, the amount of renewable energy shall be doubled if—
 
-  * (1) the renewable energy is produced and used on-site at a Federal facility;
+    * (A) the renewable energy is produced and used on-site at a Federal facility;
 
-  * (2) the renewable energy is produced on Federal lands and used at a Federal facility; or
+    * (B) the renewable energy is produced on Federal lands and used at a Federal facility; or
 
-  * (3) the renewable energy is produced on Indian land as defined in title XXVI of the Energy Policy Act of 1992 (25 U.S.C. 3501 et seq.) and used at a Federal facility.
+    * (C) the renewable energy is produced on Indian land as defined in title XXVI of the Energy Policy Act of 1992 (25 U.S.C. 3501 et seq.) and used at a Federal facility.
+
+* #### (2) Separate calculation
+  * #### (A) In general
+    * For purposes of determining compliance with the requirement of this section, any energy consumption that is avoided through the use of geothermal energy shall be considered to be renewable energy produced.
+
+  * #### (B) Efficiency accounting
+    * Energy consumption that is avoided through the use of geothermal energy that is considered to be renewable energy under this section shall not be considered energy efficiency for the purpose of compliance with Federal energy efficiency goals, targets, and incentives.
 
 #### (d) Report
 * Not later than April 15, 2007, and every 2 years thereafter, the Secretary shall provide a report to Congress on the progress of the Federal Government in meeting the goals established by this section.

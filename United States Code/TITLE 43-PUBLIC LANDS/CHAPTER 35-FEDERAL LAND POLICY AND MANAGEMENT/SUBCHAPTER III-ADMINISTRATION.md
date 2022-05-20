@@ -186,7 +186,7 @@
 
     * (B) composed entirely of members who, at the time of the good Samaritan search-and-recovery mission, have attained the age of majority under the law of the State where the mission takes place.
 
-* #### (2) Good samaritan search-and-recovery mission
+* #### (2) Good Samaritan search-and-recovery mission
   * The term "good Samaritan search-and-recovery mission" means a search conducted by an eligible organization or individual for 1 or more missing individuals believed to be deceased at the time that the search is initiated.
 
 * #### (3) Secretary
@@ -205,13 +205,14 @@
 
       * (ii) shall not be considered to be a Federal volunteer;
 
+
     * (B) an eligible organization or individual conducting a good Samaritan search-and-recovery mission under this section shall not be considered to be a volunteer under section 102301(c) of title 54;
 
-    * (C) chapter 171 of title 28 (commonly known as the "Federal Tort Claims Act"), shall not apply to an eligible organization or individual carrying out a privately requested good Samaritan search-and-recovery mission under this section; and
+    * (C) chapter 171 of title 28 (commonly known as the "Federal Tort Claims Act") shall not apply to an eligible organization or individual carrying out a privately requested good Samaritan search-and-recovery mission under this section; and
 
-    * (D) chapter 81 of title 5 (commonly known as the "Federal Employees Compensation Act"), shall not apply to an eligible organization or individual conducting a good Samaritan search-and-recovery mission under this section, and the conduct of the good Samaritan search-and-recovery mission shall not constitute civilian employment.
+    * (D) chapter 81 of title 5 (commonly known as the "Federal Employees Compensation Act") shall not apply to an eligible organization or individual conducting a good Samaritan search-and-recovery mission under this section, and the conduct of the good Samaritan search-and-recovery mission shall not constitute civilian employment.
 
-#### (c) Release of Federal Government From liability
+#### (c) Release of Federal Government from liability
 * The Secretary shall not require an eligible organization or individual to have liability insurance as a condition of accessing Federal land under this section, if the eligible organization or individual—
 
   * (1) acknowledges and consents, in writing, to the provisions described in subparagraphs (A) through (D) of subsection (b)(2); and
@@ -669,11 +670,11 @@
   * (2) may assign 1 or more air resource advisors to a type 2 incident management team managing a wildland fire.
 
 #### (g) Omitted
-#### (h) Rapid response erosion database
+#### (h) Rapid Response Erosion Database
 * #### (1) In general
   * The Secretaries, in consultation with the Administrator of the National Aeronautics and Space Administration and the Secretary of Commerce, shall establish and maintain a database, to be known as the "Rapid Response Erosion Database" (referred to in this subsection as the "Database").
 
-* #### (2) Open-source database
+* #### (2) Open-source Database
   * #### (A) Availability
     * The Secretaries shall make the Database (including the original source code)—
 

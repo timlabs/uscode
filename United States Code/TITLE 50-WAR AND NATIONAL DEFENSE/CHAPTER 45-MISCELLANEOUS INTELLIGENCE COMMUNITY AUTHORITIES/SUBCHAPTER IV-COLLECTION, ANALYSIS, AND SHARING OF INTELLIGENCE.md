@@ -162,7 +162,7 @@
 #### (b) Updates
 * The Director shall update the list published under subsection (a) every 180 days or more frequently as needed.
 
-### §3369. Encouragement of cooperative actions to detect and counter foreign influence operations
+### §3369. Cooperative actions to detect and counter foreign influence operations
 #### (a) Findings
 * Congress makes the following findings:
 
@@ -205,9 +205,9 @@
 
   * (6) if the social media industry fails to take sufficient action to address foreign adversary threat networks operating within or across their platforms, Congress would have to consider additional safeguards for ensuring that this threat is effectively mitigated.
 
-#### (c) Authority to facilitate establishment of Social Media Data and Threat Analysis Center
-* #### (1) Authority
-  * The Director of National Intelligence, in coordination with the Secretary of Defense, may facilitate, by grant or contract or under an existing authority of the Director, the establishment of a Social Media Data and Threat Analysis Center with the functions described in paragraph (2) at an independent, nonprofit organization.
+#### (c) Requirement to facilitate establishment of Social Media Data and Threat Analysis Center
+* #### (1) Requirement
+  * Not later than June 1, 2021, the Director of National Intelligence, in coordination with the Secretary of Defense, shall facilitate, by grant or contract or under an existing authority of the Director, the establishment of a Social Media Data and Threat Analysis Center with the functions described in paragraph (2) at an independent, nonprofit organization.
 
 * #### (2) Functions
   * The functions described in this paragraph are the following:
@@ -235,9 +235,9 @@
     * (K) Developing data standards to harmonize the sharing of information pursuant to this paragraph.
 
 #### (d) Reporting and notifications
-* If the Director of National Intelligence chooses to use funds under subsection (c)(1) to facilitate the establishment of the Center, the Director of the Center shall—
+* The Director of the Center shall—
 
-  * (1) not later than 180 days after December 20, 2019, submit to appropriate congressional committees a report on—
+  * (1) not later than August 1, 2021, submit to appropriate congressional committees a report on—
 
     * (A) the estimated funding needs of the Center for fiscal year 2021 and for subsequent years;
 
@@ -266,31 +266,61 @@
 
   * (2) as the Director considers necessary, provide more timely assessments relating to ongoing disinformation campaigns.
 
-#### (f) Funding
-* Of the amounts appropriated or otherwise made available to the National Intelligence Program (as defined in section 3003 of this title) in fiscal year 2020 and 2021, the Director of National Intelligence may use up to $30,000,000 to carry out this section.
+#### (f) Foreign malign influence campaigns on social media platforms targeting elections for Federal office
+* #### (1) Reports
+  * #### (A) Requirement
+    * Not later than 90 days before the date of each regularly scheduled general election for Federal office, the Director of the Center shall submit to the appropriate congressional committees a report on foreign malign influence campaigns on and across social media platforms targeting such election.
 
-#### (g) Definition of appropriate congressional committees
-* In this section, the term "appropriate congressional committees" means—
+  * #### (B) Matters included
+    * Each report under subparagraph (A) shall include an analysis of the following:
 
-  * (1) the Committee on Armed Services of the Senate;
+      * (i) The patterns, tools, and techniques of foreign malign influence campaigns across all platforms on social media by a covered foreign country targeting a regularly scheduled general election for Federal office.
 
-  * (2) the Committee on Homeland Security and Governmental Affairs of the Senate;
+      * (ii) Inauthentic accounts and "bot" networks across platforms, including the scale to which such accounts or networks exist, how platforms currently act to remove such accounts or networks, and what percentage of such accounts or networks have been removed during the period covered by the report.
 
-  * (3) the Committee on Foreign Relations of the Senate;
+      * (iii) The estimated reach and impact of intentional or weaponized disinformation by inauthentic accounts and "bot" networks, including an analysis of amplification by users and algorithmic distribution.
 
-  * (4) the Committee on the Judiciary of the Senate;
+      * (iv) The trends of types of media that are being used for dissemination through foreign malign influence campaigns, including machine-manipulated media, and the intended targeted groups.
 
-  * (5) the Select Committee on Intelligence of the Senate;
+  * #### (C) Initial report
+    * Not later than August 1, 2021, the Director of the Center shall submit to the appropriate congressional committees a report under subparagraph (A) addressing the regularly scheduled general election for Federal office occurring during 2020.
 
-  * (6) the Committee on Armed Services of the House of Representatives;
+  * #### (D) Form
+    * Each report under this paragraph shall be submitted in an unclassified form, but may include a classified annex.
 
-  * (7) the Committee on Homeland Security of the House of Representatives;
+* #### (2) Briefings
+  * #### (A) Requirement
+    * Not later than 30 days after the date on which the Director submits to the appropriate congressional committees a report under paragraph (1), the Director of National Intelligence, in coordination with the Secretary of Defense, the Secretary of Homeland Security, and the Director of the Federal Bureau of Investigation, shall provide to such committees a briefing assessing threats from foreign malign influence campaigns on social media from covered countries to the regularly scheduled general election for Federal office covered by the report.
 
-  * (8) the Committee on Foreign Affairs of the House of Representatives;
+  * #### (B) Matters to be included
+    * Each briefing under subparagraph (A) shall include the following:
 
-  * (9) the Committee on the Judiciary of the House of Representatives; and
+      * (i) The patterns, tools, and techniques of foreign malign influence campaigns across all platforms on social media by a covered foreign country targeting a regularly scheduled general election for Federal office.
 
-  * (10) the Permanent Select Committee on Intelligence of the House of Representatives.
+      * (ii) An assessment of the findings from the report for which the briefing is provided.
+
+      * (iii) The activities and methods used to mitigate the threats associated with such findings by the Department of Defense, the Department of Homeland Security, or other relevant departments or agencies of the Federal Government.
+
+      * (iv) The steps taken by departments or agencies of the Federal Government to cooperate with social media companies to mitigate the threats identified.
+
+#### (g) Funding
+* Of the amounts appropriated or otherwise made available to the National Intelligence Program (as defined in section 3003 of this title) in fiscal year 2021 and 2022, the Director of National Intelligence may use up to $30,000,000 to carry out this section.
+
+#### (h) Definitions
+* #### (1) Appropriate congressional committees
+  * The term "appropriate congressional committees" means—
+
+    * (A) the congressional intelligence committees;
+
+    * (B) the Committee on Armed Services, the Committee on Appropriations, the Committee on Homeland Security, the Committee on Foreign Affairs, and the Committee on the Judiciary of the House of Representatives; and
+
+    * (C) the Committee on Armed Services, the Committee on Appropriations, the Committee on Homeland Security and Government Affairs, the Committee on Foreign Relations, and the Committee on the Judiciary of the Senate.
+
+* #### (2) Covered foreign country and foreign malign influence
+  * The terms "covered foreign country" and "foreign malign influence" have the meanings given those terms in section 3059 of this title.
+
+* #### (3) Machine-manipulated media
+  * The term "machine-manipulated media" has the meaning given that term in section 5724.
 
 ### §3369a. Report on deepfake technology, foreign weaponization of deepfakes, and related notifications
 #### (a) Report on foreign weaponization of deepfakes and deepfake technology
@@ -807,3 +837,53 @@
   * (4) Critical infrastructure related to elections.
 
   * (5) Such other Government goods and services as the Director of National Intelligence considers appropriate.
+
+### §3372. Monitoring mineral investments under Belt and Road Initiative of People's Republic of China
+#### (a) Report required
+* Not later than 1 year after December 27, 2020, the Director of National Intelligence (referred to in this section as the "Director"), in consultation with the Secretary of the Interior, the Secretary of Energy, the Secretary of Commerce, the Secretary of State, the Secretary of Defense, and the United States Trade Representative, shall submit to the appropriate congressional committees a report on investments in minerals under the Belt and Road Initiative of the People's Republic of China that includes an assessment of—
+
+  * (1) notable past mineral investments;
+
+  * (2) whether and how such investments have increased the extent of control of minerals by the People's Republic of China;
+
+  * (3) any efforts by the People's Republic of China to counter or interfere with the goals of the Energy Resource Governance Initiative of the Department of State; and
+
+  * (4) the strategy of the People's Republic of China with respect to mineral investments.
+
+#### (b) Monitoring mechanism
+* In conjunction with each report required by subsection (a), the Director shall submit to the appropriate congressional committees a list of any minerals with respect to which—
+
+  * (1) the People's Republic of China, directly or through the Belt and Road Initiative—
+
+    * (A) is increasing its concentration of extraction and processing;
+
+    * (B) is acquiring significant mining and processing facilities;
+
+    * (C) is maintaining or increasing export restrictions; or
+
+    * (D) has achieved substantial control of the supply of minerals used within an industry or related minerals;
+
+
+  * (2) there is a significant difference between domestic prices in the People's Republic of China as compared to prices on international markets; or
+
+  * (3) there is a significant increase or volatility in price as a result of the Belt and Road Initiative of the People's Republic of China.
+
+#### (c) Critical mineral evaluation
+* For any mineral included on the list required by subsection (b) that is not already designated as critical by the Secretary of the Interior pursuant to section 1606(c) of title 30, the Director shall—
+
+  * (1) determine, in consultation with the Secretary of the Interior, the Secretary of Energy, the Secretary of Commerce, the Secretary of State, the Secretary of Defense, and the United States Trade Representative, whether the mineral is strategic and critical to the defense or national security of the United States; and
+
+  * (2) make a recommendation to the Secretary of the Interior regarding the designation of the mineral under section 1606(c) of title 30.
+
+#### (d) Annual updates
+* The Director shall update the report required by subsection (a) and list required by subsection (b) not less frequently than annually.
+
+#### (e) Form
+* Each report or list required by this section shall be submitted in unclassified form but may include a classified annex.
+
+#### (f) Appropriate congressional committees defined
+* In this section, the term "appropriate congressional committees" means—
+
+  * (1) the Committee on Energy and Natural Resources, the Committee on Foreign Relations, the Committee on Armed Services, the Committee on Finance, the Committee on Homeland Security and Governmental Affairs, the Committee on Commerce, Science, and Transportation, and the Committee on Appropriations of the Senate; and
+
+  * (2) the Committee on Energy and Commerce, the Committee on Foreign Affairs, the Committee on Armed Services, the Committee on Ways and Means, the Committee on Homeland Security, and the Committee on Appropriations of the House of Representatives.

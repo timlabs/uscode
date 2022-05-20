@@ -4,7 +4,7 @@
 
 #### (b) Funding
 * #### (1) In general
-  * There shall be available to the Fund, for expenditures from the Fund for services furnished during and after fiscal year 2021, $0.
+  * There shall be available to the Fund, for expenditures from the Fund for services furnished during and after fiscal year 2021, $165,000,000.
 
 * #### (2) Payment from Trust Funds
   * The amount specified under paragraph (1) shall be available to the Fund, as expenditures are made from the Fund, from the Federal Hospital Insurance Trust Fund and the Federal Supplementary Medical Insurance Trust Fund in such proportion as the Secretary determines appropriate.

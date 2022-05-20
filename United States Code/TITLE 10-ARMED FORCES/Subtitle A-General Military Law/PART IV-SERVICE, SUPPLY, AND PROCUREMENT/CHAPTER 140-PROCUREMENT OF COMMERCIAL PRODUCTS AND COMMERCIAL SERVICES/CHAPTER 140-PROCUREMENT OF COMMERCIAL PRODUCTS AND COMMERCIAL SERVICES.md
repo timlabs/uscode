@@ -167,7 +167,6 @@
 
 * (3) An offeror may not be required to submit information described in paragraph (1)(C) with regard to a commercially available off-the-shelf item and may be required to submit such information with regard to any other item that was developed exclusively at private expense only after the head of the contracting activity determines in writing that the information submitted pursuant to paragraphs (1)(A) and (1)(B) is not sufficient to determine the reasonableness of price.
 
-
 * (e) DELEGATION.—The authority of the Secretary of Defense to make a determination under subsection (a) may be delegated only to the Deputy Secretary of Defense, without further redelegation.
 
 * (f) MAJOR WEAPON SYSTEM DEFINED.—In this section, the term "major weapon system" means a weapon system acquired pursuant to a major defense acquisition program (as that term is defined in section 2430 of this title).
@@ -180,7 +179,18 @@
   * (2) provide to officials of the Department of Defense access to previous Department of Defense commercial product and commercial service determinations, market research, and analysis used to determine the reasonableness of price for the purposes of procurements by the Department of Defense.
 
 
-* (b) ITEMS PREVIOUSLY ACQUIRED USING COMMERCIAL ACQUISITION PROCEDURES.—
+* (b) DETERMINATIONS REGARDING THE COMMERCIAL NATURE OF PRODUCTS OR SERVICES.—
+
+  * (1) IN GENERAL.—In making a determination whether a particular product or service offered by a contractor meets the definition of a commercial product or commercial service, a contracting officer of the Department of Defense may—
+
+    * (A) request support from the Director of the Defense Contract Management Agency, the Director of the Defense Contract Audit Agency, or other appropriate experts in the Department to make a determination whether a product or service is a commercial product or commercial service; and
+
+    * (B) consider the views of appropriate public and private sector entities.
+
+
+  * (2) MEMORANDUM.—Within 30 days after a contract award, the contracting officer shall, consistent with the policies and regulations of the Department, submit a written memorandum summarizing the determination referred to in paragraph (1), including a detailed justification for such determination.
+
+* (c) ITEMS PREVIOUSLY ACQUIRED USING COMMERCIAL ACQUISITION PROCEDURES.—
 
   * (1) DETERMINATIONS.—A contract for a product or service acquired using commercial acquisition procedures under part 12 of the Federal Acquisition Regulation shall serve as a prior commercial product or service determination with respect to such product or service for purposes of this chapter unless the senior procurement executive of the military department or the Department of Defense as designated for purposes of section 1702(c) of title 41 determines in writing that it is no longer appropriate to acquire the product or service using commercial acquisition procedures.
 

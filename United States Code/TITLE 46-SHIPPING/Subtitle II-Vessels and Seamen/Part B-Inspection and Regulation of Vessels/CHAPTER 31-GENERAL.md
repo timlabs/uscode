@@ -41,9 +41,9 @@
 ### §3105. Electronic charts
 * (a) SYSTEM REQUIREMENTS.—
 
-  * (1) REQUIREMENTS.—Subject to paragraph (2), the following vessels, while operating on the navigable waters of the United States, shall be equipped with and operate electronic charts under regulations prescribed by the Secretary of the department in which the Coast Guard is operating:
+  * (1) ELECTRONIC CHARTS IN LIEU OF MARINE CHARTS, CHARTS, AND MAPS.—Subject to paragraph (2), the following vessels, while operating on the navigable waters of the United States, equipped with and operating electronic navigational charts that are produced by a government hydrographic office or conform to a standard acceptable to the Secretary, shall be deemed in compliance with any requirement under title 33 or title 46, Code of Federal Regulations, to have a chart, marine chart, or map on board such vessel:
 
-    * (A) A self-propelled commercial vessel of at least 65 feet overall length.
+    * (A) A self-propelled commercial vessel of at least 65 feet in overall length.
 
     * (B) A vessel carrying more than a number of passengers for hire determined by the Secretary.
 
@@ -54,9 +54,11 @@
 
   * (2) EXEMPTIONS AND WAIVERS.—The Secretary may—
 
-    * (A) exempt a vessel from paragraph (1), if the Secretary finds that electronic charts are not necessary for the safe navigation of the vessel on the waters on which the vessel operates; and
+    * (A) exempt a vessel from paragraph (1), if the Secretary finds that electronic charts are not necessary for the safe navigation of the vessel on the waters on which the vessel operates;
 
-    * (B) waive the application of paragraph (1) with respect to operation of vessels on navigable waters of the United States specified by the Secretary, if the Secretary finds that electronic charts are not needed for safe navigation on those waters.
+    * (B) waive the application of paragraph (1) with respect to operation of vessels on navigable waters of the United States specified by the Secretary, if the Secretary finds that electronic charts are not needed for safe navigation on those waters; and
+
+    * (C) permit vessels described in subparagraphs (A) through (D) of paragraph (1) that operate solely landward of the baseline from which the territorial sea of the United States is measured to utilize software-based, platform-independent electronic chart systems that the Secretary determines are capable of displaying electronic navigational charts with necessary scale and detail to ensure safe navigation for the intended voyage.
 
 
 * (b) LIMITATION ON APPLICATION.—Except pursuant to an international treaty, convention, or agreement, to which the United States is a party, this section shall not apply to any foreign vessel that is not destined for, or departing from, a port or place subject to the jurisdiction of the United States and that is in—

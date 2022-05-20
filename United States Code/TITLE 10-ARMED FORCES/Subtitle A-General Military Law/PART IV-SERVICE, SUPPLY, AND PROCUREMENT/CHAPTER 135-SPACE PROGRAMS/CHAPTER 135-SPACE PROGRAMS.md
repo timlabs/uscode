@@ -55,12 +55,6 @@
 
   * (2) The Joint Capabilities Integration and Development System process shall not apply to acquisitions by the Office.
 
-  * (3) The Commander of the United States Space Command, or, if no such command exists, the Commander of the United States Strategic Command, shall—
-
-    * (A) establish and validate capability requirements; and
-
-    * (B) recommend priorities as the Commander determines appropriate.
-
 
 * (e) REQUIRED PROGRAM ELEMENT.—(1) The Secretary of the Air Force shall ensure, within budget program elements for space programs, that—
 
@@ -263,7 +257,7 @@
   * (4) SPACE TRANSPORTATION INFRASTRUCTURE.—The term "space transportation infrastructure" has the meaning given that term in section 50501(12) of title 51.
 
 ### §2278. Notification of foreign interference of national security space
-* (a) NOTICE REQUIRED.—The Commander of the United States Strategic Command shall, with respect to each intentional attempt by a foreign actor to disrupt, degrade, or destroy a United States national security space capability, provide to the appropriate congressional committees—
+* (a) NOTICE REQUIRED.—The Commander of the United States Space Command shall, with respect to each intentional attempt by a foreign actor to disrupt, degrade, or destroy a United States national security space capability, provide to the appropriate congressional committees—
 
   * (1) not later than 48 hours after the Commander determines that there is reason to believe such attempt occurred, notice of such attempt; and
 
@@ -361,13 +355,15 @@
 
   * (6) The Commander of the United States Northern Command.
 
-  * (7) The Commander of United States Cyber Command.
+  * (7) The Commander of the United States Space Command.
 
-  * (8) The Director of the National Security Agency.
+  * (8) The Commander of United States Cyber Command.
 
-  * (9) The Chief Information Officer of the Department of Defense.
+  * (9) The Director of the National Security Agency.
 
-  * (10) The Secretaries of the military departments, who shall be ex officio members.
+  * (10) The Chief Information Officer of the Department of Defense.
+
+  * (11) The Secretaries of the military departments, who shall be ex officio members.
 
   * (11) Such other officers of the Department of Defense as the Secretary may designate.
 
@@ -400,14 +396,14 @@
   * (4) A breakdown of each program element in such budget that relates to the Department of Defense positioning, navigation, and timing enterprise, including how such program element relates to the operation and sustainment, research and development, procurement, or other activity of such enterprise.
 
 
-* (f) BUDGET AND FUNDING MATTERS.—(1) Not later than 30 days after the President submits to Congress the budget for a fiscal year under section 1105(a) of title 31, the Commander of the United States Strategic Command shall submit to the Chairman of the Joint Chiefs of Staff an assessment of—
+* (f) BUDGET AND FUNDING MATTERS.—(1) Not later than 30 days after the President submits to Congress the budget for a fiscal year under section 1105(a) of title 31, the Commander of the United States Space Command shall submit to the Chairman of the Joint Chiefs of Staff an assessment of—
 
   * (A) whether such budget allows the Federal Government to meet the required capabilities of the Department of Defense positioning, navigation, and timing enterprise during the fiscal year covered by the budget and the four subsequent fiscal years; and
 
   * (B) if the Commander determines that such budget does not allow the Federal Government to meet such required capabilities, a description of the steps being taken to meet such required capabilities.
 
 
-* (2) Not later than 30 days after the date on which the Chairman of the Joint Chiefs of Staff receives the assessment of the Commander of the United States Strategic Command under paragraph (1), the Chairman shall submit to the congressional defense committees—
+* (2) Not later than 30 days after the date on which the Chairman of the Joint Chiefs of Staff receives the assessment of the Commander of the United States Space Command under paragraph (1), the Chairman shall submit to the congressional defense committees—
 
   * (A) such assessment as it was submitted to the Chairman; and
 

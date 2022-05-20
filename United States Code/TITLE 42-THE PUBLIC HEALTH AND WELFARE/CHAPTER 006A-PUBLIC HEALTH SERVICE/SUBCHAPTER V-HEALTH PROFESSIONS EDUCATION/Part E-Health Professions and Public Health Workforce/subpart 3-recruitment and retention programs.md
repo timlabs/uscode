@@ -52,7 +52,7 @@
   * (3) demonstrate financial need.
 
 #### (e) Authorization of appropriations
-* There is authorized to be appropriated $30,000,000 for each of fiscal years 2010 through 2014 to carry out subsection (c)(1)(A) and $20,000,000 for each of fiscal years 2010 through 2013 to carry out subsection (c)(1)(B).
+* There is authorized to be appropriated such sums as may be necessary for each of fiscal years 2021 through 2025.
 
 ### §295f–1. Public Health Workforce Loan Repayment Program
 #### (a) Establishment

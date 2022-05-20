@@ -163,3 +163,47 @@
 
 #### (d) Disposition of forfeited property
 * Whenever property is forfeited under this section, the Attorney General of the United States may forward it to the Commission or sell any forfeited property which is not harmful to the public. The proceeds from any such sale shall be deposited in the general fund of the Treasury of the United States.
+
+### §511. Enhanced penalties for pirate radio broadcasting; enforcement sweeps; reporting
+#### (a) Increased general penalty
+* Any person who willfully and knowingly does or causes or suffers to be done any pirate radio broadcasting shall be subject to a fine of not more than $2,000,000.
+
+#### (b) Violation of this chapter, rules, or regulations
+* Any person who willfully and knowingly violates this chapter or any rule, regulation, restriction, or condition made or imposed by the Commission under authority of this chapter, or any rule, regulation, restriction, or condition made or imposed by any international radio or wire communications treaty or convention, or regulations annexed thereto, to which the United States is party, relating to pirate radio broadcasting shall, in addition to any other penalties provided by law, be subject to a fine of not more than $100,000 for each day during which such offense occurs, in accordance with the limit described in subsection (a).
+
+#### (c) Annual report
+* Not later than 1 year after January 24, 2020, and annually thereafter, the Commission shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report summarizing the implementation of this section and associated enforcement activities for the previous fiscal year, which may include the efforts by the Commission to enlist the cooperation of Federal, State, and local law enforcement personnel (including United States attorneys and the United States Marshals Service) for service of process, collection of fines or forfeitures, seizures of equipment, and enforcement of orders.
+
+#### (d) Enforcement sweeps
+* #### (1) Annual sweeps
+  * Not less than once each year, the Commission shall assign appropriate enforcement personnel to focus specific and sustained attention on the elimination of pirate radio broadcasting within the top 5 radio markets identified as prevalent for such broadcasts. Such effort shall include identifying, locating, and taking enforcement actions designed to terminate such operations.
+
+* #### (2) Additional monitoring
+  * Within 6 months after conducting the enforcement sweeps required by paragraph (1), the Commission shall conduct monitoring sweeps to ascertain whether the pirate radio broadcasting identified by enforcement sweeps is continuing to broadcast and whether additional pirate radio broadcasting is occurring.
+
+* #### (3) No effect on remaining enforcement
+  * Notwithstanding paragraph (1), the Commission shall not decrease or diminish the regular enforcement efforts targeted to pirate radio broadcast stations for other times of the year.
+
+#### (e) State and local government authority
+* The Commission may not preempt any State or local law prohibiting pirate radio broadcasting.
+
+#### (f) Revision of commission rules required
+* The Commission shall revise its rules to require that, absent good cause, in any case alleging a violation of subsection (a) or (b), the Commission shall proceed directly to issue a notice of apparent liability without first issuing a notice of unlicensed operation.
+
+#### (g) Pirate radio broadcasting database
+* #### (1) In general
+  * Not later than 90 days after January 24, 2020, and semi-annually thereafter, the Commission shall publish a database in a clear and legible format of all licensed radio stations operating in the AM and FM bands. The database shall be easily accessible from the Commission home page through a direct link. The database shall include the following information:
+
+    * (A) Each licensed station, listed by the assigned frequency, channel number, or Commission call letters.
+
+    * (B) All entities that have received a notice of unlicensed operation, notice of apparent liability, or forfeiture order issued by the Commission.
+
+* #### (2) Clear identification
+  * The Commission shall clearly identify in the database—
+
+    * (A) each licensed station as a station licensed by the Commission; and
+
+    * (B) each entity described in paragraph (1)(B) as operating without a Commission license or authorization.
+
+#### (h) Definition of pirate radio broadcasting
+* In this section, the term "pirate radio broadcasting" means the transmission of communications on spectrum frequencies between 535 and 1705 kilohertz, inclusive, or 87.7 and 108 megahertz, inclusive, without a license issued by the Commission, but does not include unlicensed operations in compliance with part 15 of title 47, Code of Federal Regulations.

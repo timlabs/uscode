@@ -125,7 +125,7 @@
     * (D) If the exporting country does not allow participation of the importing country in a verification described in subparagraph (B), the importing country may take this fact into consideration in its trade enforcement and compliance assessment activities regarding the compliance of the exporting country's exports with the importing country's trade remedy laws.
 
 #### (b) Consideration
-* The Commissioner is authorized to take into consideration whether a country is a signatory to a bilateral agreement described in subsection (a) and the extent to which the country is cooperating under the bilateral agreement for purposes of trade enforcement and compliance assessment activities of U.S. Customs and Border Protection that concern evasion by such country's exports.
+* The Commissioner is authorized to take into consideration whether a country is a signatory to a bilateral agreement described in subsection (a) or a party to the USMCA (as defined in section 4502 of this title) and the extent to which the country is cooperating under the bilateral agreement or the USMCA, as the case may be, for purposes of trade enforcement and compliance assessment activities of U.S. Customs and Border Protection that concern evasion by such country's exports.
 
 #### (c) Report
 * Not later than December 31 of each calendar year beginning after February 24, 2016, the Secretary shall submit to the appropriate congressional committees a report summarizing—

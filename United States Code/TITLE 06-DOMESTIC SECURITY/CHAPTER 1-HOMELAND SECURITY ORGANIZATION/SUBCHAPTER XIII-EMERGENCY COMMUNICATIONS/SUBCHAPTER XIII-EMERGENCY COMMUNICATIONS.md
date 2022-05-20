@@ -4,11 +4,11 @@
 #### (a) In general
 * There is established in the Department an Emergency Communications Division. The Division shall be located in the Cybersecurity and Infrastructure Security Agency.
 
-#### (b) Assistant Director
-* The head of the Division shall be the Assistant Director for Emergency Communications. The Assistant Director shall report to the Director of Cybersecurity and Infrastructure Security. All decisions of the Assistant Director that entail the exercise of significant authority shall be subject to the approval of the Director of Cybersecurity and Infrastructure Security.
+#### (b) Executive Assistant Director
+* The head of the Division shall be the Executive Assistant Director for Emergency Communications (in this section referred to as the "Executive Assistant Director"). The Executive Assistant Director shall report to the Director of Cybersecurity and Infrastructure Security. All decisions of the Executive Assistant Director that entail the exercise of significant authority shall be subject to the approval of the Director of Cybersecurity and Infrastructure Security.
 
 #### (c) Responsibilities
-* The Assistant Director for Emergency Communications shall—
+* The Executive Assistant Director shall—
 
   * (1) assist the Secretary in developing and implementing the program described in section 194(a)(1) of this title, except as provided in section 195 of this title;
 
@@ -43,7 +43,7 @@
   * (16) fully participate in the mechanisms required under section 652(c)(7) of this title.
 
 #### (d) Performance of previously transferred functions
-* The Secretary shall transfer to, and administer through, the Assistant Director for Emergency Communications the following programs and responsibilities:
+* The Secretary shall transfer to, and administer through, the Executive Assistant Director the following programs and responsibilities:
 
   * (1) The SAFECOM Program, excluding elements related to research, development, testing, and evaluation and standards.
 
@@ -52,7 +52,7 @@
   * (3) The Interoperable Communications Technical Assistance Program.
 
 #### (e) Coordination
-* The Assistant Director for Emergency Communications shall coordinate—
+* The Executive Assistant Director shall coordinate—
 
   * (1) as appropriate, with the Director of the Office for Interoperability and Compatibility with respect to the responsibilities described in section 195 of this title; and
 
@@ -64,6 +64,9 @@
 
 * #### (2) Comptroller General review
   * The Comptroller General shall review the validity of the report submitted by the Secretary under paragraph (1). Not later than 60 days after the date on which such report is submitted, the Comptroller General shall submit to Congress a report containing the findings of such review.
+
+#### (g) Reference
+* Any reference to the Assistant Director for Emergency Communications in any law, regulation, map, document, record, or other paper of the United States shall be deemed to be a reference to the Executive Assistant Director for Emergency Communications.
 
 ### §572. National Emergency Communications Plan
 #### (a) In general

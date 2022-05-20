@@ -117,7 +117,7 @@
 
 * (g) Except as provided in subsection (c), a judge or magistrate judge recalled under this section who retired under the applicable provisions of title 5 shall be considered to be a reemployed annuitant under chapter 83 or chapter 84, as the case may be, of title 5.
 
-* (h) The Judicial Conference of the United States may promulgate regulations to implement this section.
+* (h) The Judicial Conference of the United States shall promulgate regulations to implement this section.
 
 ### §376. Annuities for survivors of certain judicial officials of the United States
 * (a) For the purposes of this section—

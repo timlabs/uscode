@@ -533,20 +533,20 @@
 ### §710. Sexual risk avoidance education
 #### (a) In general
 * #### (1) Allotments to States
-  * For the purpose described in subsection (b), the Secretary shall, for each of fiscal years 2018 and 2019 and for the period beginning October 1, 2019, and ending May 22, 2020, allot to each State which has transmitted an application for the fiscal year (or, with respect to such period, for fiscal year 2020) under section 705(a) of this title an amount equal to the product of—
+  * For the purpose described in subsection (b), the Secretary shall, for each of fiscal years 2018 through 2023, allot to each State which has transmitted an application for the fiscal year under section 705(a) of this title an amount equal to the product of—
 
-    * (A) the amount appropriated pursuant to subsection (f)(1) for the fiscal year or period, minus the amount reserved under subsection (f)(2) for the fiscal year or period; and
+    * (A) the amount appropriated pursuant to subsection (f)(1) for the fiscal year, minus the amount reserved under subsection (f)(2) for the fiscal year; and
 
     * (B) the proportion that the number of low-income children in the State bears to the total of such numbers of children for all the States.
 
 * #### (2) Other allotments
   * #### (A) Other entities
-    * For the purpose described in subsection (b), the Secretary shall, for each of fiscal years 2018 and 2019 and for the period beginning October 1, 2019, and ending May 22, 2020, for any State which has not transmitted an application for the fiscal year (or, with respect to such period, for fiscal year 2020) under section 705(a) of this title, allot to one or more entities in the State the amount that would have been allotted to the State under paragraph (1) if the State had submitted such an application.
+    * For the purpose described in subsection (b), the Secretary shall, for each of fiscal years 2018 through 2023, for any State which has not transmitted an application for the fiscal year under section 705(a) of this title, allot to one or more entities in the State the amount that would have been allotted to the State under paragraph (1) if the State had submitted such an application.
 
   * #### (B) Process
     * The Secretary shall select the recipients of allotments under subparagraph (A) by means of a competitive grant process under which—
 
-      * (i) not later than 30 days after the deadline for the State involved to submit an application for the fiscal year (or, with respect to such period, for fiscal year 2020) under section 705(a) of this title, the Secretary publishes a notice soliciting grant applications; and
+      * (i) not later than 30 days after the deadline for the State involved to submit an application for the fiscal year under section 705(a) of this title, the Secretary publishes a notice soliciting grant applications; and
 
       * (ii) not later than 120 days after such deadline, all such applications must be submitted.
 
@@ -648,10 +648,10 @@
 
 #### (f) Funding
 * #### (1) In general
-  * To carry out this section, there is appropriated, out of any money in the Treasury not otherwise appropriated, $75,000,000 for each of fiscal years 2018 and 2019 and $48,287,671 for the period beginning October 1, 2019, and ending May 22, 2020.
+  * To carry out this section, there is appropriated, out of any money in the Treasury not otherwise appropriated, $75,000,000 for each of fiscal years 2018 through 2023.
 
 * #### (2) Reservation
-  * The Secretary shall reserve, for each of fiscal years 2018 and 2019 and for the period described in paragraph (1), not more than 20 percent of the amount appropriated pursuant to paragraph (1) for administering the program under this section, including the conducting of national evaluations and the provision of technical assistance to the recipients of allotments.
+  * The Secretary shall reserve, for each of fiscal years 2018 through 2023, not more than 20 percent of the amount appropriated pursuant to paragraph (1) for administering the program under this section, including the conducting of national evaluations and the provision of technical assistance to the recipients of allotments.
 
 ### §711. Maternal, infant, and early childhood home visiting programs
 #### (a) Purposes
@@ -957,6 +957,44 @@
 
     * (C) recommendations for such legislative or administrative action as the Secretary determines appropriate.
 
+* #### (5) Data exchange standards for improved interoperability
+  * #### (A) Designation and use of data exchange standards
+    * #### (i) Designation
+      * The head of the department or agency responsible for administering a program funded under this section shall, in consultation with an interagency work group established by the Office of Management and Budget and considering State government perspectives, designate data exchange standards for necessary categories of information that a State agency operating the program is required to electronically exchange with another State agency under applicable Federal law.
+
+    * #### (ii) Data exchange standards must be nonproprietary and interoperable
+      * The data exchange standards designated under clause (i) shall, to the extent practicable, be nonproprietary and interoperable.
+
+    * #### (iii) Other requirements
+      * In designating data exchange standards under this paragraph, the Secretary shall, to the extent practicable, incorporate—
+
+        * (I) interoperable standards developed and maintained by an international voluntary consensus standards body, as defined by the Office of Management and Budget;
+
+        * (II) interoperable standards developed and maintained by intergovernmental partnerships, such as the National Information Exchange Model; and
+
+        * (III) interoperable standards developed and maintained by Federal entities with authority over contracting and financial assistance.
+
+  * #### (B) Data exchange standards for Federal reporting
+    * #### (i) Designation
+      * The head of the department or agency responsible for administering a program referred to in this section shall, in consultation with an interagency work group established by the Office of Management and Budget, and considering State government perspectives, designate data exchange standards to govern Federal reporting and exchange requirements under applicable Federal law.
+
+    * #### (ii) Requirements
+      * The data exchange reporting standards required by clause (i) shall, to the extent practicable—
+
+        * (I) incorporate a widely accepted, nonproprietary, searchable, computer-readable format;
+
+        * (II) be consistent with and implement applicable accounting principles;
+
+        * (III) be implemented in a manner that is cost-effective and improves program efficiency and effectiveness; and
+
+        * (IV) be capable of being continually upgraded as necessary.
+
+    * #### (iii) Incorporation of nonproprietary standards
+      * In designating data exchange standards under this paragraph, the Secretary shall, to the extent practicable, incorporate existing nonproprietary standards, such as the eXtensible Mark up Language.
+
+    * #### (iv) Rule of construction
+      * Nothing in this paragraph shall be construed to require a change to existing data exchange standards for Federal reporting about a program referred to in this section, if the head of the department or agency responsible for administering the program finds the standards to be effective and efficient.
+
 #### (i) Application of other provisions of subchapter
 * #### (1) In general
   * Except as provided in paragraph (2), the other provisions of this subchapter shall not apply to a grant made under this section.
@@ -1115,22 +1153,22 @@
 #### (a) Allotments to States
 * #### (1) Amount
   * #### (A) In general
-    * For the purpose described in subsection (b), subject to the succeeding provisions of this section, for each of fiscal years 2010 through 2019 and for the period beginning October 1, 2019, and ending May 22, 2020, the Secretary shall allot to each State an amount equal to the product of—
+    * For the purpose described in subsection (b), subject to the succeeding provisions of this section, for each of fiscal years 2010 through 2023, the Secretary shall allot to each State an amount equal to the product of—
 
-      * (i) the amount appropriated under subsection (f) for the fiscal year or period and available for allotments to States after the application of subsection (c); and
+      * (i) the amount appropriated under subsection (f) for the fiscal year and available for allotments to States after the application of subsection (c); and
 
       * (ii) the State youth population percentage determined under paragraph (2).
 
   * #### (B) Minimum allotment
     * #### (i) In general
-      * Each State allotment under this paragraph for a fiscal year shall be at least $250,000. The previous sentence shall not apply with respect to State allotments under this paragraph for the period beginning October 1, 2019, and ending May 22, 2020.
+      * Each State allotment under this paragraph for a fiscal year shall be at least $250,000.
 
     * #### (ii) Pro rata adjustments
       * The Secretary shall adjust on a pro rata basis the amount of the State allotments determined under this paragraph for a fiscal year to the extent necessary to comply with clause (i).
 
   * #### (C) Application required to access allotments
     * #### (i) In general
-      * A State shall not be paid from its allotment for a fiscal year or the period described in subparagraph (A) unless the State submits an application to the Secretary for the fiscal year or period and the Secretary approves the application (or requires changes to the application that the State satisfies) and meets such additional requirements as the Secretary may specify.
+      * A State shall not be paid from its allotment for a fiscal year unless the State submits an application to the Secretary for the fiscal year and the Secretary approves the application (or requires changes to the application that the State satisfies) and meets such additional requirements as the Secretary may specify.
 
     * #### (ii) Requirements
       * The State application shall contain an assurance that the State has complied with the requirements of this section in preparing and submitting the application and shall include the following as well as such additional information as the Secretary may require:
@@ -1153,11 +1191,11 @@
     * The number of individuals described in clauses (i) and (ii) of subparagraph (A) in a State shall be determined on the basis of the most recent Bureau of the Census data.
 
 * #### (3) Availability of State allotments
-  * Subject to paragraph (4)(A), amounts allotted to a State pursuant to this subsection for a fiscal year or the period described in paragraph (1)(A) shall remain available for expenditure by the State through the end of the second succeeding fiscal year the end of the second fiscal year following such fiscal year or period.
+  * Subject to paragraph (4)(A), amounts allotted to a State pursuant to this subsection for a fiscal year shall remain available for expenditure by the State through the end of the second fiscal year following such fiscal year.
 
 * #### (4) Authority to award grants from State allotments to local organizations and entities in nonparticipating States
   * #### (A) Grants from unexpended allotments
-    * If a State does not submit an application under this section for fiscal year 2010 or 2011, the State shall no longer be eligible to submit an application to receive funds from the amounts allotted for the State for each of fiscal years 2010 through 2019 and for the period described in paragraph (1)(A) and such amounts shall be used by the Secretary to award grants under this paragraph for each of fiscal years 2012 through 2019 and for the period so described. The Secretary also shall use any amounts from the allotments of States that submit applications under this section for a fiscal year or the period so described that remain unexpended as of the end of the period in which the allotments are available for expenditure under paragraph (3) for awarding grants under this paragraph.
+    * If a State does not submit an application under this section for fiscal year 2010 or 2011, the State shall no longer be eligible to submit an application to receive funds from the amounts allotted for the State for each of fiscal years 2010 through 2023and such amounts shall be used by the Secretary to award grants under this paragraph for each of fiscal years 2012 through 2023. The Secretary also shall use any amounts from the allotments of States that submit applications under this section for a fiscal year that remain unexpended as of the end of the period in which the allotments are available for expenditure under paragraph (3) for awarding grants under this paragraph.
 
   * #### (B) Competitive prep grants
     * #### (i) In general
@@ -1219,10 +1257,10 @@
 
 #### (c) Reservations of funds
 * #### (1) Grants to implement innovative strategies
-  * Subject to paragraph (3), from the amount appropriated under subsection (f) for the fiscal year, the Secretary shall reserve $10,000,000 of such amount for purposes of awarding grants to entities to implement innovative youth pregnancy prevention strategies and target services to high-risk, vulnerable, and culturally under-represented youth populations, including youth in foster care, homeless youth, youth with HIV/AIDS, victims of human trafficking, pregnant women who are under 21 years of age and their partners, mothers who are under 21 years of age and their partners, and youth residing in areas with high birth rates for youth. An entity awarded a grant under this paragraph shall agree to participate in a rigorous Federal evaluation of the activities carried out with grant funds.
+  * From the amount appropriated under subsection (f) for the fiscal year, the Secretary shall reserve $10,000,000 of such amount for purposes of awarding grants to entities to implement innovative youth pregnancy prevention strategies and target services to high-risk, vulnerable, and culturally under-represented youth populations, including youth in foster care, homeless youth, youth with HIV/AIDS, victims of human trafficking, pregnant women who are under 21 years of age and their partners, mothers who are under 21 years of age and their partners, and youth residing in areas with high birth rates for youth. An entity awarded a grant under this paragraph shall agree to participate in a rigorous Federal evaluation of the activities carried out with grant funds.
 
 * #### (2) Other reservations
-  * Subject to paragraph (3), from the amount appropriated under subsection (f) for the fiscal year that remains after the application of paragraph (1), the Secretary shall reserve the following amounts:
+  * From the amount appropriated under subsection (f) for the fiscal year that remains after the application of paragraph (1), the Secretary shall reserve the following amounts:
 
   * #### (A) Grants for Indian tribes or tribal organizations
     * The Secretary shall reserve 5 percent of such remainder for purposes of awarding grants to Indian tribes and tribal organizations in such manner, and subject to such requirements, as the Secretary, in consultation with Indian tribes and tribal organizations, determines appropriate.
@@ -1236,9 +1274,6 @@
 
     * #### (iii) Evaluation
       * The Secretary shall evaluate the programs and activities carried out with funds made available through allotments or grants under this section.
-
-* #### (3) Exception
-  * Paragraphs (1) and (2) shall not apply with respect to any amount appropriated under subsection (f) for the period described in subsection (a)(1)(A).
 
 #### (d) Administration
 * #### (1) In general
@@ -1283,4 +1318,4 @@
   * The term "youth" means an individual who has attained age 10 but has not attained age 20.
 
 #### (f) Appropriation
-* For the purpose of carrying out this section, there is appropriated, out of any money in the Treasury not otherwise appropriated, $75,000,000 for each of fiscal years 2010 through 2019 and $48,287,671 for the period beginning October 1, 2019, and ending May 22, 2020. Amounts appropriated under this subsection shall remain available until expended.
+* For the purpose of carrying out this section, there is appropriated, out of any money in the Treasury not otherwise appropriated, $75,000,000 for each of fiscal years 2010 through 2023. Amounts appropriated under this subsection shall remain available until expended.

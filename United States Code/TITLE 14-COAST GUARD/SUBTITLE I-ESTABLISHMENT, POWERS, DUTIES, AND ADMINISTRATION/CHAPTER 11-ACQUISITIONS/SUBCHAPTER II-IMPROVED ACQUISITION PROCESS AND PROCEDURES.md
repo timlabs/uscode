@@ -246,6 +246,13 @@
 
   * (4) the management structure for the acquisition program is adequate to manage and control performance, cost, and schedule.
 
+
+* (d) NOTICE TO CONGRESS WITH RESPECT TO BREACH OF CONTRACT.—Not later than 48 hours after the Commandant becomes aware that a major acquisition contract cannot be carried out under the terms specified in the contract, the Commandant shall provide a written notification to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives that includes—
+
+  * (1) a description of the terms of the contract that cannot be met; and
+
+  * (2) an assessment of whether the applicable contract officer has issued a cease and desist order to the contractor based on the breach of such terms of the contract.
+
 ### §1136. Acquisition approval authority
 * Nothing in this subchapter shall be construed as altering or diminishing in any way the statutory authority and responsibility of the Secretary of the department in which the Coast Guard is operating, or the Secretary's designee, to—
 
@@ -254,7 +261,7 @@
   * (2) manage department acquisition activities and act as the Acquisition Decision Authority with regard to the review or approval of a Coast Guard Level 1 or Level 2 acquisition project or program, as required by section 16 of the Office of Federal Procurement Policy Act (41 U.S.C. 414) and related implementing regulations and directives.
 
 ### §1137. Contracting for major acquisitions programs
-* (a) IN GENERAL.—In carrying out authorities provided to the Secretary to design, construct, accept, or otherwise acquire assets and systems under section 501(d), the Secretary, acting through the Commandant or the head of an integrated program office established for a major acquisition program, may enter into contracts for a major acquisition program.
+* (a) IN GENERAL.—In carrying out authorities provided to the Secretary to design, construct, accept, or otherwise acquire assets and systems under section 501(d), the Secretary, acting through the Commandant or the head of an integrated program office established for a major acquisition program, may enter into contracts for a major acquisition program and 3 Polar Security Cutters in addition to those approved as part of a major acquisition program on November 1, 2019.
 
 * (b) AUTHORIZED METHODS.—Contracts entered into under subsection (a)—
 

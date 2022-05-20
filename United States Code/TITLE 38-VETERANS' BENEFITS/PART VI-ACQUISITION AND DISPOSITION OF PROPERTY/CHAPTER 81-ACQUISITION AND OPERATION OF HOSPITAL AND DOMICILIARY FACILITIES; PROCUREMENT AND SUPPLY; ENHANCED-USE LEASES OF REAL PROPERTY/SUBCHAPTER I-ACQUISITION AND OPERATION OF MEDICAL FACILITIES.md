@@ -617,7 +617,7 @@
 
 * (4) The Secretary may enter into partnerships or agreements with public or private entities dedicated to historic preservation to facilitate the transfer, leasing, or adaptive use of structures or properties specified in subsection (b)(3)(D).
 
-* (5) The authority of the Secretary under paragraph (1) expires on September 30, 2020.
+* (5) The authority of the Secretary under paragraph (1) expires on September 30, 2022.
 
 * (b)(1) There is established in the Treasury of the United States a revolving fund to be known as the Department of Veterans Affairs Capital Asset Fund (hereinafter in this section referred to as the "Fund"). Amounts in the Fund shall remain available until expended.
 

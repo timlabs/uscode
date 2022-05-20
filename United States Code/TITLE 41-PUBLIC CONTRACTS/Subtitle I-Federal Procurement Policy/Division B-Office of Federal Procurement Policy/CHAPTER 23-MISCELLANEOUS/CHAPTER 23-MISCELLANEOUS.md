@@ -349,7 +349,13 @@
     * (C) opportunities for any covered person to submit comments pertaining to information about the person for inclusion in the database.
 
 
-  * (3) INFORMATION ON CORPORATIONS.—The information in the database on a person that is a corporation shall, to the extent practicable, include information on any parent, subsidiary, or successor entities to the corporation in a manner designed to give the acquisition officials using the database a comprehensive understanding of the performance and integrity of the corporation in carrying out Federal contracts and grants.
+  * (3) INFORMATION ON CORPORATIONS.—The information in the database on a person that is a corporation shall, to the extent practicable, include information on any parent, subsidiary, or successor entities to the corporation, and an identification of any beneficial owner of such corporation, in a manner designed to give the acquisition officials using the database a comprehensive understanding of the performance and integrity of the corporation in carrying out Federal contracts and grants.
+
+  * (4) DEFINITIONS.—In this subsection:
+
+    * (A) BENEFICIAL OWNERSHIP.—The term "beneficial ownership" has the meaning given under section 847 of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; 133 Stat. 1505; 10 U.S.C. 2509 note).
+
+    * (B) CORPORATION.—The term "corporation" means any corporation, company, limited liability company, limited partnership, business trust, business association, or other similar entity.
 
 
 * (e) USE OF DATABASE.—

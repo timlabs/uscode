@@ -71,7 +71,7 @@
 
   * (B) in the case of a person not an employee of the Department of Defense, the person shall enter into a written agreement to accept and continue employment for the period of obligated service determined under paragraph (2)—
 
-    * (i) with the Department; or
+    * (i) with the Department, including by serving on active duty in the Armed Forces; or
 
     * (ii) with a public or private entity or organization outside of the Department if the Secretary—
 
@@ -86,9 +86,11 @@
 
 * (d) EMPLOYMENT OF PROGRAM PARTICIPANTS.—The Secretary of Defense—
 
-  * (1) may, without regard to any provision of title 5 governing appointment of employees to competitive service positions within the Department of Defense, appoint to a position in the Department of Defense in the excepted service an individual who has successfully completed an academic program for which a scholarship or fellowship under this section was awarded and who, under the terms of the agreement for such scholarship or fellowship, at the time of such appointment, owes a service commitment to the Department; and
+  * (1) may, without regard to any provision of title 5 governing appointment of employees to competitive service positions within the Department of Defense, appoint to a position in the Department of Defense in the excepted service an individual who has successfully completed an academic program for which a scholarship or fellowship under this section was awarded and who, under the terms of the agreement for such scholarship or fellowship, at the time of such appointment, owes a service commitment to the Department;
 
-  * (2) may, upon satisfactory completion of 2 years of substantially continuous service by an incumbent who was appointed to an excepted service position under the authority of paragraph (1), convert the appointment of such individual, without competition, to a career or career conditional appointment.
+  * (2) may, upon satisfactory completion of 2 years of substantially continuous service by an incumbent who was appointed to an excepted service position under the authority of paragraph (1), convert the appointment of such individual, without competition, to a career or career conditional appointment; and
+
+  * (3) may establish arrangements so that participants may participate in a paid internship for an appropriate period with an industry sponsor.
 
 
 * (e) REFUND FOR PERIOD OF UNSERVED OBLIGATED SERVICE.—(1)(A) A participant in the program under this section who is not an employee of the Department of Defense and who voluntarily fails to complete the educational program for which financial assistance has been provided under this section, or fails to maintain satisfactory academic progress as determined in accordance with regulations prescribed by the Secretary of Defense, shall refund to the United States an appropriate amount, as determined by the Secretary.
@@ -112,7 +114,9 @@
 
 * (4) A discharge in bankruptcy under title 11 that is entered less than five years after the termination of an agreement under this section does not discharge the person signing such agreement from a debt arising under such agreement or under this subsection.
 
-* (f) RELATIONSHIP TO OTHER PROGRAMS.—The Secretary of Defense shall coordinate the provision of financial assistance under the authority of this section with the provision of financial assistance under the other authorities provided in this chapter in order to maximize the benefits derived by the Department of Defense from the exercise of all such authorities.
+* (f) RELATIONSHIP TO OTHER PROGRAMS.—(1) The Secretary of Defense shall coordinate the provision of financial assistance under the authority of this section with the provision of financial assistance under the other authorities provided in this chapter in order to maximize the benefits derived by the Department of Defense from the exercise of all such authorities.
+
+* (2) The Secretary of Defense shall seek to enter into partnerships with minority institutions of higher education and appropriate public and private sector organizations to diversify the participants in the program under subsection (a).
 
 * (g) LIMITATION ON PARTICIPATION.—(1) The Secretary may not award scholarships or fellowships under this section to more than five individuals described in paragraph (2) per year.
 
@@ -181,10 +185,10 @@
 ### §2193a. Improvement of education in technical fields: general authority for support of elementary and secondary education in science and mathematics
 * The Secretary of Defense, in coordination with the Secretary of Education, may establish programs for the purpose of improving the mathematics and scientific knowledge and skills of elementary and secondary school students and faculty members.
 
-### §2193b. Improvement of education in technical fields: program for support of elementary and secondary education in science, mathematics, and technology
-* (a) AUTHORITY FOR PROGRAM.—The Secretary of Defense may conduct a science, mathematics, and technology education improvement program known as the "Department of Defense STARBASE Program". The Secretary shall carry out the program in coordination with the Secretaries of the military departments and the Secretary of the Department in which the Coast Guard is operating.
+### §2193b. Improvement of education in technical fields: program for support of elementary and secondary education in science, technology, engineering, art and design, and mathematics
+* (a) AUTHORITY FOR PROGRAM.—The Secretary of Defense may conduct a science, technology, engineering, art and design, and mathematics education improvement program known as the "Department of Defense STARBASE Program". The Secretary shall carry out the program in coordination with the Secretaries of the military departments and the Secretary of the Department in which the Coast Guard is operating.
 
-* (b) PURPOSE.—The purpose of the program is to improve knowledge and skills of students in kindergarten through twelfth grade in mathematics, science, and technology.
+* (b) PURPOSE.—The purpose of the program is to improve knowledge and skills of students in kindergarten through twelfth grade in science, technology, engineering, art and design, and mathematics.
 
 * (c) STARBASE ACADEMIES.—(1) The Secretary shall provide for the establishment of at least 25 academies under the program.
 
@@ -204,7 +208,7 @@
 
 * (g) ANNUAL REPORT.—Not later than March 31 of each year, the Secretary of Defense shall submit to Congress a report on the program under this section. The report shall contain a discussion of the design and conduct of the program and an evaluation of the effectiveness of the program.
 
-* (h) STATE DEFINED.—In this section, the term "State" includes the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, and Guam.
+* (h) STATE DEFINED.—In this section, the term "State" includes the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, the Commonwealth of the Northern Mariana Islands, American Samoa, and Guam.
 
 ### §2194. Education partnerships
 * (a) The Secretary of Defense shall authorize the director of each defense laboratory to enter into one or more education partnership agreements with educational institutions in the United States for the purpose of encouraging and enhancing study in scientific disciplines at all levels of education. The educational institutions referred to in the preceding sentence are local educational agency, colleges, universities, and any other nonprofit institutions that are dedicated to improving science, mathematics, business, law, technology transfer or transition and engineering education.

@@ -429,9 +429,11 @@
 
   * (12) paying expenses directly related to administration of the grant, except that such expenses may not exceed 3 percent of the amount of the grant;
 
-  * (13) any activity permitted under the Fiscal Year 2007 Program Guidance of the Department for the State Homeland Security Grant Program, the Urban Area Security Initiative (including activities permitted under the full-time counterterrorism staffing pilot), or the Law Enforcement Terrorism Prevention Program; and
+  * (13) any activity permitted under the Fiscal Year 2007 Program Guidance of the Department for the State Homeland Security Grant Program, the Urban Area Security Initiative (including activities permitted under the full-time counterterrorism staffing pilot), or the Law Enforcement Terrorism Prevention Program;
 
-  * (14) any other appropriate activity, as determined by the Administrator.
+  * (14) migrating any online service (as defined in section 3 of the DOTGOV Online Trust in Government Act of 2020) to the .gov internet domain; and
+
+  * (15) any other appropriate activity, as determined by the Administrator.
 
 #### (b) Limitations on use of funds
 * #### (1) In general

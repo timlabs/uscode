@@ -79,7 +79,7 @@
 
 * (c) In determining a member's years of active service for the purpose of computing separation pay under this section, each full month of service that is in addition to the number of full years of service creditable to the member is counted as one-twelfth of a year and any remaining fractional part of a month is disregarded.
 
-* (d) The acceptance of separation pay under this section does not deprive a person of any retirement benefits from the United States. However, there shall be deducted from each of his retirement payments so much thereof as is based on the service for which he has received separation pay under this section, until the total deductions equal the amount of such separation pay.
+* (d) The acceptance of separation pay under this section does not deprive an individual of any retirement benefits from the United States. However, there shall be deducted from each of his retirement payments so much thereof as is based on the service for which he has received separation pay under this section, until the total deductions equal the amount of such separation pay.
 
 ### §2148. Separation for failure of selection for promotion or continuation; time of
 * If, under section 2142, 2143, 2144, 2145, 2150, or 2151 of this title, the discharge or retirement of any officer would be required less than six months following approval of the report of the board which considered but did not select him for promotion or continuation, the discharge or retirement of such officer shall be deferred until the last day of the sixth calendar month after such approval.
@@ -100,7 +100,7 @@
 
 * (e) The Secretary shall prescribe by regulation the detailed procedures whereby officers in a continuation zone will be selected for continuation on active duty.
 
-* (f) A board convened under this section shall submit its report to the Secretary. If the board has acted contrary to law or regulation, the Secretary may return the report for proceedings in revision and resubmission to the Secretary. After his final review the Secretary shall submit the report of the board to the President for his approval. Except as required by the procedures of this section, the proceedings of the board shall not be disclosed to any person not a member of the board.
+* (f) A board convened under this section shall submit its report to the Secretary. If the board has acted contrary to law or regulation, the Secretary may return the report for proceedings in revision and resubmission to the Secretary. After his final review the Secretary shall submit the report of the board to the President for his approval. Except as required by the procedures of this section, the proceedings of the board shall not be disclosed to any individual who is not a member of the board.
 
 * (g) Each officer who is considered but not recommended for continuation on active duty under the provisions of this section shall, unless retired under some other provision of law, be retired on June 30 of the promotion year in which the report of the continuation board convened under this section is approved, or the last day of the month in which he completes twenty years of active service, whichever is later.
 
@@ -126,7 +126,7 @@
 * (2) The Commandant, with the approval of the Secretary, may by annual action retain on active duty from promotion year to promotion year any officer who would otherwise be retired under paragraph (1). Unless selected for or serving in the grade of admiral or retired under another provision of law, an officer so retained shall be retired on July 1 of the promotion year immediately following the promotion year in which no action is taken to further retain that officer under this paragraph.
 
 ### §2152. Voluntary retirement after twenty years' service
-* Any regular commissioned officer who has completed twenty years' active service in the Coast Guard, Navy, Army, Air Force, or Marine Corps, or the Reserve components thereof, including active duty for training, at least ten years of which shall have been active commissioned service, may, upon his own application, in the discretion of the President, be retired from active service.
+* Any regular commissioned officer who has completed twenty years' active service in the Coast Guard, Navy, Army, Air Force, Marine Corps, or Space Force, or the Reserve components thereof, including active duty for training, at least ten years of which shall have been active commissioned service, may, upon his own application, in the discretion of the President, be retired from active service.
 
 ### §2153. Voluntary retirement after thirty years' service
 * Any regular commissioned officer who has completed thirty years' service may, upon his own application, in the discretion of the Secretary, be retired from active service.
@@ -183,7 +183,7 @@
 ### §2161. Composition of boards
 * (a) A board convened under section 2158, 2159, or 2160 of this title shall consist of at least three officers of the grade of commander or above, all of whom are serving in a grade senior to the grade of any officer considered by the board.
 
-* (b) No person may be a member of more than one board convened under section 2158, 2159, or 2160 of this title to consider the same officer.
+* (b) No individual may be a member of more than one board convened under section 2158, 2159, or 2160 of this title to consider the same officer.
 
 ### §2162. Rights and procedures
 * Each officer under consideration for removal under section 2159 of this title shall be—

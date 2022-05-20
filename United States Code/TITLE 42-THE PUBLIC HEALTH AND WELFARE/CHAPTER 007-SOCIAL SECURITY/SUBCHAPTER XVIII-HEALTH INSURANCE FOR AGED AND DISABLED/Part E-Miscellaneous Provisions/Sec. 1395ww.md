@@ -737,6 +737,12 @@
 
 * (iii) Any such adjustment under clause (i) for discharges in a fiscal year (beginning with fiscal year 1991) or payments under paragraph (5)(M) (beginning with fiscal year 2021) shall be made in a manner that assures that the aggregate payments under this subsection for discharges in the fiscal year are not greater or less than those that would have been made for discharges in the year without such adjustment or payments under paragraph (5)(M).
 
+* (iv)(I) For discharges occurring during the emergency period described in section 1320b–5(g)(1)(B) of this title, in the case of a discharge of an individual diagnosed with COVID–19, the Secretary shall increase the weighting factor that would otherwise apply to the diagnosis-related group to which the discharge is assigned by 20 percent. The Secretary shall identify a discharge of such an individual through the use of diagnosis codes, condition codes, or other such means as may be necessary.
+
+* (II) Any adjustment under subclause (I) shall not be taken into account in applying budget neutrality under clause (iii)
+
+* (III) In the case of a State for which the Secretary has waived all or part of this section under the authority of section 1315a of this title, nothing in this section shall preclude such State from implementing an adjustment similar to the adjustment under subclause (I).
+
 * (D)(i) For discharges occurring on or after October 1, 2008, the diagnosis-related group to be assigned under this paragraph for a discharge described in clause (ii) shall be a diagnosis-related group that does not result in higher payment based on the presence of a secondary diagnosis code described in clause (iv).
 
 * (ii) A discharge described in this clause is a discharge which meets the following requirements:
@@ -821,7 +827,7 @@
 
   * (II) Effective for discharges occurring on or after July 1, 2010, all the time spent by an intern or resident in patient care activities in a nonprovider setting shall be counted towards the determination of full-time equivalency if a hospital incurs the costs of the stipends and fringe benefits of the intern or resident during the time the intern or resident spends in that setting. If more than one hospital incurs these costs, either directly or through a third party, such hospitals shall count a proportional share of the time, as determined by written agreement between the hospitals, that a resident spends training in that setting.
 
-  * (v) In determining the adjustment with respect to a hospital for discharges occurring on or after October 1, 1997, the total number of full-time equivalent interns and residents in the fields of allopathic and osteopathic medicine in either a hospital or nonhospital setting may not exceed the number (or, 130 percent of such number in the case of a hospital located in a rural area) of such full-time equivalent interns and residents in the hospital with respect to the hospital's most recent cost reporting period ending on or before December 31, 1996. Rules similar to the rules of subsection (h)(4)(F)(ii) shall apply for purposes of this clause. The provisions of subsections (h)(4)(H)(vi), (h)(7), and (h)(8) shall apply with respect to the first sentence of this clause in the same manner as they apply with respect to subsection (h)(4)(F)(i).
+  * (v) In determining the adjustment with respect to a hospital for discharges occurring on or after October 1, 1997, the total number of full-time equivalent interns and residents in the fields of allopathic and osteopathic medicine in either a hospital or nonhospital setting may not exceed the number (or, 130 percent of such number in the case of a hospital located in a rural area) of such full-time equivalent interns and residents in the hospital with respect to the hospital's most recent cost reporting period ending on or before December 31, 1996. Rules similar to the rules of subsection (h)(4)(F)(ii) shall apply for purposes of this clause. The provisions of subsections (h)(4)(H)(vi), (h)(7), (h)(8), and (h)(9) shall apply with respect to the first sentence of this clause in the same manner as they apply with respect to subsection (h)(4)(F)(i).
 
   * (vi) For purposes of clause (ii)—
 
@@ -834,13 +840,13 @@
 
   * (vii) If any cost reporting period beginning on or after October 1, 1997, is not equal to twelve months, the Secretary shall make appropriate modifications to ensure that the average full-time equivalent residency count pursuant to subclause (II) of clause (vi) is based on the equivalent of full twelve-month cost reporting periods.
 
-  * (viii) Rules similar to the rules of subsection (h)(4)(H) shall apply for purposes of clauses (v) and (vi).
+  * (viii) Rules similar to the rules of paragraphs (2)(F)(iv) and (4)(H) of subsection (h) shall apply for purposes of clauses (v) and (vi).
 
   * (ix) For discharges occurring on or after July 1, 2005, insofar as an additional payment amount under this subparagraph is attributable to resident positions redistributed to a hospital under subsection (h)(7)(B), in computing the indirect teaching adjustment factor under clause (ii) the adjustment shall be computed in a manner as if "c" were equal to 0.66 with respect to such resident positions.
 
-  * (x) For discharges occurring on or after July 1, 2011, insofar as an additional payment amount under this subparagraph is attributable to resident positions distributed to a hospital under subsection (h)(8)(B), the indirect teaching adjustment factor shall be computed in the same manner as provided under clause (ii) with respect to such resident positions.
+  * (x)For discharges occurring on or after July 1, 2011, insofar as an additional payment amount under this subparagraph is attributable to resident positions distributed to a hospital under subsection (h)(8)(B), the indirect teaching adjustment factor shall be computed in the same manner as provided under clause (ii) with respect to such resident positions.
 
-  * (x)(I) The provisions of subparagraph (K) of subsection (h)(4) shall apply under this subparagraph in the same manner as they apply under such subsection.
+  * (xi)(I) The provisions of subparagraph (K) of subsection (h)(4) shall apply under this subparagraph in the same manner as they apply under such subsection.
 
   * (II) In determining the hospital's number of full-time equivalent residents for purposes of this subparagraph, all the time spent by an intern or resident in an approved medical residency training program in non-patient care activities, such as didactic conferences and seminars, as such time and activities are defined by the Secretary, that occurs in the hospital shall be counted toward the determination of full-time equivalency if the hospital—
 
@@ -854,6 +860,8 @@
 
 
   * (III) In determining the hospital's number of full-time equivalent residents for purposes of this subparagraph, all the time spent by an intern or resident in an approved medical residency training program in research activities that are not associated with the treatment or diagnosis of a particular patient, as such time and activities are defined by the Secretary, shall not be counted toward the determination of full-time equivalency.
+
+  * (xii) For discharges occurring on or after July 1, 2023, insofar as an additional payment amount under this subparagraph is attributable to resident positions distributed to a hospital under subsection (h)(9), the indirect teaching adjustment factor shall be computed in the same manner as provided under clause (ii) with respect to such resident positions.
 
 
 * (C)(i) The Secretary shall provide for such exceptions and adjustments to the payment amounts established under this subsection (other than under paragraph (9)) as the Secretary deems appropriate to take into account the special needs of regional and national referral centers (including those hospitals of 275 or more beds located in rural areas). A hospital which is classified as a rural hospital may appeal to the Secretary to be classified as a rural referral center under this clause on the basis of criteria (established by the Secretary) which shall allow the hospital to demonstrate that it should be so reclassified by reason of certain of its operating characteristics being similar to those of a typical urban hospital located in the same census region and which shall not require a rural osteopathic hospital to have more than 3,000 discharges in a year in order to be classified as a rural referral center. Such characteristics may include wages, scope of services, service area, and the mix of medical specialties. The Secretary shall publish the criteria not later than August 17, 1984, for implementation by October 1, 1984. An appeal allowed under this clause must be submitted to the Secretary (in such form and manner as the Secretary may prescribe) during the quarter before the first quarter of the hospital's cost reporting period (or, in the case of a cost reporting period beginning during October 1984, during the first quarter of that period), and the Secretary must make a final determination with respect to such appeal within 60 days after the date the appeal was submitted. Any payment adjustments necessitated by a reclassification based upon the appeal shall be effective at the beginning of such cost reporting period.
@@ -1633,7 +1641,22 @@
         * (II) each subsequent cost reporting period is equal to the locality adjusted national per resident amount for the hospital for the previous cost reporting period (as determined under this clause) updated, through the midpoint of the period, by projecting the estimated percentage change in the consumer price index for all urban consumers during the 12-month period ending at that midpoint.
 
   * #### (F) Treatment of certain hospitals
-    * In the case of a hospital that did not have an approved medical residency training program or was not participating in the program under this subchapter for a cost reporting period beginning during fiscal year 1984, the Secretary shall, for the first such period for which it has such a residency training program and is participating under this subchapter, provide for such approved FTE resident amount as the Secretary determines to be appropriate, based on approved FTE resident amounts for comparable programs.
+    * (i) In the case of a hospital that did not have an approved medical residency training program or was not participating in the program under this subchapter for a cost reporting period beginning during fiscal year 1984, the Secretary shall, for the first such period for which it has such a residency training program and is participating under this subchapter, provide for such approved FTE resident amount as the Secretary determines to be appropriate, based on approved FTE resident amounts for comparable programs.
+
+    * (ii) In applying this subparagraph in the case of a hospital that trains residents and has not entered into a GME affiliation agreement (as defined by the Secretary for purposes of paragraph (4)(H)(ii)), on or after December 27, 2020, the Secretary shall not establish an FTE resident amount until such time as the Secretary determines that the hospital has trained at least 1.0 full-time-equivalent resident in an approved medical residency training program in a cost reporting period.
+
+    * (iii) In applying this subparagraph for cost reporting periods beginning on or after December 27, 2020, in the case of a hospital that, as of such date, has an approved FTE resident amount based on the training in an approved medical residency program or programs of—
+
+      * (I) less than 1.0 full-time-equivalent resident in any cost reporting period beginning before October 1, 1997, as determined by the Secretary; or
+
+      * (II) no more than 3.0 full-time-equivalent residents in any cost reporting period beginning on or after October 1, 1997, and before December 27, 2020, as determined by the Secretary,
+
+
+  * in lieu of such FTE resident amount the Secretary shall, in accordance with the methodology described in section 413.77(e) of title 42 of the Code of Federal Regulations (or any successor regulation), establish a new FTE resident amount if the hospital trains at least 1.0 full-time-equivalent resident (in the case of a hospital described in subclause (I)) or more than 3.0 full-time-equivalent residents (in the case of a hospital described in subclause (II)) in a cost reporting period beginning on or after such date and before the date that is 5 years after such date.
+
+    * (iv) For purposes of carrying out this subparagraph for cost reporting periods beginning on or after December 27, 2020, a hospital shall report full-time-equivalent residents on its cost report for a cost reporting period if the hospital trains at least 1.0 full-time-equivalent residents in an approved medical residency training program or programs in such period.
+
+    * (v) As appropriate, the Secretary may consider information from any cost reporting period necessary to establish a new FTE resident amount as described in clause (iii).
 
 * #### (3) Hospital payment amount per resident
   * #### (A) In general
@@ -1731,7 +1754,7 @@
 
   * #### (F) Limitation on number of residents in allopathic and osteopathic medicine
     * #### (i) In general
-      * Such rules shall provide that for purposes of a cost reporting period beginning on or after October 1, 1997, subject to paragraphs (7) and (8), the total number of full-time equivalent residents before application of weighting factors (as determined under this paragraph) with respect to a hospital's approved medical residency training program in the fields of allopathic medicine and osteopathic medicine may not exceed the number (or, 130 percent of such number in the case of a hospital located in a rural area) of such full-time equivalent residents for the hospital's most recent cost reporting period ending on or before December 31, 1996.
+      * Such rules shall provide that for purposes of a cost reporting period beginning on or after October 1, 1997, subject to paragraphs (7), (8), and (9), the total number of full-time equivalent residents before application of weighting factors (as determined under this paragraph) with respect to a hospital's approved medical residency training program in the fields of allopathic medicine and osteopathic medicine may not exceed the number (or, 130 percent of such number in the case of a hospital located in a rural area) of such full-time equivalent residents for the hospital's most recent cost reporting period ending on or before December 31, 1996.
 
     * #### (ii) Counting primary care residents on certain approved leaves of absence in base year FTE count
       * #### (I) In general
@@ -1752,7 +1775,15 @@
 
   * #### (H) Special rules for application of subparagraphs (F) and (G)
     * #### (i) New facilities
-      * The Secretary shall, consistent with the principles of subparagraphs (F) and (G) and subject to paragraphs (7) and (8), prescribe rules for the application of such subparagraphs in the case of medical residency training programs established on or after January 1, 1995. In promulgating such rules for purposes of subparagraph (F), the Secretary shall give special consideration to facilities that meet the needs of underserved rural areas.
+      * (I) The Secretary shall, consistent with the principles of subparagraphs (F) and (G) and subject to paragraphs (7), (8), and (9), prescribe rules for the application of such subparagraphs in the case of medical residency training programs established on or after January 1, 1995. In promulgating such rules for purposes of subparagraph (F), the Secretary shall give special consideration to facilities that meet the needs of underserved rural areas.
+
+      * (II) In applying this clause in the case of a hospital that, on or after December 27, 2020, begins training residents in a new approved medical residency training program or programs (as defined by the Secretary), the Secretary shall not determine a limitation applicable to the hospital under subparagraph (F) until such time as the Secretary determines that the hospital has trained at least 1.0 full-time-equivalent resident in such new approved medical residency training program or programs in a cost reporting period.
+
+      * (III) In applying this clause in the case of a hospital that, as of December 27, 2020, has a limitation under subparagraph (F), based on a cost reporting period beginning before October 1, 1997, of less than 1.0 full-time-equivalent resident, the Secretary shall adjust the limitation in the manner applicable to a new approved medical residency training program if the Secretary determines the hospital begins training at least 1.0 full-time-equivalent residents in a program year beginning on or after such date and before the date that is 5 years after such date.
+
+      * (IV) In applying this clause in the case of a hospital that, as of December 27, 2020, has a limitation under subparagraph (F), based on a cost reporting period beginning on or after October 1, 1997, and before such date, of no more than 3.0 full-time-equivalent residents, the Secretary shall adjust the limitation in the manner applicable to a new approved medical residency training program if the Secretary determines the hospital begins training more than 3.0 full-time-equivalent residents in a program year beginning on or after such date and before the date that is 5 years after such date.
+
+      * (V) An adjustment to the limitation applicable to a hospital made pursuant to subclause (III) or (IV) shall be made in a manner consistent with the methodology, as appropriate, in section 413.79(e) of title 42, Code of Federal Regulations (or any successor regulation). As appropriate, the Secretary may consider information from any cost reporting periods necessary to make such an adjustment to the limitation.
 
     * #### (ii) Aggregation
       * The Secretary may prescribe rules which allow institutions which are members of the same affiliated group (as defined by the Secretary) to elect to apply the limitation of subparagraph (F) on an aggregate basis.
@@ -1760,8 +1791,12 @@
     * #### (iii) Data collection
       * The Secretary may require any entity that operates a medical residency training program and to which subparagraphs (F) and (G) apply to submit to the Secretary such additional information as the Secretary considers necessary to carry out such subparagraphs.
 
-    * #### (iv) Nonrural hospitals operating training programs in rural areas
-      * In the case of a hospital that is not located in a rural area but establishes separately accredited approved medical residency training programs (or rural tracks) in an rural area or has an accredited training program with an integrated rural track, the Secretary shall adjust the limitation under subparagraph (F) in an appropriate manner insofar as it applies to such programs in such rural areas in order to encourage the training of physicians in rural areas.
+    * #### (iv) Training programs in rural areas
+      * #### (I) Cost reporting periods beginning before October 1, 2022
+        * For cost reporting periods beginning before October 1, 2022, in the case of a hospital that is not located in a rural area but establishes separately accredited approved medical residency training programs (or rural tracks) in a rural area or has an accredited training program with an integrated rural track, the Secretary shall adjust the limitation under subparagraph (F) in an appropriate manner insofar as it applies to such programs in such rural areas in order to encourage the training of physicians in rural areas.
+
+      * #### (II) Cost reporting periods beginning on or after October 1, 2022
+        * For cost reporting periods beginning on or after October 1, 2022, in the case of a hospital not located in a rural area that established or establishes a medical residency training program (or rural tracks) in a rural area or establishes an accredited program where greater than 50 percent of the program occurs in a rural area, the Secretary shall consistent with the principles of subparagraphs (F) and (G) and subject to paragraphs (7) and (8), prescribe rules for the application of such subparagraphs with respect to such a program and, in accordance with such rules, adjust in an appropriate manner the limitation under subparagraph (F) for such hospital and each such hospital located in a rural area that participates in such a training.
 
     * #### (v) Special provider agreement
       * If an entity enters into a provider agreement pursuant to section 1395cc(a) of this title to provide hospital services on the same physical site previously used by Medicare Provider No. 05–0578—
@@ -2049,7 +2084,7 @@
   * the Secretary shall apply subparagraph (A)(i)(I) using the higher resident reference level and make any necessary adjustments to such reduction. Any such necessary adjustments shall be effective for portions of cost reporting periods occurring on or after July 1, 2005.
 
   * #### (E) Judicial review
-    * There shall be no administrative or judicial review under section 1395ff of this title, 1395oo of this title, or otherwise, with respect to determinations made under this this paragraph, paragraph (8), or paragraph (4)(H)(vi).
+    * There shall be no administrative or judicial review under section 1395ff of this title, 1395oo of this title, or otherwise, with respect to determinations made under this paragraph, paragraph (8), clause (i), (ii), (iii), or (v) of paragraph (2)(F), or clause (i) or (vi) of paragraph (4)(H).
 
 * #### (8) Distribution of additional residency positions
   * #### (A) Reductions in limit based on unused positions
@@ -2138,6 +2173,75 @@
 
   * #### (I) Affiliation
     * The provisions of this paragraph shall be applied to hospitals which are members of the same affiliated group (as defined by the Secretary under paragraph (4)(H)(ii)) and the reference resident level for each such hospital shall be the reference resident level with respect to the cost reporting period that results in the smallest difference between the reference resident level and the otherwise applicable resident limit.
+
+* #### (9) Distribution of additional residency positions
+  * #### (A) Additional residency positions
+    * #### (i) In general
+      * For fiscal year 2023, and for each succeeding fiscal year until the aggregate number of full-time equivalent residency positions distributed under this paragraph is equal to the aggregate number of such positions made available (as specified in clause (ii)(I)), the Secretary shall, subject to the succeeding provisions of this paragraph, increase the otherwise applicable resident limit for each qualifying hospital (as defined in subparagraph (F)) that submits a timely application under this subparagraph by such number as the Secretary may approve effective beginning July 1 of the fiscal year of the increase.
+
+    * #### (ii) Number available for distribution
+      * #### (I) Total number available
+        * The aggregate number of such positions made available under this paragraph shall be equal to 1,000.
+
+      * #### (II) Annual limit
+        * The aggregate number of such positions so made available shall not exceed 200 for a fiscal year.
+
+    * #### (iii) Process for distributing positions
+      * #### (I) Rounds of applications
+        * The Secretary shall initiate a separate round of applications for an increase under clause (i) for each fiscal year for which such an increase is to be provided.
+
+      * #### (II) Timing
+        * The Secretary shall notify hospitals of the number of positions distributed to the hospital under this paragraph as a result of an increase in the otherwise applicable resident limit by January 31 of the fiscal year of the increase. Such increase shall be effective beginning July 1 of such fiscal year.
+
+  * #### (B) Distribution
+    * For purposes of providing an increase in the otherwise applicable resident limit under subparagraph (A), the following shall apply:
+
+    * #### (i) Considerations in distribution
+      * In determining for which qualifying hospitals such an increase is provided under subparagraph (A), the Secretary shall take into account the demonstrated likelihood of the hospital filling the positions made available under this paragraph within the first 5 training years beginning after the date the increase would be effective, as determined by the Secretary.
+
+    * #### (ii) Minimum distribution for certain categories of hospitals
+      * With respect to the aggregate number of such positions available for distribution under this paragraph, the Secretary shall distribute not less than 10 percent of such aggregate number to each of the following categories of hospitals:
+
+        * (I) Hospitals that are located in a rural area (as defined in subsection (d)(2)(D)) or are treated as being located in a rural area pursuant to subsection (d)(8)(E).
+
+        * (II) Hospitals in which the reference resident level of the hospital (as specified in subparagraph (F)(iii)) is greater than the otherwise applicable resident limit.
+
+        * (III) Hospitals in States with—
+
+          * (aa) new medical schools that received "Candidate School" status from the Liaison Committee on Medical Education or that received "Pre-Accreditation" status from the American Osteopathic Association Commission on Osteopathic College Accreditation on or after January 1, 2000, and that have achieved or continue to progress toward "Full Accreditation" status (as such term is defined by the Liaison Committee on Medical Education) or toward "Accreditation" status (as such term is defined by the American Osteopathic Association Commission on Osteopathic College Accreditation); or
+
+          * (bb) additional locations and branch campuses established on or after January 1, 2000, by medical schools with "Full Accreditation" status (as such term is defined by the Liaison Committee on Medical Education) or "Accreditation" status (as such term is defined by the American Osteopathic Association Commission on Osteopathic College Accreditation).
+
+
+        * (IV) Hospitals that serve areas designated as health professional shortage areas under section 254e(a)(1)(A) of this title, as determined by the Secretary.
+
+  * #### (C) Limitations
+    * #### (i) In general
+      * A hospital may not receive more than 25 additional full-time equivalent residency positions under this paragraph.
+
+    * #### (ii) Prohibition on distribution to hospitals without an increase agreement
+      * No increase in the otherwise applicable resident limit of a hospital may be made under this paragraph unless such hospital agrees to increase the total number of full-time equivalent residency positions under the approved medical residency training program of such hospital by the number of such positions made available by such increase under this paragraph.
+
+  * #### (D) Application of per resident amounts for primary care and nonprimary care
+    * With respect to additional residency positions in a hospital attributable to the increase provided under this paragraph, the approved FTE per resident amounts are deemed to be equal to the hospital per resident amounts for primary care and nonprimary care computed under paragraph (2)(D) for that hospital.
+
+  * #### (E) Permitting facilities to apply aggregation rules
+    * The Secretary shall permit hospitals receiving additional residency positions attributable to the increase provided under this paragraph to, beginning in the fifth year after the effective date of such increase, apply such positions to the limitation amount under paragraph (4)(F) that may be aggregated pursuant to paragraph (4)(H) among members of the same affiliated group.
+
+  * #### (F) Definitions
+    * In this paragraph:
+
+    * #### (i) Otherwise applicable resident limit
+      * The term "otherwise applicable resident limit" means, with respect to a hospital, the limit otherwise applicable under subparagraphs (F)(i) and (H) of paragraph (4) on the resident level for the hospital determined without regard to this paragraph but taking into account paragraphs (7)(A), (7)(B), (8)(A), and (8)(B).
+
+    * #### (ii) Qualifying hospital
+      * The term "qualifying hospital" means a hospital described in any of subclauses (I) through (IV) of subparagraph (B)(ii).
+
+    * #### (iii) Reference resident level
+      * The term "reference resident level" means, with respect to a hospital, the resident level for the most recent cost reporting period of the hospital ending on or before December 27, 2020, for which a cost report has been settled (or, if not, submitted (subject to audit)), as determined by the Secretary.
+
+    * #### (iv) Resident level
+      * The term "resident level" has the meaning given such term in paragraph (7)(C)(i).
 
 #### (i) Avoiding duplicative payments to hospitals participating in rural demonstration programs
 * The Secretary shall reduce any payment amounts otherwise determined under this section to the extent necessary to avoid duplication of any payment made under section 4005(e) of the Omnibus Budget Reconciliation Act of 1987.

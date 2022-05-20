@@ -116,7 +116,9 @@
 
 * (3) The total amount of the advance billings rendered or imposed for all working-capital funds of the Department of Defense in a fiscal year may not exceed $1,000,000,000.
 
-* (4) In this subsection:
+* (4) This subsection shall not apply to advance billing for background investigation and related services performed by the Defense Counterintelligence and Security Agency.
+
+* (5) In this subsection:
 
   * (A) The term "advance billing", with respect to a working-capital fund, means a billing of a customer by the fund, or a requirement for a customer to reimburse or otherwise credit the fund, for the cost of goods or services provided (or for other expenses incurred) on behalf of the customer that is rendered or imposed before the customer receives the goods or before the services have been performed.
 
@@ -433,7 +435,7 @@
 
   * (1) The term "defense budget" means the budget of the Department of Defense included in the President's budget submitted to Congress under section 1105 of title 31 for a fiscal year.
 
-  * (2) The term "common procurement weapon system" means a weapon system for which two or more of the Army, Navy, Air Force, and Marine Corps request procurement funds in a defense budget.
+  * (2) The term "common procurement weapon system" means a weapon system for which two or more of the Army, Navy, Air Force, Marine Corps, and Space Force request procurement funds in a defense budget.
 
 ### §2218. National Defense Sealift Fund
 * (a) ESTABLISHMENT.—There is established in the Treasury of the United States a fund to be known as the "National Defense Sealift Fund".
@@ -492,15 +494,15 @@
 
 * (B) If the Secretary determines that no used vessel meeting the requirements under clauses (i) and (ii) of subparagraph (A) is available, the Secretary may purchase a used vessel comparable to a vessel described in clause (i) of subparagraph (A), regardless of the source of the vessel or where the vessel was constructed, if such vessel is available for purchase at a reasonable cost, as determined by the Secretary.
 
-* (C) The Secretary may not use the authority under this paragraph to purchase more than seven foreign constructed vessels.
+* (C) The Secretary may not use the authority under this paragraph to purchase more than nine foreign constructed vessels.
 
 * (D) The Secretary shall ensure that the initial conversion, or modernization of any vessel purchased under the authority of subparagraph (A) occurs in a shipyard located in the United States.
 
-* (E) The Secretary may not use the authority under this paragraph to procure more than two foreign constructed vessels unless the Secretary submits to Congress, by not later than the second week of February of the fiscal year during which the Secretary plans to use such authority, a certification that—
+* (E) The Secretary may not use the authority under this paragraph to procure more than four foreign constructed vessels unless the Secretary submits to Congress, by not later than the second week of February of the fiscal year during which the Secretary plans to use such authority, a certification that—
 
   * (i) the Secretary has initiated an acquisition strategy for the construction in United States shipyards of not less than ten new vessels that are sealift vessels, auxiliary vessels, or a combination of such vessels; and
 
-  * (ii) of such new vessels, the lead ship is anticipated to be delivered by not later than 2026.
+  * (ii) of such new vessels, the lead ship is anticipated to be delivered by not later than 2028.
 
 
 * (F) Not later than 30 days before the purchase of any vessel using the authority under this paragraph, the Secretary, in consultation with the Maritime Administrator, shall submit to the congressional defense committees a report that contains each of the following with respect to such purchase:
@@ -527,7 +529,7 @@
   * (viii) A detailed account of the criteria used to make the determination under subparagraph (B).
 
 
-* (G) The Secretary may not finalize or execute the final purchase of any vessel using the authority under this paragraph until 30 days after the date on which a report under subparagraph (E) is submitted with respect to such purchase.
+* (G) The Secretary may not finalize or execute the final purchase of any vessel using the authority under this paragraph until 30 days after the date on which a report under subparagraph (F) is submitted with respect to such purchase.
 
 * (g) EXPIRATION OF FUNDS AFTER 5 YEARS.—No part of an appropriation that is deposited in the National Defense Sealift Fund pursuant to subsection (d)(1) shall remain available for obligation more than five years after the end of fiscal year for which appropriated except to the extent specifically provided by law.
 
@@ -615,7 +617,12 @@
 
 * (2) A contract entered into under paragraph (1) shall provide that any obligation of the United States to make a payment under the contract is subject to the availability of appropriations for that purpose, and that total liability to the Government for termination of any contract entered into shall be limited to the total amount of funding obligated at time of termination.
 
-* (h) AUTHORITY TO USE INCREMENTAL FUNDING TO ENTER INTO CONTRACTS FOR CERTAIN ITEMS.—(1) The Secretary of the Navy may use funds deposited into the Fund to enter into incrementally funded contracts for advance procurement of high value, long lead time items for nuclear powered vessels to better support construction schedules and achieve cost savings through schedule reductions and properly phased installment payments.
+* (h) AUTHORITY TO USE INCREMENTAL FUNDING TO ENTER INTO CONTRACTS FOR CERTAIN ITEMS.—(1) The Secretary of the Navy may use funds deposited into the Fund to enter into incrementally funded contracts for—
+
+  * (A) advance procurement of high value, long lead time items for nuclear powered vessels to better support construction schedules and achieve cost savings through schedule reductions and properly phased installment payments; and
+
+  * (B) construction of the first two Columbia class submarines.
+
 
 * (2) A contract entered into under paragraph (1) shall provide that any obligation of the United States to make a payment under the contract is subject to the availability of appropriations for that purpose, and that total liability to the Government for termination of any contract entered into shall be limited to the total amount of funding obligated at time of termination.
 
@@ -1174,7 +1181,7 @@
 
   * (1) a macro analysis of how well acquisition programs and initiatives are performing and reasons for that performance;
 
-  * (2) a summary of organizational and legislative changes and emerging assessment methodologies since the last assessment, and a discussion of the implications for execution and oversight of programs and initiatives; and
+  * (2) a discussion of selected organizational, policy, and legislative changes, as determined appropriate by the Comptroller General, and the potential implications for execution and oversight of programs and initiatives; and
 
   * (3) specific analyses of individual acquisition programs and initiatives.
 

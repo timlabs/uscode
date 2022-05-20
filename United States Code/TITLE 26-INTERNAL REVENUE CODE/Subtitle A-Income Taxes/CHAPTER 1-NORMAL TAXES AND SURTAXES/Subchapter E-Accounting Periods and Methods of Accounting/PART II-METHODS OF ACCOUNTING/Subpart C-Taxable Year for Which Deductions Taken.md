@@ -271,14 +271,14 @@
 
 #### (l) Limitation on excess business losses of noncorporate taxpayers
 * #### (1) Limitation
-  * In the case of taxable year of a taxpayer other than a corporation beginning after December 31, 2017, and before January 1, 2026—
+  * In the case of a taxpayer other than a corporation—
 
-    * (A) subsection (j) (relating to limitation on excess farm losses of certain taxpayers) shall not apply, and
+    * (A) for any taxable year beginning after December 31, 2017, and before January 1, 2026, subsection (j) (relating to limitation on excess farm losses of certain taxpayers) shall not apply, and
 
-    * (B) any excess business loss of the taxpayer for the taxable year shall not be allowed.
+    * (B) for any taxable year beginning after December 31, 2020, and before January 1, 2026, any excess business loss of the taxpayer for the taxable year shall not be allowed.
 
 * #### (2) Disallowed loss carryover
-  * Any loss which is disallowed under paragraph (1) shall be treated as a net operating loss carryover to the following taxable year under section 172.
+  * Any loss which is disallowed under paragraph (1) shall be treated as a net operating loss for the taxable year for purposes of determining any net operating loss carryover under section 172(b) for subsequent taxable years.
 
 * #### (3) Excess business loss
   * For purposes of this subsection—
@@ -286,7 +286,7 @@
   * #### (A) In general
     * The term "excess business loss" means the excess (if any) of—
 
-      * (i) the aggregate deductions of the taxpayer for the taxable year which are attributable to trades or businesses of such taxpayer (determined without regard to whether or not such deductions are disallowed for such taxable year under paragraph (1)), over
+      * (i) the aggregate deductions of the taxpayer for the taxable year which are attributable to trades or businesses of such taxpayer (determined without regard to whether or not such deductions are disallowed for such taxable year under paragraph (1) and without regard to any deduction allowable under section 172 or 199A), over
 
       * (ii) the sum of—
 
@@ -294,7 +294,20 @@
 
         * (II) $250,000 (200 percent of such amount in the case of a joint return).
 
-  * #### (B) Adjustment for inflation
+  * Such excess shall be determined without regard to any deductions, gross income, or gains attributable to any trade or business of performing services as an employee.
+
+  * #### (B) Treatment of capital gains and losses
+    * #### (i) Losses
+      * Deductions for losses from sales or exchanges of capital assets shall not be taken into account under subparagraph (A)(i).
+
+    * #### (ii) Gains
+      * The amount of gains from sales or exchanges of capital assets taken into account under subparagraph (A)(ii) shall not exceed the lesser of—
+
+        * (I) the capital gain net income determined by taking into account only gains and losses attributable to a trade or business, or
+
+        * (II) the capital gain net income.
+
+  * #### (C) Adjustment for inflation
     * In the case of any taxable year beginning after December 31, 2018, the $250,000 amount in subparagraph (A)(ii)(II) shall be increased by an amount equal to—
 
       * (i) such dollar amount, multiplied by
@@ -1502,7 +1515,7 @@
 
       * (ii) the amounts excludable from gross income under sections 135 and 137,
 
-      * (iii) the amounts allowable as a deduction under sections 219, 221, 222, and 250, and
+      * (iii) the amounts allowable as a deduction under sections 219, 221, and 250, and
 
       * (iv) any passive activity loss or any loss allowable by reason of subsection (c)(7).
 

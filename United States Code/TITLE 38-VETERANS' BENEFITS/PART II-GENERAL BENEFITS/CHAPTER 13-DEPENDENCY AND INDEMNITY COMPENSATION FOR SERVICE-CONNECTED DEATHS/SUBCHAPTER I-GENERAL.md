@@ -3,12 +3,12 @@
 ### §1301. Definitions
 * As used in this chapter—
 
-* The term "veteran" includes a person who died in the active military, naval, or air service.
+* The term "veteran" includes a person who died in the active military, naval, air, or space service.
 
 ### §1302. Determination of pay grade
-* (a) With respect to a veteran who died in the active military, naval, or air service, such veteran's pay grade shall be determined as of the date of such veteran's death or as of the date of a promotion after death while in a missing status.
+* (a) With respect to a veteran who died in the active military, naval, air, or space service, such veteran's pay grade shall be determined as of the date of such veteran's death or as of the date of a promotion after death while in a missing status.
 
-* (b) With respect to a veteran who did not die in the active military, naval, or air service, such veteran's pay grade shall be determined as of—
+* (b) With respect to a veteran who did not die in the active military, naval, air, or space service, such veteran's pay grade shall be determined as of—
 
   * (1) the time of such veteran's last discharge or release from active duty under conditions other than dishonorable; or
 

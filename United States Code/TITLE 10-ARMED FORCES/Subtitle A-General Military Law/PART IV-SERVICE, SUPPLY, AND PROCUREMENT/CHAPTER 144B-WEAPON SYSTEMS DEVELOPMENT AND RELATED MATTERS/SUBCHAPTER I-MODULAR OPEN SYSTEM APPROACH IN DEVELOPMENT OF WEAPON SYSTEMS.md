@@ -1,17 +1,28 @@
 ### SUBCHAPTER I—MODULAR OPEN SYSTEM APPROACH IN DEVELOPMENT OF WEAPON SYSTEMS
 
 ### §2446a. Requirement for modular open system approach in major defense acquisition programs; definitions
-* (a) MODULAR OPEN SYSTEM APPROACH REQUIREMENT.—A major defense acquisition program that receives Milestone A or Milestone B approval after January 1, 2019, shall be designed and developed, to the maximum extent practicable, with a modular open system approach to enable incremental development and enhance competition, innovation, and interoperability.
+* (a) MODULAR OPEN SYSTEM APPROACH REQUIREMENT.—A major defense acquisition program that receives Milestone A or Milestone B approval after January 1, 2019, shall be designed and developed, to the maximum extent practicable, with a modular open system approach to enable incremental development and enhance competition, innovation, and interoperability. Other defense acquisition programs shall also be designed and developed, to the maximum extent practicable, with a modular open system approach to enable incremental development and enhance competition, innovation, and interoperability.
 
 * (b) DEFINITIONS.—In this chapter:
 
   * (1) The term "modular open system approach" means, with respect to a major defense acquisition program, an integrated business and technical strategy that—
 
-    * (A) employs a modular design that uses major system interfaces between a major system platform and a major system component, between major system components, or between major system platforms;
+    * (A) employs a modular design that uses modular system interfaces between major systems, major system components and modular systems;
 
-    * (B) is subjected to verification to ensure major system interfaces comply with, if available and suitable, widely supported and consensus-based standards;
+    * (B) is subjected to verification to ensure that relevant modular system interfaces—
 
-    * (C) uses a system architecture that allows severable major system components at the appropriate level to be incrementally added, removed, or replaced throughout the life cycle of a major system platform to afford opportunities for enhanced competition and innovation while yielding—
+      * (i) comply with, if available and suitable, widely supported and consensus-based standards; or
+
+      * (ii) are delivered pursuant to the requirements established in subsection (a)(2)(B) of section 804 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021, including the delivery of—
+
+        * (I) software-defined interface syntax and properties, specifically governing how values are validly passed and received between major subsystems and components, in machine-readable format;
+
+        * (II) a machine-readable definition of the relationship between the delivered interface and existing common standards or interfaces available in Department interface repositories; and
+
+        * (III) documentation with functional descriptions of software-defined interfaces, conveying semantic meaning of interface elements, such as the function of a given interface field;
+
+
+    * (C) uses a system architecture that allows severable major system components and modular systems at the appropriate level to be incrementally added, removed, or replaced throughout the life cycle of a major system platform to afford opportunities for enhanced competition and innovation while yielding—
 
       * (i) significant cost savings or avoidance;
 
@@ -31,25 +42,29 @@
 
   * (3) The term "major system component"—
 
-    * (A) means a high level subsystem or assembly, including hardware, software, or an integrated assembly of both, that can be mounted or installed on a major system platform through well-defined major system interfaces; and
+    * (A) means a high level subsystem or assembly, including hardware, software, or an integrated assembly of both, that can be mounted or installed on a major system platform through modular system interfaces; and
 
     * (B) includes a subsystem or assembly that is likely to have additional capability requirements, is likely to change because of evolving technology or threat, is needed for interoperability, facilitates incremental deployment of capabilities, or is expected to be replaced by another major system component.
 
 
-  * (4) The term "major system interface"—
+  * (4) The term "modular system interface" means a shared boundary between major systems, major system components, or modular systems, defined by various physical, logical, and functional characteristics, such as electrical, mechanical, fluidic, optical, radio frequency, data, networking, or software elements.
 
-    * (A) means a shared boundary between a major system platform and a major system component, between major system components, or between major system platforms, defined by various physical, logical, and functional characteristics, such as electrical, mechanical, fluidic, optical, radio frequency, data, networking, or software elements; and
+  * (5) The term "modular system" refers to a weapon system or weapon system component that—
 
-    * (B) is characterized clearly in terms of form, function, and the content that flows across the interface in order to enable technological innovation, incremental improvements, integration, and interoperability.
+    * (A) is able to execute without requiring coincident execution of other specific weapon systems or components;
+
+    * (B) can communicate across component boundaries and through interfaces; and
+
+    * (C) functions as a module that can be separated, recombined, and connected with other weapon systems or weapon system components in order to achieve various effects, missions, or capabilities.
 
 
-  * (5) The term "program capability document" means, with respect to a major defense acquisition program, a document that specifies capability requirements for the program, such as a capability development document or a capability production document.
+  * (6) The term "program capability document" means, with respect to a major defense acquisition program, a document that specifies capability requirements for the program, such as a capability development document or a capability production document.
 
-  * (6) The terms "program cost targets" and "fielding target" have the meanings provided in section 2448a(a) of this title.
+  * (7) The terms "program cost targets" and "fielding target" have the meanings provided in section 2448a(a) of this title.
 
-  * (7) The term "major defense acquisition program" has the meaning provided in section 2430 of this title.
+  * (8) The term "major defense acquisition program" has the meaning provided in section 2430 of this title.
 
-  * (8) The term "major weapon system" has the meaning provided in section 2379(f) of this title.
+  * (9) The term "major weapon system" has the meaning provided in section 2379(f) of this title.
 
 ### §2446b. Requirement to address modular open system approach in program capabilities development and acquisition weapon system design
 * (a) PROGRAM CAPABILITY DOCUMENT.—A program capability document for a major defense acquisition program shall identify and characterize—
@@ -90,6 +105,7 @@
 
 
   * (2) in the case of a program that does not use a modular open system approach, that the use of a modular open system approach is not practicable.
+
 
 * (f) IMPLEMENTATION GUIDANCE.—The Secretaries of the military departments shall issue guidance to implement the requirements of this section.
 

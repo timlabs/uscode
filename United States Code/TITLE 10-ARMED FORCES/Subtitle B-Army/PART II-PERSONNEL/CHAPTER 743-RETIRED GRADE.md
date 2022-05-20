@@ -1,9 +1,11 @@
 ### **CHAPTER 743—RETIRED GRADE**
 
 ### §7341. General rule
-* (a) The retired grade of a regular commissioned officer of the Army who retires other than for physical disability, and the retired grade of a reserve commissioned officer of the Army who retires other than for physical disability, is determined under section 1370 of this title.
+* (a)(1) The retired grade of a regular commissioned officer of the Army who retires other than for physical disability is determined under section 1370 of this title.
 
-* (b) Unless entitled to a higher retired grade under some other provision of law, a Regular or Reserve of the Army not covered by subsection (a) who retires other than for physical disability retires in the regular or reserve grade that he holds on the date of his retirement.
+* (2) The retired grade of a reserve commissioned officer of the Army who retires other than for physical disability is determined under section 1370a of this title.
+
+* (b) Unless entitled to a higher retired grade under some other provision of law, a Regular or Reserve of the Army not covered by subsection (a) who retires other than for physical disability retires in the regular or reserve grade that the member holds on the date of the member's retirement.
 
 ### §7342. Higher grade for service in special positions
 * Upon retirement, any permanent professor of the United States Military Academy whose grade is below brigadier general, and whose service as such a professor has been long and distinguished, may, in the discretion of the President, be retired in the grade of brigadier general.

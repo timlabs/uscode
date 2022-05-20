@@ -198,7 +198,7 @@
 #### (g) Exported merchandise returned as undeliverable
 * With respect to any importation of merchandise to which General Headnote 4(e) of the Harmonized Tariff Schedule of the United States applies, any person who gained any benefit from, or met any obligation to, the United States as a result of the prior exportation of such merchandise shall, in accordance with regulations prescribed by the Secretary, within a reasonable time inform the Customs Service of the return of the merchandise.
 
-### §1486. Administration of oaths
+### §1486. Administration of oaths; verification of documents
 #### (a) Customs officers
 * The following officers and employees may administer any oaths required or authorized by law or regulations promulgated thereunder in respect of any matter coming before such officers or employees in the performance of their official duties: (1) Any customs officer appointed by the President; (2) the chief assistant of any such officer, or any officer or employee of the customs field service designated for the purpose by such officer or by the Secretary of the Treasury; and (3) any officer or employee of the United States Customs Service designated for the purpose by the Secretary of the Treasury.
 
@@ -602,64 +602,65 @@
 
   * (B) are normally kept in the ordinary course of business.
 
-#### (b) Exportations to NAFTA countries
+#### (b) Exports and imports relating to USMCA countries
 * #### (1) Definitions
-  * As used in this subsection—
+  * In this subsection:
 
-    * (A) The term "associated records" means, in regard to an exported good under paragraph (2), records associated with—
+  * #### (A) USMCA; USMCA country
+    * The terms "USMCA" and "USMCA country" have the meanings given those terms in section 4502 of this title.
 
-      * (i) the purchase of, cost of, value of, and payment for, the good;
+  * #### (B) USMCA certification of origin
+    * The term "USMCA certification of origin" means the certification established under article 5.2.1 of the USMCA that a good qualifies as an originating good under the USMCA.
 
-      * (ii) the purchase of, cost of, value of, and payment for, all material, including indirect materials, used in the production of the good; and
+* #### (2) Exports to USMCA countries
+  * Any person who completes a USMCA certification of origin or provides a written representation for a good exported from the United States to a USMCA country shall make, keep, and, pursuant to rules and regulations prescribed by the Secretary of the Treasury, render for examination and inspection, all records and supporting documents related to the origin of the good (including the certification or copies thereof), including records related to—
 
-      * (iii) the production of the good.
+    * (A) the purchase, cost, value, and shipping of, and payment for, the good;
 
+    * (B) the purchase, cost, value, and shipping of, and payment for, all materials, including indirect materials, used in the production of the good; and
 
-  * For purposes of this subparagraph, the terms "indirect material", "material", "preferential tariff treatment", "used", and "value" have the respective meanings given them in articles 415 and 514 of the North American Free Trade Agreement.
+    * (C) the production of the good in the form in which it was exported or the production of the material in the form in which it was sold.
 
-    * (B) The term "NAFTA Certificate of Origin" means the certification, established under article 501 of the North American Free Trade Agreement, that a good qualifies as an originating good under such Agreement.
-
-* #### (2) Exports to NAFTA countries
-  * #### (A) In general
-    * Any person who completes and signs a NAFTA Certificate of Origin for a good for which preferential treatment under the North American Free Trade Agreement is claimed shall make, keep, and render for examination and inspection all records relating to the origin of the good (including the Certificate or copies thereof) and the associated records.
-
-  * #### (B) Claims for certain waivers, reductions, or refunds of duties or for credit against bonds
-    * #### (i) In general
-      * Any person that claims with respect to an article—
-
-        * (I) a waiver or reduction of duty under the eleventh paragraph of section 1311 of this title, section 1312(b)(1) or (4) of this title, section 1562(2) of this title, or the proviso preceding the last proviso to section 81c(a) of this title;
-
-        * (II) a credit against a bond under section 1312(d) of this title; or
-
-        * (III) a refund, waiver, or reduction of duty under section 1313(n)(2) or (o)(1) of this title;
-
-
-  * &nbsp;must disclose to the Customs Service the information described in clause (ii).
-
-    * #### (ii) Information required
-      * Within 30 days after making a claim described in clause (i) with respect to an article, the person making the claim must disclose to the Customs Service whether that person has prepared, or has knowledge that another person has prepared, a NAFTA Certificate of Origin for the article. If after such 30-day period the person making the claim either—
-
-        * (I) prepares a NAFTA Certificate of Origin for the article; or
-
-        * (II) learns of the existence of such a Certificate for the article;
-
-
-  * &nbsp;that person, within 30 days after the occurrence described in subclause (I) or (II), must disclose the occurrence to the Customs Service.
-
-    * #### (iii) Action on claim
-      * If the Customs Service determines that a NAFTA Certificate of Origin has been prepared with respect to an article for which a claim described in clause (i) is made, the Customs Service may make such adjustments regarding the previous customs treatment of the article as may be warranted.
-
-* #### (3) Exports under the Canadian agreement
+* #### (3) Exports under the Canadian Agreement
   * Any person who exports, or who knowingly causes to be exported, any merchandise to Canada during such time as the United States-Canada Free-Trade Agreement is in force with respect to, and the United States applies that Agreement to, Canada shall make, keep, and render for examination and inspection such records (including certifications of origin or copies thereof) which pertain to the exportations.
 
+* #### (4) Imports into the United States
+  * #### (A) In general
+    * Any importer who claims preferential tariff treatment under the USMCA for a good imported into the United States from a USMCA country shall make, keep, and, pursuant to rules and regulations prescribed by the Secretary of the Treasury of the Secretary of Labor, render for examination and inspection—
+
+      * (i) records and supporting documentation related to the importation;
+
+      * (ii) all records and supporting documents related to the origin of the good (including the certification or copies thereof), if the importer completed the certification; and
+
+      * (iii) records and supporting documents necessary to demonstrate that the good did not, while in transit to the United States, undergo further production or any other operation other than unloading, reloading, or any other operation necessary to preserve the good in good condition or to transport the good to the United States.
+
+  * #### (B) Vehicle producer
+    * Any vehicle producer whose good is the subject of a claim for preferential tariff treatment under the USMCA shall make, keep, and, pursuant to rules and regulations promulgated by the Secretary of the Treasury and Secretary of Labor, render for examination and inspection records and supporting documents related to the labor value content and steel and aluminum purchasing requirements for the qualification of its vehicles for preferential treatment.
+
+* #### (5) Retention period
+  * #### (A) Exports to USMCA countries
+    * A person covered by paragraph (2) who completes a USMCA certification of origin or provides a written representation for a good exported from the United States to a USMCA country shall keep the records required by such paragraph relating to that certification of origin for a period of at least 5 years after the date on which the certification is completed.
+
+  * #### (B) Exports under Canadian Agreement
+    * The records required by paragraph (3) shall be kept for such periods of time as the Secretary shall prescribe, except that—
+
+      * (i) no period of time for the retention of the records may exceed 5 years from the date of entry, filing of a reconciliation, or exportation, as appropriate; and
+
+      * (ii) records for any drawback claim shall be kept until the third anniversary of the date of liquidation of the claim.
+
+  * #### (C) Imports into the United States
+    * #### (i) In general
+      * An importer covered by paragraph (4)(A) shall keep the records and supporting documents required by such paragraph for a period of at least 5 years after the date of importation of the good.
+
+    * #### (ii) Vehicle producer
+      * A vehicle producer covered by paragraph (4)(B) shall keep the records and supporting documents required by paragraph (4)(B) for a period of at least 5 years after the date of filing the certifications required under paragraphs (1) and (2) of section 4532(c) of this title.
+
 #### (c) Period of time
-* The records required by subsections (a) and (b) shall be kept for such periods of time as the Secretary shall prescribe; except that—
+* The records required by subsection (a) shall be kept for such periods of time as the Secretary shall prescribe, except that—
 
-  * (1) no period of time for the retention of the records required under subsection (a) or (b)(3) may exceed 5 years from the date of entry, filing of a reconciliation, or exportation, as appropriate;
+  * (1) no period of time for the retention of the records required under subsection (a) may exceed 5 years from the date of entry, filing of a reconciliation, or exportation, as appropriate; and
 
-  * (2) the period of time for the retention of the records required under subsection (b)(2) of this section shall be at least 5 years from the date of signature of the NAFTA Certificate of Origin; and
-
-  * (3) records for any drawback claim shall be kept until the 3rd anniversary of the date of liquidation of the claim.
+  * (2) records for any drawback claim shall be kept until the 3rd anniversary of the date of liquidation of the claim.
 
 #### (d) Limitation
 * For the purposes of this section and section 1509 of this title, a person ordering merchandise from an importer in a domestic transaction does not knowingly cause merchandise to be imported unless—
@@ -669,7 +670,7 @@
   * (2) technical data, molds, equipment, other production assistance, material, components, or parts are furnished by the person placing the order with knowledge that they will be used in the manufacture or production of the imported merchandise.
 
 #### (e) Subsection (b) penalties
-* #### (1) Relating to NAFTA exports
+* #### (1) Relating to USMCA exports
   * Any person who fails to retain records required by paragraph (2) of subsection (b) or the regulations issued to implement that paragraph shall be liable for—
 
     * (A) a civil penalty not to exceed $10,000; or
@@ -836,9 +837,9 @@
 
     * (A) the person who—
 
-      * (i) imported, or knowingly caused to be imported, merchandise into the customs territory of the United States,
+      * (i) imported, or knowingly caused to be imported, merchandise into the customs territory of the United States, or a vehicle producer whose good is subject to a claim of preferential tariff treatment under the USMCA (as defined in section 4502 of this title),
 
-      * (ii) exported merchandise, or knowingly caused merchandise to be exported, to a NAFTA country (as defined in section 3301(4) of this title) or to Canada during such time as the United States-Canada Free-Trade Agreement is in force with respect to, and the United States applies that Agreement to, Canada,
+      * (ii) exported merchandise, or knowingly caused merchandise to be exported, to a USMCA country (as defined in section 4502 of this title) or to Canada during such time as the United States-Canada Free-Trade Agreement is in force with respect to, and the United States applies that Agreement to, Canada,
 
       * (iii) transported or stored merchandise that was or is carried or held under customs bond, or knowingly caused such transportation or storage, or
 
@@ -1073,7 +1074,7 @@
 * shall be final and conclusive upon all persons (including the United States and any officer thereof) unless a protest is filed in accordance with this section, or unless a civil action contesting the denial of a protest, in whole or in part, is commenced in the United States Court of International Trade in accordance with chapter 169 of title 28 within the time prescribed by section 2636 of that title. When a judgment or order of the United States Court of International Trade has become final, the papers transmitted shall be returned, together with a copy of the judgment or order to the Customs Service, which shall take action accordingly.
 
 #### (b) Finality of determinations
-* With respect to determinations made under section 1303 of this title or subtitle IV of this chapter which are reviewable under section 1516a of this title, determinations of the Customs Service are final and conclusive upon all persons (including the United States and any officer thereof) unless a civil action contesting a determination listed in section 1516a of this title is commenced in the United States Court of International Trade, or review by a binational panel of a determination to which section 1516a(g)(2) of this title applies is commenced pursuant to section 1516a(g) of this title and article 1904 of the North American Free Trade Agreement or the United States-Canada Free-Trade Agreement.
+* With respect to determinations made under section 1303 of this title or subtitle IV of this chapter which are reviewable under section 1516a of this title, determinations of the Customs Service are final and conclusive upon all persons (including the United States and any officer thereof) unless a civil action contesting a determination listed in section 1516a of this title is commenced in the United States Court of International Trade, or review by a binational panel of a determination to which section 1516a(g)(2) of this title applies is commenced pursuant to section 1516a(g) of this title.
 
 #### (c) Form, number, and amendment of protest; filing of protest
 * (1) A protest of a decision made under subsection (a) shall be filed in writing, or transmitted electronically pursuant to an electronic data interchange system, in accordance with regulations prescribed by the Secretary. A protest must set forth distinctly and specifically—
@@ -1087,7 +1088,7 @@
   * (D) any other matter required by the Secretary by regulation.
 
 
-* Only one protest may be filed for each entry of merchandise, except that where the entry covers merchandise of different categories, a separate protest may be filed for each category. In addition, separate protests filed by different authorized persons with respect to any one category of merchandise, or with respect to a determination of origin under section 3332 of this title, that is the subject of a protest are deemed to be part of a single protest. Unless a request for accelerated disposition is filed under section 1515(b) of this title, a protest may be amended, under regulations prescribed by the Secretary, to set forth objections as to a decision or decisions described in subsection (a) which were not the subject of the original protest, in the form and manner prescribed for a protest, any time prior to the expiration of the time in which such protest could have been filed under this section. New grounds in support of objections raised by a valid protest or amendment thereto may be presented for consideration in connection with the review of such protest pursuant to section 1515 of this title at any time prior to the disposition of the protest in accordance with that section.
+* Only one protest may be filed for each entry of merchandise, except that where the entry covers merchandise of different categories, a separate protest may be filed for each category. In addition, separate protests filed by different authorized persons with respect to any one category of merchandise, or with respect to a determination of origin under section 4531 of this title, that is the subject of a protest are deemed to be part of a single protest. Unless a request for accelerated disposition is filed under section 1515(b) of this title, a protest may be amended, under regulations prescribed by the Secretary, to set forth objections as to a decision or decisions described in subsection (a) which were not the subject of the original protest, in the form and manner prescribed for a protest, any time prior to the expiration of the time in which such protest could have been filed under this section. New grounds in support of objections raised by a valid protest or amendment thereto may be presented for consideration in connection with the review of such protest pursuant to section 1515 of this title at any time prior to the disposition of the protest in accordance with that section.
 
 * (2) Except as provided in sections 1485(d) and 1557(b) of this title, protests may be filed with respect to merchandise which is the subject of a decision specified in subsection (a) by—
 
@@ -1099,7 +1100,7 @@
 
   * (D) any person filing a claim for drawback;
 
-  * (E) with respect to a determination of origin under section 3332 of this title, any exporter or producer of the merchandise subject to that determination, if the exporter or producer completed and signed a NAFTA Certificate of Origin covering the merchandise; or
+  * (E) with respect to a determination of origin under section 4531 of this title, any exporter or producer of the merchandise subject to that determination, if the exporter or producer completed and signed a USMCA certification of origin (as such term is defined in section 1508 of this title) covering the merchandise; or
 
   * (F) any authorized agent of any of the persons described in clauses (A) through (E).
 
@@ -1117,17 +1118,10 @@
 * The reliquidation of an entry shall not open such entry so that a protest may be filed against the decision of the Customs Service upon any question not involved in such reliquidation.
 
 #### (e) Advance notice of certain determinations
-* Except as provided in subsection (f), an exporter or producer referred to in subsection (c)(2)(E) shall be provided notice in advance of an adverse determination of origin under section 3332 of this title. The Secretary may, by regulations, prescribe the time period in which such advance notice shall be issued and authorize the Customs Service to provide in the notice the entry number and any other entry information considered necessary to allow the exporter or producer to exercise the rights provided by this section.
+* Except as provided in subsection (f), an exporter or producer referred to in subsection (c)(2)(E) shall be provided notice in advance of an adverse determination of origin under section 4531 of this title. The Secretary may, by regulations, prescribe the time period in which such advance notice shall be issued and authorize the Customs Service to provide in the notice the entry number and any other entry information considered necessary to allow the exporter or producer to exercise the rights provided by this section.
 
-#### (f) Denial of preferential treatment
-* If the Customs Service finds indications of a pattern of conduct by an exporter or producer of false or unsupported representations that goods qualify under the rules of origin set out in section 3332 of this title—
-
-  * (1) the Customs Service, in accordance with regulations issued by the Secretary, may deny preferential tariff treatment to entries of identical goods exported or produced by that person; and
-
-  * (2) the advance notice requirement in subsection (e) shall not apply to that person;
-
-
-* until the person establishes to the satisfaction of the Customs Service that its representations are in conformity with section 3332 of this title.
+#### (f) Denial of preferential tariff treatment under the USMCA
+* If U.S. Customs and Border Protection or U.S. Immigration and Customs Enforcement of the Department of Homeland Security finds indications of a pattern of conduct by an importer, exporter, or producer of false or unsupported representations that goods qualify under the rules of origin provided for in section 4531 of this title, U.S. Customs and Border Protection, in accordance with regulations prescribed by the Secretary of the Treasury, may suspend preferential tariff treatment under the USMCA (as defined in section 4502 of this title) to entries of identical goods covered by subsequent representations by that importer, exporter, or producer until U.S. Customs and Border Protection determines that representations of that person are in conformity with such section 4531 of this title.
 
 #### (g) Denial of preferential tariff treatment under United States-Chile Free Trade Agreement
 * If the Bureau of Customs and Border Protection or the Bureau of Immigration and Customs Enforcement finds indications of a pattern of conduct by an importer of false or unsupported representations that goods qualify under the rules of origin set out in section 202 of the United States-Chile Free Trade Agreement Implementation Act, the Bureau of Customs and Border Protection, in accordance with regulations issued by the Secretary of the Treasury, may deny preferential tariff treatment under the United States-Chile Free Trade Agreement to entries of identical goods imported by that person until the person establishes to the satisfaction of the Bureau of Customs and Border Protection that representations of that person are in conformity with such section 202.
@@ -1285,7 +1279,7 @@
 
     * (D) For a determination for which review by the United States Court of International Trade is provided for—
 
-      * (i) under subsection (g)(12)(B), the day after the date of publication in the Federal Register of notice that article 1904 of the NAFTA has been suspended, or
+      * (i) under subsection (g)(12)(B), the day after the date of publication in the Federal Register of notice that article 10.12 of the USMCA has been suspended, or
 
       * (ii) under subsection (g)(12)(D), the day after the date that notice of settlement is published in the Federal Register.
 
@@ -1313,8 +1307,8 @@
   * #### (B) Confidential or privileged material
     * The confidential or privileged status accorded to any documents, comments, or information shall be preserved in any action under this section. Notwithstanding the preceding sentence, the court may examine, in camera, the confidential or privileged material, and may disclose such material under such terms and conditions as it may order.
 
-* #### (3) Effect of decisions by NAFTA or United States-Canada binational panels
-  * In making a decision in any action brought under subsection (a), a court of the United States is not bound by, but may take into consideration, a final decision of a binational panel or extraordinary challenge committee convened pursuant to article 1904 of the NAFTA or of the Agreement.
+* #### (3) Effect of decisions by United States-Canada or USMCA binational panels
+  * In making a decision in any action brought under subsection (a), a court of the United States is not bound by, but may take into consideration, a final decision of a binational panel or extraordinary challenge committee convened pursuant to article 1904 of the Agreement or article 10.12 of the USMCA.
 
 #### (c) Liquidation of entries
 * #### (1) Liquidation in accordance with determination
@@ -1360,38 +1354,38 @@
 * #### (6) United States Secretary
   * The term "United States Secretary" means—
 
-    * (A) the secretary for the United States Section referred to in article 1908 of the NAFTA, and
+    * (A) the secretary for the United States Section referred to in article 10.16 of the USMCA, and
 
     * (B) the secretary of the United States Section provided for in article 1909 of the Agreement.
 
 * #### (7) Relevant FTA Secretary
   * The term "relevant FTA Secretary" means the Secretary—
 
-    * (A) referred to in article 1908 of the NAFTA, or
+    * (A) referred to in article 10.16 of the USMCA, or
 
     * (B) provided for in paragraph 5 of article 1909 of the Agreement,
 
 
 * of the relevant FTA country.
 
-* #### (8) NAFTA
-  * The term "NAFTA" means the North American Free Trade Agreement.
-
-* #### (9) Relevant FTA country
+* #### (8) Relevant FTA country
   * The term "relevant FTA country" means the free trade area country to which an antidumping or countervailing duty proceeding pertains.
 
-* #### (10) Free trade area country
+* #### (9) Free trade area country
   * The term "free trade area country" means the following:
 
-    * (A) Canada for such time as the NAFTA is in force with respect to, and the United States applies the NAFTA to, Canada.
+    * (A) Canada for such time as the USMCA is in force with respect to, and the United States applies the USMCA to, Canada.
 
-    * (B) Mexico for such time as the NAFTA is in force with respect to, and the United States applies the NAFTA to, Mexico.
+    * (B) Mexico for such time as the USMCA is in force with respect to, and the United States applies the USMCA to, Mexico.
 
     * (C) Canada for such time as—
 
       * (i) it is not a free trade area country under subparagraph (A); and
 
       * (ii) the Agreement is in force with respect to, and the United States applies the Agreement to, Canada.
+
+* #### (10) USMCA
+  * The term "USMCA" has the meaning given that term in section 4502 of this title.
 
 #### (g) Review of countervailing duty and antidumping duty determinations involving free trade area country merchandise
 * #### (1) "Determination" defined
@@ -1405,7 +1399,7 @@
 * if made in connection with a proceeding regarding a class or kind of free trade area country merchandise, as determined by the administering authority.
 
 * #### (2) Exclusive review of determination by binational panels
-  * If binational panel review of a determination is requested pursuant to article 1904 of the NAFTA or of the Agreement, then, except as provided in paragraphs (3) and (4)—
+  * If binational panel review of a determination is requested pursuant to article 1904 of the Agreement or article 10.12 of the USMCA, then, except as provided in paragraphs (3) and (4)—
 
     * (A) the determination is not reviewable under subsection (a), and
 
@@ -1415,17 +1409,17 @@
   * #### (A) In general
     * A determination is reviewable under subsection (a) if the determination sought to be reviewed is—
 
-      * (i) a determination as to which neither the United States nor the relevant FTA country requested review by a binational panel pursuant to article 1904 of the NAFTA or of the Agreement,
+      * (i) a determination as to which neither the United States nor the relevant FTA country requested review by a binational panel pursuant to article 1904 of the Agreement or article 10.12 of the USMCA;
 
       * (ii) a revised determination issued as a direct result of judicial review, commenced pursuant to subsection (a), if neither the United States nor the relevant FTA country requested review of the original determination,
 
-      * (iii) a determination issued as a direct result of judicial review that was commenced pursuant to subsection (a) prior to the entry into force of the NAFTA or of the Agreement,
+      * (iii) a determination issued as a direct result of judicial review that was commenced pursuant to subsection (a) prior to the entry into force of the Agreement or the USMCA,
 
       * (iv) a determination which a binational panel has determined is not reviewable by the binational panel,
 
-      * (v) a determination as to which binational panel review has terminated pursuant to paragraph 12 of article 1905 of the NAFTA, or
+      * (v) a determination as to which binational panel review has terminated pursuant to article 10.13 of the USMCA, or
 
-      * (vi) a determination as to which extraordinary challenge committee review has terminated pursuant to paragraph 12 of article 1905 of the NAFTA.
+      * (vi) a determination as to which extraordinary challenge committee review has terminated pursuant to article 10.13 of the USMCA.
 
   * #### (B) Special rule
     * A determination described in subparagraph (A)(i) or (iv) is reviewable under subsection (a) only if the party seeking to commence review has provided timely notice of its intent to commence such review to—
@@ -1441,7 +1435,7 @@
 
 * #### (4) Exception to exclusive binational panel review for constitutional issues
   * #### (A) Constitutionality of binational panel review system
-    * An action for declaratory judgment or injunctive relief, or both, regarding a determination on the grounds that any provision of, or amendment made by, the North American Free Trade Agreement Implementation Act implementing the binational dispute settlement system under chapter 19 of the NAFTA, or the United States-Canada Free-Trade Agreement Implementation Act of 1988 implementing the binational panel dispute settlement system under chapter 19 of the Agreement, violates the Constitution may be brought only in the United States Court of Appeals for the District of Columbia Circuit, which shall have jurisdiction of such action.
+    * An action for declaratory judgment or injunctive relief, or both, regarding a determination on the grounds that any provision of, or amendment made by, the United States-Canada Free-Trade Agreement Implementation Act of 1988 implementing the binational panel dispute settlement system under chapter 19 of the Agreement, or the United States-Mexico-Canada Agreement Implementation Act implementing the binational panel dispute settlement system under chapter 10 of the USMCA, violates the Constitution may be brought only in the United States Court of Appeals for the District of Columbia Circuit, which shall have jurisdiction of such action.
 
   * #### (B) Other constitutional review
     * Review is available under subsection (a) with respect to a determination solely concerning a constitutional issue (other than an issue to which subparagraph (A) applies) arising under any law of the United States as enacted or applied. An action for review under this subparagraph shall be assigned to a 3-judge panel of the United States Court of International Trade.
@@ -1470,30 +1464,30 @@
 
 * #### (5) Liquidation of entries
   * #### (A) Application
-    * In the case of a determination for which binational panel review is requested pursuant to article 1904 of the NAFTA or of the Agreement, the rules provided in this paragraph shall apply, notwithstanding the provisions of subsection (c).
+    * In the case of a determination for which binational panel review is requested pursuant to article 1904 of the Agreement or article 10.12 of the USMCA, the rules provided in this paragraph shall apply, notwithstanding the provisions of subsection (c).
 
   * #### (B) General rule
-    * In the case of a determination for which binational panel review is requested pursuant to article 1904 of the NAFTA or of the Agreement, entries of merchandise covered by such determination shall be liquidated in accordance with the determination of the administering authority or the Commission, if they are entered, or withdrawn from warehouse, for consumption on or before the date of publication in the Federal Register by the administering authority of notice of a final decision of a binational panel, or of an extraordinary challenge committee, not in harmony with that determination. Such notice of a decision shall be published within 10 days of the date of the issuance of the panel or committee decision.
+    * In the case of a determination for which binational panel review is requested pursuant to article 1904 of the Agreement or article 10.12 of the USMCA, entries of merchandise covered by such determination shall be liquidated in accordance with the determination of the administering authority or the Commission, if they are entered, or withdrawn from warehouse, for consumption on or before the date of publication in the Federal Register by the administering authority of notice of a final decision of a binational panel, or of an extraordinary challenge committee, not in harmony with that determination. Such notice of a decision shall be published within 10 days of the date of the issuance of the panel or committee decision.
 
   * #### (C) Suspension of liquidation
     * #### (i) In general
-      * Notwithstanding the provisions of subparagraph (B), in the case of a determination described in clause (iii) or (vi) of subsection (a)(2)(B) for which binational panel review is requested pursuant to article 1904 of the NAFTA or of the Agreement, the administering authority, upon request of an interested party who was a party to the proceeding in connection with which the matter arises and who is a participant in the binational panel review, shall order the continued suspension of liquidation of those entries of merchandise covered by the determination that are involved in the review pending the final disposition of the review.
+      * Notwithstanding the provisions of subparagraph (B), in the case of a determination described in clause (iii) or (vi) of subsection (a)(2)(B) for which binational panel review is requested pursuant to article 1904 of the Agreement or article 10.12 of the USMCA, the administering authority, upon request of an interested party who was a party to the proceeding in connection with which the matter arises and who is a participant in the binational panel review, shall order the continued suspension of liquidation of those entries of merchandise covered by the determination that are involved in the review pending the final disposition of the review.
 
     * #### (ii) Notice
       * At the same time as the interested party makes its request to the administering authority under clause (i), that party shall serve a copy of its request on the United States Secretary, the relevant FTA Secretary, and all interested parties who were parties to the proceeding in connection with which the matter arises.
 
     * #### (iii) Application of suspension
-      * If the interested party requesting continued suspension of liquidation under clause (i) is a foreign manufacturer, producer, or exporter, or a United States importer, the continued suspension of liquidation shall apply only to entries of merchandise manufactured, produced, exported, or imported by that particular manufacturer, producer, exporter, or importer. If the interested party requesting the continued suspension of liquidation under clause (i) is an interested party described in subparagraph (C), (D), (E), or (F) of section 1677(9) of this title, the continued suspension of liquidation shall apply only to entries which could be affected by a decision of the binational panel convened under chapter 19 of the NAFTA or of the Agreement.
+      * If the interested party requesting continued suspension of liquidation under clause (i) is a foreign manufacturer, producer, or exporter, or a United States importer, the continued suspension of liquidation shall apply only to entries of merchandise manufactured, produced, exported, or imported by that particular manufacturer, producer, exporter, or importer. If the interested party requesting the continued suspension of liquidation under clause (i) is an interested party described in subparagraph (C), (D), (E), or (F) of section 1677(9) of this title, the continued suspension of liquidation shall apply only to entries which could be affected by a decision of the binational panel convened under chapter 19 of the Agreement or chapter 10 of the USMCA.
 
     * #### (iv) Judicial review
       * Any action taken by the administering authority or the United States Customs Service under this subparagraph shall not be subject to judicial review, and no court of the United States shall have power or jurisdiction to review such action on any question of law or fact by an action in the nature of mandamus or otherwise.
 
 * #### (6) Injunctive relief
-  * Except for cases under paragraph (4)(B), in the case of a determination for which binational panel review is requested pursuant to article 1904 of the NAFTA or of the Agreement, the provisions of subsection (c)(2) shall not apply.
+  * Except for cases under paragraph (4)(B), in the case of a determination for which binational panel review is requested pursuant to article 1904 of the Agreement or article 10.12 of the USMCA, the provisions of subsection (c)(2) shall not apply.
 
-* #### (7) Implementation of international obligations under article 1904 of the NAFTA or the Agreement
+* #### (7) Implementation of international obligations under article 1904 of the Agreement or article 10.12 of the USMCA
   * #### (A) Action upon remand
-    * If a determination is referred to a binational panel or extraordinary challenge committee under the NAFTA or the Agreement and the panel or committee makes a decision remanding the determination to the administering authority or the Commission, the administering authority or the Commission shall, within the period specified by the panel or committee, take action not inconsistent with the decision of the panel or committee. Any action taken by the administering authority or the Commission under this paragraph shall not be subject to judicial review, and no court of the United States shall have power or jurisdiction to review such action on any question of law or fact by an action in the nature of mandamus or otherwise.
+    * If a determination is referred to a binational panel or extraordinary challenge committee under article 1904 of the Agreement or article 10.12 of the USMCA and the panel or committee makes a decision remanding the determination to the administering authority or the Commission, the administering authority or the Commission shall, within the period specified by the panel or committee, take action not inconsistent with the decision of the panel or committee. Any action taken by the administering authority or the Commission under this paragraph shall not be subject to judicial review, and no court of the United States shall have power or jurisdiction to review such action on any question of law or fact by an action in the nature of mandamus or otherwise.
 
   * #### (B) Application if subparagraph (A) held unconstitutional
     * In the event that the provisions of subparagraph (A) are held unconstitutional under the provisions of subparagraphs (A) and (H) of paragraph (4), the provisions of this subparagraph shall take effect. In such event, the President is authorized on behalf of the United States to accept, as a whole, the decision of a binational panel or extraordinary challenge committee remanding the determination to the administering authority or the Commission within the period specified by the panel or committee. Upon acceptance by the President of such a decision, the administering authority or the Commission shall, within the period specified by the panel or committee, take action not inconsistent with such decision. Any action taken by the President, the administering authority, or the Commission under this subparagraph shall not be subject to judicial review, and no court of the United States shall have power or jurisdiction to review such action on any question of law or fact by an action in the nature of mandamus or otherwise.
@@ -1501,10 +1495,10 @@
 * #### (8) Requests for binational panel review
   * #### (A) Interested party requests for binational panel review
     * #### (i) General rule
-      * An interested party who was a party to the proceeding in which a determination is made may request binational panel review of such determination by filing a request with the United States Secretary by no later than the date that is 30 days after the date described in subparagraph (A), (B), or (E) of subsection (a)(5) that is applicable to such determination. Receipt of such request by the United States Secretary shall be deemed to be a request for binational panel review within the meaning of article 1904(4) of the NAFTA or of the Agreement. Such request shall contain such information and be in such form, manner, and style as the administering authority, in consultation with the Commission, shall prescribe by regulations.
+      * An interested party who was a party to the proceeding in which a determination is made may request binational panel review of such determination by filing a request with the United States Secretary by no later than the date that is 30 days after the date described in subparagraph (A), (B), or (E) of subsection (a)(5) that is applicable to such determination. Receipt of such request by the United States Secretary shall be deemed to be a request for binational panel review within the meaning of article 1904(4) of the Agreement or article 10.12 of the USMCA. Such request shall contain such information and be in such form, manner, and style as the administering authority, in consultation with the Commission, shall prescribe by regulations.
 
-    * #### (ii) Suspension of time to request binational panel review under the NAFTA
-      * Notwithstanding clause (i), the time for requesting binational panel review shall be suspended during the pendency of any stay of binational panel review that is issued pursuant to paragraph 11(a) of article 1905 of the NAFTA.
+    * #### (ii) Suspension of time to request binational panel review under the USMCA
+      * Notwithstanding clause (i), the time for requesting binational panel review shall be suspended during the pendency of any stay of binational panel review that is issued pursuant to article 10.13 of the USMCA.
 
   * #### (B) Service of request for binational panel review
     * #### (i) Service by interested party
@@ -1514,29 +1508,31 @@
       * If an interested party to the proceeding requests binational panel review of a determination by filing a request with the relevant FTA Secretary, the United States Secretary shall serve a copy of the request by mail on any other interested party who was a party to the proceeding in connection with which the matter arises, and on the administering authority or the Commission, as appropriate.
 
   * #### (C) Limitation on request for binational panel review
-    * Absent a request by an interested party under subparagraph (A), the United States may not request binational panel review of a determination under article 1904 of the NAFTA or the Agreement.
+    * Absent a request by an interested party under subparagraph (A), the United States may not request binational panel review of a determination under article 1904 of the Agreement or article 10.12 of the USMCA.
 
 * #### (9) Representation in panel proceedings
-  * In the case of binational panel proceedings convened under chapter 19 of the NAFTA or of the Agreement, the administering authority and the Commission shall be represented by attorneys who are employees of the administering authority or the Commission, respectively. Interested parties who were parties to the proceeding in connection with which the matter arises shall have the right to appear and be represented by counsel before the binational panel.
+  * In the case of binational panel proceedings convened under chapter 19 of the Agreement or chapter 10 of the USMCA, the administering authority and the Commission shall be represented by attorneys who are employees of the administering authority or the Commission, respectively. Interested parties who were parties to the proceeding in connection with which the matter arises shall have the right to appear and be represented by counsel before the binational panel.
 
 * #### (10) Notification of class or kind rulings
-  * In the case of a determination which is described in paragraph (2)(B)(vi) of subsection (a) and which is subject to the provisions of paragraph (2), the administering authority, upon request, shall inform any interested person of the date on which the Government of the relevant FTA country received notice of the determination under paragraph 4 of article 1904 of the NAFTA or the Agreement.
+  * In the case of a determination which is described in paragraph (2)(B)(vi) of subsection (a) and which is subject to the provisions of paragraph (2), the administering authority, upon request, shall inform any interested person of the date on which the Government of the relevant FTA country received notice of the determination under paragraph 4 of article 1904 of the Agreement or under article 10.12 of the USMCA.
 
-* #### (11) Suspension and termination of suspension of article 1904 of the NAFTA
-  * #### (A) Suspension of article 1904
-    * If a special committee established under article 1905 of the NAFTA issues an affirmative finding, the Trade Representative may, in accordance with paragraph 8(a) or 9, as appropriate, of article 1905 of the NAFTA, suspend the operation of article 1904 of the NAFTA.
+* #### (11) Suspension and termination of suspension of article 10.12 of the USMCA
+  * #### (A) Suspension
+    * If a special committee established under article 10.13 of the USMCA issues an affirmative finding, the Trade Representative may, in accordance with article 10.13 of the USMCA, suspend the operation of article 10.12 of the USMCA.
 
-  * #### (B) Termination of suspension of article 1904
-    * If a special committee is reconvened and makes an affirmative determination described in paragraph 10(b) of article 1905 of the NAFTA, any suspension of the operation of article 1904 of the NAFTA shall terminate.
+  * #### (B) Termination of suspension
+    * If a special committee is reconvened and makes an affirmative determination described in article 10.13 of the USMCA, any suspension of the operation of article 10.12 of the USMCA shall terminate.
 
-* #### (12) Judicial review upon termination of binational panel or committee review under the NAFTA
-  * #### (A) Notice of suspension or termination of suspension of article 1904
-    * (i) Upon notification by the Trade Representative or the Government of a country described in subsection (f)(10)(A) or (B) that the operation of article 1904 of the NAFTA has been suspended in accordance with paragraph 8(a) or 9 of article 1905 of the NAFTA, the United States Secretary shall publish in the Federal Register a notice of suspension of article 1904 of the NAFTA.
+* #### (12) Judicial review upon termination of binational panel or committee review under the USMCA
+  * #### (A) Notice of suspension or termination of suspension of article 10.12 of the USMCA
+    * #### (i) Notice of suspension
+      * Upon notification by the Trade Representative or the government of a country described in subparagraph (A) or (B) of subsection (f)(9) that the operation of article 10.12 of the USMCA has been suspended in accordance with article 10.13 of the USMCA, the United States Secretary shall publish in the Federal Register a notice of suspension of article 10.12 of the USMCA.
 
-    * (ii) Upon notification by the Trade Representative or the Government of a country described in subsection (f)(10)(A) or (B) that the suspension of the operation of article 1904 of the NAFTA is terminated in accordance with paragraph 10 of article 1905 of the NAFTA, the United States Secretary shall publish in the Federal Register a notice of termination of suspension of article 1904 of the NAFTA.
+    * #### (ii) Notice of termination of suspension
+      * Upon notification by the Trade Representative or the government of a country described in subparagraph (A) or (B) of subsection (f)(9) that the suspension of the operation of article 10.12 of the USMCA is terminated in accordance with article 10.13 of the USMCA, the United States Secretary shall publish in the Federal Register a notice of termination of suspension of article 10.12 of the USMCA.
 
-  * #### (B) Transfer of final determinations for judicial review upon suspension of article 1904
-    * If the operation of article 1904 of the NAFTA is suspended in accordance with paragraph 8(a) or 9 of article 1905 of the NAFTA—
+  * #### (B) Transfer of final determinations for judicial review upon suspension of article 10.12 of the USMCA
+    * If the operation of article 10.12 of the USMCA is suspended in accordance with article 10.13 of the USMCA—
 
       * (i) upon the request of an authorized person described in subparagraph (C), any final determination that is the subject of a binational panel review or an extraordinary challenge committee review shall be transferred to the United States Court of International Trade (in accordance with rules issued by the Court) for review under subsection (a); or
 
@@ -1552,16 +1548,16 @@
   * #### (C) Persons authorized to request transfer of final determinations for judicial review
     * A request that a final determination be transferred to the Court of International Trade under subparagraph (B) may be made by—
 
-      * (i) if the United States made an allegation under paragraph 1 of article 1905 of the NAFTA and the operation of article 1904 of the NAFTA was suspended pursuant to paragraph 8(a) of article 1905 of the NAFTA—
+      * (i) if the United States made an allegation under article 10.13 of the USMCA and the operation of article 10.12 of the USMCA was suspended pursuant to article 10.13 of the USMCA—
 
-        * (I) the government of the relevant country described in subsection (f)(10)(A) or (B),
+        * (I) the government of the relevant country described in subparagraph (A) or (B) of subsection (f)(9),
 
         * (II) an interested party that was a party to the panel or committee review, or
 
         * (III) an interested party that was a party to the proceeding in connection with which panel review was requested, but only if the time period for filing notices of appearance in the panel review has not expired, or
 
 
-      * (ii) if a country described in subsection (f)(10)(A) or (B) made an allegation under paragraph 1 of article 1905 of the NAFTA and the operation of article 1904 of the NAFTA was suspended pursuant to paragraph 9 of article 1905 of the NAFTA—
+      * (ii) if a country described in subparagraph (A) or (B) of subsection (f)(9) made an allegation under article 10.13 of the USMCA and the operation of article 10.12 of the USMCA was suspended pursuant to article 10.13 of the USMCA—
 
         * (I) the government of that country,
 
@@ -1570,7 +1566,7 @@
         * (III) an interested party that is a person of that country and that was a party to the proceeding in connection with which panel review was requested, but only if the time period for filing notices of appearance in the panel review has not expired.
 
   * #### (D) Transfer for judicial review upon settlement
-    * (i) If the Trade Representative achieves a settlement with the government of a country described in subsection (f)(10)(A) or (B) pursuant to paragraph 7 of article 1905 of the NAFTA, and referral for judicial review is among the terms of such settlement, any final determination that is the subject of a binational panel review or an extraordinary challenge committee review shall, upon a request described in clause (ii), be transferred to the United States Court of International Trade (in accordance with rules issued by the Court) for review under subsection (a).
+    * (i) If the Trade Representative achieves a settlement with the government of a country described in subparagraph (A) or (B) of subsection (f)(9) pursuant to article 10.13 of the USMCA, and referral for judicial review is among the terms of such settlement, any final determination that is the subject of a binational panel review or an extraordinary challenge committee review shall, upon a request described in clause (ii), be transferred to the United States Court of International Trade (in accordance with rules issued by the Court) for review under subsection (a).
 
     * (ii) A request referred to in clause (i) is a request made by—
 
@@ -1847,11 +1843,11 @@
 
 #### (c) Repealed. Pub. L. 108–429, title II, §2105, Dec. 3, 2004, 118 Stat. 2598
 #### (d) Goods qualifying under free trade agreement rules of origin
-* Notwithstanding the fact that a valid protest was not filed, the Customs Service may, in accordance with regulations prescribed by the Secretary, reliquidate an entry to refund any excess duties (including any merchandise processing fees) paid on a good qualifying under the rules of origin set out in section 3332 of this title, section 202 of the United States-Chile Free Trade Agreement Implementation Act, section 4033 of this title, section 202 of the United States-Oman Free Trade Agreement Implementation Act, section 203 of the United States-Peru Trade Promotion Agreement Implementation Act, section 202 of the United States–Korea Free Trade Agreement Implementation Act, section 203 of the United States–Colombia Trade Promotion Agreement Implementation Act, or section 203 of the United States–Panama Trade Promotion Agreement Implementation Act for which no claim for preferential tariff treatment was made at the time of importation if the importer, within 1 year after the date of importation, files, in accordance with those regulations, a claim that includes—
+* Notwithstanding the fact that a valid protest was not filed, the Customs Service may, in accordance with regulations prescribed by the Secretary, reliquidate an entry to refund any excess duties (including any merchandise processing fees) paid on a good qualifying under the rules of origin set out in section 202 of the United States-Chile Free Trade Agreement Implementation Act, section 4033 of this title, section 202 of the United States-Oman Free Trade Agreement Implementation Act, section 203 of the United States-Peru Trade Promotion Agreement Implementation Act, section 202 of the United States–Korea Free Trade Agreement Implementation Act, section 203 of the United States–Colombia Trade Promotion Agreement Implementation Act, section 203 of the United States–Panama Trade Promotion Agreement Implementation Act, or section 4531 of this title, for which no claim for preferential tariff treatment was made at the time of importation if the importer, within 1 year after the date of importation, files, in accordance with those regulations, a claim that includes—
 
   * (1) a written declaration that the good qualified under the applicable rules at the time of importation;
 
-  * (2) copies of all applicable NAFTA Certificates of Origin (as defined in section 1508(b)(1) of this title), or other certificates or certifications of origin, as the case may be; and
+  * (2) copies of all applicable certificates or certifications of origin; and
 
   * (3) such other documentation and information relating to the importation of the goods as the Customs Service may require.
 

@@ -1,8 +1,5 @@
 ### SUBPART IV—OVERSEAS PRIVATE INVESTMENT CORPORATION
 
-### §2194a. Contract authority of Corporation; specific authorization in appropriation Acts required
-* The authority of the Overseas Private Investment Corporation to enter into contracts under section 2194(a) of this title shall be effective for any fiscal year beginning after September 30, 1981, only to such extent or in such amounts as are provided in appropriation Acts.
-
 ### §2197. General provisions relating to insurance, guaranty, financing, and reinsurance programs
 #### (a) to (f). Repealed. Pub. L. 115–254, div. F, title VI, §1464(2), Oct. 5, 2018, 132 Stat. 3513
 #### (g) Fraud or misrepresentation

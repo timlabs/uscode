@@ -42,7 +42,7 @@
 
       * (i) a veteran who has a service-connected disability rated at 20 percent or more which was incurred or aggravated in service on or after September 16, 1940; or
 
-      * (ii) hospitalized or receiving outpatient medical care, services, or treatment for a service-connected disability pending discharge from the active military, naval, or air service, and the Secretary determines that—
+      * (ii) hospitalized or receiving outpatient medical care, services, or treatment for a service-connected disability pending discharge from the active military, naval, air, or space service, and the Secretary determines that—
 
         * (I) the hospital (or other medical facility) providing the hospitalization, care, services, or treatment is doing so under contract or agreement with the Secretary concerned, or is under the jurisdiction of the Secretary of Veterans Affairs or the Secretary concerned; and
 
@@ -87,13 +87,13 @@
 * (4) No person shall be entitled to an additional rehabilitation program under paragraph (1) from whom the Secretary receives an application therefor after March 31, 2014.
 
 ### §3103. Periods of eligibility
-* (a) Except as provided in subsection (b), (c), (d), or (e) of this section, a rehabilitation program may not be afforded to a veteran under this chapter after the end of the twelve-year period beginning on the date of such veteran's discharge or release from active military, naval, or air service.
+* (a) Except as provided in subsection (b), (c), (d), (e), or (g) of this section, a rehabilitation program may not be afforded to a veteran under this chapter after the end of the twelve-year period beginning on the date of such veteran's discharge or release from active military, naval, air, or space service.
 
 * (b)(1) In any case in which the Secretary determines that a veteran has been prevented from participating in a vocational rehabilitation program under this chapter within the period of eligibility prescribed in subsection (a) of this section because a medical condition of such veteran made it infeasible for such veteran to participate in such a program, the twelve-year period of eligibility shall not run during the period of time that such veteran was so prevented from participating in such a program, and such period of eligibility shall again begin to run on the first day following such veteran's recovery from such condition on which it is reasonably feasible, as determined under regulations which the Secretary shall prescribe, for such veteran to participate in such a program.
 
 * (2) In any case in which the Secretary determines that a veteran has been prevented from participating in a vocational rehabilitation program under this chapter within the period of eligibility prescribed in subsection (a) of this section because—
 
-  * (A) such veteran had not met the requirement of a discharge or release from active military, naval, or air service under conditions other than dishonorable before (i) the nature of such discharge or release was changed by appropriate authority, or (ii) the Secretary determined, under regulations prescribed by the Secretary, that such discharge or release was under conditions other than dishonorable, or
+  * (A) such veteran had not met the requirement of a discharge or release from active military, naval, air, or space service under conditions other than dishonorable before (i) the nature of such discharge or release was changed by appropriate authority, or (ii) the Secretary determined, under regulations prescribed by the Secretary, that such discharge or release was under conditions other than dishonorable, or
 
   * (B) such veteran's discharge or dismissal was, under section 5303 of this title, a bar to benefits under this title before the Secretary made a determination that such discharge or dismissal is not a bar to such benefits,
 
@@ -118,6 +118,8 @@
 * (2) A rehabilitation program described in this paragraph is a rehabilitation program pursued by a veteran under section 3102(b) of this title.
 
 * (f) In any case in which the Secretary has determined that a veteran was prevented from participating in a vocational rehabilitation program under this chapter within the period of eligibility otherwise prescribed in this section as a result of being ordered to serve on active duty under section 688, 12301(a), 12301(d), 12301(g), 12302, 12304, 12304a, or 12304b of title 10, such period of eligibility shall not run for the period of such active duty service plus four months.
+
+* (g) Subsection (a) shall not apply to a veteran who was discharged or released from active military, naval, or air service on or after January 1, 2013.
 
 ### §3104. Scope of services and assistance
 * (a) Services and assistance which the Secretary may provide under this chapter, pursuant to regulations which the Secretary shall prescribe, include the following:
@@ -328,7 +330,7 @@
 * The revolving fund established pursuant to part VII of Veterans Regulation Numbered 1(a) is continued in effect, and may be used by the Secretary, under regulations prescribed by the Secretary, for making advances, not in excess of twice the amount of the full-time institutional monthly subsistence allowance for a veteran with no dependents (as provided in section 3108(b) of this title) to veterans pursuing rehabilitation programs under this chapter. Such advances, and advances from such fund made before the effective date of the Veterans' Rehabilitation and Education Amendments of 1980, shall bear no interest and shall be repaid in such installments, as may be determined by the Secretary, by proper deductions from future payments of compensation, pension, subsistence allowance, educational assistance allowance, or retirement pay.
 
 ### §3113. Vocational rehabilitation for hospitalized members of the Armed Forces and veterans
-* (a) Services and assistance may be provided under this chapter to a person described in subparagraphs (A)(ii) and (B) of section 3102(1) of this title who is hospitalized pending discharge from active military, naval, or air service. In such cases, no subsistence allowance shall be paid.
+* (a) Services and assistance may be provided under this chapter to a person described in subparagraphs (A)(ii) and (B) of section 3102(1) of this title who is hospitalized pending discharge from active military, naval, air, or space service. In such cases, no subsistence allowance shall be paid.
 
 * (b) Services and assistance may be provided under this chapter to a veteran who is receiving care in a Department of Veterans Affairs hospital, nursing home, or domiciliary facility or in any other hospital or medical facility.
 

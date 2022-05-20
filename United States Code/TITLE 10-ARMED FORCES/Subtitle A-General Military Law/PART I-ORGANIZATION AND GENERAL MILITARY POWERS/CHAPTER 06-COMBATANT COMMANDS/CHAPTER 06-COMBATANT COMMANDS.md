@@ -397,9 +397,13 @@
 * (2) Before the budget proposal for a military department for any fiscal year is submitted to the Secretary of Defense, the Secretary of that military department shall consult with the commander of the special operations command concerning funding for special operations forces in the military personnel budget for a reserve component in that military department. If the commander of that command does not concur in the recommended level of funding with respect to reserve component special operations units, the Secretary shall include with the budget proposal submitted to the Secretary of Defense the views of the commander of that command.
 
 ### §167b. Unified combatant command for cyber operations
-* (a) ESTABLISHMENT.—With the advice and assistance of the Chairman of the Joint Chiefs of Staff, the President, through the Secretary of Defense, shall establish under section 161 of this title a unified combatant command for cyber operations forces (hereinafter in this section referred to as the "cyber command"). The principal function of the command is to prepare cyber operations forces to carry out assigned missions.
+* (a) ESTABLISHMENT.—(1) With the advice and assistance of the Chairman of the Joint Chiefs of Staff, the President, through the Secretary of Defense, shall establish under section 161 of this title a unified combatant command for cyber operations forces (hereinafter in this section referred to as the "cyber command").
 
-* (b) ASSIGNMENT OF FORCES.—Unless otherwise directed by the Secretary of Defense, all active and reserve cyber operations forces of the armed forces stationed in the United States shall be assigned to the cyber command.
+* (2) The principal mission of the Cyber Command is to direct, synchronize, and coordinate military cyberspace planning and operations to defend and advance national interests in collaboration with domestic and international partners.
+
+* (b) Assignment of Forces.—(1) Active and reserve cyber forces of the armed forces shall be assigned to the Cyber Command through the Global Force Management Process, as approved by the Secretary of Defense.
+
+* (2) Cyber forces not assigned to Cyber Command remain assigned to combatant commands or service-retained.
 
 * (c) GRADE OF COMMANDER.—The commander of the cyber command shall hold the grade of general or, in the case of an officer of the Navy, admiral while serving in that position, without vacating that officer's permanent grade. The commander of such command shall be appointed to that grade by the President, by and with the advice and consent of the Senate, for service in that position.
 

@@ -8,9 +8,11 @@
 
   * (B) remove individual and social barriers to economic and personal independence for older individuals;
 
-  * (C) provide a continuum of care for vulnerable older individuals; and
+  * (C) provide a continuum of care for vulnerable older individuals;
 
-  * (D) secure the opportunity for older individuals to receive managed in-home and community-based long-term care services.
+  * (D) secure the opportunity for older individuals to receive managed in-home and community-based long-term care services; and
+
+  * (E) measure impacts related to social determinants of health of older individuals.
 
 
 * (2) The persons referred to in paragraph (1) include—
@@ -56,7 +58,7 @@
 
   * (2) The term "education and training service" means a supportive service designed to assist older individuals to better cope with their economic, health, and personal needs through services such as consumer education, continuing education, health education, preretirement education, financial planning, and other education and training services which will advance the objectives of this chapter.
 
-  * (3) The term "family caregiver" means an adult family member, or another individual, who is an informal provider of in-home and community care to an older individual or to an individual with Alzheimer's disease or a related disorder with neurological and organic brain dysfunction.
+  * (3) The term "family caregiver" means an adult family member, or another individual, who is an informal provider of in-home and community care to an older individual or to an individual of any age with Alzheimer's disease or a related disorder with neurological and organic brain dysfunction.
 
   * (4) The term "unit of general purpose local government" means—
 
@@ -65,24 +67,24 @@
     * (B) an Indian tribal organization.
 
 ### §3023. Authorization of appropriations; uses of funds
-* (a)(1) There are authorized to be appropriated to carry out part B (relating to supportive services) $356,717,276 for fiscal year 2017, $364,456,847 for fiscal year 2018, and $372,196,069 for fiscal year 2019.
+* (a)(1) There are authorized to be appropriated to carry out part B (relating to supportive services) $412,029,180 for fiscal year 2020, $436,750,931 for fiscal year 2021, $462,955,987 for fiscal year 2022, $490,733,346 for fiscal year 2023, and $520,177,347 for fiscal year 2024.
 
 * (2) Funds appropriated under paragraph (1) shall be available to carry out section 3058g of this title.
 
-* (b)(1) There are authorized to be appropriated to carry out subpart I of part C (relating to congregate nutrition services) $459,937,586 for fiscal year 2017, $469,916,692 for fiscal year 2018, and $479,895,348 for fiscal year 2019.
+* (b)(1) There are authorized to be appropriated to carry out subpart I of part C (relating to congregate nutrition services) $530,015,940 for fiscal year 2020, $561,816,896 for fiscal year 2021, $595,525,910 for fiscal year 2022, $631,257,465 for fiscal year 2023, and $669,132,913 for fiscal year 2024.
 
-* (2) There are authorized to be appropriated to carry out subpart II of part C (relating to home delivered nutrition services) $232,195,942 for fiscal year 2017, $237,233,817 for fiscal year 2018, and $242,271,465 for fiscal year 2019.
+* (2) There are authorized to be appropriated to carry out subpart II of part C (relating to home delivered nutrition services) $268,935,940 for fiscal year 2020, $285,072,096 for fiscal year 2021, $302,176,422 for fiscal year 2022, $320,307,008 for fiscal year 2023, and $339,525,428 for fiscal year 2024.
 
 * (c) Grants made under part B, and subparts I and II of part C, of this subchapter may be used for paying part of the cost of—
 
   * (1) the administration of area plans by area agencies on aging designated under section 3025(a)(2)(A) of this title, including the preparation of area plans on aging consistent with section 3026 of this title and the evaluation of activities carried out under such plans; and
 
-  * (2) the development of comprehensive and coordinated systems for supportive services, congregate and home delivered nutrition services under subparts I and II of part C, the development and operation of multipurpose senior centers, and the delivery of legal assistance.
+  * (2) the development of comprehensive and coordinated systems for supportive services, and congregate and home delivered nutrition services under subparts I and II of part C, the development and operation of multipurpose senior centers, and the delivery of legal assistance.
 
 
-* (d) There are authorized to be appropriated to carry out part D (relating to disease prevention and health promotion services) $20,361,334 for fiscal year 2017, $20,803,107 for fiscal year 2018, and $21,244,860 for fiscal year 2019.
+* (d) There are authorized to be appropriated to carry out part D (relating to disease prevention and health promotion services) $26,587,360 for fiscal year 2020, $28,182,602 for fiscal year 2021, $29,873,558 for fiscal year 2022, $31,665,971 for fiscal year 2023, and $33,565,929 for fiscal year 2024.
 
-* (e) There are authorized to be appropriated to carry out part E (relating to family caregiver support) $154,336,482 for fiscal year 2017, $157,564,066 for fiscal year 2018, and $160,791,658 for fiscal year 2019.
+* (e) There are authorized to be appropriated to carry out part E (relating to family caregiver support) $193,869,020 for fiscal year 2020, $205,501,161 for fiscal year 2021, $217,831,231 for fiscal year 2022, $230,901,105 for fiscal year 2023, and $244,755,171 for fiscal year 2024.
 
 ### §3024. Allotment to States
 #### (a) In general
@@ -96,13 +98,46 @@
 
 * (C) American Samoa and the Commonwealth of the Northern Mariana Islands shall each be allotted not less than 1/16 of 1 percent of the sum appropriated for the fiscal year for which the determination is made. For the purposes of the exception contained in subparagraph (A) only, the term "State" does not include Guam, American Samoa, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands.
 
-* (D)(i) For each of fiscal years 2017 through 2019, no State shall be allotted an amount that is less than 99 percent of the amount allotted to such State for the previous fiscal year.
+* (D)(i) In this subparagraph and paragraph (5)—
 
-* (ii) For fiscal year 2020 and each subsequent fiscal year, no State shall be allotted an amount that is less than 100 percent of the amount allotted to such State for fiscal year 2019.
+  * (I) the term "allot" means allot under this subsection from a sum appropriated under section 3023(a) or 3023(b)(1) of this title, as the case may be; and
+
+  * (II) the term "covered fiscal year" means any of fiscal years 2020 through 2029.
+
+
+* (ii) If the sum appropriated under section 3023(a) or 3023(b)(1) of this title for a particular covered fiscal year is less than or equal to the sum appropriated under section 3023(a) or 3023(b)(1) of this title, respectively, for fiscal year 2019, amounts shall be allotted to States from the sum appropriated for the particular year in accordance with paragraphs (1) and (2), and subparagraphs (A) through (C) as applicable, but no State shall be allotted an amount that is less than—
+
+  * (I) for fiscal year 2020, 99.75 percent of the State's allotment from the corresponding sum appropriated for fiscal year 2019;
+
+  * (II) for fiscal year 2021, 99.50 percent of that allotment;
+
+  * (III) for fiscal year 2022, 99.25 percent of that allotment;
+
+  * (IV) for fiscal year 2023, 99.00 percent of that allotment;
+
+  * (V) for fiscal year 2024, 98.75 percent of that allotment;
+
+  * (VI) for fiscal year 2025, 98.50 percent of that allotment;
+
+  * (VII) for fiscal year 2026, 98.25 percent of that allotment;
+
+  * (VIII) for fiscal year 2027, 98.00 percent of that allotment;
+
+  * (IX) for fiscal year 2028, 97.75 percent of that allotment; and
+
+  * (X) for fiscal year 2029, 97.50 percent of that allotment.
+
+
+* (iii) If the sum appropriated under section 3023(a) or 3023(b)(1) of this title for a particular covered fiscal year is greater than the sum appropriated under section 3023(a) or 3023(b)(1) of this title, respectively, for fiscal year 2019, the allotments to States from the sum appropriated for the particular year shall be calculated as follows:
+
+  * (I) From the portion equal to the corresponding sum appropriated for fiscal year 2019, amounts shall be allotted in accordance with paragraphs (1) and (2), and subparagraphs (A) through (C) as applicable, but no State shall be allotted an amount that is less than the percentage specified in clause (ii), for that particular year, of the State's allotment from the corresponding sum appropriated for fiscal year 2019.
+
+  * (II) From the remainder, amounts shall be allotted in accordance with paragraph (1), subparagraphs (A) through (C) as applicable, and paragraph (2) to the extent needed to meet the requirements of those subparagraphs.
+
 
 * (4) The number of individuals aged 60 or older in any State and in all States shall be determined by the Assistant Secretary on the basis of the most recent data available from the Bureau of the Census, and other reliable demographic data satisfactory to the Assistant Secretary.
 
-* (5) State allotments for a fiscal year under this section shall be proportionally reduced to the extent that appropriations may be insufficient to provide the full allotments of the prior year.
+* (5) State allotments for a fiscal year under this section shall be proportionally reduced to the extent that appropriations may be insufficient to provide the full allotments as required by paragraph (3).
 
 #### (b) Unused funds
 * Whenever the Assistant Secretary determines that any amount allotted to a State under part B or C, or part E, for a fiscal year under this section will not be used by such State for carrying out the purpose for which the allotment was made, the Assistant Secretary shall make such allotment available for carrying out such purpose to one or more other States to the extent the Assistant Secretary determines that such other States will be able to use such additional amount for carrying out such purpose. Any amount made available to a State from an appropriation for a fiscal year in accordance with the preceding sentence shall, for purposes of this subchapter, be regarded as part of such State's allotment (as determined under subsection (a)) for such year, but shall remain available until the end of the succeeding fiscal year.
@@ -115,7 +150,7 @@
 
   * (A) such amount as the State agency determines, but not more than 10 percent thereof, shall be available for paying such percentage as the agency determines, but not more than 75 percent, of the cost of administration of area plans;
 
-  * (B) such amount (excluding any amount attributable to funds appropriated under section 3023(a)(3) of this title) as the State agency determines to be adequate for conducting an effective ombudsman program under section 3027(a)(9) of this title shall be available for conducting such program;
+  * (B) such amount as the State agency determines to be adequate for conducting an effective ombudsman program under section 3027(a)(9) of this title shall be available for conducting such program;
 
   * (C) not less than $150,000 and not more than 4 percent of the amount allotted to the State for carrying out part B, shall be available for conducting outreach demonstration projects under section 3058e of this title; and
 
@@ -267,13 +302,13 @@
 #### (a) Preparation and development by area agency on aging; requirements
 * Each area agency on aging designated under section 3025(a)(2)(A) of this title shall, in order to be approved by the State agency, prepare and develop an area plan for a planning and service area for a two-, three-, or four-year period determined by the State agency, with such annual adjustments as may be necessary. Each such plan shall be based upon a uniform format for area plans within the State prepared in accordance with section 3027(a)(1) of this title. Each such plan shall—
 
-  * (1) provide, through a comprehensive and coordinated system, for supportive services, nutrition services, and, where appropriate, for the establishment, maintenance, modernization, or construction of multipurpose senior centers (including a plan to use the skills and services of older individuals in paid and unpaid work, including multigenerational and older individual to older individual work), within the planning and service area covered by the plan, including determining the extent of need for supportive services, nutrition services, and multipurpose senior centers in such area (taking into consideration, among other things, the number of older individuals with low incomes residing in such area, the number of older individuals who have greatest economic need (with particular attention to low-income older individuals, including low-income minority older individuals, older individuals with limited English proficiency, and older individuals residing in rural areas) residing in such area, the number of older individuals who have greatest social need (with particular attention to low-income older individuals, including low-income minority older individuals, older individuals with limited English proficiency, and older individuals residing in rural areas) residing in such area, the number of older individuals at risk for institutional placement residing in such area, and the number of older individuals who are Indians residing in such area, and the efforts of voluntary organizations in the community), evaluating the effectiveness of the use of resources in meeting such need, and entering into agreements with providers of supportive services, nutrition services, or multipurpose senior centers in such area, for the provision of such services or centers to meet such need;
+  * (1) provide, through a comprehensive and coordinated system, for supportive services, nutrition services, and, where appropriate, for the establishment, maintenance, modernization, or construction of multipurpose senior centers (including a plan to use the skills and services of older individuals in paid and unpaid work, including multigenerational and older individual to older individual work), within the planning and service area covered by the plan, including determining the extent of need for supportive services, nutrition services, and multipurpose senior centers in such area (taking into consideration, among other things, the number of older individuals with low incomes residing in such area, the number of older individuals who have greatest economic need (with particular attention to low-income older individuals, including low-income minority older individuals, older individuals with limited English proficiency, and older individuals residing in rural areas) residing in such area, the number of older individuals who have greatest social need (with particular attention to low-income older individuals, including low-income minority older individuals, older individuals with limited English proficiency, and older individuals residing in rural areas) residing in such area, the number of older individuals at risk for institutional placement residing in such area, the number of older individuals at risk for institutional placement residing in such area, and the number of older individuals who are Indians residing in such area, and the efforts of voluntary organizations in the community), evaluating the effectiveness of the use of resources in meeting such need, and entering into agreements with providers of supportive services, nutrition services, or multipurpose senior centers in such area, for the provision of such services or centers to meet such need;
 
   * (2) provide assurances that an adequate proportion, as required under section 3027(a)(2) of this title, of the amount allotted for part B to the planning and service area will be expended for the delivery of each of the following categories of services—
 
     * (A) services associated with access to services (transportation, health services (including mental and behavioral health services), outreach, information and assistance (which may include information and assistance to consumers on availability of services under part B and how to receive benefits under and participate in publicly supported programs for which the consumer may be eligible), and case management services);
 
-    * (B) in-home services, including supportive services for families of older individuals who are victims of Alzheimer's disease and related disorders with neurological and organic brain dysfunction); and
+    * (B) in-home services, including supportive services for families of older individuals with Alzheimer's disease and related disorders with neurological and organic brain dysfunction); and
 
     * (C) legal assistance;
 
@@ -327,10 +362,10 @@
 
       * (VI) older individuals with Alzheimer's disease and related disorders with neurological and organic brain dysfunction (and the caretakers of such individuals); and
 
-      * (VII) older individuals at risk for institutional placement; and
+      * (VII) older individuals at risk for institutional placement, specifically including survivors of the Holocaust; and
 
 
-    * (ii) inform the older individuals referred to in subclauses (I) through (VI) of clause (i), and the caretakers of such individuals, of the availability of such assistance; and
+    * (ii) inform the older individuals referred to in subclauses (I) through (VII) of clause (i), and the caretakers of such individuals, of the availability of such assistance; and
 
 
   * (C) contain an assurance that the area agency on aging will ensure that each activity undertaken by the agency, including planning, advocacy, and systems development, will include a focus on the needs of low-income minority older individuals and older individuals residing in rural areas;
@@ -368,9 +403,11 @@
 
     * (F) in coordination with the State agency and with the State agency responsible for mental and behavioral health services, increase public awareness of mental health disorders, remove barriers to diagnosis and treatment, and coordinate mental and behavioral health services (including mental health screenings) provided with funds expended by the area agency on aging with mental and behavioral health services provided by community health centers and by other public agencies and nonprofit private organizations;
 
-    * (G) if there is a significant population of older individuals who are Indians in the planning and service area of the area agency on aging, the area agency on aging shall conduct outreach activities to identify such individuals in such area and shall inform such individuals of the availability of assistance under this chapter; and
+    * (G) if there is a significant population of older individuals who are Indians in the planning and service area of the area agency on aging, the area agency on aging shall conduct outreach activities to identify such individuals in such area and shall inform such individuals of the availability of assistance under this chapter;
 
-    * (H) in coordination with the State agency and with the State agency responsible for elder abuse prevention services, increase public awareness of elder abuse, neglect, and exploitation, and remove barriers to education, prevention, investigation, and treatment of elder abuse, neglect, and exploitation, as appropriate;
+    * (H) in coordination with the State agency and with the State agency responsible for elder abuse prevention services, increase public awareness of elder abuse, neglect, and exploitation, and remove barriers to education, prevention, investigation, and treatment of elder abuse, neglect, and exploitation, as appropriate; and
+
+    * (I) to the extent feasible, coordinate with the State agency to disseminate information about the State assistive technology entity and access to assistive technology options for serving older individuals;
 
 
   * (7) provide that the area agency on aging shall, consistent with this section, facilitate the area-wide development and implementation of a comprehensive, coordinated system for providing long-term care in home and community-based settings, in a manner responsive to the needs and preferences of older individuals and their family caregivers, by—
@@ -412,7 +449,12 @@
       * (iv) is located in a rural area and obtains a waiver of the requirements described in clauses (i) through (iii);
 
 
-  * (9) provide assurances that the area agency on aging, in carrying out the State Long-Term Care Ombudsman program under section 3027(a)(9) of this title, will expend not less than the total amount of funds appropriated under this chapter and expended by the agency in fiscal year 2000 in carrying out such a program under this subchapter;
+  * (9) provide assurances that—
+
+    * (A) the area agency on aging, in carrying out the State Long-Term Care Ombudsman program under section 3027(a)(9) of this title, will expend not less than the total amount of funds appropriated under this chapter and expended by the agency in fiscal year 2019 in carrying out such a program under this subchapter; and
+
+    * (B) funds made available to the area agency on aging pursuant to section 3058g of this title shall be used to supplement and not supplant other Federal, State, and local funds expended to support activities described in section 3058g of this title;
+
 
   * (10) provide a grievance procedure for older individuals who are dissatisfied with or denied services under this subchapter;
 
@@ -454,9 +496,18 @@
     * (B) in compliance with the assurances specified in paragraph (13) and the limitations specified in section 3020c of this title;
 
 
-  * (16) provide, to the extent feasible, for the furnishing of services under this chapter, consistent with self-directed care; and
+  * (16) provide, to the extent feasible, for the furnishing of services under this chapter, consistent with self-directed care;
 
-  * (17) include information detailing how the area agency on aging will coordinate activities, and develop long-range emergency preparedness plans, with local and State emergency response agencies, relief organizations, local and State governments, and any other institutions that have responsibility for disaster relief service delivery.
+  * (17) include information detailing how the area agency on aging will coordinate activities, and develop long-range emergency preparedness plans, with local and State emergency response agencies, relief organizations, local and State governments, and any other institutions that have responsibility for disaster relief service delivery;
+
+  * (18) provide assurances that the area agency on aging will collect data to determine—
+
+    * (A) the services that are needed by older individuals whose needs were the focus of all centers funded under subchapter IV in fiscal year 2019; and
+
+    * (B) the effectiveness of the programs, policies, and services provided by such area agency on aging in assisting such individuals; and
+
+
+  * (19) provide assurances that the area agency on aging will use outreach efforts that will identify individuals eligible for assistance under this chapter, with special emphasis on those individuals whose needs were the focus of all centers funded under subchapter IV in fiscal year 2019.
 
 #### (b) Assessment of preparation of area agencies
 * (1) An area agency on aging may include in the area plan an assessment of how prepared the area agency on aging and service providers in the planning and service area are for any anticipated change in the number of older individuals during the 10-year period following the fiscal year for which the plan is submitted.
@@ -494,9 +545,11 @@
 
   * (J) emergency preparedness;
 
-  * (K) protection from elder abuse, neglect, and exploitation; and
+  * (K) protection from elder abuse, neglect, and exploitation;
 
-  * (L) any other service as determined by such agency.
+  * (L) assistive technology devices and services; and
+
+  * (M) any other service as determined by such agency.
 
 #### (c) Waiver of requirements
 * Each State, in approving area agency on aging plans under this section, shall waive the requirement described in paragraph (2) of subsection (a) for any category of services described in such paragraph if the area agency on aging demonstrates to the State agency that services being furnished for such category in the area are sufficient to meet the need for such services in such area and had conducted a timely public hearing upon request.
@@ -526,6 +579,15 @@
 * (3)(A) If a State agency withholds the funds, the State agency may use the funds withheld to directly administer programs under this subchapter in the planning and service area served by the area agency on aging for a period not to exceed 180 days, except as provided in subparagraph (B).
 
 * (B) If the State agency determines that the area agency on aging has not taken corrective action, or if the State agency does not approve the corrective action, during the 180-day period described in subparagraph (A), the State agency may extend the period for not more than 90 days.
+
+#### (g) No restriction on provision of services
+* Nothing in this chapter shall restrict an area agency on aging from providing services not provided or authorized by this chapter, including through—
+
+* (1) contracts with health care payers;
+
+* (2) consumer private pay programs; or
+
+* (3) other arrangements with entities or individuals that increase the availability of home- and community-based services and supports.
 
 ### §3027. State plans
 #### (a) Criteria for eligibility; contents
@@ -597,7 +659,12 @@
 
   * (C) The plan may specify that an area agency on aging is allowed to directly provide information and assistance services and outreach.
 
-  * (9) The plan shall provide assurances that the State agency will carry out, through the Office of the State Long-Term Care Ombudsman, a State Long-Term Care Ombudsman program in accordance with section 3058g of this title and this subchapter, and will expend for such purpose an amount that is not less than an amount expended by the State agency with funds received under this subchapter for fiscal year 2000, and an amount that is not less than the amount expended by the State agency with funds received under subchapter XI for fiscal year 2000.
+  * (9) The plan shall provide assurances that—
+
+    * (A) the State agency will carry out, through the Office of the State Long-Term Care Ombudsman, a State Long-Term Care Ombudsman program in accordance with section 3058g of this title and this subchapter, and will expend for such purpose an amount that is not less than the amount expended by the State agency with funds received under this subchapter for fiscal year 2019, and an amount that is not less than the amount expended by the State agency with funds received under subchapter VII for fiscal year 2019; and
+
+    * (B) funds made available to the State agency pursuant to section 3058g of this title shall be used to supplement and not supplant other Federal, State, and local funds expended to support activities described in section 3058g of this title.
+
 
   * (10) The plan shall provide assurances that the special needs of older individuals residing in rural areas will be taken into consideration and shall describe how those needs have been met and describe how funds have been allocated to meet those needs.
 
@@ -707,11 +774,9 @@
 
   * (25) The plan shall include assurances that the State has in effect a mechanism to provide for quality in the provision of in-home services under this subchapter.
 
-  * (26) The plan shall provide assurances that funds received under this subchapter will not be used to pay any part of a cost (including an administrative cost) incurred by the State agency or an area agency on aging to carry out a contract or commercial relationship that is not carried out to implement this subchapter.
+  * (26) The plan shall provide assurances that area agencies on aging will provide, to the extent feasible, for the furnishing of services under this chapter, consistent with self-directed care.
 
-  * (27) The plan shall provide assurances that area agencies on aging will provide, to the extent feasible, for the furnishing of services under this chapter, consistent with self-directed care.
-
-  * (28)(A) The plan shall include, at the election of the State, an assessment of how prepared the State is, under the State's statewide service delivery model, for any anticipated change in the number of older individuals during the 10-year period following the fiscal year for which the plan is submitted.
+  * (27)(A) The plan shall include, at the election of the State, an assessment of how prepared the State is, under the State's statewide service delivery model, for any anticipated change in the number of older individuals during the 10-year period following the fiscal year for which the plan is submitted.
 
   * (B) Such assessment may include—
 
@@ -724,9 +789,17 @@
     * (iv) an analysis of how the change in the number of individuals age 85 and older in the State is expected to affect the need for supportive services.
 
 
-  * (29) The plan shall include information detailing how the State will coordinate activities, and develop long-range emergency preparedness plans, with area agencies on aging, local emergency response agencies, relief organizations, local governments, State agencies responsible for emergency preparedness, and any other institutions that have responsibility for disaster relief service delivery.
+  * (28) The plan shall include information detailing how the State will coordinate activities, and develop long-range emergency preparedness plans, with area agencies on aging, local emergency response agencies, relief organizations, local governments, State agencies responsible for emergency preparedness, and any other institutions that have responsibility for disaster relief service delivery.
 
-  * (30) The plan shall include information describing the involvement of the head of the State agency in the development, revision, and implementation of emergency preparedness plans, including the State Public Health Emergency Preparedness and Response Plan.
+  * (29) The plan shall include information describing the involvement of the head of the State agency in the development, revision, and implementation of emergency preparedness plans, including the State Public Health Emergency Preparedness and Response Plan.
+
+  * (30) The plan shall contain an assurance that the State shall prepare and submit to the Assistant Secretary annual reports that describe—
+
+    * (A) data collected to determine the services that are needed by older individuals whose needs were the focus of all centers funded under subchapter IV in fiscal year 2019;
+
+    * (B) data collected to determine the effectiveness of the programs, policies, and services provided by area agencies on aging in assisting such individuals; and
+
+    * (C) outreach efforts and other activities carried out to satisfy the assurances described in paragraphs (18) and (19) of section 3026(a) of this title.
 
 #### (b) Approval by Assistant Secretary; waiver of requirements
 * (1) The Assistant Secretary shall approve any State plan which the Assistant Secretary finds fulfills the requirements of subsection (a), except the Assistant Secretary may not approve such plan unless the Assistant Secretary determines that the formula submitted under section 3025(a)(2)(D) of this title complies with the guidelines in effect under section 3025(a)(2)(C) of this title.
@@ -764,27 +837,37 @@
 
 ### §3028. Cost of administration of State plans
 #### (a) Activities constituting administration; use of excess funds to supplement cost of administration of area plans; election to pay costs from sums received for administration of area plans
-* (1) Amounts available to States under subsection (b)(1) may be used to make grants to States for paying such percentages as each State agency determines, but not more than 75 percent, of the cost of the administration of its State plan, including the preparation of the State plan, the evaluation of activities carried out under such plan, the collection of data and the carrying out of analyses related to the need for supportive services, nutrition services, and multipurpose senior centers within the State, and dissemination of information so obtained, the provision of short-term training to personnel of public or nonprofit private agencies and organizations engaged in the operation of programs authorized by this chapter, and the carrying out of demonstration projects of statewide significance relating to the initiation, expansion, or improvement of services assisted under this subchapter.
+* (1) Amounts available to States under subsection (b) may be used to make grants to States for paying such percentages as each State agency determines, but not more than 75 percent, of the cost of the administration of its State plan, including the preparation of the State plan, the evaluation of activities carried out under such plan, the collection of data and the carrying out of analyses related to the need for supportive services, nutrition services, and multipurpose senior centers within the State, and dissemination of information so obtained, the provision of short-term training to personnel of public or nonprofit private agencies and organizations engaged in the operation of programs authorized by this chapter, and the carrying out of demonstration projects of statewide significance relating to the initiation, expansion, or improvement of services assisted under this subchapter.
 
-* (2) Any sums available to a State under subsection (b)(1) for part of the cost of the administration of its State plan which the State determines is not needed for such purpose may be used by the State to supplement the amount available under section 3024(d)(1)(A) of this title to cover part of the cost of the administration of area plans.
+* (2) Any sums available to a State under subsection (b) for part of the cost of the administration of its State plan which the State determines is not needed for such purpose may be used by the State to supplement the amount available under section 3024(d)(1)(A) of this title to cover part of the cost of the administration of area plans.
 
 * (3) Any State which has been designated a single planning and service area under section 3025(a)(1)(E) of this title covering all, or substantially all, of the older individuals in such State, as determined by the Assistant Secretary, may elect to pay part of the costs of the administration of State and area plans either out of sums received under this section of out of sums made available for the administration of area plans under section 3024(d)(1)(A) of this title, but shall not pay such costs out of sums received or allotted under both such sections.
 
 #### (b) Formula for computation of allotment; application for additional funds; approval of application by Assistant Secretary; limitation on amount of additional funds; transfer of funds
 * (1) If for any fiscal year the aggregate amount appropriated under section 3023 of this title does not exceed $800,000,000, then—
 
-  * (A) except as provided in clause (ii), the greater of 5 percent of the allotment to a State under section 3024(a)(1) of this title or $300,000; and
+  * (A) except as provided in subparagraph (B), the greater of—
 
-  * (B) in the case of Guam, American Samoa, the United States Virgin Islands, the Trust Territory of the Pacific Islands, and the Commonwealth of the Northern Mariana Islands, the greater of 5 percent of such allotment or $75,000;
+    * (i) 5 percent of the total amount of the allotments made to a State under sections 3024(a)(1) and 3030s–1(f) of this title; or
+
+    * (ii) $300,000; and
+
+
+  * (B) in the case of Guam, American Samoa, the United States Virgin Islands, the Trust Territory of the Pacific Islands, and the Commonwealth of the Northern Mariana Islands, the greater of 5 percent of such total amount or $75,000;
 
 
 * shall be available to such State to carry out the purposes of this section.
 
 * (2) If for any fiscal year the aggregate amount appropriated under section 3023 of this title exceeds $800,000,000, then—
 
-  * (A) except as provided in clause (ii), the greater of 5 percent of the allotment to a State under section 3024(a)(1) of this title or $500,000; and
+  * (A) except as provided in subparagraph (B), the greater of—
 
-  * (B) in the case of Guam, American Samoa, the United States Virgin Islands, the Trust Territory of the Pacific Islands, and the Commonwealth of the Northern Mariana Islands, the greater of 5 percent of such allotment or $100,000;
+    * (i) 5 percent of the total amount of the allotments made to a State under sections 3024(a)(1) and 3030s–1(f) of this title; or
+
+    * (ii) $750,000; and
+
+
+  * (B) in the case of Guam, American Samoa, the United States Virgin Islands, the Trust Territory of the Pacific Islands, and the Commonwealth of the Northern Mariana Islands, the greater of 5 percent of such total amount or $100,000;
 
 
 * shall be available to such State to carry out the purposes of this section.
@@ -821,6 +904,9 @@
   * (iv) not include a request for a waiver with respect to an amount if the transfer of the amount would jeopardize the appropriate provision of services under subpart I or II of part C.
 
 
+* (D) The State, in consultation with area agencies on aging, shall ensure the process used by the State in transferring funds under this paragraph (including requirements relating to the authority and timing of such transfers) is simplified and clarified to reduce administrative barriers and direct limited resources to the greatest nutrition service needs at the community level. Such process shall be modified to attempt to lessen the administrative barriers of such transfers, and help direct limited resources to where they are needed the most as the unmet need for nutrition services grows.
+
+
 * (5)(A) Notwithstanding any other provision of this subchapter, of the funds received by a State attributable to funds appropriated under subsection (a)(1), and paragraphs (1) and (2) of subsection (b), of section 3023 of this title, the State may elect to transfer not more than 30 percent for any fiscal year between programs under part B and part C, for use as the State considers appropriate. The State shall notify the Assistant Secretary of any such election.
 
 * (B) At a minimum, the notification described in subparagraph (A) shall include a description of the amount to be transferred, the purposes of the transfer, the need for the transfer, and the impact of the transfer on the provision of services from which the funding will be transferred.
@@ -849,6 +935,13 @@
       * (I) part B; and
 
       * (II) part C, including the effect on the number of meals served.
+
+
+* (8) The Assistant Secretary shall review the reports submitted under section 3027(a)(30) of this title and include aggregate data in the report required by section 3018(a) of this title, including data on—
+
+  * (A) the effectiveness of the programs, policies, and services provided by area agencies on aging in assisting older individuals whose needs were the focus of all centers funded under subchapter IV in fiscal year 2019; and
+
+  * (B) outreach efforts and other activities carried out to satisfy the assurances described in paragraphs (18) and (19) of section 3026(a) of this title, to identify such older individuals and their service needs.
 
 #### (c) Availability of funds under this section to provide services under parts B and C
 * The amounts of any State's allotment under subsection (b) for any fiscal year which the Assistant Secretary determines will not be required for that year for the purposes described in subsection (a)(1) shall be available to provide services under part B or part C, or both, in the State.
@@ -911,7 +1004,7 @@
 * (5) Nothing in this subsection shall be construed to require any State agency or title VI [subchapter X] grantee to elect to receive cash payments under this subsection.
 
 #### (e) Authorization of appropriations
-* There are authorized to be appropriated to carry out this section (other than subsection (c)(1)) $164,055,664 for fiscal year 2017, $167,486,502 for fiscal year 2018, and $170,917,349 for fiscal year 2019.
+* There are authorized to be appropriated to carry out this section (other than subsection (c)(1)) $171,273,830 for fiscal year 2020, $181,550,260 for fiscal year 2021, $192,443,275 for fiscal year 2022, $203,989,872 for fiscal year 2023, and $216,229,264 for fiscal year 2024.
 
 #### (f) Dissemination of information
 * In each fiscal year, the Secretary and the Secretary of Agriculture shall jointly disseminate to State agencies, title VI [subchapter X] grantees, area agencies on aging, and providers of nutrition services assisted under this subchapter, information concerning the foods available to such State agencies, title VI [subchapter X] grantees, area agencies on aging, and providers under subsection (c).
@@ -1027,6 +1120,13 @@
 
 #### (d) Evaluation
 * Not later than 1 year after November 13, 2000, and annually thereafter, the Assistant Secretary shall conduct a comprehensive evaluation of practices for cost sharing to determine its impact on participation rates (with particular attention to low-income older individuals, including low-income minority older individuals, older individuals with limited English proficiency, and older individuals residing in rural areas). If the Assistant Secretary finds that there is a disparate impact upon low-income or minority older individuals or older individuals residing in rural areas in any State or region within the State regarding the provision of services, the Assistant Secretary shall take corrective action to assure that such services are provided to all older individuals without regard to the cost sharing criteria.
+
+#### (e) Response to area agencies on aging
+* #### (1) In general
+  * Upon request from an area agency on aging, the State shall make available any policies or guidance pertaining to policies established under this section.
+
+* #### (2) Rule of construction
+  * Nothing in paragraph (1) shall require a State to develop policies or guidance pertaining to policies established under this section.
 
 ### §3030c–3. Waivers
 #### (a) In general

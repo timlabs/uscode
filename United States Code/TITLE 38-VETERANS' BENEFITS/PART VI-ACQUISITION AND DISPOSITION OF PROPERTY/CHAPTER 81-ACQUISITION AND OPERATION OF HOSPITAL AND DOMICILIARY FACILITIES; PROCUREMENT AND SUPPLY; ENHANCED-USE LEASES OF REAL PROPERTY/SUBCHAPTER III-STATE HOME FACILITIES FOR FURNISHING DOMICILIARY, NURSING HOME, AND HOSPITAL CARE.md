@@ -5,14 +5,14 @@
 
   * (1) The veteran population of each State shall be determined on the basis of the latest figures certified by the Department of Commerce.
 
-  * (2) The term "State" does not include any possession of the United States.
+  * (2) The term "State" includes each Indian tribe (as defined in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304)) but does not include any possession of the United States.
 
   * (3) The term "construction" means the construction of new domiciliary or nursing home buildings, the expansion, remodeling, or alteration of existing buildings for the provision of domiciliary, nursing home, adult day health, or hospital care in State homes, and the provision of initial equipment for any such buildings.
 
   * (4) The term "cost of construction" means the amount found by the Secretary to be necessary for a construction project, including architect fees, but excluding land acquisition costs.
 
 ### §8132. Declaration of purpose
-* The purpose of this subchapter is to assist the several States to construct State home facilities (or to acquire facilities to be used as State home facilities) for furnishing domiciliary or nursing home care to veterans, and to expand, remodel, or alter existing buildings for furnishing domiciliary, nursing home, adult day health, or hospital care to veterans in State homes.
+* The purpose of this subchapter is to assist the States to construct State home facilities (or to acquire facilities to be used as State home facilities) for furnishing domiciliary or nursing home care to veterans, and to expand, remodel, or alter existing buildings for furnishing domiciliary, nursing home, adult day health, or hospital care to veterans in State homes.
 
 ### §8133. Authorization of appropriations
 * (a) There are hereby authorized to be appropriated such sums as are necessary to carry out this subchapter. Sums appropriated pursuant to this section shall be used for making grants to States which have submitted, and have had approved by the Secretary, applications for carrying out the purposes and meeting the requirements of this subchapter.

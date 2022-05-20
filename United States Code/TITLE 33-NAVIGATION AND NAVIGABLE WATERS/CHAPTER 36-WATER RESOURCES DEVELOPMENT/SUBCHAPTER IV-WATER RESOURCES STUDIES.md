@@ -78,29 +78,13 @@
 
 ### §2263a. Aquatic invasive species research
 #### (a) In general
-* As part of the ongoing activities of the Engineer Research and Development Center to address the spread and impacts of aquatic invasive species, the Secretary shall undertake research on the management and eradication of aquatic invasive species, including Asian carp and zebra mussels.
+* As part of the ongoing activities of the Engineer Research and Development Center to address the spread and impacts of aquatic invasive species, the Secretary shall undertake research on the prevention, management, and eradication of aquatic invasive species, including Asian carp, elodea, quagga mussels, and zebra mussels.
 
 #### (b) Locations
-* In carrying out subsection (a), the Secretary shall work with Corps of Engineers district offices representing diverse geographical regions of the continental United States that are impacted by aquatic invasive species, such as the Atlantic, Pacific, and Gulf coasts and the Great Lakes.
+* In carrying out subsection (a), the Secretary shall work with Corps of Engineers district offices representing diverse geographical regions of the continental United States that are impacted or could be impacted in the future by aquatic invasive species, such as the Atlantic, Pacific, Arctic, and Gulf Coasts, the Great Lakes, and reservoirs operated and maintained by the Secretary.
 
 #### (c) Report
 * Not later than 180 days after October 23, 2018, the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a report recommending a plan to address the spread and impacts of aquatic invasive species.
-
-### §2264. Deauthorization of studies
-* (a) Notwithstanding section 3003 of Public Law 104–66 (31 U.S.C. 1113 note; 109 Stat. 734), not later than one year after November 17, 1986, and annually thereafter, the Secretary shall submit to Congress a list of incomplete water resources studies which have been authorized, but for which no funds have been appropriated during the 5 full fiscal years preceding the submission of such list. For each such study the Secretary shall include the following information:
-
-  * (1) the date of authorization and the manner in which the study was authorized;
-
-  * (2) a description of the purposes of the study;
-
-  * (3) a description of funding that has been made available for the study;
-
-  * (4) a description of any work that has been performed in carrying out the study and the results and conclusions, if any, of such work; and
-
-  * (5) a description of any work that remains to be done in carrying out the study and the time necessary for and estimated cost of completing such work.
-
-
-* (b) Each study included in a list under subsection (a) is not authorized on and after the 90th day following the submission to Congress of such list if no funds have been appropriated for such study after the list is submitted and before such 90th day.
 
 ### §2265. Columbia River/Arkansas River Basin transfers
 * (a) No Federal agency shall study or participate in the study of any regional or river basin plan or any plan for any Federal water and related land resource project which has as its objective the transfer of water from the Columbia River Basin to any other region or any other major river basin of the United States, unless such study is approved by the Governors of all affected States.
@@ -290,10 +274,10 @@
 
 * #### (4) Design and construction
   * #### (A) In general
-    * The Secretary may carry out the design and construction of a water resources development project, or separable element of a project, described in paragraph (1) that the Secretary determines is feasible if the Federal share of the cost of the project or separable element is not more than $12,500,000.
+    * The Secretary may carry out the design and construction of a water resources development project, or separable element of a project, described in paragraph (1) that the Secretary determines is feasible if the Federal share of the cost of the project or separable element is not more than $18,500,000.
 
   * #### (B) Specific authorization
-    * If the Federal share of the cost of the project or separable element described in subparagraph (A) is more than $12,500,000, the Secretary may only carry out the project or separable element if Congress enacts a law authorizing the Secretary to carry out the project or separable element.
+    * If the Federal share of the cost of the project or separable element described in subparagraph (A) is more than $18,500,000, the Secretary may only carry out the project or separable element if Congress enacts a law authorizing the Secretary to carry out the project or separable element.
 
 #### (c) Consultation and coordination with Secretary of the Interior
 * #### (1) In general
@@ -340,3 +324,10 @@
 
 #### (e) Restrictions
 * The Secretary is authorized to carry out activities under this section for fiscal years 2015 through 2024.
+
+### §2270. Subsurface drain systems research and development
+* Subject to the availability of appropriations, the Secretary, acting through the Director of the Engineer Research and Development Center and, where appropriate, in consultation with other Federal agencies, shall carry out research and development activities relating to the use of subsurface drain systems as—
+
+  * (1) a flood risk-reduction measure; or
+
+  * (2) a coastal storm risk-reduction measure.

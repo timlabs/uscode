@@ -1,6 +1,6 @@
 ### PART IV—TRANSPORTATION IN BOND AND WAREHOUSING OF MERCHANDISE
 
-### §1551. Designation as carrier of bonded merchandise
+### §1551. Bonding of carriers
 * Under such regulations and subject to such terms and conditions as the Secretary of the Treasury shall prescribe—
 
   * (1) any common carrier of merchandise owning or operating a railroad, steamship, or other transportation line or route for the transportation of merchandise in the United States,
@@ -207,22 +207,22 @@
 ### §1562. Manipulation in warehouse
 * Merchandise shall only be withdrawn from a bonded warehouse in such quantity and in such condition as the Secretary of the Treasury shall by regulation prescribe. Upon permission being granted by the Secretary of the Treasury, and under customs supervision, at the expense of the proprietor, merchandise may be cleaned, sorted, repacked, or otherwise changed in condition, but not manufactured, in bonded warehouses established for that purpose and be withdrawn therefrom—
 
-  * (1) without payment of duties for exportation to a NAFTA country, as defined in section 3301(4) of this title, if the merchandise is of a kind described in any of paragraphs (1) through (8) of section 3333(a) of this title;
+  * (1) without payment of duties for exportation to a USMCA country, as defined in section 4502 of this title, if the merchandise is of a kind described in any of paragraphs (1) through (8) of section 4534(a) of this title;
 
-  * (2) for exportation to a NAFTA country if the merchandise consists of goods subject to NAFTA drawback, as defined in section 3333(a) of this title, except that—
+  * (2) for exportation to a USMCA country if the merchandise consists of goods subject to USMCA drawback, as defined in section 4534(a) of this title, except that—
 
     * (A) the merchandise may not be withdrawn from warehouse without assessment of a duty on the merchandise in its condition and quantity, and at its weight, at the time of withdrawal from the warehouse with such additions to or deductions from the final appraised value as may be necessary by reason of change in condition, and
 
-    * (B) duty shall be paid on the merchandise before the 61st day after the date of exportation, but upon the presentation, before such 61st day, of satisfactory evidence of the amount of any customs duties paid to the NAFTA country on the merchandise, the customs duty may be waived or reduced (subject to section 1508(b)(2)(B) of this title) in an amount that does not exceed the lesser of—
+    * (B) duty shall be paid on the merchandise before the 61st day after the date of exportation, but upon the presentation, before such 61st day, of satisfactory evidence of the amount of any customs duties paid to the USMCA country on the merchandise, the customs duty may be waived or reduced (subject to section 4534(e) of this title) in an amount that does not exceed the lesser of—
 
       * (i) the total amount of customs duties paid or owed on the merchandise on importation into the United States, or
 
-      * (ii) the total amount of customs duties paid on the merchandise to the NAFTA country;
+      * (ii) the total amount of customs duties paid on the merchandise to the USMCA country;
 
 
-  * (3) without payment of duties for exportation to any foreign country other than to Chile, to a NAFTA country, or to Canada when exports to that country are subject to paragraph (4);
+  * (3) without payment of duties for exportation to any foreign country other than to Chile, to a USMCA country, or to Canada when exports to that country are subject to paragraph (4);
 
-  * (4) without payment of duties for exportation to Canada (if that country ceases to be a NAFTA country and the suspension of the operation of the United States-Canada Free-Trade Agreement thereafter terminates), but the exemption from the payment of duties under this paragraph applies only in the case of an exportation during the period such Agreement is in operation of merchandise that—
+  * (4) without payment of duties for exportation to Canada (if that country ceases to be a USMCA country and the suspension of the operation of the United States-Canada Free-Trade Agreement thereafter terminates), but the exemption from the payment of duties under this paragraph applies only in the case of an exportation during the period such Agreement is in operation of merchandise that—
 
     * (A) is only cleaned, sorted, or repacked in a bonded warehouse, or
 
@@ -250,7 +250,7 @@
 
 * Merchandise may be withdrawn from bonded warehouse for consumption, or for exportation to Canada if the duty exemption under paragraph (4) of the preceding sentence does not apply, upon the payment of duties accruing thereon, in its condition and quantity, and at its weight, at the time of withdrawal from warehouse, with such additions to or deductions from the final appraised value as may be necessary by reason of change in condition. The basis for the assessment of duties on such merchandise so withdrawn for consumption shall be the adjusted final appraised value, and if the rate of duty is based upon or regulated in any manner by the value of the merchandise, such rate shall be based upon or regulated by such adjusted final appraised value. The scouring or carbonizing of wool shall not be considered a process of manufacture within the provisions of this section. Under such regulations as the Secretary of the Treasury shall prescribe, imported merchandise which has been entered and which has remained in continuous customs custody may be manipulated in accordance with the provisions of this section under customs supervision and at the risk and expense of the consignee, but elsewhere than in a bonded warehouse, in cases where neither the protection of the revenue nor the proper conduct of customs business requires that such manipulation be done in bonded warehouse.
 
-### §1563. Allowance for loss, abandonment of warehouse goods
+### §1563. Allowance for loss; abandonment of warehouse goods
 #### (a) Abatement or allowance for deterioration, loss or damage to merchandise in customs custody; exception
 * In no case shall there be any abatement or allowance made in the duties for any injury, deterioration, loss, or damage sustained by any merchandise while remaining in customs custody, except that the Secretary of the Treasury is authorized, upon production of proof satisfactory to him of the loss or theft of any merchandise while in the appraiser's stores, or of the actual injury or destruction, in whole or in part, of any merchandise by accidental fire or other casualty, while in bonded warehouse, or in the appraiser's stores, or while in transportation under bond, or while in the custody of the officers of the customs, although not in bond, or while within the limits of any port of entry and before having been landed under the supervision of the officers of the customs, to abate or refund, as the case may be, the duties upon such merchandise, in whole or in part, and to pay any such refund out of any moneys in the Treasury not otherwise appropriated, and to cancel any warehouse bond or bonds, or enter satisfaction thereon in whole or in part, as the case may be, but no abatement or refund shall be made in respect of injury or destruction of any merchandise in bonded warehouse occurring after the expiration of three years from the date of importation. The decision of the Secretary of the Treasury as to the abatement or refund of the duties on any such merchandise shall be final and conclusive upon all persons.
 

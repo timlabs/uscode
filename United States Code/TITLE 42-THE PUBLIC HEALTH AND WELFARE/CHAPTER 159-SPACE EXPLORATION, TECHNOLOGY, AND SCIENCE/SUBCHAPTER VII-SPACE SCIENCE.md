@@ -56,26 +56,3 @@
 
 #### (b) Implementation
 * The Director of the OSTP shall implement, before September 30, 2012, a policy for notifying Federal agencies and relevant emergency response institutions of an impending near-Earth object threat if near-term public safety is at risk, and assign a Federal agency or agencies to be responsible for protecting the United States and working with the international community on such threats.
-
-### §18388. Space weather
-#### (a) Findings
-* The Congress finds the following:
-
-  * (1) Space weather events pose a significant threat to modern technological systems.
-
-  * (2) The effects of severe space weather events on the electric power grid, telecommunications and entertainment satellites, airline communications during polar routes, and space-based position, navigation and timing systems could have significant societal, economic, national security, and health impacts.
-
-  * (3) Earth and Space Observing satellites, such as the Advanced Composition Explorer, Geostationary Operational Environmental Satellites, Polar Operational Environmental Satellites, and Defense Meteorological Satellites, provide crucial data necessary to predict space weather events.
-
-#### (b) Action required
-* The Director of OSTP shall—
-
-  * (1) improve the Nation's ability to prepare, avoid, mitigate, respond to, and recover from potentially devastating impacts of space weather events;
-
-  * (2) coordinate the operational activities of the National Space Weather Program Council members, including the NOAA Space Weather Prediction Center and the U.S. Air Force Weather Agency; and
-
-  * (3) submit a report to the appropriate committees of Congress within 180 days after October 11, 2010, that—
-
-    * (A) details the current data sources, both space- and ground-based, that are necessary for space weather forecasting; and
-
-    * (B) details the space- and ground-based systems that will be required to gather data necessary for space weather forecasting for the next 10 years.

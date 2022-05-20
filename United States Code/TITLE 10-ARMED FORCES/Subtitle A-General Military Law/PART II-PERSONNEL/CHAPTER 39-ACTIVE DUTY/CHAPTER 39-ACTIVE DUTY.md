@@ -23,7 +23,7 @@
 ### §673. Consideration of application for permanent change of station or unit transfer for members on active duty who are the victim of a sexual assault or related offense
 * (a) TIMELY CONSIDERATION AND ACTION.—The Secretary concerned shall provide for timely determination and action on an application for consideration of a change of station or unit transfer submitted by a member of the armed forces serving on active duty who was a victim of a sexual assault or other offense covered by section 920, 920c, or 930 of this title (article 120, 120c, or 130 of the Uniform Code of Military Justice) so as to reduce the possibility of retaliation against the member for reporting the sexual assault or other offense.
 
-* (b) REGULATIONS.—The Secretary concerned shall issue regulations to carry out this section, within guidelines provided by the Secretary of Defense. These guidelines shall provide that the application submitted by a member described in subsection (a) for a change of station or unit transfer must be approved or disapproved by the member's commanding officer within 72 hours of the submission of the application. Additionally, if the application is disapproved by the commanding officer, the member shall be given the opportunity to request review by the first general officer or flag officer in the chain of command of the member, and that decision must be made within 72 hours of submission of the request for review.
+* (b) REGULATIONS.—The Secretary concerned shall issue regulations to carry out this section, within guidelines provided by the Secretary of Defense. These guidelines shall provide that the application submitted by a member described in subsection (a) for a change of station or unit transfer must be approved or disapproved by the member's commanding officer within five calendar days of the submission of the application. Additionally, if the application is disapproved by the commanding officer, the member shall be given the opportunity to request review by the first general officer or flag officer in the chain of command of the member, and that decision must be made within five calendar days of submission of the request for review.
 
 ### §674. Temporary administrative reassignment or removal of a member on active duty accused of committing a sexual assault or related offense
 * (a) GUIDANCE FOR TIMELY CONSIDERATION AND ACTION.—The Secretary concerned may provide guidance, within guidelines provided by the Secretary of Defense, for commanders regarding their authority to make a timely determination, and to take action, regarding whether a member of the armed forces serving on active duty who is alleged to have committed an offense under section 920, 920b, 920c, or 930 of this title (article 120, 120b, 120c, or 130 of the Uniform Code of Military Justice) or an attempt to commit such an offense as punishable under section 880 of this title (article 80 of the Uniform Code of Military Justice) should be temporarily reassigned or removed from a position of authority or from an assignment, not as a punitive measure, but solely for the purpose of maintaining good order and discipline within the member's unit.
@@ -35,7 +35,7 @@
 
 * (b) COVERED MEMBERS.—Except as provided in subsection (d), subsection (a) applies to the following members of the armed forces:
 
-  * (1) A retired member of the Regular Army, Regular Navy, Regular Air Force, or Regular Marine Corps.
+  * (1) A retired member of the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, or Regular Space Force.
 
   * (2) A member of the Retired Reserve who was retired under section 1293, 7311, 7314, 8323, 9311, or 9314 of this title.
 
@@ -88,7 +88,9 @@
   * (2) The period beginning on the date of the enactment of the National Defense Authorization Act for Fiscal Year 2018 and ending on December 31, 2022.
 
 
-* (g) HIGH-DEMAND, LOW-DENSITY MILITARY CAPABILITY DEFINED.—In this section, the term "high-demand, low-density military capability" means a combat, combat support or service support capability, unit, system, or occupational specialty that the Secretary of Defense determines has funding, equipment, or personnel levels that are substantially below the levels required to fully meet or sustain actual or expected operational requirements set by regional commanders.
+* (g) EXCEPTIONS DURING PERIODS OF WAR OR NATIONAL EMERGENCY.—The limitations in subsections (c) and (f) shall not apply during a time of war or of national emergency declared by Congress or the President.
+
+* (h) HIGH-DEMAND, LOW-DENSITY MILITARY CAPABILITY DEFINED.—In this section, the term "high-demand, low-density military capability" means a combat, combat support or service support capability, unit, system, or occupational specialty that the Secretary of Defense determines has funding, equipment, or personnel levels that are substantially below the levels required to fully meet or sustain actual or expected operational requirements set by regional commanders.
 
 ### §689. Retired members: grade in which ordered to active duty and upon release from active duty
 * (a) GENERAL RULE FOR GRADE IN WHICH ORDERED TO ACTIVE DUTY.—Except as provided in subsections (b) and (c), a retired member ordered to active duty under section 688 or 688a of this title shall be ordered to active duty in the member's retired grade.
@@ -123,24 +125,24 @@
 
 * (c) WAIVER FOR PERIODS OF WAR OR NATIONAL EMERGENCY.—Subsection (a) does not apply in time of war or of national emergency declared by Congress or the President after November 30, 1980. Subsection (b) does not apply in time of war or of national emergency declared by Congress or the President.
 
-### §691. Permanent end strength levels to support two major regional contingencies
-* (a) The end strengths specified in subsection (b) are the minimum strengths necessary to enable the armed forces to fulfill a national defense strategy calling for the United States to be able to successfully conduct two nearly simultaneous major regional contingencies.
+### §691. Permanent end strength levels to support the National Defense Strategy
+* (a) The end strengths specified in subsection (b) are the minimum strengths necessary to enable the armed forces to fulfill the national defense strategy of the United States.
 
 * (b) Unless otherwise provided by law, the number of members of the armed forces (other than the Coast Guard) on active duty at the end of any fiscal year shall be not less than the following:
 
-  * (1) For the Army, 480,000.
+  * (1) For the Army, 485,900.
 
-  * (2) For the Navy, 340,500.
+  * (2) For the Navy, 347,800.
 
-  * (3) For the Marine Corps, 186,200.
+  * (3) For the Marine Corps, 181,200.
 
-  * (4) For the Air Force, 332,800.
+  * (4) For the Air Force, 333,475.
 
 
 * (c) The budget for the Department of Defense for any fiscal year as submitted to Congress shall include amounts for funding for each of the armed forces (other than the Coast Guard) at least in the amounts necessary to maintain the active duty end strengths prescribed in subsection (b), as in effect at the time that such budget is submitted.
 
 * (d) No funds appropriated to the Department of Defense may be used to implement a reduction of the active duty end strength for any of the armed forces (other than the Coast Guard) for any fiscal year below the level specified in subsection (b) unless the reduction in end strength for that armed force for that fiscal year is specifically authorized by law.
 
-* (e) The Secretary of Defense may reduce a number specified in subsection (b) by not more than 2 percent.
+* (e) The Secretary of Defense or the Secretary concerned may vary a number specified in subsection (b) in accordance with section 115 of this title.
 
 * (f) The number of members of the armed forces on active duty shall be counted for purposes of this section in the same manner as applies under section 115(a)(1) of this title.

@@ -9,7 +9,7 @@
 
   * The Department of Defense.
 
-  * The Department of Justice.
+  * The Department of Justice.)
 
   * The Department of the Interior.
 

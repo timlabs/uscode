@@ -8,13 +8,13 @@
 
     * (B) life-sustaining; or
 
-    * (C) intended for use in the prevention or treatment of a debilitating disease or condition, including any such drug used in emergency medical care or during surgery; and
+    * (C) intended for use in the prevention or treatment of a debilitating disease or condition, including any such drug used in emergency medical care or during surgery or any such drug that is critical to the public health during a public health emergency declared by the Secretary under section 247d of title 42; and
 
 
   * (2) that is not a radio pharmaceutical drug product or any other product as designated by the Secretary,
 
 
-* shall notify the Secretary, in accordance with subsection (b), of a permanent discontinuance in the manufacture of the drug or an interruption of the manufacture of the drug that is likely to lead to a meaningful disruption in the supply of that drug in the United States, and the reasons for such discontinuance or interruption.
+* shall notify the Secretary, in accordance with subsection (b), of a permanent discontinuance in the manufacture of the drug or an interruption of the manufacture of the drug that is likely to lead to a meaningful disruption in the supply of that drug in the United States,, or a permanent discontinuance in the manufacture of an active pharmaceutical ingredient or an interruption in the manufacture of the active pharmaceutical ingredient of such drug that is likely to lead to a meaningful disruption in the supply of the active pharmaceutical ingredient of such drug, and the reasons for such discontinuance or interruption. Notification under this subsection shall include disclosure of reasons for the discontinuation or interruption, and if applicable, an active pharmaceutical ingredient is a reason for, or risk factor in, such discontinuation or interruption, the source of the active pharmaceutical ingredient and any alternative sources for the active pharmaceutical ingredient known by the manufacturer; whether any associated device used for preparation or administration included in the drug is a reason for, or a risk factor in, such discontinuation or interruption; the expected duration of the interruption; and such other information as the Secretary may require.
 
 #### (b) Timing
 * A notice required under subsection (a) shall be submitted to the Secretary—
@@ -55,11 +55,11 @@
   * (3) not later than 45 calendar days after the issuance of a letter under paragraph (1), the Secretary shall make such letter and any response to such letter under paragraph (2) available to the public on the Internet Web site of the Food and Drug Administration, with appropriate redactions made to protect information described in subsection (d), except that, if the Secretary determines that the letter under paragraph (1) was issued in error or, after review of such response, the person had a reasonable basis for not notifying as required under subsection (a), the requirements of this paragraph shall not apply.
 
 #### (g) Expedited inspections and reviews
-* If, based on notifications described in subsection (a) or any other relevant information, the Secretary concludes that there is, or is likely to be, a drug shortage of a drug described in subsection (a), the Secretary may—
+* If, based on notifications described in subsection (a) or any other relevant information, the Secretary concludes that there is, or is likely to be, a drug shortage of a drug described in subsection (a), the Secretary shall, as appropriate—
 
-  * (1) expedite the review of a supplement to a new drug application submitted under section 355(b) of this title, an abbreviated new drug application submitted under section 355(j) of this title, or a supplement to such an application submitted under section 355(j) of this title, that could help mitigate or prevent such shortage; or
+  * (1) prioritize and expedite the review of a supplement to a new drug application submitted under section 355(b) of this title, an abbreviated new drug application submitted under section 355(j) of this title, or a supplement to such an application submitted under section 355(j) of this title, that could help mitigate or prevent such shortage; or
 
-  * (2) expedite an inspection or reinspection of an establishment that could help mitigate or prevent such drug shortage.
+  * (2) prioritize and expedite an inspection or reinspection of an establishment that could help mitigate or prevent such drug shortage.
 
 #### (h) Definitions
 * For purposes of this section—
@@ -108,3 +108,6 @@
 
 * #### (5) Restrictions
   * Notwithstanding any other provision of Federal law, in implementing this section, the Secretary shall only promulgate regulations as described in paragraph (4).
+
+#### (j) Risk management plans
+* Each manufacturer of a drug described in subsection (a) or of any active pharmaceutical ingredient or any associated medical device used for preparation or administration included in the drug, shall develop, maintain, and implement, as appropriate, a redundancy risk management plan that identifies and evaluates risks to the supply of the drug, as applicable, for each establishment in which such drug or active pharmaceutical ingredient of such drug is manufactured. A risk management plan under this section shall be subject to inspection and copying by the Secretary pursuant to an inspection or a request under section 374(a)(4) of this title.

@@ -144,6 +144,9 @@
 * #### (2) Exception for prior obligations
   * Paragraph (1) shall not apply to any expenditure to liquidate any contract entered into (or for any amount otherwise obligated) before October 1, 2023, in accordance with the provisions of this section.
 
+#### (f) Additional transfer to trust fund
+* Out of money in the Treasury not otherwise appropriated, there is hereby appropriated $14,000,000,000 to the Airport and Airway Trust Fund.
+
 ### §9503. Highway Trust Fund
 #### (a) Creation of Trust Fund
 * There is established in the Treasury of the United States a trust fund to be known as the "Highway Trust Fund", consisting of such amounts as may be appropriated or credited to the Highway Trust Fund as provided in this section or section 9602(b).
@@ -206,11 +209,11 @@
       * (ii) whether such provision of law is a subsequently enacted provision or directly or indirectly seeks to waive the application of this paragraph.
 
   * #### (B) Exception for prior obligations
-    * Subparagraph (A) shall not apply to any expenditure to liquidate any contract entered into (or for any amount otherwise obligated) before October 1, 2020, in accordance with the provisions of this section.
+    * Subparagraph (A) shall not apply to any expenditure to liquidate any contract entered into (or for any amount otherwise obligated) before October 1, 2021, in accordance with the provisions of this section.
 
 #### (c) Expenditures from Highway Trust Fund
 * #### (1) Federal-aid highway program
-  * Except as provided in subsection (e), amounts in the Highway Trust Fund shall be available, as provided by appropriation Acts, for making expenditures before October 1, 2020, to meet those obligations of the United States heretofore or hereafter incurred which are authorized to be paid out of the Highway Trust Fund under the FAST Act or any other provision of law which was referred to in this paragraph before the date of the enactment of such Act (as such Act and provisions of law are in effect on the date of the enactment of such Act).
+  * Except as provided in subsection (e), amounts in the Highway Trust Fund shall be available, as provided by appropriation Acts, for making expenditures before October 1, 2021, to meet those obligations of the United States heretofore or hereafter incurred which are authorized to be paid out of the Highway Trust Fund under the Continuing Appropriations Act, 2021 and Other Extensions Act or any other provision of law which was referred to in this paragraph before the date of the enactment of such Act (as such Act and provisions of law are in effect on the date of the enactment of such Act).
 
 * #### (2) Floor stocks refunds
   * The Secretary shall pay from time to time from the Highway Trust Fund into the general fund of the Treasury amounts equivalent to the floor stocks refunds made before July 1, 2023, under section 6412(a). The amounts payable from the Highway Trust Fund under the preceding sentence shall be determined by taking into account only the portion of the taxes which are deposited into the Highway Trust Fund.
@@ -333,7 +336,7 @@
     * (E) 9.71 cents per MCF (determined at standard temperature and pressure) in the case of compressed natural gas.
 
 * #### (3) Expenditures from Account
-  * Amounts in the Mass Transit Account shall be available, as provided by appropriation Acts, for making capital or capital related expenditures (including capital expenditures for new projects) before October 1, 2020, in accordance with the FAST Act or any other provision of law which was referred to in this paragraph before the date of the enactment of such Act (as such Act and provisions of law are in effect on the date of the enactment of such Act).
+  * Amounts in the Mass Transit Account shall be available, as provided by appropriation Acts, for making capital or capital related expenditures (including capital expenditures for new projects) before October 1, 2021, in accordance with the Continuing Appropriations Act, 2021 and Other Extensions Act or any other provision of law which was referred to in this paragraph before the date of the enactment of such Act (as such Act and provisions of law are in effect on the date of the enactment of such Act).
 
 * #### (4) Limitation
   * Rules similar to the rules of subsection (d) shall apply to the Mass Transit Account.
@@ -398,7 +401,14 @@
 * #### (9) Additional increase in fund balance
   * There is hereby transferred to the Highway Account (as defined in subsection (e)(5)(B)) in the Highway Trust Fund amounts appropriated from the Leaking Underground Storage Tank Trust Fund under section 9508(c)(4).
 
-* #### (10) Treatment of amounts
+* #### (10) Further transfers to trust fund
+  * Out of money in the Treasury not otherwise appropriated, there is hereby appropriated—
+
+    * (A) $10,400,000,000 to the Highway Account (as defined in subsection (e)(5)(B)) in the Highway Trust Fund; and
+
+    * (B) $3,200,000,000 to the Mass Transit Account in the Highway Trust Fund.
+
+* #### (11) Treatment of amounts
   * Any amount appropriated or transferred under this subsection to the Highway Trust Fund shall remain available without fiscal year limitation.
 
 ### §9504. Sport Fish Restoration and Boating Trust Fund
@@ -416,11 +426,11 @@
 * #### (2) Expenditures from Trust Fund
   * Amounts in the Sport Fish Restoration and Boating Trust Fund shall be available, as provided by appropriation Acts, for making expenditures—
 
-    * (A) to carry out the purposes of the Dingell-Johnson Sport Fish Restoration Act (as in effect on the date of the enactment of the FAST Act),
+    * (A) to carry out the purposes of the Dingell-Johnson Sport Fish Restoration Act (as in effect on the date of the enactment of the Continuing Appropriations Act, 2021 and Other Extensions Act),
 
-    * (B) to carry out the purposes of section 7404(d) of the Transportation Equity Act for the 21st Century (as in effect on the date of the enactment of the FAST Act), and
+    * (B) to carry out the purposes of section 7404(d) of the Transportation Equity Act for the 21st Century (as in effect on the date of the enactment of the Continuing Appropriations Act, 2021 and Other Extensions Act), and
 
-    * (C) to carry out the purposes of the Coastal Wetlands Planning, Protection and Restoration Act (as in effect on the date of the enactment of the FAST Act).
+    * (C) to carry out the purposes of the Coastal Wetlands Planning, Protection and Restoration Act (as in effect on the date of the enactment of the Continuing Appropriations Act, 2021 and Other Extensions Act).
 
 
 * Amounts transferred to such account under section 9503(c)(4) may be used only for making expenditures described in subparagraph (C) of this paragraph.
@@ -437,7 +447,7 @@
     * (B) whether such provision of law is a subsequently enacted provision or directly or indirectly seeks to waive the application of this subsection.
 
 * #### (2) Exception for prior obligations
-  * Paragraph (1) shall not apply to any expenditure to liquidate any contract entered into (or for any amount otherwise obligated) before October 1, 2020, in accordance with the provisions of this section.
+  * Paragraph (1) shall not apply to any expenditure to liquidate any contract entered into (or for any amount otherwise obligated) before October 1, 2021, in accordance with the provisions of this section.
 
 #### (e) Cross reference
     * **For provision transferring motorboat fuels taxes to Sport Fish Restoration and Boating Trust Fund, see section 9503(c)(3).**
@@ -448,7 +458,7 @@
 
   * (1) appropriated to the Harbor Maintenance Trust Fund as provided in this section,
 
-  * (2) transferred to the Harbor Maintenance Trust Fund by the Saint Lawrence Seaway Development Corporation pursuant to section 13(a) of the Act of May 13, 1954, or
+  * (2) transferred to the Harbor Maintenance Trust Fund by the Great Lakes St. Lawrence Seaway Development Corporation pursuant to section 13(a) of the Act of May 13, 1954, or
 
   * (3) credited to the Harbor Maintenance Trust Fund as provided in section 9602(b).
 
@@ -614,7 +624,7 @@
     * (B) whether such provision of law is a subsequently enacted provision or directly or indirectly seeks to waive the application of this paragraph.
 
 * #### (2) Exception for prior obligations
-  * Paragraph (1) shall not apply to any expenditure to liquidate any contract entered into (or for any amount otherwise obligated) before October 1, 2020, in accordance with the provisions of this section.
+  * Paragraph (1) shall not apply to any expenditure to liquidate any contract entered into (or for any amount otherwise obligated) before October 1, 2021, in accordance with the provisions of this section.
 
 ### §9509. Oil Spill Liability Trust Fund
 #### (a) Creation of Trust Fund

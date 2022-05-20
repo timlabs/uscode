@@ -794,8 +794,8 @@
     * For purposes of paragraph (1), qualified tuition and related expenses shall include expenses described in subsection (f)(1) with respect to any course of instruction at an eligible educational institution to acquire or improve job skills of the individual.
 
 #### (d) Limitations based on modified adjusted gross income
-* #### (1) American Opportunity Tax Credit
-  * The American Opportunity Tax Credit (determined without regard to this paragraph) shall be reduced (but not below zero) by the amount which bears the same ratio to such credit (as so determined) as—
+* #### (1) In general
+  * The American Opportunity Tax Credit and the Lifetime Learning Credit shall each (determined without regard to this paragraph) be reduced (but not below zero) by the amount which bears the same ratio to each such credit (as so determined) as—
 
     * (A) the excess of—
 
@@ -806,19 +806,7 @@
 
     * (B) $10,000 ($20,000 in the case of a joint return).
 
-* #### (2) Lifetime Learning Credit
-  * The Lifetime Learning Credit (determined without regard to this paragraph) shall be reduced (but not below zero) by the amount which bears the same ratio to such credit (as so determined) as—
-
-    * (A) the excess of—
-
-      * (i) the taxpayer's modified adjusted gross income for such taxable year, over
-
-      * (ii) $40,000 ($80,000 in the case of a joint return), bears to
-
-
-    * (B) $10,000 ($20,000 in the case of a joint return).
-
-* #### (3) Modified adjusted gross income
+* #### (2) Modified adjusted gross income
   * For purposes of this subsection, the term "modified adjusted gross income" means the adjusted gross income of the taxpayer for the taxable year increased by any amount excluded from gross income under section 911, 931, or 933.
 
 #### (e) Election not to have section apply
@@ -904,17 +892,7 @@
 * #### (8) Payee statement requirement
   * Except as otherwise provided by the Secretary, no credit shall be allowed under this section unless the taxpayer receives a statement furnished under section 6050S(d) which contains all of the information required by paragraph (2) thereof.
 
-#### (h) Inflation adjustment
-* #### (1) In general
-  * In the case of a taxable year beginning after 2001, the $40,000 and $80,000 amounts in subsection (d)(2) shall each be increased by an amount equal to—
-
-    * (A) such dollar amount, multiplied by
-
-    * (B) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting "calendar year 2000" for "calendar year 2016" in subparagraph (A)(ii) thereof.
-
-* #### (2) Rounding
-  * If any amount as adjusted under paragraph (1) is not a multiple of $1,000, such amount shall be rounded to the next lowest multiple of $1,000.
-
+#### [(h) Repealed. Pub. L. 116–260, div. EE, title I, §104(a)(2), Dec. 27, 2020, 134 Stat. 3041]
 #### (i) Portion of American Opportunity Tax Credit made refundable
 * Forty percent of so much of the credit allowed under subsection (a) as is attributable to the American Opportunity Tax Credit (determined after application of subsection (d) and without regard to this paragraph and section 26(a)) shall be treated as a credit allowable under subpart C (and not allowed under subsection (a)). The preceding sentence shall not apply to any taxpayer for any taxable year if such taxpayer is a child to whom subsection (g) of section 1 applies for such taxable year.
 
@@ -1120,20 +1098,15 @@
 
     * (B) an electric heat pump which achieves the highest efficiency tier established by the Consortium for Energy Efficiency, as in effect on January 1, 2009,
 
-    * (C) a central air conditioner which achieves the highest efficiency tier established by the Consortium for Energy Efficiency, as in effect on January 1, 2009,
+    * (C) a central air conditioner which achieves the highest efficiency tier established by the Consortium for Energy Efficiency, as in effect on January 1, 2009, and
 
-    * (D) a natural gas, propane, or oil water heater which has either a Uniform Energy Factor of at least 0.82 or a thermal efficiency of at least 90 percent, and
-
-    * (E) a stove which uses the burning of biomass fuel to heat a dwelling unit located in the United States and used as a residence by the taxpayer, or to heat water for use in such a dwelling unit, and which has a thermal efficiency rating of at least 75 percent.
+    * (D) a natural gas, propane, or oil water heater which has either a Uniform Energy Factor of at least 0.82 or a thermal efficiency of at least 90 percent.
 
 * #### (4) Qualified natural gas, propane, or oil furnace or hot water boiler
   * The term "qualified natural gas, propane, or oil furnace or hot water boiler" means a natural gas, propane, or oil furnace or hot water boiler which achieves an annual fuel utilization efficiency rate of not less than 95.
 
 * #### (5) Advanced main air circulating fan
   * The term "advanced main air circulating fan" means a fan used in a natural gas, propane, or oil furnace and which has an annual electricity use of no more than 2 percent of the total annual energy use of the furnace (as determined in the standard Department of Energy test procedures).
-
-* #### (6) Biomass fuel
-  * The term "biomass fuel" means any plant-derived fuel available on a renewable or recurring basis, including agricultural crops and trees, wood and wood waste and residues (including wood pellets), plants (including aquatic plants), grasses, residues, and fibers.
 
 #### (e) Special rules
 * For purposes of this section—
@@ -1159,7 +1132,7 @@
 
   * (1) after December 31, 2007, and before January 1, 2009, or
 
-  * (2) after December 31, 2020.
+  * (2) after December 31, 2021.
 
 ### §25D. Residential energy efficient property
 #### (a) Allowance of credit
@@ -1171,9 +1144,11 @@
 
   * (3) the qualified fuel cell property expenditures,
 
-  * (4) the qualified small wind energy property expenditures, and
+  * (4) the qualified small wind energy property expenditures,
 
-  * (5) the qualified geothermal heat pump property expenditures,
+  * (5) the qualified geothermal heat pump property expenditures, and
+
+  * (6) the qualified biomass fuel property expenditures, and
 
 
 * made by the taxpayer during such year.
@@ -1213,6 +1188,17 @@
       * (i) uses the ground or ground water as a thermal energy source to heat the dwelling unit referred to in subparagraph (A) or as a thermal energy sink to cool such dwelling unit, and
 
       * (ii) meets the requirements of the Energy Star program which are in effect at the time that the expenditure for such equipment is made.
+
+* #### (6) Qualified biomass fuel property expenditure
+  * #### (A) In general
+    * The term "qualified biomass fuel property expenditure" means an expenditure for property—
+
+      * (i) which uses the burning of biomass fuel to heat a dwelling unit located in the United States and used as a residence by the taxpayer, or to heat water for use in such a dwelling unit, and
+
+      * (ii) which has a thermal efficiency rating of at least 75 percent (measured by the higher heating value of the fuel).
+
+  * #### (B) Biomass fuel
+    * For purposes of this section, the term "biomass fuel" means any plant-derived fuel available on a renewable or recurring basis.
 
 #### (e) Special rules
 * For purposes of this section—
@@ -1271,12 +1257,12 @@
 
   * (1) in the case of property placed in service after December 31, 2016, and before January 1, 2020, 30 percent,
 
-  * (2) in the case of property placed in service after December 31, 2019, and before January 1, 2021, 26 percent, and
+  * (2) in the case of property placed in service after December 31, 2019, and before January 1, 2023, 26 percent, and
 
-  * (3) in the case of property placed in service after December 31, 2020, and before January 1, 2022, 22 percent.
+  * (3) in the case of property placed in service after December 31, 2022, and before January 1, 2024, 22 percent.
 
 #### (h) Termination
-* The credit allowed under this section shall not apply to property placed in service after December 31, 2021.
+* The credit allowed under this section shall not apply to property placed in service after December 31, 2023.
 
 ### §26. Limitation based on tax liability; definition of tax liability
 #### (a) Limitation based on amount of tax

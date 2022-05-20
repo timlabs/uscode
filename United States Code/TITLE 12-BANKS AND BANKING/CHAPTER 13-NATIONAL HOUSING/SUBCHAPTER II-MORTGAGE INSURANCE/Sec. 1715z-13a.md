@@ -54,6 +54,20 @@
 * #### (4) Fraud and misrepresentation
   * This subsection may not be construed to preclude the Secretary from establishing defenses against the original lender based on fraud or material misrepresentation or to bar the Secretary from establishing by regulations in effect on the date of issuance or disbursement, whichever is earlier, partial defenses to the amount payable on the guarantee.
 
+* #### (5) Trailing documents
+  * #### (A) In general
+    * The Secretary may issue a certificate of guarantee under this subsection for a loan involving a security interest in Indian trust land before the Secretary receives the trailing documents required by the Secretary from the Bureau of Indian Affairs, including the final certified title status report showing the recordation by the Bureau of Indian Affairs of the mortgage relating to the loan, if the originating lender agrees to indemnify the Secretary for any losses that may result when—
+
+      * (i) a claim payment is presented to the Secretary due to the default of the borrower on the loan; and
+
+      * (ii) the required trailing documents are outstanding.
+
+  * #### (B) Termination of indemnification agreement
+    * An indemnification agreement between an originating lender and the Secretary described in subparagraph (A) shall only terminate upon receipt by the Secretary of the trailing documents described in that subparagraph in a form and manner that is acceptable to the Secretary.
+
+  * #### (C) Rule of construction
+    * Nothing in this paragraph shall be construed as authorizing the Bureau of Indian Affairs to delay the issuance of a final certified title status report and recorded mortgage relating to a loan closed on Indian trust land.
+
 #### (d) Guarantee fee
 * The Secretary shall establish and collect, at the time of issuance of the guarantee, a fee for the guarantee of loans under this section, in an amount not exceeding 3 percent of the principal obligation of the loan. The Secretary may also establish and collect annual premium payments in an amount not exceeding 1 percent of the remaining guaranteed balance (excluding the portion of the remaining balance attributable to the fee collected at the time of issuance of the guarantee). The Secretary shall establish the amount of the fees and premiums by publishing a notice in the Federal Register. The Secretary shall deposit any fees and premiums collected under this subsection in the Indian Housing Loan Guarantee Fund established under subsection (i).
 

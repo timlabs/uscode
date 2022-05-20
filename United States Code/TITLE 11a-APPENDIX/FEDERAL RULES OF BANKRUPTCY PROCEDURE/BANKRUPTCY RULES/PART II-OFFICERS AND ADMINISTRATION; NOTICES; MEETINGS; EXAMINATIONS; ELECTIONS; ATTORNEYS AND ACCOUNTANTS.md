@@ -66,7 +66,7 @@
 
   * (6) the waiver, denial, or revocation of a discharge as provided in Rule 4006;
 
-  * (7) entry of an order confirming a chapter 9, 11, or 12 plan;
+  * (7) entry of an order confirming a chapter 9, 11, 12, or 13 plan;
 
   * (8) a summary of the trustee's final report in a chapter 7 case if the net proceeds realized exceed $1,500;
 
@@ -95,13 +95,42 @@
   * (5) A creditor may treat a notice as not having been brought to the creditor's attention under §342(g)(1) only if, prior to issuance of the notice, the creditor has filed a statement that designates the name and address of the person or organizational subdivision of the creditor responsible for receiving notices under the Code, and that describes the procedures established by the creditor to cause such notices to be delivered to the designated person or subdivision.
 
 
-* (h) NOTICES TO CREDITORS WHOSE CLAIMS ARE FILED. In a chapter 7 case, after 90 days following the first date set for the meeting of creditors under §341 of the Code, the court may direct that all notices required by subdivision (a) of this rule be mailed only to the debtor, the trustee, all indenture trustees, creditors that hold claims for which proofs of claim have been filed, and creditors, if any, that are still permitted to file claims by reason of an extension granted pursuant to Rule 3002(c)(1) or (c)(2). In a case where notice of insufficient assets to pay a dividend has been given to creditors pursuant to subdivision (e) of this rule, after 90 days following the mailing of a notice of the time for filing claims pursuant to Rule 3002(c)(5), the court may direct that notices be mailed only to the entities specified in the preceding sentence.
+* (h) NOTICES TO CREDITORS WHOSE CLAIMS ARE FILED.
+
+  * (1) _Voluntary Case_. In a voluntary chapter 7 case, chapter 12 case, or chapter 13 case, after 70 days following the order for relief under that chapter or the date of the order converting the case to chapter 12 or chapter 13, the court may direct that all notices required by subdivision (a) of this rule be mailed only to:
+
+    * • the debtor;
+
+    * • the trustee;
+
+    * • all indenture trustees;
+
+    * • creditors that hold claims for which proofs of claim have been filed; and
+
+    * • creditors, if any, that are still permitted to file claims because an extension was granted under Rule 3002(c)(1) or (c)(2).
+
+
+  * (2) _Involuntary Case_. In an involuntary chapter 7 case, after 90 days following the order for relief under that chapter, the court may direct that all notices required by subdivision (a) of this rule be mailed only to:
+
+    * • the debtor;
+
+    * • the trustee;
+
+    * • all indenture trustees;
+
+    * • creditors that hold claims for which proofs of claim have been filed; and
+
+    * • creditors, if any, that are still permitted to file claims because an extension was granted under Rule 3002(c)(1) or (c)(2).
+
+
+  * (3) _Insufficient Assets_. In a case where notice of insufficient assets to pay a dividend has been given to creditors under subdivision (e) of this rule, after 90 days following the mailing of a notice of the time for filing claims under Rule 3002(c)(5), the court may direct that notices be mailed only to the entities specified in the preceding sentence.
+
 
 * (i) NOTICES TO COMMITTEES. Copies of all notices required to be mailed pursuant to this rule shall be mailed to the committees elected under §705 or appointed under §1102 of the Code or to their authorized agents. Notwithstanding the foregoing subdivisions, the court may order that notices required by subdivision (a)(2), (3) and (6) of this rule be transmitted to the United States trustee and be mailed only to the committees elected under §705 or appointed under §1102 of the Code or to their authorized agents and to the creditors and equity security holders who serve on the trustee or debtor in possession and file a request that all notices be mailed to them. A committee appointed under §1114 shall receive copies of all notices required by subdivisions (a)(1), (a)(5), (b), (f)(2), and (f)(7), and such other notices as the court may direct.
 
 * (j) NOTICES TO THE UNITED STATES. Copies of notices required to be mailed to all creditors under this rule shall be mailed (1) in a chapter 11 reorganization case, to the Securities and Exchange Commission at any place the Commission designates, if the Commission has filed either a notice of appearance in the case or a written request to receive notices; (2) in a commodity broker case, to the Commodity Futures Trading Commission at Washington, D.C.; (3) in a chapter 11 case, to the Internal Revenue Service at its address set out in the register maintained under Rule 5003(e) for the district in which the case is pending; (4) if the papers in the case disclose a debt to the United States other than for taxes, to the United States attorney for the district in which the case is pending and to the department, agency, or instrumentality of the United States through which the debtor became indebted; or (5) if the filed papers disclose a stock interest of the United States, to the Secretary of the Treasury at Washington, D.C.
 
-* (k) NOTICES TO UNITED STATES TRUSTEE. Unless the case is a chapter 9 municipality case or unless the United States trustee requests otherwise, the clerk, or some other person as the court may direct, shall transmit to the United States trustee notice of the matters described in subdivisions (a)(2), (a)(3), (a)(4), (a)(8), (b), (f)(1), (f)(2), (f)(4), (f)(6), (f)(7), (f)(8), and (q) of this rule and notice of hearings on all applications for compensation or reimbursement of expenses. Notices to the United States trustee shall be transmitted within the time prescribed in subdivision (a) or (b) of this rule. The United States trustee shall also receive notice of any other matter if such notice is requested by the United States trustee or ordered by the court. Nothing in these rules requires the clerk or any other person to transmit to the United States trustee any notice, schedule, report, application or other document in a case under the Securities Investor Protection Act, 15 U.S.C. §78aaa _et._ _seq_.
+* (k) NOTICES TO UNITED STATES TRUSTEE. Unless the case is a chapter 9 municipality case or unless the United States trustee requests otherwise, the clerk, or some other person as the court may direct, shall transmit to the United States trustee notice of the matters described in subdivisions (a)(2), (a)(3), (a)(4), (a)(8), (a)(9), (b), (f)(1), (f)(2), (f)(4), (f)(6), (f)(7), (f)(8), and (q) of this rule and notice of hearings on all applications for compensation or reimbursement of expenses. Notices to the United States trustee shall be transmitted within the time prescribed in subdivision (a) or (b) of this rule. The United States trustee shall also receive notice of any other matter if such notice is requested by the United States trustee or ordered by the court. Nothing in these rules requires the clerk or any other person to transmit to the United States trustee any notice, schedule, report, application or other document in a case under the Securities Investor Protection Act, 15 U.S.C. §78aaa _et._ _seq_.
 
 * (l) NOTICE BY PUBLICATION. The court may order notice by publication if it finds that notice by mail is impracticable or that it is desirable to supplement the notice.
 
@@ -158,7 +187,7 @@
 
 * (b) SCOPE OF EXAMINATION. The examination of an entity under this rule or of the debtor under §343 of the Code may relate only to the acts, conduct, or property or to the liabilities and financial condition of the debtor, or to any matter which may affect the administration of the debtor's estate, or to the debtor's right to a discharge. In a family farmer's debt adjustment case under chapter 12, an individual's debt adjustment case under chapter 13, or a reorganization case under chapter 11 of the Code, other than for the reorganization of a railroad, the examination may also relate to the operation of any business and the desirability of its continuance, the source of any money or property acquired or to be acquired by the debtor for purposes of consummating a plan and the consideration given or offered therefor, and any other matter relevant to the case or to the formulation of a plan.
 
-* (c) COMPELLING ATTENDANCE AND PRODUCTION OF DOCUMENTS. The attendance of an entity for examination and for the production of documents, whether the examination is to be conducted within or without the district in which the case is pending, may be compelled as provided in Rule 9016 for the attendance of a witness at a hearing or trial. As an officer of the court, an attorney may issue and sign a subpoena on behalf of the court for the district in which the examination is to be held if the attorney is admitted to practice in that court or in the court in which the case is pending.
+* (c) COMPELLING ATTENDANCE AND PRODUCTION OF DOCUMENTS OR ELECTRONICALLY STORED INFORMATION. The attendance of an entity for examination and for the production of documents or electronically stored information, whether the examination is to be conducted within or without the district in which the case is pending, may be compelled as provided in Rule 9016 for the attendance of a witness at a hearing or trial. As an officer of the court, an attorney may issue and sign a subpoena on behalf of the court where the case is pending if the attorney is admitted to practice in that court.
 
 * (d) TIME AND PLACE OF EXAMINATION OF DEBTOR. The court may for cause shown and on terms as it may impose order the debtor to be examined under this rule at any time or place it designates, whether within or without the district wherein the case is pending.
 

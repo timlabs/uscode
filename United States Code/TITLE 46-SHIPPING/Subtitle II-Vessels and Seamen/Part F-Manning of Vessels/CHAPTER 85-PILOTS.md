@@ -69,7 +69,7 @@
   * (2) notifies the Secretary of that fact.
 
 
-* (c) For the Saint Lawrence Seaway, the Secretary may not delegate the authority under this section to an agency except the Saint Lawrence Seaway Development Corporation.
+* (c) For the Saint Lawrence Seaway, the Secretary may not delegate the authority under this section to an agency except the Great Lakes St. Lawrence Seaway Development Corporation.
 
 * (d) A person violating this section or a regulation prescribed under this section is liable to the United States Government for a civil penalty of not more than $25,000. Each day of a continuing violation is a separate violation. The vessel also is liable in rem for the penalty.
 

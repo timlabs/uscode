@@ -8,15 +8,6 @@
 ### §8135. Regular Marine Corps: order of filling vacancies in grade of second lieutenant
 * Vacancies on the active-duty list of the Marine Corps in the grade of second lieutenant shall be filled, so far as practicable, first, from members of the graduating class of the Naval Academy; second, from meritorious noncommissioned officers of the Regular Marine Corps; and third, from other persons.
 
-### §8137. Regular Navy: officers designated for engineering duty, aeronautical engineering duty, and special duty
-* (a) Persons may be originally appointed in the line of the Navy as regular officers designated for engineering duty, aeronautical engineering duty, or special duty.
-
-* (b) With the approval of the Secretary, a regular officer in the line of the Navy may, upon his application, be designated for engineering duty, aeronautical engineering duty, or special duty.
-
-* (c) The types of engineering duty for which officers may be designated include ship engineering and ordnance engineering. The types of aeronautical engineering duty for which officers may be designated include aeronautical engineering and aviation maintenance. The types of special duty for which officers may be designated include communications, law, naval intelligence, photography, public affairs, psychology, geophysics, cryptography, and hydrography.
-
-* (d) Officers designated for engineering duty, aeronautical engineering duty, or special duty shall perform sea or shore duty appropriate to their special qualifications but may not succeed to command except on shore and then only as authorized by the Secretary.
-
 ### §8138. Regular Marine Corps: judge advocates
 * With the approval of the Secretary of the Navy, any regular officer on the active-duty list of the Marine Corps who is qualified under section 827(b) of this title may, upon his application, be designated as a judge advocate.
 

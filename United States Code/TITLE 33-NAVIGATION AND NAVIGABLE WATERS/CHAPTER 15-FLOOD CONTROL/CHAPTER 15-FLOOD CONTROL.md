@@ -58,7 +58,17 @@
 
 ### §701b–11. Flood protection projects
 #### (a) General considerations; nonstructural alternatives
-* In the survey, planning, or design by any Federal agency of any project involving flood protection, consideration shall be given to nonstructural alternatives to prevent or reduce flood damages including, but not limited to, floodproofing of structures; flood plain regulation; acquisition of flood plain lands for recreational, fish and wildlife, and other public purposes; and relocation with a view toward formulating the most economically, socially, and environmentally acceptable means of reducing or preventing flood damages.
+* In the survey, planning, or design by any Federal agency of any project involving flood protection, consideration shall be given to nonstructural alternatives to prevent or reduce flood damages, with a view toward formulating the most economically, socially, and environmentally acceptable means of reducing or preventing flood damage, including—
+
+  * (1) floodproofing of structures, including through elevation;
+
+  * (2) floodplain regulation;
+
+  * (3) acquisition of floodplain land for recreational, fish and wildlife, and other public purposes;
+
+  * (4) relocation; and
+
+  * (5) the use of a feature described in section 2289a(a) of this title.
 
 #### (b) Non-Federal participation through nonstructural alternatives; limitation
 * Where a nonstructural alternative is recommended, non-Federal participation shall be comparable to the value of lands, easements, and rights-of-way which would have been required of non-Federal interests under section 701c of this title, for structural protection measures, but in no event shall exceed 20 per centum of the project costs.
@@ -170,6 +180,16 @@
 
   * (2) the process for including such projects in the President's annual budget submission to Congress under section 1105(a) of title 31.
 
+### §701h–3. State Contribution of Funds for Certain Operation and Maintenance Costs
+* In carrying out eligible operations and maintenance activities within the Great Lakes Navigation System pursuant to section 2238 of this title in a State that has implemented any additional State limitation on the disposal of dredged material in the open waters of such State, the Secretary may, pursuant to section 701h of this title, receive from such State, and expend, such funds as may be contributed by the State to cover the additional costs for operations and maintenance activities for a harbor or inland harbor within such State that result from such limitation.
+
+### §701h–4. Acceptance of funds for harbor dredging
+* The Secretary is authorized, in accordance with section 701h of this title, to accept and expend funds contributed by a State or other non-Federal interest—
+
+  * (1) to dredge a non-Federal harbor or channel, or a marina or berthing area located adjacent to, or accessible by, such harbor or channel; or
+
+  * (2) to provide technical assistance related to the planning and design of dredging activities described in paragraph (1).
+
 ### §701i. Elimination from protection of areas subject to evacuation
 * In any case where the construction cost of levees or flood walls included in any authorized project can be substantially reduced by the evacuation of a portion or all of the area proposed to be protected and by the elimination of that portion or all of the area from the protection to be afforded by the project, the Chief of Engineers may modify the plan of said project so as to eliminate said portion or all of the area: _Provided_, That a sum not substantially exceeding the amount thus saved in construction cost may be expended by the Chief of Engineers, or in his discretion may be transferred to any other appropriate Federal agency for expenditure, toward the evacuation of the locality eliminated from protection and the rehabilitation of the persons so evacuated: _And provided further_, That the Chief of Engineers may, if he so desires, enter into agreement with States, local agencies, or the individuals concerned for the accomplishment by them, of such evacuation and rehabilitation and for their reimbursement from said sum for expenditures actually incurred by them for this purpose.
 
@@ -201,7 +221,7 @@
 
     * (i) AUTHORITY TO CARRY OUT WORK.—The Chief of Engineers may carry out repair or restoration work described in paragraph (1) that does not produce benefits greater than the cost if—
 
-      * (I) the non-Federal sponsor agrees to pay an amount sufficient to make the remaining costs of the project equal to the estimated value of the benefits of the repair or restoration work; and
+      * (I) the non-Federal sponsor agrees to pay, or provide contributions equal to, an amount sufficient to make the remaining costs of the project equal to the estimated value of the benefits of the repair or restoration work; and
 
       * (II) the Secretary determines that—
 
@@ -210,12 +230,18 @@
         * (bb) repair of the project could benefit another Corps project.
 
 
-    * (ii) TREATMENT OF PAYMENTS.—Non-Federal payments pursuant to clause (i) shall be in addition to any non-Federal payments required by the Chief of Engineers that are applicable to the remaining costs of the repair or restoration work.
+    * (ii) TREATMENT OF PAYMENTS AND CONTRIBUTIONS.—Non-Federal payments or contributions pursuant to clause (i) shall be in addition to any non-Federal payments or contributions required by the Chief of Engineers that are applicable to the remaining costs of the repair or restoration work.
 
 
 * (3) EXTENDED ASSISTANCE.—Upon request by a locality receiving assistance under the fourth sentence of paragraph (1), the Secretary shall, subject to the availability of appropriations, enter into an agreement with the locality to provide such assistance beyond the time period otherwise provided for by the Secretary under such sentence.
 
 * (4) NONSTRUCTURAL ALTERNATIVES DEFINED.—In this subsection, the term "nonstructural alternatives" includes efforts to restore or protect natural resources, including streams, rivers, floodplains, wetlands, or coasts, if those efforts will reduce flood risk.
+
+* (5) FEASIBILITY STUDY.—
+
+  * (A) DETERMINATION.—Not later than 180 days after receiving, from a non-Federal sponsor of a project to repair or rehabilitate a flood control work described in paragraph (1), a request to initiate a feasibility study to further modify the relevant flood control work to provide for an increased level of protection, the Secretary shall provide to the non-Federal sponsor a written decision on whether the Secretary has the authority under section 549a of this title to undertake the requested feasibility study.
+
+  * (B) RECOMMENDATION.—If the Secretary determines under subparagraph (B) that the Secretary does not have the authority to undertake the requested feasibility study, the Secretary shall include the request for a feasibility study in the annual report submitted under section 2282d of this title.
 
 #### (b) Emergency supplies of drinking water; drought; well construction and water transportation
 * (1) The Secretary, upon a written request for assistance under this paragraph made by any farmer, rancher, or political subdivision within a distressed area, and after a determination by the Secretary that (A) as a result of the drought such farmer, rancher, or political subdivision has an inadequate supply of water, (B) an adequate supply of water can be made available to such farmer, rancher, or political subdivision through the construction of a well, and (C) as a result of the drought such well could not be constructed by a private business, the Secretary, subject to paragraph (3) of this subsection, may enter into an agreement with such farmer, rancher, or political subdivision for the construction of such well.
@@ -242,14 +268,32 @@
 
   * (F) the term "State" means a State, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Trust Territory of the Pacific Islands.
 
-#### (c) Levee owners manual
-* #### (1) In general
+#### (c) Eligibility
+* #### (1) Levee owner's manual
   * Not later than 1 year after October 12, 1996, in accordance with chapter 5 of title 5, the Secretary of the Army shall prepare a manual describing the maintenance and upkeep responsibilities that the Corps of Engineers requires of a non-Federal interest in order for the non-Federal interest to receive Federal assistance under this section. The Secretary shall provide a copy of the manual at no cost to each non-Federal interest that is eligible to receive Federal assistance under this section.
 
-* #### (2) Authorization of appropriations
-  * There is authorized to be appropriated $1,000,000 to carry out this subsection.
+* #### (2) Compliance
+  * #### (A) In general
+    * Notwithstanding the status of compliance of a non-Federal interest with the requirements of a levee owner's manual described in paragraph (1), or with any other eligibility requirement established by the Secretary related to the maintenance and upkeep responsibilities of the non-Federal interest, the Secretary shall consider the non-Federal interest to be eligible for repair and rehabilitation assistance under this section if the non-Federal interest—
 
-* #### (3) Definitions
+      * (i) enters into a written agreement with the Secretary that identifies any items of deferred or inadequate maintenance and upkeep identified by the Secretary prior to the natural disaster; and
+
+      * (ii) pays, during performance of the repair and rehabilitation work, all costs to address—
+
+        * (I) any items of deferred or inadequate maintenance and upkeep identified by the Secretary; and
+
+        * (II) any repair or rehabilitation work necessary to address damage the Secretary attributes to such deferred or inadequate maintenance or upkeep.
+
+  * #### (B) Eligibility
+    * The Secretary may only enter into one agreement under subparagraph (A) with any non-Federal interest.
+
+  * #### (C) Sunset
+    * The authority of the Secretary to enter into agreements under paragraph (2) shall terminate on the date that is 5 years after December 27, 2020.
+
+* #### (3) Authorization of appropriations
+  * There is authorized to be appropriated $1,000,000 to carry out paragraph (1).
+
+* #### (4) Definitions
   * In this subsection, the following definitions apply:
 
   * #### (A) Maintenance and upkeep
@@ -297,11 +341,75 @@
 ### §701n–2. Monthly report to Congress
 * In fiscal year 2018, and each fiscal year thereafter, the Chief of Engineers of the U.S. Army Corps of Engineers shall transmit to the Congress, after reasonable opportunity for comment, but without change, by the Assistant Secretary of the Army for Civil Works, a monthly report, the first of which shall be transmitted to Congress not later than 2 days after the date of enactment of this subdivision [subdiv. 1 of div. B of Pub. L. 115–123] and monthly thereafter, which includes detailed estimates of damages to each Corps of Engineers project, caused by natural disasters or otherwise.
 
+### §701n–3. Permanent measures to reduce emergency flood fighting needs for communities subject to repetitive flooding
+#### (a) Definitions
+* In this section:
+
+* #### (1) Affected community
+  * The term "affected community" means a legally constituted public body (as that term is used in section 1962d–5b(b) of title 42)—
+
+    * (A) with jurisdiction over an area that has been subject to flooding in two or more events in any 10-year period; and
+
+    * (B) that has received emergency flood-fighting assistance, including construction of temporary barriers by the Secretary, under section 701n of this title with respect to such flood events.
+
+* #### (2) Natural feature; nature-based feature
+  * The terms "natural feature" and "nature-based feature" have the meanings given those terms in section 2289a of this title.
+
+#### (b) Program
+* #### (1) In general
+  * The Secretary is authorized to carry out a program to study, design, and construct water resources development projects through measures involving, among other things, strengthening, raising, extending, realigning, or otherwise modifying existing flood control works, designing new works, and incorporating natural features, nature-based features, or nonstructural features, as appropriate to provide flood and coastal storm risk management to affected communities.
+
+* #### (2) Considerations
+  * In carrying out paragraph (1), the Secretary shall, to the maximum extent practical, review and, where appropriate, incorporate natural features or nature-based features, or a combination of such features and nonstructural features, that avoid or reduce at least 50 percent of flood or storm damages in one or more of the alternatives included in the final alternatives evaluated.
+
+* #### (3) Construction
+  * #### (A) In general
+    * The Secretary may carry out a project described in paragraph (1) without further congressional authorization if—
+
+      * (i) the Secretary determines that the project—
+
+        * (I) is advisable to reduce the risk of flooding for an affected community; and
+
+        * (II) produces benefits that are in excess of the estimated costs; and
+
+
+      * (ii) the Federal share of the cost of the construction does not exceed $17,500,000.
+
+  * #### (B) Specific authorization
+    * If the Federal share of the cost of a project described in paragraph (1) exceeds $17,500,000, the Secretary shall submit the project recommendation to Congress for authorization prior to construction, and shall include the project recommendation in the next annual report submitted under section 2282d of this title.
+
+  * #### (C) Financing
+    * #### (i) Contributions
+      * If, based on a study carried out pursuant to paragraph (1), the Secretary determines that a project described in paragraph (1) will not produce benefits greater than cost, the Secretary shall allow the affected community to pay, or provide contributions equal to, an amount sufficient to make the remaining costs of design and construction of the project equal to the estimated value of the benefits of the project.
+
+    * #### (ii) Effect on non-Federal share
+      * Amounts provided by an affected community under clause (i) shall be in addition to any payments or contributions the affected community is required to provide toward the remaining costs of design and construction of the project under section 2213 of this title.
+
+* #### (4) Ability to pay
+  * #### (A) In general
+    * Any cost-sharing agreement for a project entered into pursuant to this section shall be subject to the ability of the affected community to pay.
+
+  * #### (B) Determination
+    * The ability of any affected community to pay shall be determined by the Secretary in accordance with procedures established by the Secretary.
+
+  * #### (C) Effect of reduction
+    * Any reduction in the non-Federal share of the cost of a project described in paragraph (1) as a result of a determination under this paragraph shall not be included in the Federal share for purposes of subparagraphs (A) and (B) of paragraph (3).
+
 ### §701p. Railroad bridge alterations at Federal expense
 * On and after July 24, 1946, for authorized flood protection projects which include alterations of railroad bridges the Chief of Engineers is authorized to include at Federal expense the necessary alterations of railroad bridges and approaches in connection therewith.
 
 ### §701q. Repair and protection of highways, railroads, and utilities damaged by operation of dams or reservoir
 * Whenever the Chief of Engineers shall find that any highway, railway, or utility has been or is being damaged or destroyed by reason of the operation of any dam or reservoir project under the control of the Department of the Army, he may utilize any funds available for the construction, maintenance, or operation of the project involved for the repair, relocation, restoration, or protection of such highway, railway, or utility: _Provided_, That this section shall not apply to highways, railways, and utilities previously provided for by the Department of the Army, unless the Chief of Engineers determines that the actual damage has or will exceed that for which provision had previously been made.
+
+### §701q–1. Repair and restoration of embankments
+#### (a) In general
+* At the request of a non-Federal interest, the Secretary shall assess the cause of damage to, or the failure of, an embankment that is adjacent to the shoreline of a reservoir project owned and operated by the Secretary for which such damage or failure to the embankment has adversely affected a roadway that the Secretary has relocated for construction of the reservoir.
+
+#### (b) Repair and restoration activities
+* If, based on the assessment carried out under subsection (a), the Secretary determines that the cause of the damage to, or the failure of, the embankment is the direct result of the design or operation of the reservoir by the Secretary, the Secretary is authorized to participate in the repair or restoration of such embankment.
+
+#### (c) Authorization of appropriations
+* There is authorized to be appropriated to the Secretary $10,000,000 to carry out this section.
 
 ### §701r. Protection of highways, bridge approaches, public works, and nonprofit public services
 * The Secretary of the Army is authorized to allot from any appropriations heretofore or hereafter made for flood control, not to exceed $25,000,000 per year, for the construction, repair, restoration, and modification of emergency streambank and shoreline protection works to prevent damage to highways, bridge approaches, and public works, churches, hospitals, schools, and other nonprofit public services, when in the opinion of the Chief of Engineers such work is advisable: _Provided_, That not more than $5,000,000 shall be allotted for this purpose at any single locality from the appropriations for any one fiscal year, and if such amount is not sufficient to cover the costs included in the Federal cost share for a project, as determined by the Secretary, the non-Federal interest shall be responsible for any such costs that exceed such amount.
@@ -325,7 +433,7 @@
 * For water resources projects to be constructed in the future, when the taking by the Federal Government of an existing public road necessitates replacement, the substitute provided will, as nearly as practicable, serve in the same manner and reasonably as well as the existing road. The head of the agency concerned is authorized to construct such substitute roads to the design standards which the State or owning political division would use in constructing a new road under similar conditions of geography and under similar traffic loads (present and projected). In any case where a State or political subdivision thereof requests that such a substitute road be constructed to a higher standard than that provided for in the preceding provisions of this subsection, and pays, prior to commencement of such construction, the additional costs involved due to such higher standard, such agency head is authorized to construct such road to such higher standard. Federal costs under the provisions of this subsection shall be part of the nonreimbursable project costs.
 
 ### §701s. Small flood control projects; appropriations; amount limitation for single locality; conditions
-* The Secretary of the Army is authorized to allot from any appropriations heretofore or hereafter made for flood control, not to exceed $68,750,000 for any one fiscal year, for the implementation of small structural and nonstructural projects for flood control and related purposes not specifically authorized by Congress, which come within the provisions of section 701a of this title, when in the opinion of the Chief of Engineers such work is advisable. The amount allotted for a project shall be sufficient to complete Federal participation in the project. Not more than $10,000,000 shall be allotted under this section for a project at any single locality. The provisions of local cooperation specified in section 701c of this title shall apply. The work shall be complete in itself and not commit the United States to any additional improvement to insure its successful operation, except as may result from the normal procedure applying to projects authorized after submission of preliminary examination and survey reports.
+* The Secretary of the Army is authorized to allot from any appropriations heretofore or hereafter made for flood control, not to exceed $68,750,000 for any one fiscal year, for the implementation of small structural and nonstructural projects, and projects that use natural features or nature-based features (as those terms are defined in section 2289a(a) of this title), for flood control and related purposes not specifically authorized by Congress, which come within the provisions of section 701a of this title, when in the opinion of the Chief of Engineers such work is advisable. The amount allotted for a project shall be sufficient to complete Federal participation in the project. Not more than $10,000,000 shall be allotted under this section for a project at any single locality. The provisions of local cooperation specified in section 701c of this title shall apply. The work shall be complete in itself and not commit the United States to any additional improvement to insure its successful operation, except as may result from the normal procedure applying to projects authorized after submission of preliminary examination and survey reports.
 
 ### §701t. Emergency fund for flood damage; amount; commitments to be fulfilled by local interests
 * The sum of $25,000,000 is authorized to be appropriated as an emergency fund to be expended under the direction of the Secretary of the Army and the supervision of the Chief of Engineers for the repair, restoration, and strengthening of levees and other flood control works which have been threatened or destroyed by recent floods, or which may be threatened or destroyed by later floods, including the raising, extending, or other modification of such works as may be necessary in the discretion of the Chief of Engineers for the adequate functioning of the works for flood control: _Provided_, That local interests shall provide without cost to the United States all lands, easements, and rights of way necessary for the work and shall maintain and operate all the works after completion in a manner satisfactory to the Chief of Engineers: _Provided further_, That pending the appropriation of said sum, the Secretary of the Army may allot from existing flood-control appropriations such sums as may be necessary for the immediate prosecution of the work authorized by this section, such appropriations to be reimbursed from said emergency fund when appropriated: _And provided further_, That funds allotted under this authority shall not be diverted from the unobligated funds from the appropriation "Flood control, general", made available in War Department Civil Functions Appropriation Acts for specific purposes.
@@ -530,7 +638,7 @@
 
 ### §709a. Information on floods and flood damage
 #### (a) Compilation and dissemination
-* In recognition of the increasing use and development of the flood plains of the rivers of the United States and of the need for information on flood hazards to serve as a guide to such development, and as a basis for avoiding future flood hazards by regulation of use by States and political subdivisions thereof, and to assure that Federal departments and agencies may take proper cognizance of flood hazards, the Secretary of the Army, through the Chief of Engineers, is hereby authorized to compile and disseminate information on floods and flood damages, including identification of areas subject to inundation by floods of various magnitudes and frequencies, and general criteria for guidance of Federal and non-Federal interests and agencies in the use of flood plain areas; and to provide advice to other Federal agencies and local interests for their use in planning to ameliorate the flood hazard. Surveys and guides will be made for States and political subdivisions thereof only upon the request of a State or a political subdivision thereof, and upon approval by the Chief of Engineers, and such information and advice provided them only upon such request and approval.
+* In recognition of the increasing use and development of the flood plains of the rivers of the United States and of the need for information on flood hazards to serve as a guide to such development, and as a basis for avoiding future flood hazards by regulation of use by States and political subdivisions thereof, and to assure that Federal departments and agencies may take proper cognizance of flood hazards, the Secretary of the Army, through the Chief of Engineers, is hereby authorized to compile and disseminate information on floods and flood damages, including identification of areas subject to inundation by floods of various magnitudes and frequencies, and general criteria for guidance of Federal and non-Federal interests and agencies in the use of flood plain areas; and to provide advice to other Federal agencies and local interests for their use in planning to ameliorate the flood hazard, to avoid repetitive flooding impacts, to anticipate, prepare, and adapt to changing climatic conditions and extreme weather events, and to withstand, respond to, and recover rapidly from disruption due to the flood hazards. Surveys and guides will be made for States and political subdivisions thereof only upon the request of a State or a political subdivision thereof, and upon approval by the Chief of Engineers, and such information and advice provided them only upon such request and approval.
 
 #### (b) Flood prevention coordination
 * The Secretary shall coordinate with the Administrator of the Federal Emergency Management Agency and the heads of other Federal agencies to ensure that flood control projects and plans are complementary and integrated to the extent practicable and appropriate.

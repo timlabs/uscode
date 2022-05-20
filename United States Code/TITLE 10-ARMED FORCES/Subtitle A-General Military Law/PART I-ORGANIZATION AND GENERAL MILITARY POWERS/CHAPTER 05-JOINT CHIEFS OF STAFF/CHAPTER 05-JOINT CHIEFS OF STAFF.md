@@ -64,14 +64,14 @@
 
   * (A) the Vice Chairman of the Joint Chiefs of Staff;
 
-  * (B) the Chief of Staff of the Army, the Chief of Naval Operations, the Chief of Staff of the Air Force, or the Commandant of the Marine Corps; or
+  * (B) the Chief of Staff of the Army, the Chief of Naval Operations, the Chief of Staff of the Air Force, or the Commandant of the Marine Corps, or the Chief of Space Operations; or
 
   * (C) the commander of a unified or specified combatant command.
 
 
 * (2) The President may waive paragraph (1) in the case of an officer if the President determines such action is necessary in the national interest.
 
-* (c) GRADE AND RANK.—The Chairman, while so serving, holds the grade of general or, in the case of an officer of the Navy, admiral and outranks all other officers of the armed forces. However, he may not exercise military command over the Joint Chiefs of Staff or any of the armed forces.
+* (c) GRADE AND RANK.—The Chairman, while so serving, holds the grade of general, in the case of the Navy, admiral, or, in the case of an officer of the Space Force, the equivalent grade, and outranks all other officers of the armed forces. However, he may not exercise military command over the Joint Chiefs of Staff or any of the armed forces.
 
 ### §153. Chairman: functions
 * (a) PLANNING; ADVICE; POLICY FORMULATION.—Subject to the authority, direction, and control of the President and the Secretary of Defense, the Chairman of the Joint Chiefs of Staff shall be responsible for the following:
@@ -265,7 +265,7 @@
 
   * (B) the Navy and the Marine Corps; and
 
-  * (C) the Air Force.
+  * (C) the Air Force and the Space Force.
 
 
 * (3) Selection of officers of an armed force to serve on the Joint Staff shall be made by the Chairman from a list of officers submitted by the Secretary of the military department having jurisdiction over that armed force. Each officer whose name is submitted shall be among those officers considered to be the most outstanding officers of that armed force. The Chairman may specify the number of officers to be included on any such list.

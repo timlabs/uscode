@@ -59,7 +59,7 @@
 * If a Governor referred to in subsection (a) is the Governor of the State of Washington, Oregon, Idaho, or Montana, the Governor shall coordinate with the Administrator of the Bonneville Power Administration before making a request under subsection (a).
 
 #### (c) Termination of authority
-* The authorities established under this subchapter shall terminate on September 30, 2020.
+* The authorities established under this subchapter shall terminate on September 30, 2021.
 
 ### §2215. Assistance for drought-related planning in reclamation States
 #### (a) In general

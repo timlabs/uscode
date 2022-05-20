@@ -854,9 +854,7 @@
   * (2) any other action taken by Amtrak to implement this section.
 
 
-* (d) NO FEDERAL FUNDING FOR OPERATING LOSSES.—Beginning on the date that is 5 years after the date of enactment of the Passenger Rail Reform and Investment Act of 2015, no Federal funds may be used to cover any operating loss associated with providing food and beverage service on a route operated by Amtrak or a rail carrier that operates a route in lieu of Amtrak pursuant to section 24711.
-
-* (e) REPORT.—Not later than 120 days after the date of enactment of the Passenger Rail Reform and Investment Act of 2015, and annually thereafter for 5 years, Amtrak shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report containing the plan developed pursuant to subsection (a) and a description of progress in the implementation of the plan.
+* (d) REPORT.—Not later than 120 days after the date of enactment of the Passenger Rail Reform and Investment Act of 2015, and annually thereafter for 5 years, Amtrak shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report containing the plan developed pursuant to subsection (a) and a description of progress in the implementation of the plan.
 
 ### §24322. Rolling stock purchases
 * (a) IN GENERAL.—Prior to entering into any contract in excess of $100,000,000 for rolling stock and locomotive procurements Amtrak shall submit a business case analysis to the Secretary of Transportation, the Committee on Commerce, Science, and Transportation and the Committee on Appropriations of the Senate and the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives, on the utility of such procurements.

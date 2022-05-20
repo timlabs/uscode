@@ -164,10 +164,13 @@
 
 * (C) At the same time that the Secretary publishes standards under subparagraph (A), the Secretary shall publish in the Federal Register a list of the ships covered by subparagraph (B).
 
-#### (e) Regulations
+#### (e) Discharge of agricultural cargo residue
+* Notwithstanding any other provision of law, the discharge from a vessel of any agricultural cargo residue material in the form of hold washings shall be governed exclusively by the provisions of this chapter that implement Annex V to the International Convention for the Prevention of Pollution from Ships.
+
+#### (f) Regulations
 * The Secretary or the Administrator, consistent with section 1903 of this title, shall prescribe regulations applicable to the ships of a country not a party to the MARPOL Protocol (or the applicable Annex), including regulations conforming to and giving effect to the requirements of Annex V and Annex VI as they apply under subsection (a) of this section, to ensure that their treatment is not more favorable than that accorded ships to parties to the MARPOL Protocol.
 
-#### (f) Compliance by excluded vessels
+#### (g) Compliance by excluded vessels
 * (1) The Secretary of the Navy shall develop and, as appropriate, support the development of technologies and practices for solid waste management aboard ships owned or operated by the Department of the Navy, including technologies and practices for the reduction of the waste stream generated aboard such ships, that are necessary to ensure the compliance of such ships with subsection (b) of this section.
 
 * (2) Notwithstanding any effective date of the application of this section to a ship, the provisions of Annex V to the Convention and subsection (b)(3)(B)(i) of this section with respect to the disposal of plastic shall apply to ships equipped with plastic processors required for the long-term collection and storage of plastic aboard ships of the Navy upon the installation of such processors in such ships.
@@ -187,17 +190,14 @@
 
   * (B) Beginning on October 1, 1996, and each year thereafter until October 1, 1998, a list of the names of such ships equipped with plastic processors pursuant to section 1003(e) of the National Defense Authorization Act for Fiscal Year 1994.
 
-#### (g) Waiver authority
+#### (h) Waiver authority
 * The President may waive the effective dates of the requirements set forth in subsection (c) of this section and in subsection 1003(e) of the National Defense Authorization Act for Fiscal Year 1994 if the President determines it to be in the paramount interest of the United States to do so. Any such waiver shall be for a period not in excess of one year. The President shall submit to the Congress each January a report on all waivers from the requirements of this section granted during the preceding calendar year, together with the reasons for granting such waivers.
 
-#### (h) Noncommercial shipping standards
+#### (i) Noncommercial shipping standards
 * The heads of Federal departments and agencies shall prescribe standards applicable to ships excluded from this chapter by subsection (b)(1) of this section and for which they are responsible. Standards prescribed under this subsection shall ensure, so far as is reasonable and practicable without impairing the operations or operational capabilities of such ships, that such ships act in a manner consistent with the MARPOL Protocol.
 
-#### (i) Savings clause
+#### (j) Savings clause
 * Nothing in this section shall be construed to restrict in a manner inconsistent with international law navigational rights and freedoms as defined by United States law, treaty, convention, or customary international law.
-
-### §1902a. Discharge of agricultural cargo residue
-* Notwithstanding any other provision of law, the discharge from a vessel of any agricultural cargo residue material in the form of hold washings shall be governed exclusively by the provisions of the Act to Prevent Pollution from Ships (33 U.S.C. 1901 et seq.) that implement Annex V to the International Convention for the Prevention of Pollution from Ships.
 
 ### §1903. Administration and enforcement
 #### (a) Duty of Secretary; Annexes of Convention applicable to seagoing vessels

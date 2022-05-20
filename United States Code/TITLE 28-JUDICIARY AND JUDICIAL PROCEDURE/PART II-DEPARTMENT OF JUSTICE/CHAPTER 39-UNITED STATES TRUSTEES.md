@@ -129,7 +129,7 @@
 
 * (c) Each United States trustee shall be under the general supervision of the Attorney General, who shall provide general coordination and assistance to the United States trustees.
 
-* (d)(1) The Attorney General shall prescribe by rule qualifications for membership on the panels established by United States trustees under paragraph (a)(1) of this section, and qualifications for appointment under subsection (b) of this section to serve as standing trustee in cases under subchapter V of chapter 11 or chapter 12 or 13 of title 11. The Attorney General may not require that an individual be an attorney in order to qualify for appointment under subsection (b) of this section to serve as standing trustee in cases undersubchapter V of chapter 11 or chapter 12 or 13 of title 11.
+* (d)(1) The Attorney General shall prescribe by rule qualifications for membership on the panels established by United States trustees under paragraph (a)(1) of this section, and qualifications for appointment under subsection (b) of this section to serve as standing trustee in cases under subchapter V of chapter 11 or chapter 12 or 13 of title 11. The Attorney General may not require that an individual be an attorney in order to qualify for appointment under subsection (b) of this section to serve as standing trustee in cases under subchapter V of chapter 11 or chapter 12 or 13 of title 11.
 
 * (2) A trustee whose appointment under subsection (a)(1) or under subsection (b) is terminated or who ceases to be assigned to cases filed under title 11, United States Code, may obtain judicial review of the final agency decision by commencing an action in the district court of the United States for the district for which the panel to which the trustee is appointed under subsection (a)(1), or in the district court of the United States for the district in which the trustee is appointed under subsection (b) resides, after first exhausting all available administrative remedies, which if the trustee so elects, shall also include an administrative hearing on the record. Unless the trustee elects to have an administrative hearing on the record, the trustee shall be deemed to have exhausted all administrative remedies for purposes of this paragraph if the agency fails to make a final agency decision within 90 days after the trustee requests administrative remedies. The Attorney General shall prescribe procedures to implement this paragraph. The decision of the agency shall be affirmed by the district court unless it is unreasonable and without cause based on the administrative record before the agency.
 
@@ -244,6 +244,19 @@
 * (d) The Attorney General shall transmit to the Congress, not later than 120 days after the end of each fiscal year, a detailed report on the amounts deposited in the Fund and a description of expenditures made under this section.
 
 * (e) There are authorized to be appropriated to the Fund for any fiscal year such sums as may be necessary to supplement amounts deposited under subsection (b) for the purposes specified in subsection (a).
+
+* (f)(1) During each of fiscal years 2021 through 2026 and notwithstanding subsections (b) and (c), the fees collected under section 1930(a)(6), less the amount specified in paragraph (2), shall be deposited as follows, in the following order:
+
+  * (A) First, the amounts specified in the Department of Justice appropriations for that fiscal year, shall be deposited as discretionary offsetting collections to the "United States Trustee System Fund", pursuant to subsection (a), to remain available until expended.
+
+  * (B) Second, the amounts determined annually by the Director of the Administrative Office of the United States Courts that are necessary to reimburse the judiciary for the costs of administering payments under section 330(e) of title 11, shall be deposited as mandatory offsetting collections to the "United States Trustee System Fund", and transferred and deposited into the special fund established under section 1931(a), and notwithstanding subsection (a), shall be available for expenditure without further appropriation.
+
+  * (C) Third, the amounts determined annually by the Director of the Administrative Office of the United States Courts that are necessary to pay trustee compensation authorized by section 330(e)(2) of title 11, shall be deposited as mandatory offsetting collections to the "United States Trustee System Fund", and transferred and deposited into the Chapter 7 Trustee Fund established under section 330(e) of title 11 for payment to trustees serving in cases under chapter 7 of title 11 (in addition to the amounts paid under section 330(b) of title 11), in accordance with that section, and notwithstanding subsection (a), shall be available for expenditure without further appropriation.
+
+  * (D) Fourth, any remaining amounts shall be deposited as discretionary offsetting collections to the "United States Trustee System Fund", to remain available until expended.
+
+
+* (2) Notwithstanding subsection (b), for each of fiscal years 2021 through 2026, $5,400,000 of the fees collected under section 1930(a)(6) shall be deposited in the general fund of the Treasury.
 
 ### §589b. Bankruptcy data
 * (a) RULES.—The Attorney General shall, within a reasonable time after the effective date of this section, issue rules requiring uniform forms for (and from time to time thereafter to appropriately modify and approve)—

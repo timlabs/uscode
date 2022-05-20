@@ -45,7 +45,9 @@
 
   * (2)(A) outpatient hospital services, (B) consistent with State law permitting such services, rural health clinic services (as defined in subsection (l)(1)) and any other ambulatory services which are offered by a rural health clinic (as defined in subsection (l)(1)) and which are otherwise included in the plan, and (C) Federally-qualified health center services (as defined in subsection (l)(2)) and any other ambulatory services offered by a Federally-qualified health center and which are otherwise included in the plan;
 
-  * (3) other laboratory and X-ray services;
+  * (3)(A) other laboratory and X-ray services; and
+
+  * (B) in vitro diagnostic products (as defined in section 809.3(a) of title 21, Code of Federal Regulations) administered during any portion of the emergency period defined in paragraph (1)(B) of section 1320b–5(g) of this title beginning on or after March 18, 2020, for the detection of SARS–CoV–2 or the diagnosis of the virus that causes COVID–19, and the administration of such in vitro diagnostic products;
 
   * (4)(A) nursing facility services (other than services in an institution for mental diseases) for individuals 21 years of age or older; (B) early and periodic screening, diagnostic, and treatment services (as defined in subsection (r)) for individuals who are eligible under the plan and are under the age of 21; (C) family planning services and supplies furnished (directly or under arrangements with others) to individuals of child-bearing age (including minors who can be considered to be sexually active) who are eligible under the State plan and who desire such services and supplies; and (D) counseling and pharmacotherapy for cessation of tobacco use by pregnant women (as defined in subsection (bb));
 
@@ -104,9 +106,11 @@
 
   * (28) freestanding birth center services (as defined in subsection (l)(3)(A)) and other ambulatory services that are offered by a freestanding birth center (as defined in subsection (l)(3)(B)) and that are otherwise included in the plan;
 
-  * (29) subject to paragraph (2) of subsection (ee), for the period beginning October 1, 2020, and ending September 30, 2025, medication-assisted treatment (as defined in paragraph (1) of such subsection); and
+  * (29) subject to paragraphs (2) and (3) of subsection (ee), for the period beginning October 1, 2020, and ending September 30, 2025, medication-assisted treatment (as defined in paragraph (1) of such subsection);
 
-  * (30) any other medical care, and any other type of remedial care recognized under State law, specified by the Secretary,
+  * (30) subject to subsection (gg), routine patient costs for items and services furnished in connection with participation in a qualifying clinical trial (as defined in such subsection); and
+
+  * (31) any other medical care, and any other type of remedial care recognized under State law, specified by the Secretary,
 
 
 * except as otherwise provided in paragraph (16), such term does not include—
@@ -119,7 +123,7 @@
 * For purposes of clause (vi) of the preceding sentence, a person shall be considered essential to another individual if such person is the spouse of and is living with such individual, the needs of such person are taken into account in determining the amount of aid or assistance furnished to such individual (under a State plan approved under subchapter I, X, XIV, or XVI), and such person is determined, under such a State plan, to be essential to the well-being of such individual. The payment described in the first sentence may include expenditures for medicare cost-sharing and for premiums under part B of subchapter XVIII for individuals who are eligible for medical assistance under the plan and (A) are receiving aid or assistance under any plan of the State approved under subchapter I, X, XIV, or XVI, or part A of subchapter IV, or with respect to whom supplemental security income benefits are being paid under subchapter XVI, or (B) with respect to whom there is being paid a State supplementary payment and are eligible for medical assistance equal in amount, duration, and scope to the medical assistance made available to individuals described in section 1396a(a)(10)(A) of this title, and, except in the case of individuals 65 years of age or older and disabled individuals entitled to health insurance benefits under subchapter XVIII who are not enrolled under part B of subchapter XVIII, other insurance premiums for medical or any other type of remedial care or the cost thereof. No service (including counseling) shall be excluded from the definition of "medical assistance" solely because it is provided as a treatment service for alcoholism or drug dependency. In the case of a woman who is eligible for medical assistance on the basis of being pregnant (including through the end of the month in which the 60-day period beginning on the last day of her pregnancy ends), who is a patient in an institution for mental diseases for purposes of receiving treatment for a substance use disorder, and who was enrolled for medical assistance under the State plan immediately before becoming a patient in an institution for mental diseases or who becomes eligible to enroll for such medical assistance while such a patient, the exclusion from the definition of "medical assistance" set forth in the subdivision (B) following paragraph (30) of the first sentence of this subsection shall not be construed as prohibiting Federal financial participation for medical assistance for items or services that are provided to the woman outside of the institution.
 
 #### (b) Federal medical assistance percentage; State percentage; Indian health care percentage
-* Subject to subsections (y), (z), (aa), and (ff) and section 1396u–3(d) of this title, the term "Federal medical assistance percentage" for any State shall be 100 per centum less the State percentage; and the State percentage shall be that percentage which bears the same ratio to 45 per centum as the square of the per capita income of such State bears to the square of the per capita income of the continental United States (including Alaska) and Hawaii; except that (1) the Federal medical assistance percentage shall in no case be less than 50 per centum or more than 83 per centum, (2) the Federal medical assistance percentage for Puerto Rico, the Virgin Islands, Guam, the Northern Mariana Islands, and American Samoa shall be 55 percent, (3) for purposes of this subchapter and subchapter XXI, the Federal medical assistance percentage for the District of Columbia shall be 70 percent, (4) the Federal medical assistance percentage shall be equal to the enhanced FMAP described in section 1397ee(b) of this title with respect to medical assistance provided to individuals who are eligible for such assistance only on the basis of section 1396a(a)(10)(A)(ii)(XVIII) of this title, and (5) in the case of a State that provides medical assistance for services and vaccines described in subparagraphs (A) and (B) of subsection (a)(13), and prohibits cost-sharing for such services and vaccines, the Federal medical assistance percentage, as determined under this subsection and subsection (y) (without regard to paragraph (1)(C) of such subsection), shall be increased by 1 percentage point with respect to medical assistance for such services and vaccines and for items and services described in subsection (a)(4)(D). The Federal medical assistance percentage for any State shall be determined and promulgated in accordance with the provisions of section 1301(a)(8)(B) of this title. Notwithstanding the first sentence of this section, the Federal medical assistance percentage shall be 100 per centum with respect to amounts expended as medical assistance for services which are received through an Indian Health Service facility whether operated by the Indian Health Service or by an Indian tribe or tribal organization (as defined in section 1603 of title 25). Notwithstanding the first sentence of this subsection, in the case of a State plan that meets the condition described in subsection (u)(1), with respect to expenditures (other than expenditures under section 1396r–4 of this title) described in subsection (u)(2)(A) or subsection (u)(3) for the State for a fiscal year, and that do not exceed the amount of the State's available allotment under section 1397dd of this title, the Federal medical assistance percentage is equal to the enhanced FMAP described in section 1397ee(b) of this title.
+* Subject to subsections (y), (z), (aa), and (ff) and section 1396u–3(d) of this title, the term "Federal medical assistance percentage" for any State shall be 100 per centum less the State percentage; and the State percentage shall be that percentage which bears the same ratio to 45 per centum as the square of the per capita income of such State bears to the square of the per capita income of the continental United States (including Alaska) and Hawaii; except that (1) the Federal medical assistance percentage shall in no case be less than 50 per centum or more than 83 per centum, (2) the Federal medical assistance percentage for Puerto Rico, the Virgin Islands, Guam, the Northern Mariana Islands, and American Samoa shall be 55 percent, (3) for purposes of this subchapter and subchapter XXI, the Federal medical assistance percentage for the District of Columbia shall be 70 percent, (4) the Federal medical assistance percentage shall be equal to the enhanced FMAP described in section 1397ee(b) of this title with respect to medical assistance provided to individuals who are eligible for such assistance only on the basis of section 1396a(a)(10)(A)(ii)(XVIII) of this title, and (5) in the case of a State that provides medical assistance for services and vaccines described in subparagraphs (A) and (B) of subsection (a)(13), and prohibits cost-sharing for such services and vaccines, the Federal medical assistance percentage, as determined under this subsection and subsection (y) (without regard to paragraph (1)(C) of such subsection), shall be increased by 1 percentage point with respect to medical assistance for such services and vaccines and for items and services described in subsection (a)(4)(D). The Federal medical assistance percentage for any State shall be determined and promulgated in accordance with the provisions of section 1301(a)(8)(B) of this title. Notwithstanding the first sentence of this section, the Federal medical assistance percentage shall be 100 per centum with respect to amounts expended as medical assistance for services which are received through an Indian Health Service facility whether operated by the Indian Health Service or by an Indian tribe or tribal organization (as defined in section 1603 of title 25). Notwithstanding the first sentence of this subsection, in the case of a State plan that meets the condition described in subsection (u)(1), with respect to expenditures (other than expenditures under section 1396r–4 of this title) described in subsection (u)(2)(A) or subsection (u)(3) for the State for a fiscal year, and that do not exceed the amount of the State's available allotment under section 1397dd of this title, the Federal medical assistance percentage is equal to the enhanced FMAP described in section 1397ee(b) of this title. Notwithstanding the first sentence of this subsection, the Federal medical assistance percentage shall be 100 per centum with respect to (and, notwithstanding any other provision of this subchapter, available for) medical assistance provided to uninsured individuals (as defined in section 1396a(ss) of this title) who are eligible for such assistance only on the basis of section 1396a(a)(10)(A)(ii)(XXIII) of this title and with respect to expenditures described in section 1396b(a)(7) of this title that a State demonstrates to the satisfaction of the Secretary are attributable to administrative costs related to providing for such medical assistance to such individuals under the State plan.
 
 #### (c) Nursing facility
 * For definition of the term "nursing facility", see section 1396r(a) of this title.
@@ -258,7 +262,7 @@
 #### (p) Qualified medicare beneficiary; medicare cost-sharing
 * (1) The term "qualified medicare beneficiary" means an individual—
 
-  * (A) who is entitled to hospital insurance benefits under part A of subchapter XVIII (including an individual entitled to such benefits pursuant to an enrollment under section 1395i–2 of this title, but not including an individual entitled to such benefits only pursuant to an enrollment under section 1395i–2a of this title),
+  * (A) who is entitled to hospital insurance benefits under part A of subchapter XVIII (including an individual entitled to such benefits pursuant to an enrollment under section 1395i–2 of this title, but not including an individual entitled to such benefits only pursuant to an enrollment under section 1395i–2a of this title) or who is enrolled under part B for the purpose of coverage of immunosuppressive drugs under section 1395o(b) of this title,
 
   * (B) whose income (as determined under section 1382a of this title for purposes of the supplemental security income program, except as provided in paragraph (2)(D)) does not exceed an income level established by the State consistent with paragraph (2), and
 
@@ -613,7 +617,7 @@
 * (3) Such term shall not include coverage for drugs or biologicals that are not otherwise covered under this subchapter.
 
 #### (cc) Requirement for certain States
-* Notwithstanding subsections (y), (z), and (aa), in the case of a State that requires political subdivisions within the State to contribute toward the non-Federal share of expenditures required under the State plan under section 1396a(a)(2) of this title, the State shall not be eligible for an increase in its Federal medical assistance percentage under such subsections if it requires that political subdivisions pay a greater percentage of the non-Federal share of such expenditures, or a greater percentage of the non-Federal share of payments under section 1396r–4 of this title, than the respective percentages that would have been required by the State under the State plan under this subchapter, State law, or both, as in effect on December 31, 2009, and without regard to any such increase. Voluntary contributions by a political subdivision to the non-Federal share of expenditures under the State plan under this subchapter or to the non-Federal share of payments under section 1396r–4 of this title, shall not be considered to be required contributions for purposes of this subsection. The treatment of voluntary contributions, and the treatment of contributions required by a State under the State plan under this subchapter, or State law, as provided by this subsection, shall also apply to the increases in the Federal medical assistance percentage under section 5001 of the American Recovery and Reinvestment Act of 2009.
+* Notwithstanding subsections (y), (z), and (aa), in the case of a State that requires political subdivisions within the State to contribute toward the non-Federal share of expenditures required under the State plan under section 1396a(a)(2) of this title, the State shall not be eligible for an increase in its Federal medical assistance percentage under such subsections if it requires that political subdivisions pay a greater percentage of the non-Federal share of such expenditures, or a greater percentage of the non-Federal share of payments under section 1396r–4 of this title, than the respective percentages that would have been required by the State under the State plan under this subchapter, State law, or both, as in effect on December 31, 2009, and without regard to any such increase. Voluntary contributions by a political subdivision to the non-Federal share of expenditures under the State plan under this subchapter or to the non-Federal share of payments under section 1396r–4 of this title, shall not be considered to be required contributions for purposes of this subsection. The treatment of voluntary contributions, and the treatment of contributions required by a State under the State plan under this subchapter, or State law, as provided by this subsection, shall also apply to the increases in the Federal medical assistance percentage under section 5001 of the American Recovery and Reinvestment Act of 2009 and section 6008 of the Families First Coronavirus Response Act, except that in applying such treatments to the increases in the Federal medical assistance percentage under section 6008 of the Families First Coronavirus Response Act, the reference to "December 31, 2009" shall be deemed to be a reference to "March 11, 2020".
 
 #### (dd) Increased FMAP for additional expenditures for primary care services
 * Notwithstanding subsection (b), with respect to the portion of the amounts expended for medical assistance for services described in section 1396a(a)(13)(C) of this title furnished on or after January 1, 2013, and before January 1, 2015, that is attributable to the amount by which the minimum payment rate required under such section (or, by application, section 1396u–2(f) of this title) exceeds the payment rate applicable to such services under the State plan as of July 1, 2009, the Federal medical assistance percentage for a State that is one of the 50 States or the District of Columbia shall be equal to 100 percent. The preceding sentence does not prohibit the payment of Federal financial participation based on the Federal medical assistance percentage for amounts in excess of those specified in such sentence.
@@ -629,6 +633,13 @@
 * #### (2) Exception
   * The provisions of paragraph (29) of subsection (a) shall not apply with respect to a State for the period specified in such paragraph, if before the beginning of such period the State certifies to the satisfaction of the Secretary that implementing such provisions statewide for all individuals eligible to enroll in the State plan (or waiver of the State plan) would not be feasible by reason of a shortage of qualified providers of medication-assisted treatment, or facilities providing such treatment, that will contract with the State or a managed care entity with which the State has a contract under section 1396b(m) of this title or under section 1396d(t)(3) of this title.
 
+* #### (3) Application of rebate requirements
+  * The requirements of section 1396r–8 of this title shall apply to any drug or biological product described in paragraph (1)(A) that is—
+
+    * (A) furnished as medical assistance in accordance with subsection (a)(29) and section 1396a(a)(10)(A) of this title; and
+
+    * (B) a covered outpatient drug (as defined in section 1396r–8(k) of this title, except that, in applying paragraph (2)(A) of such section to a drug described in paragraph (1)(A), such drug shall be deemed a prescribed drug for purposes of subsection (a)(12)).
+
 #### (ff) Temporary increase in FMAP for territories for certain fiscal years
 * Notwithstanding subsection (b) or (z)(2)—
 
@@ -637,3 +648,77 @@
   * (2) subject to section 1308(g)(7)(C) of this title, for the period beginning December 21, 2019, and ending September 30, 2021, the Federal medical assistance percentage for Puerto Rico shall be equal to 76 percent; and
 
   * (3) subject to section 1308(g)(8)(B) of this title, for the period beginning December 21, 2019, and ending September 30, 2021, the Federal medical assistance percentage for the Virgin Islands, Guam, the Northern Mariana Islands, and American Samoa shall be equal to 83 percent.
+
+#### (gg)(1) Routine patient costs
+* For purposes of subsection (a)(30), with respect to a State and an individual enrolled under the State plan (or a waiver of such plan) who participates in a qualifying clinical trial, routine patient costs—
+
+  * (A) include any item or service provided to the individual under the qualifying clinical trial, including—
+
+    * (i) any item or service provided to prevent, diagnose, monitor, or treat complications resulting from such participation, to the extent that the provision of such an item or service to the individual outside the course of such participation would otherwise be covered under the State plan or waiver; and
+
+    * (ii) any item or service required solely for the provision of the investigational item or service that is the subject of such trial, including the administration of such investigational item or service; and
+
+
+  * (B) does not include—
+
+    * (i) an item or service that is the investigational item or service that is—
+
+      * (I) the subject of the qualifying clinical trial; and
+
+      * (II) not otherwise covered outside of the clinical trial under the State plan or waiver; or
+
+
+    * (ii) an item or service that is—
+
+      * (I) provided to the individual solely to satisfy data collection and analysis needs for the qualifying clinical trial and is not used in the direct clinical management of the individual; and
+
+      * (II) not otherwise covered under the State plan or waiver.
+
+#### (2) Qualifying clinical trial defined
+* #### (A) In general
+  * For purposes of this subsection and subsection (a)(30), the term "qualifying clinical trial" means a clinical trial (in any clinical phase of development) that is conducted in relation to the prevention, detection, or treatment of any serious or life-threatening disease or condition and is described in any of the following clauses:
+
+    * (i) The study or investigation is approved, conducted, or supported (which may include funding through in-kind contributions) by one or more of the following:
+
+      * (I) The National Institutes of Health.
+
+      * (II) The Centers for Disease Control and Prevention.
+
+      * (III) The Agency for Healthcare Research and Quality.
+
+      * (IV) The Centers for Medicare & Medicaid Services.
+
+      * (V) A cooperative group or center of any of the entities described in subclauses (I) through (IV) or the Department of Defense or the Department of Veterans Affairs.
+
+      * (VI) A qualified non-governmental research entity identified in the guidelines issued by the National Institutes of Health for center support grants.
+
+      * (VII) Any of the following if the conditions described in subparagraph (B) are met:
+
+        * (aa) The Department of Veterans Affairs.
+
+        * (bb) The Department of Defense.
+
+        * (cc) The Department of Energy.
+
+
+    * (ii) The clinical trial is conducted pursuant to an investigational new drug exemption under section 355(i) of title 21 or an exemption for a biological product undergoing investigation under section 262(a)(3) of this title.
+
+    * (iii) The clinical trial is a drug trial that is exempt from being required to have an exemption described in clause (ii).
+
+* #### (B) Conditions
+  * For purposes of subparagraph (A)(i)(VII), the conditions described in this subparagraph, with respect to a clinical trial approved or funded by an entity described in such subparagraph (A)(i)(VII), are that the clinical trial has been reviewed and approved through a system of peer review that the Secretary determines—
+
+    * (i) to be comparable to the system of peer review of studies and investigations used by the National Institutes of Health; and
+
+    * (ii) assures unbiased review of the highest scientific standards by qualified individuals with no interest in the outcome of the review.
+
+#### (3) Coverage determination requirements
+* A determination with respect to coverage under subsection (a)(30) for an individual participating in a qualifying clinical trial—
+
+  * (A) shall be expedited and completed within 72 hours;
+
+  * (B) shall be made without limitation on the geographic location or network affiliation of the health care provider treating such individual or the principal investigator of the qualifying clinical trial;
+
+  * (C) shall be based on attestation regarding the appropriateness of the qualifying clinical trial by the health care provider and principal investigator described in subparagraph (B), which shall be made using a streamlined, uniform form developed for State use by the Secretary and that includes the option to reference information regarding the qualifying clinical trial that is publicly available on a website maintained by the Secretary, such as clinicaltrials.gov (or a successor website); and
+
+  * (D) shall not require submission of the protocols of the qualifying clinical trial, or any other documentation that may be proprietary or determined by the Secretary to be burdensome to provide.

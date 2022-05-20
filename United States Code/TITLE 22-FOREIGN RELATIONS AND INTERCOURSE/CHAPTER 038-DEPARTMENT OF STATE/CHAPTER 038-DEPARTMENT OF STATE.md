@@ -80,6 +80,9 @@
 
       * (viii) Such other related duties as the Secretary may from time to time designate.
 
+  * #### (C) Coordination
+    * The Assistant Secretary authorized under subparagraph (A) shall coordinate with the Office of Sanctions Coordination established under subsection (h) with respect to the development and implementation of economic sanctions.
+
 * #### (4) Nomination of Assistant Secretaries
   * Whenever the President submits to the Senate a nomination of an individual for appointment to a position in the Department of State that is described in paragraph (1), the President shall designate the regional or functional bureau or bureaus of the Department of State with respect to which the individual shall have responsibility.
 
@@ -182,6 +185,41 @@
 
 * #### (3) Officer having primary responsibility for international narcotics and law enforcement
   * The officer of the Department of State with primary responsibility for assisting the Secretary with respect to international narcotics and law enforcement, or that officer's principal deputy, shall have substantial professional qualifications in the fields of (A) management, and (B) law enforcement or international narcotics policy.
+
+#### (h) Office of Sanctions Coordination
+* #### (1) In general
+  * There is established, within the Department of State, an Office of Sanctions Coordination (in this subsection referred to as the "Office").
+
+* #### (2) Head
+  * The head of the Office shall—
+
+    * (A) have the rank and status of ambassador;
+
+    * (B) be appointed by the President, by and with the advice and consent of the Senate; and
+
+    * (C) report directly to the Secretary of State.
+
+* #### (3) Duties
+  * The head of the Office shall—
+
+    * (A) exercise sanctions authorities delegated to the Secretary;
+
+    * (B) serve as the principal advisor to the senior management of the Department and the Secretary regarding the development and implementation of sanctions policy;
+
+    * (C) serve as the lead representative of the United States in diplomatic engagement on sanctions matters;
+
+    * (D) consult and closely coordinate with allies and partners of the United States, including the United Kingdom, the European Union and member countries of the European Union, Canada, Australia, New Zealand, Japan, and South Korea, to ensure the maximum effectiveness of sanctions imposed by the United States and such allies and partners;
+
+    * (E) serve as the coordinator for the development and implementation of sanctions policy with respect to all activities, policies, and programs of all bureaus and offices of the Department relating to the development and implementation of sanctions policy; and
+
+    * (F) serve as the lead representative of the Department in interagency discussions with respect to the development and implementation of sanctions policy.
+
+* #### (4) Direct hire authority
+  * #### (A) In general
+    * The head of the Office may appoint, without regard to the provisions of sections 3309 through 3318 of title 5, candidates directly to positions in the competitive service, as defined in section 2102 of that title, in the Office.
+
+  * #### (B) Termination
+    * The authority provided under subparagraph (A) shall terminate on the date that is two years after December 27, 2020.
 
 ### §2652b. Assistant Secretary of State for South Asian Affairs
 #### (a) Establishment of position
@@ -566,6 +604,108 @@
 
 * #### (3) Report to Congress
   * Not later than 180 days after October 21, 1998, the Secretary shall submit to the Committee on Foreign Relations of the Senate and the Committee on International Relations of the House of Representatives a report on the status of any proposals for action or on action undertaken to improve staffing and personnel management at diplomatic missions of the United States in order to carry out the responsibility set forth in paragraph (1).
+
+### §2656j. Countering white identity terrorism globally
+#### (a) Strategy and coordination
+* Not later than six months after January 1, 2021, the Secretary of State shall—
+
+  * (1) develop and submit to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate a Department of State-wide strategy entitled the "Department of State Strategy for Countering White Identity Terrorism Globally" (in this section referred to as the "strategy"); and
+
+  * (2) designate the Coordinator for Counterterrorism of the Department to coordinate Department efforts to counter white identity terrorism globally, including with United States diplomatic and consular posts, the Director of the National Counterterrorism Center, the Director of the Central Intelligence Agency, the Attorney General, the Director of National Intelligence, the Secretary of Homeland Security, the Director of the Federal Bureau of Investigation, the Secretary of the Treasury, and the heads of any other relevant Federal departments or agencies.
+
+#### (b) Elements
+* The strategy shall at a minimum contain the following:
+
+  * (1) An assessment of the global threat from white identity terrorism abroad, including geographic or country prioritization based on the assessed threat to the United States.
+
+  * (2) A description of the coordination mechanisms between relevant bureaus and offices within the Department of State, as well as with United States diplomatic and consular posts, for developing and implementing efforts to counter white identity terrorism.
+
+  * (3) A description of how the Department plans to build on any existing strategy developed by the Bureau for Counterterrorism to—
+
+    * (A) adapt or expand existing Department programs, projects, activities, or policy instruments based on existing authorities for the specific purpose of degrading and delegitimizing the white identity terrorist movement globally; and
+
+    * (B) identify the need for any new Department programs, projects, activities, or policy instruments for the specific purpose of degrading and delegitimizing the white identity terrorist movement globally, including a description of the steps and resources necessary to establish any such programs, projects, activities, or policy instruments, noting whether such steps would require new authorities.
+
+
+  * (4) Detailed plans for using public diplomacy, including the efforts of the Secretary of State and other senior Executive Branch officials, including the President, to degrade and delegitimize white identity terrorist ideologues and ideology globally, including by—
+
+    * (A) countering white identity terrorist messaging and supporting efforts to redirect potential supporters away from white identity terrorist content online;
+
+    * (B) exposing foreign government support for white identity terrorist ideologies, objectives, ideologues, networks, organizations, and internet platforms;
+
+    * (C) engaging with foreign governments and internet service providers and other relevant technology entities, to prevent or limit white identity terrorists from exploiting internet platforms in furtherance of or in preparation for acts of terrorism or other targeted violence, as well as the recruitment, radicalization, and indoctrination of new adherents to white identity terrorism; and
+
+    * (D) identifying the roles and responsibilities for the Office of the Under Secretary for Public Affairs and Public Diplomacy and the Global Engagement Center in developing and implementing such plans.
+
+
+  * (5) An outline of steps the Department is taking or will take in coordination, as appropriate, with the Director of the National Counterterrorism Center, the Director of the Central Intelligence Agency, the Attorney General, the Director of National Intelligence, the Secretary of Homeland Security, the Director of the Federal Bureau of Investigation, the Secretary of the Treasury, and the heads of any other relevant Federal departments or agencies to improve information and intelligence sharing with other countries on white identity terrorism based on existing authorities by—
+
+    * (A) describing plans for adapting or expanding existing mechanisms for sharing information, intelligence, or counterterrorism best practices, including facilitating the sharing of information, intelligence, or counterterrorism best practices gathered by Federal, State, and local law enforcement; and
+
+    * (B) proposing new mechanisms or forums that might enable expanded sharing of information, intelligence, or counterterrorism best practices.
+
+
+  * (6) An outline of how the Department plans to use designation as a Specially Designated Global Terrorist (under Executive Order No. 13224 (50 U.S.C. 1701 note)) and foreign terrorist organization (pursuant to section 1189 of title 8) to support the strategy, including—
+
+    * (A) an assessment and explanation of the utility of applying or not applying such designations when individuals or entities satisfy the criteria for such designations; and
+
+    * (B) a description of possible remedies if such criteria are insufficient to enable designation of any individuals or entities the Secretary of State considers a potential terrorist threat to the United States.
+
+
+  * (7) A description of the Department's plans, in consultation with the Department of the Treasury, to work with foreign governments, financial institutions, and other related entities to counter the financing of white identity terrorists within the parameters of current law, or if no such plans exist, a description of why.
+
+  * (8) A description of how the Department plans to implement the strategy in conjunction with ongoing efforts to counter the Islamic State, al-Qaeda, and other terrorist threats to the United States.
+
+  * (9) A description of how the Department will integrate into the strategy lessons learned in the ongoing efforts to counter the Islamic State, al-Qaeda, and other terrorist threats to the United States.
+
+  * (10) A identification of any additional resources or staff needed to implement the strategy.
+
+#### (c) Interagency coordination
+* The Secretary of State shall develop the strategy in coordination with the Director of the National Counterterrorism Center and in consultation with the Director of the Central Intelligence Agency, the Attorney General, the Director of National Intelligence, the Secretary of Homeland Security, the Director of the Federal Bureau of Investigation, the Secretary of the Treasury, and the heads of any other relevant Federal departments or agencies.
+
+#### (d) Stakeholder inclusion
+* The strategy shall be developed in consultation with representatives of United States and international civil society and academic entities with experience researching or implementing programs to counter white identity terrorism.
+
+#### (e) Form
+* The strategy shall be submitted in unclassified form that can be made available to the public, but may include a classified annex if the Secretary of State determines such is appropriate.
+
+#### (f) Implementation
+* Not later than three months after the submission of the strategy, the Secretary of State shall begin implementing the strategy.
+
+#### (g) Consultation
+* Not later than 90 days after January 1, 2021, and not less often than annually thereafter, the Secretary of State shall consult with the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate regarding the development and implementation of the strategy.
+
+#### (h) Country reports on terrorism
+* The Secretary of State shall incorporate all credible information about white identity terrorism, including regarding relevant attacks, the identification of perpetrators and victims of such attacks, the size and identification of organizations and networks, and the identification of notable ideologues, in the annual country reports on terrorism submitted pursuant to section 2656f of this title.
+
+#### (i) Report on sanctions
+* #### (1) In general
+  * Not later than 120 days and again 240 days after the submission of each annual country report on terrorism submitted pursuant to section 2656f of this title, as modified in accordance with subsection (h), the President shall submit to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate a report that determines whether the foreign persons, organizations, and networks identified in such annual country reports on terrorism as so modified, satisfy the criteria to be designated as—
+
+    * (A) foreign terrorist organizations under section 1189 of title 8; or
+
+    * (B) Specially Designated Global Terrorist under Executive Order No. 13224 (50 U.S.C. 1701 note).
+
+* #### (2) Form
+  * Each determination required under paragraph (1) shall be submitted in unclassified form, but may include a classified annex, if appropriate.
+
+#### (j) Requirement for Independent study to map the global white identity terrorism movement
+* #### (1) In general
+  * Not later than 60 days after January 1, 2021, the Secretary of State shall enter into a contract with a federally funded research and development center with appropriate expertise and analytical capability to carry out the study described in paragraph (2).
+
+* #### (2) Study
+  * The study described in this paragraph shall provide for a comprehensive social network analysis of the global white identity terrorism movement to—
+
+    * (A) identify key actors, organizations, and supporting infrastructure; and
+
+    * (B) map the relationships and interactions between such actors, organizations, and supporting infrastructure.
+
+* #### (3) Report
+  * #### (A) To the Secretary
+    * Not later than one year after the date on which the Secretary of State enters into a contract pursuant to paragraph (1), the federally funded research and development center referred to in such subsection that has entered into such contract with the Secretary shall submit to the Secretary a report containing the results of the study required under this section.
+
+  * #### (B) To Congress
+    * Not later than 30 days after receipt of the report under subparagraph (A), the Secretary of State shall submit to the Committee of Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate such report, together with any additional views or recommendations of the Secretary.
 
 ### §2657. Custody of seals and property
 * The Secretary of State shall have the custody and charge of the seal of the Department of State, and of all the books, records, papers, furniture, fixtures, and other property which on June 22, 1874, remained in and appertained to the Department, or were thereafter acquired for it.
@@ -1013,7 +1153,7 @@
 ### §2680b. Special rules for certain monthly workers' compensation payments and other payments for Department of State personnel under chief of mission authority
 #### (a) Adjustment of compensation for certain injuries
 * #### (1) Increase
-  * The Secretary of State may pay an additional monthly monetary benefit, provided that the covered employee is receiving benefits under section 8105 or 8106 of title 5, and may determine the amount of each monthly monetary benefit amount by taking into account—
+  * The Secretary of State or the head of any other Federal agency may pay an additional monthly monetary benefit, provided that the covered employee is receiving benefits under section 8105 or 8106 of title 5, and may determine the amount of each monthly monetary benefit amount by taking into account—
 
     * (A) the severity of the qualifying injury;
 
@@ -1032,7 +1172,7 @@
   * (2) a covered individual, or a covered dependent, for such costs that are not otherwise covered by Federal law.
 
 #### (c) Information exchange
-* To avoid duplicate or otherwise improper payments under this subsection, the Secretary of Labor and the Secretary of State shall exchange information about the amounts paid for treatment of qualifying injuries.
+* To avoid duplicate or otherwise improper payments under this subsection, the Secretary of Labor, the Secretary of State, and, as appropriate, the head of any other Federal agency paying benefits under this section shall exchange information about the amounts paid for treatment of qualifying injuries.
 
 #### (d) Regulations
 * Not later than 120 days after December 20, 2019, the Secretary of State shall—
@@ -1052,7 +1192,7 @@
     * (B) becomes injured by reason of a qualifying injury.
 
 * #### (2) Covered employee
-  * The term "covered employee" means an employee of the Department of State who, on or after January 1, 2016, becomes injured by reason of a qualifying injury and was assigned to a duty station in the Republic of Cuba, the People's Republic of China, or another foreign country designated by the Secretary of State pursuant to subsection (f).
+  * The term "covered employee" means an employee of the Federal Government who, on or after January 1, 2016, becomes injured by reason of a qualifying injury and was assigned to a duty station in the Republic of Cuba, the People's Republic of China, or another foreign country designated by the Secretary of State pursuant to subsection (f), but does not include an individual receiving compensation under section 3519b of title 50.
 
 * #### (3) Covered individual
   * The term "covered individual" means an individual who, on or after January 1, 2016, becomes injured by reason of a qualifying injury and is—
@@ -1100,7 +1240,7 @@
     * (B) diagnosis or treatment described in subsection (b) occurring on or after January 1, 2016.
 
 * #### (2) Rule of construction
-  * Nothing in this section shall modify or otherwise supersede chapter 81 of title 5 or chapter 11 of title 42. Monetary benefits and treatment expenses paid under this section shall not be considered payments under any workers' compensation law.
+  * Nothing in this section shall limit, modify, or otherwise supersede chapter 81 of title 5, the Defense Base Act (42 U.S.C. 1651 et seq.), or section 3519b of title 50. Monetary benefits and treatment expenses paid under this section shall not be considered payments under any workers' compensation law.
 
 ### §2681. International broadcasting facilities; transfer to Department of State; acquisition of property
 * For the purpose of assuring continued operation of the facilities hereinafter described for international broadcasting as a means of achieving the objectives of the United States Information and Educational Exchange Act of 1948 [22 U.S.C. 1431 et seq.] under authority of that Act, the Reconstruction Finance Corporation, as successor to Defense Plant Corporation, shall transfer, without regard to the provisions of the Surplus Property Act of 1944, as amended, and without reimbursement or transfer of funds, to the Secretary of State (hereinafter referred to as the "Secretary") all of its right, title, and interest in and to the facilities known as Plancors 1805, 1985, and 1986 located in Butler County, Ohio, in the vicinity of Delano, California, and Dixon, California, respectively, together with the equipment and other property appurtenant thereto. For the purposes of sections 2681 to 2683 of this title, the Secretary is authorized to acquire property or rights or interests therein necessary or desirable for the operation of such facilities by purchase, lease, gift, transfer, condemnation, or otherwise.
@@ -1412,7 +1552,7 @@
   * There is established a program for the payment of rewards to carry out the purposes of this section.
 
 * #### (2) Purpose
-  * The rewards program shall be designed to assist in the prevention of acts of international terrorism, international narcotics trafficking, serious violations of international humanitarian law, transnational organized crime, and other related criminal acts.
+  * The rewards program shall be designed to assist in the prevention of acts of international terrorism, international narcotics trafficking, serious violations of international humanitarian law, foreign election interference, transnational organized crime, and other related criminal acts.
 
 * #### (3) Implementation
   * The rewards program shall be administered by the Secretary of State, in consultation, as appropriate, with the Attorney General.
@@ -1440,7 +1580,7 @@
 
   * (4) the arrest or conviction in any country of any individual aiding or abetting in the commission of an act described in paragraph (1), (2), (3), (8), (9), or (10);
 
-  * (5) the prevention, frustration, or favorable resolution of an act described in paragraph (1), (2), (3), (8), (9), or (10), including by dismantling an organization in whole or significant part;
+  * (5) the prevention, frustration, or favorable resolution of an act described in paragraph (1), (2), (3), (8), (9), (10), or (13), including by dismantling an organization in whole or significant part;
 
   * (6) the identification or location of an individual who holds a key leadership position in a terrorist organization or transnational organized crime group;
 
@@ -1457,9 +1597,11 @@
 
   * (10) the arrest or conviction in any country, or the transfer to or conviction by an international criminal tribunal (including a hybrid or mixed tribunal), of any foreign national accused of war crimes, crimes against humanity, or genocide (including war crimes, crimes against humanity, or genocide committed in Syria beginning in March 2011), as defined under the statute of such tribunal;
 
-  * (11) the identification or location of any person who, while acting at the direction of or under the control of a foreign government, aids or abets a violation of section 1030 of title 18; or
+  * (11) the identification or location of any person who, while acting at the direction of or under the control of a foreign government, aids or abets a violation of section 1030 of title 18;
 
-  * (12) the disruption of financial mechanisms of any person who has engaged in the conduct described in sections 2914(a) or 2914(b)(1) of this title.
+  * (12) the disruption of financial mechanisms of any person who has engaged in the conduct described in section 2914(a) or 2914(b)(1) of this title; or
+
+  * (13) the identification or location of a foreign person that knowingly engaged or is engaging in foreign election interference.
 
 #### (c) Coordination
 * #### (1) Procedures
@@ -1549,7 +1691,27 @@
 * #### (2) Appropriate congressional committees
   * The term "appropriate congressional committees" means the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate.
 
-* #### (3) Member of the immediate family
+* #### (3) Foreign person
+  * The term "foreign person" means—
+
+    * (A) an individual who is not a United States person; or
+
+    * (B) a foreign entity.
+
+* #### (4) Foreign election interference
+  * The term "foreign election interference" means conduct by a foreign person that—
+
+    * (A)(i) violates Federal criminal, voting rights, or campaign finance law; or
+
+    * (ii) is performed by any person acting as an agent of or on behalf of, or in coordination with, a foreign government or criminal enterprise; and
+
+    * (B) includes any covert, fraudulent, deceptive, or unlawful act or attempted act, or knowing use of information acquired by theft, undertaken with the specific intent to significantly influence voters, undermine public confidence in election processes or institutions, or influence, undermine confidence in, or alter the result or reported result of, a general or primary Federal, State, or local election or caucus, including—
+
+      * (i) the campaign of a candidate; or
+
+      * (ii) a ballot measure, including an amendment, a bond issue, an initiative, a recall, a referral, or a referendum.
+
+* #### (5) Member of the immediate family
   * The term "member of the immediate family", with respect to an individual, includes—
 
     * (A) a spouse, parent, brother, sister, or child of the individual;
@@ -1558,10 +1720,10 @@
 
     * (C) any person not covered by subparagraph (A) or (B) who is living in the individual's household and is related to the individual by blood or marriage.
 
-* #### (4) Rewards program
+* #### (6) Rewards program
   * The term "rewards program" means the program established in subsection (a)(1).
 
-* #### (5) Transnational organized crime
+* #### (7) Transnational organized crime
   * The term "transnational organized crime"—
 
     * (A) means—
@@ -1573,16 +1735,16 @@
 
     * (B) includes wildlife trafficking (as defined by section 7601(12) of title 16) and severe forms of trafficking in persons (as defined in section 7102 of this title) involving at least 1 jurisdiction outside of the United States.
 
-* #### (6) Transnational organized crime group
+* #### (8) Transnational organized crime group
   * The term "transnational organized crime group" means a group of persons that includes one or more citizens of a foreign country, exists for a period of time, and acts in concert with the aim of engaging in transnational organized crime.
 
-* #### (7) United States narcotics laws
+* #### (9) United States narcotics laws
   * The term "United States narcotics laws" means the laws of the United States for the prevention and control of illicit trafficking in controlled substances (as such term is defined in section 802(6) of title 21).
 
-* #### (8) United States person
+* #### (10) United States person
   * The term "United States person" means—
 
-    * (A) a citizen or national of the United States; and
+    * (A) a citizen or national of the United States; or
 
     * (B) an alien lawfully present in the United States.
 
@@ -2181,10 +2343,19 @@
 
 * #### (2) Head of Office
   * #### (A) Special Envoy for Monitoring and Combating anti-Semitism
-    * The head of the Office shall be the Special Envoy for Monitoring and Combating anti-Semitism (in this section referred to as the "Special Envoy").
+    * The head of the Office shall be the Special Envoy for Monitoring and Combating anti-Semitism (in this section referred to as the "Special Envoy"), who shall be appointed by the President, by and with the advice and consent of the Senate. The Special Envoy shall report directly to the Secretary.
 
-  * #### (B) Appointment of head of Office
-    * The Secretary shall appoint the Special Envoy. If the Secretary determines that such is appropriate, the Secretary may appoint the Special Envoy from among officers and employees of the Department. The Secretary may allow such officer or employee to retain the position (and the responsibilities associated with such position) held by such officer or employee prior to the appointment of such officer or employee to the position of Special Envoy under this paragraph.
+  * #### (B) Nomination of head of Office
+    * If the President determines that such is appropriate, the President may nominate the Special Envoy from among officers and employees of the Department. Such officer or employee may not retain the position (or the responsibilities associated with such position) held by such officer or employee prior to the nomination of such officer or employee to the position of Special Envoy under this paragraph.
+
+* #### (3) Duties
+  * The Special Envoy shall serve as the primary advisor to, and coordinate efforts across, the United States Government relating to monitoring and combating anti-Semitism and anti-Semitic incitement that occur in foreign countries.
+
+* #### (4) Rank and status of ambassador
+  * The Special Envoy shall have the rank of ambassador.
+
+* #### (5) Qualifications
+  * The Special Envoy should be a person of recognized distinction in the field of combating anti-Semitism.
 
 #### (b) Purpose of Office
 * Upon establishment, the Office shall assume the primary responsibility for—

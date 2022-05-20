@@ -83,7 +83,19 @@
 
   * (6) A list of energy resilience projects planned by the Department of Defense by military department and military installation, whether appropriated or alternative financed for the next two fiscal years, including project description, fuel type, expected award date, and the type of appropriation or alternative financing expected for use.
 
-  * (7) At the discretion of the Secretary of Defense, a classified annex, as appropriate.
+  * (7) A description of the use of energy savings performance contracts (in this paragraph referred to as "ESPCs") by the Department of Defense, including—
+
+    * (A) the total investment value of the total number of ESPCs per service for the previous five fiscal years;
+
+    * (B) the location of facilities with ESPCs for the previous five fiscal years;
+
+    * (C) any limitations on expanding ESPCs throughout the Department of Defense;
+
+    * (D) the effect ESPCs have on military readiness; and
+
+    * (E) any additional information the Secretary determines relevant.
+
+  * (8) At the discretion of the Secretary of Defense, a classified annex, as appropriate.
 
 
 * (b) ANNUAL REPORT RELATED TO OPERATIONAL ENERGY.—(1) Simultaneous with the annual report required by subsection (a), the Secretary of Defense, acting through the Assistant Secretary of Defense for Energy, Installations, and Environment, shall submit to the congressional defense committees a report on operational energy management and the implementation of the operational energy strategy established pursuant to section 2926(d) of this title.

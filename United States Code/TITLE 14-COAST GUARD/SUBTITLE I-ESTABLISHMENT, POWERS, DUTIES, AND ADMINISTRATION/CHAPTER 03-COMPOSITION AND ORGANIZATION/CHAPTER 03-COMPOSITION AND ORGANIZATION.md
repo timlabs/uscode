@@ -15,6 +15,8 @@
 
 * (c) An officer who is retired prior to the expiration of the officer's term, while serving as Commandant or Vice Commandant, may, in the discretion of the President, be retired with the grade of admiral.
 
+* (d) Retirement under this section is subject to section 2501(a) of this title.
+
 ### §304. Vice Commandant; appointment
 * The President may appoint, by and with the advice and consent of the Senate, one Vice Commandant who shall rank next after the Commandant, shall perform such duties as the Commandant may prescribe and shall act as Commandant during the absence or disability of the Commandant or in the event that there is a vacancy in the office of Commandant. The Vice Commandant shall be selected from the officers on the active duty promotion list serving above the grade of captain. The Commandant shall make recommendation for such appointment. The Vice Commandant shall, while so serving, have the grade of admiral with pay and allowances of that grade. The appointment and grade of a Vice Commandant shall be effective on the date the officer assumes that duty, and shall terminate on the date the officer is detached from that duty, except as provided in section 306(d) of this title.
 
@@ -37,6 +39,8 @@
 
 * (B) The requirements of subparagraph (A) do not apply to such vice admiral if the subordinate officer serving in the grade of rear admiral with responsibilities for marine safety, security, and stewardship possesses that experience.
 
+* (4) Prior to making a recommendation to the President for the nomination of an officer for appointment to a position of importance and responsibility under this section, which appointment would result in the initial appointment of the officer concerned in the grade of vice admiral, the Commandant shall consider all officers determined to be among the best qualified for such position.
+
 * (b)(1) The appointment and the grade of vice admiral shall be effective on the date the officer assumes that duty and, except as provided in paragraph (2) of this subsection or in section 306(d) of this title, shall terminate on the date the officer is detached from that duty.
 
 * (2) An officer who is appointed to a position designated under subsection (a) shall continue to hold the grade of vice admiral—
@@ -57,11 +61,11 @@
 * (d) Whenever a vacancy occurs in a position designated under subsection (a), the Commandant shall inform the President of the qualifications needed by an officer serving in that position or office to carry out effectively the duties and responsibilities of that position or office.
 
 ### §306. Retirement
-* (a) An officer, other than the Commandant or Vice Commandant, who, while serving in the grade of admiral or vice admiral, is retired for physical disability shall be placed on the retired list with the highest grade in which that officer served.
+* (a) An officer, other than the Commandant or Vice Commandant, who, while serving in the grade of admiral or vice admiral, is retired for physical disability shall be placed on the retired list with the highest grade in which that officer served satisfactorily, as determined under section 2501 of this title.
 
-* (b) An officer, other than the Commandant or Vice Commandant, who is retired while serving in the grade of admiral or vice admiral, or who, after serving at least 2½ years in the grade of admiral or vice admiral, is retired while serving in a lower grade, may in the discretion of the President, be retired with the highest grade in which that officer served.
+* (b) An officer, other than the Commandant or Vice Commandant, who is retired while serving in the grade of admiral or vice admiral, or who, after serving at least 2½ years in the grade of admiral or vice admiral, is retired while serving in a lower grade, may in the discretion of the President, be retired with the highest grade in which that officer served satisfactorily, as determined under section 2501 of this title.
 
-* (c) An officer, other than the Commandant or Vice Commandant, who, after serving less than 2½ years in the grade of admiral or vice admiral, is retired while serving in a lower grade, shall be retired in his permanent grade.
+* (c) An officer, other than the Commandant or Vice Commandant, who, after serving less than 2½ years in the grade of admiral or vice admiral, is retired while serving in a lower grade, shall be retired in his permanent grade if performance of duties in such grade is determined to have been satisfactory pursuant to section 2501 of this title.
 
 * (d) An officer serving in the grade of admiral or vice admiral shall continue to hold that grade—
 
@@ -170,14 +174,14 @@
     * (C) the qualifications and training of vessel personnel;
 
 
-  * (4) waterways operations manager shall have knowledge, skill, and practical experience with respect to marine transportation system management; or
+  * (4) waterways operations manager shall have knowledge, skill, and practical experience with respect to maritime transportation system management; or
 
   * (5) port and facility safety and security specialist shall have knowledge, skill, and practical experience with respect to the safety, security, and environmental protection responsibilities associated with maritime ports and facilities.
 
 
 * (c) APPRENTICESHIP REQUIREMENT TO QUALIFY FOR CERTAIN CAREERS.—The Commandant may require an officer, member, or employee of the Coast Guard in training for a specialized prevention or response career path to serve an apprenticeship under the guidance of a qualified individual. However, an individual in training to become a marine inspector, marine casualty investigator, marine safety engineer, waterways operations manager, or port and facility safety and security specialist shall serve a minimum of one-year as an apprentice unless the Commandant authorizes a shorter period for certain qualifications.
 
-* (d) MANAGEMENT INFORMATION SYSTEM.—The Secretary, acting through the Commandant, shall establish a management information system for the prevention and response workforces that shall provide, at a minimum, the following standardized information on persons serving in those workforces:
+* (d) MANAGEMENT INFORMATION SYSTEM.—The Secretary, acting through the Commandant, shall establish a management information system for the prevention and response workforces that shall provide, at a minimum, the following standardized information on individuals serving in those workforces:
 
   * (1) Qualifications, assignment history, and tenure in assignments.
 
@@ -229,7 +233,7 @@
 
     * (A) the ability of the Coast Guard or the department in which the Coast Guard is operating, any employee of the Coast Guard or the department, or any member of the Armed Forces to carry out any responsibility or duty in a fair and objective manner; or
 
-    * (B) the integrity of any program of the Coast Guard, the department in which the Coast Guard is operating, or of any person involved in such a program.
+    * (B) the integrity of any program of the Coast Guard, the department in which the Coast Guard is operating, or of any individual involved in such a program.
 
 
   * (3) The Commandant shall prescribe written guidance setting forth the criteria to be used in determining whether or not the acceptance of a donation from a foreign source would have a result described in paragraph (2).
@@ -283,27 +287,60 @@
 * (d) COMPLETION OF REQUIRED TRAINING.—A Coast Guard flag officer who is newly appointed or assigned to a billet in the National Capital Region, and a Coast Guard Senior Executive Service employee who is newly employed in the National Capital Region, shall complete a training course that meets the requirements of this section not later than 60 days after reporting for duty.
 
 ### §316. National Coast Guard Museum
-* (a) ESTABLISHMENT.—The Commandant may establish a National Coast Guard Museum, on lands which will be federally owned and administered by the Coast Guard, and are located in New London, Connecticut, at, or in close proximity to, the Coast Guard Academy.
+* (a) ESTABLISHMENT.—The Commandant may establish, accept, operate, maintain and support the Museum, on lands which will be federally owned and administered by the Coast Guard, and are located in New London, Connecticut.
 
-* (b) LIMITATION ON EXPENDITURES.—
+* (b) USE OF FUNDS.—
 
   * (1) The Secretary shall not expend any funds appropriated to the Coast Guard on the construction of any museum established under this section.
 
-  * (2) The Secretary shall fund the National Coast Guard Museum with nonappropriated and non-Federal funds to the maximum extent practicable. The priority use of Federal funds should be to preserve and protect historic Coast Guard artifacts, including the design, fabrication, and installation of exhibits or displays in which such artifacts are included.
+  * (2) Subject to the availability of appropriations, the Secretary may expend funds appropriated to the Coast Guard on the engineering and design of a Museum.
 
-  * (3) The Secretary may expend funds appropriated to the Coast Guard on the engineering and design of a National Coast Guard Museum.
+  * (3) The priority for the use of funds appropriated to the Coast Guard shall be to preserve, protect, and display historic Coast Guard artifacts, including the design, fabrication, and installation of exhibits or displays in which such artifacts are included.
 
 
-* (c) FUNDING PLAN.—Before the date on which the Commandant establishes a National Coast Guard Museum under subsection (a), the Commandant shall provide to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a plan for constructing, operating, and maintaining such a museum, including—
+* (c) FUNDING PLAN.—Not later than 2 years after the date of the enactment of the Elijah E. Cummings Coast Guard Authorization Act of 2020 and at least 90 days before the date on which the Commandant accepts the Museum under subsection (f), the Commandant shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a plan for constructing, operating, and maintaining such Museum, including—
 
   * (1) estimated planning, engineering, design, construction, operation, and maintenance costs;
 
-  * (2) the extent to which appropriated, nonappropriated, and non-Federal funds will be used for such purposes, including the extent to which there is any shortfall in funding for engineering, design, or construction; and
+  * (2) the extent to which appropriated, nonappropriated, and non-Federal funds will be used for such purposes, including the extent to which there is any shortfall in funding for engineering, design, or construction;
 
-  * (3) a certification by the Inspector General of the department in which the Coast Guard is operating that the estimates provided pursuant to paragraphs (1) and (2) are reasonable and realistic.
+  * (3) an explanation of any environmental remediation issues related to the land associated with the Museum; and
+
+  * (4) a certification by the Inspector General of the department in which the Coast Guard is operating that the estimates provided pursuant to paragraphs (1) and (2) are reasonable and realistic.
 
 
-* (d) AUTHORITY.—The Commandant may not establish a National Coast Guard museum except as set forth in this section.
+* (d) CONSTRUCTION.—
+
+  * (1) The Association may construct the Museum described in subsection (a).
+
+  * (2) The Museum shall be designed and constructed in compliance with the International Building Code 2018, and construction performed on Federal land under this section shall be exempt from State and local requirements for building or demolition permits.
+
+
+* (e) AGREEMENTS.—Under such terms and conditions as the Commandant considers appropriate, notwithstanding section 504, and until the Commandant accepts the Museum under subsection (f), the Commandant may—
+
+  * (1) license Federal land to the Association for the purpose of constructing the Museum described in subsection (a); and
+
+  * (2)(A) at a nominal charge, lease the Museum from the Association for activities and operations related to the Museum; and
+
+  * (B) authorize the Association to generate revenue from the use of the Museum.
+
+
+* (f) ACCEPTANCE.—Not earlier than 90 days after the Commandant submits the plan under subsection (c), the Commandant shall accept the Museum from the Association and all right, title, and interest in and to the Museum shall vest in the United States when—
+
+  * (1) the Association demonstrates, in a manner acceptable to the Commandant, that the Museum meets the design and construction requirements of subsection (d); and
+
+  * (2) all financial obligations of the Association incident to the National Coast Guard Museum have been satisfied.
+
+
+* (g) SERVICES.—The Commandant may solicit from the Association and accept services from nonprofit entities, including services related to activities for construction of the Museum.
+
+* (h) AUTHORITY.—The Commandant may not establish a Museum except as set forth in this section.
+
+* (i) DEFINITIONS.—In this section:
+
+  * (1) MUSEUM.—The term "Museum" means the National Coast Guard Museum.
+
+  * (2) ASSOCIATION.—The term "Association" means the National Coast Guard Museum Association.
 
 ### §317. United States Coast Guard Band; composition; director
 * (a) The United States Coast Guard Band shall be composed of a director and other personnel in such numbers and grades as the Secretary determines to be necessary.
@@ -381,6 +418,8 @@
 
 * (b) UNMANNED AIRCRAFT SYSTEM DEFINED.—In this section, the term "unmanned aircraft system" has the meaning given that term in section 331 of the FAA Modernization and Reform Act of 2012 (49 U.S.C. 40101 note).
 
+* (c) FUNDING FOR CERTAIN ENHANCED CAPABILITIES.—In each of fiscal years 2020 and 2021, the Commandant may provide additional funding of $5,000,000 for additional long-range maritime patrol aircraft, acquired through full and open competition.
+
 ### §320. Coast Guard Junior Reserve Officers' Training Corps
 * (a) ESTABLISHMENT.—The Secretary of the department in which the Coast Guard is operating may establish and maintain a Junior Reserve Officers' Training Corps, organized into units, at public and private secondary educational institutions.
 
@@ -392,3 +431,13 @@
 
 
 * (c) EXCEPTION.—The requirements of chapter 102 of title 10 shall not apply to a unit of the Junior Reserve Officers' Training Corps established by the Secretary of the department in which the Coast Guard is operating before the date of the enactment of this section unless the Secretary determines it is appropriate to apply such requirements to such unit.
+
+### §321. Congressional affairs; Director
+* The Commandant shall appoint a Director of Congressional Affairs from among officers of the Coast Guard who are in a grade above captain. The Director of Congressional Affairs is separate and distinct from the Director of Governmental and Public Affairs for the Coast Guard and is the principal advisor to the Commandant on all congressional and legislative matters for the Coast Guard and may have such additional functions as the Commandant may direct.
+
+### §322. Redistricting notification requirement
+* The Commandant shall notify the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate at least 180 days before—
+
+  * (1) implementing any plan to reduce the number of, change the location of, or change the geographic area covered by any existing Coast Guard Districts; or
+
+  * (2) permanently transferring more than 10 percent of the personnel or equipment from a district office where such personnel or equipment is based.

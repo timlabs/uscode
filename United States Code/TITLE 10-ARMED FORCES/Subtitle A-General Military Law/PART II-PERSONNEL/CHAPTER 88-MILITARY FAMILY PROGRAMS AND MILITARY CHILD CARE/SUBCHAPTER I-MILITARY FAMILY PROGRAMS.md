@@ -21,16 +21,16 @@
 
   * (B) The following persons, who shall be appointed or designated by the Secretary of Defense:
 
-    * (i) One representative of each of the Army, Navy, Marine Corps, and Air Force, each of whom shall be a member or civilian employee of the armed force to be represented.
+    * (i) One representative of each of the Army, Navy, Air Force, Marine Corps, and Space Force, each of whom shall be a member or civilian employee of the armed force to be represented.
 
     * (ii) One representative, who shall be a member or civilian employee of the National Guard Bureau, to represent both the Army National Guard and the Air National Guard.
 
-    * (iii) One spouse or parent of a member of each of the Army, Navy, Marine Corps, and Air Force, two of whom shall be the spouse or parent of an active component member and two of whom shall be the spouse or parent of a reserve component member.
+    * (iii) One spouse or parent of a member of each of the Army, Navy, Air Force, Marine Corps, and Space Force, two of whom shall be the spouse or parent of an active component member and two of whom shall be the spouse or parent of a reserve component member.
 
 
   * (C) Three individuals appointed by the Secretary of Defense from among representatives of military family organizations, including military family organizations of families of members of the regular components and of families of members of the reserve components.
 
-  * (D) The senior enlisted advisor from each of the Army, Navy, Marine Corps, and Air Force, except that two of these members may instead be selected from among the spouses of the senior enlisted advisors.
+  * (D) The senior enlisted advisor from each of the Army, Navy, Air Force, Marine Corps, and Space Force, except that two of these members may instead be selected from among the spouses of the senior enlisted advisors.
 
   * (E) The Director of the Office of Military Family Readiness Policy.
 
@@ -91,11 +91,11 @@
 ### §1781c. Office of Special Needs
 * (a) ESTABLISHMENT.—There is in the Office of Military Family Readiness Policy the Office of Special Needs (in this section referred to as the "Office").
 
-* (b) PURPOSE.—The purpose of the Office is to enhance and improve Department of Defense support around the world for military families with special needs (whether medical or educational needs) through the development of appropriate policies, enhancement and dissemination of appropriate information throughout the Department of Defense, support for such families in obtaining referrals for services and in obtaining service, and oversight of the activities of the military departments in support of such families.
+* (b) PURPOSE.—The purpose of the Office is to standardize, enhance, and improve Department of Defense support around the world for military families with special needs (whether medical or educational needs) through the development of appropriate policies, enhancement and dissemination of appropriate information throughout the Department of Defense, support for such families in obtaining referrals for services and in obtaining service, and oversight of the activities of the military departments in support of such families.
 
 * (c) RESPONSIBILITIES.—The Office shall have the responsibilities as follows:
 
-  * (1) To develop and implement a comprehensive policy on support for military families with special needs as required by subsection (d).
+  * (1) To develop and implement a comprehensive and standard policy on support for military families with special needs as required by subsection (d).
 
   * (2) To establish and oversee the programs required by subsection (e).
 
@@ -112,7 +112,7 @@
   * (8) To carry out such other matters with respect to the programs and activities of the Department of Defense regarding military families with special needs as the Under Secretary of Defense for Personnel and Readiness shall specify.
 
 
-* (d) POLICY.—(1) The Office shall develop, and update from time to time, a uniform policy for the Department of Defense regarding military families with special needs. The policy shall apply with respect to members of the armed forces without regard to their location, whether within or outside the continental United States.
+* (d) POLICY.—(1) The Office shall develop, and regularly update, a uniform policy for the Department of Defense regarding military families with special needs. The policy shall apply with respect to members of the armed forces without regard to their location, whether within or outside the continental United States.
 
 * (2) The policy developed under this subsection shall include elements regarding the following:
 
@@ -127,6 +127,12 @@
 
   * (B) Stabilization of assignment for a minimum of 4 years.
 
+  * (C) Ability to request a second review of the approved assignment within or outside the continental United States if the member believes the location is inappropriate for the member's family and would cause undue hardship.
+
+  * (D) Protection from having a medical recommendation for an approved assignment overridden by the commanding officer.
+
+  * (E) Ability to request continuation of location when there is a documented substantial risk of transferring medical care or educational services to a new provider or school at the specific time of permanent change of station.
+
 
 * (4) In addressing support for military families under paragraph (2)(B), the policy developed under this subsection shall provide the following:
 
@@ -140,9 +146,13 @@
 
   * (E) Requirements for resources (including staffing) to ensure the availability through the Department of Defense of appropriate numbers of case managers to provide individualized support for military families with special needs.
 
-  * (F) Requirements regarding the development and continuous updating of an individualized services plan (medical and educational) for each military family with special needs.
+  * (F) Requirements regarding the development and continuous updating by an appropriate office of an individualized services plan (whether medical, educational, or both) for each military family with special needs.
 
   * (G) Requirements for record keeping, reporting, and continuous monitoring of available resources and family needs under individualized services support plans for military families with special needs, including the establishment and maintenance of a central or various regional databases for such purposes.
+
+  * (H) Procedures for the development of an individualized services plan for military family members with special needs who have requested family support services and have a completed family needs assessment.
+
+  * (I) Requirements to prohibit disenrollment from the Exceptional Family Member Program unless there is new supporting medical or educational information that indicates the original condition is no longer present, and to track disenrollment data in each armed force.
 
 
 * (e) PROGRAMS.—(1) The Office shall establish, maintain, and oversee a program to provide information and referral services on special needs matters to military families with special needs on a continuous basis regardless of the location of the member's assignment. The program shall provide for timely access by members of such military families to individual case managers and counselors on matters relating to special needs.
@@ -170,7 +180,18 @@
 
   * (B) A description of the actions being taken, or planned, to address such gaps, including any plans developed under subsection (c)(4).
 
-  * (C) Such recommendations for legislative action as the Secretary considers appropriate to provide for the continuous improvement of support and services for military families with special needs.
+  * (C) With respect to the Extended Care Health Option program under section 1079(d) of this title—
+
+    * (i) the utilization rates of services under such program by eligible dependents (as such term is defined in such section) during the prior year;
+
+    * (ii) a description of gaps in such services, as ascertained by the Secretary from information provided by families of eligible dependents;
+
+    * (iii) an assessment of factors that prevent knowledge of and access to such program, including a discussion of actions the Secretary may take to address these factors; and
+
+    * (iv) an assessment of the average wait time for an eligible dependent enrolled in the program to access alternative health coverage for a qualifying condition (as such term is defined in such section), including a discussion of any adverse health outcomes associated with such wait.
+
+
+  * (D) Such recommendations for legislative action as the Secretary considers appropriate to provide for the continuous improvement of support and services for military families with special needs.
 
 
 * (h) MILITARY FAMILY WITH SPECIAL NEEDS.—For purposes of this section, a military family with special needs is any military family with one or more members who has a medical or educational special need (as defined by the Secretary in regulations for purposes of this section), including a condition covered by the Extended Health Care Option Program under section 1079f of this title.
@@ -243,7 +264,7 @@
     * (B) Any interstate compact developed during a prior calendar year into which one or more additional States agreed to enter during the preceding calendar year.
 
 
-  * (5) EXPIRATION.—The authority to enter into a cooperative agreement under paragraph (1), and to provide assistance described in that paragraph pursuant to such cooperative agreement, expire on September 30, 2024.
+  * (5) EXPIRATION.—The authority to enter into a cooperative agreement under paragraph (1), and to provide assistance described in that paragraph pursuant to such cooperative agreement, expires on September 30, 2024.
 
 ### §1784a. Education and training opportunities for military spouses to expand employment and portable career opportunities
 * (a) PROGRAMS AND TUITION ASSISTANCE.—(1) The Secretary of Defense may establish programs to assist the spouse of a member of the armed forces described in subsection (b) in achieving—
@@ -288,12 +309,12 @@
 
 * (b) PRIMARY PURPOSE OF ASSISTANCE.—The assistance authorized by this section should be directed primarily toward providing needed family support, including child care, education, and other youth services, for children of members of the armed forces who are deployed, assigned to duty, or ordered to active duty in connection with a contingency operation.
 
-### §1788a. Family support programs: immediate family members of members of special operations forces
-* (a) PROGRAMS AUTHORIZED.—Consistent with such regulations as the Secretary of Defense may prescribe to carry out this section, the Commander of the United States Special Operations Command may conduct programs to provide family support services for the immediate family members of members of the armed forces assigned to special operations forces. In selecting and conducting any program under this subsection, the Commander shall coordinate with the Under Secretary of Defense for Personnel and Readiness.
+### §1788a. Support programs: special operations forces personnel; immediate family members
+* (a) PROGRAMS AUTHORIZED.—Consistent with such regulations as the Secretary of Defense may prescribe to carry out this section, the Commander of the United States Special Operations Command may conduct programs to provide family support services. In selecting and conducting any program under this subsection, the Commander shall coordinate with the Under Secretary of Defense for Personnel and Readiness.
 
 * (b) SELECTION OF PROGRAMS.—In selecting the programs to be conducted under subsection (a), the Commander shall—
 
-  * (1) identify family support services that have a direct and concrete impact on the readiness of special operations forces, but that are not being provided by the Secretary of a military department to the immediate family members of members of the armed forces assigned to special operations forces; and
+  * (1) identify family support services that have a direct and concrete impact on the readiness of special operations forces, but that are not being provided by the Secretary of a military department to covered individuals; and
 
   * (2) conduct a cost-benefit analysis of each family support service proposed to be included in a program.
 
@@ -306,9 +327,9 @@
 
   * (2) ELEMENTS OF REPORTS.—Each report under this subsection shall include the following:
 
-    * (A) A detailed description of the programs conducted under this section to address family support requirements for family members of members of the armed forces assigned to special operations forces.
+    * (A) A detailed description of the programs conducted under this section to address family support requirements for covered individuals.
 
-    * (B) An assessment of the impact of the programs on military readiness and on family members of members of the armed forces assigned to special operations forces.
+    * (B) An assessment of the impact of the programs on military readiness and on covered individuals.
 
     * (C) A description of the special operations-peculiar aspects of the programs and a comparison and differentiation of these programs with other programs conducted by the Secretaries of the military departments to provide family support services to immediate family members of members of the armed forces.
 
@@ -325,7 +346,15 @@
 
   * (3) The term "special operations forces" means those forces of the armed forces identified as special operations forces under section 167(i) of this title.
 
-  * (4) The term "family support services" includes costs of transportation, food, lodging, child care, supplies, fees, and training materials for immediate family members of members of the armed forces assigned to special operations forces while participating in programs under subsection (a).
+  * (4) The term "family support services" includes psychological support, spiritual support, and costs of transportation, food, lodging, child care, supplies, fees, and training materials for covered personnel while participating in programs under subsection (a).
+
+  * (5) The term "covered personnel" means—
+
+    * (A) members of the Armed Forces (including the reserve components) assigned to special operations forces;
+
+    * (B) service personnel assigned to support special operations forces; and
+
+    * (C) immediate family members of individuals described in subparagraphs (A) and (B).
 
 ### §1789. Chaplain-led programs: authorized support
 * (a) AUTHORITY.—The Secretary of a military department may provide support services described in subsection (b) to support chaplain-led programs to assist members of the armed forces on active duty and their immediate family members, and members of reserve components in an active status and their immediate family members, in building and maintaining a strong family structure.

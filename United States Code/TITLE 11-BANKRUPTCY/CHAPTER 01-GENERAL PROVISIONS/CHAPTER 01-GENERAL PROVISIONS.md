@@ -98,9 +98,11 @@
 
       * (II) payments to victims of war crimes or crimes against humanity on account of their status as victims of such crimes;
 
-      * (III) payments to victims of international terrorism or domestic terrorism, as those terms are defined in section 2331 of title 18, on account of their status as victims of such terrorism; and
+      * (III) payments to victims of international terrorism or domestic terrorism, as those terms are defined in section 2331 of title 18, on account of their status as victims of such terrorism;
 
-      * (IV) any monthly compensation, pension, pay, annuity, or allowance paid under title 10, 37, or 38 in connection with a disability, combat-related injury or disability, or death of a member of the uniformed services, except that any retired pay excluded under this subclause shall include retired pay paid under chapter 61 of title 10 only to the extent that such retired pay exceeds the amount of retired pay to which the debtor would otherwise be entitled if retired under any provision of title 10 other than chapter 61 of that title.
+      * (IV) any monthly compensation, pension, pay, annuity, or allowance paid under title 10, 37, or 38 in connection with a disability, combat-related injury or disability, or death of a member of the uniformed services, except that any retired pay excluded under this subclause shall include retired pay paid under chapter 61 of title 10 only to the extent that such retired pay exceeds the amount of retired pay to which the debtor would otherwise be entitled if retired under any provision of title 10 other than chapter 61 of that title; and
+
+      * (V) Payments made under Federal law relating to the national emergency declared by the President under the National Emergencies Act (50 U.S.C. 1601 et seq.) with respect to the coronavirus disease 2019 (COVID–19).
 
 
   * (11) The term "custodian" means—
@@ -630,11 +632,7 @@
 
       * (ii) any debtor that is a corporation subject to the reporting requirements under section 13 or 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78m, 78o(d)); or
 
-      * (iii) any corporation that—
-
-        * (I) is subject to the reporting requirements under section 13 or 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78m, 78o(d)); and
-
-        * (II) is an affiliate of a debtor.
+      * (iii) any debtor that is an affiliate of an issuer (as defined in section 3 of the Securities Exchange Act of 1934 (15 U.S.C. 78c)).
 
 
   * (52) The term "State" includes the District of Columbia and Puerto Rico, except for the purpose of defining who may be a debtor under chapter 9 of this title.
@@ -770,7 +768,7 @@
 
 * (h) Subchapter IV of chapter 11 of this title applies only in a case under such chapter concerning a railroad.
 
-* (i) Subchapter V of chapter 11 of this title applies only in a case under chapter 11 in which a small business debtor elects that subchapter V of chapter 11 shall apply.
+* (i) Subchapter V of chapter 11 of this title applies only in a case under chapter 11 in which a debtor (as defined in section 1182) elects that subchapter V of chapter 11 shall apply.
 
 * (j) Chapter 13 of this title applies only in a case under such chapter.
 

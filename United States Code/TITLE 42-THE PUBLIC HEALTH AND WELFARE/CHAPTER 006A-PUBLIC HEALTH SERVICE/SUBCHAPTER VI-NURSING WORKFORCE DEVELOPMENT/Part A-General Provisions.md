@@ -62,6 +62,9 @@
 * #### (17) Bridge or degree completion program
   * The term "bridge or degree completion program" means a program of education in professional nursing offered by an accredited school of nursing, as defined in paragraph (2), that leads to a baccalaureate degree in nursing. Such programs may include, Registered Nurse (RN) to Bachelor's of Science of Nursing (BSN) programs, RN to MSN (Master of Science of Nursing) programs, or BSN to Doctoral programs.
 
+* #### (18) Nurse managed health clinic
+  * The term "nurse managed health clinic" means a nurse-practice arrangement, managed by advanced practice nurses, that provides primary care or wellness services to underserved or vulnerable populations and that is associated with a school, college, university or department of nursing, federally qualified health center, or independent nonprofit health or social services agency.
+
 ### §296a. Application
 #### (a) In general
 * To be eligible to receive a grant or contract under this subchapter, an eligible entity shall prepare and submit to the Secretary an application that meets the requirements of this section, at such time, in such manner, and containing such information as the Secretary may require.
@@ -70,7 +73,7 @@
 * An application submitted under this section shall contain the plan of the applicant for carrying out a project with amounts received under this subchapter. Such plan shall be consistent with relevant Federal, State, or regional program plans.
 
 #### (c) Performance outcome standards
-* An application submitted under this section shall contain a specification by the applicant entity of performance outcome standards that the project to be funded under the grant or contract will be measured against. Such standards shall address relevant national nursing needs that the project will meet. The recipient of a grant or contract under this section shall meet the standards set forth in the grant or contract application.
+* An application submitted under this section shall contain a specification by the applicant entity of performance outcome standards that the project to be funded under the grant or contract will be measured against. Such standards shall address relevant national nursing needs that the project will meet, and how such project aligns with the goals in section 296e(a) of this title. The recipient of a grant or contract under this section shall meet the standards set forth in the grant or contract application.
 
 #### (d) Linkages
 * An application submitted under this section shall contain a description of the linkages with relevant educational and health care entities, including training programs for other health professionals as appropriate, that the project to be funded under the grant or contract will establish.
@@ -80,7 +83,7 @@
 * Amounts provided under a grant or contract awarded under this subchapter may be used for training program development and support, faculty development, model demonstrations, trainee support including tuition, books, program fees and reasonable living expenses during the period of training, technical assistance, workforce analysis, and dissemination of information, as appropriate to meet recognized nursing objectives, in accordance with this subchapter.
 
 #### (b) Maintenance of effort
-* With respect to activities for which a grant awarded under this subchapter is to be expended, the entity shall agree to maintain expenditures of non-Federal amounts for such activities at a level that is not less than the level of such expenditures maintained by the entity for the fiscal year preceding the fiscal year for which the entity receives such a grant.
+* With respect to activities for which a grant awarded under this subchapter is to be expended, the entity shall agree to maintain expenditures of non-Federal amounts for such activities at a level that is not less than the level of such expenditures maintained by the entity for the fiscal year preceding the fiscal year for which the entity receives such a grant. Such Federal funds are intended to supplement, not supplant, existing non-Federal expenditures for such activities.
 
 ### §296c. Matching requirement
 * The Secretary may require that an entity that applies for a grant or contract under this subchapter provide non-Federal matching funds, as appropriate, to ensure the institutional commitment of the entity to the projects funded under the grant. Such non-Federal matching funds may be provided directly or through donations from public or private entities and may be in cash or in-kind, fairly evaluated, including plant, equipment, or services.
@@ -90,14 +93,23 @@
 
 ### §296e. Generally applicable provisions
 #### (a) Awarding of grants and contracts
-* The Secretary shall ensure that grants and contracts under this subchapter are awarded on a competitive basis, as appropriate, to carry out innovative demonstration projects or provide for strategic workforce supplementation activities as needed to meet national nursing service goals and in accordance with this subchapter. Contracts may be entered into under this subchapter with public or private entities as determined necessary by the Secretary.
+* The Secretary shall ensure that grants and contracts under this subchapter are awarded on a competitive basis, as appropriate, to carry out innovative demonstration projects or provide for strategic workforce supplementation activities as needed to address national nursing needs, including—
+
+  * (1) addressing challenges, including through supporting training and education of nursing students, related to the distribution of the nursing workforce and existing or projected nursing workforce shortages in geographic areas that have been identified as having, or that are projected to have, a nursing shortage;
+
+  * (2) increasing access to and the quality of health care services, including by supporting the training of professional registered nurses, advanced practice registered nurses, and advanced education nurses within community based settings and in a variety of health delivery system settings; or
+
+  * (3) addressing the strategic goals and priorities identified by the Secretary and that are in accordance with this subchapter.
+
+
+* Contracts may be entered into under this subchapter with public or private entities as determined necessary by the Secretary.
 
 #### (b) Information requirements
 * #### (1) In general
   * Recipients of grants and contracts under this subchapter shall meet information requirements as specified by the Secretary.
 
 * #### (2) Evaluations
-  * The Secretary shall establish procedures to ensure the annual evaluation of programs and projects operated by recipients of grants under this subchapter. Such procedures shall ensure that continued funding for such programs and projects will be conditioned upon a demonstration that satisfactory progress has been made by the program or project in meeting the objectives of the program or project.
+  * The Secretary shall establish procedures to ensure the annual evaluation of programs and projects operated by recipients of grants under this subchapter. Such procedures shall ensure that continued funding for such programs and projects will be conditioned upon the reporting of data and information demonstrating that satisfactory progress has been made by the program or project in meeting the performance outcome standards (as described in section 296a of this title) of such program or project.
 
 #### (c) Training programs
 * Training programs conducted with amounts received under this subchapter shall meet applicable accreditation and quality standards.
@@ -114,7 +126,7 @@
   * Each application for a grant under this subchapter, except advanced nurse traineeship grants under section 296j(a)(2) of this title, shall be submitted to a peer review group for an evaluation of the merits of the proposals made in the application. The Secretary may not approve such an application unless a peer review group has recommended the application for approval.
 
 * #### (2) Composition
-  * Each peer review group under this subsection shall be composed principally of individuals who are not officers or employees of the Federal Government. In providing for the establishment of peer review groups and procedures, the Secretary shall, except as otherwise provided, ensure sex, racial, ethnic, and geographic representation among the membership of such groups.
+  * Each peer review group under this subsection shall be composed principally of individuals who are not officers or employees of the Federal Government, and have relevant expertise and experience. In providing for the establishment of peer review groups and procedures, the Secretary shall, except as otherwise provided, ensure sex, racial, ethnic, and geographic representation among the membership of such groups.
 
 * #### (3) Administration
   * This subsection shall be carried out by the Secretary acting through the Administrator of the Health Resources and Services Administration.
@@ -141,6 +153,9 @@
 
 * #### (2) For-profit entities
   * Notwithstanding paragraph (1), a for-profit entity may be eligible for a grant or contract under this subchapter as determined appropriate by the Secretary.
+
+#### (i) Biennial report on nursing workforce program improvements
+* Not later than September 30, 2020, and biennially thereafter, the Secretary shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives, a report that contains an assessment of the programs and activities of the Department of Health and Human Services related to enhancing the nursing workforce, including the extent to which programs and activities under this subchapter meet the identified goals and performance measures developed for the respective programs and activities, and the extent to which the Department coordinates with other Federal departments regarding programs designed to improve the nursing workforce.
 
 ### §296e–1. Grants for health professions education
 #### (a) Cultural competency, prevention, and public health and individuals with disability grants

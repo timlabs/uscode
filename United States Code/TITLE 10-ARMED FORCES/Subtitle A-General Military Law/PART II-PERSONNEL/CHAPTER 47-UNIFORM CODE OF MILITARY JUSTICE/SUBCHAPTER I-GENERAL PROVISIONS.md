@@ -185,7 +185,7 @@
 * (2) The Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, shall prescribe regulations providing that reimbursement may be a condition of assistance by judge advocates assigned or detailed under section 973(b)(2)(B) of this title.
 
 ### §806a. Art. 6a. Investigation and disposition of matters pertaining to the fitness of military judges
-* (a) The President shall prescribe procedures for the investigation and disposition of charges, allegations, or information pertaining to the fitness of a military appellate judge, military judge, or military magistrate to perform the duties of the position involved.
+* (a) The President shall prescribe procedures for the investigation and disposition of charges, allegations, or information pertaining to the fitness of a military appellate judge, military judge, or military magistrate to perform the duties of the position involved. To the extent practicable, the procedures shall be uniform for all armed forces.
 
 * (b) The President shall transmit a copy of the procedures prescribed pursuant to this section to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives.
 
@@ -202,9 +202,11 @@
 
     * (C) A court-martial relating to the offense.
 
-    * (D) A public proceeding of the service clemency and parole board relating to the offense.
+    * (D) A post-trial motion, filing, or hearing that may address the finding or sentence of a court-martial with respect to the accused, unseal privileged or private information of the victim, or result in the release of the accused.
 
-    * (E) The release or escape of the accused, unless such notice may endanger the safety of any person.
+    * (E) A public proceeding of the service clemency and parole board relating to the offense.
+
+    * (F) The release or escape of the accused, unless such notice may endanger the safety of any person.
 
 
   * (3) The right not to be excluded from any public hearing or proceeding described in paragraph (2) unless the military judge or preliminary hearing officer, as applicable, after receiving clear and convincing evidence, determines that testimony by the victim of an offense under this chapter would be materially altered if the victim heard other testimony at that hearing or proceeding.

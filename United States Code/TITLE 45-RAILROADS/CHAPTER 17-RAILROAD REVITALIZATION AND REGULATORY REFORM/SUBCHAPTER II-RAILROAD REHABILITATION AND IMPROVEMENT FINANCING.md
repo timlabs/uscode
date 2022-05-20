@@ -103,7 +103,7 @@
   * Direct loans and loan guarantees under this section shall not be used for railroad operating expenses.
 
 * #### (3) Sunset
-  * The Secretary may provide a direct loan or loan guarantee under this section for a project described in paragraph (1)(E) until September 30, 2020.
+  * The Secretary may provide a direct loan or loan guarantee under this section for a project described in paragraph (1)(E) until September 30, 2021.
 
 #### (c) Priority projects
 * In granting applications for direct loans or guaranteed loans under this section, the Secretary shall give priority to projects that—

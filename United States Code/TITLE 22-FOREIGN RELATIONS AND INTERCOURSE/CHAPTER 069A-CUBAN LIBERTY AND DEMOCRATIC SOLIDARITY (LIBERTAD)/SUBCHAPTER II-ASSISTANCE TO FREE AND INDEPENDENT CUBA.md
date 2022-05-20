@@ -127,7 +127,7 @@
       * (iii) negotiations regarding free trade, including the accession of Cuba to the North American Free Trade Agreement;
 
 
-    * (C) specific trade negotiating objectives of the United States with respect to Cuba, including the objectives described in section 3317(b)(5) of title 19; and
+    * (C) specific trade negotiating objectives of the United States with respect to Cuba, including the objectives described in section 108(b)(5) of the North American Free Trade Agreement Implementation Act (19 U.S.C. 3317(b)(5)); and
 
     * (D) actions proposed or anticipated to be undertaken, and any proposed legislation necessary or appropriate, to achieve any of such policy and negotiating objectives.
 

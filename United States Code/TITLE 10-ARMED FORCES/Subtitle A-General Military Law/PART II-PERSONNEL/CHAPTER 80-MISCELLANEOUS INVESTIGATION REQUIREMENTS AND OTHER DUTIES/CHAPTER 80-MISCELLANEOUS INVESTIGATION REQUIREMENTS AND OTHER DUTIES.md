@@ -1,7 +1,7 @@
 ### **CHAPTER 80—MISCELLANEOUS INVESTIGATION REQUIREMENTS AND OTHER DUTIES**
 
 ### §1561. Complaints of sexual harassment: investigation by commanding officers
-* (a) ACTION ON COMPLAINTS ALLEGING SEXUAL HARASSMENT.—A commanding officer or officer in charge of a unit, vessel, facility, or area of the Army, Navy, Air Force, or Marine Corps who receives from a member of the command or a civilian employee under the supervision of the officer a complaint alleging sexual harassment by a member of the armed forces or a civilian employee of the Department of Defense shall carry out an investigation of the matter in accordance with this section.
+* (a) ACTION ON COMPLAINTS ALLEGING SEXUAL HARASSMENT.—A commanding officer or officer in charge of a unit, vessel, facility, or area of the Army, Navy, Air Force, Marine Corps, or Space Force who receives from a member of the command or a civilian employee under the supervision of the officer a complaint alleging sexual harassment by a member of the armed forces or a civilian employee of the Department of Defense shall carry out an investigation of the matter in accordance with this section.
 
 * (b) COMMENCEMENT OF INVESTIGATION.—To the extent practicable, a commanding officer or officer in charge receiving such a complaint shall, within 72 hours after receipt of the complaint—
 
@@ -48,6 +48,38 @@
 
 * (c) REGULATIONS.—The Secretary of Defense shall prescribe regulations to carry out this section. The regulations shall be designed to further good order and discipline by members of the armed forces and civilians present on military installations.
 
+### §1561b. Confidential reporting of sexual harassment
+* (a) REPORTING PROCESS.—Notwithstanding section 1561 of this title, the Secretary of Defense shall prescribe in regulations a process by which a member of an armed force under the jurisdiction of the Secretary of a military department may confidentially allege a complaint of sexual harassment to an individual outside the immediate chain of command of the member.
+
+* (b) RECEIPT OF COMPLAINTS.—An individual designated and trained to receive complaints under the process under subsection (a) shall—
+
+  * (1) maintain the confidentiality of the member alleging the complaint;
+
+  * (2) explain to the member alleging the complaint the different avenues of redress available to resolve the complaint and the different consequences of each avenue on the manner in which the complaint will be investigated (if at all), including an explanation of the following:
+
+    * (A) The manner in which to file a complaint concerning alleged sexual harassment with the official or office designated for receipt of such complaint through such avenue of redress.
+
+    * (B) That confidentiality in connection with the complaint cannot be maintained when there is a clear and present risk to health or safety.
+
+    * (C) If the alleged sexual harassment also involves an allegation of sexual assault, including sexual contact—
+
+      * (i) the manner in which to file a confidential report with a Sexual Assault Response Coordinator or a Sexual Assault Prevention and Response Victim Advocate; and
+
+      * (ii) options available pursuant to such reporting, including a Restricted Report or Unrestricted Report, and participation in the Catch a Serial Offender Program.
+
+
+    * (D) The services and assistance available to the member in connection with the complaint and the alleged sexual harassment.
+
+
+* (c) EDUCATION AND TRACKING.—The Secretary of Defense shall—
+
+  * (1) educate members under the jurisdiction of the Secretaries of the military departments regarding the process established under this section; and
+
+  * (2) track complaints alleged pursuant to the process.
+
+
+* (d) REPORTS.—Not later than April 30, 2023, and April 30 every two years thereafter, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report containing data on the complaints of sexual harassment alleged pursuant to the process under subsection (a) during the previous two calendar years. Any data on such complaints shall not contain any personally identifiable information.
+
 ### §1562. Database on domestic violence incidents
 * (a) DATABASE ON DOMESTIC VIOLENCE INCIDENT.—The Secretary of Defense shall establish a central database of information on the incidents of domestic violence involving members of the armed forces.
 
@@ -59,16 +91,35 @@
 
   * (3) The number of those incidents that involve evidence determined insufficient for supporting disciplinary action and for each such case, a description of the allegation.
 
-### §1563. Consideration of proposals for posthumous and honorary promotions and appointments: procedures for review
-* (a) REVIEW BY SECRETARY CONCERNED.—Upon request of a Member of Congress, the Secretary concerned shall review a proposal for the posthumous or honorary promotion or appointment of a member or former member of the armed forces, or any other person considered qualified, that is not otherwise authorized by law. Based upon such review, the Secretary shall make a determination as to the merits of approving the posthumous or honorary promotion or appointment.
+### §1563. Consideration of proposals from Members of Congress for honorary promotions: procedures for review and promotion
+* (a) REVIEW BY SECRETARY CONCERNED.—Upon request of a Member of Congress, the Secretary concerned shall review a proposal for the honorary promotion (whether or not posthumous) of a former member or retired member of the armed forces that is not otherwise authorized by law. Based upon such review, the Secretary shall make a determination as to the merits of approving the promotion.
 
-* (b) NOTICE OF RESULTS OF REVIEW.—Upon making a determination under subsection (a) as to the merits of approving the posthumous or honorary promotion or appointment, the Secretary concerned shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives and to the requesting Member of Congress a detailed discussion of the rationale supporting the determination.
+* (b) NOTICE OF RESULTS OF REVIEW.—Upon making a determination under subsection (a) as to the merits of approving the honorary promotion, the Secretary concerned shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives and to the requesting Member of Congress a detailed discussion of the rationale supporting the determination.
 
-* (c) DEFINITION.—In this section, the term "Member of Congress" means—
+* (c) AUTHORITY TO MAKE.—(1) Under regulations prescribed by the Secretary of Defense, the Secretary of Defense may make an honorary promotion (whether or not posthumous) of a former member or retired member of the armed forces to any grade not exceeding the grade of major general, rear admiral (upper half), or an equivalent grade in the Space Force following the submittal of the determination of the Secretary concerned under subsection (b) in connection with the proposal for the promotion if the determination is to approve the making of the promotion.
+
+* (2) The Secretary of Defense may not make an honorary promotion under this subsection until 60 days after the date on which the Secretary concerned submits the determination in connection with the proposal for the promotion under subsection (b), and the detailed rationale supporting the determination as described in that subsection, to the Committees on Armed Services of the Senate and the House of Representatives and the requesting Member in accordance with that subsection.
+
+* (3) The authority to make an honorary promotion under this subsection shall apply notwithstanding that the promotion is not otherwise authorized by law.
+
+* (4) Any promotion pursuant to this subsection is honorary, and shall not affect the pay, retired pay, or other benefits from the United States to which the former member or retired member concerned is or would have been entitled based upon the military service of such former member or retired member, nor affect any benefits to which any other person may become entitled based on the military service of such former member or retired member.
+
+* (d) DEFINITION.—In this section, the term "Member of Congress" means—
 
   * (1) a Senator; or
 
   * (2) a Representative in, or a Delegate or Resident Commissioner to, Congress.
+
+### §1563a. Honorary promotions on the initiative of the Department of Defense
+* (a) IN GENERAL.—(1) Under regulations prescribed by the Secretary of Defense, the Secretary may make an honorary promotion (whether or not posthumous) of a former member or retired member of the armed forces to any grade not exceeding the grade of major general, rear admiral (upper half), or an equivalent grade in the Space Force if the Secretary determines that the promotion is merited.
+
+* (2) The authority to make an honorary promotion under this subsection shall apply notwithstanding that the promotion is not otherwise authorized by law.
+
+* (b) NOTICE TO CONGRESS.—The Secretary may not make an honorary promotion pursuant to subsection (a) until 60 days after the date on which the Secretary submits to the Committees on Armed Services of the Senate and the House of Representatives a notice of the determination to make the promotion, including a detailed discussion of the rationale supporting the determination.
+
+* (c) NOTICE OF PROMOTION.—Upon making an honorary promotion pursuant to subsection (a), the Secretary shall expeditiously notify the former member or retired member concerned, or the next of kin of such former member or retired member if such former member or retired member is deceased, of the promotion.
+
+* (d) NATURE OF PROMOTION.—Any promotion pursuant to this section is honorary, and shall not affect the pay, retired pay, or other benefits from the United States to which the former member or retired member concerned is entitled or would have been entitled based on the military service of such former member or retired member, nor affect any benefits to which any other person is or may become entitled based on the military service of such former member or retired member.
 
 ### §1564. Security clearance investigations
 * (a) EXPEDITED PROCESS.—The Secretary of Defense may prescribe a process for expediting the completion of the background investigations necessary for granting security clearances for—
@@ -118,7 +169,7 @@
   * (B) determination by a commanding officer that that individual has committed an offense described in subparagraph (A).
 
 
-* (2) An individual described in this paragraph in an individual who has a security clearance and is—
+* (2) An individual described in this paragraph is an individual who has a security clearance and is—
 
   * (A) a flag officer;
 
@@ -364,7 +415,7 @@
   * (2) STATE.—The term "State" includes the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, and any territory or possession of the United States.
 
 ### §1566. Voting assistance: compliance assessments; assistance
-* (a) REGULATIONS.—The Secretary of Defense shall prescribe regulations to require that the Army, Navy, Air Force, and Marine Corps ensure their compliance with any directives issued by the Secretary of Defense in implementing any voting assistance program.
+* (a) REGULATIONS.—The Secretary of Defense shall prescribe regulations to require that the Army, Navy, Air Force, Marine Corps, and Space Force ensure their compliance with any directives issued by the Secretary of Defense in implementing any voting assistance program.
 
 * (b) VOTING ASSISTANCE PROGRAMS DEFINED.—In this section, the term "voting assistance programs" means—
 
@@ -373,7 +424,7 @@
   * (2) any similar program.
 
 
-* (c) ANNUAL EFFECTIVENESS AND COMPLIANCE REVIEWS.—(1) The Inspector General of each of the Army, Navy, Air Force, and Marine Corps shall conduct—
+* (c) ANNUAL EFFECTIVENESS AND COMPLIANCE REVIEWS.—(1) The Inspector General of each of the Army, Navy, Air Force, Marine Corps, and Space Force shall conduct—
 
   * (A) an annual review of the effectiveness of voting assistance programs; and
 
@@ -386,7 +437,7 @@
 
   * (A) the effectiveness during the preceding calendar year of voting assistance programs; and
 
-  * (B) the level of compliance during the preceding calendar year with voting assistance programs of each of the Army, Navy, Air Force, and Marine Corps.
+  * (B) the level of compliance during the preceding calendar year with voting assistance programs of each of the Army, Navy, Air Force, Marine Corps, and Space Force.
 
 
 * [(d) Repealed. Pub. L. 109–364, div. A, title V, §596(a), Oct. 17, 2006, 120 Stat. 2235.]

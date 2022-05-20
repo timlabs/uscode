@@ -21,5 +21,15 @@
 
 * (b) Section 8904 of this title does not apply to an oil spill response vessel while engaged in oil spill response or training activities.
 
+* (c) After consultation with the Governor of Alaska and the State boating law administrator of Alaska, the Secretary may exempt an individual operating a self-propelled uninspected passenger vessel from the requirements of section 8903 of this title, if—
+
+  * (1) the individual only operates such vessel wholly within waters located in Alaska; and
+
+  * (2) such vessel is—
+
+    * (A) 26 feet or less in length; and
+
+    * (B) carrying not more than 6 passengers.
+
 ### §8906. Penalty
 * An owner, charterer, managing operator, agent, master, or individual in charge of a vessel operated in violation of this chapter or a regulation prescribed under this chapter is liable to the United States Government for a civil penalty of not more than $25,000. The vessel also is liable in rem for the penalty.

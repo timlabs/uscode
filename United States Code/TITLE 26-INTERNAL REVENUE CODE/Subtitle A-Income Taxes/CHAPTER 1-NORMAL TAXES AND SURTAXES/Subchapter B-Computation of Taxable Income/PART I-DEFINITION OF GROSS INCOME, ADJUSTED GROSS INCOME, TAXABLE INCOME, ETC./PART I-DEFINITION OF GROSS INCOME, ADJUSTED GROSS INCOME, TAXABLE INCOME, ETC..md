@@ -101,9 +101,7 @@
 * #### (17) Interest on education loans
   * The deduction allowed by section 221.
 
-* #### (18) Higher education expenses
-  * The deduction allowed by section 222.
-
+* #### [(18) Repealed. Pub. L. 116–260, div. EE, title I, §104(b)(2)(A), Dec. 27, 2020, 134 Stat. 3041]
 * #### (19) Health savings accounts
   * The deduction allowed by section 223.
 
@@ -243,9 +241,11 @@
 
   * (1) the standard deduction,
 
-  * (2) the deduction for personal exemptions provided in section 151, and
+  * (2) the deduction for personal exemptions provided in section 151,
 
-  * (3) any deduction provided in section 199A.
+  * (3) any deduction provided in section 199A, and
+
+  * (4) the deduction provided in section 170(p).
 
 #### (c) Standard deduction
 * For purposes of this subtitle—
@@ -333,11 +333,9 @@
 #### (d) Itemized deductions
 * For purposes of this subtitle, the term "itemized deductions" means the deductions allowable under this chapter other than—
 
-  * (1) the deductions allowable in arriving at adjusted gross income,
+  * (1) the deductions allowable in arriving at adjusted gross income, and
 
-  * (2) the deduction for personal exemptions provided by section 151, and
-
-  * (3) any deduction provided in section 199A.
+  * (2) any deduction referred to in any paragraph of subsection (b).
 
 #### (e) Election to itemize
 * #### (1) In general

@@ -112,14 +112,14 @@
         * (III) information on those sales that were made at a nominal price or otherwise described in section 1395w–3a(c)(2)(B) of this title;
 
 
-  * &nbsp;for a drug or biological described in subparagraph (C), (D), (E), or (G) of section 1395u(o)(1) of this title or section 1395rr(b)(13)(A)(ii) of this title, and, for calendar quarters beginning on or after January 1, 2007 and only with respect to the information described in subclause (III), for covered outpatient drugs;
+  * &nbsp;for a drug or biological described in subparagraph (C), (D), (E), or (G) of section 1395u(o)(1) of this title or section 1395rr(b)(14)(B) of this title, and, for calendar quarters beginning on or after January 1, 2007 and only with respect to the information described in subclause (III), for covered outpatient drugs;
 
       * (iv) not later than 30 days after the last day of each month of a rebate period under the agreement, on the manufacturer's total number of units that are used to calculate the monthly average manufacturer price for each covered outpatient drug; and
 
       * (v) not later than 30 days after the last day of each month of a rebate period under the agreement, such drug product information as the Secretary shall require for each of the manufacturer's covered outpatient drugs.
 
 
-  * Information reported under this subparagraph is subject to audit by the Inspector General of the Department of Health and Human Services. Beginning July 1, 2006, the Secretary shall provide on a monthly basis to States under subparagraph (D)(iv) the most recently reported average manufacturer prices for single source drugs and for multiple source drugs and shall, on at least a quarterly basis, update the information posted on the website under subparagraph (D)(v) (relating to the weighted average of the most recently reported monthly average manufacturer prices).
+  * Information reported under this subparagraph is subject to audit by the Inspector General of the Department of Health and Human Services. Beginning July 1, 2006, the Secretary shall provide on a monthly basis to States under subparagraph (D)(iv) the most recently reported average manufacturer prices for single source drugs and for multiple source drugs and shall, on at least a quarterly basis, update the information posted on the website under subparagraph (D)(v) (relating to the weighted average of the most recently reported monthly average manufacturer prices). For purposes of applying clause (iii), for calendar quarters beginning on or after January 1, 2022, a drug or biological described in the flush matter following such clause includes items, services, supplies, and products that are payable under part B of subchapter XVIII as a drug or biological.
 
   * #### (B) Verification surveys of average manufacturer price and manufacturer's average sales price
     * The Secretary may survey wholesalers and manufacturers that directly distribute their covered outpatient drugs, when necessary, to verify manufacturer prices and manufacturer's average sales prices (including wholesale acquisition cost) if required to make payment reported under subparagraph (A). The Secretary may impose a civil monetary penalty in an amount not to exceed $100,000 on a wholesaler, manufacturer, or direct seller, if the wholesaler, manufacturer, or direct seller of a covered outpatient drug refuses a request for information about charges or prices by the Secretary in connection with a survey under this subparagraph or knowingly provides false information. The provisions of section 1320a–7a of this title (other than subsections (a) (with respect to amounts of penalties or additional assessments) and (b)) shall apply to a civil money penalty under this subparagraph in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.
@@ -152,7 +152,7 @@
         * (III) oversight and enforcement related to ensuring that manufacturers accurately and fully report drug information, including data related to drug classification.
 
   * #### (D) Confidentiality of information
-    * Notwithstanding any other provision of law, information disclosed by manufacturers or wholesalers under this paragraph or under an agreement with the Secretary of Veterans Affairs described in subsection (a)(6)(A)(ii) (other than the wholesale acquisition cost for purposes of carrying out section 1395w–3a of this title) is confidential and shall not be disclosed by the Secretary or the Secretary of Veterans Affairs or a State agency (or contractor therewith) in a form which discloses the identity of a specific manufacturer or wholesaler, prices charged for drugs by such manufacturer or wholesaler, except—
+    * Notwithstanding any other provision of law, information disclosed by manufacturers or wholesalers under this paragraph or under an agreement with the Secretary of Veterans Affairs described in subsection (a)(6)(A) (other than the wholesale acquisition cost for purposes of carrying out section 1395w–3a of this title) is confidential and shall not be disclosed by the Secretary or the Secretary of Veterans Affairs or a State agency (or contractor therewith) in a form which discloses the identity of a specific manufacturer or wholesaler, prices charged for drugs by such manufacturer or wholesaler, except—
 
       * (i) as the Secretary determines to be necessary to carry out this section, to carry out section 1395w–3a of this title (including the determination and implementation of the payment amount), or to carry out section 1395w–3b of this title,
 
@@ -162,12 +162,14 @@
 
       * (iv) to States to carry out this subchapter,
 
-      * (v) to the Secretary to disclose (through a website accessible to the public) the weighted average of the most recently reported monthly average manufacturer prices and the average retail survey price determined for each multiple source drug in accordance with subsection (f), and
+      * (v) to the Secretary to disclose (through a website accessible to the public) the weighted average of the most recently reported monthly average manufacturer prices and the average retail survey price determined for each multiple source drug in accordance with subsection (f)
 
-      * (vi) in the case of categories of drug product or classification information that were not considered confidential by the Secretary on the day before April 18, 2019.
+      * (vi) in the case of categories of drug product or classification information that were not considered confidential by the Secretary on the day before April 18, 2019, and
+
+      * (vii) to permit the Executive Director of the Medicare Payment Advisory Commission and the Executive Director of the Medicaid and CHIP Payment and Access Commission to review the information provided.
 
 
-  * The previous sentence shall also apply to information disclosed under section 1395w–102(d)(2) or 1395w–104(c)(2)(E) of this title and drug pricing data reported under the first sentence of section 1395w–141(i)(1) of this title.
+  * The previous sentence shall also apply to information disclosed under section 1395w–102(d)(2) or 1395w–104(c)(2)(G) of this title and drug pricing data reported under the first sentence of section 1395w–141(i)(1) of this title. Any information disclosed to the Executive Director of the Medicare Payment Advisory Commission or the Executive Director of the Medicaid and CHIP Payment and Access Commission pursuant to this subparagraph shall not be disclosed by either such Executive Director in a form which discloses the identity of a specific manufacturer or wholesaler or prices charged for drugs by such manufacturer or wholesaler. Such information also shall not be disclosed by either such Executive Director to individual Commissioners of the Medicare Payment Advisory Commission or of the Medicaid and CHIP Payment and Access Commission in a form which discloses the identity of a specific manufacturer or wholesaler or prices charged for drugs by such manufacturer or wholesaler.
 
 * #### (4) Length of agreement
   * #### (A) In general
@@ -504,6 +506,8 @@
 
     * (C) Benzodiazepines.
 
+    * (D) Drugs and biological products described in subsection (ee)(1)(A) of section 1396d of this title that are furnished as medical assistance in accordance with subsection (a)(29) of such section and section 1396a(a)(10)(A) of this title.
+
 #### (e) Treatment of pharmacy reimbursement limits
 * #### (1) In general
   * During the period beginning on January 1, 1991, and ending on December 31, 1994—
@@ -581,7 +585,7 @@
 
 #### (g) Drug use review
 * #### (1) In general
-  * (A) In order to meet the requirement of section 1396b(i)(10)(B) of this title, a State shall provide, by not later than January 1, 1993, for a drug use review program described in paragraph (2) for covered outpatient drugs in order to assure that prescriptions (i) are appropriate, (ii) are medically necessary, and (iii) are not likely to result in adverse medical results. The program shall be designed to educate physicians and pharmacists to identify and reduce the frequency of patterns of fraud, abuse, gross overuse, or inappropriate or medically unnecessary care, among physicians, pharmacists, and patients, or associated with specific drugs or groups of drugs, as well as potential and actual severe adverse reactions to drugs including education on therapeutic appropriateness, overutilization and underutilization, appropriate use of generic products, therapeutic duplication, drug-disease contraindications, drug-drug interactions, incorrect drug dosage or duration of drug treatment, drug-allergy interactions, and clinical abuse/misuse.
+  * (A) In order to meet the requirement of section 1396a(a)(54) of this title, a State shall provide for a drug use review program described in paragraph (2) for covered outpatient drugs in order to assure that prescriptions (i) are appropriate, (ii) are medically necessary, and (iii) are not likely to result in adverse medical results. The program shall be designed to educate physicians and pharmacists to identify and reduce the frequency of patterns of fraud, abuse, gross overuse, excessive utilization, inappropriate or medically unnecessary care, or prescribing or billing practices that indicate abuse or excessive utilization, among physicians, pharmacists, and patients, or associated with specific drugs or groups of drugs, as well as potential and actual severe adverse reactions to drugs including education on therapeutic appropriateness, overutilization and underutilization, appropriate use of generic products, therapeutic duplication, drug-disease contraindications, drug-drug interactions, incorrect drug dosage or duration of drug treatment, drug-allergy interactions, and clinical abuse/misuse.
 
   * (B) The program shall assess data on drug use against predetermined standards, consistent with the following:
 
@@ -640,7 +644,7 @@
   * Nothing in this clause shall be construed as requiring a pharmacist to provide consultation when an individual receiving benefits under this subchapter or caregiver of such individual refuses such consultation, or to require verification of the offer to provide consultation or a refusal of such offer.
 
   * #### (B) Retrospective drug use review
-    * The program shall provide, through its mechanized drug claims processing and information retrieval systems (approved by the Secretary under section 1396b(r) of this title) or otherwise, for the ongoing periodic examination of claims data and other records in order to identify patterns of fraud, abuse, gross overuse, or inappropriate or medically unnecessary care, among physicians, pharmacists and individuals receiving benefits under this subchapter, or associated with specific drugs or groups of drugs.
+    * The program shall provide, through its mechanized drug claims processing and information retrieval systems (approved by the Secretary under section 1396b(r) of this title) or otherwise, for the ongoing periodic examination of claims data and other records in order to identify patterns of fraud, abuse, gross overuse, excessive utilization, inappropriate or medically unnecessary care, or prescribing or billing practices that indicate abuse or excessive utilization, among physicians, pharmacists and individuals receiving benefits under this subchapter, or associated with specific drugs or groups of drugs.
 
   * #### (C) Application of standards
     * The program shall, on an ongoing basis, assess data on drug use against explicit predetermined standards (using the compendia and literature referred to in subsection (1)(B) as the source of standards for such assessment) including but not limited to monitoring for therapeutic appropriateness, overutilization and underutilization, appropriate use of generic products, therapeutic duplication, drug-disease contraindications, drug-drug interactions, incorrect drug dosage or duration of drug treatment, and clinical abuse/misuse and, as necessary, introduce remedial strategies, in order to improve the quality of care and to conserve program funds or personal expenditures.
@@ -823,7 +827,7 @@
       * The term "noninnovator multiple source drug" means a multiple source drug that is not an innovator multiple source drug.
 
     * #### (iv) Single source drug
-      * The term "single source drug" means a covered outpatient drug, including a drug product approved for marketing as a non-prescription drug that is regarded as a covered outpatient drug under paragraph (4), which is produced or distributed under a new drug application approved by the Food and Drug Administration, including a drug product marketed by any cross-licensed producers or distributors operating under the new drug applicationunless the Secretary determines that a narrow exception applies (as described in section 447.502 of title 42, Code of Federal Regulations (or any successor regulation)). Such term also includes a covered outpatient drug that is a biological product licensed, produced, or distributed under a biologics license application approved by the Food and Drug Administration.
+      * The term "single source drug" means a covered outpatient drug, including a drug product approved for marketing as a non-prescription drug that is regarded as a covered outpatient drug under paragraph (4), which is produced or distributed under a new drug application approved by the Food and Drug Administration, including a drug product marketed by any cross-licensed producers or distributors operating under the new drug application unless the Secretary determines that a narrow exception applies (as described in section 447.502 of title 42, Code of Federal Regulations (or any successor regulation)). Such term also includes a covered outpatient drug that is a biological product licensed, produced, or distributed under a biologics license application approved by the Food and Drug Administration.
 
   * #### (B) Exception
     * Subparagraph (A)(i)(II) shall not apply if the Food and Drug Administration changes by regulation the requirement that, for purposes of the publication described in subparagraph (A)(i)(I), in order for drug products to be rated as therapeutically equivalent, they must be pharmaceutically equivalent and bioequivalent, as defined in subparagraph (C).

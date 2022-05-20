@@ -9,7 +9,7 @@
 
   * (3) any Reserve of an armed force who, when authorized or required by an authority designated by the Secretary, assumed an obligation to perform active duty for training, or inactive duty training (other than work or study in connection with a correspondence course of an armed force or attendance, in an inactive status, at an educational institution, under the sponsorship of an armed force or the Public Health Service), and who dies while traveling directly to or from that active duty for training or inactive duty training or while staying at the Reserve's residence, when so authorized by proper authority, during the period of such inactive duty training or between successive days of inactive duty training;
 
-  * (4) any member of a reserve officers' training corps who dies while performing annual training duty under orders for a period of more than 13 days, or while performing authorized travel to or from that annual training duty; or any applicant for membership in a reserve officers' training corps who dies while attending field training or a practice cruise under section 2104(b)(6)(B) of this title or while performing authorized travel to or from the place where the training or cruise is conducted; or; or a graduate of a reserve officers' training corps who has received a commission but has yet to receive a first duty assignment; or
+  * (4) any member of a reserve officers' training corps who dies while performing annual training duty under orders for a period of more than 13 days, or while performing authorized travel to or from that annual training duty; or any applicant for membership in a reserve officers' training corps who dies while attending field training or a practice cruise under section 2104(b)(6)(B) of this title or while performing authorized travel to or from the place where the training or cruise is conducted; or a graduate of a reserve officers' training corps who has received a commission but has yet to receive a first duty assignment; or
 
   * (5) a person who dies while traveling to or from or while at a place for final acceptance, or for entry upon active duty (other than for training), in an armed force, who has been ordered or directed to go to that place, and who—
 
@@ -439,7 +439,7 @@
 
 * (b) COMPOSITION OF FUNERAL HONORS DETAILS.—(1) The Secretary of each military department shall ensure that a funeral honors detail for the funeral of a veteran consists of two or more persons.
 
-* (2) At least two members of the funeral honors detail for a veteran's funeral shall be members of the armed forces (other than members in a retired status), at least one of whom shall be a member of the armed force of which the veteran was a member. The remainder of the detail may consist of members of the armed forces (including members in a retired status), or members of veterans organizations or other organizations approved for purposes of this section under regulations prescribed by the Secretary of Defense. Each member of the armed forces in the detail shall wear the uniform of the member's armed force while serving in the detail.
+* (2) At least two members of the funeral honors detail for a veteran's funeral shall be members of the armed forces (other than members in a retired status). The remainder of the detail may consist of members of the armed forces (including members in a retired status), or members of veterans organizations or other organizations approved for purposes of this section under regulations prescribed by the Secretary of Defense. Each member of the armed forces in the detail shall wear the uniform of the member's armed force while serving in the detail.
 
 * (3) The Secretary concerned shall provide full military honors (as determined by the Secretary concerned) for the funeral of a veteran who—
 
@@ -488,3 +488,30 @@
   * (1) served in the active military, naval, or air service (as defined in section 101(24) of title 38) and who was discharged or released therefrom under conditions other than dishonorable; or
 
   * (2) was a member or former member of the Selected Reserve described in section 2301(f) of title 38.
+
+### §1492. Authority to provide travel and transportation allowances in connection with transfer ceremonies of certain civilian employees who die overseas
+* (a) AUTHORITY.—A covered official may treat a covered relative of a covered employee under the jurisdiction of that covered official in the same manner the Secretary of a military department treats, under section 481f(d) of title 37, next of kin and family members of a member of the armed forces who dies while located or serving overseas.
+
+* (b) DEFINITIONS.—In this section:
+
+  * (1) The term "covered employee" means a civilian employee—
+
+    * (A) under the jurisdiction of a covered official; and
+
+    * (B) who dies while located or serving overseas.
+
+
+  * (2) The term "covered official" means—
+
+    * (A) the Secretary of the military department concerned; and
+
+    * (B) the head of a Defense Agency or Department of Defense Field Activity.
+
+
+  * (3) The term "covered relative" means—
+
+    * (A) the primary next of kin of the covered employee;
+
+    * (B) two family members (other than primary next of kin) of the covered employee; and
+
+    * (C) one or more additional family members of the covered employee, at the discretion of the Secretary a sibling of the covered employee.

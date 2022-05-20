@@ -28,9 +28,11 @@
 
 * (F) PROMOTION OF CONTRACTS.—In carrying out this section, a Federal agency shall not—
 
-  * (i) establish a Federal agency policy that limits the maximum contract term under subparagraph (D) to a period shorter than 25 years; or
+  * (i) establish a Federal agency policy that limits the maximum contract term under subparagraph (D) to a period shorter than 25 years;
 
-  * (ii) limit the total amount of obligations under energy savings performance contracts or other private financing of energy savings measures.
+  * (ii) limit the total amount of obligations under energy savings performance contracts or other private financing of energy savings measures; or
+
+  * (iii) limit the recognition of operation and maintenance savings associated with systems modernized or replaced with the implementation of energy conservation measures, water conservation measures, or any combination of energy conservation measures and water conservation measures.
 
 
 * (G) MEASUREMENT AND VERIFICATION REQUIREMENTS FOR PRIVATE FINANCING.—
@@ -38,6 +40,15 @@
   * (i) IN GENERAL.—In the case of energy savings performance contracts, the evaluations and savings measurement and verification required under paragraphs (2) and (4) of section 8253(f) of this title shall be used by a Federal agency to meet the requirements for the need for energy audits, calculation of energy savings, and any other evaluation of costs and savings needed to implement the guarantee of savings under this section.
 
   * (ii) MODIFICATION OF EXISTING CONTRACTS.—Not later than 18 months after December 19, 2007, each Federal agency shall, to the maximum extent practicable, modify any indefinite delivery and indefinite quantity energy savings performance contracts, and other indefinite delivery and indefinite quantity contracts using private financing, to conform to the amendments made by subtitle B of title V of the Energy Independence and Security Act of 2007.
+
+
+* (H) MISCELLANEOUS AUTHORITY.—Notwithstanding subtitle I of title 40, a Federal agency may accept, retain, sell, or transfer, and apply the proceeds of the sale or transfer of, any energy and water incentive, rebate, grid services revenue, or credit (including a renewable energy certificate) to fund a contract under this subchapter.
+
+* (I) EXCLUDED CONTRACTS.—A contract entered into under this subchapter may not be for work performed—
+
+  * (i) at a Federal hydroelectric facility that provides power marketed by a Power Marketing Administration; or
+
+  * (ii) at a hydroelectric facility owned and operated by the Tennessee Valley Authority established under the Tennessee Valley Authority Act of 1933 (16 U.S.C. 831 et seq.).
 
 #### (b) Implementation
 * (1)(A) The Secretary, with the concurrence of the Federal Acquisition Regulatory Council established under section 1302(a) of title 41, not later than 180 days after October 24, 1992, shall, by rule, establish appropriate procedures and methods for use by Federal agencies to select, monitor, and terminate contracts with energy service contractors in accordance with laws governing Federal procurement that will achieve the intent of this section in a cost-effective manner. In developing such procedures and methods, the Secretary, with the concurrence of the Federal Acquisition Regulatory Council, shall determine which existing regulations are inconsistent with the intent of this section and shall formulate substitute regulations consistent with laws governing Federal procurement.
@@ -101,7 +112,7 @@
 * (3) The Secretary may issue guidance as necessary to agencies issuing task or delivery orders pursuant to paragraph (1).
 
 ### §8287a. Payment of costs
-* Any amount paid by a Federal agency pursuant to any contract entered into under this subchapter may be paid only from funds appropriated or otherwise made available to the agency for fiscal year 1986 or any fiscal year thereafter for the payment of energy, water, or wastewater treatment expenses (and related operation and maintenance expenses).
+* Any amount paid by a Federal agency pursuant to any contract entered into under this subchapter may be paid only from funds appropriated or otherwise made available to the agency for fiscal year 1986 or any fiscal year thereafter for the payment of energy, water, or wastewater treatment expenses, including related operations and maintenance expense.
 
 ### §8287b. Reports
 * Each Federal agency shall periodically furnish the Secretary of Energy with full and complete information on its activities under this subchapter, and the Secretary shall include in the report submitted to Congress under section 8260 of this title a description of the progress made by each Federal agency in—
@@ -117,20 +128,24 @@
 
   * (2) The term "energy savings" means—
 
-    * (A) a reduction in the cost of energy, water, or wastewater treatment, from a base cost established through a methodology set forth in the contract, used in an existing federally owned building or buildings or other federally owned facilities as a result of—
+    * (A) a reduction in the cost of energy, water, or wastewater treatment, from a base cost established through a methodology set forth in the contract, used in an existing Federal building (as defined in section 8259 of this title) as a result of—
 
       * (i) the lease or purchase of operating equipment, improvements, altered operation and maintenance, or technical services;
 
-      * (ii) the increased efficient use of existing energy sources by cogeneration or heat recovery, excluding any cogeneration process for other than a federally owned building or buildings or other federally owned facilities; or
+      * (ii) the increased efficient use of existing energy sources by cogeneration or heat recovery, excluding any cogeneration process for other than a Federal building (as defined in section 8259 of this title; or
 
       * (iii) the increased efficient use of existing water sources in either interior or exterior applications;
 
 
     * (B) the increased efficient use of an existing energy source by cogeneration or heat recovery;
 
-    * (C) if otherwise authorized by Federal or State law (including regulations), the sale or transfer of electrical or thermal energy generated on-site from renewable energy sources or cogeneration, but in excess of Federal needs, to utilities or non-Federal energy users; and
+    * (C) if otherwise authorized by Federal or State law (including regulations), the sale or transfer of electrical or thermal energy generated on-site from renewable energy sources or cogeneration, but in excess of Federal needs, to utilities or non-Federal energy users;
 
-    * (D) the increased efficient use of existing water sources in interior or exterior applications.
+    * (D) the increased efficient use of existing water sources in interior or exterior applications;
+
+    * (E) the use, sale, or transfer of any energy and water incentive, rebate, grid services revenue, or credit (including a renewable energy certificate); and
+
+    * (F) any revenue generated from a reduction in energy or water use, more efficient waste recycling, or additional energy generated from more efficient equipment.
 
 
   * (3) The terms "energy savings contract" and "energy savings performance contract" mean a contract that provides for the performance of services for the design, acquisition, installation, testing, and, where appropriate, operation, maintenance, and repair, of an identified energy or water conservation measure or series of measures at 1 or more locations. Such contracts shall, with respect to an agency facility that is a public building (as such term is defined in section 3301 of title 40), be in compliance with the prospectus requirements and procedures of section 3307 of title 40.

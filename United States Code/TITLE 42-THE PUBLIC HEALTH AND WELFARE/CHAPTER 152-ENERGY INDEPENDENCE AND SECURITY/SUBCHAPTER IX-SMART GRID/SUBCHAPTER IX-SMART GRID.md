@@ -49,7 +49,7 @@
 
 ### §17384. Smart grid technology research, development, and demonstration
 #### (a) Power grid digital information technology
-* The Secretary, in consultation with the Federal Energy Regulatory Commission and other appropriate agencies, electric utilities, the States, and other stakeholders, shall carry out a program—
+* The Secretary, in consultation with the Federal Energy Regulatory Commission and other appropriate agencies, electric utilities, the States, and other stakeholders, shall carry out a research, development, and demonstration program—
 
   * (1) to develop advanced techniques for measuring peak load reductions and energy-efficiency savings from smart metering, demand response, distributed generation, and electricity storage systems;
 
@@ -71,7 +71,7 @@
 
 #### (b) Smart grid regional demonstration initiative
 * #### (1) In general
-  * The Secretary shall establish a smart grid regional demonstration initiative (referred to in this subsection as the "Initiative") composed of demonstration projects specifically focused on advanced technologies for use in power grid sensing, communications, analysis, and power flow control. The Secretary shall seek to leverage existing smart grid deployments.
+  * The Secretary shall establish a smart grid regional demonstration initiative (referred to in this subsection as the "Initiative") composed of demonstration projects focused on cost-effective, advanced technologies for use in power grid sensing, communications, analysis, power flow control, visualization, distribution automation, industrial control systems, dynamic line rating systems, grid redesign, and the integration of distributed energy resources.
 
 * #### (2) Goals
   * The goals of the Initiative shall be—
@@ -82,9 +82,11 @@
 
     * (C) to facilitate the integration of advanced technologies in existing electric networks to improve system performance, power flow control, and reliability;
 
-    * (D) to demonstrate protocols and standards that allow for the measurement and validation of the energy savings and fossil fuel emission reductions associated with the installation and use of energy efficiency and demand response technologies and practices; and
+    * (D) to demonstrate protocols and standards that allow for the measurement and validation of the energy savings and fossil fuel emission reductions associated with the installation and use of energy efficiency and demand response technologies and practices;
 
-    * (E) to investigate differences in each region and regulatory environment regarding best practices in implementing smart grid technologies.
+    * (E) to investigate differences in each region and regulatory environment regarding best practices in implementing smart grid technologies; and
+
+    * (F) to encourage the commercial application of advanced distribution automation technologies that exert intelligent control over electrical grid functions at the distribution level to improve system resilience.
 
 * #### (3) Demonstration projects
   * #### (A) In general
@@ -111,6 +113,91 @@
   * (1) to carry out subsection (a), such sums as are necessary for each of fiscal years 2008 through 2012; and
 
   * (2) to carry out subsection (b), such sums as may be necessary.
+
+### §17384a. Smart grid modeling, visualization, architecture, and controls
+#### (a) In general
+* Not later than 180 days after December 27, 2020, the Secretary shall establish a program of research, development, demonstration, and commercial application on electric grid modeling, sensing, visualization, architecture development, and advanced operation and controls.
+
+#### (b) Modeling research and development
+* The Secretary shall support development of models of emerging technologies and systems to facilitate the secure and reliable design, planning, and operation of the electric grid for use by industry stakeholders. In particular, the Secretary shall support development of—
+
+  * (1) models to analyze and predict the effects of adverse physical and cyber events on the electric grid;
+
+  * (2) coupled models of electrical, physical, and cyber systems;
+
+  * (3) models of existing and emerging technologies being deployed on the electric grid due to projected changes in the electric generation mix and loads, for a variety of regional characteristics; and
+
+  * (4) integrated models of the communications, transmission, distribution, and other interdependent systems for existing, new, and emerging technologies.
+
+#### (c) Situational awareness research and development
+* #### (1) In general
+  * The Secretary shall support development of computational tools and technologies to improve sensing, monitoring, and visualization of the electric grid for real-time situational awareness and decision support tools that enable improved operation of the power system, including utility, non-utility, and customer grid-connected assets, for use by industry partners.
+
+* #### (2) Data use
+  * In developing visualization capabilities under this section, the Secretary shall develop tools for industry stakeholders to use to analyze data collected from advanced measurement and monitoring technologies, including data from phasor measurement units and advanced metering units.
+
+* #### (3) Severe events
+  * The Secretary shall prioritize enhancing cyber and physical situational awareness of the electric grid during adverse manmade and naturally-occurring events.
+
+#### (d) Operation and controls research and development
+* The Secretary shall conduct research to develop improvements to the operation and controls of the electric grid, in coordination with industry partners. Such activities shall include—
+
+  * (1) a training facility or facilities to allow grid operators to gain operational experience with advanced grid control concepts and technologies;
+
+  * (2) development of cost-effective advanced operation and control concepts and technologies, such as adaptive islanding, dynamic line rating systems, power flow controllers, network topology optimization, smart circuit breakers, intelligent load shedding, and fault-tolerant control system architectures;
+
+  * (3) development of real-time control concepts using artificial intelligence and machine learning for improved electric grid resilience; and
+
+  * (4) utilization of advanced data analytics including load forecasting, power flow modeling, equipment failure prediction, resource optimization, risk analysis, and decision analysis.
+
+#### (e) Interoperability research and development
+* The Secretary shall conduct research and development on tools and technologies that improve the interoperability and compatibility of new and emerging components, technologies, and systems with existing electric grid infrastructure.
+
+#### (f) Underground transmission and distribution lines
+* In carrying out the program under subsection (a), the Secretary shall support research and development on underground transmission and distribution lines. This shall include research on—
+
+  * (1) methods for lowering the costs of underground transmission and distribution lines, including through novel installation techniques and materials considerations;
+
+  * (2) techniques to improve the lifespan of underground transmission and distribution lines;
+
+  * (3) wireless sensors to improve safety of underground transmission and distribution lines and to predict, identify, detect, and transmit information about degradation and faults; and
+
+  * (4) methods for improving the resilience and reliability of underground transmission and distribution lines, including technologies and techniques that can mitigate the impact of flooding, storm surge, and seasonal climate cycles on degradation of and damage to underground transmission and distribution lines.
+
+#### (g) Grid architecture and scenario development
+* #### (1) In general
+  * Subject to paragraph (3), the Secretary shall establish and facilitate a collaborative process to develop model grid architecture and a set of future scenarios for the electric grid to examine the impacts of different combinations of resources (including different quantities of distributed energy resources and large-scale, central generation) on the electric grid.
+
+* #### (2) Architecture
+  * In supporting the development of model grid architectures, the Secretary shall—
+
+    * (A) analyze a variety of grid architecture scenarios that range from minor upgrades to existing transmission grid infrastructure to scenarios that involve the replacement of significant portions of existing transmission grid infrastructure;
+
+    * (B) analyze the effects of the increasing proliferation of renewable and other zero emissions energy generation sources, increasing use of distributed resources owned by non-utility entities, and the use of digital and automated controls not managed by grid operators;
+
+    * (C) include a variety of new and emerging distribution grid technologies, including distributed energy resources, electric vehicle charging stations, distribution automation technologies, energy storage, and renewable energy sources;
+
+    * (D) analyze the effects of local load balancing and other forms of decentralized control;
+
+    * (E) analyze the effects of changes to grid architectures resulting from modernizing electric grid systems, including communications, controls, markets, consumer choice, emergency response, electrification, and cybersecurity concerns; and
+
+    * (F) develop integrated grid architectures that incorporate system resilience for cyber, physical, and communications systems.
+
+* #### (3) Market structure
+  * The grid architecture and scenarios developed under paragraph (1) shall, to the extent practicable, account for differences in market structure, including an examination of the potential for stranded costs in each type of market structure.
+
+#### (h) Computing resources and data coordination research and development
+* In carrying out this section, the Secretary shall—
+
+  * (1) leverage existing computing resources at the National Laboratories; and
+
+  * (2) develop voluntary standards for data taxonomies and communication protocols in coordination with public and private sector stakeholders.
+
+#### (i) Information sharing
+* None of the activities authorized in this section shall require private entities to share information or data with the Secretary.
+
+#### (j) Resilience
+* In this section, the term "resilience" means the ability to withstand and reduce the magnitude or duration of disruptive events, which includes the capability to anticipate, absorb, adapt to, or rapidly recover from such an event, including from deliberate attacks, accidents, and naturally occurring threats or incidents.
 
 ### §17385. Smart grid interoperability framework
 #### (a) Interoperability framework
@@ -237,3 +324,301 @@
 
 #### (f) Authorization of appropriations
 * There are authorized to be appropriated to the Secretary such sums as are necessary for the administration of this section and the grants to be made pursuant to this section for fiscal years 2008 through 2012.
+
+### §17387. Integrated energy systems
+#### (a) In general
+* Not later than 180 days after December 27, 2020, the Secretary shall establish a research, development, and demonstration program to develop cost-effective integrated energy systems, including—
+
+  * (1) development of computer modeling to design different configurations of integrated energy systems and to optimize system operation;
+
+  * (2) research on system integration needed to plan, design, build, and operate integrated energy systems, including interconnection requirements with the electric grid;
+
+  * (3) development of integrated energy systems for various applications, including—
+
+    * (A) thermal energy generation and storage for buildings and manufacturing;
+
+    * (B) electricity storage coupled with energy generation;
+
+    * (C) desalination;
+
+    * (D) production of liquid and gaseous fuels; and
+
+    * (E) production of chemicals such as ammonia and ethylene;
+
+
+  * (4) development of testing facilities for integrated energy systems; and
+
+  * (5) research on incorporation of various technologies for integrated energy systems, including nuclear energy, renewable energy, storage, and carbon capture, utilization, and sequestration technologies.
+
+#### (b) Strategic plan
+* #### (1) In general
+  * Not later than 1 year after December 27, 2020, the Secretary shall submit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a strategic plan that identifies opportunities, challenges, and standards needed for the development and commercial application of integrated energy systems. The strategic plan shall include—
+
+    * (A) analysis of the potential benefits of development of integrated electric systems on the electric grid;
+
+    * (B) analysis of the potential contributions of integrated energy systems to different grid architecture scenarios;
+
+    * (C) research and development goals for various integrated energy systems, including those identified in subsection (a);
+
+    * (D) assessment of policy and market barriers to the adoption of integrated energy systems;
+
+    * (E) analysis of the technical and economic feasibility of adoption of different integrated energy systems; and
+
+    * (F) a 10-year roadmap to guide the program established under subsection (a).
+
+* #### (2) Updates
+  * Not less than once every 3 years for the duration of this research program, the Secretary shall submit an updated version of the strategic plan to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate.
+
+#### (c) Program implementation
+* In carrying out the research, development, demonstration, and commercial application aims of subsection (a), the Secretary shall—
+
+  * (1) implement the recommendations set forth in the strategic plan in subsection (b);
+
+  * (2) coordinate across all relevant program offices at the Department, including—
+
+    * (A) the Office of Energy Efficiency and Renewable Energy;
+
+    * (B) the Office of Nuclear Energy; and
+
+    * (C) the Office of Fossil Energy;
+
+
+  * (3) leverage existing programs and resources of the Department; and
+
+  * (4) prioritize activities that accelerate the development of integrated electricity generation, storage, and distribution systems with net zero greenhouse gas emissions.
+
+#### (d) Integrated energy system defined
+* The term "integrated energy system" means a system composed of 2 or more co-located or jointly operated sub-systems of energy generation, energy storage, or other energy technologies.
+
+### §17388. Advisory committee
+#### (a) In general
+* Not later than 180 days after December 27, 2020, the Secretary shall designate an existing advisory committee to advise the Secretary on the authorization of research, development, and demonstration projects under sections 17384 and 17384a of this title.
+
+#### (b) Responsibility
+* The Secretary shall annually solicit from the advisory committee—
+
+  * (1) comments to identify grid modernization technology needs;
+
+  * (2) an assessment of the progress of the research activities on grid modernization; and
+
+  * (3) assistance in annually updating grid modernization technology roadmaps.
+
+### §17389. Technology demonstration on the distribution grid
+#### (a) In general
+* The Secretary shall establish a grant program to carry out eligible projects related to the modernization of the electric grid, including the application of technologies to improve observability, advanced controls, and prediction of system performance on the distribution system.
+
+#### (b) Eligible projects
+* To be eligible for a grant under subsection (a), a project shall—
+
+  * (1) be designed to improve the performance and efficiency of the future electric grid, while ensuring the continued provision of safe, secure, reliable, and affordable power; and
+
+  * (2) demonstrate—
+
+    * (A) secure integration and management of two or more energy resources, including distributed energy generation, combined heat and power, micro-grids, energy storage, electric vehicles, energy efficiency, demand response, and intelligent loads; and
+
+    * (B) secure integration and interoperability of communications and information technologies.
+
+### §17390. Voluntary model pathways
+#### (a) Establishment of voluntary model pathways
+* #### (1) Establishment
+  * Not later than 90 days after December 27, 2020, the Secretary of Energy (in this section referred to as the "Secretary"), in consultation with the steering committee established under paragraph (3), shall initiate the development of voluntary model pathways for modernizing the electric grid through a collaborative, public-private effort that—
+
+    * (A) produces illustrative policy pathways encompassing a diverse range of technologies that can be adapted for State and regional applications by regulators and policymakers;
+
+    * (B) facilitates the modernization of the electric grid and associated communications networks to achieve the objectives described in paragraph (2);
+
+    * (C) ensures a reliable, resilient, affordable, safe, and secure electric grid; and
+
+    * (D) acknowledges and accounts for different priorities, electric systems, and rate structures across States and regions.
+
+* #### (2) Objectives
+  * The pathways established under paragraph (1) shall facilitate achievement of as many of the following objectives as practicable:
+
+    * (A) Near real-time situational awareness of the electric system.
+
+    * (B) Data visualization.
+
+    * (C) Advanced monitoring and control of the advanced electric grid.
+
+    * (D) Enhanced certainty of policies for investment in the electric grid.
+
+    * (E) Increased innovation.
+
+    * (F) Greater consumer empowerment.
+
+    * (G) Enhanced grid resilience, reliability, and robustness.
+
+    * (H) Improved—
+
+      * (i) integration of distributed energy resources;
+
+      * (ii) interoperability of the electric system; and
+
+      * (iii) predictive modeling and capacity forecasting.
+
+
+    * (I) Reduced cost of service for consumers.
+
+    * (J) Diversification of generation sources.
+
+* #### (3) Steering committee
+  * Not later than 90 days after December 27, 2020, the Secretary shall establish a steering committee to help develop the pathways under paragraph (1), to be composed of members appointed by the Secretary, consisting of persons with appropriate expertise representing a diverse range of interests in the public, private, and academic sectors, including representatives of—
+
+    * (A) the Federal Energy Regulatory Commission;
+
+    * (B) the National Laboratories;
+
+    * (C) States;
+
+    * (D) State regulatory authorities;
+
+    * (E) transmission organizations;
+
+    * (F) representatives of all sectors of the electric power industry;
+
+    * (G) institutions of higher education;
+
+    * (H) independent research institutes; and
+
+    * (I) other entities.
+
+#### (b) Technical assistance
+* The Secretary may provide technical assistance to States, Indian Tribes, or units of local government to adopt or implement one or more elements of the pathways developed under subsection (a)(1), including on a pilot basis.
+
+### §17391. Voluntary state, regional, and local electricity distribution planning
+#### (a) In general
+* On the request of a State, regional organization, or electric utility, the Secretary of Energy shall provide assistance to States, regional organizations, and electric utilities to facilitate the development of State, regional, and local electricity distribution plans by—
+
+  * (1) conducting a resource assessment and analysis of future demand and distribution requirements; and
+
+  * (2) developing open source tools for State, regional, and local planning and operations.
+
+#### (b) Risk and security analysis
+* The assessment under subsection (a)(1) shall include—
+
+  * (1) the evaluation of the physical security, cybersecurity, and associated communications needs of an advanced distribution management system and the integration of distributed energy resources; and
+
+  * (2) advanced use of grid architecture to analyze risks in an all-hazards approach that includes communications infrastructure, control systems architecture, and power systems architecture.
+
+#### (c) Designation
+* The information collected for the assessment and analysis under subsection (a)(1)—
+
+  * (1) shall be considered to be critical electric infrastructure information under section 824o–1 of title 16; and
+
+  * (2) shall only be released in compliance with regulations implementing that section.
+
+#### (d) Technical assistance
+* For the purpose of assisting in the development of State and regional electricity distribution plans, the Secretary shall provide technical assistance to—
+
+  * (1) States;
+
+  * (2) regional reliability entities; and
+
+  * (3) other distribution asset owners and operators.
+
+#### (e) Withdrawal
+* A State or any entity that has requested technical assistance under this section may withdraw the request for technical assistance at any time, and on such withdrawal, the Secretary shall terminate all assistance efforts.
+
+#### (f) Effect
+* Nothing in this section authorizes the Secretary to require any State, regional organization, regional reliability entity, asset owner, or asset operator to adopt any model, tool, plan, analysis, or assessment.
+
+### §17392. Micro-grid and integrated micro-grid systems program
+#### (a) Definitions
+* In this section:
+
+* #### (1) Integrated micro-grid system
+  * The term "integrated micro-grid system" means a micro-grid system that—
+
+    * (A) comprises generation from both conventional and renewable energy resources; and
+
+    * (B) may use grid-scale energy storage.
+
+* #### (2) Isolated community
+  * The term "isolated community" means a community that is powered by a stand-alone electric generation and distribution system without the economic and reliability benefits of connection to a regional electric grid.
+
+* #### (3) Micro-grid system
+  * The term "micro-grid system" means a localized grid that operates autonomously, regardless of whether the grid can operate in connection with another grid.
+
+* #### (4) Rural electric cooperative
+  * The term "rural electric cooperative" means an electric cooperative (as defined in section 796 of title 16) that sells electric energy to persons in rural areas.
+
+* #### (5) Strategy
+  * The term "strategy" means the strategy developed pursuant to subsection (b)(2)(B).
+
+#### (b) Program
+* #### (1) Establishment
+  * The Secretary of Energy (in this section referred to as the "Secretary") shall establish a program to promote the development of—
+
+    * (A) integrated micro-grid systems for isolated communities; and
+
+    * (B) micro-grid systems to increase the resilience of critical infrastructure.
+
+* #### (2) Requirements
+  * The program established under paragraph (1) shall—
+
+    * (A) develop a feasibility assessment for—
+
+      * (i) integrated micro-grid systems in isolated communities; and
+
+      * (ii) micro-grid systems to enhance the resilience of critical infrastructure;
+
+
+    * (B) develop an implementation strategy, in accordance with paragraph (3), to promote the development of integrated micro-grid systems for isolated communities, particularly for those communities exposed to extreme weather conditions and high energy costs, including electricity, space heating and cooling, and transportation;
+
+    * (C) develop an implementation strategy to promote the development of micro-grid systems that increase the resilience of critical infrastructure; and
+
+    * (D) carry out cost-shared demonstration projects, based upon the strategies developed under subparagraph (B) that include the development of physical and cybersecurity plans to take appropriate measures to protect and secure the electric grid.
+
+* #### (3) Requirements for strategy
+  * In developing the strategy under paragraph (2)(B), the Secretary shall consider—
+
+    * (A) opportunities for improving the efficiency of existing integrated micro-grid systems;
+
+    * (B) the capacity of the local workforce to operate, maintain, and repair a integrated micro-grid system as well as opportunities to improve that capacity;
+
+    * (C) leveraging existing capacity within local or regional research organizations, such as organizations based at institutions of higher education, to support development of integrated micro-grid systems, including by testing novel components and systems prior to field deployment;
+
+    * (D) the need for basic infrastructure to develop, deploy, and sustain a integrated micro-grid system;
+
+    * (E) input of traditional knowledge from local leaders of isolated communities in the development of a integrated micro-grid system;
+
+    * (F) the impact of integrated micro-grid systems on defense, homeland security, economic development, and environmental interests;
+
+    * (G) opportunities to leverage existing interagency coordination efforts and recommendations for new interagency coordination efforts to minimize unnecessary overhead, mobilization, and other project costs; and
+
+    * (H) any other criteria the Secretary determines appropriate.
+
+#### (c) Collaboration
+* The program established under subsection (b)(1) shall be carried out in collaboration with relevant stakeholders, including, as appropriate—
+
+  * (1) States;
+
+  * (2) Indian Tribes;
+
+  * (3) regional entities and regulators;
+
+  * (4) units of local government;
+
+  * (5) institutions of higher education; and
+
+  * (6) private sector entities.
+
+#### (d) Report
+* Not later than 180 days after December 27, 2020, and annually thereafter until calendar year 2029, the Secretary shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Energy and Commerce of the House of Representatives a report on the efforts to implement the program established under subsection (b)(1) and the status of the strategy developed under subsection (b)(2)(B).
+
+#### (e) Barriers and benefits to micro-grid systems
+* #### (1) Report
+  * Not later than 270 days after December 27, 2020, the Secretary shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Energy and Commerce of the House of Representatives a report on the benefits of, and barriers to, implementing resilient micro-grid systems that are—
+
+    * (A)(i) owned or operated by an isolated community, rural electric cooperative, or municipal government; or
+
+    * (ii) operated on behalf of a municipal government or rural electric cooperative; and
+
+    * (B) designed to maximize the use of—
+
+      * (i) energy-generation facilities owned or operated by isolated communities; or
+
+      * (ii) a municipal or rural electric cooperative energy-generation facility.
+
+* #### (2) Grants to overcome barriers
+  * The Secretary shall award grants of not more than $500,000 to not fewer than 20 municipal governments, rural electric cooperatives, or isolated communities, up to a total of $15,000,000, each year to assist those municipal governments, rural electric cooperatives, and isolated communities in overcoming the barriers identified in the report under paragraph (1).

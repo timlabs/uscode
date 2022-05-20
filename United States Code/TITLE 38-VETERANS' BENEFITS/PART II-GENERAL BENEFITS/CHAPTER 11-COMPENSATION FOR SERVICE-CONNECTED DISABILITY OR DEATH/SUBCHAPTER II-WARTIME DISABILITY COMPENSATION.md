@@ -1,7 +1,7 @@
 ### SUBCHAPTER II—WARTIME DISABILITY COMPENSATION
 
 ### §1110. Basic entitlement
-* For disability resulting from personal injury suffered or disease contracted in line of duty, or for aggravation of a preexisting injury suffered or disease contracted in line of duty, in the active military, naval, or air service, during a period of war, the United States will pay to any veteran thus disabled and who was discharged or released under conditions other than dishonorable from the period of service in which said injury or disease was incurred, or preexisting injury or disease was aggravated, compensation as provided in this subchapter, but no compensation shall be paid if the disability is a result of the veteran's own willful misconduct or abuse of alcohol or drugs.
+* For disability resulting from personal injury suffered or disease contracted in line of duty, or for aggravation of a preexisting injury suffered or disease contracted in line of duty, in the active military, naval, air, or space service, during a period of war, the United States will pay to any veteran thus disabled and who was discharged or released under conditions other than dishonorable from the period of service in which said injury or disease was incurred, or preexisting injury or disease was aggravated, compensation as provided in this subchapter, but no compensation shall be paid if the disability is a result of the veteran's own willful misconduct or abuse of alcohol or drugs.
 
 ### §1111. Presumption of sound condition
 * For the purposes of section 1110 of this title, every veteran shall be taken to have been in sound condition when examined, accepted, and enrolled for service, except as to defects, infirmities, or disorders noted at the time of the examination, acceptance, and enrollment, or where clear and unmistakable evidence demonstrates that the injury or disease existed before acceptance and enrollment and was not aggravated by such service.
@@ -24,9 +24,9 @@
 
 * (b)(1) For the purposes of section 1110 of this title and subject to the provisions of section 1113 of this title, in the case of a veteran who is a former prisoner of war—
 
-  * (A) a disease specified in paragraph (2) which became manifest to a degree of 10 percent or more after active military, naval, or air service shall be considered to have been incurred in or aggravated by such service, notwithstanding that there is no record of such disease during the period of service; and
+  * (A) a disease specified in paragraph (2) which became manifest to a degree of 10 percent or more after active military, naval, air, or space service shall be considered to have been incurred in or aggravated by such service, notwithstanding that there is no record of such disease during the period of service; and
 
-  * (B) if the veteran was detained or interned as a prisoner of war for not less than thirty days, a disease specified in paragraph (3) which became manifest to a degree of 10 percent or more after active military, naval, or air service shall be considered to have been incurred in or aggravated by such service, notwithstanding that there is no record of such disease during the period of service.
+  * (B) if the veteran was detained or interned as a prisoner of war for not less than thirty days, a disease specified in paragraph (3) which became manifest to a degree of 10 percent or more after active military, naval, air, or space service shall be considered to have been incurred in or aggravated by such service, notwithstanding that there is no record of such disease during the period of service.
 
 
 * (2) The diseases specified in this paragraph are the following:
@@ -73,7 +73,7 @@
   * (M) Stroke and its complications.
 
 
-* (c)(1) For the purposes of section 1110 of this title, and subject to the provisions of section 1113 of this title, a disease specified in paragraph (2) of this subsection becoming manifest in a radiation-exposed veteran shall be considered to have been incurred in or aggravated during active military, naval, or air service, notwithstanding that there is no record of evidence of such disease during a period of such service.
+* (c)(1) For the purposes of section 1110 of this title, and subject to the provisions of section 1113 of this title, a disease specified in paragraph (2) of this subsection becoming manifest in a radiation-exposed veteran shall be considered to have been incurred in or aggravated during active military, naval, air, or space service, notwithstanding that there is no record of evidence of such disease during a period of such service.
 
 * (2) The diseases referred to in paragraph (1) of this subsection are the following:
 
@@ -140,7 +140,7 @@
 ### §1113. Presumptions rebuttable
 * (a) Where there is affirmative evidence to the contrary, or evidence to establish that an intercurrent injury or disease which is a recognized cause of any of the diseases or disabilities within the purview of section 1112, 1116, 1117, or 1118 of this title, has been suffered between the date of separation from service and the onset of any such diseases or disabilities, or the disability is due to the veteran's own willful misconduct, service-connection pursuant to section 1112, 1116, or 1118 of this title, or payments of compensation pursuant to section 1117 of this title, will not be in order.
 
-* (b) Nothing in section 1112, 1116, 1117, or 1118 of this title, subsection (a) of this section, or section 5 of Public Law 98–542 (38 U.S.C. 1154 note) shall be construed to prevent the granting of service-connection for any disease or disorder otherwise shown by sound judgment to have been incurred in or aggravated by active military, naval, or air service.
+* (b) Nothing in section 1112, 1116, 1117, or 1118 of this title, subsection (a) of this section, or section 5 of Public Law 98–542 (38 U.S.C. 1154 note) shall be construed to prevent the granting of service-connection for any disease or disorder otherwise shown by sound judgment to have been incurred in or aggravated by active military, naval, air, or space service.
 
 ### §1114. Rates of wartime disability compensation
 * For the purposes of section 1110 of this title—
@@ -239,6 +239,12 @@
   * (G) Multiple myeloma becoming manifest to a degree of disability of 10 percent or more.
 
   * (H) Diabetes Mellitus (Type 2).
+
+  * (I) Parkinsonism.
+
+  * (J) Bladder cancer.
+
+  * (K) Hypothyroidism.
 
 
 * (3) For purposes of this section, the term "herbicide agent" means a chemical in an herbicide used in support of the United States and allied military operations in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975.

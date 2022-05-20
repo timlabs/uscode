@@ -351,7 +351,12 @@
     * (B) DISMISSAL WHEN REHEARING IMPRACTICAL.—If the Judge Advocate General sets aside findings and orders a rehearing and the convening authority determines that a rehearing would be impractical, the convening authority shall dismiss the charges.
 
 ### §866. Art. 66. Courts of Criminal Appeals
-* (a) COURTS OF CRIMINAL APPEALS.—Each Judge Advocate General shall establish a Court of Criminal Appeals which shall be composed of one or more panels, and each such panel shall be composed of not less than three appellate military judges. For the purpose of reviewing court-martial cases, the court may sit in panels or as a whole in accordance with rules prescribed under subsection (h). Any decision of a panel may be reconsidered by the court sitting as a whole in accordance with such rules. Appellate military judges who are assigned to a Court of Criminal Appeals may be commissioned officers or civilians, each of whom must be a member of a bar of a Federal court or of the highest court of a State and must be certified by the Judge Advocate General as qualified, by reason of education, training, experience, and judicial temperament, for duty as an appellate military judge. The Judge Advocate General shall designate as chief judge one of the appellate military judges of the Court of Criminal Appeals established by him. The chief judge shall determine on which panels of the court the appellate judges assigned to the court will serve and which military judge assigned to the court will act as the senior judge on each panel. In accordance with regulations prescribed by the President, assignments of appellate military judges under this section (article) shall be for appropriate minimum periods, subject to such exceptions as may be authorized in the regulations.
+* (a) COURTS OF CRIMINAL APPEALS.—
+
+  * (1) IN GENERAL.—Each Judge Advocate General shall establish a Court of Criminal Appeals which shall be composed of one or more panels, and each such panel shall be composed of not less than three appellate military judges. For the purpose of reviewing court-martial cases, the court may sit in panels or as a whole in accordance with rules prescribed under subsection (h). Any decision of a panel may be reconsidered by the court sitting as a whole in accordance with such rules. Appellate military judges who are assigned to a Court of Criminal Appeals may be commissioned officers or civilians, each of whom must be a member of a bar of a Federal court or of the highest court of a State and must be certified by the Judge Advocate General as qualified, by reason of education, training, experience, and judicial temperament, for duty as an appellate military judge. The Judge Advocate General shall designate as chief judge one of the appellate military judges of the Court of Criminal Appeals established by him. The chief judge shall determine on which panels of the court the appellate judges assigned to the court will serve and which military judge assigned to the court will act as the senior judge on each panel. In accordance with regulations prescribed by the President, assignments of appellate military judges under this section (article) shall be for appropriate minimum periods, subject to such exceptions as may be authorized in the regulations.
+
+  * (2) ADDITIONAL QUALIFICATIONS.—In addition to any other qualifications specified in paragraph (1), any commissioned officer or civilian assigned as an appellate military judge to a Court of Criminal Appeals shall have not fewer than 12 years of experience in the practice of law before such assignment.
+
 
 * (b) REVIEW.—
 
@@ -389,7 +394,21 @@
 
 * (d) DUTIES.—
 
-  * (1) CASES APPEALED BY ACCUSED.—In any case before the Court of Criminal Appeals under subsection (b), the Court may act only with respect to the findings and sentence as entered into the record under section 860c of this title (article 60c). The Court may affirm only such findings of guilty, and the sentence or such part or amount of the sentence, as the Court finds correct in law and fact and determines, on the basis of the entire record, should be approved. In considering the record, the Court may weigh the evidence, judge the credibility of witnesses, and determine controverted questions of fact, recognizing that the trial court saw and heard the witnesses.
+  * (1) CASES APPEALED BY ACCUSED.—
+
+    * (A) IN GENERAL.—In any case before the Court of Criminal Appeals under subsection (b), the Court may act only with respect to the findings and sentence as entered into the record under section 860c of this title (article 60c). The Court may affirm only such findings of guilty as the Court finds correct in law, and in fact in accordance with subparagraph (B). The Court may affirm only the sentence, or such part or amount of the sentence, as the Court finds correct in law and fact and determines, on the basis of the entire record, should be approved.
+
+    * (B) FACTUAL SUFFICIENCY REVIEW.—(i) In an appeal of a finding of guilty under subsection (b), the Court may consider whether the finding is correct in fact upon request of the accused if the accused makes a specific showing of a deficiency in proof.
+
+      * (ii) After an accused has made such a showing, the Court may weigh the evidence and determine controverted questions of fact subject to—
+
+        * (I) appropriate deference to the fact that the trial court saw and heard the witnesses and other evidence; and
+
+        * (II) appropriate deference to findings of fact entered into the record by the military judge.
+
+
+      * (iii) If, as a result of the review conducted under clause (ii), the Court is clearly convinced that the finding of guilty was against the weight of the evidence, the Court may dismiss, set aside, or modify the finding, or affirm a lesser finding.
+
 
   * (2) ERROR OR EXCESSIVE DELAY.—In any case before the Court of Criminal Appeals under subsection (b), the Court may provide appropriate relief if the accused demonstrates error or excessive delay in the processing of the court-martial after the judgment was entered into the record under section 860c of this title (article 60c).
 
@@ -467,9 +486,11 @@
 
 * (c)(1) In any case reviewed by it, the Court of Appeals for the Armed Forces may act only with respect to—
 
-  * (A) the findings and sentence set forth in the entry of judgment, as affirmed or set aside as incorrect in law by the Court of Criminal Appeals; or
+  * (A) the findings and sentence set forth in the entry of judgment, as affirmed or set aside as incorrect in law by the Court of Criminal Appeals;
 
-  * (B) a decision, judgment, or order by a military judge, as affirmed or set aside as incorrect in law by the Court of Criminal Appeals.
+  * (B) a decision, judgment, or order by a military judge, as affirmed or set aside as incorrect in law by the Court of Criminal Appeals; or
+
+  * (C) the findings set forth in the entry of judgment, as affirmed, dismissed, set aside, or modfied by the Court of Criminal Appeals as incorrect in fact under section 866(d)(1)(B) of this title (article 66(d)(1)(B)).
 
 
 * (2) In a case which the Judge Advocate General orders sent to the Court of Appeals for the Armed Forces, that action need be taken only with respect to the issues raised by him.

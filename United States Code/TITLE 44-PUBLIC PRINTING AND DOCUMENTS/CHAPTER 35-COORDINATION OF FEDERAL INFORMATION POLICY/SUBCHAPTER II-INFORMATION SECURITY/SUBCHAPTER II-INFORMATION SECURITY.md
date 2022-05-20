@@ -121,10 +121,19 @@
 
     * (C) compiling and analyzing data on agency information security; and
 
-    * (D) developing and conducting targeted operational evaluations, including threat and vulnerability assessments, on the information systems; and
+    * (D) developing and conducting targeted operational evaluations, including threat and vulnerability assessments, on the information systems;
+
+  * (7) hunting for and identifying, with or without advance notice to or authorization from agencies, threats and vulnerabilities within Federal information systems;
+
+  * (8) upon request by an agency, and at the Secretary's discretion, with or without reimbursement—
+
+    * (A) providing services, functions, and capabilities, including operation of the agency's information security program, to assist the agency with meeting the requirements set forth in section 3554(b); and
+
+    * (B) deploying, operating, and maintaining secure technology platforms and tools, including networks and common business applications, for use by the agency to perform agency functions, including collecting, maintaining, storing, processing, disseminating, and analyzing information; and
 
 
-  * (7) other actions as the Director or the Secretary, in consultation with the Director, may determine necessary to carry out this subsection.
+
+  * (9) other actions as the Director or the Secretary, in consultation with the Director, may determine necessary to carry out this subsection.
 
 
 * (c) REPORT.—Not later than March 1 of each year, the Director, in consultation with the Secretary, shall submit to Congress a report on the effectiveness of information security policies and practices during the preceding year, including—
@@ -251,6 +260,13 @@
   * (1) the Committee on Appropriations and the Committee on Homeland Security and Governmental Affairs of the Senate; and
 
   * (2) the Committee on Appropriations, the Committee on Homeland Security, the Committee on Oversight and Government Reform, and the Committee on Science, Space, and Technology of the House of Representatives.
+
+
+* (l) INFORMATION SHARING.—
+
+  * (1) IN GENERAL.—Notwithstanding any other provision of law, including any provision of law that would otherwise restrict or prevent the head of an agency from disclosing information to the Secretary, the Secretary in carrying out this section and title XXII of the Homeland Security Act of 2002 (6 U.S.C. 651 et seq.) may access, use, retain, and disclose, and the head of an agency may disclose to the Secretary, information, for the purpose of protecting information and information systems from cybersecurity risks.
+
+  * (2) EXCEPTION.—Paragraph (1) shall not apply to national security systems or to information systems described in paragraph (2) or (3) of subsection (e).
 
 ### §3554. Federal agency responsibilities
 * (a) IN GENERAL.—The head of each agency shall—

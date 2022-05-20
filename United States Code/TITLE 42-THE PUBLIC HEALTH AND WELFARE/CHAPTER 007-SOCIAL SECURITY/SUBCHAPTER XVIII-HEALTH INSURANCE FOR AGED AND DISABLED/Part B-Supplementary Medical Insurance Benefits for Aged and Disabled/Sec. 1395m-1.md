@@ -7,9 +7,9 @@
   * #### (B) Revised reporting period
     * In the case of reporting with respect to clinical diagnostic laboratory tests that are not advanced diagnostic laboratory tests, the Secretary shall revise the reporting period under subparagraph (A) such that—
 
-      * (i) no reporting is required during the period beginning January 1, 2020, and ending December 31, 2020;
+      * (i) no reporting is required during the period beginning January 1, 2020, and ending December 31, 2021;
 
-      * (ii) reporting is required during the period beginning January 1, 2021, and ending March 31, 2021; and
+      * (ii) reporting is required during the period beginning January 1, 2022, and ending March 31, 2022; and
 
       * (iii) reporting is required every three years after the period described in clause (ii).
 
@@ -89,14 +89,16 @@
 
 * #### (3) Phase-in of reductions from private payor rate implementation
   * #### (A) In general
-    * Payment amounts determined under this subsection for a clinical diagnostic laboratory test for each of 2017 through 2023 shall not result in a reduction in payments for a clinical diagnostic laboratory test for the year of greater than the applicable percent (as defined in subparagraph (B)) of the amount of payment for the test for the preceding year.
+    * Payment amounts determined under this subsection for a clinical diagnostic laboratory test for each of 2017 through 2024 shall not result in a reduction in payments for a clinical diagnostic laboratory test for the year of greater than the applicable percent (as defined in subparagraph (B)) of the amount of payment for the test for the preceding year.
 
   * #### (B) Applicable percent defined
     * In this paragraph, the term "applicable percent" means—
 
-      * (i) for each of 2017 through 2020, 10 percent; and
+      * (i) for each of 2017 through 2020, 10 percent;
 
-      * (ii) for each of 2021 through 2023, 15 percent.
+      * (ii) for 2021, 0 percent; and
+
+      * (iii) for each of 2022 through 2024, 15 percent.
 
   * #### (C) No application to new tests
     * This paragraph shall not apply to payment amounts determined under this section for either of the following.

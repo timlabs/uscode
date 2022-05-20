@@ -144,7 +144,7 @@
   * (iv) the amount described in section 6314(b)(3) of this title (as determined without regard to subparagraph (A)(ii) and (iv) thereof).
 
 
-* (2) Within the limits prescribed by paragraph (1) of this subsection, Senators may fix the number and the rates of compensation of employees in their respective offices. The salary of an employee in a Senator's office shall not be fixed under this paragraph at a rate less than $3,056 or in excess of $173,900. A Senator may establish such titles for positions in his office as he may desire to designate, by written notification to the disbursing office of the Senate.below
+* (2) Within the limits prescribed by paragraph (1) of this subsection, Senators may fix the number and the rates of compensation of employees in their respective offices. The salary of an employee in a Senator's office shall not be fixed under this paragraph at a rate less than $3,164 or in excess of $173,900. A Senator may establish such titles for positions in his office as he may desire to designate, by written notification to the disbursing office of the Senate.
 
 #### (e) Gross rate of compensation of employee of committee of Senate employed by joint committee, select committee, or standing committee
 * (1), (2) Repealed. Pub. L. 96–304, title I, §112(b)(1), July 8, 1980, 94 Stat. 892.
@@ -166,7 +166,7 @@
 * (B) Subject to adjustment as provided by law, no employee of a committee of the Senate shall be paid at a per annum gross rate in excess of $173,900.
 
 #### (f) General limitation
-* No officer or employee whose compensation is disbursed by the Secretary of the Senate shall be paid gross compensation at a rate less than $3,056 or in excess of $173,900, unless expressly authorized by law. The limitation on the minimum rate of gross compensation under this subsection shall not apply to any member or civilian employee of the Capitol Police whose compensation is disbursed by the Secretary of the Senate.
+* No officer or employee whose compensation is disbursed by the Secretary of the Senate shall be paid gross compensation at a rate less than $3,164 or in excess of $173,900, unless expressly authorized by law. The limitation on the minimum rate of gross compensation under this subsection shall not apply to any member or civilian employee of the Capitol Police whose compensation is disbursed by the Secretary of the Senate.
 
 ### §4575a. Change in maximum rates of pay for statutory employees
 #### (i) Fixed salary positions
@@ -279,9 +279,9 @@
   * #### (A) In general
     * The amount of student loan payments made under service agreements under this section on behalf of an eligible employee may not exceed—
 
-      * (i) $500 in any month; or
+      * (i) $833 in any month; or
 
-      * (ii) a total of $40,000.
+      * (ii) a total of $80,000.
 
   * #### (B) Payments included in gross compensation limitations
     * Any student loan payment made under this section in any month may not result in the sum of the payment and the compensation of an employee for that month exceeding 1/12th of the applicable annual maximum gross compensation limitation under section 4575(d)(2), (e), or (f) of this title.
@@ -426,9 +426,9 @@
 * #### (1) In general
   * There are authorized to be appropriated (or otherwise made available from appropriations) to carry out this section the following amounts for each fiscal year:
 
-    * (A) For each employing office that is the personal office of a Senator, an amount equal to 2 percent of the total sums appropriated for the fiscal year involved for administrative and clerical salaries for such office.
+    * (A) For each employing office that is the personal office of a Senator, an amount equal to 2.5 percent of the total sums appropriated for the fiscal year involved for administrative and clerical salaries for such office.
 
-    * (B) For each other employing office, an amount equal to 2 percent of the total sums appropriated for the fiscal year involved for salaries for such office.
+    * (B) For each other employing office, an amount equal to 2.5 percent of the total sums appropriated for the fiscal year involved for salaries for such office.
 
 * #### (2) Limitation
   * Amounts provided under this section shall be subject to annual appropriations.

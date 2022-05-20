@@ -54,9 +54,9 @@
   * (2) preparing officers for joint duty assignments.
 
 ### §2153. Capstone course: newly selected general and flag officers
-* (a) REQUIREMENT.—Each officer selected for promotion to the grade of brigadier general or, in the case of the Navy, rear admiral (lower half) shall be required, after such selection, to attend a military education course designed specifically to prepare new general and flag officers to work with the other armed forces.
+* (a) REQUIREMENT.—Each officer selected for promotion to the grade of brigadier general or, in the case of the Navy or the commissioned officer corps of the National Oceanic and Atmospheric Administration, rear admiral (lower half) shall be required, after such selection, to attend a military education course designed specifically to prepare new general and flag officers to work with the other uniformed services.
 
-* (b) WAIVER AUTHORITY.—(1) Subject to paragraph (2), the Secretary of Defense may waive subsection (a)—
+* (b) WAIVER AUTHORITY.—(1) Subject to paragraph (2), the Secretary of Defense or the Secretary of Commerce, as applicable, may waive subsection (a)—
 
   * (A) in the case of an officer whose immediately previous assignment was in a joint duty assignment and who is thoroughly familiar with joint matters;
 

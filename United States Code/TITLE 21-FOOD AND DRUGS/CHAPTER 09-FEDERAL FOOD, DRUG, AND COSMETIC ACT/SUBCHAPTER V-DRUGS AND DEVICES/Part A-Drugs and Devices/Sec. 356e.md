@@ -37,3 +37,6 @@
 
 * #### (3) Public health exception
   * The Secretary may choose not to make information collected under this section publicly available under paragraph (1) or section 356c(c) of this title if the Secretary determines that disclosure of such information would adversely affect the public health (such as by increasing the possibility of hoarding or other disruption of the availability of drug products to patients).
+
+#### (d) Interagency notification
+* Not later than 180 days after March 27, 2020, and every 90 days thereafter, the Secretary shall transmit a report regarding the drugs of the current drug shortage list under this section to the Administrator of the Centers for Medicare & Medicaid Services.

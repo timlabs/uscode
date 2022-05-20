@@ -17,7 +17,7 @@
   * The terms "defense article", "defense service", and "training" have the meanings given those terms in section 2794 of this title.
 
 * #### (4) Financial institution
-  * The term "financial institution" means a financial institution specified in subparagraph (A), (B), (C), (D), (E), (F), (G), (H), (I), (J), (M), or (Y) of section 5312(a)(2) of title 31.
+  * The term "financial institution" means a financial institution specified in subparagraph (A), (B), (C), (D), (E), (F), (G), (H), (I), (J), (M), or (Z) of section 5312(a)(2) of title 31.
 
 * #### (5) Foreign financial institution
   * The term "foreign financial institution" has the meaning given that term in section 561.308 of title 31, Code of Federal Regulations (or any corresponding similar regulation or ruling).

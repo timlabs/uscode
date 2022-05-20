@@ -415,7 +415,7 @@
 
 * (e) Special postage stamps under this section shall be made available to the public beginning on such date as the Postal Service shall by regulation prescribe, but in no event later than 12 months after the date of the enactment of this section.
 
-* (f) Thea Postmaster General shall include in each report rendered under section 2402 with respect to any period during any portion of which this section is in effect information concerning the operation of this section, except that, at a minimum, each shall include—
+* (f) The Postmaster General shall include in each report rendered under section 2402 with respect to any period during any portion of which this section is in effect information concerning the operation of this section, except that, at a minimum, each shall include—
 
   * (1) the total amount described in subsection (c)(2)(A) which was received by the Postal Service during the period covered by such report; and
 

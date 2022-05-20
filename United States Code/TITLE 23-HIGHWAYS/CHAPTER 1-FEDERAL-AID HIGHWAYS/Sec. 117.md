@@ -89,7 +89,7 @@
 
   * (2) LIMITATION.—
 
-    * (A) IN GENERAL.—Not more than $500,000,000 of the amounts made available for grants under this section for fiscal years 2016 through 2020, in the aggregate, may be used to make grants for projects described in paragraph (1)(A)(iii) and such a project may only receive a grant under this section if—
+    * (A) IN GENERAL.—Not more than $600,000,000 of the amounts made available for grants under this section for fiscal years 2016 through 2021, in the aggregate, may be used to make grants for projects described in paragraph (1)(A)(iii) and such a project may only receive a grant under this section if—
 
       * (i) the project will make a significant improvement to freight movements on the National Highway Freight Network; and
 

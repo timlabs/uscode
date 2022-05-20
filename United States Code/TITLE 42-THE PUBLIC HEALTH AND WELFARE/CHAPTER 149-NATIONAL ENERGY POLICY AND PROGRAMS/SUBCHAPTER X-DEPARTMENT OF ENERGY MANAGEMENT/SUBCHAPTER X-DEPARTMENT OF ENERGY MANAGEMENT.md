@@ -1,24 +1,61 @@
 ### SUBCHAPTER X—DEPARTMENT OF ENERGY MANAGEMENT
 
 ### §16391. Improved technology transfer of energy technologies
-#### (a) Technology Transfer Coordinator
-* The Secretary shall appoint a Technology Transfer Coordinator to be the principal advisor to the Secretary on all matters relating to technology transfer and commercialization.
+#### (a) Office of Technology Transitions
+* #### (1) Establishment
+  * There is established within the Department an Office of Technology Transitions (referred to in this section as the "Office").
 
-#### (b) Qualifications
-* The Coordinator shall be an individual who, by reason of professional background and experience, is specially qualified to advise the Secretary on matters pertaining to technology transfer at the Department.
+* #### (2) Mission
+  * The mission of the Office shall be—
 
-#### (c) Duties of the Coordinator
-* The Coordinator shall oversee—
+    * (A) to expand the commercial impact of the research investments of the Department; and
 
-  * (1) the activities of the Technology Transfer Working Group established under subsection (d);
+    * (B) to focus on commercializing technologies that support the missions of the Department, including reducing greenhouse gas emissions and other pollutants.
 
-  * (2) the expenditure of funds allocated for technology transfer within the Department;
+* #### (3) Goals
+  * #### (A) In general
+    * In carrying out the mission and activities of the Office, the Chief Commercialization Officer appointed under paragraph (4) shall, with respect to commercialization activities, meet all of the goals described in subparagraph (B).
 
-  * (3) the activities of each technology partnership ombudsman appointed under section 7261c of this title; and
+  * #### (B) Goals described
+    * The goals referred to in subparagraph (A) are the following:
 
-  * (4) efforts to engage private sector entities, including venture capital companies.
+      * (i) Reduction of greenhouse gas emissions and other pollutants.
 
-#### (d) Technology Transfer Working Group
+      * (ii) Ensuring economic competitiveness.
+
+      * (iii) Enhancement of domestic energy security and national security.
+
+      * (iv) Enhancement of domestic jobs.
+
+      * (v) Improvement of energy efficiency.
+
+      * (vi) Any other goals to support the transfer of technology developed by Department-funded programs to the private sector, as consistent with missions of the Department.
+
+* #### (4) Chief Commercialization Officer
+  * #### (A) In general
+    * The Office shall be headed by an officer, who shall be known as the "Chief Commercialization Officer", and who shall report directly to, and be appointed by, the Secretary.
+
+  * #### (B) Principal advisor
+    * The Chief Commercialization Officer shall be the principal advisor to the Secretary on all matters relating to technology transfer and commercialization.
+
+  * #### (C) Qualifications
+    * The Chief Commercialization Officer shall be an individual who, by reason of professional background and experience, is specially qualified to advise the Secretary on matters pertaining to technology transfer at the Department.
+
+  * #### (D) Duties
+    * The Chief Commercialization Officer shall oversee—
+
+      * (i) the activities of the Technology Transfer Working Group established under subsection (b);
+
+      * (ii) the expenditure of funds allocated for technology transfer within the Department;
+
+      * (iii) the activities of each technology partnership ombudsman appointed under section 7261c of this title; and
+
+      * (iv) efforts to engage private sector entities, including venture capital companies.
+
+* #### (5) Coordination
+  * In carrying out the mission and activities of the Office, the Chief Commercialization Officer shall coordinate with the senior leadership of the Department, other relevant program offices of the Department, National Laboratories, the Technology Transfer Working Group established under subsection (b), the Technology Transfer Policy Board, and other stakeholders (including private industry).
+
+#### (b) Technology Transfer Working Group
 * The Secretary shall establish a Technology Transfer Working Group, which shall consist of representatives of the National Laboratories and single-purpose research facilities, to—
 
   * (1) coordinate technology transfer activities occurring at National Laboratories and single-purpose research facilities;
@@ -27,21 +64,82 @@
 
   * (3) develop and disseminate to the public and prospective technology partners information about opportunities and procedures for technology transfer with the Department, including opportunities and procedures related to alternative approaches to resolution of disputes involving intellectual property rights and other technology transfer matters.
 
-#### (e) Technology Commercialization Fund
+#### (c) Technology Commercialization Fund
 * The Secretary shall establish an Energy Technology Commercialization Fund, using 0.9 percent of the amount made available to the Department for applied energy research, development, demonstration, and commercial application for each fiscal year based on future planned activities and the amount of the appropriations for the fiscal year, to be used to provide matching funds with private partners to promote promising energy technologies for commercial purposes.
 
-#### (f) Technology transfer responsibility
+#### (d) Technology transfer responsibility
 * Nothing in this section affects the technology transfer responsibilities of Federal employees under the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3701 et seq.).
 
-#### (g) Early stage technology demonstration
-* The Secretary shall permit the directors of the National Laboratories to use funds authorized to support technology transfer within the Department to carry out early stage and precommercial technology demonstration activities to remove technology barriers that limit private sector interest and demonstrate potential commercial applications of any research and technologies arising from National Laboratory activities.
+#### (e) Technology Commercialization Fund
+* #### (1) Establishment
+  * The Secretary, acting through the Chief Commercialization Officer established in subsection (a), shall establish a Technology Commercialization Fund (hereafter referred to as the "Fund"), using nine-tenths of one percent of the amount of appropriations made available to the Department for applied energy research, development, demonstration, and commercial application for each fiscal year, to be used to provide, in accordance with the cost-sharing requirements under section 16352 of this title, funds to private partners, including national laboratories, to promote promising energy technologies for commercial purposes.
 
-#### (h) Planning and reporting
+* #### (2) Applications
+  * #### (A) Considerations
+    * The Secretary shall develop criteria for evaluating applications for funding under this section, which may include—
+
+      * (i) the potential that a proposed technology will result in a commercially successful product within a reasonable timeframe; and
+
+      * (ii) the relative maturity of a proposed technology for commercial application.
+
+  * #### (B) Selections
+    * In awarding funds under this section, the Secretary may give special consideration to applications that involve at least one applicant that has participated in an entrepreneurial or commercialization training program, such as Energy Innovation Corps.
+
+#### (f) Annual report
+* The Secretary shall include in the annual report required under section 16391a(a) of this title—
+
+  * (1) description of the projects carried out with awards from the Fund for that fiscal year;
+
+  * (2) each project's cost-share for that fiscal year; and
+
+  * (3) each project's partners for that fiscal year.
+
+#### (g) Technology commercialization fund report
+* #### (1) In general
+  * Not later than 1 year after December 27, 2020, the Secretary shall submit to the Committee on Science, Space, and Technology and Committee on Appropriations of the House of Representatives and the Committee on Energy and Natural Resources and Committee on Appropriations of the Senate a report on the current and recommended implementation of the Fund.
+
+* #### (2) Contents
+  * The report under subparagraph (A) shall include—
+
+    * (A) a summary, with supporting data, of how much Department program offices contribute to and use the Fund each year, including a list of current funding restrictions;
+
+    * (B) recommendations on how to improve implementation and administration of the Fund; and
+
+    * (C) an analysis on how to spend funds optimally on technology areas that have the greatest need and opportunity for commercial application, rather than spending funds at the programmatic level or under current funding restrictions.
+
+#### (f) Planning and reporting
 * #### (1) In general
   * Not later than 180 days after August 8, 2005, the Secretary shall submit to Congress a technology transfer execution plan.
 
 * #### (2) Updates
-  * Each year after the submission of the plan under paragraph (1), the Secretary shall submit to Congress an updated execution plan and reports that describe progress toward meeting goals set forth in the execution plan and the funds expended under subsection (e).
+  * Each year after the submission of the plan under paragraph (1), the Secretary shall submit to Congress an updated execution plan and reports that describe progress toward meeting goals set forth in the execution plan and the funds expended under subsection (c).
+
+#### (g) Additional technology transfer programs
+* The Secretary may develop additional programs to—
+
+  * (1) support regional energy innovation systems;
+
+  * (2) support clean energy incubators;
+
+  * (3) provide small business vouchers;
+
+  * (4) provide financial and technical assistance for entrepreneurial fellowships at national laboratories;
+
+  * (5) encourage students, energy researchers, and national laboratory employees to develop entrepreneurial skillsets and engage in entrepreneurial opportunities;
+
+  * (6) support private companies and individuals in partnering with National Laboratories; and
+
+  * (7) further support the mission and goals of the Office.
+
+### §16391a. Technology transfer reports and evaluation
+#### (a) Annual report
+* As part of the updated technology transfer execution plan required each year under section 16391(h)(2) of this title, the Secretary of Energy (in this section referred to as the "Secretary") shall submit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report on the progress and implementation of programs established under sections 9001, 9002, 9003, 9004, and 9005 of this Act.
+
+#### (b) Evaluation
+* Not later than 3 years after December 27, 2020, and every 3 years thereafter the Secretary shall submit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate an evaluation on the extent to which programs established under sections 9001, 9002, 9003, 9004, and 9005 of this Act are achieving success based on relevant short-term and long-term metrics.
+
+#### (c) Report on technology transfer gaps
+* Not later than 3 years after December 27, 2020, the Secretary shall enter into an agreement with the National Academies of Science, Engineering, and Medicine to submit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report on programmatic gaps that exist to advance the commercial application of technologies developed at the National Laboratories (as defined in section 15801(3) of this title).
 
 ### §16392. Technology Infrastructure Program
 #### (a) Definitions
@@ -213,14 +311,25 @@
 #### (d) Relationship to other authority
 * The program under subsection (a) may be carried out in conjunction with or in addition to the exercise of any other authority of the Secretary to acquire, support, or stimulate research, development, demonstration, or commercial application projects.
 
-#### (e) Authorization of appropriations
+#### (e) Coordination
+* In carrying out subsection (a), and for any prize competitions under section 105 of the America Creating Opportunities to Meaningfully Promote Excellence in Technology, Education, and Science Reauthorization Act of 2010, the Secretary shall—
+
+  * (1) issue Department-wide guidance on the design, development, and implementation of prize competitions;
+
+  * (2) collect and disseminate best practices on the design and administration of prize competitions;
+
+  * (3) streamline contracting mechanisms for the implementation of prize competitions; and
+
+  * (4) provide training and prize competition design support, as necessary, to Department staff to develop prize competitions and challenges.
+
+#### (f) Authorization of appropriations
 * There are authorized to be appropriated—
 
   * (1) $10,000,000 to carry out the program under subsection (a); and
 
   * (2) $5,000,000 to carry out the program under subsection (c).
 
-#### (f) H-prize
+#### (g) H-prize
 * #### (1) Prize authority
   * #### (A) In general
     * As part of the program under this section, the Secretary shall carry out a program to competitively award cash prizes in conformity with this subsection to advance the research, development, demonstration, and commercial application of hydrogen energy technologies.

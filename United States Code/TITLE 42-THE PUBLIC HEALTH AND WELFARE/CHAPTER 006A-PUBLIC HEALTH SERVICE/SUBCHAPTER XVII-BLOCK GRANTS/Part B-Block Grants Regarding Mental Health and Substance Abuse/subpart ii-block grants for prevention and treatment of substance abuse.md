@@ -256,9 +256,6 @@
 #### (e) Technical assistance
 * The Secretary shall provide technical assistance to States related to the activities required under this section.
 
-### §300x–26a. Pub. L. 116–94, div. N, title I, §604(c), Dec. 20, 2019, 133 Stat. 3127
-* Section, Pub. L. 111–117, div. D, title II, §212, Dec. 16, 2009, 123 Stat. 3257, related to withholding of substance abuse funding under section 300x–26 of this title.
-
 ### §300x–27. Treatment services for pregnant women
 #### (a) In general
 * A funding agreement for a grant under section 300x–21 of this title is that the State involved—

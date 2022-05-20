@@ -95,7 +95,7 @@
 
 #### (e) Implementation
 * #### (1) Starting date
-  * The demonstration program shall begin no later than January 1, 2012. Agreements with an independence at home medical practice under the demonstration program may cover not more than a 7-year period.
+  * The demonstration program shall begin no later than January 1, 2012. Agreements with an independence at home medical practice under the demonstration program may cover not more than a 10-year period.
 
 * #### (2) No physician duplication in demonstration participation
   * The Secretary shall not pay an independence at home medical practice under this section that participates in section 1395jjj of this title.
@@ -113,7 +113,7 @@
     * (C) use electronic medical records, health information technology, and individualized plans of care.
 
 * #### (5) Limitation on number of practices
-  * In selecting qualified independence at home medical practices to participate under the demonstration program, the Secretary shall limit the number of such practices so that the number of applicable beneficiaries that may participate in the demonstration program does not exceed 15,000. An applicable beneficiary that participates in the demonstration program by reason of the increase from 10,000 to 15,000 in the preceding sentence pursuant to the amendment made by section 50301(a)(1)(B)(i) of the Advancing Chronic Care, Extenders, and Social Services Act shall be considered in the spending target estimates under paragraph (1) of subsection (c) and the incentive payment calculations under paragraph (2) of such subsection for the sixth and seventh years of such program.
+  * In selecting qualified independence at home medical practices to participate under the demonstration program, the Secretary shall limit the number of such practices so that the number of applicable beneficiaries that may participate in the demonstration program does not exceed 20,000. An applicable beneficiary that participates in the demonstration program by reason of the increase from 10,000 to 15,000 in the preceding sentence pursuant to the amendment made by section 50301(a)(1)(B)(i) of the Advancing Chronic Care, Extenders, and Social Services Act shall be considered in the spending target estimates under paragraph (1) of subsection (c) and the incentive payment calculations under paragraph (2) of such subsection for the sixth through tenth years of such program. An applicable beneficiary that participates in the demonstration program by reason of the increase from 15,000 to 20,000 in the first sentence of this paragraph pursuant to the amendment made by section 105 of division CC of the Consolidated Appropriations Act, 2021 shall be considered in the spending target estimates under paragraph (1) of subsection (c) and the incentive payment calculations under paragraph (2) of such subsection for the eighth through tenth years of such program.
 
 * #### (6) Waiver
   * The Secretary may waive such provisions of this subchapter and subchapter XI as the Secretary determines necessary in order to implement the demonstration program.
@@ -132,7 +132,7 @@
 * The Secretary shall conduct an independent evaluation of the demonstration program and submit to Congress a final report, including best practices under the demonstration program, including, to the extent practicable, with respect to the use of electronic health information systems, as described in subsection (b)(1)(A)(vi). Such report shall include an analysis of the demonstration program on coordination of care, expenditures under this subchapter, applicable beneficiary access to services, and the quality of health care services provided to applicable beneficiaries.
 
 #### (h) Funding
-* For purposes of administering and carrying out the demonstration program, other than for payments for items and services furnished under this subchapter and incentive payments under subsection (c), in addition to funds otherwise appropriated, there shall be transferred to the Secretary for the Center for Medicare & Medicaid Services Program Management Account from the Federal Hospital Insurance Trust Fund under section 1395i of this title and the Federal Supplementary Medical Insurance Trust Fund under section 1395t of this title (in proportions determined appropriate by the Secretary) $5,000,000 for each of fiscal years 2010 through 2015. Amounts transferred under this subsection for a fiscal year shall be available until expended.
+* For purposes of administering and carrying out the demonstration program, other than for payments for items and services furnished under this subchapter and incentive payments under subsection (c), in addition to funds otherwise appropriated, there shall be transferred to the Secretary for the Center for Medicare & Medicaid Services Program Management Account from the Federal Hospital Insurance Trust Fund under section 1395i of this title and the Federal Supplementary Medical Insurance Trust Fund under section 1395t of this title (in proportions determined appropriate by the Secretary) $5,000,000 for each of fiscal years 2010 through 2015 and $9,000,000 for fiscal year 2021. Amounts transferred under this subsection for a fiscal year shall be available until expended.
 
 #### (i) Termination
 * #### (1) Mandatory termination

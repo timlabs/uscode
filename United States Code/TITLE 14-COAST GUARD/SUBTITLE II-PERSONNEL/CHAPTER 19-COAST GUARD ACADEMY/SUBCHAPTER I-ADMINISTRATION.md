@@ -14,9 +14,9 @@
 
   * (3) Procedures that cadets and other Academy personnel should follow in the case of an occurrence of sexual harassment or sexual violence, including—
 
-    * (A) if the victim chooses to report an occurrence of sexual harassment or sexual violence, a specification of the person or persons to whom the alleged offense should be reported and options for confidential reporting, including written information to be given to victims that explains how the Coast Guard and the Academy will protect the confidentiality of victims;
+    * (A) if the victim chooses to report an occurrence of sexual harassment or sexual violence, a specification of the individual or individuals to whom the alleged offense should be reported and options for confidential reporting, including written information to be given to victims that explains how the Coast Guard and the Academy will protect the confidentiality of victims;
 
-    * (B) a specification of any other person whom the victim should contact; and
+    * (B) a specification of any other individual whom the victim should contact; and
 
     * (C) procedures on the preservation of evidence potentially necessary for proof of criminal sexual assault.
 
@@ -120,15 +120,17 @@
 
   * (1) the state of morale and discipline;
 
-  * (2) the curriculum;
+  * (2) recruitment and retention, including diversity, inclusion, and issues regarding women specifically;
 
-  * (3) instruction;
+  * (3) the curriculum;
 
-  * (4) physical equipment;
+  * (4) instruction;
 
-  * (5) fiscal affairs; and
+  * (5) physical equipment;
 
-  * (6) other matters relating to the Academy that the Board determines appropriate.
+  * (6) fiscal affairs; and
+
+  * (7) other matters relating to the Academy that the Board determines appropriate.
 
 
 * (e) REPORT.—Not later than 60 days after the date of an annual visit of the Board under subsection (c)(1), the Board shall submit to the Secretary, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Transportation and Infrastructure of the House of Representatives a report on the actions of the Board during such visit and the recommendations of the Board pertaining to the Academy.
@@ -137,7 +139,39 @@
 
 * (g) REIMBURSEMENT.—Each member of the Board and each adviser consulted by the Board under subsection (f) shall be reimbursed, to the extent permitted by law, by the Coast Guard for actual expenses incurred while engaged in duties as a member or adviser.
 
-### §1904. Participation in Federal, State, or other educational research grants
+### §1904. Advisory Board on Women at the Coast Guard Academy
+* (a) IN GENERAL.—The Superintendent of the Academy shall establish at the Coast Guard Academy an advisory board to be known as the Advisory Board on Women at the Coast Guard Academy (referred to in this section as the "Advisory Board").
+
+* (b) MEMBERSHIP.—The Advisory Board shall be composed of not fewer than 12 current cadets of the Coast Guard Academy, including not fewer than 3 cadets from each current class.
+
+* (c) APPOINTMENT; TERM.—Cadets shall serve on the Advisory Board pursuant to appointment by the Superintendent of the Academy. Appointments shall be made not later than 60 days after the date of the swearing in of a new class of cadets at the Academy. The term of membership of a cadet on the Advisory Board shall be 1 academic year.
+
+* (d) REAPPOINTMENT.—The Superintendent of the Academy may reappoint not more than 6 cadets from the previous term to serve on the Advisory Board for an additional academic year if the Superintendent of the Academy determines such reappointment to be in the best interests of the Coast Guard Academy.
+
+* (e) MEETINGS.—The Advisory Board shall meet with the Commandant at least once each academic year on the activities of the Advisory Board. The Advisory Board shall meet in person with the Superintendent of the Academy not less than twice each academic year on the duties of the Advisory Board.
+
+* (f) DUTIES.—The Advisory Board shall identify opportunities and challenges facing cadets at the Academy who are women, including an assessment of culture, leadership development, and access to health care of cadets at the Academy who are women.
+
+* (g) WORKING GROUPS.—The Advisory Board may establish one or more working groups to assist the Advisory Board in carrying out its duties, including working groups composed in part of cadets at the Academy who are not current members of the Advisory Board.
+
+* (h) REPORTS AND BRIEFINGS.—The Advisory Board shall regularly provide the Commandant and the Superintendent reports and briefings on the results of its duties, including recommendations for actions to be taken in light of such results. Such reports and briefings may be provided in writing, in person, or both.
+
+### §1905. Coast Guard Academy minority outreach team program
+* (a) IN GENERAL.—There is established within the Coast Guard Academy a minority outreach team program (in this section referred to as the "Program" ) under which officers, including minority officers and officers from territories and other possessions of the United States, who are Academy graduates may volunteer their time to recruit minority students and strengthen cadet retention through mentorship of cadets.
+
+* (b) ADMINISTRATION.—Not later than January 1, 2021, the Commandant, in consultation with Program volunteers and Academy alumni that participated in prior programs at the Academy similar to the Program, shall appoint a permanent civilian position at the Academy to administer the Program by, among other things—
+
+  * (1) overseeing administration of the Program;
+
+  * (2) serving as a resource to volunteers and outside stakeholders;
+
+  * (3) advising Academy leadership on recruitment and retention efforts based on recommendations from volunteers and outside stakeholders;
+
+  * (4) establishing strategic goals and performance metrics for the Program with input from active volunteers and Academy leadership; and
+
+  * (5) reporting annually to the Commandant on academic year and performance outcomes of the goals for the Program before the end of each academic year.
+
+### §1906. Participation in Federal, State, or other educational research grants
 * (a) IN GENERAL.—Notwithstanding any other provision of law, the United States Coast Guard Academy may compete for and accept Federal, State, or other educational research grants, subject to the following limitations:
 
   * (1) No award may be accepted for the acquisition or construction of facilities.

@@ -17,7 +17,7 @@
 
     * (I) there is a reasonable expectation that at least two eligible Program Participants will submit offers and that award can be made at a fair market price, and
 
-    * (II) the anticipated award price of the contract (including options) will exceed $5,000,000 in the case of a contract opportunity assigned a standard industrial classification code for manufacturing and $3,000,000 (including options) in the case of all other contract opportunities.
+    * (II) the anticipated award price of the contract (including options) will exceed $7,000,000 in the case of a contract opportunity assigned a standard industrial classification code for manufacturing and $3,000,000 (including options) in the case of all other contract opportunities.
 
 
   * (ii) The Associate Administrator for Minority Small Business and Capital Ownership Development, on a nondelegable basis, is authorized to approve a request from an agency to award a contract opportunity under this subsection on the basis of a competition restricted to eligible Program Participants even if the anticipated award price is not expected to exceed the dollar amounts specified in clause (i)(II). Such approvals shall be granted only on a limited basis.
@@ -457,7 +457,7 @@
 
   * "(G) In this contract, the term 'qualified HUBZone small business concern' has the meaning given that term in section 31(b).
 
-  * "(H) In this contract, the term 'small business concern owned and controlled by service-disabled veterans' has the meaning given that term in section 632(q) of this title."
+  * "(H) In this contract, the term 'small business concern owned and controlled by service-disabled veterans' has the meaning given that term in section 3(q)."
 
 
 * (4)(A) Each solicitation of an offer for a contract to be let by a Federal agency which is to be awarded pursuant to the negotiated method of procurement and which may exceed $1,000,000, in the case of a contract for the construction of any public facility, or $500,000, in the case of all other contracts, shall contain a clause notifying potential offering companies of the provisions of this subsection relating to contracts awarded pursuant to the negotiated method of procurement.
@@ -639,56 +639,7 @@
   * (C) RULE OF CONSTRUCTION.—Nothing in this paragraph shall be construed to allow a Federal agency to establish a goal for an number of subcontracts with a subcontractor at any tier for a prime contractor otherwise eligible to receive credit under this paragraph.
 
 
-* (17) PILOT PROGRAM PROVIDING PAST PERFORMANCE RATINGS FOR OTHER SMALL BUSINESS SUBCONTRACTORS.—
-
-  * (A) ESTABLISHMENT.—The Administrator shall establish a pilot program for a small business concern without a past performance rating as a prime contractor performing as a first tier subcontractor for a covered contract (as defined in paragraph (13)(A)) to request a past performance rating in the system used by the Federal Government to monitor or record contractor past performance.
-
-  * (B) APPLICATION.—A small business concern described in subparagraph (A) shall submit an application to the appropriate official for a past performance rating no later than 270 days after the small business concern completed the work for which it seeks a past performance rating or 180 days after the prime contractor completes work on the covered contract, whichever is earlier. Such application shall include written evidence of the past performance factors for which the small business concern seeks a rating and a suggested rating.
-
-  * (C) DETERMINATION.—The appropriate official shall submit the application from the small business concern to the Office of Small and Disadvantaged Business Utilization for the covered contract and to the prime contractor for review. The Office of Small and Disadvantaged Business Utilization and the prime contractor shall, not later than 30 days after receipt of the application, submit to the appropriate official a response regarding the application.
-
-    * (i) AGREEMENT ON RATING.—If the Office of Small and Disadvantaged Business Utilization and the prime contractor agree on a past performance rating, or if either the Office of Small and Disadvantaged Business Utilization or the prime contractor fail to respond and the responding person agrees with the rating of the applicant small business concern, the appropriate official shall enter the agreed-upon past performance rating in the system described in subparagraph (A).
-
-    * (ii) DISAGREEMENT ON RATING.—If the Office of Small and Disadvantaged Business Utilization and the prime contractor fail to respond within 30 days or if they disagree about the rating, or if either the Office of Small and Disadvantaged Business Utilization or the prime contractor fail to respond and the responding person disagrees with the rating of the applicant small business concern, the Office of Small and Disadvantaged Business Utilization or the prime contractor shall submit a notice contesting the application to the appropriate official. The appropriate official shall follow the requirements of subparagraph (D).
-
-
-  * (D) PROCEDURE FOR RATING.—Not later than 14 calendar days after receipt of a notice under subparagraph (C)(ii), the appropriate official shall submit such notice to the applicant small business concern. Such concern may submit comments, rebuttals, or additional information relating to the past performance of such concern not later 14 calendar days after receipt of such notice. The appropriate official shall enter into the system described in subparagraph (A) a rating that is neither favorable nor unfavorable along with the initial application from such concern, any responses of the Office of Small and Disadvantaged Business Utilization and the prime contractor, and any additional information provided by such concern. A copy of the information submitted shall be provided to the contracting officer (or designee of such officer) for the covered contract.
-
-  * (E) USE OF INFORMATION.—A small business subcontractor may use a past performance rating given under this paragraph to establish its past performance for a prime contract.
-
-  * (F) DURATION.—The pilot program established under this paragraph shall terminate 3 years after the date on which the first applicant small business concern receives a past performance rating for performance as a first tier subcontractor.
-
-  * (G) REPORT.—The Comptroller General of the United States shall begin an assessment of the pilot program 1 year after the establishment of such program. Not later than 6 months after beginning such assessment, the Comptroller General shall submit a report to the Committee on Small Business and Entrepreneurship of the Senate and the Committee on Small Business of the House of Representatives, which shall include—
-
-    * (i) the number of small business concerns and, set forth separately, the number of small business exporters, that have received past performance ratings under the pilot program;
-
-    * (ii) the number of applications, set forth separately by applications from small business concerns and from small business exporters, in which the contracting officer (or designee) or the prime contractor contested the application of the small business concern;
-
-    * (iii) any suggestions or recommendations the Comptroller General or the small business concerns participating in the program have to address disputes between the small business concern, the contracting officer (or designee), and the prime contractor on past performance ratings;
-
-    * (iv) the number of small business concerns awarded prime contracts after receiving a past performance rating under this pilot program; and
-
-    * (v) any suggestions or recommendation the Comptroller General has to improve the operation of the pilot program.
-
-
-  * (H) DEFINITIONS.—In this paragraph—
-
-    * (i) the term "appropriate official" means—
-
-      * (I) a commercial market representative;
-
-      * (II) another individual designated by the senior official appointed by the Administrator with responsibilities under sections 637, 644, 657a, and 657f of this title; or
-
-      * (III) the Office of Small and Disadvantaged Business Utilization of a Federal agency, if the head of the Federal agency and the Administrator agree;
-
-
-    * (ii) the term "defense item" has the meaning given that term in section 2778(j)(4)(A) of title 22;
-
-    * (iii) the term "major non-NATO ally" means a country designated as a major non-NATO ally under section 2321k of title 22;
-
-    * (iv) the term "past performance" includes performance of a contract for a sale of defense items (under section 2778 of title 22) to the government of a member nation of North Atlantic Treaty Organization, the government of a major non-NATO ally, or the government of a country with which the United States has a defense cooperation agreement (as certified by the Secretary of State); and
-
-    * (v) the term "small business exporter" means a small business concern that exports defense items under section 2778 of title 22 to the government of a member nation of the North Atlantic Treaty Organization, the government of a major non-NATO ally, or the government of a country with which the United States has a defense cooperation agreement (as certified by the Secretary of State).
+* (17) PAST PERFORMANCE RATINGS FOR CERTAIN SMALL BUSINESS SUBCONTRACTORS.—Upon request by a small business concern that performed as a first tier subcontractor on a covered contract (as defined in paragraph (13)(A)), the prime contractor for such covered contract shall submit to such small business concern a record of past performance for such small business concern with respect to such covered contract. If a small business concern elects to use such record of past performance, a contracting officer shall consider such record of past performance when evaluating an offer for a prime contract made by such small business concern.
 
 #### (e) Covered executive agency activities; procurement notice; publication; time limitations
 * (1) Except as provided in subsection (g)—
@@ -897,7 +848,7 @@
 
     * (B) the anticipated award price of the contract (including options) will not exceed—
 
-      * (i) $6,500,000, in the case of a contract opportunity assigned a standard industrial classification code for manufacturing; or
+      * (i) $7,000,000, in the case of a contract opportunity assigned a standard industrial classification code for manufacturing; or
 
       * (ii) $4,000,000, in the case of any other contract opportunity; and
 
@@ -911,7 +862,7 @@
 
     * (B) the anticipated award price of the contract (including options) will not exceed—
 
-      * (i) $6,500,000, in the case of a contract opportunity assigned a standard industrial classification code for manufacturing; or
+      * (i) $7,000,000, in the case of a contract opportunity assigned a standard industrial classification code for manufacturing; or
 
       * (ii) $4,000,000, in the case of any other contract opportunity; and
 

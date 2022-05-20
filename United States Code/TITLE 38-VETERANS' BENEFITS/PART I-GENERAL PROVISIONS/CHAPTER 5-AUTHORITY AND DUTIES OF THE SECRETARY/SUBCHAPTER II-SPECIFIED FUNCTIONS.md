@@ -91,7 +91,12 @@
 
 * (f) COORDINATION.—The Secretary shall ensure access to and use of appropriate Department sports, recreation, and fitness facilities by disabled veterans and disabled members of the Armed Forces participating in adapted sports opportunities funded under this section to the maximum extent possible. The Secretary shall ensure that such access does not adversely affect any other assistance provided to veterans.
 
-* (g) AUTHORIZATION OF APPROPRIATIONS.—(1) There is authorized to be appropriated $8,000,000 for each of fiscal years 2010 through 2020.
+* (g) AUTHORIZATION OF APPROPRIATIONS.—(1) There is authorized to be appropriated amounts as follows:
+
+  * (A) $8,000,000 for each of fiscal years 2010 through 2020. for each of fiscal years 2010 through 2020.
+
+  * (B) $16,000,000 for each of fiscal years 2021 and 2022.
+
 
 * (2) Amounts appropriated pursuant to this subsection shall remain available without fiscal year limitation.
 
@@ -107,7 +112,7 @@
 
 * (k) ANNUAL REPORT TO CONGRESS.—For any fiscal year during which the Secretary provides assistance under this section, the Secretary shall submit to Congress a report on the use of funds provided under this section.
 
-* (l) TERMINATION.—The Secretary may only provide assistance under this section for adaptive sports opportunities occurring during fiscal years 2010 through 2020.
+* (l) TERMINATION.—The Secretary may only provide assistance under this section for adaptive sports opportunities occurring during fiscal years 2010 through 2022.
 
 ### §522. Studies of rehabilitation of disabled persons
 * (a) The Secretary may conduct studies and investigations, and prepare reports, relative to the rehabilitation of disabled persons, the relative abilities, aptitudes, and capacities of the several groups of the variously handicapped, and how their potentialities can best be developed and their services best used in gainful and suitable employment including the rehabilitation programs of foreign nations.
@@ -169,3 +174,105 @@
   * (A) categories and sectors of businesses eligible for recognition each year; and
 
   * (B) objective measures to be used in selecting businesses to receive the award.
+
+### §533. Anti-harassment and anti-sexual assault policy
+* (a) ESTABLISHMENT.—(1) The Secretary, acting through the Office of Assault and Prevention of the Veterans Health Administration, shall establish a comprehensive policy to end harassment and sexual assault, including sexual harassment and gender-based harassment, throughout the Department.
+
+* (2) The policy required by paragraph (1) shall include the following:
+
+  * (A) A process for employees and contractors of the Department to respond to reported incidents of harassment and sexual assault committed by any non-Department individual within a facility of the Department, including with respect to accountability or disciplinary measures.
+
+  * (B) A process for employees and contractors of the Department to respond to reported incidents of harassment and sexual assault of any non-Department individual within a facility of the Department.
+
+  * (C) A process for any non-Department individual to report harassment and sexual assault described in subparagraph (A), including an option for confidential reporting, and for the Secretary to respond to and address such reports.
+
+  * (D) Clear mechanisms for non-Department individuals to readily identify to whom and how to report incidents of harassment and sexual assault committed by another non-Department individual.
+
+  * (E) Clear mechanisms for employees and contractors of the Department to readily identify to whom and how to report incidents of harassment and sexual assault and how to refer non-Department individuals with respect to reporting an incident of harassment or sexual assault.
+
+  * (F) A process for, and mandatory reporting requirement applicable to, any employee or contractor of the Department who witnesses harassment or sexual assault described in subparagraph (A) or (B) within a facility of the Department, regardless of whether the individual affected by such harassment or sexual assault wants to report such harassment or sexual assault.
+
+  * (G) The actions possible, including disciplinary actions, for employees or contractors of the Department who fail to report incidents of harassment and sexual assault described in subparagraph (A) or (B) that the employees or contractors witness.
+
+  * (H) On an annual or more frequent basis, mandatory training for employees and contractors of the Department regarding how to report and address harassment and sexual assault described in subparagraphs (A) and (B), including bystander intervention training.
+
+  * (I) On an annual or more frequent basis, the distribution of the policy under this subsection and anti-harassment and anti-sexual assault educational materials by mail or email to each individual receiving a benefit under a law administered by the Secretary.
+
+  * (J) The prominent display of anti-harassment and anti-sexual assault messages in each facility of the Department, including how non-Department individuals may report harassment and sexual assault described in subparagraphs (A) and (B) at such facility and the points of contact under subsection (b).
+
+  * (K) The posting on internet websites of the Department, including the main internet website regarding benefits of the Department and the main internet website regarding health care of the Department, of anti-harassment and anti-sexual assault banners specifically addressing harassment and sexual assault described in subparagraphs (A) and (B).
+
+
+* (b) POINTS OF CONTACT.—The Secretary shall designate, as a point of contact to receive reports of harassment and sexual assault described in subparagraphs (A) and (B) of subsection (a)(2)—
+
+  * (1) at least one individual, in addition to law enforcement, at each facility of the Department (including Vet Centers under section 1712A of this title), with regard to that facility;
+
+  * (2) at least one individual employed in each Veterans Integrated Service Network, with regard to facilities in that Veterans Integrated Service Network;
+
+  * (3) at least one individual employed in each regional benefits office;
+
+  * (4) at least one individual employed at each location of the National Cemetery Administration; and
+
+  * (5) at least one individual employed at the Central Office of the Department to track reports of such harassment and sexual assault across the Department, disaggregated by facility.
+
+
+* (c) ACCOUNTABILITY.—(1) The Secretary shall establish a policy to ensure that each facility of the Department and each director of a Veterans Integrated Service Network is responsible for addressing harassment and sexual assault at the facility and the Network.
+
+* (2) The policy required by paragraph (1) shall include—
+
+  * (A) a remediation plan for facilities that experience five or more incidents of sexual harassment, sexual assault, or combination thereof, during any single fiscal year; and
+
+  * (B) taking appropriate actions under chapter 7 or subchapter V of chapter 74 of this title.
+
+
+* (d) DATA.—The Secretary shall ensure that the in-take process for veterans at medical facilities of the Department includes a survey to collect the following information:
+
+  * (1) Whether the veteran feels safe at the facility and whether any events occurred at the facility that affect such feeling.
+
+  * (2) Whether the veteran wants to be contacted later by the Department with respect to such safety issues.
+
+
+* (e) WORKING GROUP.—(1) The Secretary shall establish a working group to assist the Secretary in implementing policies to carry out this section.
+
+* (2) The working group established under paragraph (1) shall consist of representatives from—
+
+  * (A) veterans service organizations;
+
+  * (B) State, local, and Tribal veterans agencies; and
+
+  * (C) other persons the Secretary determines appropriate.
+
+
+* (3) The working group established under paragraph (1) shall develop, and the Secretary shall carry out—
+
+  * (A) an action plan for addressing changes at the local level to reduce instances of harassment and sexual assault;
+
+  * (B) standardized media for veterans service organizations and other persons to use in print and on the internet with respect to reducing harassment and sexual assault; and
+
+  * (C) bystander intervention training for veterans.
+
+
+* (4) The working group established under paragraph (1) shall not be subject to the requirements of the Federal Advisory Committee Act (5 U.S.C. App.).
+
+* (f) ANNUAL REPORTS.—(1) The Secretary shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives an annual report on harassment and sexual assault described in subparagraphs (A) and (B) of subsection (a)(2) in facilities of the Department.
+
+* (2) Each report submitted under paragraph (1) shall include the following:
+
+  * (A) Results of harassment and sexual assault programming, including the End Harassment program.
+
+  * (B) Results of studies from the Women's Health Practice-Based Research Network of the Department relating to harassment and sexual assault.
+
+  * (C) Data collected on incidents of sexual harassment and sexual assault.
+
+  * (D) A description of any actions taken by the Secretary during the year preceding the date of the report to stop harassment and sexual assault at facilities of the Department.
+
+  * (E) An assessment of the implementation of the training required in subsection (a)(2)(H).
+
+  * (F) A list of resources the Secretary determines necessary to prevent harassment and sexual assault at facilities of the Department.
+
+
+* (g) DEFINITIONS.—In this section:
+
+  * (1) The term "non-Department individual" means any individual present at a facility of the Department who is not an employee or contractor of the Department.
+
+  * (2) The term "sexual harassment" means unsolicited verbal or physical contact of a sexual nature which is threatening in character.

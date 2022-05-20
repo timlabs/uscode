@@ -136,15 +136,6 @@
 
   * (3) to provide exclusive criminal penalties or civil remedies with respect to the conduct prohibited by this action, or to preempt State or local laws that may provide such penalties or remedies.
 
-### §46. Transportation of water hyacinths
-* (a) Whoever knowingly delivers or receives for transportation, or transports, in interstate commerce, alligator grass (alternanthera philoxeroides), or water chestnut plants (trapa natans) or water hyacinth plants (eichhornia crassipes) or the seeds of such grass or plants; or
-
-* (b) Whoever knowingly sells, purchases, barters, exchanges, gives, or receives any grass, plant, or seed which has been transported in violation of subsection (a); or
-
-* (c) Whoever knowingly delivers or receives for transportation, or transports, in interstate commerce, an advertisement, to sell, purchase, barter, exchange, give, or receive alligator grass or water chestnut plants or water hyacinth plants or the seeds of such grass or plants—
-
-* Shall be fined under this title, or imprisoned not more than six months, or both.
-
 ### §47. Use of aircraft or motor vehicles to hunt certain wild horses or burros; pollution of watering holes
 * (a) Whoever uses an aircraft or a motor vehicle to hunt, for the purpose of capturing or killing, any wild unbranded horse, mare, colt, or burro running at large on any of the public land or ranges shall be fined under this title, or imprisoned not more than six months, or both.
 
@@ -229,7 +220,7 @@
     * (B) uses anesthesia produced by an agent that causes painless loss of consciousness and subsequent death.
 
 ### §49. Enforcement of animal fighting prohibitions
-* (a) IN GENERAL.—Whoever violates subsection (a)(1), (b), (c), or (e) of section 26 of the Animal Welfare Act shall be fined under this title, imprisoned for not more than 5 years, or both, for each violation.
+* (a) IN GENERAL.—Whoever violates subsection (a)(1), (b), (c), or (d) of section 26 of the Animal Welfare Act shall be fined under this title, imprisoned for not more than 5 years, or both, for each violation.
 
 * (b) ATTENDING AN ANIMAL FIGHTING VENTURE.—Whoever violates subsection (a)(2)(A) of section 26 of the Animal Welfare Act (7 U.S.C. 2156) shall be fined under this title, imprisoned for not more than 1 year, or both, for each violation.
 

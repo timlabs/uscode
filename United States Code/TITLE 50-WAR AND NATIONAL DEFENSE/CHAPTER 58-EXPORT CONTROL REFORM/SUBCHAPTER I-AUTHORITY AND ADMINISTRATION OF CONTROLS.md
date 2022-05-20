@@ -283,7 +283,7 @@
 
 ### §4816. Compliance assistance
 #### (a) System for seeking assistance
-* The President may authorize the Secretary to establish a system to provide United States persons with assistance in complying with this subchapter, which may include a mechanism for providing information, in classified form as appropriate, who are potential customers, suppliers, or business partners with respect to items controlled under this subchapter, in order to further ensure the prevention of the export, reexport, or in-country transfer of items that may pose a threat to the national security or foreign policy of the United States.
+* The President may authorize the Secretary to establish a system to provide United States persons with assistance in complying with this subchapter, which may include a mechanism for providing information, in classified form as appropriate, to persons who are potential customers, suppliers, or business partners with respect to items controlled under this subchapter, in order to further ensure the prevention of the export, reexport, or in-country transfer of items that may pose a threat to the national security or foreign policy of the United States.
 
 #### (b) Security clearances
 * In order to carry out subsection (a), the President may issue appropriate security clearances to persons described in that subsection who are responsible for complying with this subchapter.
@@ -446,7 +446,7 @@
 
   * (1) the scope of controls under title 15, Code of Federal Regulations, that apply to exports, reexports, and in-country transfers for military end uses and military end users in countries that are subject to a comprehensive United States arms embargo and countries that are subject to a United Nations arms embargo; and
 
-  * (2) entries on the Commerce Control List maintained under title 15, Code of Federal Regulations, that are not subject to a license requirement for the export, reexport, or in-country transfer of items to countries subject to a comprehensive United States arms embargo;
+  * (2) entries on the Commerce Control List maintained under title 15, Code of Federal Regulations, that are not subject to a license requirement for the export, reexport, or in-country transfer of items to countries subject to a comprehensive United States arms embargo.
 
 #### (b) Implementation of results of review
 * Not later than 270 days after August 13, 2018, the Secretary shall implement the results of the review conducted under subsection (a).
@@ -719,7 +719,7 @@
 * Not later than 180 days after August 13, 2018, the President shall submit to the appropriate congressional committees a report that contains the results of the review carried out under subsection (a).
 
 #### (c) Operating Committee for Export Policy
-* In any case in which the Operating Committee for Export Policy established by Executive Order 12981 (December 5, 1991; relating to Administration of Export Controls) is meeting to conduct an interagency dispute resolution relating to applications for export licenses under the Export Administration Regulations, matters relating to jet engine hot section technology, commercial communication satellites, and emerging or foundational technology may be decided by majority vote.
+* In any case in which the Operating Committee for Export Policy established by Executive Order 12981 (December 5, 1995; relating to Administration of Export Controls) is meeting to conduct an interagency dispute resolution relating to applications for export licenses under the Export Administration Regulations, matters relating to jet engine hot section technology, commercial communication satellites, and emerging or foundational technology may be decided by majority vote.
 
 #### (d) Appropriate congressional committees defined
 * In this section, the term "appropriate congressional committees" means—

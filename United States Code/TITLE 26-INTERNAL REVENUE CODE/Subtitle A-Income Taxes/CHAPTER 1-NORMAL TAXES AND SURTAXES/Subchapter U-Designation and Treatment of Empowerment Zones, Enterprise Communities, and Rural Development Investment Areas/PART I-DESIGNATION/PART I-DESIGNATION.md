@@ -18,7 +18,7 @@
 * #### (1) In general
   * Any designation under this section shall remain in effect during the period beginning on the date of the designation and ending on the earliest of—
 
-    * (A)(i) in the case of an empowerment zone, December 31, 2020, or
+    * (A)(i) in the case of an empowerment zone, December 31, 2025, or
 
     * (ii) in the case of an enterprise community, the close of the 10th calendar year beginning on or after such date of designation,
 

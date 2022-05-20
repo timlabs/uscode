@@ -152,7 +152,7 @@
 
   * (A) IN GENERAL.—Any financing approved under this subchapter may include a limited amount of debt refinancing.
 
-  * (B) EXPANSIONS.—If the project involves expansion of a small business concern, any amount of existing indebtedness that does not exceed 50 percent of the project cost of the expansion may be refinanced and added to the expansion cost, if—
+  * (B) EXPANSIONS.—If the project involves expansion of a small business concern, any amount of existing indebtedness that does not exceed 100 percent of the project cost of the expansion may be refinanced and added to the expansion cost, if—
 
     * (i) the proceeds of the indebtedness were used to acquire land, including a building situated thereon, to construct a building thereon, or to purchase equipment;
 
@@ -169,7 +169,70 @@
     * (vii) the financing under section 697a of this title will provide better terms or rate of interest than the existing indebtedness at the time of refinancing.
 
 
-  * (C) Repealed. Pub. L. 111–240, title I, §1122(b), Sept. 27, 2010, 124 Stat. 2512.
+  * (C) REFINANCING NOT INVOLVING EXPANSIONS.—
+
+    * (i) DEFINITIONS.—In this subparagraph—
+
+      * (I) the term "borrower" means a small business concern that submits an application to a development company for financing under this subparagraph;
+
+      * (II) the term "eligible fixed asset" means tangible property relating to which the Administrator may provide financing under this section; and
+
+      * (III) the term "qualified debt" means indebtedness—
+
+        * (aa) that was incurred not less than 6 months before the date of the application for assistance under this subparagraph;
+
+        * (bb) that is a commercial loan;
+
+        * (cc) the proceeds of which were used to acquire an eligible fixed asset;
+
+        * (dd) that was incurred for the benefit of the small business concern; and
+
+        * (ee) that is collateralized by eligible fixed assets.
+
+
+    * (ii) AUTHORITY.—A project that does not involve the expansion of a small business concern may include the refinancing of qualified debt if—
+
+      * (I) the amount of the financing is not more than 90 percent of the value of the collateral for the financing, except that, if the appraised value of the eligible fixed assets serving as collateral for the financing is less than the amount equal to 125 percent of the amount of the financing, the borrower may provide additional cash or other collateral to eliminate any deficiency;
+
+      * (II) the borrower has been in operation for all of the 2-year period ending on the date the loan application is submitted; and
+
+      * (III) for a financing for which the Administrator determines there will be an additional cost attributable to the refinancing of the qualified debt, the borrower agrees to pay a fee in an amount equal to the anticipated additional cost.
+
+
+    * (iii) FINANCING FOR BUSINESS EXPENSES.—
+
+      * (I) FINANCING FOR BUSINESS EXPENSES.—The Administrator may provide financing to a borrower that receives financing that includes a refinancing of qualified debt under clause (ii), in addition to the refinancing under clause (ii), to be used solely for the payment of business expenses.
+
+      * (II) APPLICATION FOR FINANCING.—An application for financing under subclause (I) shall include—
+
+        * (aa) a specific description of the expenses for which the additional financing is requested; and
+
+        * (bb) an itemization of the amount of each expense.
+
+
+      * (III) CONDITION ON ADDITIONAL FINANCING.—A borrower may not use any part of the financing under this clause for non-business purposes.
+
+
+    * (iv) LOANS BASED ON JOBS.—
+
+      * (I) JOB CREATION AND RETENTION GOALS.—
+
+        * (aa) IN GENERAL.—The Administrator may provide financing under this subparagraph for a borrower that meets the job creation goals under subsection (d) or (e) of section 695 of this title.
+
+        * (bb) ALTERNATE JOB RETENTION GOAL.—The Administrator may provide financing under this subparagraph to a borrower that does not meet the goals described in item (aa) in an amount that is not more than the product obtained by multiplying the number of employees of the borrower by $75,000.
+
+
+      * (II) NUMBER OF EMPLOYEES.—For purposes of subclause (I), the number of employees of a borrower is equal to the sum of—
+
+        * (aa) the number of full-time employees of the borrower on the date on which the borrower applies for a loan under this subparagraph; and
+
+        * (bb) the product obtained by multiplying—
+
+          * (AA) the number of part-time employees of the borrower on the date on which the borrower applies for a loan under this subparagraph, by
+
+          * (BB) the quotient obtained by dividing the average number of hours each part time employee of the borrower works each week by 40.
+
+    * (v) TOTAL AMOUNT OF LOANS.—The Administrator may provide not more than a total of $7,500,000,000 of financing under this subparagraph for each fiscal year.
 
 ### §697. Development company debentures
 #### (a) Guarantees; Administration authority; regulatory terms and conditions; full faith and credit; subordination of debentures
@@ -358,8 +421,31 @@
 * #### (2) Effect
   * A suspension or revocation under paragraph (1) shall not affect any outstanding debenture guarantee.
 
-#### (e) "Qualified State or local development company" defined
-* For purposes of this section, the term "qualified State or local development company" has the same meaning as in section 697(e) of this title.
+#### (e) Express loan authority
+* A local development company designated as an accredited lender in accordance with subsection (b)—
+
+  * (1) may—
+
+    * (A) approve, authorize, close, and service covered loans that are funded with proceeds of a debenture issued by the company; and
+
+    * (B) authorize the guarantee of a debenture described in subparagraph (A); and
+
+
+  * (2) with respect to a covered loan, shall be subject to final approval as to eligibility of any guarantee by the Administration pursuant to section 697(a) of this title, but such final approval shall not include review of decisions by the lender involving creditworthiness, loan closing, or compliance with legal requirements imposed by law or regulation.
+
+#### (f) Definitions
+* In this section—
+
+  * (1) the term "accredited lender certified company" means a certified development company that meets the requirements under subsection (b), including a certified development company that the Administration has designated as an accredited lender under that subsection;
+
+  * (2) the term "covered loan"—
+
+    * (A) means a loan made under section 696 of this title in an amount that is not more than $500,000; and
+
+    * (B) does not include a loan made to a borrower that is in an industry that has a high rate of default, as annually determined by the Administrator and reported in rules of the Administration; and
+
+
+  * (3) the term "qualified State or local development company" has the meaning given the term in section 697(e) of this title.
 
 ### §697e. Premier Certified Lenders Program
 #### (a) Establishment

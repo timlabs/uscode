@@ -109,7 +109,6 @@
 
   * (2) STAFF MEMBERS.—Staff members appointed under subsection (b) shall be compensated at a rate not more than the basic rate of pay payable for level 10 of GS–15 of the General Schedule.
 
-
   * (3) LOCALITY PAY.—All rates of pay referred to under this subsection shall include locality pay.
 
 

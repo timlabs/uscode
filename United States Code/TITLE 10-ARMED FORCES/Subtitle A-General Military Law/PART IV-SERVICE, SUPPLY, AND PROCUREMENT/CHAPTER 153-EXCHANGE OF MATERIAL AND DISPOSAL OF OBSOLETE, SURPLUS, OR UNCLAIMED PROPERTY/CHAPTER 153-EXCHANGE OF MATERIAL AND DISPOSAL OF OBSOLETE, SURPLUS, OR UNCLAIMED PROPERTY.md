@@ -102,7 +102,7 @@
 ### §2576a. Excess personal property: sale or donation for law enforcement activities
 * (a) TRANSFER AUTHORIZED.—(1) Notwithstanding any other provision of law and subject to subsection (b), the Secretary of Defense may transfer to Federal and State agencies personal property of the Department of Defense, including small arms and ammunition, that the Secretary determines is—
 
-  * (A) suitable for use by the agencies in law enforcement activities, including counterdrug, counterterrorism, and border security activities; and
+  * (A) suitable for use by the agencies in law enforcement activities, including counterdrug, counterterrorism, disaster-related emergency preparedness, and border security activities; and
 
   * (B) excess to the needs of the Department of Defense.
 
@@ -121,14 +121,25 @@
 
   * (5) the recipient, on an annual basis, and with the authorization of the relevant local governing body or authority, certifies that it has adopted publicly available protocols for the appropriate use of controlled property, the supervision of such use, and the evaluation of the effectiveness of such use, including auditing and accountability policies; and
 
-  * (6) after the completion of the assessment required by section 1051(e) of the National Defense Authorization Act for Fiscal Year 2016, the recipient, on an annual basis, certifies that it provides annual training to relevant personnel on the maintenance, sustainment, and appropriate use of controlled property.
+  * (6) after the completion of the assessment required by section 1051(e) of the National Defense Authorization Act for Fiscal Year 2016, the recipient, on an annual basis, certifies that it provides annual training to relevant personnel on the maintenance, sustainment, and appropriate use of controlled property, including respect for the rights of citizens under the Constitution of the United States and de-escalation of force.
 
 
 * (c) CONSIDERATION.—Subject to subsection (b)(4), the Secretary may transfer personal property under this section without charge to the recipient agency.
 
-* (d) PREFERENCE FOR CERTAIN TRANSFERS.—In considering applications for the transfer of personal property under this section, the Secretary shall give a preference to those applications indicating that the transferred property will be used in the counterdrug, counterterrorism, or border security activities of the recipient agency.
+* (d) PREFERENCE FOR CERTAIN TRANSFERS.—In considering applications for the transfer of personal property under this section, the Secretary shall give a preference to applications indicating that the transferred property will be used in the counterdrug, counterterrorism, disaster-related emergency preparedness, or border security activities of the recipient agency. Applications that request vehicles used for disaster-related emergency preparedness, such as high-water rescue vehicles, should receive the highest preference.
 
-* (e) PUBLICLY ACCESSIBLE WEBSITE.—(1) The Secretary shall create and maintain a publicly available Internet website that provides information on the controlled property transferred under this section and the recipients of such property.
+* (e) PROPERTY NOT TRANSFERRABLE.—The Secretary may not transfer to a Tribal, State, or local law enforcement agency under this section the following:
+
+  * (1) Bayonets.
+
+  * (2) Grenades (other than stun and flash-bang grenades).
+
+  * (3) Weaponized tracked combat vehicles.
+
+  * (4) Weaponized drones.
+
+
+* (f) PUBLICLY ACCESSIBLE WEBSITE.—(1) The Secretary shall create and maintain a publicly available Internet website that provides information on the controlled property transferred under this section and the recipients of such property.
 
 * (2) The contents of the Internet website required under paragraph (1) shall include all publicly accessible unclassified information pertaining to the request, transfer, denial, and repossession of controlled property under this section, including—
 
@@ -139,7 +150,7 @@
   * (C) all reports required to be submitted to the Secretary under this section by Federal and State agencies that receive controlled property under this section.
 
 
-* (f) CONTROLLED PROPERTY.—In this section, the term "controlled property" means any item assigned a demilitarization code of B, C, D, E, G, or Q under Department of Defense Manual 4160.21–M, "Defense Materiel Disposition Manual", or any successor document.
+* (g) CONTROLLED PROPERTY.—In this section, the term "controlled property" means any item assigned a demilitarization code of B, C, D, E, G, or Q under Department of Defense Manual 4160.21–M, "Defense Materiel Disposition Manual", or any successor document.
 
 ### §2576b. Excess personal property: sale or donation to assist firefighting agencies
 * (a) TRANSFER AUTHORIZED.—Subject to subsection (b), the Secretary of Defense shall transfer to a firefighting agency in a State any personal property of the Department of Defense that the Secretary determines is—
@@ -271,7 +282,7 @@
 
   * (2) for any other dog, transport the dog—
 
-    * (A) to the 341st Training Squadron;
+    * (A) to the 341st Training Squadron; or
 
     * (B) to another location within the United States for transfer or adoption under this section.
 

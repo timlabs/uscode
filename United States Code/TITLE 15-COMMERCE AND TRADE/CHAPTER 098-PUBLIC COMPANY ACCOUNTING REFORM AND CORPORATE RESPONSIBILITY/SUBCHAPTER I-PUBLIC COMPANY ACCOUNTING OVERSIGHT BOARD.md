@@ -288,6 +288,100 @@
 * #### (3) Timing
   * Review under paragraph (1) may be sought during the 30-day period following the date of the event giving rise to the review under subparagraph (A) or (B) of paragraph (1).
 
+#### (i) Disclosure Regarding Foreign Jurisdictions That Prevent Inspections
+* #### (1) Definitions
+  * In this subsection—
+
+    * (A) the term "covered issuer" means an issuer that is required to file reports under section 78m or 78o(d) of this title; and
+
+    * (B) the term "non-inspection year" means, with respect to a covered issuer, a year—
+
+      * (i) during which the Commission identifies the covered issuer under paragraph (2)(A) with respect to every report described in subparagraph (A) filed by the covered issuer during that year; and
+
+      * (ii) that begins after December 18, 2020.
+
+* #### (2) Disclosure to Commission
+  * The Commission shall—
+
+    * (A) identify each covered issuer that, with respect to the preparation of the audit report on the financial statement of the covered issuer that is included in a report described in paragraph (1)(A) filed by the covered issuer, retains a registered public accounting firm that has a branch or office that—
+
+      * (i) is located in a foreign jurisdiction; and
+
+      * (ii) the Board is unable to inspect or investigate completely because of a position taken by an authority in the foreign jurisdiction described in clause (i), as determined by the Board; and
+
+
+    * (B) require each covered issuer identified under subparagraph (A) to, in accordance with the rules issued by the Commission under paragraph (4), submit to the Commission documentation that establishes that the covered issuer is not owned or controlled by a governmental entity in the foreign jurisdiction described in subparagraph (A)(i).
+
+* #### (3) Trading prohibition after 3 years of non-inspections
+  * #### (A) In general
+    * If the Commission determines that a covered issuer has 3 consecutive non-inspection years, the Commission shall prohibit the securities of the covered issuer from being traded—
+
+      * (i) on a national securities exchange; or
+
+      * (ii) through any other method that is within the jurisdiction of the Commission to regulate, including through the method of trading that is commonly referred to as the "over-the-counter" trading of securities.
+
+  * #### (B) Removal of initial prohibition
+    * If, after the Commission imposes a prohibition on a covered issuer under subparagraph (A), the covered issuer certifies to the Commission that the covered issuer has retained a registered public accounting firm that the Board has inspected under this section to the satisfaction of the Commission, the Commission shall end that prohibition.
+
+  * #### (C) Recurrence of non-inspection years
+    * If, after the Commission ends a prohibition under subparagraph (B) or (D) with respect to a covered issuer, the Commission determines that the covered issuer has a non-inspection year, the Commission shall prohibit the securities of the covered issuer from being traded—
+
+      * (i) on a national securities exchange; or
+
+      * (ii) through any other method that is within the jurisdiction of the Commission to regulate, including through the method of trading that is commonly referred to as the "over-the-counter" trading of securities.
+
+  * #### (D) Removal of subsequent prohibition
+    * If, after the end of the 5-year period beginning on the date on which the Commission imposes a prohibition on a covered issuer under subparagraph (C), the covered issuer certifies to the Commission that the covered issuer will retain a registered public accounting firm that the Board is able to inspect under this section, the Commission shall end that prohibition.
+
+* #### (4) Rules
+  * Not later than 90 days after December 18, 2020, the Commission shall issue rules that establish the manner and form in which a covered issuer shall make a submission required under paragraph (2)(B).
+
+### §7214a. Additional disclosure
+#### (a) Definitions
+* In this section—
+
+  * (1) the term "audit report" has the meaning given the term in section 7201(a) of this title;
+
+  * (2) the term "Commission" means the Securities and Exchange Commission;
+
+  * (3) the term "covered form"—
+
+    * (A) means—
+
+      * (i) the form described in section 249.310 of title 17, Code of Federal Regulations, or any successor regulation; and
+
+      * (ii) the form described in section 249.220f of title 17, Code of Federal Regulations, or any successor regulation; and
+
+
+    * (B) includes a form that—
+
+      * (i) is the equivalent of, or substantially similar to, the form described in clause (i) or (ii) of subparagraph (A); and
+
+      * (ii) a foreign issuer files with the Commission under the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.) or rules issued under that Act;
+
+
+  * (4) the terms "covered issuer" and "non-inspection year" have the meanings given the terms in subsection (i)(1) of section 7214 of this title, as added by section 2 of this Act; and
+
+  * (5) the term "foreign issuer" has the meaning given the term in section 240.3b–4 of title 17, Code of Federal Regulations, or any successor regulation.
+
+#### (b) Requirement
+* Each covered issuer that is a foreign issuer and for which, during a non-inspection year with respect to the covered issuer, a registered public accounting firm described in subsection (i)(2)(A) of section 7214 of this title, as added by section 2 of this Act, has prepared an audit report shall disclose in each covered form filed by that issuer that covers such a non-inspection year—
+
+  * (1) that, during the period covered by the covered form, such a registered public accounting firm has prepared an audit report for the issuer;
+
+  * (2) the percentage of the shares of the issuer owned by governmental entities in the foreign jurisdiction in which the issuer is incorporated or otherwise organized;
+
+  * (3) whether governmental entities in the applicable foreign jurisdiction with respect to that registered public accounting firm have a controlling financial interest with respect to the issuer;
+
+  * (4) the name of each official of the Chinese Communist Party who is a member of the board of directors of—
+
+    * (A) the issuer; or
+
+    * (B) the operating entity with respect to the issuer; and
+
+
+  * (5) whether the articles of incorporation of the issuer (or equivalent organizing document) contains any charter of the Chinese Communist Party, including the text of any such charter.
+
 ### §7215. Investigations and disciplinary proceedings
 #### (a) In general
 * The Board shall establish, by rule, subject to the requirements of this section, fair procedures for the investigation and disciplining of registered public accounting firms and associated persons of such firms.

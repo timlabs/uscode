@@ -276,9 +276,6 @@
 #### (g) National Institute for Occupational Safety and Health Ombudsman
 * In carrying out the duties of the Ombudsman under this section, the Ombudsman shall work with the individual employed by the National Institute for Occupational Safety and Health to serve as an ombudsman to individuals making claims under part B.
 
-#### (h) Sunset
-* Effective October 28, 2020, this section shall have no further force or effect.
-
 ### §7385s–16. Advisory Board on Toxic Substances and Worker Health
 #### (a) Establishment
 * (1) Not later than 120 days after December 19, 2014, the President shall establish and appoint an Advisory Board on Toxic Substances and Worker Health (in this section referred to as the "Board").

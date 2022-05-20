@@ -78,7 +78,7 @@
 
 * (i) ADDITIONAL TEMPORARY EXPANSION OF COURT.—(1) Subject to paragraph (2), effective as of December 31, 2009, the authorized number of judges of the Court specified in subsection (a) is increased by two.
 
-* (2) Effective as of January 1, 2021, an appointment may not be made to the Court if the appointment would result in there being more judges of the Court than the authorized number of judges of the Court specified in subsection (a).
+* (2) Effective as of January 1, 2026, an appointment may not be made to the Court if the appointment would result in there being more judges of the Court than the authorized number of judges of the Court specified in subsection (a).
 
 ### §7254. Organization
 * (a) The Court of Appeals for Veterans Claims shall have a seal which shall be judicially noticed.

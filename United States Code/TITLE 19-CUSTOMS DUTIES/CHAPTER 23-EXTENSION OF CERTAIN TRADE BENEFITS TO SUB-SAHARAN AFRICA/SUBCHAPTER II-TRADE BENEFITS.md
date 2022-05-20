@@ -66,7 +66,7 @@
 
 * #### (5) Apparel articles wholly assembled from fabric or yarn not available in commercial quantities in the United States
   * #### (A) In general
-    * Apparel articles that are both cut (or knit-to-shape) and sewn or otherwise assembled in one or more beneficiary sub-Saharan African countries, to the extent that apparel articles of such fabrics or yarns would be eligible for preferential treatment, without regard to the source of the fabrics or yarns, under Annex 401 to the NAFTA.
+    * Apparel articles that are both cut (or knit-to-shape) and sewn or otherwise assembled in one or more beneficiary sub-Saharan African countries, to the extent that apparel articles of such fabrics or yarns would be eligible for preferential treatment, without regard to the source of the fabrics or yarns, under Annex 4–B of the USMCA.
 
   * #### (B) Additional apparel articles
     * At the request of any interested party and subject to the following requirements, the President is authorized to proclaim the treatment provided under subparagraph (A) for yarns or fabrics not described in subparagraph (A) if—
@@ -201,8 +201,8 @@
 * #### (2) Beneficiary sub-Saharan African country, etc.
   * The terms "beneficiary sub-Saharan African country" and "beneficiary sub-Saharan African countries" have the same meaning as such terms have under section 2466a(c) of this title.
 
-* #### (3) NAFTA
-  * The term "NAFTA" means the North American Free Trade Agreement entered into between the United States, Mexico, and Canada on December 17, 1992.
+* #### (3) USMCA
+  * The term "USMCA" has the meaning given that term in section 4502 of this title.
 
 * #### (4) Former sub-Saharan African country
   * The term "former sub-Saharan African country" means a country that, after being designated as a beneficiary sub-Saharan African country under this chapter, ceased to be designated as such a beneficiary sub-Saharan country by reason of its entering into a free trade agreement with the United States.
@@ -236,7 +236,7 @@
 #### (b) Customs procedures and enforcement
 * #### (1) In general
   * #### (A) Regulations
-    * Any importer that claims preferential treatment under section 3721 of this title shall comply with customs procedures similar in all material respects to the requirements of Article 502(1) of the NAFTA as implemented pursuant to United States law, in accordance with regulations promulgated by the Secretary of the Treasury.
+    * Any importer that claims preferential treatment under section 3721 of this title shall comply with customs procedures similar in all material respects to the requirements of article 5.4.1 of the USMCA as implemented pursuant to United States law, in accordance with regulations promulgated by the Secretary of the Treasury.
 
   * #### (B) Determination
     * #### (i) In general
@@ -247,7 +247,7 @@
         * (II) is making substantial progress toward implementing and following,
 
 
-  * &nbsp;procedures and requirements similar in all material respects to the relevant procedures and requirements under chapter 5 of the NAFTA.
+  * &nbsp;procedures and requirements similar in all material respects to the relevant procedures and requirements under chapter 5 of the USMCA.
 
     * #### (ii) Country described
       * A country is described in this clause if it is a beneficiary sub-Saharan African country—
@@ -257,7 +257,7 @@
         * (II) in which materials used in the production of the article originate or in which the article or such materials, undergo production that contributes to a claim that the article is eligible for preferential treatment.
 
 * #### (2) Certificate of Origin
-  * The Certificate of Origin that otherwise would be required pursuant to the provisions of paragraph (1) shall not be required in the case of an article imported under section 3721 of this title if such Certificate of Origin would not be required under Article 503 of the NAFTA (as implemented pursuant to United States law), if the article were imported from Mexico.
+  * The Certificate of Origin that otherwise would be required pursuant to the provisions of paragraph (1) shall not be required in the case of an article imported under section 3721 of this title if such Certificate of Origin would not be required under article 5.5 of the USMCA (as implemented pursuant to United States law), if the article were imported from Mexico.
 
 * #### (3) Penalties for exporters
   * If the President determines, based on sufficient evidence, that an exporter has engaged in transshipment as defined in paragraph (4), then the President shall deny for a period of 5 years all benefits under section 3721 of this title to such exporter, any successor of such exporter, and any other entity owned or operated by the principal of the exporter.

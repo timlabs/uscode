@@ -58,8 +58,10 @@
 ### §4304. Importation of nonconforming vessels and equipment
 * The Secretary and the Secretary of the Treasury may authorize by joint regulations the importation of any nonconforming recreational vessel or associated equipment on conditions, including providing a bond, that will ensure that the recreational vessel or associated equipment will be brought into conformity with applicable safety regulations and standards of the Government before the vessel or equipment is operated on waters subject to the jurisdiction of the United States.
 
-### §4305. Exemptions
-* If the Secretary considers that recreational vessel safety will not be adversely affected, the Secretary may issue an exemption from this chapter or a regulation prescribed under this chapter.
+### §4305. Exemptions and equivalents
+* (a) EXEMPTIONS.—If the Secretary considers that recreational vessel safety will not be adversely affected, the Secretary may issue an exemption from this chapter or a regulation prescribed under this chapter.
+
+* (b) EQUIVALENTS.—The Secretary may accept a substitution for associated equipment performance or other safety standards for a recreational vessel if the substitution provides an equivalent level of safety.
 
 ### §4306. Federal preemption
 * Unless permitted by the Secretary under section 4305 of this title, a State or political subdivision of a State may not establish, continue in effect, or enforce a law or regulation establishing a recreational vessel or associated equipment performance or other safety standard or imposing a requirement for associated equipment (except insofar as the State or political subdivision may, in the absence of the Secretary's disapproval, regulate the carrying or use of marine safety articles to meet uniquely hazardous conditions or circumstances within the State) that is not identical to a regulation prescribed under section 4302 of this title.
@@ -134,29 +136,49 @@
   * (B) at the time of the order or authorization, the director, officer, or executive employee advised the Secretary in writing of acting under this subparagraph and subparagraph (A).
 
 
-* (c) A person violating any other provision of this chapter or other regulation prescribed under this chapter is liable to the Government for a civil penalty of not more than $1,000. If the violation involves the operation of a vessel, the vessel also is liable in rem for the penalty.
+* (c) A person violating section 4312(b) of this title is liable to the United States Government for a civil penalty of not more than—
 
-* (d) When a civil penalty of not more than $200 has been assessed under this chapter, the Secretary may refer the matter of collection of the penalty directly to the United States magistrate judge of the jurisdiction in which the person liable may be found for collection procedures under supervision of the district court and under an order issued by the court delegating this authority under section 636(b) of title 28.
+  * (1) $100 for the first offense;
 
-* (e) The district courts of the United States have jurisdiction to restrain a violation of this chapter, or to restrain the sale, offer for sale, introduction or delivery for introduction into interstate commerce, or importation into the United States, of a recreational vessel or associated equipment that the court decides does not conform to safety standards of the Government. A civil action under this subsection shall be brought by filing a petition by the Attorney General for the Government. When practicable, the Secretary shall give notice to a person against whom an action for injunctive relief is contemplated and provide the person with an opportunity to present views and, except for a knowing and willful violation, shall provide the person with a reasonable opportunity to achieve compliance. The failure to give notice and provide the opportunity does not preclude the granting of appropriate relief by the district court.
+  * (2) $250 for the second offense; and
 
-* (f) A person is not subject to a penalty under this chapter if the person—
+  * (3) $500 for any subsequent offense.
+
+
+* (d) A person violating any other provision of this chapter or other regulation prescribed under this chapter is liable to the Government for a civil penalty of not more than $1,000. If the violation involves the operation of a vessel, the vessel also is liable in rem for the penalty.
+
+* (e) When a civil penalty of not more than $200 has been assessed under this chapter, the Secretary may refer the matter of collection of the penalty directly to the United States magistrate judge of the jurisdiction in which the person liable may be found for collection procedures under supervision of the district court and under an order issued by the court delegating this authority under section 636(b) of title 28.
+
+* (f) The district courts of the United States have jurisdiction to restrain a violation of this chapter, or to restrain the sale, offer for sale, introduction or delivery for introduction into interstate commerce, or importation into the United States, of a recreational vessel or associated equipment that the court decides does not conform to safety standards of the Government. A civil action under this subsection shall be brought by filing a petition by the Attorney General for the Government. When practicable, the Secretary shall give notice to a person against whom an action for injunctive relief is contemplated and provide the person with an opportunity to present views and, except for a knowing and willful violation, shall provide the person with a reasonable opportunity to achieve compliance. The failure to give notice and provide the opportunity does not preclude the granting of appropriate relief by the district court.
+
+* (g) A person is not subject to a penalty under this chapter if the person—
 
   * (1) establishes that the person did not have reason to know, in exercising reasonable care, that a recreational vessel or associated equipment does not conform with the applicable safety standards of the Government or that the person was not advised by the Secretary or the manufacturer of that vessel, equipment or component that the vessel, equipment or component contains a defect which creates a substantial risk of personal injury to the public; or
 
   * (2) holds a certificate issued by the manufacturer of that recreational vessel or associated equipment to the effect that the recreational vessel or associated equipment conforms to all applicable recreational vessel safety standards of the Government, unless the person knows or reasonably should have known that the recreational vessel or associated equipment does not so conform.
 
 
-* (g) Compliance with this chapter or standards, regulations, or orders prescribed under this chapter does not relieve a person from liability at common law or under State law.
+* (h) Compliance with this chapter or standards, regulations, or orders prescribed under this chapter does not relieve a person from liability at common law or under State law.
 
 ### §4312. Engine cut-off switches
-* (a) INSTALLATION REQUIREMENT.—A manufacturer, distributor, or dealer that installs propulsion machinery and associated starting controls on a covered recreational vessel shall equip such vessel with an engine cut-off switch and engine cut-off switch link that meet American Boat and Yacht Council Standard A–33, as in effect on the date of the enactment of the Coast Guard Authorization Act of 2017.
+* (a) INSTALLATION REQUIREMENT.—A manufacturer, distributor, or dealer that installs propulsion machinery and associated starting controls on a covered recreational vessel shall equip such vessel with an engine cut-off switch and engine cut-off switch link that meet American Boat and Yacht Council Standard A–33, as in effect on the date of the enactment of the Frank LoBiondo Coast Guard Authorization Act of 2018 (Public Law 115–282).
 
-* (b) EDUCATION ON CUT-OFF SWITCHES.—The Commandant of the Coast Guard, through the National Boating Safety Advisory Committee established under section 15105, may initiate a boating safety program on the use and benefits of cut-off switches for recreational vessels.
+* (b) USE REQUIREMENT.—
 
-* (c) AVAILABILITY OF STANDARD FOR INSPECTION.—
+  * (1) IN GENERAL.—An individual operating a covered recreational vessel shall use an engine cut-off switch link while operating on plane or above displacement speed.
 
-  * (1) IN GENERAL.—Not later than 90 days after the date of the enactment of this section, the Commandant shall transmit American Boat and Yacht Council Standard A–33, as in effect on the date of enactment of the Coast Guard Authorization Act of 2017, to—
+  * (2) EXCEPTIONS.—The requirement under paragraph (1) shall not apply if—
+
+    * (A) the main helm of the covered vessel is installed within an enclosed cabin; or
+
+    * (B) the vessel does not have an engine cut-off switch and is not required to have one under subsection (a).
+
+
+* (c) EDUCATION ON CUT-OFF SWITCHES.—The Commandant of the Coast Guard, through the National Boating Safety Advisory Committee established under section 15105, may initiate a boating safety program on the use and benefits of cut-off switches for recreational vessels.
+
+* (d) AVAILABILITY OF STANDARD FOR INSPECTION.—
+
+  * (1) IN GENERAL.—Not later than 90 days after the date of the enactment of this section, the Commandant shall transmit American Boat and Yacht Council Standard A–33, as in effect on the date of enactment of the Frank LoBiondo Coast Guard Authorization Act of 2018 (Public Law 115–282), to—
 
     * (A) the Committee on Transportation and Infrastructure of the House of Representatives;
 
@@ -170,7 +192,7 @@
   * (2) AVAILABILITY.—The standard submitted under paragraph (1) shall be kept on file and available for public inspection at such Coast Guard office and the National Archives and Records Administration.
 
 
-* (d) DEFINITIONS.—In this section:
+* (e) DEFINITIONS.—In this section:
 
   * (1) COVERED RECREATIONAL VESSEL.—The term "covered recreational vessel" means a recreational vessel that is—
 

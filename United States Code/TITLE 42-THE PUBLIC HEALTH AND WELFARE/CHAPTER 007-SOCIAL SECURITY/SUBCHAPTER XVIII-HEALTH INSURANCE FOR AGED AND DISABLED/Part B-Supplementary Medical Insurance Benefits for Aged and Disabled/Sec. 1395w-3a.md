@@ -18,13 +18,13 @@
 
 * #### (2) Specification of unit
   * #### (A) Specification by manufacturer
-    * The manufacturer of a drug or biological shall specify the unit associated with each National Drug Code (including package size) as part of the submission of data under section 1396r–8(b)(3)(A)(iii) of this title.
+    * The manufacturer of a drug or biological shall specify the unit associated with each National Drug Code (including package size) as part of the submission of data under section 1396r–8(b)(3)(A)(iii) of this title or subsection (f)(2), as applicable.
 
   * #### (B) Unit defined
     * In this section, the term "unit" means, with respect to each National Drug Code (including package size) associated with a drug or biological, the lowest identifiable quantity (such as a capsule or tablet, milligram of molecules, or grams) of the drug or biological that is dispensed, exclusive of any diluent without reference to volume measures pertaining to liquids. For years after 2004, the Secretary may establish the unit for a manufacturer to report and methods for counting units as the Secretary determines appropriate to implement this section.
 
 * #### (3) Multiple source drug
-  * For all drug products included within the same multiple source drug billing and payment code, the amount specified in this paragraph is the volume-weighted average of the average sales prices reported under section 1396r–8(b)(3)(A)(iii) of this title determined by—
+  * For all drug products included within the same multiple source drug billing and payment code, the amount specified in this paragraph is the volume-weighted average of the average sales prices reported under section 1396r–8(b)(3)(A)(iii) of this title or subsection (f)(2), as applicable, determined by—
 
     * (A) computing the sum of the products (for each National Drug Code assigned to such drug products) of—
 
@@ -49,7 +49,7 @@
 
 * #### (6) Use of volume-weighted average sales prices in calculation of average sales price
   * #### (A) In general
-    * For all drug products included within the same multiple source drug billing and payment code, the amount specified in this paragraph is the volume-weighted average of the average sales prices reported under section 1396r–8(b)(3)(A)(iii) of this title determined by—
+    * For all drug products included within the same multiple source drug billing and payment code, the amount specified in this paragraph is the volume-weighted average of the average sales prices reported under section 1396r–8(b)(3)(A)(iii) of this title or subsection (f)(2), as applicable, determined by—
 
       * (i) computing the sum of the products (for each National Drug Code assigned to such drug products) of—
 
@@ -140,7 +140,7 @@
   * In this section:
 
   * #### (A) Manufacturer
-    * The term "manufacturer" means, with respect to a drug or biological, the manufacturer (as defined in section 1396r–8(k)(5) of this title).
+    * The term "manufacturer" means, with respect to a drug or biological, the manufacturer (as defined in section 1396r–8(k)(5) of this title), except that, for purposes of subsection (f)(2), the Secretary may, if the Secretary determines appropriate, exclude repackagers of a drug or biological from such term.
 
   * #### (B) Wholesale acquisition cost
     * The term "wholesale acquisition cost" means, with respect to a drug or biological, the manufacturer's list price for the drug or biological to wholesalers or direct purchasers in the United States, not including prompt pay or other discounts, rebates or reductions in price, for the most recent month for which the information is available, as reported in wholesale price guides or other publications of drug or biological pricing data.
@@ -214,11 +214,24 @@
       * (ii) 103 percent of the average manufacturer price (as determined under section 1396r–8(k)(1) of this title) for the drug or biological.
 
 * #### (4) Civil money penalty
-  * #### (A) In general
+  * #### (A) Misrepresentation
     * If the Secretary determines that a manufacturer has made a misrepresentation in the reporting of the manufacturer's average sales price for a drug or biological, the Secretary may apply a civil money penalty in an amount of up to $10,000 for each such price misrepresentation and for each day in which such price misrepresentation was applied.
 
-  * #### (B) Procedures
-    * The provisions of section 1320a–7a of this title (other than subsections (a) and (b)) shall apply to civil money penalties under subparagraph (B) in the same manner as they apply to a penalty or proceeding under section 1320a–7a(a) of this title.
+  * #### (B) Failure to provide timely information
+    * If the Secretary determines that a manufacturer described in subsection (f)(2) has failed to report on information described in section 1396r–8(b)(3)(A)(iii) of this title with respect to a drug or biological in accordance with such subsection, the Secretary shall apply a civil money penalty in an amount of $10,000 for each day the manufacturer has failed to report such information and such amount shall be paid to the Treasury.
+
+  * #### (C) False information
+    * Any manufacturer required to submit information under subsection (f)(2) that knowingly provides false information is subject to a civil money penalty in an amount not to exceed $100,000 for each item of false information. Such civil money penalties are in addition to other penalties as may be prescribed by law.
+
+  * #### (D) Increasing oversight and enforcement
+    * For calendar quarters beginning on or after January 1, 2022, section 1396r–8(b)(3)(C)(iv) of this title shall be applied as if—
+
+      * (i) each reference to "under this subparagraph and subsection (c)(4)(B)(ii)(III)" were a reference to "under this subparagraph, subsection (c)(4)(B)(ii)(III), and subparagraphs (A), (B), and (C) of section 1395w–3a(d)(4) of this title; and
+
+      * (ii) the reference to "activities related to the oversight and enforcement of this section and agreements under this section" were a reference to "activities related to the oversight and enforcement of this section and under subsection (f)(2) of section 1395w–3a of this title and subparagraphs (A), (B), and (C) of this subsection 1395w–3a(d)(4) of this title and, if applicable, agreements under this section".
+
+  * #### (E) Procedures
+    * The provisions of section 1320a–7a of this title (other than subsections (a) and (b)) shall apply to civil money penalties under subparagraph (A), (B), or (C) in the same manner as they apply to a penalty or proceeding under section 1320a–7a(a) of this title.
 
 * #### (5) Widely available market price
   * #### (A) In general
@@ -251,9 +264,51 @@
 * In the case of a public health emergency under section 247d of this title in which there is a documented inability to access drugs and biologicals, and a concomitant increase in the price, of a drug or biological which is not reflected in the manufacturer's average sales price for one or more quarters, the Secretary may use the wholesale acquisition cost (or other reasonable measure of drug or biological price) instead of the manufacturer's average sales price for such quarters and for subsequent quarters until the price and availability of the drug or biological has stabilized and is substantially reflected in the applicable manufacturer's average sales price.
 
 #### (f) Quarterly report on average sales price
-* For requirements for reporting the manufacturer's average sales price (and, if required to make payment, the manufacturer's wholesale acquisition cost) for the drug or biological under this section, see section 1396r–8(b)(3) of this title.
+* #### (1) In general
+  * For requirements for reporting the manufacturer's average sales price (and, if required to make payment, the manufacturer's wholesale acquisition cost) for the drug or biological under this section, see section 1396r–8(b)(3) of this title.
 
-#### (g) Judicial review
+* #### (2) Manufacturers without a rebate agreement under subchapter xix
+  * #### (A) In general
+    * If the manufacturer of a drug or biological described in subparagraph (C), (E), or (G) of section 1395u(o)(1) of this title or in section 1395rr(b)(14)(B) of this title that is payable under this part has not entered into and does not have in effect a rebate agreement described in subsection (b) of section 1396r–8 of this title, for calendar quarters beginning on January 1, 2022, such manufacturer shall report to the Secretary the information described in subsection (b)(3)(A)(iii) of such section 1396r–8 of this title with respect to such drug or biological in a time and manner specified by the Secretary. For purposes of applying this paragraph, a drug or biological described in the previous sentence includes items, services, supplies, and products that are payable under this part as a drug or biological.
+
+  * #### (B) Audit
+    * Information reported under subparagraph (A) is subject to audit by the Inspector General of the Department of Health and Human Services.
+
+  * #### (C) Verification
+    * The Secretary may survey wholesalers and manufacturers that directly distribute drugs or biologicals described in subparagraph (A), when necessary, to verify manufacturer prices and manufacturer's average sales prices (including wholesale acquisition cost) if required to make payment reported under subparagraph (A). The Secretary may impose a civil monetary penalty in an amount not to exceed $100,000 on a wholesaler, manufacturer, or direct seller, if the wholesaler, manufacturer, or direct seller of such a drug or biological refuses a request for information about charges or prices by the Secretary in connection with a survey under this subparagraph or knowingly provides false information. The provisions of section 1320a–7a of this title (other than subsections (a) (with respect to amounts of penalties or additional assessments) and (b)) shall apply to a civil money penalty under this subparagraph in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.
+
+  * #### (D) Confidentiality
+    * Notwithstanding any other provision of law, information disclosed by manufacturers or wholesalers under this paragraph (other than the wholesale acquisition cost for purposes of carrying out this section) is confidential and shall not be disclosed by the Secretary in a form which discloses the identity of a specific manufacturer or wholesaler or prices charged for drugs or biologicals by such manufacturer or wholesaler, except—
+
+      * (i) as the Secretary determines to be necessary to carry out this section (including the determination and implementation of the payment amount), or to carry out section 1320a–7b of this title;
+
+      * (ii) to permit the Comptroller General of the United States to review the information provided;
+
+      * (iii) to permit the Director of the Congressional Budget Office to review the information provided;
+
+      * (iv) to permit the Medicare Payment Advisory Commission to review the information provided; and
+
+      * (v) to permit the Medicaid and CHIP Payment and Access Commission to review the information provided.
+
+#### (g) Payment adjustment for certain drugs for which there is a self-administered NDC
+* #### (1) OIG studies
+  * The Inspector General of the Department of Health and Human Services shall conduct periodic studies to identify National Drug Codes for drug or biological products that are self-administered for which payment may not be made under this part because such products are not covered pursuant to section 1395x(s)(2) of this title and which the Inspector General determines (based on the same or similar methodologies to the methodologies used in the final recommendation followup report of the Inspector General described in paragraph (3) or in the November 2017 final report of the Inspector General entitled "Excluding Noncovered Versions When Setting Payment for Two Part B Drugs Would Have Resulted in Lower Drug Costs for Medicare and its Beneficiaries") should be excluded from the determination of the payment amount under this section.
+
+* #### (2) Payment adjustment
+  * If the Inspector General identifies a National Drug Code for a drug or biological product under paragraph (1), the Inspector General shall inform the Secretary (at such times as the Secretary may specify to carry out this paragraph) and the Secretary shall, to the extent the Secretary deems appropriate, apply as the amount of payment under this section for the applicable billing and payment code the lesser of—
+
+    * (A) the amount of payment that would be determined under this section for such billing and payment code if such National Drug Code for such product so identified under paragraph (1) were excluded from such determination; or
+
+    * (B) the amount of payment otherwise determined under this section for such billing and payment code without application of this subsection.
+
+* #### (3) Application to certain identified products
+  * In the case of a National Drug Code for a drug or biological product that is self-administered for which payment is not made under this part because such product is not covered pursuant to section 1395x(s)(2) of this title that was identified by the Inspector General of the Department of Health and Human Services in the final recommendation followup report of the Inspector General published July 2020, entitled Loophole in Drug Payment Rule Continues To Cost Medicare and Beneficiaries Hundreds of Millions of Dollars, beginning July 1, 2021, the amount of payment under this section for the applicable billing and payment code shall be the lesser of—
+
+    * (A) the amount of payment that would be determined under this section for such billing and payment code if such National Drug Code for such drug or biological products so identified were excluded from such determination; or
+
+    * (B) the amount of payment otherwise determined under this section for such billing and payment code without application of this subsection.
+
+#### (h) Judicial review
 * There shall be no administrative or judicial review under section 1395ff of this title, section 1395oo of this title, or otherwise, of—
 
   * (1) determinations of payment amounts under this section, including the assignment of National Drug Codes to billing and payment codes;

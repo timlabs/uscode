@@ -24,7 +24,7 @@
   * (2) his years of service as a commissioned officer are computed by adding all his active service in the armed forces under permanent or temporary appointments in grades above warrant officer, W–1.
 
 
-* (c) The retired grade of an officer retired under this section is the grade determined under section 1370 of this title.
+* (c) The retired grade of an officer retired under this section is the grade determined under section 1370 or 1370a of this title, as applicable.
 
 * (d) A warrant officer who retires under this section may elect to be placed on the retired list in the highest grade and with the highest retired pay to which he is entitled under any provision of this title. If the pay of that highest grade is less than the pay of any warrant grade satisfactorily held by him on active duty, his retired pay shall be based on the higher pay.
 

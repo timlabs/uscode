@@ -238,7 +238,7 @@
 
 * (D) Subject to subparagraph (E), an increase in the rates of basic allowance for housing in an area under this paragraph shall remain in effect until the effective date of the first adjustment in rates of basic allowance for housing made for the area pursuant to a redetermination of housing costs in the area under this subsection that occurs after the date of the increase under this paragraph.
 
-* (E) An increase in the rates of basic allowance for housing for an area may not be prescribed under this paragraph or continue after December 31, 2020.
+* (E) An increase in the rates of basic allowance for housing for an area may not be prescribed under this paragraph or continue after December 31, 2021.
 
 * (8)(A) The Secretary of Defense may prescribe a temporary adjustment in the current rates of basic allowance for housing for a military housing area or a portion thereof (in this paragraph, "BAH rates") if the Secretary determines that the actual costs of adequate housing for civilians in that military housing area or portion thereof differs from the current BAH rates by more than 20 percent.
 
@@ -392,6 +392,12 @@
 
 * (o) TREATMENT OF LOW-COST AND NO-COST MOVES AS NOT BEING REASSIGNMENTS.—In the case of a member who is assigned to duty at a location or under circumstances that make it necessary for the member to be reassigned under the conditions of low-cost or no-cost permanent change of station or permanent change of assignment, the member may be treated for the purposes of this section as if the member were not reassigned if the Secretary concerned determines that it would be inequitable to base the member's entitlement to, and amount of, a basic allowance for housing on the cost of housing in the area to which the member is reassigned.
 
+* (p) INFORMATION ON RIGHTS AND PROTECTIONS UNDER SERVICEMEMBERS CIVIL RELIEF ACT.—The Secretary concerned shall provide to each member of a uniformed service who receives a basic allowance for housing under this section information on the rights and protections available to such member under the Servicemembers Civil Relief Act (50 U.S.C. 3901 et seq.)—
+
+  * (1) when such member first receives such basic allowance for housing; and
+
+  * (2) each time such member receives a permanent change of station.
+
 ### §403a. Housing treatment for certain members of the armed forces, and their spouses and other dependents, undergoing a permanent change of station within the United States
 * (a) HOUSING TREATMENT FOR CERTAIN MEMBERS WHO HAVE A SPOUSE OR OTHER DEPENDENTS.—
 
@@ -530,6 +536,26 @@
 
     * (D) The Secretary of Health and Human Services, with respect to the Public Health Service.
 
+### §405. Travel and transportation allowances: per diem while on duty outside the continental United States
+* (a) PER DIEM AUTHORIZED.—Without regard to the monetary limitation of this title, the Secretary concerned may pay a per diem to a member of the uniformed services who is on duty outside of the continental United States, whether or not the member is in a travel status. The Secretary may pay the per diem in advance of the accrual of the per diem.
+
+* (b) DETERMINATION OF PER DIEM.—In determining the per diem to be paid under this section, the Secretary concerned shall consider all elements of the cost of living to members of the uniformed services under the Secretary's jurisdiction and their dependents, including the cost of quarters, subsistence, and other necessary incidental expenses. However, dependents may not be considered in determining the per diem allowance for a member in a travel status.
+
+* (c) TREATMENT OF HOUSING COST AND ALLOWANCE.—Housing cost and allowance may be disregarded in prescribing a station cost of living allowance under this section.
+
+* (d) UNUSUAL OR EXTRAORDINARY EXPENSES.—(1) The Secretary concerned may reimburse a member of the uniformed services on duty as described in subsection (a) or (e) for an unusual or extraordinary expense incurred by the member incident to such duty that—
+
+  * (A) is directly related to the conditions or location of the duty or the location of the member's dependents;
+
+  * (B) is of a nature or a magnitude not normally incurred by members of the uniformed services on duty inside the continental United States; and
+
+  * (C) is not included in the per diem determined under subsection (b) as payable to the member under subsection (a) or (e).
+
+
+* (2) Any reimbursement provided to a member under paragraph (1) is in addition to a per diem payable to that member under subsection (a) or (e).
+
+* (e) PAYMENT OF ALLOWANCE BASED ON OVERSEAS LOCATION OF DEPENDENTS.—In the case of a member assigned to duty inside the continental United States whose dependents continue to reside outside the continental United States, the Secretary concerned may pay the member a per diem under this section based on the location of the dependents and provide reimbursement under subsection (d) for an unusual or extraordinary expense incurred by the dependents if the Secretary determines that such payment or reimbursement is in the best interest of the member or the member's dependents and in the best interest of the United States.
+
 ### §413. Chairman and Vice Chairman of the Joint Chiefs of Staff
 * The Chairman and Vice Chairman of the Joint Chiefs of Staff are entitled to the allowances provided by law for the Chief of Staff of the Army.
 
@@ -544,10 +570,10 @@
 
   * (4) $2,200 a year, while serving in the grade of general or admiral, or in an equivalent grade or rank; or
 
-  * (5) $4,000 a year, in place of any other personal money allowance authorized by this section, while serving as Chief of Staff of the Army, Chief of Naval Operations, Chief of Staff of the Air Force, Commandant of the Marine Corps, Commandant of the Coast Guard, or Chief of the National Guard Bureau.
+  * (5) $4,000 a year, in place of any other personal money allowance authorized by this section, while serving as Chief of Staff of the Army, Chief of Naval Operations, Chief of Staff of the Air Force, Commandant of the Marine Corps, Chief of Space Operations, Commandant of the Coast Guard, or Chief of the National Guard Bureau.
 
 
-* (b) ALLOWANCE FOR SENIOR ENLISTED MEMBERS.—In addition to other pay or allowances authorized by this title, a noncommissioned officer is entitled to a personal money allowance of $2,000 a year while serving as the Sergeant Major of the Army, the Master Chief Petty Officer of the Navy, the Chief Master Sergeant of the Air Force, the Sergeant Major of the Marine Corps, the Master Chief Petty Officer of the Coast Guard, the Senior Enlisted Advisor to the Chairman of the Joint Chiefs of Staff, or the Senior Enlisted Advisor to the Chief of the National Guard Bureau.
+* (b) ALLOWANCE FOR SENIOR ENLISTED MEMBERS.—In addition to other pay or allowances authorized by this title, a noncommissioned officer is entitled to a personal money allowance of $2,000 a year while serving as the Sergeant Major of the Army, the Master Chief Petty Officer of the Navy, the Chief Master Sergeant of the Air Force, the Sergeant Major of the Marine Corps, the senior enlisted advisor of the Space Force, the Master Chief Petty Officer of the Coast Guard, the Senior Enlisted Advisor to the Chairman of the Joint Chiefs of Staff, or the Senior Enlisted Advisor to the Chief of the National Guard Bureau.
 
 ### §415. Uniform allowance: officers; initial allowance
 * (a) Subject to subsection (b), an officer of an armed force is entitled to an initial allowance of not more than $400 as reimbursement for the purchase of required uniforms and equipment—
@@ -599,7 +625,7 @@
 
 * (c) A uniform allowance may not be paid, and uniforms may not be furnished, under section 1593 of title 10 or section 5901 of title 5 to a person referred to in subsection (b) for a period of employment referred to in that subsection for which clothing is furnished or a uniform allowance is paid under this section.
 
-* (d)(1) In the case of athletic footwear needed by members of the Army, Navy, Air Force, or Marine Corps upon their initial entry into the armed forces, the Secretary of Defense shall furnish such footwear directly to the members instead of providing a cash allowance to the members for the purchase of such footwear.
+* (d)(1) In the case of athletic footwear needed by members of the Army, Navy, Air Force, Marine Corps, or Space Force upon their initial entry into the armed forces, the Secretary of Defense shall furnish such footwear directly to the members instead of providing a cash allowance to the members for the purchase of such footwear.
 
 * (2) In procuring athletic footwear to comply with paragraph (1), the Secretary of Defense shall—
 
@@ -615,7 +641,7 @@
   * (B) cannot be met with athletic footwear that complies with the requirements of this subsection.
 
 
-* (4) This subsection does not apply to the furnishing of athletic footwear to members of the Army, the Navy, the Air Force, or the Marine Corps upon their initial entry into the armed forces, or prohibit the provision of a cash allowance to such members for such purpose, if the Secretary of Defense determines that compliance with paragraph (2) would result in a sole source contract for procurement of athletic footwear for the purpose stated in paragraph (1) because there would be only a sole certified source of supply for such footwear.
+* (4) This subsection does not apply to the furnishing of athletic footwear to members of the Army, the Navy, the Air Force, the Marine Corps, or the Space Force upon their initial entry into the armed forces, or prohibit the provision of a cash allowance to such members for such purpose, if the Secretary of Defense determines that compliance with paragraph (2) would result in a sole source contract for procurement of athletic footwear for the purpose stated in paragraph (1) because there would be only a sole certified source of supply for such footwear.
 
 * (5) The Secretary of Defense shall ensure that all procurements of athletic footwear to which this subsection applies are made using firm fixed price contracts.
 
@@ -670,7 +696,7 @@
 
   * (A) the movement of his dependents to his permanent station or a place near that station is not authorized at the expense of the United States under section 476 of this title and his dependents do not reside at or near that station;
 
-  * (B) he is on duty on board a ship away from the home port of the ship for a continuous period of more than 30 days; or
+  * (B) he is on duty on board a ship away from the home port of the ship (or under orders to remain on board the ship while at the home port) for a continuous period of more than 30 days; or
 
   * (C) he is on temporary duty away from his permanent station for a continuous period of more than 30 days and his dependents do not reside at or near his temporary duty station.
 
@@ -715,6 +741,13 @@
 * (c) PAYMENT REQUIREMENTS.—(1) The stipend authorized by this section may not be disbursed in kind.
 
 * (2) Payment of a stipend to a member of the Individual Ready Reserve under this section for participation in screening shall be made on or after the date of participation in such screening, but not later than 30 days after such date.
+
+### §435. Funeral honors duty: allowance
+* (a) ALLOWANCE AUTHORIZED.—(1) The Secretary concerned may authorize payment of an allowance to a member of the Ready Reserve for any day on which the member performs at least two hours of funeral honors duty pursuant to section 12503 of title 10 or section 115 of title 32.
+
+* (2) The Secretary concerned may also authorize payment of that allowance to a member of the armed forces in a retired status for any day on which the member serves in a funeral honors detail under section 1491 of title 10, if the time required for service in such detail (including time for preparation) is not less than two hours. The amount of an allowance paid to a member under this paragraph shall be in addition to any other compensation to which the member may be entitled under this title or title 10 or 38.
+
+* (b) AMOUNT.—The daily rate of an allowance under this section is $50.
 
 ### §436. High-deployment allowance: lengthy or numerous deployments; frequent mobilizations
 * (a) MONTHLY ALLOWANCE.—The Secretary of the military department concerned may pay a high-deployment allowance to a member of the armed forces under the Secretary's jurisdiction for each month during which the member—

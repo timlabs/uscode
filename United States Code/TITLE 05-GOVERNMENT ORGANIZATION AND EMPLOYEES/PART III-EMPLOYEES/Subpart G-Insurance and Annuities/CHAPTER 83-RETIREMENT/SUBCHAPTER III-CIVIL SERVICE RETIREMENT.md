@@ -226,9 +226,11 @@
     * (B) a civilian employee of the Department of Transportation or the Department of Defense who is the immediate supervisor of a person described in section 2109(1)(B);
 
 
-  * (31) "customs and border protection officer" means an employee in the Department of Homeland Security (A) who holds a position within the GS–1895 job series (determined applying the criteria in effect as of September 1, 2007) or any successor position, and (B) whose duties include activities relating to the arrival and departure of persons, conveyances, and merchandise at ports of entry, including any such employee who is transferred directly to a supervisory or administrative position in the Department of Homeland Security after performing such duties (as described in subparagraph (B)) in 1 or more positions (as described in subparagraph (A)) for at least 3 years; and
+  * (31) "customs and border protection officer" means an employee in the Department of Homeland Security (A) who holds a position within the GS–1895 job series (determined applying the criteria in effect as of September 1, 2007) or any successor position, and (B) whose duties include activities relating to the arrival and departure of persons, conveyances, and merchandise at ports of entry, including any such employee who is transferred directly to a supervisory or administrative position in the Department of Homeland Security after performing such duties (as described in subparagraph (B)) in 1 or more positions (as described in subparagraph (A)) for at least 3 years;
 
-  * (32) "Director" means the Director of the Office of Personnel Management.
+  * (32) "Director" means the Director of the Office of Personnel Management; and
+
+  * (33) "representative payee" means a person (including an organization) designated under section 8345(e)(1) to receive payments on behalf of a minor or an individual mentally incompetent or under other legal disability.
 
 ### §8332. Creditable service
 * (a) The total service of an employee or Member is the full years and twelfth parts thereof, excluding from the aggregate the fractional part of a month, if any.
@@ -2139,9 +2141,18 @@
 
 * (d) An individual entitled to annuity from the Fund may decline to accept all or any part of the annuity by a waiver signed and filed with the Office of Personnel Management. The waiver may be revoked in writing at any time. Payment of the annuity waived may not be made for the period during which the waiver was in effect.
 
-* (e) Payment due a minor, or an individual mentally incompetent or under other legal disability, may be made to the person who is constituted guardian or other fiduciary by the law of the State of residence of the claimant or is otherwise legally vested with the care of the claimant or his estate. If a guardian or other fiduciary of the individual under legal disability has not been appointed under the law of the State of residence of the claimant, payment may be made to any person who, in the judgment of the Office, is responsible for the care of the claimant, and the payment bars recovery by any other person.
+* (e)(1) Payment due a minor, or an individual mentally incompetent or under other legal disability, may be made to the person (including an organization) who is constituted guardian or other fiduciary by the law of the State of residence of the claimant or is otherwise legally vested with the care of the claimant or his estate. If a guardian or other fiduciary of the individual under legal disability has not been appointed under the law of the State of residence of the claimant, payment may be made to any person (including an organization) who, in the judgment of the Office, is responsible for the care of the claimant and may appropriately receive such payments on behalf of the claimant, and the payment bars recovery by any other person.
 
-* [(f) Repealed. Pub. L. 99–251, title III, §305(a), Feb. 27, 1986, 100 Stat. 26.]
+* (2) If the Office determines that direct payment of a benefit to an individual mentally incompetent or under other legal disability would cause substantial harm to the individual, the Office may defer or suspend direct payment of the benefit until such time as the appointment of a representative payee is made. The Office shall resume payment as soon as practicable, including all amounts due.
+
+* (f) The Office may not authorize a person to receive payments on behalf of a minor or individual of legal disability under subsection (e) if that person has been convicted of a violation of—
+
+  * (1) section 8345a or 8466a;
+
+  * (2) section 208 or 1632 of the Social Security Act (42 U.S.C. 408, 1383a); or
+
+  * (3) section 6101 of title 38.
+
 
 * (g) The Office shall prescribe regulations to provide that the amount of any monthly annuity payable under this section accruing for any month and which is computed with regard to service that includes any service referred to in section 8332(b)(6) performed by an individual prior to January 1, 1969, shall be reduced by the portion of any benefits under any State retirement system to which such individual is entitled (or on proper application would be entitled) for such month which is attributable to such service performed by such individual before such date.
 
@@ -2182,6 +2193,24 @@
 * (5) For the purpose of this subsection, "State" means a State, the District of Columbia, or any territory or possession of the United States.
 
 * (l) Transfers of contributions and deposits authorized by section 408(a)(3) of the Foreign Service Act of 1980 shall be deemed to be a complete and final payment of benefits under this chapter.
+
+### §8345a. Embezzlement or conversion of payments
+* (a) EMBEZZLING AND CONVERSION GENERALLY.—
+
+  * (1) IN GENERAL.—It shall be unlawful for a representative payee to embezzle or in any manner convert all or any part of the amounts received from payments received as a representative payee to a use other than for the use and benefit of the minor or individual on whose behalf such payments were received.
+
+  * (2) REVOCATION.—If the Office determines that a representative payee has embezzled or converted payments as described in paragraph (1), the Office shall promptly—
+
+    * (A) revoke the certification for payment of benefits to the representative payee; and
+
+    * (B) certify payment—
+
+      * (i) to another representative payee; or
+
+      * (ii) if the interest of the individual under this title would be served thereby, to the individual.
+
+
+* (b) PENALTY.—Any person who violates subsection (a)(1) shall be fined under title 18, imprisoned for not more than 5 years, or both.
 
 ### §8346. Exemption from legal process; recovery of payments
 * (a) The money mentioned by this subchapter is not assignable, either in law or equity, except under the provisions of subsections (h) and (j) of section 8345 of this title, or subject to execution, levy, attachment, garnishment, or other legal process, except as otherwise may be provided by Federal laws.
@@ -2288,7 +2317,7 @@
 
     * (A) benefits as provided by this subchapter or by the provisions of chapter 84 of this title which relate to benefits payable out of the Fund; and
 
-    * (B) administrative expenses incurred by the Office of Personnel Management in placing in effect each annuity adjustment granted under section 8340 or 8462 of this title, in administering survivor annuities and elections providing therefor under sections 8339 and 8341 of this title or subchapters II and IV of chapter 84 of this title, in administering alternative forms of annuities under sections 8343a and 8420a (and related provisions of law), in making an allotment or assignment made by an individual under section 8345(h) or 8465(b) of this title, and in withholding taxes pursuant to section 3405 of title 26 or section 8345(k) or 8469 of this title;
+    * (B) administrative expenses incurred by the Office of Personnel Management in placing in effect each annuity adjustment granted under section 8340 or 8462 of this title, in administering survivor annuities and elections providing therefor under sections 8339 and 8341 of this title or subchapters II and IV of chapter 84 of this title, in administering alternative forms of annuities under sections 8343a and 8420a (and related provisions of law), in making an allotment or assignment made by an individual under section 8345(h) or 8465(b) of this title, in administering fraud prevention under sections 8345, 8345a, 8466, and 8466a of this title, and in withholding taxes pursuant to section 3405 of title 26 or section 8345(k) or 8469 of this title;
 
 
   * (2) is made available, subject to such annual limitation as the Congress may prescribe, for any expenses incurred by the Office in connection with the administration of this chapter, chapter 84 of this title, and other retirement and annuity statutes; and

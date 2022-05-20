@@ -91,7 +91,7 @@
 ### §2804. Contingency construction
 * (a) Within the amount appropriated for such purpose, the Secretary of Defense may carry out a military construction project not otherwise authorized by law, or may authorize the Secretary of a military department to carry out such a project, if the Secretary of Defense determines that deferral of the project for inclusion in the next Military Construction Authorization Act would be inconsistent with national security or national interest.
 
-* (b) When a decision is made to carry out a military construction project under this section, the Secretary of Defense shall submit a report to the appropriate committees of Congress on that decision. Each such report shall include the justification for the project, the current estimate of the cost of the project, and the justification for carrying out the project under this section. The project may then be carried out only after the end of the seven-day period; and beginning on the date the notification is received by such committees in an electronic medium pursuant to section 480 of this title.
+* (b) When a decision is made to carry out a military construction project under this section, the Secretary of Defense shall submit a report to the appropriate committees of Congress on that decision. Each such report shall include the justification for the project, the current estimate of the cost of the project, and the justification for carrying out the project under this section. The project may then be carried out only after the end of the seven-day period beginning on the date the notification is received by such committees in an electronic medium pursuant to section 480 of this title.
 
 ### §2805. Unspecified minor construction
 * (a) AUTHORITY TO CARRY OUT UNSPECIFIED MINOR MILITARY CONSTRUCTION PROJECTS.—(1) Within an amount equal to 125 percent of the amount authorized by law for such purpose, the Secretary concerned may carry out unspecified minor military construction projects not otherwise authorized by law.
@@ -132,7 +132,7 @@
 
   * (2) LOCATION OF PROJECTS.—For purposes of paragraph (1), a project shall be considered to be inside the United States if the project is carried out in any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the United States Virgin Islands, or the Commonwealth of the Northern Mariana Islands.
 
-  * (3) SUNSET.—The requirements of this subsection shall not apply with respect to any fiscal year after fiscal year 2022.
+  * (3) SUNSET.—The requirements of this subsection shall not apply with respect to any fiscal year after fiscal year 2027.
 
 ### §2806. Contributions for North Atlantic Treaty Organizations Security Investment
 * (a) Within amounts authorized by law for such purpose, the Secretary of Defense may make contributions for the United States share of the cost of multilateral programs for the acquisition and construction of military facilities and installations (including international military headquarters) and for related expenses for the collective defense of the North Atlantic Treaty Area.
@@ -153,11 +153,46 @@
 * (d) For architectural and engineering services and construction design related to military construction and family housing projects, the Secretaries of the military departments may incur obligations for contracts or portions of contracts using military construction and family housing appropriations from different fiscal years to the extent that those appropriations are available for obligation.
 
 ### §2808. Construction authority in the event of a declaration of war or national emergency
-* (a) In the event of a declaration of war or the declaration by the President of a national emergency in accordance with the National Emergencies Act (50 U.S.C. 1601 et seq.) that requires use of the armed forces, the Secretary of Defense, without regard to any other provision of law, may undertake military construction projects, and may authorize the Secretaries of the military departments to undertake military construction projects, not otherwise authorized by law that are necessary to support such use of the armed forces. Such projects may be undertaken only within the total amount of funds that have been appropriated for military construction, including funds appropriated for family housing, that have not been obligated.
+* (a) CONSTRUCTION AUTHORIZED.—In the event of a declaration of war or the declaration by the President of a national emergency in accordance with the National Emergencies Act (50 U.S.C. 1601 et seq.) that requires use of the armed forces, the Secretary of Defense, without regard to any other provision of law, may undertake military construction projects, and may authorize the Secretaries of the military departments to undertake military construction projects, not otherwise authorized by law that are necessary to support such use of the armed forces.
 
-* (b) When a decision is made to undertake military construction projects authorized by this section, the Secretary of Defense shall notify, in an electronic medium pursuant to section 480 of this title, the appropriate committees of Congress of the decision and of the estimated cost of the construction projects, including the cost of any real estate action pertaining to those construction projects.
+* (b) CONDITIONS ON SOURCES OF FUNDS.—A military construction project to be undertaken using the construction authority described in subsection (a) may be undertaken only within the total amount of funds that have been appropriated for military construction, excluding funds appropriated for family housing, that—
 
-* (c) The authority described in subsection (a) shall terminate with respect to any war or national emergency at the end of the war or national emergency.
+  * (1) remain unobligated as of the date on which the first contract would be entered into in support of the national emergency declaration described in subsection (a); and
+
+  * (2) are available because the military construction project for which the funds were appropriated—
+
+    * (A) has been canceled; or
+
+    * (B) has reduced costs as a result of project modifications or other cost savings.
+
+
+* (c) LIMITATION ON AMOUNT OF FUNDS AVAILABLE FOR NATIONAL EMERGENCY.—(1) Except as provided in paragraph (2), in the event of a declaration by the President of a national emergency in which the construction authority described in subsection (a) is used, the total cost of all military construction projects undertaken using that authority during the national emergency may not exceed $500,000,000.
+
+* (2) In the event of a national emergency declaration in which the construction authority described in subsection (a) will be used only within the United States, the total cost of all military construction projects undertaken using that authority during the national emergency may not exceed $100,000,000.
+
+* (d) WAIVER OF OTHER PROVISIONS OF LAW IN EVENT OF NATIONAL EMERGENCY.—In the event of a declaration by the President of a national emergency in which the construction authority described in subsection (a) is used, the authority provided by such subsection to waive or disregard another provision of law that would otherwise apply to a military construction project authorized by this section may be used only if—
+
+  * (1) such other provision of law does not provide a means by which compliance with the requirements of the law may be waived, modified, or expedited; and
+
+  * (2) the Secretary of Defense determines that the nature of the national emergency necessitates the noncompliance with the requirements of the law.
+
+
+* (e) NOTIFICATION REQUIREMENT.—(1)When a decision is made to undertake military construction projects authorized by this section, the Secretary of Defense shall notify, in an electronic medium pursuant to section 480 of this title, the appropriate committees of Congress of the following:
+
+  * (A) The reasons for the decision to use the construction authority described in subsection (a), including, in the event of a declaration by the President of a national emergency, the reasons why use of the armed forces is required in response to the declared national emergency.
+
+  * (B) The construction projects to be undertaken using the construction authority described in subsection (a), including, in the event of a declaration by the President of a national emergency, an explanation of how each construction project directly supports the immediate security, logistical, or short-term housing and ancillary supporting facility needs of the members of the armed forces used in the national emergency.
+
+  * (C) The estimated cost of the construction projects to be undertaken using the construction authority described in subsection (a), including the cost of any real estate action pertaining to the construction projects, and certification of compliance with the funding conditions imposed by subsections (b) and (c).
+
+  * (D) Any determination made pursuant to subsection (d)(2) to waive or disregard another provision of law to undertake any construction project using the construction authority described in subsection (a).
+
+  * (E) The military construction projects, including any ancillary supporting facility projects, whose cancellation, modification, or other cost savings result in funds being available to undertake construction projects using the construction authority described in subsection (a) and the possible impact of the cancellation or modification of such military construction projects on military readiness and the quality of life of members of the armed forces and their dependents.
+
+
+* (2) In the event of a declaration by the President of a national emergency in which the construction authority described in subsection (a) is used, a construction project to be undertaken using such construction authority may be carried out only after the end of the five-day period beginning on the date the notification required by paragraph (1) is received by the congressional defense committees.
+
+* (f) TERMINATION OF AUTHORITY.—The authority described in subsection (a) shall terminate with respect to any war or national emergency at the end of the war or national emergency.
 
 ### §2809. Long-term facilities contracts for certain activities and services
 * (a) SUBMISSION AND AUTHORIZATION OF PROPOSED PROJECTS.—The Secretary concerned may enter into a contract for the procurement of services in connection with the construction, management, and operation of a facility on or near a military installation for the provision of an activity or service described in subsection (b) if—
@@ -388,7 +423,7 @@
   * (2) Any other service determined by the Secretary to be a service that supports the operation and maintenance of real property, personal property, or facilities.
 
 ### §2815. Military installation resilience projects
-* (a) PROJECTS REQUIRED.—The Secretary of Defense shall carry out military construction projects for military installation resilience, in accordance with section 2802 of this title.
+* (a) PROJECTS REQUIRED.—The Secretary of Defense shall carry out military construction projects for military installation resilience, in accordance with section 2802 of this title (except as provided in subsections (d)(3) and (e)).
 
 * (b) CONGRESSIONAL NOTIFICATION.—(1) When a decision is made to carry out a project under this section, the Secretary of Defense shall notify the congressional defense committees of that decision.
 
@@ -403,12 +438,71 @@
   * (D) address known vulnerabilities.
 
 
-* (c) TIMING OF PROJECTS.—A project may be carried out under this section only after the end of the 14-day period beginning on the date that notification with respect to that project under subsection (b) is received by the congressional defense committees in an electronic medium pursuant to section 480 of this title.
+* (c) TIMING OF PROJECTS.—Except as provided in subsection (e)(2), a project may be carried out under this section only after the end of the 14-day period beginning on the date that notification with respect to that project under subsection (b) is received by the congressional defense committees in an electronic medium pursuant to section 480 of this title.
 
-* (d) ANNUAL REPORT.—Not later than 90 days after the end of each fiscal year until December 31, 2025, the Secretary of Defense shall submit to the congressional defense committees a report on the status of the planned and active projects carried out under this section (including completed projects), and shall include in the report with respect to each such project the following information:
+* (d) LOCATION OF PROJECTS.—Projects carried out pursuant to this section may be carried out—
+
+  * (1) on a military installation;
+
+  * (2) on a facility used by the Department of Defense that is owned and operated by a State, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, or the Virgin Islands, even if the facility is not under the jurisdiction of the Department of Defense, if the Secretary of Defense determines that the facility is subject to significant use by the armed forces for testing or training; or
+
+  * (3) outside of a military installation or facility described in paragraph (2) if the Secretary concerned determines that the project would preserve or enhance the resilience of—
+
+    * (A) a military installation;
+
+    * (B) a facility described in paragraph (2); or
+
+    * (C) community infrastructure determined by the Secretary concerned to be necessary to maintain, improve, or rapidly reestablish installation mission assurance and mission-essential functions.
+
+
+* (e) ALTERNATIVE FUNDING SOURCE.—(1) In carrying out a project under this section, the Secretary concerned may use amounts available for operation and maintenance for the military department concerned if the Secretary concerned submits a notification to the congressional defense committees of the decision to carry out the project using such amounts and includes in the notification—
+
+  * (A) the current estimate of the cost of the project;
+
+  * (B) the source of funds for the project; and
+
+  * (C) a certification that deferral of the project for inclusion in the next Military Construction Authorization Act would be inconsistent with national security or the protection of health, safety, or environmental quality, as the case may be.
+
+
+* (2) A project carried out under this section using amounts under paragraph (1) may be carried out only after the end of the 7-day period beginning on the date on which a copy of the notification described in paragraph (1) is provided in an electronic medium pursuant to section 480 of this title.
+
+* (3) The maximum aggregate amount that the Secretary concerned may obligate from amounts available to the military department concerned for operation and maintenance in any fiscal year for projects under the authority of this subsection is $100,000,000.
+
+* (f) ANNUAL REPORT.—Not later than 90 days after the end of each fiscal year until December 31, 2025, the Secretary of Defense shall submit to the congressional defense committees a report on the status of the planned and active projects carried out under this section (including completed projects), and shall include in the report with respect to each such project the following information:
 
   * (1) The title, location, a brief description of the scope of work, the original project cost estimate, and the current working cost estimate.
 
   * (2) The information provided under subsection (b)(2).
 
   * (3) Such other information as the Secretary considers appropriate.
+
+### §2816. Consideration of energy security and energy resilience in life-cycle cost for military construction
+* (a) IN GENERAL.—(1) The Secretary concerned, when evaluating the life-cycle designed cost of a covered military construction project, shall include as a facility requirement the long-term consideration of energy security and energy resilience that would ensure that the resulting facility is capable of continuing to perform its missions, during the life of the facility, in the event of a natural or human-caused disaster, an attack, or any other unplanned event that would otherwise interfere with the ability of the facility to perform its missions.
+
+* (2) A facility requirement under paragraph (1) shall not be weighed, for cost purposes, against other facility requirements in determining the design of the facility.
+
+* (b) INCLUSION IN THE BUILDING LIFE-CYCLE COST PROGRAM.—The Secretary shall include the requirements of subsection (a) in applying the latest version of the building life-cycle cost program, as developed by the National Institute of Standards and Technology, to consider on-site distributed energy assets in a building design for a covered military construction project.
+
+* (c) COVERED MILITARY CONSTRUCTION PROJECT DEFINED.—(1) In this section, the term "covered military construction project" means a military construction project for a facility that is used to perform critical functions during a natural or human-caused disaster, an attack, or any other unplanned event.
+
+* (2) For purposes of paragraph (1), the term "facility" includes at a minimum any of the following:
+
+  * (A) Operations centers.
+
+  * (B) Nuclear command and control facilities.
+
+  * (C) Integrated strategic and tactical warning and attack assessment facilities.
+
+  * (D) Continuity of government facilities.
+
+  * (E) Missile defense facilities.
+
+  * (F) Air defense facilities.
+
+  * (G) Hospitals.
+
+  * (H) Armories and readiness centers of the National Guard.
+
+  * (I) Communications facilities.
+
+  * (J) Satellite and missile launch and control facilities.

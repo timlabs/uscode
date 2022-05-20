@@ -11,7 +11,7 @@
 #### (b) Designation of eligible countries and instrumentalities
 * The President may designate a foreign country or instrumentality for purposes of subsection (a) only if he determines that such country or instrumentality—
 
-  * (1) is a country or instrumentality which (A) has become a party to the Agreement or the North American Free Trade Agreement, and (B) will provide appropriate reciprocal competitive government procurement opportunities to United States products and suppliers of such products;
+  * (1) is a country or instrumentality which (A) has become a party to the Agreement or the USMCA (as defined in section 4502 of this title), and (B) will provide appropriate reciprocal competitive government procurement opportunities to United States products and suppliers of such products;
 
   * (2) is a country or instrumentality, other than a major industrial country, which (A) will otherwise assume the obligations of the Agreement, and (B) will provide such opportunities to such products and suppliers;
 
@@ -24,7 +24,7 @@
 
 #### (d) Omitted
 #### (e) Procurement procedures by certain Federal agencies
-* Notwithstanding any other provision of law, the President may direct any agency of the United States listed in Annex 1001.1a–2 of the North American Free Trade Agreement to procure eligible products in compliance with the procedural provisions of chapter 10 of such Agreement.
+* Notwithstanding any other provision of law, the President may direct any agency of the United States listed in Annex 13–A of the USMCA (as defined in section 4502 of this title) to procure eligible products in compliance with the procedural provisions of chapter 10 of such Agreement.
 
 #### (f) Small business and minority preferences
 * The authority of the President under subsection (a) of this section to waive any law, regulation, procedure, or practice regarding Government procurement does not authorize the waiver of any small business or minority preference.
@@ -164,7 +164,7 @@
 
       * (i) a party to the Agreement, a product or service of that country or instrumentality which is covered under the Agreement for procurement by the United States;
 
-      * (ii) a party to the North American Free Trade Agreement, a product or service of that country or instrumentality which is covered under the North American Free Trade Agreement for procurement by the United States;
+      * (ii) Mexico, as a party to the USMCA (as defined in section 4502 of this title), a product or service of that country or instrumentality which is covered under the USMCA for procurement by the United States;
 
       * (iii) a party to a free trade agreement that entered into force with respect to the United States after December 31, 2003, and before January 2, 2005, a product or service of that country or instrumentality which is covered under the free trade agreement for procurement by the United States;
 

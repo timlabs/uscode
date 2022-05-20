@@ -74,7 +74,7 @@
 
 #### (b) Eligible entities
 * #### (1) In general
-  * A public health training center shall be an accredited school of public health, or another public or nonprofit private institution accredited for the provision of graduate or specialized training in public health, that plans, develops, operates, and evaluates projects that are in furtherance of the goals established by the Secretary for the year 2000 in the areas of preventive medicine, health promotion and disease prevention, or improving access to and quality of health services in medically underserved communities.
+  * A public health training center shall be an accredited school of public health, or another public or nonprofit private institution accredited for the provision of graduate or specialized training in public health, that plans, develops, operates, and evaluates projects to improve preventive medicine, health promotion and disease prevention, or access to and quality of health care services in rural or medically underserved communities.
 
 * #### (2) Preference
   * In awarding grants or contracts under this section the Secretary shall give preference to accredited schools of public health.
@@ -166,7 +166,7 @@
 
 ### §295e. Authorization of appropriations
 #### (a) In general
-* For the purpose of carrying out this subpart, there is authorized to be appropriated $43,000,000 for fiscal year 2011, and such sums as may be necessary for each of the fiscal years 2012 through 2015.
+* For the purpose of carrying out this subpart, there is authorized to be appropriated $17,000,000 for each of fiscal years 2021 through 2025.
 
 #### (b) Limitation regarding certain program
 * In obligating amounts appropriated under subsection (a), the Secretary may not obligate more than 30 percent for carrying out section 295b of this title.

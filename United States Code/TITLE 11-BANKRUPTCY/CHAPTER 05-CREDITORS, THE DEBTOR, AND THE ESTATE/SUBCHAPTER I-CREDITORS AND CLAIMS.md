@@ -11,6 +11,27 @@
 
 * (e) A claim arising from the liability of a debtor for fuel use tax assessed consistent with the requirements of section 31705 of title 49 may be filed by the base jurisdiction designated pursuant to the International Fuel Tax Agreement (as defined in section 31701 of title 49) and, if so filed, shall be allowed as a single claim.
 
+* (f)(1) In this subsection—
+
+  * (A) the term "CARES forbearance claim" means a supplemental claim for the amount of a Federally backed mortgage loan or a Federally backed multifamily mortgage loan that was not received by an eligible creditor during the forbearance period of a loan granted forbearance under section 4022 or 4023 of the CARES Act (15 U.S.C. 9056, 9057);
+
+  * (B) the term "eligible creditor" means a servicer (as defined in section 6(i) of the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2605(i)) with a claim for a Federally backed mortgage loan or a Federally backed multifamily mortgage loan of the debtor that is provided for by a plan under section 1322(b)(5);
+
+  * (C) the term "Federally backed mortgage loan" has the meaning given the term in section 4022(a) of the CARES Act (15 U.S.C. 9056(a)); and
+
+  * (D) the term "Federally backed multifamily mortgage loan" has the meaning given the term in section 4023(f) of the CARES Act (15 U.S.C. 9057(f)).
+
+
+* (2)(A) Only an eligible creditor may file a supplemental proof of claim for a CARES forbearance claim.
+
+* (B) If an underlying mortgage loan obligation has been modified or deferred by an agreement of the debtor and an eligible creditor of the mortgage loan in connection with a mortgage forbearance granted under section 4022 or 4023 of the CARES Act (15 U.S.C. 9056, 9057) in order to cure mortgage payments forborne under the forbearance, the proof of claim filed under subparagraph (A) shall include—
+
+  * (i) the relevant terms of the modification or deferral;
+
+  * (ii) for a modification or deferral that is in writing, a copy of the modification or deferral; and
+
+  * (iii) a description of the payments to be deferred until the date on which the mortgage loan matures.
+
 ### §502. Allowance of claims or interests
 * (a) A claim or interest, proof of which is filed under section 501 of this title, is deemed allowed, unless a party in interest, including a creditor of a general partner in a partnership that is a debtor in a case under chapter 7 of this title, objects.
 
@@ -52,7 +73,13 @@
 
   * (8) such claim results from a reduction, due to late payment, in the amount of an otherwise applicable credit available to the debtor in connection with an employment tax on wages, salaries, or commissions earned from the debtor; or
 
-  * (9) proof of such claim is not timely filed, except to the extent tardily filed as permitted under paragraph (1), (2), or (3) of section 726(a) of this title or under the Federal Rules of Bankruptcy Procedure, except that a claim of a governmental unit shall be timely filed if it is filed before 180 days after the date of the order for relief or such later time as the Federal Rules of Bankruptcy Procedure may provide, and except that in a case under chapter 13, a claim of a governmental unit for a tax with respect to a return filed under section 1308 shall be timely if the claim is filed on or before the date that is 60 days after the date on which such return was filed as required.
+  * (9) proof of such claim is not timely filed, except to the extent tardily filed as permitted under paragraph (1), (2), or (3) of section 726(a) or under the Federal Rules of Bankruptcy Procedure, except that—
+
+    * (A) a claim of a governmental unit shall be timely filed if it is filed before 180 days after the date of the order for relief or such later time as the Federal Rules of Bankruptcy Procedure may provide;
+
+    * (B) in a case under chapter 13, a claim of a governmental unit for a tax with respect to a return filed under section 1308 shall be timely if the claim is filed on or before the date that is 60 days after the date on which such return was filed as required; and
+
+    * (C) a CARES forbearance claim (as defined in section 501(f)(1)) shall be timely filed if the claim is filed before the date that is 120 days after the expiration of the forbearance period of a loan granted forbearance under section 4022 or 4023 of the CARES Act (15 U.S.C. 9056, 9057).
 
 
 * (c) There shall be estimated for purpose of allowance under this section—
@@ -357,7 +384,7 @@
 
 * (c) For the purpose of subsection (a) of this section, a claim of a governmental unit arising from an erroneous refund or credit of a tax has the same priority as a claim for the tax to which such refund or credit relates.
 
-* (d) An entity that is subrogated to the rights of a holder of a claim of a kind specified in subsection (a)(1), (a)(4), (a)(5), (a)(6), (a)(7), (a)(8), or (a)(9) of this section is not subrogated to the right of the holder of such claim to priority under such subsection.
+* (d) An entity that is subrogated to the rights of a holder of a claim of a kind specified in subsection (a)(1), (a)(4), (a)(5), (a)(6), (a)(7), or (a)(9) or subparagraphs (A) through (E) and (G) of subsection (a)(8) of this section is not subrogated to the right of the holder of such claim to priority under such subsection or subparagraph.
 
 ### §508. Effect of distribution other than under this title
 * If a creditor of a partnership debtor receives, from a general partner that is not a debtor in a case under chapter 7 of this title, payment of, or a transfer of property on account of, a claim that is allowed under this title and that is not secured by a lien on property of such partner, such creditor may not receive any payment under this title on account of such claim until each of the other holders of claims on account of which such holders are entitled to share equally with such creditor under this title has received payment under this title equal in value to the consideration received by such creditor from such general partner.

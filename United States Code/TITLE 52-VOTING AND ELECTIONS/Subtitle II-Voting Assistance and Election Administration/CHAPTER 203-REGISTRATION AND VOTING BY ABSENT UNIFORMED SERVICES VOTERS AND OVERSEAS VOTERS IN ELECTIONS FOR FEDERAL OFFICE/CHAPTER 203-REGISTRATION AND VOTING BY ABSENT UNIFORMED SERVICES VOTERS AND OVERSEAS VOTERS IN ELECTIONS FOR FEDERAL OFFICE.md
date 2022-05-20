@@ -48,6 +48,13 @@
 #### (d) Authorization of appropriations for carrying out Federal Voting Assistance Program Improvements
 * There are authorized to be appropriated to the Presidential designee such sums as are necessary for purposes of carrying out subsection (b)(10).
 
+### §20301a. Duties of Secretary under Uniformed and Overseas Citizens Absentee Voting Act
+#### (a) Ensuring ability of absent uniformed services voters serving at diplomatic and consular posts to receive and transmit balloting materials
+* In carrying out the Secretary's duties as the Presidential designee under the Uniformed and Overseas Citizens Absentee Voting Act (52 U.S.C. 20301 et seq.), the Secretary shall take such actions as may be necessary, feasible, and practical to ensure that a uniformed services voter under such Act who is absent from the United States by reason of active duty or service at a diplomatic and consular post of the United States is able to receive and transmit balloting materials in the same manner and with the same rights and protections as a uniformed services voter under such Act who is absent from the United States by reason of active duty or service at a military installation.
+
+#### (b) Effective date
+* This section shall apply with respect to elections held on or after January 1, 2021.
+
 ### §20302. State responsibilities
 #### (a) In general
 * Each State shall—
@@ -345,8 +352,8 @@
 
   * (3) A detailed description of the specific steps taken towards the implementation of voter registration assistance for absent uniformed services voters under section 1566a of title 10.
 
-#### (b) Annual report on effectiveness of activities and utilization of certain procedures
-* Not later than March 31 of each year, the Presidential designee shall transmit to the President and to the relevant committees of Congress a report containing the following information:
+#### (b) Biennial report on effectiveness of activities and utilization of certain procedures
+* Not later than September 30 of each odd-numbered year, the Presidential designee shall transmit to the President and to the relevant committees of Congress a report containing the following information with respect to the Federal elections held during the preceding calendar year:
 
   * (1) An assessment of the effectiveness of activities carried out under section 20305 of this title, including the activities and actions of the Federal Voting Assistance Program of the Department of Defense, a separate assessment of voter registration and participation by absent uniformed services voters, a separate assessment of voter registration and participation by overseas voters who are not members of the uniformed services, and a description of the cooperation between States and the Federal Government in carrying out such section.
 
@@ -357,7 +364,7 @@
     * (B) The number of absent uniformed services voters who utilized voter registration assistance provided under such section.
 
 
-  * (3) In the case of a report submitted under this subsection in the year following a year in which a regularly scheduled general election for Federal office is held, a description of the utilization of the procedures for the collection and delivery of marked absentee ballots established pursuant to section 20304 of this title, which shall include the number of marked absentee ballots collected and delivered under such procedures and the number of such ballots which were not delivered by the time of the closing of the polls on the date of the election (and the reasons such ballots were not so delivered).
+  * (3) A description of the utilization of the procedures for the collection and delivery of marked absentee ballots established pursuant to section 20304 of this title, which shall include the number of marked absentee ballots collected and delivered under such procedures and the number of such ballots which were not delivered by the time of the closing of the polls on the date of the election (and the reasons such ballots were not so delivered).
 
 #### (c) Definitions
 * In this section:

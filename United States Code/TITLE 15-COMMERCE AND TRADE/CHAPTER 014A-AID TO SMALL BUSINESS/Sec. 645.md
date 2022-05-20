@@ -9,9 +9,9 @@
 * Whoever, with intent to defraud, knowingly conceals, removes, disposes of, or converts to his own use or to that of another, any property mortgaged or pledged to, or held by, the Administration, shall be fined not more than $5,000 or imprisoned not more than five years, or both; but if the value of such property does not exceed $100, he shall be fined not more than $1,000 or imprisoned not more than one year, or both.
 
 #### (d) Misrepresentation, etc.
-* (1) Whoever misrepresents the status of any concern or person as a "small business concern", a "qualified HUBZone small business concern", a "small business concern owned and controlled by socially and economically disadvantaged individuals", or a "small business concern owned and controlled by women", in order to obtain for oneself or another any—
+* (1) Whoever misrepresents the status of any concern or person as a "small business concern", a "qualified HUBZone small business concern", a "small business concern owned and controlled by service-disabled veterans", a "small business concern owned and controlled by veterans", a "small business concern owned and controlled by socially and economically disadvantaged individuals", or a "small business concern owned and controlled by women", in order to obtain for oneself or another any—
 
-  * (A) prime contract to be awarded pursuant to section 638, 644, or 657a of this title;
+  * (A) prime contract to be awarded pursuant to section 637, 638, 644, 657a, 657f, or 657f–1 of this title;
 
   * (B) subcontract to be awarded pursuant to section 637(a) of this title;
 
@@ -34,7 +34,7 @@
 * (3) LIMITATION ON LIABILITY.—This subsection shall not apply to any conduct in violation of subsection (a) if the defendant acted in good faith reliance on a written advisory opinion from a Small Business Development Center (as defined in this chapter), or an entity participating in the Procurement Technical Assistance Cooperative Agreement Program defined in chapter 142 of title 10; however nothing in this chapter shall obligate either entity to provide such a letter nor shall the provision of such a letter in any way render the providing entity liable to the business concern should the Administrator later determine that the concern is not a small business concern. Upon issuance of an advisory opinion under this paragraph, the entity issuing the advisory opinion shall remit a copy of the opinion to the General Counsel of the Administration, who may reject the advisory opinion. If the General Counsel of the Administration rejects the advisory opinion, the Administration shall notify the entity issuing the advisory opinion and the recipient of the opinion, after which time the business concern may not rely upon the opinion.
 
 #### (e) Representations under subsection (d) to be in writing
-* Any representation of the status of any concern or person as a "small business concern", a "HUBZone small business concern", a "small business concern owned and controlled by socially and economically disadvantaged individuals", or a "small business concern owned and controlled by women" in order to obtain any prime contract or subcontract enumerated in subsection (d) of this section shall be in writing.
+* Any representation of the status of any concern or person as a "small business concern", a "HUBZone small business concern", a "small business concern owned and controlled by service-disabled veterans", a "small business concern owned and controlled by veterans", a "small business concern owned and controlled by socially and economically disadvantaged individuals", or a "small business concern owned and controlled by women" in order to obtain any prime contract or subcontract enumerated in subsection (d) of this section shall be in writing.
 
 #### (f) Misrepresentation of compliance with section 636(j)(10)(I)
 * Whoever falsely certifies past compliance with the requirements of section 636(j)(10)(I) of this title shall be subject to the penalties prescribed in subsection (d).

@@ -14,6 +14,16 @@
 #### (c) Effective date of retirements and separations
 * A retirement or separation under subsection (a) shall take effect on the first day of the sixth month beginning after the date on which the Secretary approves the retirement or separation, except that if the officer concerned requests an earlier retirement or separation date, the date shall be as determined by the Secretary.
 
+#### (d) Deferment of retirement or separation for medical reasons
+* #### (1) In general
+  * If the Secretary determines that the evaluation of the medical condition of an officer requires hospitalization or medical observation that cannot be completed with confidence in a manner consistent with the officer's well-being before the date on which the officer would otherwise be required to retire or be separated under this section, the Secretary may defer the retirement or separation of the officer.
+
+* #### (2) Consent required
+  * A deferment may only be made with the written consent of the officer involved. If the officer does not provide written consent to the deferment, the officer shall be retired or separated as scheduled.
+
+* #### (3) Limitation
+  * A deferment of retirement or separation under this subsection may not extend for more than 30 days after completion of the evaluation requiring hospitalization or medical observation.
+
 ### §3042. Separation pay
 #### (a) Authorization of payment
 * An officer who is separated under section 3041(a)(2) of this title and who has completed more than three years of continuous active service immediately before that separation is entitled to separation pay computed under subsection (b) unless the Secretary determines that the conditions under which the officer is separated do not warrant payment of that pay.
@@ -31,6 +41,13 @@
 
 #### (c) Other conditions, requirements, and administrative provisions
 * The provisions of subsections (f), (g), and (h) of section 1174 of title 10 shall apply to separation pay under this section in the same manner as such provisions apply to separation pay under that section.
+
+#### (d) Exception
+* An officer discharged for twice failing selection for promotion to the next higher grade is not entitled to separation pay under this section if the officer—
+
+  * (1) expresses a desire not to be selected for promotion; or
+
+  * (2) requests removal from the list of selectees.
 
 ### §3043. Mandatory retirement for age
 #### (a) Officers below grade of rear admiral (lower half)

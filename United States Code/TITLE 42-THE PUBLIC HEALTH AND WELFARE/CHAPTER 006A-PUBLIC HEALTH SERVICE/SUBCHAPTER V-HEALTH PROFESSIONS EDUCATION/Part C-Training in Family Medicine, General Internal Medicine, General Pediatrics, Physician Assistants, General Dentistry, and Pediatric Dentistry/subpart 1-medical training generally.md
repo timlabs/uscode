@@ -17,7 +17,7 @@
 
     * (F) to plan, develop, and operate a physician assistant education program, and for the training of individuals who will teach in programs to provide such training;
 
-    * (G) to plan, develop, and operate a demonstration program that provides training in new competencies, as recommended by the Advisory Committee on Training in Primary Care Medicine and Dentistry and the National Health Care Workforce Commission established in section 294q of this title, which may include—
+    * (G) to plan, develop, and operate a program that identifies or develops innovative models of providing care, and trains primary care physicians on such models and in new competencies, as recommended by the Advisory Committee on Training in Primary Care Medicine and Dentistry and the National Health Care Workforce Commission established in section 294q of this title, which may include—
 
       * (i) providing training to primary care physicians relevant to providing care through patient-centered medical homes (as defined by the Secretary for purposes of this section);
 
@@ -30,6 +30,9 @@
 
 * #### (2) Duration of awards
   * The period during which payments are made to an entity from an award of a grant or contract under this subsection shall be 5 years.
+
+* #### (3) Priorities in making awards
+  * In awarding grants or contracts under paragraph (1), the Secretary may give priority to qualified applicants that train residents in rural areas, including for Tribes or Tribal Organizations in such areas.
 
 #### (b) Capacity building in primary care
 * #### (1) In general
@@ -57,7 +60,7 @@
 
     * (D) have a record of training individuals who are from underrepresented minority groups or from a rural or disadvantaged background;
 
-    * (E) provide training in the care of vulnerable populations such as children, older adults, homeless individuals, victims of abuse or trauma, individuals with mental health or substance-related disorders, individuals with HIV/AIDS, and individuals with disabilities;
+    * (E) provide training in the care of vulnerable populations such as children, older adults, homeless individuals, victims of abuse or trauma, individuals with mental health or substance use disorders, individuals with HIV/AIDS, and individuals with disabilities;
 
     * (F) establish formal relationships and submit joint applications with federally qualified health centers, rural health clinics, area health education centers, or clinics located in underserved areas or that serve underserved populations;
 
@@ -72,7 +75,7 @@
 
 #### (c) Authorization of appropriations
 * #### (1) In general
-  * For purposes of carrying out this section (other than subsection (b)(1)(B)), there are authorized to be appropriated $125,000,000 for fiscal year 2010, and such sums as may be necessary for each of fiscal years 2011 through 2014.
+  * For purposes of carrying out this section (other than subsection (b)(1)(B)), there are authorized to be appropriated $48,924,000 for each of fiscal years 2021 through 2025.
 
 * #### (2) Training programs
   * Fifteen percent of the amount appropriated pursuant to paragraph (1) in each such fiscal year shall be allocated to the physician assistant training programs described in subsection (a)(1)(F), which prepare students for practice in primary care.
@@ -155,7 +158,7 @@
 
   * (4) Qualified applicants that establish formal relationships with Federally qualified health centers, rural health centers, or accredited teaching facilities and that conduct training of students, residents, fellows, or faculty at the center or facility.
 
-  * (5) Qualified applicants that conduct teaching programs targeting vulnerable populations such as older adults, homeless individuals, victims of abuse or trauma, individuals with mental health or substance-related disorders, individuals with disabilities, and individuals with HIV/AIDS, and in the risk-based clinical disease management of all populations.
+  * (5) Qualified applicants that conduct teaching programs targeting vulnerable populations such as older adults, homeless individuals, victims of abuse or trauma, individuals with mental health or substance use disorders, individuals with disabilities, and individuals with HIV/AIDS, and in the risk-based clinical disease management of all populations.
 
   * (6) Qualified applicants that include educational activities in cultural competency and health literacy.
 
@@ -170,7 +173,7 @@
 * The period during which payments are made to an entity from an award of a grant or contract under subsection (a) shall be 5 years. The provision of such payments shall be subject to annual approval by the Secretary and subject to the availability of appropriations for the fiscal year involved to make the payments.
 
 #### (f) Authorizations of appropriations
-* For the purpose of carrying out subsections (a) and (b), there is authorized to be appropriated $30,000,000 for fiscal year 2010 and such sums as may be necessary for each of fiscal years 2011 through 2015.
+* For the purpose of carrying out subsections (a) and (b), there is authorized to be appropriated $28,531,000 for each of fiscal years 2021 through 2025.
 
 #### (g) Carryover funds
 * An entity that receives an award under this section may carry over funds from 1 fiscal year to another without obtaining approval from the Secretary. In no case may any funds be carried over pursuant to the preceding sentence for more than 3 years.
@@ -211,7 +214,7 @@
 
   * (1) provide advice and recommendations to the Secretary concerning policy and program development and other matters of significance concerning the activities under section 293k of this title;
 
-  * (2) not later than 3 years after November 13, 1998, and annually thereafter, prepare and submit to the Secretary, and the Committee on Labor and Human Resources of the Senate, and the Committee on Commerce of the House of Representatives, a report describing the activities of the Committee, including findings and recommendations made by the Committee concerning the activities under section 293k of this title;
+  * (2) not later than 3 years after November 13, 1998, and annually thereafter, prepare and submit to the Secretary, and the Committee on Health, Education, Labor, and Pensions of the Senate, and the Committee on Energy and Commerce of the House of Representatives, a report describing the activities of the Committee, including findings and recommendations made by the Committee concerning the activities under section 293k of this title;
 
   * (3) develop, publish, and implement performance measures for programs under this part;
 

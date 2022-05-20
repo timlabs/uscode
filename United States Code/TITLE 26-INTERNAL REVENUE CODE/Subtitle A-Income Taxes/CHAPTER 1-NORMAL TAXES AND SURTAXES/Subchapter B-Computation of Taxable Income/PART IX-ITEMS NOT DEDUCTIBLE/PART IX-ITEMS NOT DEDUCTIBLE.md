@@ -343,17 +343,13 @@
   * This subsection shall apply to any interest on indebtedness allocable (as determined under paragraph (2)) to property used to produce property to which this subsection applies to the extent such interest is allocable (as so determined) to the produced property.
 
 * #### (4) Exemption for aging process of beer, wine, and distilled spirits
-  * #### (A) In general
-    * For purposes of this subsection, the production period shall not include the aging period for—
+  * For purposes of this subsection, the production period shall not include the aging period for—
 
-      * (i) beer (as defined in section 5052(a)),
+    * (A) beer (as defined in section 5052(a)),
 
-      * (ii) wine (as described in section 5041(a)), or
+    * (B) wine (as described in section 5041(a)), or
 
-      * (iii) distilled spirits (as defined in section 5002(a)(8)), except such spirits that are unfit for use for beverage purposes.
-
-  * #### (B) Termination
-    * This paragraph shall not apply to interest costs paid or accrued after December 31, 2020.
+    * (C) distilled spirits (as defined in section 5002(a)(8)), except such spirits that are unfit for use for beverage purposes.
 
 * #### (5) Definitions
   * For purposes of this subsection—
@@ -1567,7 +1563,7 @@
 
     * (A) such expense is described in paragraph (2), (3), (4), (7), (8), or (9) of subsection (e),
 
-    * (B) in the case of an employer who pays or reimburses moving expenses of an employee, such expenses are includible in the income of the employee under section 82, or
+    * (B) in the case of an employer who pays or reimburses moving expenses of an employee, such expenses are includible in the income of the employee under section 82,
 
     * (C) such expense is for food or beverages—
 
@@ -1582,7 +1578,13 @@
 
       * (iii) provided on an oil or gas platform or drilling rig if the platform or rig is located offshore, or
 
-      * (iv) provided on an oil or gas platform or drilling rig, or at a support camp which is in proximity and integral to such platform or rig, if the platform or rig is located in the United States north of 54 degrees north latitude.
+      * (iv) provided on an oil or gas platform or drilling rig, or at a support camp which is in proximity and integral to such platform or rig, if the platform or rig is located in the United States north of 54 degrees north latitude, or
+
+    * (D) such expense is—
+
+      * (i) for food or beverages provided by a restaurant, and
+
+      * (ii) paid or incurred before January 1, 2023.
 
 
 * Clauses (i) and (ii) of subparagraph (C) shall not apply to vessels primarily engaged in providing luxury water transportation (determined under the principles of subsection (m)). In the case of the employee, the exception of subparagraph (A) shall not apply to expenses described in subparagraph (B).

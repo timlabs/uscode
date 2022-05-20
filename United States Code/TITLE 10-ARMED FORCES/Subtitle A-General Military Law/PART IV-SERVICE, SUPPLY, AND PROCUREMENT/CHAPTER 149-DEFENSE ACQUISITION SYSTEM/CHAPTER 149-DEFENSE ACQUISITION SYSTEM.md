@@ -24,7 +24,7 @@
 * (c) ROLE OF CUSTOMER.—The customer of a major defense acquisition program shall be responsible for balancing resources against priorities on the acquisition program and ensuring that appropriate trade-offs are made among cost, schedule, technical feasibility, and performance on a continuing basis throughout the life of the acquisition program.
 
 ### §2547. Acquisition-related functions of chiefs of the armed forces
-* (a) PERFORMANCE OF CERTAIN ACQUISITION-RELATED FUNCTIONS.—The Secretary of Defense shall ensure that the Chief of Staff of the Army, the Chief of Naval Operations, the Chief of Staff of the Air Force, and the Commandant of the Marine Corps assist the Secretary of the military department concerned in the performance of the following acquisition-related functions of such department:
+* (a) PERFORMANCE OF CERTAIN ACQUISITION-RELATED FUNCTIONS.—The Secretary of Defense shall ensure that the Chief of Staff of the Army, the Chief of Naval Operations, the Chief of Staff of the Air Force, the Commandant of the Marine Corps, and the Chief of Space Operations assist the Secretary of the military department concerned in the performance of the following acquisition-related functions of such department:
 
   * (1) The development of requirements for equipping the armed force concerned (subject, where appropriate, to validation by the Joint Requirements Oversight Council pursuant to section 181 of this title).
 

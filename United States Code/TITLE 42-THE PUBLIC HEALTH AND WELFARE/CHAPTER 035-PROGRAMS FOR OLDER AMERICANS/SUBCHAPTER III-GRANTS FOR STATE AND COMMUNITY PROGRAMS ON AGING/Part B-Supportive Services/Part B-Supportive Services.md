@@ -35,9 +35,9 @@
     * (C) provision, to older individuals who provide uncompensated care to their adult children with disabilities, of counseling to assist such older individuals with permanency planning for such children;
 
 
-  * (7) services designed to enable older individuals to attain and maintain physical and mental well-being through programs of regular physical activity, exercise, music therapy, art therapy, and dance-movement therapy;
+  * (7) services designed to enable older individuals to attain and maintain physical and mental well-being through programs of regular physical activity, exercise, music therapy, art therapy, cultural experiences (including the arts), and dance-movement therapy;
 
-  * (8) services designed to provide health screening (including mental and behavioral health screening and falls prevention services screening) to detect or prevent (or both) illnesses and injuries that occur most frequently in older individuals;
+  * (8) services designed to provide health screening (including mental and behavioral health screening, screening for negative health effects associated with social isolation, falls prevention services screening, and traumatic brain injury screening) to detect or prevent (or both) illnesses and injuries that occur most frequently in older individuals;
 
   * (9) services designed to provide, for older individuals, preretirement counseling and assistance in planning for and assessing future post-retirement needs with regard to public and private insurance, public benefits, lifestyle changes, relocation, legal matters, leisure time, and other appropriate matters;
 
@@ -69,9 +69,11 @@
 
   * (23) services designed to support States, area agencies on aging, and local service providers in carrying out and coordinating activities for older individuals with respect to mental and behavioral health services, including outreach for, education concerning, and screening for such services, and referral to such services for treatment;
 
-  * (24) activities to promote and disseminate information about life-long learning programs, including opportunities for distance learning; and
+  * (24) activities to promote and disseminate information about life-long learning programs, including opportunities for distance learning;
 
-  * (25) any other services necessary for the general welfare of older individuals;
+  * (25) services that promote or support social connectedness and reduce negative health effects associated with social isolation; and
+
+  * (26) any other services necessary for the general welfare of older individuals;
 
 
 * if such services meet standards prescribed by the Assistant Secretary and are necessary for the general welfare of older individuals. For purposes of paragraph (5), the term "client assessment through case management" includes providing information relating to assistive technology.

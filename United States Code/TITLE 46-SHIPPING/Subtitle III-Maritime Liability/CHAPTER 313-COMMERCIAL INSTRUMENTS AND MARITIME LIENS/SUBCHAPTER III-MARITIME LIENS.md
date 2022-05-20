@@ -69,6 +69,8 @@
 
 * (d) A person claiming a lien on a vessel covered by a preferred mortgage under section 31322(d) of this title must record and discharge the lien as provided by the law of the State in which the vessel is titled.
 
-* (e) A notice of claim of lien recorded under subsection (b) of this section shall expire 3 years after the date the lien was established, as such date is stated in the notice under subsection (a) of this section.
+* (e)(1) A notice of claim of lien recorded under subsection (b) of this section shall expire 3 years after the date the lien was established, as such date is stated in the notice under subsection (a) of this section.
+
+* (2) On expiration of a notice of claim of lien under paragraph (1), and after a request by the vessel owner, the Secretary shall annotate the abstract of title to reflect the expiration of the lien.
 
 * (f) This section does not alter in any respect the law pertaining to the establishment of a maritime lien, the remedy provided by such a lien, or the defenses thereto, including any defense under the doctrine of laches.

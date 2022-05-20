@@ -37,3 +37,10 @@
 * (a) REQUIREMENT.—As soon as a person has knowledge of any release from a vessel or facility into the navigable waters of the United States of any object that creates an obstruction prohibited under section 10 of the Act of March 3, 1899, popularly known as the Rivers and Harbors Appropriations Act of 1899 (33 U.S.C. 403), such person shall notify the Secretary and the Secretary of the Army of such release.
 
 * (b) RESTRICTION ON USE OF NOTIFICATION.—Any notification provided by an individual in accordance with subsection (a) may not be used against such individual in any criminal case, except a prosecution for perjury or for giving a false statement.
+
+### §70014. Aiming laser pointer at vessel
+* (a) PROHIBITION.—It shall be unlawful to cause the beam of a laser pointer to strike a vessel operating on the navigable waters of the United States.
+
+* (b) EXCEPTIONS.—This section shall not apply to a member or element of the Department of Defense or Department of Homeland Security acting in an official capacity for the purpose of research, development, operations, testing, or training.
+
+* (c) LASER POINTER DEFINED.—In this section the term "laser pointer" means any device designed or used to amplify electromagnetic radiation by stimulated emission that emits a beam designed to be used by the operator as a pointer or highlighter to indicate, mark, or identify a specific position, place, item, or object.

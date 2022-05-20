@@ -68,7 +68,7 @@
 
     * (A) the cooperative agreements shall each provide for the parties to contribute funds or services on a matching basis to defray the costs of such programs, projects, and activities under the agreement; and
 
-    * (B) a person providing voluntary services under this subsection shall not be considered a Federal employee except for purposes of chapter 81 of title 5, United States Code, with respect to compensation for work-related injuries, and chapter 171 of title 28, United States Code, with respect to tort claims;
+    * (B) an individual providing voluntary services under this subsection shall not be considered a Federal employee except for purposes of chapter 81 of title 5, United States Code, with respect to compensation for work-related injuries, and chapter 171 of title 28, United States Code, with respect to tort claims;
 
 
   * (20) enter into cooperative agreements with other Government agencies and the National Academy of Sciences;
@@ -101,7 +101,7 @@
 
   * (3) the reporting and investigation of marine casualties and accidents;
 
-  * (4) the licensing, certification, documentation, protection and relief of merchant seamen;
+  * (4) the licensing, certification, documentation, protection and relief of merchant mariners;
 
   * (5) suspension and revocation of licenses and certificates;
 
@@ -157,14 +157,14 @@
 ### §506. Prospective payment of funds necessary to provide medical care
 * (a) PROSPECTIVE PAYMENT REQUIRED.—In lieu of the reimbursement required under section 1085 of title 10, the Secretary of Homeland Security shall make a prospective payment to the Secretary of Defense of an amount that represents the actuarial valuation of treatment or care—
 
-  * (1) that the Department of Defense shall provide to members of the Coast Guard, former members of the Coast Guard, and dependents of such members and former members (other than former members and dependents of former members who are a Medicare-eligible beneficiary or for whom the payment for treatment or care is made from the Medicare-Eligible Retiree Health Care Fund) at facilities under the jurisdiction of the Department of Defense or a military department; and
+  * (1) that the Department of Defense shall provide to members of the Coast Guard, former members of the Coast Guard, and dependents of such members and former members (other than former members and dependents of former members who are a Medicare-eligible beneficiary or for whom the payment for treatment or care is made from the Medicare-Eligible Retiree Health Care Fund as established under chapter 56 of title 10) at facilities under the jurisdiction of the Department of Defense or a military department; and
 
   * (2) for which a reimbursement would otherwise be made under section 1085.
 
 
 * (b) AMOUNT.—The amount of the prospective payment under subsection (a) shall be—
 
-  * (1) in the case of treatment or care to be provided to members of the Coast Guard and their dependents, derived from amounts appropriated for the operating expenses of the Coast Guard;
+  * (1) in the case of treatment or care to be provided to members of the Coast Guard and their dependents, derived from amounts appropriated for the operations and support of the Coast Guard;
 
   * (2) in the case of treatment or care to be provided former members of the Coast Guard and their dependents, derived from amounts appropriated for retired pay;
 

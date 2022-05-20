@@ -19,7 +19,7 @@
   * The term "representative" includes an employee or volunteer who represents an entity designated under section 3058g(a)(5)(A) of this title and who is individually designated by the Ombudsman.
 
 * #### (6) Resident
-  * The term "resident" means an individual who resides in a long-term care facility.
+  * The term "resident" means an individual of any age who resides in a long-term care facility.
 
 ### §3058g. State Long-Term Care Ombudsman program
 #### (a) Establishment
@@ -131,6 +131,9 @@
 
     * #### (iii) Confidentiality and disclosure
       * The State agency shall develop the policies and procedures in accordance with all provisions of this part regarding confidentiality and conflict of interest.
+
+  * #### (E) Rule of construction for volunteer Ombudsman representatives
+    * Nothing in this paragraph shall be construed as prohibiting the program from providing and financially supporting recognition for an individual designated under subparagraph (A) as a volunteer to represent the Ombudsman program, or from reimbursing or otherwise providing financial support to such an individual for any costs, such as transportation costs, incurred by the individual in serving as such volunteer.
 
 #### (b) Procedures for access
 * #### (1) In general

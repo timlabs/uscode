@@ -55,10 +55,10 @@
 
 #### (e) Portion of credit treated as refundable
 * #### (1) In general
-  * In the case of any taxable year of a corporation beginning in 2018, 2019, 2020, or 2021, the limitation under subsection (c) shall be increased by the AMT refundable credit amount for such year.
+  * In the case of any taxable year of a corporation beginning in 2018 or 2019, the limitation under subsection (c) shall be increased by the AMT refundable credit amount for such year.
 
 * #### (2) AMT refundable credit amount
-  * For purposes of paragraph (1), the AMT refundable credit amount is an amount equal to 50 percent (100 percent in the case of a taxable year beginning in 2021) of the excess (if any) of—
+  * For purposes of paragraph (1), the AMT refundable credit amount is an amount equal to 50 percent (100 percent in the case of a taxable year beginning in 2019) of the excess (if any) of—
 
     * (A) the minimum tax credit determined under subsection (b) for the taxable year, over
 
@@ -69,3 +69,10 @@
 
 * #### (4) Short taxable years
   * In the case of any taxable year of less than 365 days, the AMT refundable credit amount determined under paragraph (2) with respect to such taxable year shall be the amount which bears the same ratio to such amount determined without regard to this paragraph as the number of days in such taxable year bears to 365.
+
+* #### (5) Special rule
+  * In the case of a corporation making an election under this paragraph—
+
+    * (A) paragraph (1) shall not apply, and
+
+    * (B) subsection (c) shall not apply to the first taxable year of such corporation beginning in 2018.

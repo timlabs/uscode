@@ -84,7 +84,7 @@
 
   * (ii) The date on which the Secretary determines that the veteran from whom eligibility is derived died of a service-connected disability.
 
-  * (iii) The date on which the Secretary notifies the member of the Armed Forces from whom eligibility is derived that the member has a total disability permanent in nature incurred or aggravated in the line of duty in the active military, naval, or air service.
+  * (iii) The date on which the Secretary notifies the member of the Armed Forces from whom eligibility is derived that the member has a total disability permanent in nature incurred or aggravated in the line of duty in the active military, naval, air, or space service.
 
 
 * (C) Notwithstanding subparagraph (A), an eligible person referred to in that subparagraph who is made eligible under section 3501(a)(1)(B) of this title by reason of the death of a person on active duty may be afforded educational assistance under this chapter during the 20-year period beginning on the date (as determined by the Secretary) such person becomes an eligible person within the meaning of such section.

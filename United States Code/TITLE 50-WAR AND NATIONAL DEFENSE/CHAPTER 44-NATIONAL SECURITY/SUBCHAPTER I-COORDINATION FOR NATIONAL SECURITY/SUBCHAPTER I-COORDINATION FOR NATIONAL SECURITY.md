@@ -20,7 +20,7 @@
   * The Council consists of the President, the Vice President, the Secretary of State, the Secretary of Defense, the Secretary of Energy, the Secretary of the Treasury, and such other officers of the United States Government as the President may designate.
 
 * #### (2) Attendance and participation in meetings
-  * The President may designate such other officers of the United States Government as the President considers appropriate, including the Director of National Intelligence, the Director of National Drug Control Policy, and the Chairman of the Joint Chiefs of Staff, to attend and participate in meetings of the Council.
+  * The President may designate such other officers of the United States Government as the President considers appropriate, including the Director of National Intelligence, the Director of National Drug Control Policy, the Chairman of the Joint Chiefs of Staff, and the National Cyber Director, to attend and participate in meetings of the Council.
 
 #### (d) Presiding officers
 * At meetings of the Council, the President shall preside or, in the absence of the President, a member of the Council designated by the President shall preside.
@@ -1550,6 +1550,27 @@
 #### (c) Submission to Congress
 * The Director of National Intelligence shall submit to the congressional intelligence committees a report on each national intelligence strategy required by subsection (a) not later than 45 days after the date of the completion of such strategy.
 
+### §3043b. Annual reports on worldwide threats
+#### (a) Definition of appropriate congressional committees
+* In this section, the term "appropriate congressional committees" means—
+
+  * (1) the congressional intelligence committees; and
+
+  * (2) the Committees on Armed Services of the House of Representatives and the Senate.
+
+#### (b) Annual reports
+* Not later than the first Monday in February 2021, and each year thereafter, the Director of National Intelligence, in coordination with the heads of the elements of the intelligence community, shall submit to the appropriate congressional committees a report containing an assessment of the intelligence community with respect to worldwide threats to the national security of the United States.
+
+#### (c) Form
+* Each report under subsection (b) shall be submitted in unclassified form, but may include a classified annex only for the protection of intelligence sources and methods relating to the matters contained in the report.
+
+#### (d) Hearings
+* #### (1) Open hearings
+  * Upon request by the appropriate congressional committees, the Director (and any other head of an element of the intelligence community determined appropriate by the committees in consultation with the Director) shall testify before such committees in an open setting regarding a report under subsection (b).
+
+* #### (2) Closed hearings
+  * Any information that may not be disclosed during an open hearing under paragraph (1) in order to protect intelligence sources and methods may instead be discussed in a closed hearing that immediately follows such open hearing.
+
 ### §3044. Software licensing
 #### (a) Requirement for inventories of software licenses
 * The chief information officer of each element of the intelligence community, in consultation with the Chief Information Officer of the Intelligence Community, shall biennially—
@@ -2099,7 +2120,7 @@
 
   * (3) To assess and identify best practices with respect to prior efforts of the intelligence community to analyze climate security.
 
-  * (4) To assess and describe best practices for identifying and disseminating climate security indicators and warnings.
+  * (4) To assess and describe best practices for identifying and disseminating climate intelligence indications and warnings.
 
   * (5) To recommend methods of incorporating analysis of climate security and the best practices identified under paragraphs (2) through (4) into existing analytic training programs.
 
@@ -2116,7 +2137,10 @@
 
     * (9) At the discretion of the chair of the Council, to convene conferences of analysts and nonintelligence community personnel working on climate change or climate security on subjects that the chair shall direct.
 
-#### (d) Sunset
+#### (d) Annual report
+* Not later than January 31, 2021, and not less frequently than annually thereafter, the chair of the Council shall submit, on behalf of the Council, to the congressional intelligence committees a report describing the activities of the Council as described in subsection (c) during the year preceding the year during which the report is submitted.
+
+#### (e) Sunset
 * The Council shall terminate on the date that is 4 years after December 20, 2019.
 
 #### (e) Definitions

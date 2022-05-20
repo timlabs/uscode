@@ -34,6 +34,93 @@
 * #### (5) Authority of Inspector General
   * Nothing in this chapter shall be construed to diminish the authority of any Inspector General, including such authority as provided in the Inspector General Act of 1978 (5 U.S.C. App.).
 
+* #### (6) Public-private partnership for waste, fraud, and abuse detection
+  * #### (A) In general
+    * Under the program described in paragraph (1), there is established a public-private partnership (in this paragraph referred to as the "partnership") of health plans, Federal and State agencies, law enforcement agencies, health care anti-fraud organizations, and any other entity determined appropriate by the Secretary (in this paragraph referred to as "partners") for purposes of detecting and preventing health care waste, fraud, and abuse.
+
+  * #### (B) Contract with trusted third party
+    * In carrying out the partnership, the Secretary shall enter into a contract with a trusted third party for purposes of carrying out the duties of the partnership described in subparagraph (C).
+
+  * #### (C) Duties of partnership
+    * The partnership shall—
+
+      * (i) provide technical and operational support to facilitate data sharing between partners in the partnership;
+
+      * (ii) analyze data so shared to identify fraudulent and aberrant billing patterns;
+
+      * (iii) conduct aggregate analyses of health care data so shared across Federal, State, and private health plans for purposes of detecting fraud, waste, and abuse schemes;
+
+      * (iv) identify outlier trends and potential vulnerabilities of partners in the partnership with respect to such schemes;
+
+      * (v) refer specific cases of potential unlawful conduct to appropriate governmental entities;
+
+      * (vi) convene, not less than annually, meetings with partners in the partnership for purposes of providing updates on the partnership's work and facilitating information sharing between the partners;
+
+      * (vii) enter into data sharing and data use agreements with partners in the partnership in such a manner so as to ensure the partnership has access to data necessary to identify waste, fraud, and abuse while maintaining the confidentiality and integrity of such data;
+
+      * (viii) provide partners in the partnership with plan-specific, confidential feedback on any aberrant billing patterns or potential fraud identified by the partnership with respect to such partner;
+
+      * (ix) establish a process by which entities described in subparagraph (A) may enter the partnership and requirements such entities must meet to enter the partnership;
+
+      * (x) provide appropriate training, outreach, and education to partners based on the results of data analyses described in clauses (ii) and (iii); and
+
+      * (xi) perform such other duties as the Secretary determines appropriate.
+
+  * #### (D) Substance use disorder treatment analysis
+    * Not later than 2 years after December 27, 2020, the trusted third party with a contract in effect under subparagraph (B) shall perform an analysis of aberrant or fraudulent billing patterns and trends with respect to providers and suppliers of substance use disorder treatments from data shared with the partnership.
+
+  * #### (E) Executive board
+    * #### (i) Executive board composition
+      * #### (I) In general
+        * There shall be an executive board of the partnership comprised of representatives of the Federal Government and representatives of the private sector selected by the Secretary.
+
+      * #### (II) Chairs
+        * The executive board shall be co-chaired by one Federal Government official and one representative from the private sector.
+
+    * #### (ii) Meetings
+      * The executive board of the partnership shall meet at least once per year.
+
+    * #### (iii) Executive board duties
+      * The duties of the executive board shall include the following:
+
+        * (I) Providing strategic direction for the partnership, including membership criteria and a mission statement.
+
+        * (II) Communicating with the leadership of the Department of Health and Human Services and the Department of Justice and the various private health sector associations.
+
+  * #### (F) Reports
+    * Not later than January 1, 2023, and every 2 years thereafter, the Secretary shall submit to Congress and make available on the public website of the Centers for Medicare & Medicaid Services a report containing—
+
+      * (i) a review of activities conducted by the partnership over the 2-year period ending on the date of the submission of such report, including any progress to any objectives established by the partnership;
+
+      * (ii) any savings voluntarily reported by health plans participating in the partnership attributable to the partnership during such period;
+
+      * (iii) any savings to the Federal Government attributable to the partnership during such period;
+
+      * (iv) any other outcomes attributable to the partnership, as determined by the Secretary, during such period; and
+
+      * (v) a strategic plan for the 2-year period beginning on the day after the date of the submission of such report, including a description of any emerging fraud and abuse schemes, trends, or practices that the partnership intends to study during such period.
+
+  * #### (G) Funding
+    * The partnership shall be funded by amounts otherwise made available to the Secretary for carrying out the program described in paragraph (1).
+
+  * #### (H) Transitional provisions
+    * To the extent consistent with this subsection, all functions, personnel, assets, liabilities, and administrative actions applicable on the date before December 27, 2020, to the National Fraud Prevention Partnership established on September 17, 2012, by charter of the Secretary shall be transferred to the partnership established under subparagraph (A) as of December 27, 2020.
+
+  * #### (I) Nonapplicability of FACA
+    * The provisions of the Federal Advisory Committee Act shall not apply to the partnership established by subparagraph (A).
+
+  * #### (J) Implementation
+    * Notwithstanding any other provision of law, the Secretary may implement the partnership established by subparagraph (A) by program instruction or otherwise.
+
+  * #### (K) Definition
+    * For purposes of this paragraph, the term "trusted third party" means an entity that—
+
+      * (i) demonstrates the capability to carry out the duties of the partnership described in subparagraph (C);
+
+      * (ii) complies with such conflict of interest standards determined appropriate by the Secretary; and
+
+      * (iii) meets such other requirements as the Secretary may prescribe.
+
 #### (b) Additional use of funds by Inspector General
 * #### (1) Reimbursements for investigations
   * The Inspector General of the Department of Health and Human Services is authorized to receive and retain for current use reimbursement for the costs of conducting investigations and audits and for monitoring compliance plans when such costs are ordered by a court, voluntarily agreed to by the payor, or otherwise.

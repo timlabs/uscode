@@ -211,7 +211,7 @@
 
 #### (b) Information sharing environment
 * #### (1) Establishment
-  * The Director of National Intelligence shall—
+  * The President shall—
 
     * (A) create an information sharing environment for the sharing of terrorism information in a manner consistent with national security and with applicable legal standards relating to privacy and civil liberties;
 
@@ -220,7 +220,7 @@
     * (C) determine and enforce the policies, directives, and rules that will govern the content and usage of the ISE.
 
 * #### (2) Attributes
-  * The Director of National Intelligence shall, through the structures described in subparagraphs (B) and (C) of paragraph (1), ensure that the ISE provides and facilitates the means for sharing terrorism information among all appropriate Federal, State, local, and tribal entities, and the private sector through the use of policy guidelines and technologies. The Director of National Intelligence shall, to the greatest extent practicable, ensure that the ISE provides the functional equivalent of, or otherwise supports, a decentralized, distributed, and coordinated environment that—
+  * The President shall, through the structures described in subparagraphs (B) and (C) of paragraph (1), ensure that the ISE provides and facilitates the means for sharing terrorism information among all appropriate Federal, State, local, and tribal entities, and the private sector through the use of policy guidelines and technologies. The President shall, to the greatest extent practicable, ensure that the ISE provides the functional equivalent of, or otherwise supports, a decentralized, distributed, and coordinated environment that—
 
     * (A) connects existing systems, where appropriate, provides no single points of failure, and allows users to share information among agencies, between levels of government, and, as appropriate, with the private sector;
 
@@ -251,6 +251,13 @@
     * (N) provides a resolution process that enables changes by authorized officials regarding rules and policies for the access, use, and retention of information within the scope of the information sharing environment; and
 
     * (O) incorporates continuous, real-time, and immutable audit capabilities, to the maximum extent practicable.
+
+* #### (3) Delegation
+  * #### (A) In general
+    * Subject to subparagraph (B), the President may delegate responsibility for carrying out this subsection.
+
+  * #### (B) Limitation
+    * The President may not delegate responsibility for carrying out this subsection to the Director of National Intelligence.
 
 #### (c) Preliminary report
 * Not later than 180 days after December 17, 2004, the program manager shall, in consultation with the Information Sharing Council—

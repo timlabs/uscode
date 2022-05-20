@@ -61,7 +61,7 @@
 
   * (14) The right to enter into a dispute resolution process, as provided in section 2894 of this title, should all other methods be exhausted and, in which case, a decision in favor of the tenant may include a reduction in rent or an amount to be reimbursed or credited to the tenant.
 
-  * (15) The right to have the tenant's basic allowance housing payments segregated and held in escrow, with approval of a designated commander, and not used by the property owner, property manager, or landlord pending completion of the dispute resolution process.
+  * (15) The right to have the tenant's basic allowance housing payments segregated, with approval of a designated commander, and not used by the property owner, property manager, or landlord pending completion of the dispute resolution process.
 
   * (16) The right to have reasonable, advance notice of any entrance by a landlord, installation housing staff, or chain of command into the housing unit, except in the case of an emergency or abandonment of the housing unit.
 
@@ -93,7 +93,7 @@
 
 * (e) INVESTIGATION OF REPORTS OF REPRISALS.—(1) The Assistant Secretary of Defense for Sustainment shall investigate all reports of reprisal against a member of the armed forces for reporting an issue relating to a housing unit.
 
-* (2) If the Assistant Secretary of Defense for Sustainment determines under paragraph (1) that landlord has retaliated against a member of the armed forces for reporting an issue relating to a housing unit, the Assistant Secretary shall—
+* (2) If the Assistant Secretary of Defense for Sustainment determines under paragraph (1) that a landlord has retaliated against a member of the armed forces for reporting an issue relating to a housing unit, the Assistant Secretary shall—
 
   * (A) provide initial notice to the Committees on Armed Services of the Senate and the House of Representatives as soon as practicable after making that determination; and
 
@@ -104,21 +104,11 @@
 
 * (f) PROHIBITION ON USE OF NONDISCLOSURE AGREEMENTS.—(1) A tenant or prospective tenant of a housing unit may not be required to sign a nondisclosure agreement in connection with entering into, continuing, or terminating a lease for the housing unit. Any such agreement against the interests of the tenant is invalid.
 
-* (2) Paragraph (1) shall not apply to a nondisclosure agreement executed as part of the settlement of litigation.
+* (2) Paragraph (1) shall not apply to a nondisclosure agreement executed—
 
-### §2890a. Chief Housing Officer
-* (a) DESIGNATION.—(1) The Secretary of Defense shall designate, from among officials of the Department of Defense who are appointed by the President with the advice and consent of the Senate, a Chief Housing Officer who shall oversee housing units.
+  * (A) as part of the settlement of litigation; or
 
-* (2) The official of the Department of Defense designated as Chief Housing Officer may be assigned duties in addition to the duties as Chief Housing Officer under subsection (b).
-
-* (b) PRINCIPAL DUTIES.—(1) The Chief Housing Officer shall oversee all aspects of the provision of housing under subchapter IV and this subchapter, including the following:
-
-  * (A) Creation and standardization of policies and processes regarding housing units.
-
-  * (B) Oversight of the administration of any Department of Defense-wide policies regarding housing units, to include, in coordination with the Secretaries of the military departments, the housing documents developed pursuant to section 2890 of this title entitled Military Housing Privatization Initiative Tenant Bill of Rights and Military Housing Privatization Initiative Tenant Responsibilities.
-
-
-* (2) The duties specified in paragraph (1) may not be further delegated.
+  * (B) to avoid litigation if the tenant has retained legal counsel or has sought military legal assistance under section 1044 of this title.
 
 ### §2891. Requirements relating to contracts for provision of housing units
 * (a) IN GENERAL.—The requirements of this section condition contracts entered into using the authorities provided to the Secretary concerned under section 2872 of this title and other authorities provided under subchapter IV of this chapter and this subchapter.
@@ -143,18 +133,18 @@
 
 * (e) RESPONSIBILITY FOR RELOCATION COSTS.—
 
-  * (1) PERMANENT RELOCATION.—A landlord providing a housing unit shall pay reasonable relocation costs associated with the permanent relocation of a tenant from the housing unit to a different housing due to health or environmental hazards—
+  * (1) PERMANENT RELOCATION.—A landlord providing a housing unit shall pay reasonable relocation costs associated with the permanent relocation of a tenant from the housing unit to a different housing unit due to health or environmental hazards—
 
     * (A) present in the housing unit being vacated through no fault of the tenant; and
 
-    * (B) confirmed by the housing management office of the installation for which the housing unit is provided as making the unit uninhabitable or unable to be remediated safely while tenant occupies the housing unit.
+    * (B) confirmed by the housing management office of the installation for which the housing unit is provided as making the unit uninhabitable or unable to be remediated safely while the tenant occupies the housing unit.
 
 
   * (2) TEMPORARY RELOCATION.—The landlord shall pay reasonable relocation costs and actual costs of living, including per diem, associated with the temporary relocation of a tenant to a different housing unit due to health or environmental hazards—
 
     * (A) present in the housing unit being vacated through no fault of the tenant; and
 
-    * (B) confirmed by the housing management office of the installation as making the unit uninhabitable or unable to be remediated safely while tenant occupies the housing unit.
+    * (B) confirmed by the housing management office of the installation as making the unit uninhabitable or unable to be remediated safely while the tenant occupies the housing unit.
 
 
 * (f) MAINTENANCE WORK ORDER SYSTEM.—A landlord providing a housing unit shall ensure that the maintenance work order system of the landlord (hardware and software) is up to date, including—
@@ -178,7 +168,7 @@
   * (B) notifying the landlord and the major subordinate command of any deficiencies found in either plan.
 
 
-* (2) In response to a request by the head of the housing management office of an installation, the installation commander shall use the assigned bio-environmental personnel or contractor equivalent at the installation to test housing units for mold, unsafe water conditions, and other health and safety conditions
+* (2) In response to a request by the head of the housing management office of an installation, the installation commander shall use the assigned bio-environmental personnel or contractor equivalent at the installation to test housing units for mold, unsafe water conditions, and other health and safety conditions.
 
 * (c) REQUIREMENTS FOR HOUSING MANAGEMENT OFFICE.—(1) The head of the housing management office of an installation shall be responsible for—
 
@@ -238,7 +228,7 @@
 
 * (10) A landlord providing a housing unit shall agree to participate in the dispute resolution and payment-withholding processes established pursuant to section 2894 of this title.
 
-* (11) A landlord providing a housing unit shall ensure that the needs of enrollees in the Exceptional Family Member Program, or any successor program, are considered in assigning prospective tenants to housing units provided by the landlord.
+* (11) Upon request by a prospective tenant, a landlord providing a housing unit shall ensure that the needs of enrollees in the Exceptional Family Member Program, or any successor program, are considered in assigning the prospective tenant to a housing unit provided by the landlord.
 
 * (12) A landlord providing a housing unit shall maintain an electronic work order system that enables access by the tenant to view work order history, status, and other relevant information, as required by section 2892 of this title.
 
@@ -262,7 +252,7 @@
     * (iii) to recover damages associated with tenant negligence, consistent with subsection (c)(2); or
 
 
-  * (B) to limit or otherwise affect the authority of the Secretary concerned to enter into rental guarantee agreements under section 2876 of this title or to make differential lease payments under section 2877 of this title, so long as such agreements or payments do not require a tenant to pay an out-of-pocket fee or payment in addition to the amount of the any basic allowance for housing under section 403 of title 37 the tenant may receive as a member of the armed forces.
+  * (B) to limit or otherwise affect the authority of the Secretary concerned to enter into rental guarantee agreements under section 2876 of this title or to make differential lease payments under section 2877 of this title, so long as such agreements or payments do not require a tenant to pay an out-of-pocket fee or payment in addition to the amount of any basic allowance for housing under section 403 of title 37 the tenant may receive as a member of the armed forces.
 
 ### §2891b. Considerations of eligible entity housing history in contracts for privatized military housing
 * (a) CONSIDERATION REQUIRED.—To assist in making a determination whether to enter into a new contract, or renew an existing contract, with an eligible entity, the Secretary of Defense shall develop a standard process by which the Secretary concerned may evaluate the past performance of the eligible entity for purposes of informing future decisions regarding the award of such a contract.
@@ -275,7 +265,7 @@
 
   * (3) The recommendation of the commander of any other installation for which the eligible entity has provided housing units.
 
-### §2891c. Financial transparency
+### §2891c. Transparency regarding finances and performance metrics
 * (a) SUBMISSION OF LANDLORD FINANCIAL INFORMATION.—(1) Not less frequently than annually, the Secretary of Defense shall require that each landlord submit to the Secretary a report providing information regarding all housing units provided by the landlord.
 
 * (2) Information provided under paragraph (1) by a landlord shall include the following:
@@ -306,9 +296,34 @@
   * (E) the term "deferred fee" means any fee that was not paid to a person in a calendar year in order to meet other financial obligations of the landlord.
 
 
-* (b) AVAILABILITY OF INFORMATION ON USE OF INCENTIVE FEES.—(1) Not less frequently than annually, the Secretary of Defense shall publish, on a publicly accessible website, information regarding the use by the Secretary concerned of incentive fees to support contracts for the provision or management of housing units.
+* (b) AVAILABILITY OF INFORMATION ON PERFORMANCE METRICS AND USE OF INCENTIVE FEES.—(1) Not less frequently than annually, the Secretary of Defense shall make available, upon request of a tenant, at the applicable installation housing office the following:
 
-* (2) The information provided under paragraph (1) shall include, with respect to each contract, the following:
+  * (A) An assessment of the indicators underlying the performance metrics for each contract for the provision or management of housing units to ensure such indicators adequately measure the condition and quality of each housing unit covered by the contract.
+
+  * (B) Information regarding the use by the Secretary concerned of incentive fees to support contracts for the provision or management of housing units.
+
+
+* (2)(A) For purposes of paragraph (1)(A), the indicators underlying the performance metrics for a contract for the provision or management of housing units shall measure at a minimum the following:
+
+  * (i) Tenant satisfaction.
+
+  * (ii) Maintenance management.
+
+  * (iii) Safety.
+
+  * (iv) Financial management.
+
+
+* (B) An assessment required to be made available under paragraph (1)(A) shall include a detailed description of each indicator underlying the performance metrics, including the following information:
+
+  * (i) The limitations of available survey data.
+
+  * (ii) How tenant satisfaction and maintenance management is calculated.
+
+  * (iii) Whether any relevant data is missing.
+
+
+* (3) The information provided under paragraph (1)(B) shall include, with respect to each contract for the provision or management of housing units, the following:
 
   * (A) The applicable incentive fees.
 
@@ -333,13 +348,22 @@
 * (c) ACCESS BY TENANTS.—The Secretary of Defense shall require each landlord of a housing unit to provide access to the maintenance work order system of the landlord relating to the housing unit to the tenant of the housing unit to permit the tenant, at a minimum, to track the status and progress of work orders for maintenance requests relating to the housing unit.
 
 ### §2892a. Access by tenants to historical maintenance information
-* The Secretary concerned shall require each eligible entity or subsequent landlord that offers for lease a housing unit to provide to a prospective tenant of the housing unit, before the prospective tenant moves into the housing unit as a tenant, all information regarding maintenance conducted with respect to that housing unit for the previous seven years. In this section, the term "maintenance" includes any renovations of the housing unit during such period.
+* (a) MAINTENANCE INFORMATION FOR PROSPECTIVE TENANTS.—The Secretary concerned shall require each eligible entity or subsequent landlord that offers for lease a housing unit to provide to a prospective tenant of the housing unit—
+
+  * (1) not later than five business days before the prospective tenant is asked to sign the lease, a summary of maintenance conducted with respect to that housing unit for the previous seven years; and
+
+  * (2) not later than two business days after the prospective tenant requests additional information regarding maintenance conducted with respect to that housing unit during such period, all information possessed by the eligible entity or subsequent landlord regarding such maintenance conducted during such period.
+
+
+* (b) MAINTENANCE INFORMATION FOR EXISTING TENANTS.—A tenant of a housing unit who did not receive maintenance information described in subsection (a) regarding that housing unit while a prospective tenant may request such maintenance information and shall receive such maintenance information not later than five business days after the making the request.
+
+* (c) MAINTENANCE DEFINED.—In the section, the term "maintenance" includes any renovations of the housing unit during the period specified in subsection (a)(1).
 
 ### §2892b. Prohibition on requirement to disclose personally identifiable information in requests for certain maintenance
 * A landlord responsible for a housing unit may not require the disclosure of personally identifiable information as a part of the submission of a request for maintenance regarding a housing unit or common area when the disclosure of personally identifiable information is not needed to identify the location at which such maintenance will be performed.
 
 ### §2893. Treatment of incentive fees for landlords of housing units for failure to remedy health or environmental hazards
-* The Secretary concerned shall not approve the payment of incentive fees otherwise authorized to be paid to a landlord that the Secretary determines has demonstrated a propensity for failing to remedy, or failing to remedy in a timely manner, a health or environmental hazard at a housing unit provided by the landlord.
+* The Secretary concerned shall not approve the payment of incentive fees otherwise authorized to be paid to a landlord that the Secretary determines has demonstrated a pattern of failing to remedy, or failing to remedy in a timely manner, a health or environmental hazard at a housing unit provided by the landlord.
 
 ### §2894. Landlord-tenant dispute resolution process and treatment of certain payments during process
 * (a) PROCESS REQUIRED; PURPOSE.—The Secretary concerned shall implement a standardized formal dispute resolution process to ensure the prompt and fair resolution of disputes that arise between landlords providing housing units and tenants residing in housing units concerning maintenance and repairs, damage claims, rental payments, move-out charges, and such other issues relating to housing units as the Secretary determines appropriate.
@@ -354,7 +378,9 @@
 
 * (5) The Secretary concerned shall minimize costs to tenants for participation in the dispute resolution process.
 
-* (c) RESOLUTION PROCESS.—(1) Not later than 24 hours after receiving a request from a tenant for resolution of a landlord-tenant dispute through the dispute resolution process, the Secretary concerned shall—
+* (6) The dispute resolution process shall require the installation or regional commander (as the case may be) to record each dispute in the complaint database established under section 2894a of this title.
+
+* (c) RESOLUTION PROCESS.—(1) Not later than two business days after receiving a request from a tenant for resolution of a landlord-tenant dispute through the dispute resolution process, the Secretary concerned shall—
 
   * (A) notify the tenant that the request has been received;
 
@@ -365,9 +391,9 @@
 
 * (2) For purposes of conducting an assessment necessary to render a decision under the dispute resolution process, both the landlord and representatives of the installation housing management office may access the housing unit at a time and for a duration mutually agreed upon amongst the parties.
 
-* (3) Not later than seven days after the date on which the request was received by the installation housing management office shall complete an investigation that includes a physical inspection and transmit the results of the investigation to the installation or regional commander (as the case may be).
+* (3) Not later than seven business days after the date on which the request was received by the installation housing management office, such office shall complete an investigation that includes a physical inspection and transmit the results of the investigation to the installation or regional commander (as the case may be).
 
-* (4) Before making any decision with respect to a dispute under the dispute resolution process, the commander shall certify that the commander has solicited recommendations or information relating to the dispute from the following persons:
+* (4) Before making any decision with respect to a dispute under the dispute resolution process, the commander shall certify that the commander has solicited recommendations or information relating to the dispute from, at a minimum, the following persons:
 
   * (A) The chief of the installation housing management office.
 
@@ -380,33 +406,35 @@
   * (E) If the dispute involves maintenance or another facilities-related matter, a civil engineer.
 
 
-* (5)(A) The commander shall make a decision with respect to a request under the dispute resolution process not later than 30 days after the request was submitted.
+* (5)(A) The commander shall make a decision with respect to a request under the dispute resolution process not later than 30 calendar days after the request was submitted.
 
-* (B) The commander may take longer than such 30-day period in limited circumstances as determined by the Secretary of Defense, but in no case shall such a decision be made more than 60 days after the request was submitted.
+* (B) The commander may take longer than such 30-day period in limited circumstances as determined by the Secretary of Defense, but in no case shall such a decision be made more than 60 calendar days after the request was submitted.
 
-* (6) A final decision will be transmitted to the tenant and landlord no later than 30 days from initial receipt by the office of the commander, except as provided in paragraph (5)(B).
+* (6) Except as provided in paragraph (5)(B), a final decision shall be transmitted to the tenant, landlord, and the installation or regional commander (as the case may be) not later than 30 calendar days after the request was submitted.
 
 * (7) The decision shall include instructions for distribution of any funds that were withheld under subsection (e) and such instructions for the landlord for further remediation as the commander considers necessary.
 
 * (8) The decision by the commander under this subsection shall be final.
 
-* (d) EFFECT OF FAILURE TO COMPLY WITH DECISION.—If the landlord responsible for the housing unit does not remediate the issues in a manner consistent with the instructions contained in the decision rendered under subsection (c) and within a reasonable period of time, as provided in the decision, any amounts payable to the landlord for the housing unit shall be reduced by 10 percent for each period of five days during which the issues remain unremediated.
+* (d) EFFECT OF FAILURE TO COMPLY WITH DECISION.—(1) If the final decision rendered under subsection (c) for resolution of a landlord-tenant dispute includes instructions for the landlord responsible for the housing unit to further remediate the housing unit, the decision shall specify a reasonable period of time, but not less than 10 business days, for the landlord to complete the remediation.
 
-* (e) REQUEST TO WITHHOLD PAYMENTS DURING RESOLUTION PROCESS.—(1) As part of the submission of a request for resolution of a landlord-tenant dispute through the dispute resolution process, the tenant may request that all or part of the payments described in paragraph (2) for lease of the housing unit be withheld from the landlord of the housing unit during the period in which—
+* (2) If the landlord does not remediate the issues before the end of the time period specified in the final decision in a manner consistent with the instructions contained in the decision, any amounts payable to the landlord for the housing unit shall be reduced by 10 percent for each period of five calendar days during which the issues remain unremediated.
+
+* (e) REQUEST TO WITHHOLD PAYMENTS DURING RESOLUTION PROCESS.—(1) As part of the submission of a request for resolution of a landlord-tenant dispute through the dispute resolution process regarding maintenance guidelines or procedures or habitability, the tenant may request that all or part of the payments described in paragraph (3) for lease of the housing unit be segregated and not used by the property owner, property manager, or landlord pending completion of the dispute resolution process.
+
+* (2) The amount allowed to be withheld under paragraph (1) shall be limited to amounts associated with the period during which—
 
   * (A) the landlord has not met maintenance guidelines and procedures established by the Department of Defense, either through contract or otherwise; or
 
   * (B) the housing unit is uninhabitable according to State and local law for the jurisdiction in which the housing unit is located.
 
 
-* (2) Paragraph (1) applies to the following:
+* (3) This subsection applies to the following:
 
   * (A) Any basic allowance for housing payable to the tenant (including for any dependents of the tenant in the tenant's household) under section 403 of title 37.
 
   * (B) All or part of any pay of a tenant subject to allotment as described in section 2882(c) of this title.
 
-
-* (3) Upon the submission of a request by a tenant under this subsection and under such procedures as the Secretary of Defense shall establish, the Defense Finance and Accounting Service or such other appropriate office of the Department of Defense as the Secretary shall specify for purposes of such procedures, shall tentatively grant the request and hold any amounts withheld in escrow with notice to the landlord until the conclusion of the dispute resolution process.
 
 * (f) DISCLOSURE OF RIGHTS.—(1) Each housing management office of the Department of Defense shall disclose in writing to each new tenant of a housing unit, upon the signing of the lease for the housing unit, the tenant's rights under this section and the procedures under this section for submitting a request for resolution of a landlord-tenant dispute through the dispute resolution process, including the ability to submit a request to withhold payments during the resolution process.
 

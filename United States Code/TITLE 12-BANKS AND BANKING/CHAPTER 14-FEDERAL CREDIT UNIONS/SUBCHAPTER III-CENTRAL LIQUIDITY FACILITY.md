@@ -6,7 +6,7 @@
 ### §1795a. Definitions
 * As used in this subchapter, the term—
 
-  * (1) "liquidity needs" means the needs of credit unions primarily serving natural persons for—
+  * (1) "liquidity needs" means the needs of credit unions for—
 
     * (A) short-term adjustment credit available to assist in meeting temporary requirements for funds or to cushion more persistent outflows of funds pending an orderly adjustment of credit union assets and liabilities;
 
@@ -33,7 +33,7 @@
 
   * (1) obtaining the approval of the Board;
 
-  * (2) subscribing to the capital stock of the Facility in an amount not less than one-half of 1 per centum of the paid-in and unimpaired capital and surplus of all those credit unions which primarily serve natural persons, which are members of such credit union or of any credit union comprising such credit union group, and which are not regular members;
+  * (2) subscribing to the capital stock of the Facility in an amount not less than one-half of 1 per centum of the paid-in and unimpaired capital and surplus of such credit unions as the Board may in its discretion determine which primarily serve natural persons, which are members of such credit union or of any credit union comprising such credit union group, and which are not regular members;
 
   * (3) agreeing to comply with rules and regulations the Board shall prescribe with respect to, but not limited to, management quality, asset and liability safety and soundness, internal operating and control practices and procedures, and participation of natural persons in the affairs of such credit union or credit union group; and
 
@@ -81,7 +81,7 @@
 * A credit union or credit union group that becomes a member of the Facility later than six months after the date the Board opens books for capital stock subscriptions, may not borrow or receive advances from the Facility without approval by the Board for a period of six months after becoming a member.
 
 ### §1795e. Extensions of credit
-* (a)(1) A member may apply for an extension of credit from the Facility to meet its liquidity needs. The Board shall approve or deny any such application within five working days after receiving it. The Board shall not approve an application for credit the intent of which is to expand credit union portfolios.
+* (a)(1) A member may apply for an extension of credit from the Facility to meet its liquidity needs. The Board shall approve or deny any such application within five working days after receiving it. The Board shall not approve an application for credit without first having obtained evidence from the applicant that the applicant has made reasonable efforts to first use primary sources of liquidity of the applicant, including balance sheet and market funding sources, to address the liquidity needs of the applicant.
 
 * (2) The Board may advance funds to a member on terms and conditions prescribed by the Board after giving due consideration to creditworthiness.
 
@@ -101,7 +101,7 @@
 
   * (4) borrow from—
 
-    * (A) any source, provided that the total face value of these obligations shall not exceed twelve times the subscribed capital stock and surplus of the Facility; and
+    * (A) any source, provided that the total face value of these obligations shall not exceed twelve times the subscribed capital stock and surplus of the Facility, provided that, the total face value of such obligations shall not exceed 16 times the subscribed capital stock and surplus of the Facility for the period beginning on March 27, 2020, and ending on December 31, 2021; and
 
     * (B) the National Credit Union Share Insurance Fund up to $500,000 to defray initial organizational and operating expenses of the Facility at such rates and terms consistent with prevailing market conditions;
 

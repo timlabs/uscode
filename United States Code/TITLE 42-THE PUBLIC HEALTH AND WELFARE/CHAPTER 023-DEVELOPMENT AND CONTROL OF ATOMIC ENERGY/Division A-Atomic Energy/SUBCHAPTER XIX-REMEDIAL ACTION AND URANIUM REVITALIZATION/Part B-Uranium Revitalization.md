@@ -5,7 +5,7 @@
 * To the maximum extent permitted by sound business practice, the Corporation shall purchase uranium in accordance with subsection (b) and overfeed it into the enrichment process to reduce the amount of power required to produce the enriched uranium ordered by enrichment services customers, taking into account costs associated with depleted tailings.
 
 #### (b) Use of domestic uranium
-* Uranium purchased by the Corporation for purposes of this section shall be of domestic origin and purchased from domestic uranium producers to the extent permitted under the multilateral trade agreements (as defined in section 3501(4) of title 19) and the North American Free Trade Agreement.
+* Uranium purchased by the Corporation for purposes of this section shall be of domestic origin and purchased from domestic uranium producers to the extent permitted under the multilateral trade agreements (as defined in section 3501(4) of title 19) and the USMCA (as defined in section 4502 of title 19).
 
 ### §2296b–1. National Strategic Uranium Reserve
 * There is hereby established the National Strategic Uranium Reserve under the direction and control of the Secretary. The Reserve shall consist of natural uranium and uranium equivalents contained in stockpiles or inventories currently held by the United States for defense purposes. Effective on October 24, 1992, and for 6 years thereafter, use of the Reserve shall be restricted to military purposes and government research. Use of the Department of Energy's stockpile of enrichment tails existing on October 24, 1992, shall be restricted to military purposes for 6 years thereafter.
@@ -56,7 +56,7 @@
 * Within 1 year after October 24, 1992, and annually thereafter, the Secretary shall report to the Congress on the progress of the Secretary in encouraging actions by State regulatory authorities pursuant to subsection (a). Such report shall include detailed information on programs initiated by the Secretary to encourage appropriate State regulatory action and recommendations, if any, on further action that could be taken by the Secretary, other Federal agencies, or the Congress in order to further the purposes of this part.
 
 #### (c) Savings provision
-* This section may not be construed to authorize the Secretary to take any action in violation of the multilateral trade agreements (as defined in section 3501(4) of title 19) or the North American Free Trade Agreement.
+* This section may not be construed to authorize the Secretary to take any action in violation of the multilateral trade agreements (as defined in section 3501(4) of title 19) or the USMCA (as defined in section 4502 of title 19).
 
 ### §2296b–7. Definitions
 * For purposes of this part:

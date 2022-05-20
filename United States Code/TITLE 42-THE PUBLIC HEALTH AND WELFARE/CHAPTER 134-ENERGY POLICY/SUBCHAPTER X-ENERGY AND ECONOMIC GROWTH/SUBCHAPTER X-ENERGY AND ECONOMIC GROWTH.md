@@ -81,27 +81,118 @@
 
 * (2) The Secretary shall develop a method to evaluate the effectiveness of science and mathematics education programs provided by the Department of Energy and its laboratories, including specific evaluation criteria.
 
-* (3)(A)(i) The Director of the Office of Science shall operate an Experimental Program to Stimulate Competitive Research (in this paragraph referred to as "EPSCoR") as part of the Department of Energy's University and Science Education Programs.
+* (3) ESTABLISHED PROGRAM TO STIMULATE COMPETITIVE RESEARCH.—
 
-* (ii) The objectives of EPSCoR shall be—
+  * (A) DEFINITIONS.—In this paragraph:
 
-  * (I) to enhance the competitiveness of the peer-review process within academic institutions in eligible States; and
+    * (i) ELIGIBLE JURISDICTION.—The term "eligible jurisdiction" means a State that is determined to be eligible for a grant under this paragraph in accordance with subparagraph (D).
 
-  * (II) to increase the probability of long-term growth of competitive funding to investigators at institutions from eligible States.
+    * (ii) EPSCOR.—The term "EPSCoR" means the Established Program to Stimulate Competitive Research operated under subparagraph (B).
+
+    * (iii) NATIONAL LABORATORY.—The term "National Laboratory" has the meaning given the term in section 15801 of this title.
+
+    * (iv) State.—The term 'State' means—
+
+      * (I) a State;
+
+      * (II) the District of Columbia;
+
+      * (III) the Commonwealth of Puerto Rico;
+
+      * (IV) Guam; and
+
+      * (V) the United States Virgin Islands.
 
 
-* (iii) In order to carry out the objectives stated in clause (ii), EPSCoR shall provide for activities which may include (but not be limited to) competitive research awards and graduate traineeships.
+  * (B) PROGRAM OPERATION.—The Secretary shall operate an Established Program to Stimulate Competitive Research.
 
-* (iv) EPSCoR shall assist those States that—
+  * (C) OBJECTIVES.—The objectives of EPSCoR shall be—
 
-  * (I) historically have received relatively little Federal research and development funding; and
+    * (i) to increase the number of researchers in eligible jurisdictions, especially at institutions of higher education, capable of performing nationally competitive science and engineering research in support of the mission of the Department of Energy in the areas of applied energy research, environmental management, and basic science;
 
-  * (II) have demonstrated a commitment to develop their research bases and improve science and engineering research and education programs at their universities and colleges.
+    * (ii) to improve science and engineering research and education programs at institutions of higher education in eligible jurisdictions and enhance the capabilities of eligible jurisdictions to develop, plan, and execute research that is competitive, including through investing in research equipment and instrumentation; and
+
+    * (iii) to increase the probability of long-term growth of competitive funding to eligible jurisdictions.
 
 
-* (B) For purposes of this paragraph, the term "eligible States" means States that received a Department-EPSCoR planning or traineeship grant in fiscal year 1991 or fiscal year 1992.
+  * (D) ELIGIBLE JURISDICTIONS.—
 
-* (C) No more than $5,000,000 of the funds appropriated to EPSCoR in any fiscal year, through fiscal year 1997, are authorized to be appropriated for graduate traineeships.
+    * (i) IN GENERAL.—The Secretary may establish criteria for determining whether a State is eligible for a grant under this paragraph.
+
+    * (ii) REQUIREMENT.—Except as provided in clause (iii), in establishing criteria under clause (i), the Secretary shall ensure that a State is eligible for a grant under this paragraph if the State, as determined by the Secretary, is a State that—
+
+      * (I) historically has received relatively little Federal research and development funding; and
+
+      * (II) has demonstrated a commitment—
+
+        * (aa) to develop the research bases in the State; and
+
+        * (bb) to improve science and engineering research and education programs at institutions of higher education in the State.
+
+
+    * (iii) ELIGIBILITY UNDER NSF EPSCOR.—At the election of the Secretary, or if the Secretary declines to establish criteria under clause (i), the Secretary may continue to use the eligibility criteria in use on January 1, 2021, or any successor criteria.
+
+
+  * (E) GRANTS IN AREAS OF APPLIED ENERGY RESEARCH, ENVIRONMENTAL MANAGEMENT, AND BASIC SCIENCE.—
+
+    * (i) IN GENERAL.—EPSCoR shall make grants to eligible jurisdictions to carry out and support applied energy research and research in all areas of environmental management and basic science sponsored by the Department of Energy, including—
+
+      * (I) energy efficiency, fossil energy, renewable energy, and other applied energy research;
+
+      * (II) electricity delivery research;
+
+      * (III) cybersecurity, energy security, and emergency response;
+
+      * (IV) environmental management; and
+
+      * (V) basic science research.
+
+
+    * (ii) ACTIVITIES.—EPSCoR shall make grants under this subparagraph for activities consistent with the objectives described in subparagraph (C) in the areas of applied energy research, environmental management, and basic science described in clause (i), including—
+
+      * (I) to support research that is carried out in partnership with the National Laboratories;
+
+      * (II) to provide for graduate traineeships;
+
+      * (III) to support research by early career faculty; and
+
+      * (IV) to improve research capabilities through biennial research implementation grants.
+
+
+    * (iii) NO COST SHARING.—EPSCoR shall not impose any cost-sharing requirement with respect to a grant made under this subparagraph, but may require letters of commitment from National Laboratories.
+
+
+  * (F) OTHER ACTIVITIES.—EPSCoR may carry out such activities as may be necessary to meet the objectives described in subparagraph (C) in the areas of applied energy research, environmental management, and basic science described in subparagraph (E)(i).
+
+  * (G) PROGRAM IMPLEMENTATION.—
+
+    * (i) IN GENERAL.—Not later than 270 days after January 1, 2021, the Secretary shall submit to the Committees on Energy and Natural Resources and Appropriations of the Senate and the Committees on Energy and Commerce and Appropriations of the House of Representatives a plan describing how the Secretary shall implement EPSCoR.
+
+    * (ii) CONTENTS OF PLAN.—The plan described in clause (i) shall include a description of—
+
+      * (I) the management structure of EPSCoR, which shall ensure that all research areas and activities described in this paragraph are incorporated into EPSCoR;
+
+      * (II) efforts to conduct outreach to inform eligible jurisdictions and faculty of changes to, and opportunities under, EPSCoR;
+
+      * (III) how EPSCoR plans to increase engagement with eligible jurisdictions, faculty, and State committees, including by holding regular workshops, to increase participation in EPSCoR; and
+
+      * (IV) any other issues relating to EPSCoR that the Secretary determines appropriate.
+
+
+  * (H) PROGRAM EVALUATION.—
+
+    * (i) IN GENERAL.—Not later than 5 years after January 1, 2021, the Secretary shall contract with a federally funded research and development center, the National Academy of Sciences, or a similar organization to carry out an assessment of the effectiveness of EPSCoR, including an assessment of—
+
+      * (I) the tangible progress made towards achieving the objectives described in subparagraph (C);
+
+      * (II) the impact of research supported by EPSCoR on the mission of the Department of Energy; and
+
+        * (III) any other issues relating to EPSCoR that the Secretary determines appropriate.
+
+
+      * (ii) LIMITATION.—The organization with which the Secretary contracts under clause (i) shall not be a National Laboratory.
+
+      * (iii) REPORT.—Not later than 6 years after January 1, 2021, the Secretary shall submit to the Committee on Energy and Natural Resources and the Committee on Appropriations of the Senate and the Committee on Science, Space and Technology and the Committee on Appropriations of the House of Representatives a report describing the results of the assessment carried out under clause (i), including recommendations for improvements that would enable the Secretary to achieve the objectives described in subparagraph (C).
 
 #### (c) Technology transfer
 * The Secretary shall support technology transfer activities conducted by the National Laboratories. Within 1 year after October 24, 1992, the Secretary shall submit to the Congress a report on the adequacy of funding for such activities, along with a proposal recommending ways to reduce the length of time required to consummate cooperative research and development agreements.

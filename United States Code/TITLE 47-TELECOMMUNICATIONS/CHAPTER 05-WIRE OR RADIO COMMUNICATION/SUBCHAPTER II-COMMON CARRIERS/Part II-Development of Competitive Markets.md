@@ -142,6 +142,44 @@
 #### (i) Savings provision
 * Nothing in this section shall be construed to limit or otherwise affect the Commission's authority under section 201 of this title.
 
+### §251a. State authority over fees
+#### (a) Authority
+* #### (1) In general
+  * Nothing in this Act, any amendment made by this Act, the Communications Act of 1934 (47 U.S.C. 151 et seq.), or any Commission regulation or order may prevent the imposition and collection of a fee or charge applicable to a commercial mobile service or an IP-enabled voice service specifically designated by a State, a political subdivision of a State, an Indian Tribe, or village or regional corporation serving a region established pursuant to the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.) for 9–8–8 related services, if the fee or charge is held in a sequestered account to be obligated or expended only in support of 9–8–8 services, or enhancements of such services, as specified in the provision of State or local law adopting the fee or charge.
+
+* #### (2) Use of 9–8–8 funds
+  * A fee or charge collected under this subsection shall only be imposed, collected, and used to pay expenses that a State, a political subdivision of a State, an Indian Tribe, or village or regional corporation serving a region established pursuant to the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.) is expected to incur that are reasonably attributed to—
+
+    * (A) ensuring the efficient and effective routing of calls made to the 9–8–8 national suicide prevention and mental health crisis hotline to an appropriate crisis center; and
+
+    * (B) personnel and the provision of acute mental health, crisis outreach and stabilization services by directly responding to the 9–8–8 national suicide prevention and mental health crisis hotline.
+
+#### (b) Fee Accountability Report
+* To ensure efficiency, transparency, and accountability in the collection and expenditure of a fee or charge for the support or implementation of 9–8–8 services, not later than 2 years after October 17, 2020, and annually thereafter, the Commission shall submit to the Committees on Commerce, Science, and Transportation and Appropriations of the Senate and the Committees on Energy and Commerce and Appropriations of the House of Representatives a report that—
+
+  * (1) details the status in each State, political subdivision of a State, Indian Tribe, or village or regional corporation serving a region established pursuant to the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.) of the collection and distribution of such fees or charges; and
+
+  * (2) includes findings on the amount of revenues obligated or expended by each State, political subdivision of a State, Indian Tribe, or village or regional corporation serving a region established pursuant to the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.) for any purpose other than the purpose for which any such fees or charges are specified.
+
+#### (c) Definitions
+* In this section:
+
+* #### (1) Commercial mobile service
+  * The term "commercial mobile service" has the meaning given that term under section 332(d) of the Communications Act of 1934 (47 U.S.C. 332(d)).
+
+* #### (2) Commission
+  * The term "Commission" means the Federal Communications Commission.
+
+* #### (3) IP-enabled voice service
+  * The term "IP-enabled voice service" shall include—
+
+    * (A) an interconnected VoIP service, as defined in section 9.3 of the title 47 of the Code of Federal Regulations, or any successor thereto; and
+
+    * (B) a one-way interconnected VoIP service.
+
+* #### (4) State
+  * The term "State" has the meaning given that term in section 615b of this title.
+
 ### §252. Procedures for negotiation, arbitration, and approval of agreements
 #### (a) Agreements arrived at through negotiation
 * #### (1) Voluntary negotiations

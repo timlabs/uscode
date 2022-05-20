@@ -61,7 +61,7 @@
 ### §1174. Separation pay upon involuntary discharge or release from active duty
 * (a) REGULAR OFFICERS.—(1) A regular officer who is discharged under chapter 36 of this title (except under section 630(1)(A) or 643 of such chapter) or under section 580 or 8372 of this title and who has completed six or more, but less than twenty, years of active service immediately before that discharge is entitled to separation pay computed under subsection (d)(1).
 
-* (2) A regular commissioned officer of the Army, Navy, Air Force, or Marine Corps who is discharged under section 630(1)(A), 643, or 1186 of this title, and a regular warrant officer of the Army, Navy, Air Force, or Marine Corps who is separated under section 1165 or 1166 of this title, who has completed six or more, but less than twenty, years of active service immediately before that discharge or separation is entitled to separation pay computed under subsection (d)(1) or (d)(2), as determined by the Secretary of the military department concerned, unless the Secretary concerned determines that the conditions under which the officer is discharged or separated do not warrant payment of such pay.
+* (2) A regular commissioned officer of the Army, Navy, Air Force, Marine Corps, or Space Force who is discharged under section 630(1)(A), 643, or 1186 of this title, and a regular warrant officer of the Army, Navy, Air Force, Marine Corps, or Space Force who is separated under section 1165 or 1166 of this title, who has completed six or more, but less than twenty, years of active service immediately before that discharge or separation is entitled to separation pay computed under subsection (d)(1) or (d)(2), as determined by the Secretary of the military department concerned, unless the Secretary concerned determines that the conditions under which the officer is discharged or separated do not warrant payment of such pay.
 
 * (3) Notwithstanding paragraphs (1) and (2), an officer discharged under any provision of chapter 36 of this title for twice failing of selection for promotion to the next higher grade is not entitled to separation pay under this section if either (or both) of those failures of selection for promotion was by the action of a selection board to which the officer submitted a request in writing not to be selected for promotion or who otherwise directly caused his nonselection through written communication to the Board under section 614(b) of this title.
 
@@ -135,7 +135,7 @@
   * (B) the death, status, or disability did not result from the intentional misconduct or willful neglect of the parent or sibling and was not incurred during a period of unauthorized absence.
 
 
-* (j) REGULATIONS; CREDITING OF OTHER COMMISSIONED SERVICE.—(1) The Secretary of Defense shall prescribe regulations, which shall be uniform for the Army, Navy, Air Force, and Marine Corps, for the administration of this section.
+* (j) REGULATIONS; CREDITING OF OTHER COMMISSIONED SERVICE.—(1) The Secretary of Defense shall prescribe regulations, which shall be uniform for the Army, Navy, Air Force, Marine Corps, and Space Force, for the administration of this section.
 
 * (2) Active commissioned service in the National Oceanic and Atmospheric Administration or the Public Health Service shall be credited as active service in the armed forces for the purposes of this section.
 

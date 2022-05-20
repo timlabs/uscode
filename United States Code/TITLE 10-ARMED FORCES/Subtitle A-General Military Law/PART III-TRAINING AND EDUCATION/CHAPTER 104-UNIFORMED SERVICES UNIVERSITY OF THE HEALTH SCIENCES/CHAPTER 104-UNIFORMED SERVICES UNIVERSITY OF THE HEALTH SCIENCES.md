@@ -50,9 +50,11 @@
 
   * (D) to accept, hold, administer, invest, and spend any gift, devise, or bequest of personal property made to the University, including any gift, devise, or bequest for the support of an academic chair, teaching, research, or demonstration project;
 
-  * (E) to enter into agreements with the Henry M. Jackson Foundation for the Advancement of Military Medicine, or with any other nonprofit entity, under which scientists or other personnel of the Foundation or other entity may be utilized by the University for the purpose of enhancing the activities of the University in education, research, and technological applications of knowledge; and
+  * (E) to enter into agreements with the Henry M. Jackson Foundation for the Advancement of Military Medicine, or with any other nonprofit entity, under which scientists or other personnel of the Foundation or other entity may be utilized by the University for the purpose of enhancing the activities of the University in education, research, and technological applications of knowledge;
 
-  * (F) to accept the voluntary services of guest scholars and other persons.
+  * (F) to accept the voluntary services of guest scholars and other persons; and
+
+  * (G) notwithstanding sections 2304, 2361, and 2374 of this title, to enter into contracts and cooperative agreements with, accept grants from, and make grants to, nonprofit entities (on a sole-source basis) for the purpose specified in subparagraph (A) or for any other purpose the Secretary determines to be consistent with the mission of the University.
 
 
 * (2) The Secretary may not enter into any contract with the Henry M. Jackson Foundation for the Advancement of Military Medicine, or with any other entity, if the contract would obligate the University to make outlays in advance of the enactment of budget authority for such outlays.
@@ -70,9 +72,11 @@
 
   * (2) the Secretary of Defense, or his designee, who shall be an ex officio member;
 
-  * (3) the surgeons general of the uniformed services, who shall be ex officio members; and
+  * (3) the Director of the Defense Health Agency, who shall be an ex officio member;
 
-  * (4) the President of the University, who shall be a nonvoting ex officio member.
+  * (4) the surgeons general of the uniformed services, who shall be ex officio members; and
+
+  * (5) the President of the University, who shall be a nonvoting ex officio member.
 
 
 * (c) TERM OF OFFICE.—The term of office of each member of the Board (other than ex officio members) shall be six years except that—

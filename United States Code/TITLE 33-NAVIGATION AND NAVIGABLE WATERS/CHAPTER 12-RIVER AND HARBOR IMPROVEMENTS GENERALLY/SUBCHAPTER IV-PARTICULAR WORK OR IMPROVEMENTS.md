@@ -68,39 +68,58 @@
 
 #### (b) Authorization of appropriations
 * #### (1) In general
-  * There is authorized to be appropriated to carry out this section $110,000,000 for each fiscal year, of which—
+  * There is authorized to be appropriated to carry out this section (except for subsections (f) and (g)) $130,000,000 for each fiscal year, of which—
 
     * (A) $30,000,000 shall be made available to carry out subsection (d)(1)(A)(i);
 
-    * (B) $30,000,000 shall be made available to carry out subsection (d)(1)(A)(ii); and
+    * (B) $30,000,000 shall be made available to carry out subsection (d)(1)(A)(ii);
 
-    * (C) $30,000,000 shall be made available to carry out subsection (d)(1)(A)(iii).
+    * (C) $30,000,000 shall be made available to carry out subsection (d)(1)(A)(iii);
 
-* #### (2) Control operations
-  * Any funds made available under paragraph (1) to be used for control operations shall be allocated by the Chief of Engineers on a priority basis, based on the urgency and need of each area and the availability of local funds.
+    * (D) $30,000,000 shall be made available to carry out subsection (d)(1)(A)(iv); and
+
+    * (E) $10,000,000 shall be made available to carry out subsection (d)(1)(A)(v).
+
+* #### (2) Other programs
+  * #### (A) In general
+    * There are authorized to be appropriated—
+
+      * (i) $10,000,000 for each of fiscal years 2021 through 2024 to carry out subsection (f); and
+
+      * (ii) $50,000,000 for each of fiscal years 2021 through 2024 to carry out subsection (g)(2).
+
+  * #### (B) Invasive plant species pilot program
+    * There is authorized to be appropriated to the Secretary of the Interior, acting through the Director of the United States Fish and Wildlife Service, $10,000,000 to carry out subsection (g)(3).
+
+* #### (3) Control operations
+  * Any funds made available under paragraph (1) or (2)(A) to be used for control operations shall be allocated by the Chief of Engineers on a priority basis, based on the urgency and need of each area and the availability of local funds.
 
 #### (c) Support
 * In carrying out the program under this section, the Secretary is encouraged to use contracts, cooperative agreements, and grants with colleges and universities and other non-Federal entities.
 
-#### (d) Watercraft inspection stations
+#### (d) Watercraft inspection and Decontamination stations
 * #### (1) In general
-  * #### (A) Watercraft inspection stations
-    * In carrying out this section, the Secretary shall establish (as applicable), operate, and maintain new or existing watercraft inspection stations—
+  * #### (A) Watercraft inspection and decontamination stations
+    * In carrying out this section, the Secretary shall establish (as applicable), operate, and maintain new or existing watercraft inspection and decontamination stations—
 
       * (i) to protect the Columbia River Basin;
 
-      * (ii) to protect the Upper Missouri River Basin; and
+      * (ii) to protect the Upper Missouri River Basin;
 
-      * (iii) to protect the Upper Colorado River Basin and the South Platte and Arizona River Basins.
+      * (iii) to protect the Upper Colorado River Basin and the South Platte and Arkansas River Basins;
+
+      * (iv) to protect the Russian River Basin, California; and
+
+      * (v) to protect basins and watersheds that adjoin an international border between the United States and Canada.
 
   * #### (B) Locations
-    * The Secretary shall establish watercraft inspection stations under subparagraph (A) at locations with the highest likelihood of preventing the spread of aquatic invasive species at reservoirs operated and maintained by the Secretary, as determined by the Secretary in consultation with States within the areas described in subparagraph (A).
+    * The Secretary shall place watercraft inspection and decontamination stations under subparagraph (A) at locations with the highest likelihood of preventing the spread of aquatic invasive species into and out of waters of the United States, as determined by the Secretary in consultation with the Governors and entities described in paragraph (3).
 
   * #### (C) Rapid response
     * The Secretary shall assist States within the areas described in subparagraph (A) with rapid response to any aquatic invasive species, including quagga or zebra mussel, infestation.
 
 * #### (2) Cost share
-  * The non-Federal share of the cost of constructing, operating, and maintaining watercraft inspection stations described in paragraph (1) (including personnel costs) shall be—
+  * The non-Federal share of the cost of constructing, operating, and maintaining watercraft inspection and decontamination stations described in paragraph (1) (including personnel costs) shall be—
 
     * (A) 50 percent; and
 
@@ -109,7 +128,7 @@
 * #### (3) Coordination
   * In carrying out this subsection, the Secretary shall consult and coordinate with—
 
-    * (A) the Governors of the States within the areas described in each of clauses (i) through (iii) of paragraph (1)(A), as applicable;
+    * (A) the Governors of the States within the areas described in each of clauses (i) through (v) of paragraph (1)(A), as applicable;
 
     * (B) Indian tribes; and
 
@@ -135,3 +154,81 @@
   * (3) assist States in early detection of aquatic invasive species, including quagga and zebra mussels; and
 
   * (4) monitor water quality, including sediment cores and fish tissue samples.
+
+#### (f) Invasive species management pilot program
+* #### (1) Definition of invasive species
+  * In this subsection, the term "invasive species" has the meaning given the term in section 1 of Executive Order 13112 (64 Fed. Reg. 6183; relating to invasive species (February 3, 1999)) (as amended by section 2 of Executive Order 13751 (81 Fed. Reg. 88609; relating to safeguarding the Nation from the impacts of invasive species (December 5, 2016))).
+
+* #### (2) Development of plans
+  * The Secretary, in coordination with the Aquatic Nuisance Species Task Force, shall carry out a pilot program under which the Secretary shall collaborate with States in the Upper Missouri River Basin in developing voluntary aquatic invasive species management plans to mitigate the effects of invasive species on public infrastructure facilities located on reservoirs of the Corps of Engineers in those States.
+
+* #### (3) Management plan
+  * #### (A) In general
+    * The Secretary, in consultation with the Governor of each State in the Upper Missouri River Basin that elects to participate in the pilot program, shall prepare a management plan, or update or expand an existing plan, for each participating State that identifies public infrastructure facilities located on reservoirs of the Corps of Engineers in those States that—
+
+      * (i) are affected by aquatic invasive species; and
+
+      * (ii) need financial and technical assistance in order to maintain operations.
+
+  * #### (B) Use of existing plans
+    * In developing a management plan under subparagraph (A), the Secretary shall consider a management plan submitted by a participating State under section 4724(a) of title 16.
+
+* #### (4) Termination of authority
+  * The authority provided under this subsection shall terminate on September 30, 2024.
+
+#### (g) Invasive species prevention, control, and eradication
+* #### (1) Definition of invasive species
+  * In this subsection, the term 'invasive species' has the meaning given the term in section 1 of Executive Order 13112 (64 Fed. Reg. 6183; relating to invasive species (February 3, 1999)) (as amended by section 2 of Executive Order 13751 (81 Fed. Reg. 88609; relating to safeguarding the Nation from the impacts of invasive species (December 5, 2016))).
+
+* #### (2) Invasive species partnerships
+  * #### (A) In general
+    * The Secretary may enter into partnerships with applicable States and other Federal agencies to carry out actions to prevent the introduction of, control, or eradicate, to the maximum extent practicable, invasive species that adversely impact water quantity or water quality in the Platte River Basin, the Upper Colorado River Basin, the Upper Snake River Basin, and the Upper Missouri River Basin.
+
+  * #### (B) Prioritization
+    * In selecting actions to carry out under a partnership under subparagraph (A), the Secretary shall give priority to projects that are intended to control or eradicate the Russian olive (_Elaeagnus angustifolia_) or saltcedar (of the genus _Tamarix_).
+
+* #### (3) Invasive plant species pilot program
+  * #### (A) Definitions
+    * In this paragraph:
+
+    * #### (i) Eligible entity
+      * The term "eligible entity" means a partnership between or among 2 or more entities that—
+
+        * (I) includes—
+
+          * (aa) at least 1 flood control district; and
+
+          * (bb) at least 1 city, county, township, town, borough, parish, village, or other general purpose political subdivision of a State or Indian Tribe (as defined in section 5304 of title 25); and
+
+
+        * (II) may include any other entity (such as a nonprofit organization or institution of higher education), as determined by the Secretary.
+
+    * #### (ii) Invasive plant species
+      * The term "invasive plant species" means a plant that is nonnative to the ecosystem under consideration, the introduction of which causes or is likely to cause economic harm or harm to human health.
+
+  * #### (B) Pilot program
+    * The Secretary of the Interior, acting through the Director of the United States Fish and Wildlife Service, shall establish a pilot program under which such Secretary shall work with eligible entities to carry out activities—
+
+      * (i) to remove invasive plant species in riparian areas that contribute to drought conditions in—
+
+        * (I) the Lower Colorado River Basin;
+
+        * (II) the Rio Grande River Basin;
+
+        * (III) the Texas Gulf Coast Basin; and
+
+        * (IV) the Arkansas-White-Red Basin;
+
+
+      * (ii) where appropriate, to replace the invasive plant species described in clause (i) with ecologically suitable native species; and
+
+      * (iii) to maintain and monitor riparian areas in which activities are carried out under clauses (i) and (ii).
+
+  * #### (C) Report to Congress
+    * Not later than 18 months after December 27, 2020, the Secretary of the Interior, acting through the Director of the United States Fish and Wildlife Service, shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report describing the implementation of the pilot program.
+
+  * #### (D) Termination of authority
+    * The authority provided under this paragraph shall terminate on September 30, 2024.
+
+* #### (4) Cost share
+  * The Federal share of an action carried out under a partnership under paragraph (2) or an activity carried out under the pilot program under paragraph (3) shall not exceed 80 percent of the total cost of the action or activity.

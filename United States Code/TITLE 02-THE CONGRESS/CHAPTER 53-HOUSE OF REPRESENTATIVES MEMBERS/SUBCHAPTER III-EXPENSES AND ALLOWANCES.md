@@ -2,7 +2,7 @@
 
 ### §5341. Representational allowance for Members of House of Representatives
 #### (a) In general
-* There is established for the House of Representatives a single allowance, to be known as the "Members' Representational Allowance", which shall be available to support the conduct of the official and representational duties of a Member of the House of Representatives with respect to the district from which the Member is elected.
+* There is established for the House of Representatives a single allowance, to be known as the "Members' Representational Allowance", which shall be available to support the conduct of the official and representational duties of a Member or Member-elect of the House of Representatives with respect to the district from which the Member or Member-elect is elected.
 
 #### (b) Merger
 * The Clerk Hire Allowance, the Official Expenses Allowance, and the Official Mail Allowance, as in effect on the day before September 1, 1995, are merged into the Members' Representational Allowance.
@@ -11,7 +11,7 @@
 * As used in this section, the term "Member of the House of Representatives" means a Representative in, or a Delegate or Resident Commissioner to, the Congress.
 
 #### (d) Regulations
-* The Committee on House Oversight of the House of Representatives shall have authority to prescribe regulations to carry out this section.
+* The Committee on House Oversight of the House of Representatives shall have authority to prescribe regulations to carry out this section, including regulations establishing under subsection (a) the official and representational duties during a Congress of a Member-elect of the House of Representatives who is not an incumbent Member re-elected to the ensuing Congress.
 
 #### (e) Effective date
 * This section shall take effect on September 1, 1995 and shall apply with respect to official and representational duties carried out on or after that date.

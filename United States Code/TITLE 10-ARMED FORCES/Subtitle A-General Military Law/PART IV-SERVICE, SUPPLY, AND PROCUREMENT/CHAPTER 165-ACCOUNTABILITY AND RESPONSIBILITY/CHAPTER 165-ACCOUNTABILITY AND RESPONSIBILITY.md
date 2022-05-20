@@ -371,7 +371,7 @@
 * With respect to any Federal payment of funds covered by section 3332(f) of title 31 (relating to electronic funds transfers) for which payment is made or authorized by the Department of Defense, the waiver authority provided in paragraph (2)(A)(i) of that section shall be exercised by the Secretary of Defense. The Secretary of Defense shall carry out the authority provided under the preceding sentence in consultation with the Secretary of the Treasury.
 
 ### §2787. Reports of survey
-* (a) ACTION ON REPORTS OF SURVEY.—Under regulations prescribed pursuant to subsection (c), any officer of the Army, Navy, Air Force, or Marine Corps or any civilian employee of the Department of Defense designated in accordance with those regulations may act upon reports of surveys and vouchers pertaining to the loss, spoilage, unserviceability, unsuitability, or destruction of, or damage to, property of the United States under the control of the Department of Defense.
+* (a) ACTION ON REPORTS OF SURVEY.—Under regulations prescribed pursuant to subsection (c), any officer of the Army, Navy, Air Force, Marine Corps, or Space Force or any civilian employee of the Department of Defense designated in accordance with those regulations may act upon reports of surveys and vouchers pertaining to the loss, spoilage, unserviceability, unsuitability, or destruction of, or damage to, property of the United States under the control of the Department of Defense.
 
 * (b) FINALITY OF ACTION.—(1) Action taken under subsection (a) is final except as provided in paragraph (2).
 

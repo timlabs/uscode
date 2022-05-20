@@ -83,6 +83,8 @@
 
         * (V) Customized prosthetic devices (commonly known as artificial limbs or components of artificial limbs) under the following HCPCS codes (as of July 1, 1999 (and as subsequently modified by the Secretary)), and any additional customized prosthetic devices identified by the Secretary, if delivered to an inpatient for use during the stay in the skilled nursing facility and intended to be used by the individual after discharge from the facility: L5050–L5340; L5500–L5611; L5613–L5986; L5988; L6050–L6370; L6400–L6880; L6920–L7274; and L7362–7366.
 
+        * (VI) Blood clotting factors indicated for the treatment of patients with hemophilia and other bleeding disorders (identified as of July 1, 2020, by HCPCS codes J7170, J7175, J7177–J7183, J7185–J7190, J7192–J7195, J7198–J7203, J7205, J7207–J7211, and as subsequently modified by the Secretary) and items and services related to the furnishing of such factors under section 1395u(o)(5)(C) of this title, and any additional blood clotting factors identified by the Secretary and items and services related to the furnishing of such factors under such section.
+
     * #### (iv) Exclusion of certain rural health clinic and federally qualified health center services
       * Services described in this clause are—
 
@@ -347,16 +349,30 @@
   * #### (B) Program to begin in fiscal year 2019
     * The SNF VBP Program shall apply to payments for services furnished on or after October 1, 2018.
 
+  * #### (C) Exclusions
+    * With respect to payments for services furnished on or after October 1, 2022, this subsection shall not apply to a facility for which there are not a minimum number (as determined by the Secretary) of—
+
+      * (i) cases for the measures that apply to the facility for the performance period for the applicable fiscal year; or
+
+      * (ii) measures that apply to the facility for the performance period for the applicable fiscal year.
+
 * #### (2) Application of measures
   * #### (A) In general
-    * The Secretary shall apply the measure specified under subsection (g)(1) for purposes of the SNF VBP Program.
+    * The Secretary—
+
+      * (i) shall apply the measure specified under subsection (g)(1) for purposes of the SNF VBP Program; and
+
+      * (ii) may, with respect to payments for services furnished on or after October 1, 2023, apply additional measures determined appropriate by the Secretary, which may include measures of functional status, patient safety, care coordination, or patient experience.
+
+
+  * Subject to the succeeding sentence, in the case that the Secretary applies additional measures under clause (ii), the Secretary shall consider and apply, as appropriate, quality measures specified under section 1395lll(c)(1) of this title. In no case may the Secretary apply more than 10 measures under this subparagraph.
 
   * #### (B) Replacement
     * For purposes of the SNF VBP Program, the Secretary shall apply the measure specified under (g)(2) instead of the measure specified under (g)(1) as soon as practicable.
 
 * #### (3) Performance standards
   * #### (A) Establishment
-    * The Secretary shall establish performance standards with respect to the measure applied under paragraph (2) for a performance period for a fiscal year.
+    * The Secretary shall establish performance standards with respect to the measures applied under paragraph (2) for a performance period for a fiscal year.
 
   * #### (B) Higher of achievement and improvement
     * The performance standards established under subparagraph (A) shall include levels of achievement and improvement. In calculating the SNF performance score under paragraph (4), the Secretary shall use the higher of either improvement or achievement.
@@ -366,7 +382,7 @@
 
 * #### (4) SNF performance score
   * #### (A) In general
-    * The Secretary shall develop a methodology for assessing the total performance of each skilled nursing facility based on performance standards established under paragraph (3) with respect to the measure applied under paragraph (2). Using such methodology, the Secretary shall provide for an assessment (in this subsection referred to as the "SNF performance score") for each skilled nursing facility for each such performance period.
+    * The Secretary shall develop a methodology for assessing the total performance of each skilled nursing facility based on performance standards established under paragraph (3) with respect to the measures applied under paragraph (2). Using such methodology, the Secretary shall provide for an assessment (in this subsection referred to as the "SNF performance score") for each skilled nursing facility for each such performance period.
 
   * #### (B) Ranking of SNF performance scores
     * The Secretary shall, for the performance period for each fiscal year, rank the SNF performance scores determined under subparagraph (A) from low to high.
@@ -452,3 +468,10 @@
 
 
 * Such funds shall remain available until expended.
+
+* #### (12) Validation
+  * #### (A) In general
+    * The Secretary shall apply to the measures applied under this subsection and the data submitted under subsection (e)(6) a process to validate such measures and data, as appropriate, which may be similar to the process specified in section 1395ww(b)(3)(B)(viii)(XI) of this title for validating inpatient hospital measures.
+
+  * #### (B) Funding
+    * For purposes of carrying out this paragraph, the Secretary shall provide for the transfer, from the Federal Hospital Insurance Trust Fund established under section 1395i of this title, of $5,000,000 to the Centers for Medicare & Medicaid Services Program Management Account for each of fiscal years 2023 through 2025, to remain available until expended.

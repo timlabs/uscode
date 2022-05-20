@@ -188,24 +188,16 @@
 
   * (3) provide information, referral, and educational programs to the public on lifespan respite care.
 
-### §300ii–3. Report
-* Not later than January 1, 2009, the Secretary shall report to the Congress on the activities undertaken under this subchapter. Such report shall evaluate—
+### §300ii–3. Data collection and reporting
+#### (a) In general
+* Each State agency awarded a grant or cooperative agreement under section 300ii–1 of this title shall report such data, information, and metrics as the Secretary may require for purposes of—
 
-  * (1) the number of States that have lifespan respite care programs;
+  * (1) evaluating State programs and activities funded pursuant to such grant or cooperative agreement, including any results pursuant to section 300ii–1(d)(2)(B)(xii) of this title; and
 
-  * (2) the demographics of the caregivers receiving respite care services through grants or cooperative agreements under this subchapter; and
+  * (2) identifying effective programs and activities funded pursuant to section 300ii–1 of this title.
 
-  * (3) the effectiveness of entities receiving grants or cooperative agreements under this subchapter.
+#### (b) Report
+* Not later than October 1, 2023, the Secretary shall submit a report to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives regarding the outcomes of the programs and activities funded pursuant to section 300ii–1 of this title, including any effective programs and activities identified.
 
 ### §300ii–4. Authorization of appropriations
-* There are authorized to be appropriated to carry out this subchapter—
-
-  * (1) $30,000,000 for fiscal year 2007;
-
-  * (2) $40,000,000 for fiscal year 2008;
-
-  * (3) $53,330,000 for fiscal year 2009;
-
-  * (4) $71,110,000 for fiscal year 2010; and
-
-  * (5) $94,810,000 for fiscal year 2011.
+* There are authorized to be appropriated to carry out this subchapter, $10,000,000 for each of fiscal years 2020 through fiscal year 2024.

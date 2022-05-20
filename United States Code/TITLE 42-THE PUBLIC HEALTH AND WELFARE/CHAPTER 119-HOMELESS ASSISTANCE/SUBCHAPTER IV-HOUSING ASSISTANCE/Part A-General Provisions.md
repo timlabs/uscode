@@ -65,10 +65,13 @@
 * #### (7) Families with children and youth defined as homeless under other Federal statutes
   * The term "families with children and youth defined as homeless under other Federal statutes" means any children or youth that are defined as "homeless" under any Federal statute other than this part, but are not defined as homeless under section 11302 of this title, and shall also include the parent, parents, or guardian of such children or youth under part B of subchapter VI this chapter (42 U.S.C. 11431 et seq.).
 
-* #### (8) Geographic area
-  * The term "geographic area" means a State, metropolitan city, urban county, town, village, or other nonentitlement area, or a combination or consortia of such, in the United States, as described in section 5306 of this title.
+* #### (8) Formula area
+  * The term "formula area" has the meaning given the term in section 1000.302 of title 24, Code of Federal Regulations, or any successor regulation.
 
-* #### (9) Homeless individual with a disability
+* #### (9) Geographic area
+  * The term "geographic area" means a State, metropolitan city, urban county, town, village, or other nonentitlement area, a formula area,or a combination or consortia of such, in the United States, as described in section 5306 of this title.
+
+* #### (10) Homeless individual with a disability
   * #### (A) In general
     * The term "homeless individual with a disability" means an individual who is homeless, as defined in section 11302 of this title, and has a disability that—
 
@@ -87,7 +90,10 @@
   * #### (B) Rule
     * Nothing in clause (iii) of subparagraph (A) shall be construed to limit eligibility under clause (i) or (ii) of subparagraph (A).
 
-* #### (10) Legal entity
+* #### (11) Indian tribe
+  * The term "Indian Tribe" has the meaning given the term "Indian tribe" in section 4103 of title 25.
+
+* #### (12) Legal entity
   * The term "legal entity" means—
 
     * (A) an entity described in section 501(c)(3) of title 26 and exempt from tax under section 501(a) of such title;
@@ -96,13 +102,13 @@
 
     * (C) a consortium of instrumentalities of State or local governments that has constituted itself as an entity.
 
-* #### (11) Metropolitan city; urban county; nonentitlement area
+* #### (13) Metropolitan city; urban county; nonentitlement area
   * The terms "metropolitan city", "urban county", and "nonentitlement area" have the meanings given such terms in section 5302(a) of this title.
 
-* #### (12) New
+* #### (14) New
   * The term "new" means, with respect to housing, that no assistance has been provided under this subchapter for the housing.
 
-* #### (13) Operating costs
+* #### (15) Operating costs
   * The term "operating costs" means expenses incurred by a project sponsor operating transitional housing or permanent housing under this subchapter with respect to—
 
     * (A) the administration, maintenance, repair, and security of such housing;
@@ -111,13 +117,13 @@
 
     * (C) coordination of services as needed to ensure long-term housing stability.
 
-* #### (14) Outpatient health services
+* #### (16) Outpatient health services
   * The term "outpatient health services" means outpatient health care services, mental health services, and outpatient substance abuse services.
 
-* #### (15) Permanent housing
+* #### (17) Permanent housing
   * The term "permanent housing" means community-based housing without a designated length of stay, and includes both permanent supportive housing and permanent housing without supportive services.
 
-* #### (16) Personally identifying information
+* #### (18) Personally identifying information
   * The term "personally identifying information" means individually identifying information for or about an individual, including information likely to disclose the location of a victim of domestic violence, dating violence, sexual assault, or stalking, including—
 
     * (A) a first and last name;
@@ -130,7 +136,7 @@
 
     * (E) any other information, including date of birth, racial or ethnic background, or religious affiliation, that, in combination with any other non-personally identifying information, would serve to identify any individual.
 
-* #### (17) Private nonprofit organization
+* #### (19) Private nonprofit organization
   * The term "private nonprofit organization" means an organization—
 
     * (A) no part of the net earnings of which inures to the benefit of any member, founder, contributor, or individual;
@@ -141,10 +147,10 @@
 
     * (D) that practices nondiscrimination in the provision of assistance.
 
-* #### (18) Project
+* #### (20) Project
   * The term "project" means, with respect to activities carried out under part C, eligible activities described in section 11383(a) of this title, undertaken pursuant to a specific endeavor, such as serving a particular population or providing a particular resource.
 
-* #### (19) Project-based
+* #### (21) Project-based
   * The term "project-based" means, with respect to rental assistance, that the assistance is provided pursuant to a contract that—
 
     * (A) is between—
@@ -156,10 +162,10 @@
 
     * (B) provides that rental assistance payments shall be made to the owner and that the units in the structure shall be occupied by eligible persons for not less than the term of the contract.
 
-* #### (20) Project sponsor
+* #### (22) Project sponsor
   * The term "project sponsor" means, with respect to proposed eligible activities, the organization directly responsible for carrying out the proposed eligible activities.
 
-* #### (21) Recipient
+* #### (23) Recipient
   * Except as used in part B, the term "recipient" means an eligible entity who—
 
     * (A) submits an application for a grant under section 11382 of this title that is approved by the Secretary;
@@ -170,16 +176,16 @@
 
     * (ii) awards the funds to project sponsors to carry out the projects.
 
-* #### (22) Secretary
+* #### (24) Secretary
   * The term "Secretary" means the Secretary of Housing and Urban Development.
 
-* #### (23) Serious mental illness
+* #### (25) Serious mental illness
   * The term "serious mental illness" means a severe and persistent mental illness or emotional impairment that seriously limits a person's ability to live independently.
 
-* #### (24) Solo applicant
+* #### (26) Solo applicant
   * The term "solo applicant" means an entity that is an eligible entity, directly submits an application for a grant under part C to the Secretary, and, if awarded such grant, receives such grant directly from the Secretary.
 
-* #### (25) Sponsor-based
+* #### (27) Sponsor-based
   * The term "sponsor-based" means, with respect to rental assistance, that the assistance is provided pursuant to a contract that—
 
     * (A) is between—
@@ -195,10 +201,10 @@
 
     * (B) provides that rental assistance payments shall be made to the independent entity and that eligible persons shall occupy such assisted units.
 
-* #### (26) State
+* #### (28) State
   * Except as used in part B, the term "State" means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, the Trust Territory of the Pacific Islands, and any other territory or possession of the United States.
 
-* #### (27) Supportive services
+* #### (29) Supportive services
   * The term "supportive services" means services that address the special needs of people served by a project, including—
 
     * (A) the establishment and operation of a child care services program for families experiencing homelessness;
@@ -226,7 +232,7 @@
 
     * (J) other supportive services necessary to obtain and maintain housing.
 
-* #### (28) Tenant-based
+* #### (30) Tenant-based
   * The term "tenant-based" means, with respect to rental assistance, assistance that—
 
     * (A) allows an eligible person to select a housing unit in which such person will live using rental assistance provided under part C, except that if necessary to assure that the provision of supportive services to a person participating in a program is feasible, a recipient or project sponsor may require that the person live—
@@ -238,19 +244,19 @@
 
     * (B) provides that a person may receive such assistance and move to another structure, unit, or geographic area if the person has complied with all other obligations of the program and has moved out of the assisted dwelling unit in order to protect the health or safety of an individual who is or has been the victim of domestic violence, dating violence, sexual assault, or stalking, and who reasonably believed he or she was imminently threatened by harm from further violence if he or she remained in the assisted dwelling unit.
 
-* #### (29) Transitional housing
+* #### (31) Transitional housing
   * The term "transitional housing" means housing the purpose of which is to facilitate the movement of individuals and families experiencing homelessness to permanent housing within 24 months or such longer period as the Secretary determines necessary.
 
-* #### (30) Unified funding agency
+* #### (32) Unified funding agency
   * The term "unified funding agency" means a collaborative applicant that performs the duties described in section 11360a(g) of this title.
 
-* #### (31) Underserved populations
+* #### (33) Underserved populations
   * The term "underserved populations" includes populations underserved because of geographic location, underserved racial and ethnic populations, populations underserved because of special needs (such as language barriers, disabilities, alienage status, or age), and any other population determined to be underserved by the Secretary, as appropriate.
 
-* #### (32) Victim service provider
+* #### (34) Victim service provider
   * The term "victim service provider" means a private nonprofit organization whose primary mission is to provide services to victims of domestic violence, dating violence, sexual assault, or stalking. Such term includes rape crisis centers, battered women's shelters, domestic violence transitional housing programs, and other programs.
 
-* #### (33) Victim services
+* #### (35) Victim services
   * The term "victim services" means services that assist domestic violence, dating violence, sexual assault, or stalking victims, including services offered by rape crisis centers and domestic violence shelters, and other organizations, with a documented history of effective work concerning domestic violence, dating violence, sexual assault, or stalking.
 
 ### §11360a. Collaborative applicants

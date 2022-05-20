@@ -87,7 +87,7 @@
 * (3) The Board shall meet at least once each fiscal year.
 
 #### (f) Director; appointment and compensation
-* After consultation with the Board, the Librarian shall appoint the Director of the Center. The rate of basic pay of the Director shall be fixed in accordance with section 5376(b) of title 5, United States Code.
+* After consultation with the Board, the Librarian shall appoint the Director of the Center. The rate of basic pay of the Director shall be fixed in accordance with section 5376(b) of title 5.
 
 #### (g) Duties of Director
 * The Director shall be the chief executive officer of the Center. Subject to the direction of the Board and the general supervision of the Librarian, the Director shall have responsibility for carrying out functions of the Center, and shall have authority over all personnel and activities of the Center.

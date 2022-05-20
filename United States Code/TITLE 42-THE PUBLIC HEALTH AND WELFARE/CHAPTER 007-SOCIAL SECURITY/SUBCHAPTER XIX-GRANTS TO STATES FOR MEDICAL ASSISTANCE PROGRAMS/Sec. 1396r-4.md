@@ -272,7 +272,7 @@
 * #### (7) Medicaid DSH reductions
   * #### (A) Reductions
     * #### (i) In general
-      * For the period beginning May 23, 2020, and ending September 30, 2020, and for each of fiscal years 2021 through 2025 the Secretary shall effect the following reductions:
+      * For each of fiscal years 2024 through 2027, the Secretary shall effect the following reductions:
 
       * #### (I) Reduction in DSH allotments
         * The Secretary shall reduce DSH allotments to States in the amount specified under the DSH health reform methodology under subparagraph (B) for the State for the fiscal year.
@@ -281,11 +281,7 @@
         * The Secretary shall reduce payments to States under section 1396b(a) of this title for each calendar quarter in the fiscal year, in the manner specified in clause (iii), in an amount equal to ¼ of the DSH allotment reduction under subclause (I) for the State for the fiscal year.
 
     * #### (ii) Aggregate reductions
-      * The aggregate reductions in DSH allotments for all States under clause (i)(I) shall be equal to—
-
-        * (I) $4,000,000,000 for the period beginning May 23, 2020, and ending September 30, 2020; and
-
-        * (II) $8,000,000,000 for each of fiscal years 2021 through 2025.
+      * The aggregate reductions in DSH allotments for all States under clause (i)(I) shall be equal to $8,000,000,000 for each of fiscal years 2024 through 2027
 
     * #### (iii) Manner of payment reduction
       * The amount of the payment reduction under clause (i)(II) for a State for a quarter shall be deemed an overpayment to the State under this subchapter to be disallowed against the State's regular quarterly draw for all spending under section 1396b(d)(2) of this title. Such a disallowance is not subject to a reconsideration under subsections (d) and (e) of section 1316 of this title.
@@ -315,7 +311,7 @@
       * (iii) The methodology takes into account the extent to which the DSH allotment for a State was included in the budget neutrality calculation for a coverage expansion approved under section 1315 of this title as of July 31, 2009.
 
 * #### (8) Calculation of DSH allotments after reductions period
-  * The DSH allotment for a State for fiscal years after fiscal year 2025 shall be calculated under paragraph (3) without regard to paragraph (7).
+  * The DSH allotment for a State for fiscal years after fiscal year 2027 shall be calculated under paragraph (3) without regard to paragraph (7).
 
 * #### (9) "State" defined
   * In this subsection, the term "State" means the 50 States and the District of Columbia.

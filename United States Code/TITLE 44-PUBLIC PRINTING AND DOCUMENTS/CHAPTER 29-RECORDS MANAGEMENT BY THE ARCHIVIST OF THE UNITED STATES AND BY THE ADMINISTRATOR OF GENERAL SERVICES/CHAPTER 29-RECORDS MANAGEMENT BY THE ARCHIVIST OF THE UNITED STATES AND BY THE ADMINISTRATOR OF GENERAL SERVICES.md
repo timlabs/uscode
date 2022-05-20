@@ -52,9 +52,19 @@
 
   * (13) the term "executive agency" shall have the meaning given such term by section 102 of title 40;
 
-  * (14) the term "Federal agency" means any executive agency or any establishment in the legislative or judicial branch of the Government (except the Supreme Court, the Senate, the House of Representatives, and the Architect of the Capitol and any activities under the direction of the Architect of the Capitol); and
+  * (14) the term "Federal agency" means any executive agency or any establishment in the legislative or judicial branch of the Government (except the Supreme Court, the Senate, the House of Representatives, and the Architect of the Capitol and any activities under the direction of the Architect of the Capitol);
 
-  * (15) the term "Administrator" means the Administrator of General Services.
+  * (15) the term "electronic messages" means electronic mail and other electronic messaging systems that are used for purposes of communicating between individuals; and
+
+  * (16) the term "electronic records management system" means software designed to manage electronic records, including by—
+
+    * (A) categorizing and locating records;
+
+    * (B) ensuring that records are retained as long as necessary;
+
+    * (C) identifying records that are due for disposition; and
+
+    * (D) ensuring the storage, retrieval, and disposition of records.
 
 ### §2902. Objectives of records management
 * It is the purpose of this chapter, and chapters 21, 31, and 33 of this title, to require the establishment of standards and procedures to assure efficient and effective records management. Such records management standards and procedures shall seek to implement the following goals:
@@ -173,3 +183,17 @@
   * (2) ELECTRONIC MESSAGING ACCOUNT.—The term "electronic messaging account" means any account that sends electronic messages.
 
   * (3) EXECUTIVE AGENCY.—The term "executive agency" has the meaning given that term in section 105 of title 5.
+
+### §2912. Preservation of electronic messages and other records
+* (a) REGULATIONS REQUIRED.—The Archivist shall promulgate regulations governing Federal agency preservation of electronic messages that are determined to be records. Such regulations shall, at a minimum—
+
+  * (1) require the electronic capture, management, and preservation of such electronic records in accordance with the records disposition requirements of chapter 33;
+
+  * (2) require that such electronic records are readily accessible for retrieval through electronic searches; and
+
+  * (3) include timelines for Federal agency implementation of the regulations that ensure compliance as expeditiously as practicable.
+
+
+* (b) COVERAGE OF OTHER ELECTRONIC RECORDS.—To the extent practicable, the regulations promulgated under subsection (a) shall also include requirements for the capture, management, and preservation of other electronic records.
+
+* (c) REVIEW OF REGULATIONS REQUIRED.—The Archivist shall periodically review and, as necessary, amend the regulations promulgated under subsection (a).

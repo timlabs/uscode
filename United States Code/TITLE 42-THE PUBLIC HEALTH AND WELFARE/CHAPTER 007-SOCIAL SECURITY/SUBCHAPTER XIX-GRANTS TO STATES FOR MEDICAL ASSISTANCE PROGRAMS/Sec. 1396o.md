@@ -12,9 +12,13 @@
 
     * (C) services furnished to any individual who is an inpatient in a hospital, nursing facility, intermediate care facility for the mentally retarded, or other medical institution, if such individual is required, as a condition of receiving services in such institution under the State plan, to spend for costs of medical care all but a minimal amount of his income required for personal needs,
 
-    * (D) emergency services (as defined by the Secretary), family planning services and supplies described in section 1396d(a)(4)(C) of this title, or
+    * (D) emergency services (as defined by the Secretary), family planning services and supplies described in section 1396d(a)(4)(C) of this title,
 
-    * (E) services furnished to an individual who is receiving hospice care (as defined in section 1396d(o) of this title); and
+    * (E) services furnished to an individual who is receiving hospice care (as defined in section 1396d(o) of this title),
+
+    * (F) any in vitro diagnostic product described in section 1396d(a)(3)(B) of this title that is administered during any portion of the emergency period described in such section beginning on or after March 18, 2020 (and the administration of such product), or
+
+    * (G) COVID–19 testing-related services for which payment may be made under the State plan; and
 
 
   * (3) any deduction, cost sharing, or similar charge imposed under the plan with respect to other such individuals or other care and services will be nominal in amount (as determined by the Secretary in regulations which shall, if the definition of "nominal" under the regulations in effect on July 1, 1982 is changed, take into account the level of cash assistance provided in such State and such other criteria as the Secretary determines to be appropriate); except that a deduction, cost-sharing, or similar charge of up to twice the nominal amount established for outpatient services may be imposed by a State under a waiver granted by the Secretary for services received at a hospital emergency room if the services are not emergency services (referred to in paragraph (2)(D)) and the State has established to the satisfaction of the Secretary that individuals eligible for services under the plan have actually available and accessible to them alternative sources of nonemergency, outpatient services.
@@ -32,9 +36,13 @@
 
     * (C) services furnished to any individual who is an inpatient in a hospital, nursing facility, intermediate care facility for the mentally retarded, or other medical institution, if such individual is required, as a condition of receiving services in such institution under the State plan, to spend for costs of medical care all but a minimal amount of his income required for personal needs,
 
-    * (D) emergency services (as defined by the Secretary), family planning services and supplies described in section 1396d(a)(4)(C) of this title, or
+    * (D) emergency services (as defined by the Secretary), family planning services and supplies described in section 1396d(a)(4)(C) of this title,
 
-    * (E) services furnished to an individual who is receiving hospice care (as defined in section 1396d(o) of this title); and
+    * (E) services furnished to an individual who is receiving hospice care (as defined in section 1396d(o) of this title),
+
+    * (F) any in vitro diagnostic product described in section 1396d(a)(3)(B) of this title that is administered during any portion of the emergency period described in such section beginning on or after March 18, 2020 (and the administration of such product), or
+
+    * (G) COVID–19 testing-related services for which payment may be made under the State plan; and
 
 
   * (3) any deduction, cost sharing, or similar charge imposed under the plan with respect to other such individuals or other care and services will be nominal in amount (as determined by the Secretary in regulations which shall, if the definition of "nominal" under the regulations in effect on July 1, 1982 is changed, take into account the level of cash assistance provided in such State and such other criteria as the Secretary determines to be appropriate); except that a deduction, cost-sharing, or similar charge of up to twice the nominal amount established for outpatient services may be imposed by a State under a waiver granted by the Secretary for services received at a hospital emergency room if the services are not emergency services (referred to in paragraph (2)(D)) and the State has established to the satisfaction of the Secretary that individuals eligible for services under the plan have actually available and accessible to them alternative sources of nonemergency, outpatient services.

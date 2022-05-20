@@ -226,7 +226,7 @@
 
 * (b) DUTIES.—The Executive Agent designated under subsection (a) shall—
 
-  * (1) report directly to the Under Secretary of Defense for Intelligence;
+  * (1) report directly to the Under Secretary of Defense for Intelligence and Security;
 
   * (2) work with the combatant commands, military departments, and the intelligence community (as defined in section 3(4) of the National Security Act of 1947 (50 U.S.C. 3003(4)) to—
 

@@ -365,7 +365,15 @@
       * (iii) Workers' compensation laws or plans.
 
   * #### (G) Sharing of information
-    * The Secretary may share information collected under this paragraph as necessary for purposes of the proper coordination of benefits.
+    * #### (i) In general
+      * The Secretary may share information collected under this paragraph as necessary for purposes of the proper coordination of benefits.
+
+    * #### (ii) Specified information
+      * In responding to any query made on or after the date that is 1 year after December 11, 2020, from an applicable plan related to a determination described in subparagraph (A)(i), the Secretary, notwithstanding any other provision of law, shall provide to such applicable plan—
+
+        * (I) whether a claimant subject to the query is, or during the preceding 3-year period has been, entitled to benefits under the program under this subchapter on any basis; and
+
+        * (II) to the extent applicable, the plan name and address of any Medicare Advantage plan under part C and any prescription drug plan under part D in which the claimant is enrolled or has been enrolled during such period.
 
   * #### (H) Implementation
     * Notwithstanding any other provision of law, the Secretary may implement this paragraph by program instruction or otherwise.

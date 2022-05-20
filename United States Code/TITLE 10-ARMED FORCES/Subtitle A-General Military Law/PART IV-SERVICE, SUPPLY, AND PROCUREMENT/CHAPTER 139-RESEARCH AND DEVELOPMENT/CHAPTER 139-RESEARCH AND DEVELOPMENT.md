@@ -162,11 +162,11 @@
   * (4) The term "veteran" has the meaning given that term in section 101 of title 38.
 
 ### §2358b. Joint reserve detachment of the Defense Innovation Unit
-* (a) ESTABLISHMENT.—The Secretary of Defense, in consultation with the Secretaries of the military departments, may establish a joint reserve detachment (referred to in this section as the 'Detachment') composed of members of the reserve components described in subsection (b) to be assigned to each office of the Defense Innovation Unit to—
+* (a) ESTABLISHMENT.—The Secretary of Defense, in consultation with the Secretaries of the military departments, may establish a joint reserve detachment (referred to in this section as the "Detachment") composed of members of the reserve components described in subsection (b) to be assigned to each office of the Defense Innovation Unit to—
 
   * (1) support engagement and collaboration with private-sector industry and the community surrounding the location of such office; and
 
-  * (2) to accelerate the use and adoption of commercially-developed technologies for national security purposes.
+  * (2) accelerate the use and adoption of commercially-developed technologies for national security purposes.
 
 
 * (b) MEMBERS.—Each Secretary of a military department shall select for the Detachment, and make efforts to retain, members of the reserve components who possess relevant private-sector experience in the fields of business, acquisition, intelligence, engineering, technology transfer, science, mathematics, program management, logistics, cybersecurity, or such other fields as determined by the Under Secretary of Defense for Research and Engineering.
@@ -205,6 +205,36 @@
 
 
 * (d) JOINT DUTY.—Assignment to a Detachment shall not qualify as a joint duty assignment, as defined in section 668(b)(1) of title 10, United States Code, unless approved by the Secretary of Defense.
+
+### §2358c. Enhanced pay authority for certain research and technology positions in science and technology reinvention laboratories
+* (a) IN GENERAL.—The Secretary of Defense may carry out a program using the pay authority specified in subsection (d) to fix the rate of basic pay for positions described in subsection (c) in order to assist the military departments in attracting and retaining high quality acquisition and technology experts in positions responsible for managing and performing complex, high-cost research and technology development efforts in the science and technology reinvention laboratories of the Department of Defense.
+
+* (b) APPROVAL REQUIRED.—The program may be carried out in a military department only with the approval of the service acquisition executive of the military department concerned.
+
+* (c) POSITIONS.—The positions described in this subsection are positions in the science and technology reinvention laboratories of the Department of Defense that—
+
+  * (1) require expertise of an extremely high level in a scientific, technical, professional, or acquisition management field; and
+
+  * (2) are critical to the successful accomplishment of an important research or technology development mission.
+
+
+* (d) RATE OF BASIC PAY.—The pay authority specified in this subsection is authority as follows:
+
+  * (1) Authority to fix the rate of basic pay for a position at a rate not to exceed 150 percent of the rate of basic pay payable for level I of the Executive Schedule, upon the approval of the service acquisition executive concerned.
+
+  * (2) Authority to fix the rate of basic pay for a position at a rate in excess of 150 percent of the rate of basic pay payable for level I of the Executive Schedule, upon the approval of the Secretary of the military department concerned.
+
+
+* (e) LIMITATIONS.—
+
+  * (1) IN GENERAL.—The authority in subsection (a) may be used only to the extent necessary to competitively recruit or retain individuals exceptionally well qualified for positions described in subsection (c).
+
+  * (2) NUMBER OF POSITIONS.—The authority in subsection (a) may not be used with respect to more than five positions in each military department at any one time.
+
+  * (3) TERM OF POSITIONS.—The authority in subsection (a) may be used only for positions having a term of less than five years.
+
+
+* (f) SCIENCE AND TECHNOLOGY REINVENTION LABORATORIES OF THE DEPARTMENT OF DEFENSE DEFINED.—In this section, the term "science and technology reinvention laboratories of the Department of Defense" means the laboratories designated as science and technology reinvention laboratories by section 1105(a) of the National Defense Authorization Act for Fiscal Year 2010 (10 U.S.C. 2358 note).
 
 ### §2359. Science and technology programs to be conducted so as to foster the transition of science and technology to higher levels of research, development, test, and evaluation
 * (a) POLICY.—Each official specified in subsection (b) shall ensure that the management and conduct of the science and technology programs under the authority of that official are carried out in a manner that will foster the transition of science and technology to higher levels of research, development, test, and evaluation.
@@ -400,7 +430,7 @@
 
 * (c) DIRECTOR.—
 
-  * (1) APPOINTMENT.—Not later than June 1, 2020, the Secretary of Defense shall appoint an individual from civilian life to serve as the director for the extramural acquisition innovation and research activities required by this section (referred to in this section as the 'Director').
+  * (1) APPOINTMENT.—Not later than June 1, 2020, the Secretary of Defense shall appoint an individual from civilian life to serve as the director for the extramural acquisition innovation and research activities required by this section (referred to in this section as the "Director").
 
   * (2) TERM.—The Director shall serve a term of five years.
 
@@ -788,9 +818,11 @@
 
     * (M) the Secretary of the military department concerned and the Chief of the armed force concerned concur in the trade-offs made in accordance with subparagraph (B);
 
-    * (N) the requirements of section 2446b(e) of this title are met; and
+    * (N) the requirements of section 2446b(e) of this title are met;
 
-    * (O) appropriate actions have been taken to negotiate and enter into a contract or contract options for the technical data required to support the program;
+    * (O) appropriate actions have been taken to negotiate and enter into a contract or contract options for the technical data required to support the program; and
+
+    * (P) has approved the life cycle sustainment plan required under section 2337(b) of this title.
 
 
   * (4) in the case of a space system, performs a cost benefit analysis for any new or follow-on satellite system using a dedicated ground control system instead of a shared ground control system, except that no cost benefit analysis is required to be performed under this paragraph for any Milestone B approval of a space system after December 31, 2019; and
@@ -835,7 +867,9 @@
 
     * (G) An assessment of the sufficiency of developmental test and evaluation plans, including the use of automated data analytics or modeling and simulation tools and methodologies.
 
-    * (H) Any other information the milestone decision authority considers relevant.
+    * (H) A summary of the life cycle sustainment plan required under section 2337 of this title.
+
+    * (I) Any other information the milestone decision authority considers relevant.
 
 
   * (2) CERTIFICATIONS AND DETERMINATIONS.—(A) The certifications and determination under subsection (a) with respect to a major defense acquisition program shall be submitted to the congressional defense committees with the first Selected Acquisition Report submitted under section 2432 of this title after completion of the certification.
@@ -1248,3 +1282,12 @@
 * (e) ACCEPTANCE OF FUNDS.—In addition to such sums as may be appropriated or otherwise made available to the Secretary to award prizes under this section, the Secretary may accept funds or nonmonetary items from other departments and agencies of the Federal Government, from State and local governments, and from the private sector, to award prizes under this section. The Secretary may not give any special consideration to any private sector entity in return for a donation.
 
 * (f) USE OF PRIZE AUTHORITY.—Use of prize authority under this section shall be considered the use of competitive procedures for the purposes of section 2304 of this title.
+
+### §2374b. Disclosure requirements for recipients of research and development funds
+* (a) IN GENERAL.—Except as provided in subsections (b) and (c), an individual or entity (including a State or local government) that uses funds received from the Department of Defense to carry out research or development activities shall include, in any public document pertaining to such activities, a clear statement indicating the dollar amount of the funds received from the Department for such activities.
+
+* (b) EXCEPTION.—The disclosure requirement under subsection (a) shall not apply to a public document consisting of fewer than 280 characters.
+
+* (c) WAIVER.—The Secretary of Defense may waive the disclosure requirement under subsection (a) on a case-by-case basis.
+
+* (d) PUBLIC DOCUMENT DEFINED.—In this section, the term "public document" means any document or other written statement made available for public reference or use, regardless of whether such document or statement is made available in hard copy or electronic format.

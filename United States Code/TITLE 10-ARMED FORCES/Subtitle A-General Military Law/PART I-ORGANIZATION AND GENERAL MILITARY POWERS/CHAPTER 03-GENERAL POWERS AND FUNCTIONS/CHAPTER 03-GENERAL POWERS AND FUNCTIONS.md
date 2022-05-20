@@ -27,7 +27,7 @@
   * (D) any other type of information that the Secretary of Defense determines should not be made available to the public in the interest of national security.
 
 ### §123. Authority to suspend officer personnel laws during war or national emergency
-* (a) In time of war, or of national emergency declared by Congress or the President after November 30, 1980, the President may suspend the operation of any provision of law relating to the promotion, involuntary retirement, or separation of commissioned officers of the Army, Navy, Air Force, Marine Corps, or Coast Guard Reserve. So long as such war or national emergency continues, any such suspension may be extended by the President.
+* (a) In time of war, or of national emergency declared by Congress or the President after November 30, 1980, the President may suspend the operation of any provision of law relating to the promotion, involuntary retirement, or separation of commissioned officers of the Army, Navy, Air Force, Marine Corps, Space Force, or Coast Guard Reserve. So long as such war or national emergency continues, any such suspension may be extended by the President.
 
 * (b) Any such suspension shall, if not sooner ended, end on the last day of the two-year period beginning on the date on which the suspension (or the last extension thereof) takes effect or on the last day of the one-year period beginning on the date of the termination of the war or national emergency, whichever occurs first. With respect to the end of any such suspension, the preceding sentence supersedes the provisions of title II of the National Emergencies Act (50 U.S.C. 1621–1622) which provide that powers or authorities exercised by reason of a national emergency shall cease to be exercised after the date of the termination of the emergency.
 
@@ -72,9 +72,55 @@
 ### §125. Functions, powers, and duties: transfer, reassignment, consolidation, or abolition
 * (a) Subject to section 2 of the National Security Act of 1947 (50 U.S.C. 3002), the Secretary of Defense shall take appropriate action (including the transfer, reassignment, consolidation, or abolition of any function, power, or duty) to provide more effective, efficient, and economical administration and operation, and to eliminate duplication, in the Department of Defense. However, except as provided by subsections (b) and (c), a function, power, or duty vested in the Department of Defense, or an officer, official, or agency thereof, by law may not be substantially transferred, reassigned, consolidated, or abolished.
 
-* (b) Notwithstanding subsection (a), if the President determines it to be necessary because of hostilities or an imminent threat of hostilities, any function, power, or duty vested by law in the Department of Defense, or an officer, official, or agency thereof, including one assigned to the Army, Navy, Air Force, or Marine Corps by section 7062(b), 8062, 8063, or 9062(c) of this title, may be transferred, reassigned, or consolidated. The transfer, reassignment, or consolidation remains in effect until the President determines that hostilities have terminated or that there is no longer an imminent threat of hostilities, as the case may be.
+* (b) Notwithstanding subsection (a), if the President determines it to be necessary because of hostilities or an imminent threat of hostilities, any function, power, or duty vested by law in the Department of Defense, or an officer, official, or agency thereof, including one assigned to the Army, Navy, Air Force, Marine Corps, or Space Force by section 7062(b), 8062, 8063, 9062(c), or 9081 of this title, may be transferred, reassigned, or consolidated. The transfer, reassignment, or consolidation remains in effect until the President determines that hostilities have terminated or that there is no longer an imminent threat of hostilities, as the case may be.
 
 * (c) Notwithstanding subsection (a), the Secretary of Defense may assign or reassign the development and operational use of new weapons or weapons systems to one or more of the military departments or one or more of the armed forces.
+
+### §125a. Reform: improvement of efficacy and efficiency
+* (a) IN GENERAL.—The Secretary of Defense shall take such action as is necessary to reform the Department of Defense to improve the efficacy and efficiency of the Department, and to improve the ability of the Department to prioritize among and assess the costs and benefits of covered elements of reform.
+
+* (b) POLICY.—The Secretary shall develop a policy and issue guidance to implement reform within the Department and to improve the ability of the Department to prioritize among and assess the costs and benefits of covered elements of reform.
+
+* (c) FRAMEWORK FOR REFORM.—
+
+  * (1) IN GENERAL.—Not later than February 1, 2022, the Secretary shall establish policies, guidance, and a consistent reporting framework to measure the progress of the Department toward covered elements of reform, including by establishing categories of reform, consistent metrics, and a process for prioritization of reform activities.
+
+  * (2) SCOPE.—The framework required by paragraph (1) may address duties under the following:
+
+    * (A) Section 125 of this title.
+
+    * (B) Section 192 of this title.
+
+    * (C) Section 2222 of this title.
+
+    * (D) Section 1124 of title 31.
+
+    * (E) Section 11319 of title 40.
+
+
+  * (3) CONSULTATION.—The Secretary shall consult with the Deputy Secretary of Defense, the Performance Improvement Officer of the Department of Defense, the Chief Data Officer of the Department of Defense, the Chief Information Officer of the Department of Defense, and the financial managers of the military departments in carrying out activities under this subsection.
+
+
+* (d) COVERED ELEMENTS OF REFORM.—For purposes of this section and the policies, guidance, and reporting framework required by subsection (c), covered elements of reform may include the following:
+
+  * (1) Business systems modernization.
+
+  * (2) Enterprise business operations process re-engineering.
+
+  * (3) Expanded and modernized collection, management, dissemination, and visualization of data to support decision-making at all levels of the enterprise.
+
+  * (4) Improvements in workforce training and education and increasing capabilities of the Department workforce to support and execute reform activities and business processes.
+
+  * (5) Improvements to decision-making processes to enable cost savings, cost avoidance, or investments to develop process improvements.
+
+  * (6) Such other elements as the Secretary considers appropriate.
+
+
+* (e) ANNUAL REPORT.—At the same time the budget of the President for a fiscal year is submitted to Congress pursuant to section 1105 of title 31, the Secretary shall, using the policies, guidance, and reporting framework required by subsection (c), submit to the congressional defense committees a report, including detailed narrative justifications and tradeoff analyses between options, on the actions of the Department as follows:
+
+  * (1) The activities, expenditures, and accomplishments carried out or made to effect reform under this section during the fiscal year in which such budget is submitted.
+
+  * (2) The proposed activities, expenditures, and accomplishments to effect reform under this section, and consistent with priorities established by the Secretary, during the fiscal year covered by such budget and each of the four succeeding fiscal years.
 
 ### §126. Transfer of funds and employees
 * (a) When a function, power, or duty or an activity of a department or agency of the Department of Defense is transferred or assigned to another department or agency of that department, balances of appropriations that the Secretary of Defense determines are available and needed to finance or discharge that function, power, duty, or activity, as the case may be, may, with the approval of the President, be transferred to the department or agency to which that function, power, duty or activity, as the case may be, is transferred, and used for any purpose for which those appropriations were originally available. Balances of appropriations so transferred shall—
@@ -267,7 +313,18 @@
 
 * (b) FUNDS.—Funds for support under this section in a fiscal year shall be derived from amounts authorized to be appropriated for that fiscal year for the Department of Defense for operation and maintenance.
 
-* (c) PROCEDURES.—The authority in this section shall be exercised in accordance with such procedures as the Secretary shall establish for purposes of this section. The Secretary shall notify the congressional defense committees of any material modification of such procedures.
+* (c) PROCEDURES.—
+
+  * (1) IN GENERAL.—The authority in this section shall be exercised in accordance with such procedures as the Secretary shall establish for purposes of this section. The Secretary shall notify the congressional defense committees of any material change to such procedures.
+
+  * (2) ELEMENTS.—The procedures required under paragraph (1) shall establish, at a minimum, each of the following:
+
+    * (A) Policy, strategy, or other guidance for the execution of, and constraints within, activities conducted under this section.
+
+    * (B) The processes through which activities conducted under this section are to be developed, validated, and coordinated, as appropriate, with relevant Federal entities.
+
+    * (C) The processes through which legal reviews and determinations are made to comply with this section and ensure that the exercise of the authority in this section is consistent with the national security of the United States.
+
 
 * (d) NOTIFICATION.—
 
@@ -287,14 +344,38 @@
 
     * (F) The duration for which the support is expected to be provided and an identification of the timeframe in which the provision of support will be reviewed by the combatant commander for a determination regarding the necessity of continuation of support.
 
+    * (G) A description of the entities with which the recipients of support are engaged in hostilities and whether each such entity is covered under an authorization for use of military force.
 
-* (e) LIMITATION ON DELEGATION.—The authority of the Secretary to make funds available under this section for support of a military operation may not be delegated.
+    * (H) A description of the steps taken to ensure the support is consistent with United States national security objectives.
 
-* (f) INTELLIGENCE ACTIVITIES.—This section does not constitute authority to conduct a covert action, as such term is defined in section 503(e) of the National Security Act of 1947 (50 U.S.C. 3093(e)).
+    * (I) A description of the steps taken to ensure that the recipients of support have not engaged in human rights violations.
 
-* (g) OVERSIGHT BY ASD FOR SOLIC.—The Assistant Secretary of Defense for Special Operations and Low-Intensity Conflict shall have primary responsibility within the Office of the Secretary of Defense for oversight of policies and programs for support authorized by this section.
 
-* (h) BIANNUAL REPORTS.—
+* (e) NOTIFICATION OF SUSPENSION OR TERMINATION OF SUPPORT.—
+
+  * (1) IN GENERAL.—Not later than 48 hours after suspending or terminating support to any foreign force, irregular force, group, or individual under the authority in this section, the Secretary shall submit to the congressional defense committees a written notice of such suspension or termination.
+
+  * (2) ELEMENTS.—Notice provided under paragraph (1) with respect to the suspension or termination of support shall include each of the following elements:
+
+    * (A) A description of the reasons for the suspension or termination of such support.
+
+    * (B) A description of any effects on regional, theatre, or global campaign plan objectives anticipated to result from the suspension or termination of such support.
+
+    * (C) A plan for the suspension or termination of the support, and, in the case of support that is planned to be transitioned to another program of the Department of Defense or another Federal department or agency, a detailed description of the transition plan, including the resources, equipment, capabilities, and personnel associated with such plan.
+
+* (f) LIMITATION ON DELEGATION.—The authority of the Secretary to make funds available under this section for support of a military operation may not be delegated.
+
+* (g) CONSTRUCTION OF AUTHORITY.—Nothing in this section may be construed to constitute authority to conduct or provide statutory authorization for any of the following:
+
+  * (1) A covert action, as such term is defined in section 503(e) of the National Security Act of 1947 (50 U.S.C. 3093(e)).
+
+  * (2) An introduction of the armed forces, (including as such term is defined in section 8(c) of the War Powers Resolution (50 U.S.C. 1547(c)), into hostilities, or into situations where hostilities are clearly indicated by the circumstances, without specific statutory authorization within the meaning of section 5(b) of such Resolution (50 U.S.C. 1544(b)).
+
+  * (3) Activities or support of activities, directly or indirectly, that are inconsistent with the laws of armed conflict.
+
+* (h) OVERSIGHT BY ASD FOR SOLIC.—The Assistant Secretary of Defense for Special Operations and "Low Intensity" Conflict shall have primary responsibility within the Office of the Secretary of Defense for oversight of policies and programs for support authorized by this section.
+
+* (i) BIANNUAL REPORTS.—
 
   * (1) REPORT ON PRECEDING CALENDAR YEAR.—Not later than 120 days after the last day of each fiscal year, the Secretary shall submit to the congressional defense committees a report on the support provided under this section during the preceding calendar year.
 
@@ -317,6 +398,27 @@
     * (G) A description of the support or training provided to the recipients of support under this section.
 
     * (H) A value assessment of the support provided under this section, including a summary of significant activities undertaken by foreign forces, irregular forces, groups, or individuals to support operations by United States special operations forces to combat terrorism.
+
+### §127f. Expenditure of funds for clandestine activities that support operational preparation of the environment
+* (a) AUTHORITY.—Subject to subsections (b) through (d), the Secretary of Defense may expend up to $15,000,000 in any fiscal year for clandestine activities for any purpose the Secretary determines to be proper for preparation of the environment for operations of a confidential nature. Such a determination is final and conclusive upon the accounting officers of the United States. The Secretary may certify the amount of any such expenditure authorized by the Secretary that the Secretary considers advisable not to specify, and the Secretary's certificate is sufficient voucher for the expenditure of that amount.
+
+* (b) FUNDS.—Funds for expenditures under this section in a fiscal year shall be derived from amounts authorized to be appropriated for that fiscal year for operation and maintenance, Defense-wide.
+
+* (c) LIMITATION ON DELEGATION.—The Secretary of Defense may not delegate the authority under this section with respect to any expenditure in excess of $250,000.
+
+* (d) EXCLUSION OF INTELLIGENCE ACTIVITIES.—(1) This section does not constitute authority to conduct, or expend funds for, intelligence, counterintelligence, or intelligence-related activities.
+
+* (2) In this subsection, the terms "intelligence" and "counterintelligence" have the meaning given those terms in section 3 of the National Security Act of 1947 (50 U.S.C. 3003).
+
+* (e) ANNUAL REPORT.—Not later than December 31 each year, the Secretary of Defense shall submit to the congressional defense committees a report on expenditures made under this section during the fiscal year preceding the year in which the report is submitted. Each report shall include, for each expenditure under this section during the fiscal year covered by such report—
+
+  * (1) the amount and date of such expenditure;
+
+  * (2) a detailed description of the purpose for which such expenditure was made;
+
+  * (3) an explanation why other authorities available to the Department of Defense could not be used for such expenditure; and
+
+  * (4) any other matters the Secretary considers appropriate.
 
 ### §128. Control and physical protection of special nuclear material: limitation on dissemination of unclassified information
 * (a)(1) In addition to any other authority or requirement regarding protection from dissemination of information, and subject to section 552(b)(3) of title 5, the Secretary of Defense, with respect to special nuclear materials, shall prescribe such regulations, after notice and opportunity for public comment thereon, or issue such orders as may be necessary to prohibit the unauthorized dissemination of unclassified information pertaining to security measures, including security plans, procedures, and equipment for the physical protection of special nuclear material.
@@ -370,7 +472,7 @@
 ### §129a. General policy for total force management
 * (a) POLICIES AND PROCEDURES.—The Secretary of Defense shall establish policies and procedures for determining the most appropriate and cost efficient mix of military, civilian, and contractor personnel to perform the mission of the Department of Defense.
 
-* (b) RISK MITIGATION OVER COST.—In establishing the policies and procedures under subsection (a), the Secretary shall clearly provide that attainment of a Department of Defense workforce sufficiently sized and comprised of the appropriate mix of personnel necessary to carry out the mission of the Department and the core mission areas of the armed forces takes precedence over cost.
+* (b) RISK MITIGATION OVER COST.—In establishing the policies and procedures under subsection (a), the Secretary shall clearly provide that attainment of a Department of Defense workforce sufficiently sized and comprised of the appropriate mix of personnel necessary to carry out the mission of the Department and the core mission areas of the armed forces takes precedence over cost. The Secretary may not reduce the civilian workforce programmed full-time equivalent levels unless the Secretary conducts an appropriate analysis of the impacts of such reductions on workload, military force structure, lethality, readiness, operational effectiveness, stress on the military force, and fully burdened costs.
 
 * (c) DELEGATION OF RESPONSIBILITIES.—The Secretary shall delegate responsibility for implementation of the policies and procedures established under subsection (a) as follows:
 
@@ -687,7 +789,7 @@
 
 * (d) INTEGRATION.—None of the funds authorized to be appropriated or otherwise made available for any fiscal year for the Department of Defense may be obligated or expended to integrate a missile defense system of the Russian Federation or a missile defense system of the People's Republic of China into any missile defense system of the United States.
 
-* (e) SUNSET.—The prohibitions in subsections (a), (b), and (d) shall expire on January 1, 2021.
+* (e) SUNSET.—The prohibitions in subsections (a), (b), and (d) shall expire on January 1, 2026.
 
 ### §130i. Protection of certain facilities and assets from unmanned aircraft
 * (a) AUTHORITY.—Notwithstanding section 46502 of title 49, or any provision of title 18, the Secretary of Defense may take, and may authorize members of the armed forces and officers and civilian employees of the Department of Defense with assigned duties that include safety, security, or protection of personnel, facilities, or assets, to take, such actions described in subsection (b)(1) that are necessary to mitigate the threat (as defined by the Secretary of Defense, in consultation with the Secretary of Transportation) that an unmanned aircraft system or unmanned aircraft poses to the safety or security of a covered facility or asset.
@@ -761,7 +863,7 @@
   * (2) vest in the Secretary of Transportation or the Administrator of the Federal Aviation Administration any authority of the Secretary of Defense under this title.
 
 
-* (i) PARTIAL TERMINATION.—(1) Except as provided by paragraph (2), the authority to carry out this section with respect to the covered facilities or assets specified in clauses (iv) through (viii) of subsection (j)(3)(C)shall terminate on December 31, 2023.
+* (i) PARTIAL TERMINATION.—(1) Except as provided by paragraph (2), the authority to carry out this section with respect to the covered facilities or assets specified in clauses (iv) through (viii) of subsection (j)(3)(C) shall terminate on December 31, 2023.
 
 * (2) The President may extend by 180 days the termination date specified in paragraph (1) if before November 15, 2023, the President certifies to Congress that such extension is in the national security interests of the United States.
 
@@ -809,4 +911,4 @@
 
   * (5) The terms "electronic communication", "intercept", "oral communication", and "wire communication" have the meanings given those terms in section 2510 of title 18.
 
-  * (6) The terms "unmanned aircraft" and "unmanned aircraft system" have the meanings given those terms in section 44801 of title 49
+  * (6) The terms "unmanned aircraft" and "unmanned aircraft system" have the meanings given those terms in section 44801 of title 49.

@@ -2009,7 +2009,7 @@
       * (ii) whether such facilities, programs, and arrangements should continue to be authorized to participate in the supplemental nutrition assistance program.
 
 * #### (2) Limitation
-  * Nothing in this subsection shall authorize the Secretary to deny any application for continued authorization, any application for authorization, or any request to withdraw the authorization of any such facility, program, or arrangement based on a determination that residents of any such facility or entity are residents of an institution prior to December 31, 2020.
+  * Nothing in this subsection shall authorize the Secretary to deny any application for continued authorization, any application for authorization, or any request to withdraw the authorization of any such facility, program, or arrangement based on a determination that residents of any such facility or entity are residents of an institution prior to December 31, 2021.
 
 #### (j) Incentives
 * #### (1) Definition of eligible incentive food

@@ -395,11 +395,6 @@
 
 * (d) For purposes of subsection (a) of this section, the term "tampers with" includes covering a program decal or device affixed to a motor vehicle pursuant to the Motor Vehicle Theft Prevention Act for the purpose of obstructing its visibility.
 
-### §511A. Unauthorized application of theft prevention decal or device
-* (a) Whoever affixes to a motor vehicle a theft prevention decal or other device, or a replica thereof, unless authorized to do so pursuant to the Motor Vehicle Theft Prevention Act, shall be punished by a fine not to exceed $1,000.
-
-* (b) For purposes of this section, the term "theft prevention decal or device" means a decal or other device designed in accordance with a uniform design for such devices developed pursuant to the Motor Vehicle Theft Prevention Act.
-
 ### §512. Forfeiture of certain motor vehicles and motor vehicle parts
 * (a) If an identification number for a motor vehicle or motor vehicle part is removed, obliterated, tampered with, or altered, such vehicle or part shall be subject to seizure and forfeiture to the United States unless—
 

@@ -122,7 +122,7 @@
     * (B) under an agreement with a money order issuer that prohibits the commingling of such proceeds with property of the debtor (notwithstanding that, contrary to the agreement, the proceeds may have been commingled with property of the debtor),
 
 
-* unless the money order issuer had not taken action, prior to the filing of the petition, to require compliance with the prohibition; or
+* unless the money order issuer had not taken action, prior to the filing of the petition, to require compliance with the prohibition;
 
   * (10) funds placed in an account of a qualified ABLE program (as defined in section 529A(b) of the Internal Revenue Code of 1986) not later than 365 days before the date of the filing of the petition in a case under this title, but—
 
@@ -135,7 +135,10 @@
       * (ii) are not excess contributions (as described in section 4973(h) of the Internal Revenue Code of 1986); and
 
 
-    * (C) in the case of funds placed in all such accounts having the same designated beneficiary not earlier than 720 days nor later than 365 days before such date, only so much of such funds as does not exceed $6,225.
+    * (C) in the case of funds placed in all such accounts having the same designated beneficiary not earlier than 720 days nor later than 365 days before such date, only so much of such funds as does not exceed $6,225; or
+
+
+  * (11) recovery rebates made under section 6428 of the Internal Revenue Code of 1986.
 
 
 * Paragraph (4) shall not be construed to exclude from the estate any consideration the debtor retains, receives, or is entitled to receive for transferring an interest in liquid or gaseous hydrocarbons pursuant to a farmout agreement.
@@ -300,7 +303,7 @@
   * (4) a debt for a tax is incurred on the day when such tax is last payable without penalty, including any extension.
 
 
-* (b) Except as provided in subsections (c) and (i) of this section, the trustee may, based on reasonable due diligence in the circumstances of the case and taking into account a party's known or reasonably knowable affirmative defenses under subsection (c), avoid any transfer of an interest of the debtor in property—
+* (b) Except as provided in subsections (c), (i), and (j) of this section, the trustee may, based on reasonable due diligence in the circumstances of the case and taking into account a party's known or reasonably knowable affirmative defenses under subsection (c), avoid any transfer of an interest of the debtor in property—
 
   * (1) to or for the benefit of a creditor;
 
@@ -412,6 +415,50 @@
 * (h) The trustee may not avoid a transfer if such transfer was made as a part of an alternative repayment schedule between the debtor and any creditor of the debtor created by an approved nonprofit budget and credit counseling agency.
 
 * (i) If the trustee avoids under subsection (b) a transfer made between 90 days and 1 year before the date of the filing of the petition, by the debtor to an entity that is not an insider for the benefit of a creditor that is an insider, such transfer shall be considered to be avoided under this section only with respect to the creditor that is an insider.
+
+* (j)(1) In this subsection:
+
+  * (A) The term "covered payment of rental arrearages" means a payment of arrearages that—
+
+    * (i) is made in connection with an agreement or arrangement—
+
+      * (I) between the debtor and a lessor to defer or postpone the payment of rent and other periodic charges under a lease of nonresidential real property; and
+
+      * (II) made or entered into on or after March 13, 2020;
+
+
+    * (ii) does not exceed the amount of rental and other periodic charges agreed to under the lease of nonresidential real property described in clause (i)(I) before March 13, 2020; and
+
+    * (iii) does not include fees, penalties, or interest in an amount greater than the amount of fees, penalties, or interest—
+
+      * (I) scheduled to be paid under the lease of nonresidential real property described in clause (i)(I); or
+
+      * (II) that the debtor would owe if the debtor had made every payment due under the lease of nonresidential real property described in clause (i)(I) on time and in full before March 13, 2020.
+
+
+  * (B) The term "covered payment of supplier arrearages" means a payment of arrearages that—
+
+    * (i) is made in connection with an agreement or arrangement—
+
+      * (I) between the debtor and a supplier of goods or services to defer or postpone the payment of amounts due under an executory contract for goods or services; and
+
+      * (II) made or entered into on or after March 13, 2020;
+
+
+    * (ii) does not exceed the amount due under the executory contract described in clause (i)(I) before March 13, 2020; and
+
+    * (iii) does not include fees, penalties, or interest in an amount greater than the amount of fees, penalties, or interest—
+
+      * (I) scheduled to be paid under the executory contract described in clause (i)(I); or
+
+      * (II) that the debtor would owe if the debtor had made every payment due under the executory contract described in clause (i)(I) on time and in full before March 13, 2020.
+
+
+  * (2) The trustee may not avoid a transfer under this section for—
+
+    * (A) a covered payment of rental arrearages; or
+
+    * (B) a covered payment of supplier arrearages.
 
 ### §548. Fraudulent transfers and obligations
 * (a)(1) The trustee may avoid any transfer (including any transfer to or for the benefit of an insider under an employment contract) of an interest of the debtor in property, or any obligation (including any obligation to or for the benefit of an insider under an employment contract) incurred by the debtor, that was made or incurred on or within 2 years before the date of the filing of the petition, if the debtor voluntarily or involuntarily—

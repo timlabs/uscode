@@ -1,7 +1,7 @@
 ### SUBCHAPTER III—AIDS TO NAVIGATION
 
 ### §541. Aids to navigation authorized
-* In order to aid navigation and to prevent disasters, collisions, and wrecks of vessels and aircraft, the Coast Guard may establish, maintain, and operate:
+* (a) In order to aid navigation and to prevent disasters, collisions, and wrecks of vessels and aircraft, the Coast Guard may establish, maintain, and operate:
 
   * (1) aids to maritime navigation required to serve the needs of the armed forces or of the commerce of the United States;
 
@@ -11,6 +11,12 @@
 
 
 * These aids to navigation other than electronic aids to navigation systems shall be established and operated only within the United States, the waters above the Continental Shelf, the territories and possessions of the United States, the Trust Territory of the Pacific Islands, and beyond the territorial jurisdiction of the United States at places where naval or military bases of the United States are or may be located. The Coast Guard may establish, maintain, and operate aids to maritime navigation under paragraph (1) of this section by contract with any person, public body, or instrumentality.
+
+* (b) In the case of pierhead beacons, the Commandant may—
+
+  * (1) acquire, by donation or purchase in behalf of the United States, the right to use and occupy sites for pierhead beacons; and
+
+  * (2) properly mark all pierheads belonging to the United States situated on the northern and northwestern lakes, whenever the Commandant is duly notified by the department charged with the construction or repair of pierheads that the construction or repair of any such pierheads has been completed.
 
 ### §542. Unauthorized aids to maritime navigation; penalty
 * No person, or public body, or instrumentality, excluding the armed services, shall establish, erect, or maintain any aid to maritime navigation in or adjacent to the waters subject to the jurisdiction of the United States, its territories or possessions, or the Trust Territory of the Pacific Islands, or on the high seas if that person, or public body, or instrumentality is subject to the jurisdiction of the United States, without first obtaining authority to do so from the Coast Guard in accordance with applicable regulations. Whoever violates the provisions of this section or any of the regulations issued by the Secretary in accordance herewith shall be guilty of a misdemeanor and shall be fined not more than $1,500 for each offense. Each day during which such violation continues shall be considered as a new offense.
@@ -29,3 +35,16 @@
 
 ### §547. Rewards for apprehension of persons interfering with aids to navigation
 * The Coast Guard may offer and pay rewards for the apprehension and conviction, or for information helpful therein, of persons found interfering in violation of law with aids to navigation maintained by the Coast Guard; or for information leading to the discovery of missing Coast Guard property or to recovery thereof.
+
+### §548. Prohibition against officers and employees being interested in contracts for materials
+* No officer, enlisted member, or civilian member of the Coast Guard in any manner connected with the construction, operation, or maintenance of lighthouses, shall be interested, either directly or indirectly, in any contract for labor, materials, or supplies for the construction, operation, or maintenance of lighthouses, or in any patent, plan, or mode of construction or illumination, or in any article of supply for the construction, operation, or maintenance of lighthouses.
+
+### §549. Lighthouse and other sites; necessity and sufficiency of cession by State of jurisdiction
+* (a) No lighthouse, beacon, public pier, or landmark, shall be built or erected on any site until cession of jurisdiction over the same has been made to the United States.
+
+* (b) For the purposes of subsection (a), a cession by a State of jurisdiction over a place selected as the site of a lighthouse, or other structure or work referred to in subsection (a), shall be deemed sufficient if the cession contains a reservation that process issued under authority of such State may continue to be served within such place.
+
+* (c) If no reservation of service described in subsection (b) is contained in a cession, all process may be served and executed within the place ceded, in the same manner as if no cession had been made.
+
+### §550. Marking pierheads in certain lakes
+* The Commandant of the Coast Guard shall properly mark all pierheads belonging to the United States situated on the northern and northwestern lakes, whenever he is duly notified by the department charged with the construction or repair of pierheads that the construction or repair of any such pierhead has been completed.

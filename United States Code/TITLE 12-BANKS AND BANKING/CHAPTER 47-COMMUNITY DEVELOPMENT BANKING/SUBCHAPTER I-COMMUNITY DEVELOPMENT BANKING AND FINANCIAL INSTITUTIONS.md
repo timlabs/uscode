@@ -267,6 +267,281 @@
 * #### (7) "Transition period" defined
   * For purposes of this subsection, the term "transition period" means the period beginning on September 23, 1994, and ending on the date on which the Administrator is appointed.
 
+### §4703a. Capital investments for neighborhoods disproportionately impacted by the COVID–19 pandemic
+#### (a) Definitions
+* In this section—
+
+  * (1) the term "bank holding company" has the meaning given the term in section 1841 of this title;
+
+  * (2) the term "eligible institution" means any low- and moderate-income community financial institution that is eligible to participate in the Program;
+
+  * (3) the term "Emergency Capital Investment Fund" means the Emergency Capital Investment Fund established under subsection (b);
+
+  * (4) the term "low- and moderate-income community financial institution" means any financial institution that is—
+
+    * (A)(i) a community development financial institution; or
+
+    * (ii) a minority depository institution; and
+
+    * (B)(i) an insured depository institution that is not controlled by a bank holding company or savings and loan holding company that is also an eligible institution;
+
+    * (ii) a bank holding company;
+
+    * (iii) a savings and loan holding company; or
+
+    * (iv) a federally insured credit union;
+
+
+  * (5) the term "minority" means any Black American, Native American, Hispanic American, Asian American, Native Alaskan, Native Hawaiian, or Pacific Islander;
+
+  * (6) the term "minority depository institution" means an entity that is—
+
+    * (A) a minority depository institution, as defined in section 308 of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (12 U.S.C. 1463 note); or
+
+    * (B) considered to be a minority depository institution by—
+
+      * (i) the appropriate Federal banking agency; or
+
+      * (ii) the National Credit Union Administration, in the case of an insured credit union; or
+
+
+    * (C) listed in the Federal Deposit Insurance Corporation's Minority Depository Institutions List published for the Third Quarter 2020.
+
+
+  * (7) the term "Program" means the Emergency Capital Investment Program established under subsection (b);
+
+  * (8) the term "savings and loan holding company" has the meaning given the term under section 1467a(a) of this title; and
+
+  * (9) the "Secretary" means the Secretary of the Treasury.
+
+#### (b) Establishment
+* #### (1) Fund established
+  * There is established in the Treasury of the United States a fund to be known as the "Emergency Capital Investment Fund", which shall be administered by the Secretary.
+
+* #### (2) Program authorized
+  * The Secretary is authorized to establish an emergency program known as the "Emergency Capital Investment Program" to support the efforts of low- and moderate-income community financial institutions to, among other things, provide loans, grants, and forbearance for small businesses, minority-owned businesses, and consumers, especially in low-income and underserved communities, including persistent poverty counties, that may be disproportionately impacted by the economic effects of the COVID–19 pandemic, by providing direct and indirect capital investments in low- and moderate-income community financial institutions consistent with this section.
+
+#### (c) Purchases
+* #### (1) In general
+  * Subject to paragraph (2), the Emergency Capital Investment Fund shall be available to the Secretary, without further appropriation or fiscal year limitation, for the costs of purchases (including commitments to purchase), and modifications of such purchases, of preferred stock and other financial instruments from eligible institutions on such terms and conditions as are determined by the Secretary in accordance with this section.
+
+* #### (2) Purchase limit
+  * The aggregate amount of purchases pursuant to paragraph (1) may not exceed $9,000,000,000.
+
+#### (d) Application
+* #### (1) Acceptance
+  * The Secretary shall begin accepting applications for capital investments under the Program not later than the end of the 30-day period beginning on December 27, 2020.
+
+* #### (2) Consultation with regulators
+  * For each eligible institution that applies to receive a capital investment under the Program, the Secretary shall consult with the appropriate Federal banking agency or the National Credit Union Administration, as applicable, to determine whether the eligible institution may receive such capital investment.
+
+* #### (3) Eligibility
+  * #### (A) In general
+    * Only low- and moderate-income community financial institutions shall be eligible to participate in the Program.
+
+  * #### (B) Additional criteria
+    * The Secretary may establish additional criteria for participation by an institution in the Program, as the Secretary may determine appropriate in furtherance of the goals of the Program.
+
+* #### (4) Requirement to provide an emergency investment lending plan for communities that may be disproportionately impacted by the economic effects of the COVID–19 pandemic
+  * #### (A) In general
+    * At the time that an applicant submits an application to the Secretary for a capital investment under the Program, the applicant shall provide the Secretary, along with the appropriate Federal banking agency or the National Credit Union Administration, as applicable, an investment and lending plan that—
+
+      * (i) demonstrates that not less than 30 percent of the lending of the applicant over the past 2 fiscal years was made directly to low- and moderate income borrowers, to borrowers that create direct benefits for low- and moderate-income populations, to other targeted populations as defined by the Fund, or any combination thereof, as measured by the total number and dollar amount of loans;
+
+      * (ii) describes how the business strategy and operating goals of the applicant will address community development needs in communities that may be disproportionately impacted by the economic effects of COVID–19, which includes the needs of small businesses, consumers, nonprofit organizations, community development, and other projects providing direct benefits to low- and moderate-income communities, low-income individuals, and minorities within the minority, rural, and urban low-income and underserved areas served by the applicant;
+
+      * (iii) includes a plan to provide community outreach and communication, where appropriate;
+
+      * (iv) includes details on how the applicant plans to expand or maintain significant lending or investment activity in low- or moderate-income minority communities, especially those that may be disproportionately impacted by COVID–19 to historically disadvantaged borrowers, and to minorities that have significant unmet capital or financial services needs.
+
+  * #### (B) Documentation
+    * In the case of an applicant that is certified as a community development financial institution as of December 27, 2020, for purposes of subparagraph (A)(i), the Secretary may rely on documentation submitted by the applicant to the Fund as part of certification compliance reporting.
+
+* #### (5) Incentives to increase lending and provide affordable credit
+  * #### (A) Issuance and purchase of preferred stock
+    * An eligible institution that the Secretary approves for participation in the Program may issue to the Secretary, and the Secretary may purchase from such institution, preferred stock that—
+
+      * (i) provides that the preferred stock will—
+
+        * (I) be repaid not later than the end of the 10-year period beginning on the date of the capital investment under the Program; or
+
+        * (II) at the end of such 10-year period, be subject to such additional terms as the Secretary shall prescribe, which shall include a requirement that the stock shall carry the highest dividend or interest rate payable; and
+
+
+      * (ii) provides that the term and condition described under clause (i) shall not apply if the application of that term and condition would adversely affect the capital treatment of the stock under current or successor applicable capital provisions compared to a capital instrument with identical terms other than the term and condition described under clause (i).
+
+  * #### (B) Alternative financial instruments
+    * If the Secretary determines that an institution cannot feasibly issue preferred stock as provided under subparagraph (A), such institution may issue to the Secretary, and the Secretary may purchase from such institution, a subordinated debt instrument whose terms are, to the extent possible, consistent with requirements under the Program applicable to the terms of preferred stock issued by institutions participating in the Program, with such adjustments as the Secretary determines appropriate, including by taking into account the tax treatment of payments made with respect to securities issued by such eligible institution.
+
+* #### (6) Requirements on preferred stock and other financial instrument
+  * Any financial instrument issued to the Secretary by a low- and moderate-income community financial institution under the Program shall provide the following:
+
+    * (A) No dividends, interest or other similar required payments shall have a rate exceeding 2 percent per annum for the first 10 years.
+
+    * (B) The annual required payment rate of dividends, interest, or other similar payments of a low- and moderate-income community financial institution shall be adjusted downward as follows, based on lending by the institution during the most recent annual period compared to lending by the institution during the annual period ending on September 30, 2020:
+
+      * (i) No dividends, interest, or other similar payments shall be due within the first 24-month period after the capital investment by the Secretary.
+
+      * (ii) If the amount of lending by the institution within minority, rural, and urban low-income and underserved communities and to low- and moderate-income borrowers has increased in amount between 200 percent and 400 percent of the amount of the capital investment, the annual payment rate shall not exceed 1.25 percent per annum.
+
+      * (iii) If the amount of lending by the institution within minority, rural, and urban low-income and underserved communities and to low- and moderate-income borrowers has increased by more than 400 percent of the capital investment, the annual payment rate shall not exceed 0.5 percent per annum.
+
+* #### (7) Contingency of payments based on certain financial criteria
+  * #### (A) Deferral
+    * Any annual payments under this section shall be deferred in any quarter or payment period if any of the following is true:
+
+      * (i) The low- and moderate-income community institution fails to meet the Tier 1 capital ratio or similar ratio as determined by the Secretary.
+
+      * (ii) The low- and moderate-income community financial institution fails to achieve positive net income for the quarter or payment period.
+
+      * (iii) The low- and moderate-income community financial institution determines that the payment would be detrimental to the financial health of the institution and the Chief Executive Officer and Chief Financial Officer of the institution provide written notice, in a form reasonably satisfactory to the Secretary, of such determination and the basis thereof.
+
+  * #### (B) Testing during next payment period
+    * Any annual payment that is deferred under this section shall—
+
+      * (i) be tested against the metrics described in subparagraph (A) at the beginning of the next payment period; and
+
+      * (ii) continue to be deferred until the metrics described in that subparagraph are no longer applicable.
+
+* #### (8) Requirements in connection with failure to satisfy program goals
+  * Any financial instrument issued to the Secretary by a low- and moderate-income community financial institution under the Program may include such additional terms and conditions as the Secretary determines may be appropriate to provide the holders with rights in the event that such institution fails to satisfy applicable requirements under the Program or to protect the interests of the Federal Government.
+
+#### (e) Restrictions
+* #### (1) In general
+  * Each low- and moderate-income community financial institution may only issue financial instruments or senior preferred stock under this subsection with an aggregate principal amount (or comparable amount) that is—
+
+    * (A) not more than $250,000,000; and
+
+    * (B)(i) not more than 7.5 percent of total assets for an institution with assets of more than $2,000,000,000;
+
+    * (ii) not more than 15 percent of total assets for an institution with assets of not less than $500,000,000 and not more than $2,000,000,000; and
+
+    * (iii) not more than 22.5 percent of total assets for an institution with assets of less than $500,000,000.
+
+* #### (2) Set-asides
+  * Of the amounts made available under subsection (c)(2), not less than $4,000,000,000 shall be made available for eligible institutions with total assets of not more than $2,000,000,000 that timely apply to receive a capital investment under the Program, of which not less than $2,000,000,000 shall be made available for eligible institutions with total assets of less than $500,000,000 that timely apply to receive a capital investment under the Program.
+
+* #### (3) Holding of instruments
+  * Holding any instrument of a low- and moderate-income community financial institution described in paragraph (1) shall not give the Secretary or any successor that owns the instrument any rights over the management of the institution in the ordinary course of business.
+
+* #### (4) Sale of interest
+  * #### (A) In general
+    * With respect to a capital investment made into a low- and moderate-income community financial institution under this section, the Secretary—
+
+      * (i) prior to any sale of such capital investment to a third party, shall provide the low- and moderate-income community financial institution a right of first refusal to buy back the investment under terms that do not exceed a value as determined by an independent third party;
+
+      * (ii) shall not sell more than 25 percent of the outstanding equity interests of any institution to a single third party without the consent of such institution, which may not be unreasonably withheld; and
+
+      * (iii) with the permission of the institution, may transfer or sell the interest of the Secretary in the capital investment for no consideration or for a de minimis amount to a mission aligned nonprofit affiliate of an applicant that is an insured community development financial institution.
+
+  * #### (B) Calculation of ownership for minority depository institutions
+    * The calculation and determination of ownership thresholds for a depository institution to qualify as a minority depository institution shall exclude any dilutive effect of equity investments by the Federal Government, including under the Program or through the Fund.
+
+* #### (5) Repayment incentives
+  * The Secretary may establish repayment incentives that will apply to capital investments under the Program in a manner that the Secretary determines to be consistent with the purposes of the Program.
+
+#### (f) Treatment of capital investments
+* The Secretary shall seek to establish the terms of preferred stock issued under the Program to enable such preferred stock to receive Tier 1 capital treatment.
+
+#### (g) Outreach to minority communities
+* The Secretary shall require low- and moderate-income community financial institutions receiving capital investments under the Program to provide community outreach and communication, where appropriate, describing the availability and application process of receiving loans made possible by the Program through organizations, trade associations, and individuals that represent or work within or are members of minority communities.
+
+#### (h) Restrictions
+* #### (1) In general
+  * Not later than the end of the 30-day period beginning on December 27, 2020, the Secretary shall issue rules setting restrictions on executive compensation, share buybacks, and dividend payments for recipients of capital investments under the Program.
+
+* #### (2) Conflicts of interest
+  * #### (A) Definitions
+    * In this paragraph:
+
+    * #### (i) Controlling interest
+      * The term "controlling interest" means owning, controlling, or holding not less than 20 percent, by vote or value, of the outstanding amount of any class of equity interest in an entity.
+
+    * #### (ii) Covered entity
+      * The term "covered entity" means an entity in which a covered individual directly or indirectly holds a controlling interest. For the purpose of determining whether an entity is a covered entity, the securities owned, controlled, or held by 2 or more individuals who are related as described in clause (iii)(II) shall be aggregated.
+
+    * #### (iii) Covered individual
+      * The term "covered individual" means—
+
+        * (I) the President, the Vice President, the head of an Executive department, or a Member of Congress; and
+
+        * (II) the spouse, child, son-in-law, or daughter-in-law, as determined under applicable common law, of an individual described in subclause (i).
+
+    * #### (iv) Executive department
+      * The term "Executive department" has the meaning given the term in section 101 of title 5.
+
+    * #### (v) Member of Congress
+      * The term "member of Congress" means a member of the Senate or House of Representatives, a Delegate to the House of Representatives, and the Resident Commissioner from Puerto Rico.
+
+    * #### (vi) Equity interest
+      * The term "equity interest" means—
+
+        * (I) a share in an entity, without regard to whether the share is—
+
+          * (aa) transferable; or
+
+          * (bb) classified as stock or anything similar;
+
+
+        * (II) a capital or profit interest in a limited liability company or partnership; or
+
+        * (III) a warrant or right, other than a right to convert, to purchase, sell, or subscribe to a share or interest described in subclause (I) or (II), respectively.
+
+  * #### (B) Prohibition
+    * Notwithstanding any other provision of this section, no covered entity may be eligible for any investment made under the Program.
+
+  * #### (C) Requirement
+    * The principal executive officer and the principal financial officer, or individuals performing similar functions, of an entity seeking to receive an investment made under the Program shall, before that investment is approved, certify to the Secretary and the appropriate Federal banking agency or the National Credit Union Administration, as applicable, that the entity is eligible to receive the investment, including that the entity is not a covered entity.
+
+#### (i) Ineligibility of certain institutions
+* An institution shall be ineligible to participate in the Program if such institution is designated in Troubled Condition by the appropriate Federal banking agency or the National Credit Union Administration, as applicable, or is subject to a formal enforcement action with its primary Federal regulator that addresses unsafe or unsound lending practices.
+
+#### (j) Termination of investment authority
+* #### (1) In general
+  * The authority to make new capital investments in low- and moderate-income community financial institutions, including commitments to purchase preferred stock or other instruments, provided under the Program shall terminate on the date that is 6 months after the date on which the national emergency concerning the novel coronavirus disease (COVID–19) outbreak declared by the President on March 13, 2020 under the National Emergencies Act (50 U.S.C. 1601 et seq.) terminates.
+
+* #### (2) Rule of construction
+  * Nothing in this subsection may be construed to limit any other authority of the Secretary not described in paragraph (1).
+
+#### (k) Collection of data
+* Notwithstanding the Equal Credit Opportunity Act (15 U.S.C. 1691 et seq.)—
+
+  * (1) any low- and moderate-income community financial institution may collect data described in section 701(a)(1) of that Act (15 U.S.C. 1691(a)(1)) from borrowers and applicants for credit for the sole purpose and exclusive use of monitoring compliance under the plan required under subsection (d)(4); and
+
+  * (2) a low- and moderate-income community financial institution that collects the data described in paragraph (1) shall not be subject to adverse action related to that collection by the Bureau of Consumer Financial Protection or any other Federal agency.
+
+#### (_l)_ Deposit of funds
+* All funds received by the Secretary in connection with purchases made pursuant this section, including interest payments, dividend payments, and proceeds from the sale of any financial instrument, shall be deposited into the Fund and used to provide financial and technical assistance pursuant to section 4707 of this title, except that subsection (e) of that section shall be waived.
+
+#### (m) Direct appropriation
+* There is appropriated, out of amounts in the Treasury not otherwise appropriated, for fiscal year 2021, $9,000,000,000, to remain available until expended and to be deposited in the Emergency Capital Investment Fund, to carry out this section.
+
+#### (n) Administrative expenses
+* Funds appropriated pursuant to subsection (m) may be used for administrative expenses, including the costs of modifying such investments, and reasonable costs of administering the Program of making, holding, managing, and selling the capital investments.
+
+#### (_o)_ Administrative provisions
+* The Secretary may take such actions as the Secretary determines necessary to carry out the authorities in this section, including the following:
+
+  * (1) The Secretary may use the services of any agency or instrumentality of the United States or component thereof on a reimbursable basis, and any such agency or instrumentality or component thereof is authorized to provide services as requested by the Secretary using all authorities vested in or delegated to that agency, instrumentality, or component.
+
+  * (2) The Secretary may enter into contracts, including contracts for services authorized by section 3109 of title 5.
+
+  * (3) The Secretary may designate any bank, savings association, trust company, security broker or dealer, asset manager, or investment adviser as a financial agent of the Federal Government and such institution shall perform all such reasonable duties related to this section as financial agent of the Federal Government as may be required. The Secretary shall have authority to amend existing agreements with financial agents to perform reasonable duties related to this section.
+
+  * (4) The Secretary may exercise any rights received in connection with any preferred stock or other financial instruments or assets purchased or acquired pursuant to the authorities granted under this section.
+
+  * (5) The Secretary may manage any assets purchased under this section, including revenues and portfolio risks therefrom.
+
+  * (6) The Secretary may sell, dispose of, transfer, exchange or enter into securities loans, repurchase transactions, or other financial transactions in regard to, any preferred stock or other financial instrument or asset purchased or acquired under this section, upon terms and conditions and at a price determined by the Secretary.
+
+  * (7) The Secretary may manage or prohibit conflicts of interest that may arise in connection with the administration and execution of the authorities provided under this section.
+
+  * (8) The Secretary may establish and use vehicles to purchase, hold, and sell preferred stock or other financial instruments and issue obligations.
+
+  * (9) The Secretary may issue such regulations and other guidance as may be necessary or appropriate to define terms or carry out the authorities or purposes of this section.
+
+  * (10) The Secretary is authorized to use direct hiring authority to hire employees to administer this section.
+
 ### §4704. Applications for assistance
 #### (a) Form and procedures
 * An application for assistance under this subchapter shall be submitted in such form and in accordance with such procedures as the Fund shall establish.

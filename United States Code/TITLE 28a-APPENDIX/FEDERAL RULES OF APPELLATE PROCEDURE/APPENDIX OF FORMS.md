@@ -79,19 +79,19 @@ _ADDRESS:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 * \*&nbsp;See Rule 15.
 
 ### Form 4. Affidavit Accompanying Motion for Permission to Appeal In Forma Pauperis
-![](http://uscode.house.gov/images/uscprelim/Apf4p1.gif)
-![](http://uscode.house.gov/images/uscprelim/Apf4p2.gif)
-![](http://uscode.house.gov/images/uscprelim/Apf4p3.gif)
-![](http://uscode.house.gov/images/uscprelim/Apf4p4.gif)
-![](http://uscode.house.gov/images/uscprelim/Apf4p5.gif)
-![](http://uscode.house.gov/images/uscprelim/Apf4p6.gif)
+![](http://uscode.house.gov/images/uscprelim/Apf4p1.png)
+![](http://uscode.house.gov/images/uscprelim/Apf4p2.png)
+![](http://uscode.house.gov/images/uscprelim/Apf4p3.png)
+![](http://uscode.house.gov/images/uscprelim/Apf4p4.png)
+![](http://uscode.house.gov/images/uscprelim/Apf4p5.png)
+![](http://uscode.house.gov/images/uscprelim/Apf4p6.png)
 
 ### Form 5. Notice of Appeal to a Court of Appeals From a Judgment or Order of a District Court or a Bankruptcy Appellate Panel
 <p align='center'>United States District Court for the ________</p>
 
 <p align='center'>District of ____________</p>
 
-![](http://uscode.house.gov/images/uscprelim/28AApF5.gif)
+![](http://uscode.house.gov/images/uscprelim/28AApF5.png)
 ### Notice of Appeal to United States Court of Appeals for the \_\_\_\_\_\_\_\_\_\_\_\_ Circuit
 * \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, the plaintiff [or defendant or other party] appeals to the United States Court of Appeals for the \_\_\_\_\_\_\_\_\_\_\_\_ Circuit from the final judgment [or order or decree] of the district court for the district of \_\_\_\_\_\_\_\_\_\_\_\_ [or bankruptcy appellate panel of the \_\_\_\_\_\_\_\_\_\_\_\_ circuit], entered in this case on \_\_\_\_\_\_\_\_\_\_\_\_, 20\_\_\_\_ [here describe the judgment, order, or decree] \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -111,7 +111,7 @@ ADDRESS: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;&nbsp;&nbsp;&nbsp;&nb
 * [_Note to inmate filers:_ _If you are an inmate confined in an institution and you seek the timing benefit of Fed. R. App. P. 4(c)(1), complete Form 7 (Declaration of Inmate Filing) and file that declaration along with this Notice of Appeal._]
 
 #### Form 6
-![](http://uscode.house.gov/images/uscprelim/28ap6.gif)
+![](http://uscode.house.gov/images/uscprelim/28ap6.png)
 
 ### Form 7. Declaration of Inmate Filing
 ### \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_

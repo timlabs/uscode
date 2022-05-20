@@ -15,7 +15,7 @@
     * (C) incorporates a comprehensive measurement, monitoring, and validation program.
 
 * #### (3) Preferences for award
-  * To ensure reduced carbon dioxide emissions, the Secretary shall take necessary actions to provide for the integration of the program under this paragraph with the large-scale carbon dioxide sequestration tests described in section 16293(c)(3) of this title. These actions should not delay implementation of these tests. The Secretary shall give priority consideration to projects with the following characteristics:
+  * To ensure reduced carbon dioxide emissions, the Secretary shall take necessary actions to provide for the integration of the program under this paragraph with the large-scale carbon dioxide sequestration tests described in section 16293(c) of this title. These actions should not delay implementation of these tests. The Secretary shall give priority consideration to projects with the following characteristics:
 
   * #### (A) Capacity
     * Projects that will capture a high percentage of the carbon dioxide in the treated stream and large volumes of carbon dioxide as determined by the Secretary.
@@ -37,7 +37,7 @@
 * There is authorized to be appropriated to the Secretary to carry out this section $200,000,000 per year for fiscal years 2009 through 2013.
 
 ### §17252. Review of large-scale programs
-* The Secretary shall enter into an arrangement with the National Academy of Sciences for an independent review and oversight, beginning in 2011, of the programs under section 16293(c)(3) of this title and under section 17251 of this title, to ensure that the benefits of such programs are maximized. Not later than January 1, 2012, the Secretary shall transmit to the Congress a report on the results of such review and oversight.
+* The Secretary shall enter into an arrangement with the National Academy of Sciences for an independent review and oversight, beginning in 2011, of the programs under section 16293(c) of this title and under section 17251 of this title, to ensure that the benefits of such programs are maximized. Not later than January 1, 2012, the Secretary shall transmit to the Congress a report on the results of such review and oversight.
 
 ### §17253. Geologic sequestration training and research
 #### (a) Study

@@ -354,9 +354,11 @@
 
         * (II) subparagraph (I) insofar as it relates to a physician fee schedule for 2005 or 2006 shall not be taken into account in applying clause (ii)(II) for drug administration services under the fee schedule for such year for a specialty described in subparagraph (I)(ii)(II);
 
-        * (III) subparagraph (J) insofar as it relates to a physician fee schedule for 2005 or 2006 shall not be taken into account in applying clause (ii)(II) for drug administration services under the fee schedule for such year; and
+        * (III) subparagraph (J) insofar as it relates to a physician fee schedule for 2005 or 2006 shall not be taken into account in applying clause (ii)(II) for drug administration services under the fee schedule for such year;
 
-        * (IV) subsection (b)(6) shall not be taken into account in applying clause (ii)(II) for 2010, 2011, or the first 2 months of 2012.
+        * (IV) subsection (b)(6) shall not be taken into account in applying clause (ii)(II) for 2010, 2011, or the first 2 months of 2012; and
+
+        * (V) subsection (t) shall not be taken into account in applying clause (ii)(II) for 2021.
 
     * #### (v) Exemption of certain reduced expenditures from budget-neutrality calculation
       * The following reduced expenditures, as estimated by the Secretary, shall not be taken into account in applying clause (ii)(II):
@@ -977,7 +979,7 @@
     * In establishing indices and index values under this paragraph, the Secretary shall use the most recent data available relating to practice expenses, malpractice expenses, and physician work effort in different fee schedule areas.
 
   * #### (E) Floor at 1.0 on work geographic index
-    * After calculating the work geographic index in subparagraph (A)(iii), for purposes of payment for services furnished on or after January 1, 2004, and before May 23, 2020, the Secretary shall increase the work geographic index to 1.00 for any locality for which such work geographic index is less than 1.00.
+    * After calculating the work geographic index in subparagraph (A)(iii), for purposes of payment for services furnished on or after January 1, 2004, and before January 1, 2024, the Secretary shall increase the work geographic index to 1.00 for any locality for which such work geographic index is less than 1.00.
 
   * #### (G) Floor for practice expense, malpractice, and work geographic indices for services furnished in Alaska
     * For purposes of payment for services furnished in Alaska on or after January 1, 2004, and before January 1, 2006, after calculating the practice expense, malpractice, and work geographic indices in clauses (i), (ii), and (iii) of subparagraph (A) and in subparagraph (B), the Secretary shall increase any such index to 1.67 if such index would otherwise be less than 1.67. For purposes of payment for services furnished in the State described in the preceding sentence on or after January 1, 2009, after calculating the work geographic index in subparagraph (A)(iii), the Secretary shall increase the work geographic index to 1.5 if such index would otherwise be less than 1.5
@@ -2078,14 +2080,14 @@
 
         * (I) with respect to 2019 and 2020, the reference in subparagraph (A) of such paragraph to 25 percent was instead a reference to 20 percent;
 
-        * (II) with respect to 2021 and 2022—
+        * (II) with respect to each of 2021 through 2024—
 
           * (aa) the reference in subparagraph (B)(i) of such paragraph to 50 percent was instead a reference to 40 percent; and
 
           * (bb) the references in subparagraph (B)(ii) of such paragraph to 50 percent and 25 percent of such paragraph were instead references to 40 percent and 20 percent, respectively; and
 
 
-        * (III) with respect to 2023 and subsequent years—
+        * (III) with respect to 2025 and subsequent years—
 
           * (aa) the reference in subparagraph (C)(i) of such paragraph to 75 percent was instead a reference to 50 percent; and
 
@@ -2183,7 +2185,7 @@
 
         * (III) The subcategory of care coordination, such as timely communication of test results, timely exchange of clinical information to patients and other providers, and use of remote monitoring or telehealth.
 
-        * (IV) The subcategory of beneficiary engagement, such as the establishment of care plans for individuals with complex care needs, beneficiary self-management assessment and training, and using shared decision-making mechanisms.
+        * (IV) The subcategory of beneficiary engagement, such as the establishment of care plans for individuals with complex care needs, beneficiary self-management assessment and training, and using shared decision-making mechanisms. This subcategory shall include as an activity, for performance periods beginning on or after January 1, 2022, use of a real-time benefit tool as described in section 1395w–104(o) of this title. The Secretary may establish this activity as a standalone or as a component of another activity.
 
         * (V) The subcategory of patient safety and practice assessment, such as through use of clinical or surgical checklists and practice assessments related to maintaining certification.
 
@@ -2873,3 +2875,24 @@
 
 * #### (7) Administration
   * Chapter 35 of title 44 shall not apply to the collection of information for the development of quality measures.
+
+#### (t) Supporting physicians and other professionals in adjusting to Medicare payment changes during 2021
+* #### (1) In general
+  * In order to support physicians and other professionals in adjusting to changes in payment for physicians' services during 2021, the Secretary shall increase fee schedules under subsection (b) that establish payment amounts for such services furnished on or after January 1, 2021, and before January 1, 2022, by 3.75 percent.
+
+* #### (2) Implementation
+  * #### (A) Administration
+    * Notwithstanding any other provision of law, the Secretary may implement this subsection by program instruction or otherwise.
+
+  * #### (B) Limitation
+    * There shall be no administrative or judicial review under section 1395ff of this title, 1395oo of this title or otherwise of the fee schedules that establish payment amounts calculated pursuant to this subsection.
+
+  * #### (C) Application only for 2021
+    * The increase in fee schedules that establish payment amounts under this subsection shall not be taken into account in determining such fee schedules that establish payment amounts for services furnished in years after 2021.
+
+* #### (3) Funding
+  * For purposes of increasing the fee schedules that establish payment amounts pursuant to this subsection—
+
+    * (A) there shall be transferred from the General Fund of the Treasury to the Federal Supplementary Medical Insurance Trust Fund under section 1395t of this title, $3,000,000,000, to remain available until expended; and
+
+    * (B) in the event the Secretary determines additional amounts are necessary, such amounts shall be available from the Federal Supplementary Medical Insurance Trust Fund.

@@ -119,6 +119,12 @@
 
 * (3) A person affected by an action of a private person under this subsection may apply for reconsideration of the action by the Administrator. On the Administrator's own initiative, the Administrator may reconsider the action of a private person at any time. If the Administrator decides on reconsideration that the action is unreasonable or unwarranted, the Administrator shall change, modify, or reverse the action. If the Administrator decides the action is warranted, the Administrator shall affirm the action.
 
+* (4)(A) With respect to a critical system design feature of a transport category airplane, the Administrator may not delegate any finding of compliance with applicable airworthiness standards or review of any system safety assessment required for the issuance of a certificate, including a type certificate, or amended or supplemental type certificate, under section 44704, until the Administrator has reviewed and validated any underlying assumptions related to human factors.
+
+* (B) The requirement under subparagraph (A) shall not apply if the Administrator determines the matter involved is a routine task.
+
+* (C) For purposes of subparagraph (A), the term critical system design feature includes any feature (including a novel or unusual design feature) for which the failure of such feature, either independently or in combination with other failures, could result in catastrophic or hazardous failure conditions, as those terms are defined by the Administrator.
+
 ### §44703. Airman certificates
 * (a) GENERAL.—The Administrator of the Federal Aviation Administration shall issue an airman certificate to an individual when the Administrator finds, after investigation, that the individual is qualified for, and physically able to perform the duties related to, the position to be authorized by the certificate.
 
@@ -542,22 +548,6 @@
     * (C) REQUIREMENT TO MAINTAIN DATA.—The Administrator shall maintain engineering data in the possession of the Administration relating to a type certificate or a supplemental type certificate that has been inactive for 3 or more years.
 
 
-  * (6) TYPE CERTIFICATION RESOLUTION PROCESS.—
-
-    * (A) IN GENERAL.—Not later than 15 months after the date of enactment of the FAA Reauthorization Act of 2018, the Administrator shall establish an effective, timely, and milestone-based issue resolution process for type certification activities under this subsection.
-
-    * (B) PROCESS REQUIREMENTS.—The resolution process shall provide for—
-
-      * (i) resolution of technical issues at pre-established stages of the certification process, as agreed to by the Administrator and the type certificate applicant;
-
-      * (ii) automatic elevation to appropriate management personnel of the Federal Aviation Administration and the type certificate applicant of any major certification process milestone that is not completed or resolved within a specific period of time agreed to by the Administrator and the type certificate applicant; and
-
-      * (iii) resolution of a major certification process milestone elevated pursuant to clause (ii) within a specific period of time agreed to by the Administrator and the type certificate applicant.
-
-
-    * (C) MAJOR CERTIFICATION PROCESS MILESTONE DEFINED.—In this paragraph, the term "major certification process milestone" means a milestone related to a type certification basis, type certification plan, type inspection authorization, issue paper, or other major type certification activity agreed to by the Administrator and the type certificate applicant.
-
-
 * (b) SUPPLEMENTAL TYPE CERTIFICATES.—
 
   * (1) ISSUANCE.—The Administrator may issue a type certificate designated as a supplemental type certificate for a change to an aircraft, aircraft engine, propeller, or appliance.
@@ -573,17 +563,174 @@
 
 * (2) A person applying for the issuance or renewal of an airworthiness certificate for an aircraft for which ownership has not been recorded under section 44107 or 44110 of this title must submit with the application information related to the ownership of the aircraft the Administrator decides is necessary to identify each person having a property interest in the aircraft and the kind and extent of the interest.
 
-* (e) DESIGN AND PRODUCTION ORGANIZATION CERTIFICATES.—
+* (3) NONCONFORMITY WITH APPROVED TYPE DESIGN.—
 
-  * (1) ISSUANCE.—Beginning January 1, 2013, the Administrator may issue a certificate to a design organization, production organization, or design and production organization to authorize the organization to certify compliance of aircraft, aircraft engines, propellers, and appliances with the requirements and minimum standards prescribed under section 44701(a). An organization holding a certificate issued under this subsection shall be known as a certified design and production organization (in this subsection referred to as a "CDPO").
+  * (A) IN GENERAL.—Consistent with the requirements of paragraph (1), a holder of a production certificate for an aircraft may not present a nonconforming aircraft, either directly or through the registered owner of such aircraft or a person described in paragraph (2), to the Administrator for issuance of an initial airworthiness certificate.
 
-  * (2) APPLICATIONS.—On receiving an application for a CDPO certificate, the Administrator shall examine and rate the organization submitting the application, in accordance with regulations to be prescribed by the Administrator, to determine whether the organization has adequate engineering, design, and production capabilities, standards, and safeguards to make certifications of compliance as described in paragraph (1).
+  * (B) CIVIL PENALTY.—Notwithstanding section 46301, a production certificate holder who knowingly violates subparagraph (A) shall be liable to the Administrator for a civil penalty of not more than $1,000,000 for each nonconforming aircraft.
 
-  * (3) ISSUANCE OF CERTIFICATES BASED ON CDPO FINDINGS.—The Administrator may rely on certifications of compliance by a CDPO when making determinations under this section.
+  * (C) PENALTY CONSIDERATIONS.—In determining the amount of a civil penalty under subparagraph (B), the Administrator shall consider—
 
-  * (4) PUBLIC SAFETY.—The Administrator shall include in a CDPO certificate terms required in the interest of safety.
+    * (i) the nature, circumstances, extent, and gravity of the violation, including the length of time the nonconformity was known by the holder of a production certificate but not disclosed; and
 
-  * (5) NO EFFECT ON POWER OF REVOCATION.—Nothing in this subsection affects the authority of the Secretary of Transportation to revoke a certificate.
+    * (ii) with respect to the violator, the degree of culpability, any history of prior violations, and the size of the business concern.
+
+
+  * (D) NONCONFORMING AIRCRAFT DEFINED.—In this paragraph, the term "nonconforming aircraft" means an aircraft that does not conform to the approved type design for such aircraft type.
+
+
+* (e) DISCLOSURE OF SAFETY CRITICAL INFORMATION.—
+
+  * (1) IN GENERAL.—Notwithstanding a delegation described in section 44702(d), the Administrator shall require an applicant for, or holder of, a type certificate for a transport category airplane covered under part 25 of title 14, Code of Federal Regulations, to submit safety critical information with respect to such airplane to the Administrator in such form, manner, or time as the Administrator may require. Such safety critical information shall include—
+
+    * (A) any design and operational details, intended functions, and failure modes of any system that, without being commanded by the flight crew, commands the operation of any safety critical function or feature required for control of an airplane during flight or that otherwise changes the flight path or airspeed of an airplane;
+
+    * (B) the design and operational details, intended functions, failure modes, and mode annunciations of autopilot and autothrottle systems, if applicable;
+
+    * (C) any failure or operating condition that the applicant or holder anticipates or has concluded would result in an outcome with a severity level of hazardous or catastrophic, as defined in the appropriate Administration airworthiness requirements and guidance applicable to transport category airplanes defining risk severity;
+
+    * (D) any adverse handling quality that fails to meet the requirements of applicable regulations without the addition of a software system to augment the flight controls of the airplane to produce compliant handling qualities; and
+
+    * (E) a system safety assessment with respect to a system described in subparagraph (A) or (B) or with respect to any component or other system for which failure or erroneous operation of such component or system could result in an outcome with a severity level of hazardous or catastrophic, as defined in the appropriate Administration airworthiness requirements and guidance applicable to transport category airplanes defining risk severity.
+
+
+  * (2) ONGOING COMMUNICATIONS.—
+
+    * (A) NEWLY DISCOVERED INFORMATION.—The Administrator shall require that an applicant for, or holder of, a type certificate disclose to the Administrator, in such form, manner, or time as the Administrator may require, any newly discovered information or design or analysis change that would materially alter any submission to the Administrator under paragraph (1).
+
+    * (B) SYSTEM DEVELOPMENT CHANGES.—The Administrator shall establish multiple milestones throughout the certification process at which a proposed airplane system will be assessed to determine whether any change to such system during the certification process is such that such system should be considered novel or unusual by the Administrator.
+
+
+  * (3) FLIGHT MANUALS.—The Administrator shall ensure that an airplane flight manual and a flight crew operating manual (as appropriate or applicable) for an airplane contains a description of the operation of a system described in paragraph (1)(A) and flight crew procedures for responding to a failure or aberrant operation of such system.
+
+  * (4) CIVIL PENALTY.—
+
+    * (A) AMOUNT.—Notwithstanding section 46301, an applicant for, or holder of, a type certificate that knowingly violates paragraph (1), (2), or (3) of this subsection shall be liable to the Administrator for a civil penalty of not more than $1,000,000 for each violation.
+
+    * (B) PENALTY CONSIDERATIONS.—In determining the amount of a civil penalty under subparagraph (A), the Administrator shall consider—
+
+      * (i) the nature, circumstances, extent, and gravity of the violation, including the length of time that such safety critical information was known but not disclosed; and
+
+      * (ii) with respect to the violator, the degree of culpability, any history of prior violations, and the size of the business concern.
+
+
+  * (5) REVOCATION AND CIVIL PENALTY FOR INDIVIDUALS.—
+
+    * (A) IN GENERAL.—The Administrator shall revoke any airline transport pilot certificate issued under section 44703 held by any individual who, while acting on behalf of an applicant for, or holder of, a type certificate, knowingly makes a false statement with respect to any of the matters described in subparagraphs (A) through (E) of paragraph (1).
+
+    * (B) AUTHORITY TO IMPOSE CIVIL PENALTY.—The Administrator may impose a civil penalty under section 46301 for each violation described in subparagraph (A).
+
+
+  * (6) RULE OF CONSTRUCTION.—Nothing in this subsection shall be construed to affect or otherwise inhibit the authority of the Administrator to deny an application by an applicant for a type certificate or to revoke or amend a type certificate of a holder of such certificate.
+
+  * (7) DEFINITION OF TYPE CERTIFICATE.—In this subsection, the term "type certificate"—
+
+    * (A) means a type certificate issued under subsection (a) or an amendment to such certificate; and
+
+    * (B) does not include a supplemental type certificate issued under subsection (b).
+
+
+* (f) HEARING REQUIREMENT.—The Administrator may find that a person has violated subsection (a)(6) or paragraph (1), (2), or (3) of subsection (e) and impose a civil penalty under the applicable subsection only after notice and an opportunity for a hearing. The Administrator shall provide a person—
+
+  * (1) written notice of the violation and the amount of penalty; and
+
+  * (2) the opportunity for a hearing under subpart G of part 13 of title 14, Code of Federal Regulations.
+
+
+* (g) CERTIFICATION DISPUTE RESOLUTION.—
+
+  * (1) DISPUTE RESOLUTION PROCESS AND APPEALS.—
+
+    * (A) IN GENERAL.—Not later than 60 days after the date of enactment of this subsection, the Administrator shall issue an order establishing—
+
+      * (i) an effective, timely, and milestone-based issue resolution process for type certification activities under subsection (a); and
+
+      * (ii) a process by which a decision, finding of compliance or noncompliance, or other act of the Administration, with respect to compliance with design requirements, may be appealed by a covered person directly involved with the certification activities in dispute on the basis that such decision, finding, or act is erroneous or inconsistent with this chapter, regulations, or guidance materials promulgated by the Administrator, or other requirements.
+
+
+    * (B) ESCALATION.—The order issued under subparagraph (A) shall provide processes for—
+
+      * (i) resolution of technical issues at pre-established stages of the certification process, as agreed to by the Administrator and the type certificate applicant;
+
+      * (ii) automatic elevation to appropriate management personnel of the Administration and the type certificate applicant of any major certification process milestone that is not completed or resolved within a specific period of time agreed to by the Administrator and the type certificate applicant;
+
+      * (iii) resolution of a major certification process milestone elevated pursuant to clause (ii) within a specific period of time agreed to by the Administrator and the type certificate applicant;
+
+      * (iv) initial review by appropriate Administration employees of any appeal described in subparagraph (A)(ii); and
+
+      * (v) subsequent review of any further appeal by appropriate management personnel of the Administration and the Associate Administrator for Aviation Safety.
+
+
+    * (C) DISPOSITION.—
+
+      * (i) WRITTEN DECISION.—The Associate Administrator for Aviation Safety shall issue a written decision that states the grounds for the decision of the Associate Administrator on—
+
+        * (I) each appeal submitted under subparagraph (A)(ii); and
+
+        * (II) An appeal to the Associate Administrator submitted under subparagraph (B)(v).
+
+
+      * (ii) REPORT TO CONGRESS.—Not later than December 31 of each calendar year through calendar year 2025, the Administrator shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report summarizing each appeal resolved under this subsection.
+
+
+    * (D) FINAL REVIEW.—
+
+      * (i) IN GENERAL.—A written decision of the Associate Administrator under subparagraph (C) may be appealed to the Administrator for a final review and determination.
+
+      * (ii) DECLINE TO REVIEW.—The Administrator may decline to review an appeal initiated pursuant to clause (i).
+
+      * (iii) JUDICIAL REVIEW.—No decision under this paragraph (including a decision to decline to review an appeal) shall be subject to judicial review.
+
+
+  * (2) PROHIBITED CONTACTS.—
+
+    * (A) PROHIBITION GENERALLY.—During the course of an appeal under this subsection, no covered official may engage in an ex parte communication (as defined in section 551 of title 5) with an individual representing or acting on behalf of an applicant for, or holder of, a certificate under this section in relation to such appeal unless such communication is disclosed pursuant to subparagraph (B).
+
+    * (B) DISCLOSURE.—If, during the course of an appeal under this subsection, a covered official engages in, receives, or is otherwise made aware of an ex parte communication, the covered official shall disclose such communication in the public record at the time of the issuance of the written decision under paragraph (1)(C), including the time and date of the communication, subject of communication, and all persons engaged in such communication.
+
+
+  * (3) DEFINITIONS.—In this subsection:
+
+    * (A) COVERED PERSON.—The term "covered person" means either—
+
+      * (i) an employee of the Administration whose responsibilities relate to the certification of aircraft, engines, propellers, or appliances; or
+
+      * (ii) an applicant for, or holder of, a type certificate or amended type certificate issued under this section.
+
+
+    * (B) COVERED OFFICIAL.—The term "covered official" means the following officials:
+
+      * (i) The Executive Director or any Deputy Director of the Aircraft Certification Service.
+
+      * (ii) The Deputy Executive Director for Regulatory Operations of the Aircraft Certification Service.
+
+      * (iii) The Director or Deputy Director of the Compliance and Airworthiness Division of the Aircraft Certification Service.
+
+      * (iv) The Director or Deputy Director of the System Oversight Division of the Aircraft Certification Service.
+
+      * (v) The Director or Deputy Director of the Policy and Innovation Division of the Aircraft Certification Service.
+
+      * (vi) The Executive Director or any Deputy Executive Director of the Flight Standards Service.
+
+      * (vii) The Associate Administrator or Deputy Associate Administrator for Aviation Safety.
+
+      * (viii) The Deputy Administrator of the Federal Aviation Administration.
+
+      * (ix) The Administrator of the Federal Aviation Administration.
+
+      * (x) Any similarly situated or successor FAA management position to those described in clauses (i) through (ix), as determined by the Administrator.
+
+
+    * (C) MAJOR CERTIFICATION PROCESS MILESTONE.—The term "major certification process milestone" means a milestone related to the type certification basis, type certification plan, type inspection authorization, issue paper, or other major type certification activity agreed to by the Administrator and the type certificate applicant.
+
+
+  * (4) RULE OF CONSTRUCTION.—Nothing in this subsection shall apply to the communication of a good-faith complaint by any individual alleging—
+
+    * (A) gross misconduct;
+
+    * (B) a violation of title 18; or
+
+    * (C) a violation of any of the provisions of part 2635 or 6001 of title 5, Code of Federal Regulations.
 
 ### §44705. Air carrier operating certificates
 * The Administrator of the Federal Aviation Administration shall issue an air carrier operating certificate to a person desiring to operate as an air carrier when the Administrator finds, after investigation, that the person properly and adequately is equipped and able to operate safely under this part and regulations and standards prescribed under this part. An air carrier operating certificate shall—
@@ -774,16 +921,21 @@
 
 * (c) PROHIBITION ON EMPLOYMENT OF CONVICTED COUNTERFEIT PART TRAFFICKERS.—No person subject to this chapter may knowingly employ anyone to perform a function related to the procurement, sale, production, or repair of a part or material, or the installation of a part into a civil aircraft, who has been convicted in a court of law of a violation of any Federal law relating to the installation, production, repair, or sale of a counterfeit or fraudulently-represented aviation part or material.
 
-* (d) POSTEMPLOYMENT RESTRICTIONS FOR FLIGHT STANDARDS INSPECTORS.—
+* (d) POST-EMPLOYMENT RESTRICTIONS FOR INSPECTORS AND ENGINEERS.—
 
-  * (1) PROHIBITION.—A person holding an operating certificate issued under title 14, Code of Federal Regulations, may not knowingly employ, or make a contractual arrangement that permits, an individual to act as an agent or representative of the certificate holder in any matter before the Federal Aviation Administration if the individual, in the preceding 2-year period—
+  * (1) PROHIBITION.—A person holding a certificate issued under part 21 or 119 of title 14, Code of Federal Regulations, may not knowingly employ, or make a contractual arrangement that permits, an individual to act as an agent or representative of such person in any matter before the Administration if the individual, in the preceding 2-year period—
 
-    * (A) served as, or was responsible for oversight of, a flight standards inspector of the Administration; and
+    * (A) served as, or was responsible for oversight of—
 
-    * (B) had responsibility to inspect, or oversee inspection of, the operations of the certificate holder.
+      * (i) a flight standards inspector of the Administration; or
+
+      * (ii) an employee of the Administration with responsibility for certification functions with respect to a holder of a certificate issued under section 44704(a); and
 
 
-  * (2) WRITTEN AND ORAL COMMUNICATIONS.—For purposes of paragraph (1), an individual shall be considered to be acting as an agent or representative of a certificate holder in a matter before the Administration if the individual makes any written or oral communication on behalf of the certificate holder to the Administration (or any of its officers or employees) in connection with a particular matter, whether or not involving a specific party and without regard to whether the individual has participated in, or had responsibility for, the particular matter while serving as a flight standards inspector of the Administration.
+    * (B) had responsibility to inspect, or oversee inspection of, the operations of such person.
+
+
+  * (2) WRITTEN AND ORAL COMMUNICATIONS.—For purposes of paragraph (1), an individual shall be considered to be acting as an agent or representative of a certificate holder in a matter before the Administration if the individual makes any written or oral communication on behalf of the certificate holder to the Administration (or any of its officers or employees) in connection with a particular matter, whether or not involving a specific party and without regard to whether the individual has participated in, or had responsibility for, the particular matter while serving as an individual covered under paragraph (1).
 
 ### §44712. Emergency locator transmitters
 * (a) INSTALLATION.—An emergency locator transmitter must be installed on a fixed-wing powered civil aircraft for use in air commerce.
@@ -1647,7 +1799,11 @@
   * (2) FLIGHT ATTENDANT.—The term "flight attendant" has the meaning given that term in section 44728(g).
 
 ### §44735. Limitation on disclosure of safety information
-* (a) IN GENERAL.—Except as provided by subsection (c), a report, data, or other information described in subsection (b) shall not be disclosed to the public by the Administrator of the Federal Aviation Administration pursuant to section 552(b)(3)(B) of title 5 if the report, data, or other information is submitted to the Federal Aviation Administration voluntarily and is not required to be submitted to the Administrator under any other provision of law.
+* (a) IN GENERAL.—Except as provided by subsection (c), a report, data, or other information described in subsection (b) shall not be disclosed to the public by the Administrator of the Federal Aviation Administration pursuant to section 552(b)(3)(B) of title 5—
+
+  * (1) if the report, data, or other information is submitted to the Federal Aviation Administration voluntarily and is not required to be submitted to the Administrator under any other provision of law; or
+
+  * (2) if the report, data, or other information is submitted to the Federal Aviation Administration pursuant to section 102(e) of the Aircraft Certification, Safety, and Accountability Act.
 
 * (b) APPLICABILITY.—The limitation established by subsection (a) shall apply to the following:
 
@@ -1673,13 +1829,9 @@
 
   * (1) IN GENERAL.—Except as provided in paragraph (3), when overseeing an ODA holder, the Administrator of the FAA shall—
 
-    * (A) require, based on an application submitted by the ODA holder and approved by the Administrator (or the Administrator's designee), a procedures manual that addresses all procedures and limitations regarding the functions to be performed by the ODA holder;
+    * (A) require, based on an application submitted by the ODA holder and approved by the Administrator (or the Administrator's designee), a procedures manual that addresses all procedures and limitations regarding the functions to be performed by the ODA holder; and
 
-    * (B) delegate fully to the ODA holder each of the functions to be performed as specified in the procedures manual, unless the Administrator determines, after the date of the delegation and as a result of an inspection or other investigation, that the public interest and safety of air commerce requires a limitation with respect to 1 or more of the functions;
-
-    * (C) conduct regular oversight activities by inspecting the ODA holder's delegated functions and taking action based on validated inspection findings; and
-
-    * (D) for each function that is limited under subparagraph (B), work with the ODA holder to develop the ODA holder's capability to execute that function safely and effectively and return to full authority status.
+    * (B) conduct regular oversight activities by inspecting the ODA holder's delegated functions and taking action based on validated inspection findings.
 
 
   * (2) DUTIES OF ODA HOLDERS.—An ODA holder shall—
@@ -1691,15 +1843,7 @@
     * (C) cooperate fully with oversight activities conducted by the Administrator in connection with the delegation.
 
 
-  * (3) EXISTING ODA HOLDERS.—With regard to an ODA holder operating under a procedures manual approved by the Administrator before the date of enactment of the FAA Reauthorization Act of 2018, the Administrator shall—
-
-    * (A) at the request of the ODA holder and in an expeditious manner, approve revisions to the ODA holder's procedures manual;
-
-    * (B) delegate fully to the ODA holder each of the functions to be performed as specified in the procedures manual, unless the Administrator determines, after the date of the delegation and as a result of an inspection or other investigation, that the public interest and safety of air commerce requires a limitation with respect to one or more of the functions;
-
-    * (C) conduct regular oversight activities by inspecting the ODA holder's delegated functions and taking action based on validated inspection findings; and
-
-    * (D) for each function that is limited under subparagraph (B), work with the ODA holder to develop the ODA holder's capability to execute that function safely and effectively and return to full authority status.
+  * (3) EXISTING ODA HOLDERS.—With regard to an ODA holder operating under a procedures manual approved by the Administrator before the date of enactment of the FAA Reauthorization Act of 2018, the Administrator shall conduct regular oversight activities by inspecting the ODA holder's delegated functions and taking action based on validated inspection findings.
 
 
 * (b) ODA OFFICE.—
@@ -1710,23 +1854,21 @@
 
   * (3) FUNCTIONS.—The ODA Office shall—
 
-    * (A)(i) at the request of an ODA holder, eliminate all limitations specified in a procedures manual in place on the day before the date of enactment of the FAA Reauthorization Act of 2018 that are low and medium risk as determined by a risk analysis using criteria established by the ODA Office and disclosed to the ODA holder, except where an ODA holder's performance warrants the retention of a specific limitation due to documented concerns about inadequate current performance in carrying out that authorized function;
+    * (A)(i) require, as appropriate, an ODA holder to establish a corrective action plan to regain authority for any retained limitations;
 
-    * (ii) require an ODA holder to establish a corrective action plan to regain authority for any retained limitations;
+    * (ii) require, as appropriate, an ODA holder to notify the ODA Office when all corrective actions have been accomplished; and
 
-    * (iii) require an ODA holder to notify the ODA Office when all corrective actions have been accomplished; and
+    * (iii) when appropriate, make a reassessment to determine if subsequent performance in carrying out any retained limitation warrants continued retention and, if such reassessment determines performance meets objectives, lift such limitation immediately;
 
-    * (iv) make a reassessment to determine if subsequent performance in carrying out any retained limitation warrants continued retention and, if such reassessment determines performance meets objectives, lift such limitation immediately;
+    * (B) develop a more consistent approach to audit priorities, procedures, and training under the ODA program;
 
-    * (B) improve FAA and ODA holder performance and ensure full utilization of the authorities delegated under the ODA program;
+    * (C) review, in a timely fashion, a random sample of limitations on delegated authorities under the ODA program to determine if the limitations are appropriate;
 
-    * (C) develop a more consistent approach to audit priorities, procedures, and training under the ODA program;
+    * (D) ensure national consistency in the interpretation and application of the requirements of the ODA program, including any limitations, and in the performance of the ODA program;
 
-    * (D) review, in a timely fashion, a random sample of limitations on delegated authorities under the ODA program to determine if the limitations are appropriate;
+    * (E) at the request of an ODA holder, review and, when appropriate, approve new limitations to ODA functions; and
 
-    * (E) ensure national consistency in the interpretation and application of the requirements of the ODA program, including any limitations, and in the performance of the ODA program; and
-
-    * (F) at the request of an ODA holder, review and approve new limitations to ODA functions.
+    * (F) ensure the ODA holders procedures manual contains procedures and policies based on best practices established by the Administrator.
 
 
 * (c) DEFINITIONS.—In this section, the following definitions apply:
@@ -1740,6 +1882,47 @@
   * (4) ORGANIZATION.—The term "organization" means a firm, partnership, corporation, company, association, joint-stock association, or governmental entity.
 
   * (5) ORGANIZATION DESIGNATION AUTHORIZATION; ODA.—The term "Organization Designation Authorization" or "ODA" means an authorization by the FAA under section 44702(d) for an organization composed of 1 or more ODA units to perform approved functions on behalf of the FAA.
+
+
+* (d) AUDITS.—
+
+  * (1) IN GENERAL.—The Administrator shall perform a periodic audit of each ODA unit and its procedures.
+
+  * (2) DURATION.—An audit required under paragraph (1) shall be performed with respect to an ODA holder once every 7 years (or more frequently as determined appropriate by the Administrator).
+
+  * (3) RECORDS.—The ODA holder shall maintain, for a period to be determined by the Administrator, a record of—
+
+    * (A) each audit conducted under this subsection; and
+
+    * (B) any corrective actions resulting from each such audit.
+
+
+* (e) FEDERAL AVIATION SAFETY ADVISORS.—
+
+  * (1) IN GENERAL.—In the case of an ODA holder, the Administrator shall assign FAA aviation safety personnel with appropriate expertise to be advisors to the ODA unit members that are authorized to make findings of compliance on behalf of the Administrator. The advisors shall—
+
+    * (A) communicate with assigned unit members on an ongoing basis to ensure that the assigned unit members are knowledgeable of relevant FAA policies and acceptable methods of compliance; and
+
+    * (B) monitor the performance of the assigned unit members to ensure consistency with such policies.
+
+
+  * (2) APPLICABILITY.—Paragraph (1) shall only apply to an ODA holder that is—
+
+    * (A) a manufacturer that holds both a type and a production certificate for—
+
+      * (i) transport category airplanes with a maximum takeoff gross weight greater than 150,000 pounds; or
+
+      * (ii) airplanes produced and delivered to operators operating under part 121 of title 14, Code of Federal Regulations, for air carrier service under such part 121; or
+
+
+    * (B) a manufacturer of engines for an airplane described in subparagraph (A).
+
+
+* (f) COMMUNICATION WITH THE FAA.—Neither the Administrator nor an ODA holder may prohibit—
+
+  * (1) an ODA unit member from communicating with, or seeking the advice of, the Administrator or FAA staff; or
+
+  * (2) the Administrator or FAA staff from communicating with an ODA unit member.
 
 ### §44737. Helicopter fuel system safety
 * (a) PROHIBITION.—
@@ -1775,10 +1958,10 @@
 
 * (b) CIVIL PENALTY.—The Administrator may impose a civil penalty under section 46301 for each violation of this section.
 
-### §44737. Special rule for certain aircraft operations.
+### §44740. Special rule for certain aircraft operations
 * (a) IN GENERAL.—The operator of an aircraft with a special airworthiness certification in the experimental category may—
 
-  * (1) operate the aircraft for the purpose of conducting a space support vehicle flight (as that term is defined in chapter 50902 of title 51); and
+  * (1) operate the aircraft for the purpose of conducting a space support vehicle flight (as that term is defined in section 50902 of title 51); and
 
   * (2) conduct such flight under such certificate carrying persons or property for compensation or hire—
 
@@ -1789,7 +1972,7 @@
 
 * (b) LIMITED APPLICABILITY.—Subsection (a) shall apply only to a space support vehicle flight that satisfies each of the following:
 
-  * (1) (1) The aircraft conducting the space support vehicle flight—
+  * (1) The aircraft conducting the space support vehicle flight—
 
     * (A) takes flight and lands at a single site that is operated by an entity licensed for operation under chapter 509 of title 51;
 
@@ -1810,4 +1993,175 @@
 
   * (1) SPACE SUPPORT VEHICLES.—Section 44711(a)(1) shall not apply to a person conducting a space support vehicle flight under this section only to the extent that a term of the experimental certificate under which the person is operating the space support vehicle prohibits the carriage of persons or property for compensation or hire.
 
-  * (2) AUTHORITY OF ADMINISTRATOR.—Nothing in this section shall be construed to limit the authority of the Administrator of the Federal Aviation Administration to exempt a person from a regulatory prohibition on the carriage of persons or property for compensation or hire subject to terms and conditions other than those described in this section
+  * (2) AUTHORITY OF ADMINISTRATOR.—Nothing in this section shall be construed to limit the authority of the Administrator of the Federal Aviation Administration to exempt a person from a regulatory prohibition on the carriage of persons or property for compensation or hire subject to terms and conditions other than those described in this section.
+
+### §44741. Approval of organization designation authorization unit members
+* (a) IN GENERAL.—Beginning January 1, 2022, each individual who is selected on or after such date to become an ODA unit member by an ODA holder engaged in the design of an aircraft, aircraft engine, propeller, or appliance and performs an authorized function pursuant to a delegation by the Administrator of the Federal Aviation Administration under section 44702(d)—
+
+  * (1) shall be—
+
+    * (A) an employee, a contractor, or a consultant of the ODA holder; or
+
+    * (B) the employee of a supplier of the ODA holder; and
+
+
+  * (2) may not become a member of such unit unless approved by the Administrator pursuant to this section.
+
+
+* (b) PROCESS AND TIMELINE.—
+
+  * (1) IN GENERAL.—The Administrator shall maintain an efficient process for the review and approval of an individual to become an ODA unit member under this section.
+
+  * (2) PROCESS.—An ODA holder described in subsection (a) may submit to the Administrator an application for an individual to be approved to become an ODA unit member under this section. The application shall be submitted in such form and manner as the Administrator determines appropriate. The Administrator shall require an ODA holder to submit with such an application information sufficient to demonstrate an individual's qualifications under subsection (c).
+
+  * (3) TIMELINE.—The Administrator shall approve or reject an individual that is selected by an ODA holder to become an ODA unit member under this section not later than 30 days after the receipt of an application by an ODA holder.
+
+  * (4) DOCUMENTATION OF APPROVAL.—Upon approval of an individual to become an ODA unit member under this section, the Administrator shall provide such individual a letter confirming that such individual has been approved by the Administrator under this section to be an ODA unit member.
+
+  * (5) REAPPLICATION.—An ODA holder may submit an application under this subsection for an individual to become an ODA unit member under this section regardless of whether an application for such individual was previously rejected by the Administrator.
+
+
+* (c) QUALIFICATIONS.—
+
+  * (1) IN GENERAL.—The Administrator shall issue minimum qualifications for an individual to become an ODA unit member under this section. In issuing such qualifications, the Administrator shall consider existing qualifications for Administration employees with similar duties and whether such individual—
+
+    * (A) is technically proficient and qualified to perform the authorized functions sought;
+
+    * (B) has no recent record of serious enforcement action, as determined by the Administrator, taken by the Administrator with respect to any certificate, approval, or authorization held by such individual;
+
+    * (C) is of good moral character (as such qualification is applied to an applicant for an airline transport pilot certificate issued under section 44703);
+
+    * (D) possesses the knowledge of applicable design or production requirements in this chapter and in title 14, Code of Federal Regulations, necessary for performance of the authorized functions sought;
+
+    * (E) possesses a high degree of knowledge of applicable design or production principles, system safety principles, or safety risk management processes appropriate for the authorized functions sought; and
+
+    * (F) meets such testing, examination, training, or other qualification standards as the Administrator determines are necessary to ensure the individual is competent and capable of performing the authorized functions sought.
+
+
+  * (2) PREVIOUSLY REJECTED APPLICATION.—In reviewing an application for an individual to become an ODA unit member under this section, if an application for such individual was previously rejected, the Administrator shall ensure that the reasons for the prior rejection have been resolved or mitigated to the Administrator's satisfaction before making a determination on the individual's reapplication.
+
+
+* (d) RESCISSION OF APPROVAL.—The Administrator may rescind an approval of an individual as an ODA unit member granted pursuant to this section at any time and for any reason the Administrator considers appropriate. The Administrator shall develop procedures to provide for notice and opportunity to appeal rescission decisions made by the Administrator. Such decisions by the Administrator are not subject to judicial review.
+
+* (e) CONDITIONAL SELECTIONS.—
+
+  * (1) IN GENERAL.—Subject to the requirements of this subsection, the Administrator may authorize an ODA holder to conditionally designate an individual to perform the functions of an ODA unit member for a period of not more than 30 days (beginning on the date an application for such individual is submitted under subsection (b)(2)).
+
+  * (2) REQUIRED DETERMINATION.—The Administrator may not make an authorization under paragraph (1) unless—
+
+    * (A) the ODA holder has instituted, to the Administrator's satisfaction, systems and processes to ensure the integrity and reliability of determinations by conditionally-designated ODA unit members; and
+
+    * (B) the ODA holder has instituted a safety management system in accordance with regulations issued by the Administrator under section 102 of the Aircraft Certification, Safety, and Accountability Act.
+
+
+  * (3) FINAL DETERMINATION.—The Administrator shall approve or reject the application for an individual designated under paragraph (1) in accordance with the timeline and procedures described in subsection (b).
+
+  * (4) REJECTION AND REVIEW.—If the Administrator rejects the application submitted under subsection (b)(2) for an individual conditionally designated under paragraph (1), the Administrator shall review and approve or disapprove any decision pursuant to any authorized function performed by such individual during the period such individual served as a conditional designee.
+
+  * (5) PROHIBITIONS.—Notwithstanding the requirements of paragraph (2), the Administrator may prohibit an ODA holder from making conditional designations of individuals as ODA unit members under this subsection at any time for any reason the Administrator considers appropriate. The Administrator may prohibit any conditionally designated individual from performing an authorized function at any time for any reason the Administrator considers appropriate.
+
+
+* (f) RECORDS AND BRIEFINGS.—
+
+  * (1) IN GENERAL.—Beginning on the date described in subsection (a), an ODA holder shall maintain, for a period to be determined by the Administrator and with proper protections to ensure the security of sensitive and personal information—
+
+    * (A) any data, applications, records, or manuals required by the ODA holder's approved procedures manual, as determined by the Administrator;
+
+    * (B) the names, responsibilities, qualifications, and example signature of each member of the ODA unit who performs an authorized function pursuant to a delegation by the Administrator under section 44702(d);
+
+    * (C) training records for ODA unit members and ODA administrators; and
+
+    * (D) any other data, applications, records, or manuals determined appropriate by the Administrator.
+
+
+  * (2) CONGRESSIONAL BRIEFING.—Not later than 90 days after the date of enactment of this section, and every 90 days thereafter through September 30, 2023, the Administrator shall provide a briefing to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on the implementation and effects of this section, including—
+
+    * (A) the Administration's performance in completing reviews of individuals and approving or denying such individuals within the timeline required under subsection (b)(3);
+
+    * (B) for any individual rejected by the Administrator under subsection (b) during the preceding 90-day period, the reasoning or basis for such rejection; and
+
+    * (C) any resource, staffing, or other challenges within the Administration associated with implementation of this section.
+
+
+* (g) SPECIAL REVIEW OF QUALIFICATIONS.—
+
+  * (1) IN GENERAL.—Not later than 30 days after the issuance of minimum qualifications under subsection (c), the Administrator shall initiate a review of the qualifications of each individual who on the date on which such minimum qualifications are issued is an ODA unit member of a holder of a type certificate for a transport airplane to ensure such individual meets the minimum qualifications issued by the Administrator under subsection (c).
+
+  * (2) UNQUALIFIED INDIVIDUAL.—For any individual who is determined by the Administrator not to meet such minimum qualifications pursuant to the review conducted under paragraph (1), the Administrator—
+
+    * (A) shall determine whether the lack of qualification may be remedied and, if so, provide such individual with an action plan or schedule for such individual to meet such qualifications; or
+
+    * (B) may, if the Administrator determines the lack of qualification may not be remedied, take appropriate action, including prohibiting such individual from performing an authorized function.
+
+
+  * (3) DEADLINE.—The Administrator shall complete the review required under paragraph (1) not later than 18 months after the date on which such review was initiated.
+
+  * (4) SAVINGS CLAUSE.—An individual approved to become an ODA unit member of a holder of a type certificate for a transport airplane under subsection (a) shall not be subject to the review under this subsection.
+
+
+* (h) PROHIBITION.—The Administrator may not authorize an organization or ODA holder to approve an individual selected by an ODA holder to become an ODA unit member under this section.
+
+* (i) DEFINITIONS.—
+
+  * (1) GENERAL APPLICABILITY.—The definitions contained in section 44736(c) shall apply to this section.
+
+  * (2) TRANSPORT AIRPLANE.—The term "transport airplane" means a transport category airplane designed for operation by an air carrier or foreign air carrier type-certificated with a passenger seating capacity of 30 or more or an all-cargo or combi derivative of such an airplane.
+
+
+* (j) AUTHORIZATION OF APPROPRIATIONS.—There is authorized to be appropriated to carry out this section $3,000,000 for each of fiscal years 2021 through 2023.
+
+### §44742. Interference with the duties of organization designation authorization unit members
+* (a) IN GENERAL.—The Administrator of the Federal Aviation Administration shall continuously seek to eliminate or minimize interference by an ODA holder that affects the performance of authorized functions by ODA unit members.
+
+* (b) PROHIBITION.—
+
+  * (1) IN GENERAL.—It shall be unlawful for any individual who is a supervisory employee of an ODA holder that manufactures a transport category airplane to commit an act of interference with an ODA unit member's performance of authorized functions.
+
+  * (2) CIVIL PENALTY.—
+
+    * (A) INDIVIDUALS.—An individual shall be subject to a civil penalty under section 46301(a)(1) for each violation under paragraph (1).
+
+    * (B) SAVINGS CLAUSE.—Nothing in this paragraph shall be construed as limiting or constricting any other authority of the Administrator to pursue an enforcement action against an individual or organization for violation of applicable Federal laws or regulations of the Administration.
+
+
+* (c) REPORTING.—
+
+  * (1) REPORTS TO ODA HOLDER.—An ODA unit member of an ODA holder that manufactures a transport category airplane shall promptly report any instances of interference to the office of the ODA holder that is designated to receive such reports.
+
+  * (2) REPORTS TO THE FAA.—
+
+    * (A) IN GENERAL.—The ODA holder office described in paragraph (1) shall investigate reports and submit to the office of the Administration designated by the Administrator to accept and review such reports any instances of interference reported under paragraph (1).
+
+    * (B) CONTENTS.—The Administrator shall prescribe parameters for the submission of reports to the Administration under this paragraph, including the manner, time, and form of submission. Such report shall include the results of any investigation conducted by the ODA holder in response to a report of interference, a description of any action taken by the ODA holder as a result of the report of interference, and any other information or potentially mitigating factors the ODA holder or the Administrator deems appropriate.
+
+
+* (d) DEFINITIONS.—
+
+  * (1) GENERAL APPLICABILITY.—The definitions contained in section 44736(c) shall apply to this section.
+
+  * (2) INTERFERENCE.—In this section, the term "interference" means—
+
+    * (A) blatant or egregious statements or behavior, such as harassment, beratement, or threats, that a reasonable person would conclude was intended to improperly influence or prejudice an ODA unit member's performance of his or her duties; or
+
+    * (B) the presence of non-ODA unit duties or activities that conflict with the performance of authorized functions by ODA unit members.
+
+### §44743. Pilot training requirements
+* (a) IN GENERAL.—
+
+  * (1) ADMINISTRATOR'S DETERMINATION.—In establishing any pilot training requirements with respect to a new transport airplane, the Administrator of the Federal Aviation Administration shall independently review any proposal by the manufacturer of such airplane with respect to the scope, format, or minimum level of training required for operation of such airplane.
+
+  * (2) ASSURANCES AND MARKETING REPRESENTATIONS.—Before the Administrator has established applicable training requirements, an applicant for a new or amended type certificate for an airplane described in paragraph (1) may not, with respect to the scope, format, or magnitude of pilot training for such airplane—
+
+    * (A) make any assurance or other contractual commitment, whether verbal or in writing, to a potential purchaser of such airplane unless a clear and conspicuous disclaimer (as defined by the Administrator) is included regarding the status of training required for operation of such airplane; or
+
+    * (B) provide financial incentives (including rebates) to a potential purchaser of such airplane regarding the scope, format, or magnitude of pilot training for such airplane.
+
+
+* (b) PILOT RESPONSE TIME.—Beginning on the day after the date on which regulations are issued under section 119(c)(6) of the Aircraft Certification, Safety, and Accountability Act, the Administrator may not issue a new or amended type certificate for an airplane described in subsection (a) unless the applicant for such certificate has demonstrated to the Administrator that the applicant has accounted for realistic assumptions regarding the time for pilot responses to non-normal conditions in designing the systems and instrumentation of such airplane. Such assumptions shall—
+
+  * (1) be based on test data, analysis, or other technical validation methods; and
+
+  * (2) account for generally accepted scientific consensus among experts in human factors regarding realistic pilot response time.
+
+
+* (c) DEFINITION.—In this section, the term "transport airplane" means a transport category airplane designed for operation by an air carrier or foreign air carrier type-certificated with a passenger seating capacity of 30 or more or an all-cargo or combi derivative of such an airplane.

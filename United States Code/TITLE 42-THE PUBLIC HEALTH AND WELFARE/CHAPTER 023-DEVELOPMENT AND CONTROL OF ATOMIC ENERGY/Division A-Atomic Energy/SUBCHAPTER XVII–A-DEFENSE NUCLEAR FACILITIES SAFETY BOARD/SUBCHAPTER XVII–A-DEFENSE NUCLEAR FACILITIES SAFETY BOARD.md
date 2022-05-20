@@ -160,7 +160,7 @@
 
 * (2) The authority and requirements provided in section 2201(d) of this title with respect to officers and employees of the Commission shall apply with respect to scientific and technical personnel hired under paragraph (1)(A).
 
-* (3)(A) The Board shall have an Executive Director of Operations who shall be appointed under section 2286(c)(6).
+* (3)(A) The Board shall have an Executive Director of Operations who shall be appointed under section 2286(c)(6) of this title.
 
 * (B) The Executive Director of Operations shall report to the Chairman.
 
@@ -170,9 +170,10 @@
 
   * (ii) ensuring that the members of the Board are fully and currently informed with respect to matters for which the members are responsible; and
 
-  * (iii) the functions delegated by the Chairman pursuant to section 2286(c)(3)(B).
+  * (iii) the functions delegated by the Chairman pursuant to section 2286(c)(3)(B) of this title.
 
-* (4) Subject to the approval of the Board, the Chairman may organize the staff of the Board as the Chairman considers appropriate to best accomplish the mission of the Board described in section 2286a(a).
+
+* (4) Subject to the approval of the Board, the Chairman may organize the staff of the Board as the Chairman considers appropriate to best accomplish the mission of the Board described in section 2286a(a) of this title.
 
 #### (c) Regulations
 * The Board may prescribe regulations to carry out the responsibilities of the Board under this subchapter.
@@ -201,6 +202,41 @@
   * (1) events or practices at any Department of Energy defense nuclear facility; or
 
   * (2) suggestions for specific measures to improve the content of standards described in section 2286a(b)(1) of this title, the implementation of such standards, or research relating to such standards at Department of Energy defense nuclear facilities.
+
+#### (k) Nonpublic collaborative discussions
+* #### (1) In general
+  * Notwithstanding section 552b of title 5, a quorum of the members of the Board may hold a meeting that is not open to public observation to discuss official business of the Board if—
+
+    * (A) no formal or informal vote or other official action is taken at the meeting;
+
+    * (B) each individual present at the meeting is a member or an employee of the Board;
+
+    * (C) at least one member of the Board from each political party is present at the meeting, unless all members of the Board are of the same political party at the time of the meeting; and
+
+    * (D) the general counsel of the Board, or a designee of the general counsel, is present at the meeting.
+
+* #### (2) Disclosure of nonpublic collaborative discussions
+  * #### (A) In general
+    * Except as provided by subparagraph (B), not later than two business days after the conclusion of a meeting described in paragraph (1), the Board shall make available to the public, in a place easily accessible to the public—
+
+      * (i) a list of the individuals present at the meeting; and
+
+      * (ii) a summary of the matters, including key issues, discussed at the meeting, except for any matter the Board properly determines may be withheld from the public under section 552b(c) of title 5.
+
+  * #### (B) Information about matters withheld from public
+    * If the Board properly determines under subparagraph (A)(ii) that a matter may be withheld from the public under section 552b(c) of title 5, the Board shall include in the summary required by that subparagraph as much general information as possible with respect to the matter.
+
+* #### (3) Rules of construction
+  * Nothing in this subsection may be construed—
+
+    * (A) to limit the applicability of section 552b of title 5 with respect to—
+
+      * (i) a meeting of the members of the Board other than a meeting described in paragraph (1); or
+
+      * (ii) any information that is proposed to be withheld from the public under paragraph (2)(A)(ii); or
+
+
+    * (B) to authorize the Board to withhold from any individual any record that is accessible to that individual under section 552a of title 5.
 
 ### §2286c. Responsibilities of Secretary of Energy
 #### (a) Cooperation

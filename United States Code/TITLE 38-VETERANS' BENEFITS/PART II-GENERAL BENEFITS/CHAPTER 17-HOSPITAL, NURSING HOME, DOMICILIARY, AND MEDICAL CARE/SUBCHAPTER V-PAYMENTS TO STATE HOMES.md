@@ -8,7 +8,7 @@
   * (B) $20.35 for nursing home care and hospital care,
 
 
-* for each veteran receiving such care in a State home, if such veteran is eligible for such care in a Department facility.
+* for each veteran receiving such care in a State home, if such veteran is eligible for such care under the laws administered by the Secretary.
 
 * (2) The Secretary may pay each State per diem at a rate determined by the Secretary for each veteran receiving extended care services described in any of paragraphs (4) through (6) of section 1710B(a) of this title under a program administered by a State home, if such veteran is eligible for such care under laws administered by the Secretary.
 
@@ -21,6 +21,8 @@
 * (e) Payments to States pursuant to this section shall not be considered a liability of a third party, or otherwise be used to offset or reduce any other payment made to assist veterans.
 
 * (f) Any State home that requests payment or reimbursement for services provided to a veteran under this section shall provide to the Secretary such information as the Secretary considers necessary to identify each individual veteran eligible for payment under such section.
+
+* (g) In this subchapter, the term "State" means each of the several States and each Indian tribe (as defined in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304)).
 
 ### §1742. Inspections of such homes; restrictions on beneficiaries
 * (a) The Secretary may inspect any State home at such times as the Secretary deems necessary. No payment or grant may be made to any home under this subchapter unless such home is determined by the Secretary to meet such standards as the Secretary shall prescribe, which standards with respect to nursing home care shall be no less stringent than those prescribed pursuant to section 1720(b) of this title.
@@ -59,7 +61,7 @@
 * (j) REGULATIONS.—The Secretary shall prescribe regulations to carry out this section. The regulations shall include the establishment of criteria for the award of payments under this section.
 
 ### §1745. Nursing home care, adult day health care, and medications for veterans with service-connected disabilities
-* (a)(1) The Secretary shall enter into a contract (or agreement under section 1720(c)(1) of this title) with each State home for payment by the Secretary for nursing home care provided in the home, in any case in which such care is provided to any veteran as follows:
+* (a)(1) The Secretary shall enter into a contract (or an agreement) with each State home for payment by the Secretary for nursing home care provided in the home, in any case in which such care is provided to any veteran as follows:
 
   * (A) Any veteran in need of such care for a service-connected disability.
 
@@ -73,6 +75,21 @@
 * (2) Payment under each contract (or agreement) between the Secretary and a State home under paragraph (1) shall be based on a methodology, developed by the Secretary in consultation with the State home, to adequately reimburse the State home for the care provided by the State home under the contract (or agreement).
 
 * (3) Payment by the Secretary under paragraph (1) to a State home for nursing home care provided to a veteran described in that paragraph constitutes payment in full to the State home for such care furnished to that veteran.
+
+* (4)(A) An agreement under this section may be authorized by the Secretary or any Department official authorized by the Secretary, and any such action is not an award for purposes of such laws that would otherwise require the use of competitive procedures for the furnishing of hospital care, medical services, and extended care services.
+
+* (B)(i) Except as provided in the agreement itself, in clause (ii), and unless otherwise provided in this section or regulations prescribed pursuant to this section, a State home that enters into an agreement under this section is not subject to, in the carrying out of the agreement, any provision of law to which providers of services and suppliers under the Medicare program under title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) are not subject.
+
+* (ii) A State home that enters into an agreement under this section is subject to—
+
+  * (I) all provisions of law regarding integrity, ethics, or fraud, or that subject a person to civil or criminal penalties;
+
+  * (II) all provisions of law that protect against employment discrimination or that otherwise ensure equal employment opportunities; and
+
+  * (III) all provisions in this subchapter.
+
+
+* (iii) Notwithstanding subparagraph (B)(ii)(I), a State home that enters into an agreement under this section may not be treated as a Federal contractor or subcontractor for purposes of chapter 67 of title 41 (known as the "McNamara-O'Hara Service Contract Act of 1965").
 
 * (b) The Secretary shall furnish such drugs and medicines as may be ordered on prescription of a duly licensed physician as specific therapy in the treatment of illness or injury to any veteran as follows:
 

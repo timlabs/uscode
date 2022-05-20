@@ -12,7 +12,7 @@
   * (4) transfer for redistillation under the provisions of section 5223.
 
 ### §5212. Transfer of distilled spirits between bonded premises
-* Bulk distilled spirits on which the internal revenue tax has not been paid or determined as authorized by law may, under such regulations as the Secretary shall prescribe, be transferred in bond between bonded premises in any approved container. For the purposes of this chapter, the removal of bulk distilled spirits for transfer in bond between bonded premises shall not be construed to be a withdrawal from bonded premises. The provisions of this section restricting transfers to bulk distilled spirits shall not apply to alcohol bottled under the provisions of section 5235 which is to be withdrawn for industrial purposes. In the case of distilled spirits transferred in bond after December 31, 2017, and before January 1, 2021, this section shall be applied without regard to whether distilled spirits are bulk distilled spirits.
+* Bulk distilled spirits on which the internal revenue tax has not been paid or determined as authorized by law may, under such regulations as the Secretary shall prescribe, be transferred in bond between bonded premises in any approved container. For the purposes of this chapter, the removal of bulk distilled spirits for transfer in bond between bonded premises shall not be construed to be a withdrawal from bonded premises. The provisions of this section restricting transfers to bulk distilled spirits shall not apply to alcohol bottled under the provisions of section 5235 which is to be withdrawn for industrial purposes. In the case of distilled spirits transferred in bond after December 31, 2017, between bonded premises belonging to the same person or members of the same controlled group (within the meaning of section 5001(c)(2)) this section shall be applied without regard to whether distilled spirits are bulk distilled spirits. In the case of distilled spirits transferred in bond from the person who distilled or processed such distilled spirits (hereinafter referred to as "transferor") to another person for bottling or storage of such distilled spirits, and returned to the transferor for removal, this section shall be applied without regard to whether distilled spirits are bulk distilled spirits, but only if the transferor retains title during the entire period between such distillation, or processing, and removal.
 
 ### §5213. Withdrawal of distilled spirits from bonded premises on determination of tax
 * Subject to the provisions of section 5173, distilled spirits may be withdrawn from the bonded premises of a distilled spirits plant on payment or determination of tax thereon, in approved containers, under such regulations as the Secretary shall prescribe.
@@ -61,7 +61,9 @@
 
   * (12) free of tax in the case of distilled spirits produced under section 5181; or
 
-  * (13) without payment of tax for use on bonded wine cellar premises in the production of wine or wine products which will be rendered unfit for beverage use and removed pursuant to section 5362(d).
+  * (13) without payment of tax for use on bonded wine cellar premises in the production of wine or wine products which will be rendered unfit for beverage use and removed pursuant to section 5362(d); or
+
+  * (14) with respect to distilled spirits removed after December 31, 2019, and before January 1, 2021, free of tax for use in or contained in hand sanitizer produced and distributed in a manner consistent with any guidance issued by the Food and Drug Administration that is related to the outbreak of virus SARS–CoV–2 or coronavirus disease 2019 (COVID–19).
 
 #### (b) Cross references
     * **(1) For provisions relating to denaturation, see sections 5241 and 5242.**

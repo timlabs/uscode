@@ -28,7 +28,7 @@
 
 * (4) The Secretary of Defense shall prescribe a policy that addresses each of the following:
 
-  * (A) The amount. of dwell time a regular member of the armed forces or unit remains at the member's or unit's permanent duty station or home port, as the case may be, between deployments.
+  * (A) The amount of dwell time a regular member of the armed forces or unit remains at the member's or unit's permanent duty station or home port, as the case may be, between deployments.
 
   * (B) The amount of dwell time a reserve member of the armed forces remains at the member's permanent duty station after completing a deployment of 30 days or more in length.
 

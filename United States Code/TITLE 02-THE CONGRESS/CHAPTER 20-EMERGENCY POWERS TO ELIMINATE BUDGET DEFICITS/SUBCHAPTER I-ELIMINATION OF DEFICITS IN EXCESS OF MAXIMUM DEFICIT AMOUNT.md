@@ -389,14 +389,14 @@
 * #### (6) Implementing direct spending reductions
   * (A) On the date specified in paragraph (2) during each applicable year, OMB shall prepare and the President shall order a sequestration, effective upon issuance, of nonexempt direct spending to achieve the direct spending reduction calculated pursuant to paragraphs (3) and (4). When implementing the sequestration of direct spending pursuant to this paragraph, OMB shall follow the procedures specified in section 935 of this title, the exemptions specified in section 905 of this title, and the special rules specified in section 906 of this title, except that the percentage reduction for the Medicare programs specified in section 906(d) of this title shall not be more than 2 percent for a fiscal year.
 
-  * (B) On the dates OMB issues its sequestration preview reports for each of fiscal years 2022 through 2029, pursuant to section 904(c) of this title, the President shall order a sequestration, effective upon issuance such that—
+  * (B) On the dates OMB issues its sequestration preview reports for each of fiscal years 2022 through 2030, pursuant to section 904(c) of this title, the President shall order a sequestration, effective upon issuance such that—
 
     * (i) the percentage reduction for nonexempt direct spending for the defense function is the same percent as the percentage reduction for nonexempt direct spending for the defense function for fiscal year 2021 calculated under paragraph (3)(B); and
 
     * (ii) the percentage reduction for nonexempt direct spending for nondefense functions is the same percent as the percentage reduction for nonexempt direct spending for nondefense functions for fiscal year 2021 calculated under paragraph (4)(B).
 
 
-  * (C) Notwithstanding the 2 percent limit specified in subparagraph (A) for payments for the Medicare programs specified in section 906(d) of this title, the sequestration order of the President under such subparagraph for fiscal year 2029 shall be applied to such payments so that—
+  * (C) Notwithstanding the 2 percent limit specified in subparagraph (A) for payments for the Medicare programs specified in section 906(d) of this title, the sequestration order of the President under such subparagraph for fiscal year 2030 shall be applied to such payments so that—
 
     * (i) with respect to the first 6 months in which such order is effective for such fiscal year, the payment reduction shall be 4.0 percent; and
 
@@ -1171,9 +1171,11 @@
 
   * (A) any amount paid as regular unemployment compensation by a State from its account in the Unemployment Trust Fund (established by section 904(a) of the Social Security Act [42 U.S.C. 1104(a)]),
 
-  * (B) any advance made to a State from the Federal unemployment account (established by section 904(g) of such Act [42 U.S.C. 1104(g)]) under title XII of such Act [42 U.S.C. 1321 et seq.] and any advance appropriated to the Federal unemployment account pursuant to section 1203 of such Act [42 U.S.C. 1323], and
+  * (B) any advance made to a State from the Federal unemployment account (established by section 904(g) of such Act [42 U.S.C. 1104(g)]) under title XII of such Act [42 U.S.C. 1321 et seq.] and any advance appropriated to the Federal unemployment account pursuant to section 1203 of such Act [42 U.S.C. 1323],
 
-  * (C) any payment made from the Federal Employees Compensation Account (as established under section 909 of such Act [42 U.S.C. 1109]) for the purpose of carrying out chapter 85 of title 5 and funds appropriated or transferred to or otherwise deposited in such Account,
+  * (C) any payment made from the Federal Employees Compensation Account (as established under section 909 of such Act [42 U.S.C. 1109]) for the purpose of carrying out chapter 85 of title 5 and funds appropriated or transferred to or otherwise deposited in such Account, and
+
+  * (D) any payment made from the Railroad Unemployment Insurance Account (established by section 10 of the Railroad Unemployment Insurance Act [45 U.S.C. 360]) for the purpose of carrying out the Railroad Unemployment Insurance Act [45 U.S.C. 351 et seq.], and funds appropriated or transferred to or otherwise deposited in such Account,
 
 
 * shall not be subject to reduction.

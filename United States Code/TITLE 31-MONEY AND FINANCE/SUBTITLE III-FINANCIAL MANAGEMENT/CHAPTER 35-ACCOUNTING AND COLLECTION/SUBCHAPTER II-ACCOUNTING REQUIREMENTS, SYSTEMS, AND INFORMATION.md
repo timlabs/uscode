@@ -28,7 +28,7 @@
 * (d) The Comptroller General, the Secretary, and the President shall conduct a continuous program for improving accounting and financial reporting in the Government.
 
 ### §3512. Executive agency accounting and other financial management reports and plans
-* (a)(1) The Director of the Office of Management and Budget shall prepare and submit to the appropriate committees of the Congress and make available on the website described under section 1122 a financial management status report and a governmentwide 5-year financial management plan.
+* (a)(1) The Director of the Office of Management and Budget shall prepare and submit to the appropriate committees of the Congress and make available on a website described in section 1122 a financial management status report and a governmentwide 5-year financial management plan.
 
 * (2) A financial management status report under this subsection shall include—
 

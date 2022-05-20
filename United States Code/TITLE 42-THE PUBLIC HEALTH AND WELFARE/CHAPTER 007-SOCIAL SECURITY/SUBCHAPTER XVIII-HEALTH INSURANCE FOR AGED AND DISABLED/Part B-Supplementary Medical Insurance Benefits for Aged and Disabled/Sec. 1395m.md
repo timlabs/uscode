@@ -320,7 +320,7 @@
       * Subject to clause (ii), the Secretary may establish separate classes for any item of oxygen and oxygen equipment and separate national limited monthly payment rates for each of such classes.
 
     * #### (ii) Budget neutrality
-      * The Secretary may take actions under clause (i) only to the extent such actions do not result in expenditures for any year to be more or less than the expenditures which would have been made if such actions had not been taken.
+      * The Secretary may take actions under clause (i) only to the extent such actions do not result in expenditures for any year to be more or less than the expenditures which would have been made if such actions had not been taken. The requirement of the preceding sentence shall not apply beginning with the second calendar quarter beginning on or after December 27, 2020.
 
 * #### (10) Exceptions and adjustments
   * #### (A) Areas outside continental United States
@@ -722,14 +722,14 @@
   * &nbsp;payment under this part shall be based on the lesser of the amount under the fee schedule that would apply to such services if they were performed in a hospital outpatient department in an area or the amount under the fee schedule that would apply to such services if they were performed in an ambulatory surgical center in the same area.
 
     * #### (ii) Limitation on coinsurance
-      * Notwithstanding any other provision of this subchapter, in the case of a beneficiary who receives the services described in clause (i)—
+      * Subject to section 1395l(a)(1)(Y) of this title, but notwithstanding any other provision of this subchapter, in the case of a beneficiary who receives the services described in clause (i)—
 
         * (I) in computing the amount of any applicable copayment, the computation of such coinsurance shall be based upon the fee schedule under which payment is made for the services, and
 
         * (II) the amount of such coinsurance is equal to 25 percent of the payment amount under the fee schedule described in subclause (I).
 
   * #### (D) Special rule for detected lesions
-    * If during the course of such screening flexible sigmoidoscopy, a lesion or growth is detected which results in a biopsy or removal of the lesion or growth, payment under this part shall not be made for the screening flexible sigmoidoscopy but shall be made for the procedure classified as a flexible sigmoidoscopy with such biopsy or removal.
+    * Subject to section 1395l(a)(1)(Y) of this title, if during the course of such screening flexible sigmoidoscopy, a lesion or growth is detected which results in a biopsy or removal of the lesion or growth, payment under this part shall not be made for the screening flexible sigmoidoscopy but shall be made for the procedure classified as a flexible sigmoidoscopy with such biopsy or removal.
 
   * #### (E) Frequency limit
     * No payment may be made under this part for a colorectal cancer screening test consisting of a screening flexible sigmoidoscopy—
@@ -750,14 +750,14 @@
       * Notwithstanding subsections (i)(2)(A) and (t) of section 1395l of this title, in the case of screening colonoscopy services furnished on or after January 1, 1999, that are performed in an ambulatory surgical center or a hospital outpatient department, payment under this part shall be based on the lesser of the amount under the fee schedule that would apply to such services if they were performed in a hospital outpatient department in an area or the amount under the fee schedule that would apply to such services if they were performed in an ambulatory surgical center in the same area.
 
     * #### (ii) Limitation on coinsurance
-      * Notwithstanding any other provision of this subchapter, in the case of a beneficiary who receives the services described in clause (i)—
+      * Subject to section 1395l(a)(1)(Y) of this title, but notwithstanding any other provision of this subchapter, in the case of a beneficiary who receives the services described in clause (i)—
 
         * (I) in computing the amount of any applicable coinsurance, the computation of such coinsurance shall be based upon the fee schedule under which payment is made for the services, and
 
         * (II) the amount of such coinsurance is equal to 25 percent of the payment amount under the fee schedule described in subclause (I).
 
   * #### (D) Special rule for detected lesions
-    * If during the course of such screening colonoscopy, a lesion or growth is detected which results in a biopsy or removal of the lesion or growth, payment under this part shall not be made for the screening colonoscopy but shall be made for the procedure classified as a colonoscopy with such biopsy or removal.
+    * Subject to section 1395l(a)(1)(Y) of this title, if during the course of such screening colonoscopy, a lesion or growth is detected which results in a biopsy or removal of the lesion or growth, payment under this part shall not be made for the screening colonoscopy but shall be made for the procedure classified as a colonoscopy with such biopsy or removal.
 
   * #### (E) Frequency limit
     * No payment may be made under this part for a colorectal cancer screening test consisting of a screening colonoscopy for individuals at high risk for colorectal cancer if the procedure is performed within the 23 months after a previous screening colonoscopy or for other individuals if the procedure is performed within the 119 months after a previous screening colonoscopy or within 47 months after a previous screening flexible sigmoidoscopy.
@@ -1394,11 +1394,11 @@
 
 #### (m) Payment for telehealth services
 * #### (1) In general
-  * The Secretary shall pay for telehealth services that are furnished via a telecommunications system by a physician (as defined in section 1395x(r) of this title) or a practitioner (described in section 1395u(b)(18)(C) of this title) to an eligible telehealth individual enrolled under this part notwithstanding that the individual physician or practitioner providing the telehealth service is not at the same location as the beneficiary. For purposes of the preceding sentence, in the case of any Federal telemedicine demonstration program conducted in Alaska or Hawaii, the term "telecommunications system" includes store-and-forward technologies that provide for the asynchronous transmission of health care information in single or multimedia formats.
+  * Subject to paragraph (8), the Secretary shall pay for telehealth services that are furnished via a telecommunications system by a physician (as defined in section 1395x(r) of this title) or a practitioner (described in section 1395u(b)(18)(C) of this title) to an eligible telehealth individual enrolled under this part notwithstanding that the individual physician or practitioner providing the telehealth service is not at the same location as the beneficiary. For purposes of the preceding sentence, in the case of any Federal telemedicine demonstration program conducted in Alaska or Hawaii, the term "telecommunications system" includes store-and-forward technologies that provide for the asynchronous transmission of health care information in single or multimedia formats.
 
 * #### (2) Payment amount
   * #### (A) Distant site
-    * The Secretary shall pay to a physician or practitioner located at a distant site that furnishes a telehealth service to an eligible telehealth individual an amount equal to the amount that such physician or practitioner would have been paid under this subchapter had such service been furnished without the use of a telecommunications system.
+    * Subject to paragraph (8), the Secretary shall pay to a physician or practitioner located at a distant site that furnishes a telehealth service to an eligible telehealth individual an amount equal to the amount that such physician or practitioner would have been paid under this subchapter had such service been furnished without the use of a telecommunications system.
 
   * #### (B) Facility fee for originating site
     * #### (i) In general
@@ -1425,7 +1425,7 @@
   * For purposes of this subsection:
 
   * #### (A) Distant site
-    * The term "distant site" means the site at which the physician or practitioner is located at the time the service is provided via a telecommunications system.
+    * Subject to paragraph (8), the term "distant site" means the site at which the physician or practitioner is located at the time the service is provided via a telecommunications system.
 
   * #### (B) Eligible telehealth individual
     * The term "eligible telehealth individual" means an individual enrolled under this part who receives a telehealth service furnished at an originating site.
@@ -1463,6 +1463,8 @@
 
         * (X) The home of an individual, but only for purposes of section 1395rr(b)(3)(B) of this title or telehealth services described in paragraph (7).
 
+        * (XI) A rural emergency hospital (as defined in section 1395x(kkk)(2) of this title).
+
   * #### (D) Physician
     * The term "physician" has the meaning given that term in section 1395x(r) of this title.
 
@@ -1471,7 +1473,7 @@
 
   * #### (F) Telehealth service
     * #### (i) In general
-      * The term "telehealth service" means professional consultations, office visits, and office psychiatry services (identified as of July 1, 2000, by HCPCS codes 99241–99275, 99201–99215, 90804–90809, and 90862 (and as subsequently modified by the Secretary)), and any additional service specified by the Secretary.
+      * Subject to paragraph (8), the term "telehealth service" means professional consultations, office visits, and office psychiatry services (identified as of July 1, 2000, by HCPCS codes 99241–99275, 99201–99215, 90804–90809, and 90862 (and as subsequently modified by the Secretary)), and any additional service specified by the Secretary.
 
     * #### (ii) Yearly update
       * The Secretary shall establish a process that provides, on an annual basis, for the addition or deletion of services (and HCPCS codes), as appropriate, to those specified in clause (i) for authorized payment under paragraph (1).
@@ -1489,8 +1491,45 @@
   * #### (C) No originating site facility fee for new sites
     * No facility fee shall be paid under paragraph (2)(B) to an originating site with respect to a telehealth service described in subparagraph (A) if the originating site does not otherwise meet the requirements for an originating site under paragraph (4)(C).
 
-* #### (7) Treatment of substance use disorder services furnished through telehealth
-  * The geographic requirements described in paragraph (4)(C)(i) shall not apply with respect to telehealth services furnished on or after July 1, 2019, to an eligible telehealth individual with a substance use disorder diagnosis for purposes of treatment of such disorder or co-occurring mental health disorder, as determined by the Secretary, at an originating site described in paragraph (4)(C)(ii) (other than an originating site described in subclause (IX) of such paragraph).
+* #### (7) Treatment of substance use disorder services and mental health services furnished through telehealth
+  * #### (A) In general
+    * The geographic requirements described in paragraph (4)(C)(i) shall not apply with respect to telehealth services furnished on or after July 1, 2019, to an eligible telehealth individual with a substance use disorder diagnosis for purposes of treatment of such disorder or co-occurring mental health disorder, as determined by the Secretary, or, on or after the first day after the end of the emergency period described in section 1320b–5(g)(1)(B) of this title, subject to subparagraph (B), to an eligible telehealth individual for purposes of diagnosis, evaluation, or treatment of a mental health disorder, as determined by the Secretary, at an originating site described in paragraph (4)(C)(ii) (other than an originating site described in subclause (IX) of such paragraph).
+
+  * #### (B) Requirements for mental health services furnished through telehealth
+    * #### (i) In general
+      * Payment may not be made under this paragraph for telehealth services furnished by a physician or practitioner to an eligible telehealth individual for purposes of diagnosis, evaluation, or treatment of a mental health disorder unless such physician or practitioner furnishes an item or service in person, without the use of telehealth, for which payment is made under this subchapter (or would have been made under this subchapter if such individual were entitled to, or enrolled for, benefits under this subchapter at the time such item or service is furnished)—
+
+        * (I) within the 6-month period prior to the first time such physician or practitioner furnishes such a telehealth service to the eligible telehealth individual; and
+
+        * (II) during subsequent periods in which such physician or practitioner furnishes such telehealth services to the eligible telehealth individual, at such times as the Secretary determines appropriate.
+
+    * #### (ii) Clarification
+      * This subparagraph shall not apply if payment would otherwise be allowed—
+
+        * (I) under this paragraph (with respect to telehealth services furnished to an eligible telehealth individual with a substance use disorder diagnosis for purposes of treatment of such disorder or co-occurring mental health disorder); or
+
+        * (II) under this subsection without application of this paragraph.
+
+* #### (8) Enhancing telehealth services for Federally qualified health centers and rural health clinics during emergency period
+  * #### (A) In general
+    * During the emergency period described in section 1320b–5(g)(1)(B) of this title—
+
+      * (i) the Secretary shall pay for telehealth services that are furnished via a telecommunications system by a Federally qualified health center or a rural health clinic to an eligible telehealth individual enrolled under this part notwithstanding that the Federally qualified health center or rural clinic providing the telehealth service is not at the same location as the beneficiary;
+
+      * (ii) the amount of payment to a Federally qualified health center or rural health clinic that serves as a distant site for such a telehealth service shall be determined under subparagraph (B); and
+
+      * (iii) for purposes of this subsection—
+
+        * (I) the term "distant site" includes a Federally qualified health center or rural health clinic that furnishes a telehealth service to an eligible telehealth individual; and
+
+        * (II) the term "telehealth services" includes a rural health clinic service or Federally qualified health center service that is furnished using telehealth to the extent that payment codes corresponding to services identified by the Secretary under clause (i) or (ii) of paragraph (4)(F) are listed on the corresponding claim for such rural health clinic service or Federally qualified health center service.
+
+  * #### (B) Special payment rule
+    * #### (i) In general
+      * The Secretary shall develop and implement payment methods that apply under this subsection to a Federally qualified health center or rural health clinic that serves as a distant site that furnishes a telehealth service to an eligible telehealth individual during such emergency period. Such payment methods shall be based on payment rates that are similar to the national average payment rates for comparable telehealth services under the physician fee schedule under section 1395w–4 of this title. Notwithstanding any other provision of law, the Secretary may implement such payment methods through program instruction or otherwise.
+
+    * #### (ii) Exclusion from FQHC PPS calculation and RHC air calculation
+      * Costs associated with telehealth services shall not be used to determine the amount of payment for Federally qualified health center services under the prospective payment system under subsection (o) or for rural health clinic services under the methodology for all-inclusive rates (established by the Secretary) under section 1395l(a)(3) of this title.
 
 #### (n) Authority to modify or eliminate coverage of certain preventive services
 * Notwithstanding any other provision of this subchapter, effective beginning on January 1, 2010, if the Secretary determines appropriate, the Secretary may—
@@ -1546,6 +1585,9 @@
 
   * #### (D) Funding
     * For purposes of making payments under this paragraph, there are appropriated, out of amounts in the Treasury not otherwise appropriated, $6,000,000, which shall remain available until expended.
+
+* #### (4) Payment for attending physician services furnished by federally qualified health centers to hospice patients
+  * In the case of services described in section 1395d(d)(2)(A)(ii) of this title furnished on or after January 1, 2022, by an attending physician (as defined in section 1395x(dd)(3)(B) of this title, other than a physician or practitioner who is employed by a hospice program) who is employed by or working under contract with a Federally qualified health center, a Federally qualified health center shall be paid for such services under the prospective payment system under this subsection.
 
 #### (p) Quality incentives to promote patient safety and public health in computed tomography
 * #### (1) Quality incentives
@@ -1943,3 +1985,49 @@
 
 * #### (3) Annual updates
   * The Secretary shall provide an update each year to the bundled payment amounts under this subsection.
+
+#### (x) Payment rules relating to rural emergency hospitals
+* #### (1) Payment for rural emergency hospital services
+  * In the case of rural emergency hospital services (as defined in section 1395x(kkk)(1) of this title), furnished by a rural emergency hospital (as defined in section 1395x(kkk)(2) of this title) on or after January 1, 2023, the amount of payment for such services shall be equal to the amount of payment that would otherwise apply under section 1395l(t) of this title for covered OPD services (as defined in section 1395l(t)(1)(B) of this title (other than clause (ii) of such section)), increased by 5 percent to reflect the higher costs incurred by such hospitals, and shall include the application of any copayment amount determined under section 1395l(t)(8) of this title as if such increase had not occurred.
+
+* #### (2) Additional facility payment
+  * #### (A) In general
+    * The Secretary shall make monthly payments to a rural emergency hospital in an amount that is equal to 1/12 of the annual additional facility payment specified in subparagraph (B).
+
+  * #### (B) Annual additional facility payment amount
+    * The annual additional facility payment amount specified in this subparagraph is—
+
+      * (i) for 2023, a Medicare subsidy amount determined under subparagraph (C); and
+
+      * (ii) for 2024 and each subsequent year, the amount determined under this subparagraph for the preceding year, increased by the hospital market basket percentage increase.
+
+  * #### (C) Determination of medicare subsidy amount
+    * For purposes of subparagraph (B)(i), the Medicare subsidy amount determined under this subparagraph is an amount equal to—
+
+      * (i) the excess (if any) of—
+
+        * (I) the total amount that the Secretary determines was paid under this subchapter to all critical access hospitals in 2019; over
+
+        * (II) the estimated total amount that the Secretary determines would have been paid under this subchapter to such hospitals in 2019 if payment were made for inpatient hospital, outpatient hospital, and skilled nursing facility services under the applicable prospective payment systems for such services during such year; divided by
+
+
+      * (ii) the total number of such hospitals in 2019.
+
+  * #### (D) Reporting on use of the additional facility payment
+    * A rural emergency hospital receiving the additional facility payment under this paragraph shall maintain detailed information as specified by the Secretary as to how the facility has used the additional facility payments. Such information shall be made available to the Secretary upon request.
+
+* #### (3) Payment for ambulance services
+  * For provisions relating to payment for ambulance services furnished by an entity owned and operated by a rural emergency hospital, see subsection (l).
+
+* #### (4) Payment for post-hospital extended care services
+  * For provisions relating to payment for post-hospital extended care services furnished by a rural emergency hospital that has a unit that is a distinct part licensed as a skilled nursing facility, see section 1395yy(e) of this title.
+
+* #### (5) Source of payments
+  * #### (A) In general
+    * Except as provided in subparagraph (B), payments under this subsection shall be made from the Federal Supplementary Medical Insurance Trust Fund under section 1395t of this title.
+
+  * #### (B) Additional facility payment and post-hospital extended care services
+    * Payments under paragraph (2) shall be made from the Federal Hospital Insurance Trust Fund under section 1395i of this title.
+
+#### (y) Payment for attending physician services furnished by rural health clinics to hospice patients
+* In the case of services described in section 1395d(d)(2)(A)(ii) of this title furnished on or after January 1, 2022, by an attending physician (as defined in section 1395x(dd)(3)(B) of this title, other than a physician or practitioner who is employed by a hospice program) who is employed by or working under contract with a rural health clinic, a rural health clinic shall be paid for such services under the methodology for all-inclusive rates (established by the Secretary) under section 1395l(a)(3) of this title, subject to the limits described in section 1395l(f) of this title.

@@ -5,9 +5,9 @@
 * There is hereby imposed on all wines (including imitation, substandard, or artificial wine, and compounds sold as wine) having not in excess of 24 percent of alcohol by volume, in bond in, produced in, or imported into, the United States, taxes at the rates shown in subsection (b), such taxes to be determined as of the time of removal for consumption or sale. All wines containing more than 24 percent of alcohol by volume shall be classed as distilled spirits and taxed accordingly. Subject to subsection (h), still wines shall include those wines containing not more than 0.392 gram of carbon dioxide per hundred milliliters of wine; except that the Secretary may by regulations prescribe such tolerances to this maximum limitation as may be reasonably necessary in good commercial practice.
 
 #### (b) Rates of tax
-* (1) On still wines containing not more than 14 percent (16 percent in the case of wine removed after December 31, 2017, and before January 1, 2021 of alcohol by volume, $1.07 per wine gallon;
+* (1) On still wines containing not more than 16 percent of alcohol by volume, $1.07 per wine gallon;
 
-* (2) On still wines containing more than 14 percent (16 percent in the case of wine removed after December 31, 2017, and before January 1, 2021 and not exceeding 21 percent of alcohol by volume, $1.57 per wine gallon;
+* (2) On still wines containing more than 16 percent and not exceeding 21 percent of alcohol by volume, $1.57 per wine gallon;
 
 * (3) On still wines containing more than 21 percent and not exceeding 24 percent of alcohol by volume, $3.15 per wine gallon;
 
@@ -17,27 +17,43 @@
 
 * (6) On hard cider, 22.6 cents per wine gallon.
 
-#### (c) Credit for small domestic producers
+#### (c) Credit
 * #### (1) Allowance of credit
-  * Except as provided in paragraph (2), in the case of a person who produces not more than 250,000 wine gallons of wine during the calendar year, there shall be allowed as a credit against any tax imposed by this title (other than chapters 2, 21, and 22) of 90 cents per wine gallon on the 1st 100,000 wine gallons of wine (other than wine described in subsection (b)(4)) which are removed during such year for consumption or sale and which have been produced at qualified facilities in the United States. In the case of wine described in subsection (b)(6), the preceding sentence shall be applied by substituting "5.6 cents" for "90 cents".
+  * #### (A) In general
+    * There shall be allowed as a credit against any tax imposed by this title (other than chapters 2, 21, and 22) an amount equal to the sum of—
 
-* #### (2) Reduction in credit
-  * The credit allowable by paragraph (1) shall be reduced (but not below zero) by 1 percent for each 1,000 wine gallons of wine produced in excess of 150,000 wine gallons of wine during the calendar year.
+      * (i) $1 per wine gallon on the first 30,000 wine gallons of wine, plus
 
-* #### (3) Time for determining and allowing credit
+      * (ii) 90 cents per wine gallon on the first 100,000 wine gallons of wine to which clause (i) does not apply, plus
+
+      * (iii) 53.5 cents per wine gallon on the first 620,000 wine gallons of wine to which clauses (i) and (ii) do not apply,
+
+
+  * which are produced by the producer and removed during the calendar year for consumption or sale, or which are imported by the importer into the United States during the calendar year but only if the importer is an electing importer under paragraph (6) and the wine gallons of wine have been assigned to the importer pursuant to such paragraph.
+
+  * #### (B) Adjustment of credit for hard cider
+    * In the case of wine described in subsection (b)(6), subparagraph (A) of this paragraph shall be applied—
+
+      * (i) in clause (i) of such subparagraph, by substituting "6.2 cents" for "$1",
+
+      * (ii) in clause (ii) of such subparagraph, by substituting "5.6 cents" for "90 cents", and
+
+      * (iii) in clause (iii) of such subparagraph, by substituting "3.3 cents" for "53.5 cents".
+
+* #### (2) Time for determining and allowing credit
   * The credit allowable by paragraph (1)—
 
     * (A) shall be determined at the same time the tax is determined under subsection (a) of this section, and
 
     * (B) shall be allowable at the time any tax described in paragraph (1) is payable as if the credit allowable by this subsection constituted a reduction in the rate of such tax.
 
-* #### (4) Controlled groups
+* #### (3) Controlled groups
   * Rules similar to rules of section 5051(a)(5) shall apply for purposes of this subsection.
 
-* #### (5) Denial of deduction
+* #### (4) Denial of deduction
   * Any deduction under subtitle A with respect to any tax against which a credit is allowed under this subsection shall only be for the amount of such tax as reduced by such credit.
 
-* #### (6) Credit for transferee in bond
+* #### (5) Credit for transferee in bond
   * If—
 
     * (A) wine produced by any person would be eligible for any credit under paragraph (1) if removed by such person during the calendar year,
@@ -50,43 +66,14 @@
 * then, the transferee (and not the producer) shall be allowed the credit under paragraph (1) which would be allowed to the producer if the wine removed by the transferee had been removed by the producer on that date.
 
 * #### (7) Regulations
-  * The Secretary may prescribe such regulations as may be necessary to carry out the purposes of this subsection, including regulations—
+  * The Secretary may prescribe such regulations as may be necessary to carry out the purposes of this subsection, including regulations to ensure proper calculation of the credit provided in this subsection.
 
-    * (A) to prevent the credit provided in this subsection from benefiting any person who produces more than 250,000 wine gallons of wine during a calendar year, and
-
-    * (B) to assure proper reduction of such credit for persons producing more than 150,000 wine gallons of wine during a calendar year.
-
-* #### (8) Temporary special rule
+* #### (6) Allowance of credit for foreign manufacturers and importers
   * #### (A) In general
-    * In the case of wine removed after December 31, 2017, and before January 1, 2021, paragraphs (1) and (2) shall not apply and there shall be allowed as a credit against any tax imposed by this title (other than chapters 2, 21, and 22) an amount equal to the sum of—
-
-      * (i) $1 per wine gallon on the first 30,000 wine gallons of wine, plus
-
-      * (ii) 90 cents per wine gallon on the first 100,000 wine gallons of wine to which clause (i) does not apply, plus
-
-      * (iii) 53.5 cents per wine gallon on the first 620,000 wine gallons of wine to which clauses (i) and (ii) do not apply,
-
-
-  * which are produced by the producer and removed during the calendar year for consumption or sale, or which are imported by the importer into the United States during the calendar year but only if the importer is an electing importer under paragraph (9) and the wine gallons of wine have been assigned to the importer pursuant to such paragraph.
-
-  * #### (B) Adjustment of credit for hard cider
-    * In the case of wine described in subsection (b)(6), subparagraph (A) of this paragraph shall be applied—
-
-      * (i) in clause (i) of such subparagraph, by substituting "6.2 cents" for "$1",
-
-      * (ii) in clause (ii) of such subparagraph, by substituting "5.6 cents" for "90 cents", and
-
-      * (iii) in clause (iii) of such subparagraph, by substituting "3.3 cents" for "53.5 cents".
-
-  * #### (C) Application of certain rules
-    * Paragraphs (3) and (6) shall be applied by substituting "paragraph (1) or (8)" for "paragraph (1)" each place it appears therein.
-
-* #### (9) Allowance of credit for foreign manufacturers and importers
-  * #### (A) In general
-    * In the case of any wine gallons of wine which have been produced outside of the United States and imported into the United States, the credit allowable under paragraph (8) (referred to in this paragraph as the "tax credit") may be assigned by the person who produced such wine (referred to in this paragraph as the "foreign producer"), provided that such person makes an election described in subparagraph (B)(ii), to any electing importer of such wine gallons pursuant to the requirements established by the Secretary under subparagraph (B).
+    * In the case of any wine gallons of wine which have been produced outside of the United States and imported into the United States, the credit allowable under paragraph (1) (referred to in this paragraph as the "tax credit") may be assigned by the person who produced such wine (referred to in this paragraph as the "foreign producer"), provided that such person makes an election described in subparagraph (B)(ii), to any electing importer of such wine gallons pursuant to the requirements established by the Secretary under subparagraph (B).
 
   * #### (B) Assignment
-    * The Secretary shall, through such rules, regulations, and procedures as are determined appropriate, establish procedures for assignment of the tax credit provided under this paragraph, which shall include—
+    * The Secretary of the Treasury, after consultation with the Secretary of the Department of Homeland Security, shall, through such rules, regulations, and procedures as are determined appropriate, establish procedures for assignment of the tax credit provided under this paragraph, which shall include—
 
       * (i) a limitation to ensure that the number of wine gallons of wine for which the tax credit has been assigned by a foreign producer—
 
@@ -102,7 +89,7 @@
       * (iv) procedures that allow for revocation of eligibility of the foreign producer and the importer for the tax credit provided under this paragraph in the case of any erroneous or fraudulent information provided under clause (iii) which the Secretary deems to be material to qualifying for such credit.
 
   * #### (C) Controlled group
-    * For purposes of this section, any importer making an election described in subparagraph (B)(ii) shall be deemed to be a member of the controlled group of the foreign producer, as described under paragraph (4).
+    * For purposes of this section, any importer making an election described in subparagraph (B)(ii) shall be deemed to be a member of the controlled group of the foreign producer, as described under paragraph (3).
 
 #### (d) Wine gallon
 * For the purpose of this chapter, the term "wine gallon" means a United States gallon of liquid measure equivalent to the volume of 231 cubic inches. On lesser quantities the tax shall be paid proportionately (fractions of less than one-tenth gallon being converted to the nearest one-tenth gallon, and five-hundredths gallon being converted to the next full one-tenth gallon).
@@ -141,7 +128,7 @@
   * #### (A) Mead
     * For purposes of this section, the term "mead" means a wine—
 
-      * (i) containing not more than 0.64 gram of carbon dioxide per hundred milliliters of wine, except that the Secretary shall by regulations prescribe such tolerances to this limitation as may be reasonably necessary in good commercial practice,
+      * (i) containing not more than 0.64 gram of carbon dioxide per hundred milliliters of wine, except that the Secretary may by regulations prescribe such tolerances to this limitation as may be reasonably necessary in good commercial practice,
 
       * (ii) which is derived solely from honey and water,
 
@@ -152,7 +139,7 @@
   * #### (B) Low alcohol by volume wine
     * For purposes of this section, the term "low alcohol by volume wine" means a wine—
 
-      * (i) containing not more than 0.64 gram of carbon dioxide per hundred milliliters of wine, except that the Secretary shall by regulations prescribe such tolerances to this limitation as may be reasonably necessary in good commercial practice,
+      * (i) containing not more than 0.64 gram of carbon dioxide per hundred milliliters of wine, except that the Secretary may by regulations prescribe such tolerances to this limitation as may be reasonably necessary in good commercial practice,
 
       * (ii) which is derived—
 
@@ -164,9 +151,6 @@
       * (iii) which contains no fruit product or fruit flavoring other than grape, and
 
       * (iv) which contains less than 8.5 percent alcohol by volume.
-
-* #### (3) Termination
-  * This subsection shall not apply to wine removed after December 31, 2020.
 
 ### §5042. Exemption from tax
 #### (a) Tax-free production

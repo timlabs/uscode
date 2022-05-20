@@ -335,7 +335,7 @@
 * (c) If a person fails to pay an assessment of a civil penalty after it has become final, the Secretary may refer the matter to the Attorney General for collection in an appropriate district court of the United States.
 
 ### §2109. Public vessels
-* Except as otherwise provided, this subtitle does not apply to a public vessel of the United States. However, this subtitle does apply to a vessel (except a Saint Lawrence Seaway Development Corporation vessel) owned or operated by the Department of Transportation or by any corporation organized or controlled by the Department.
+* Except as otherwise provided, this subtitle does not apply to a public vessel of the United States. However, this subtitle does apply to a vessel (except a Great Lakes St. Lawrence Seaway Development Corporation vessel) owned or operated by the Department of Transportation or by any corporation organized or controlled by the Department.
 
 ### §2110. Fees
 * (a)(1) Except as otherwise provided in this title, the Secretary shall establish a fee or charge for a service or thing of value provided by the Secretary under this subtitle, in accordance with section 9701 of title 31.
@@ -445,7 +445,7 @@
 * Any person who fails to implement or conduct, or who otherwise fails to comply with the requirements prescribed by the Secretary for, chemical testing for dangerous drugs or for evidence of alcohol use, as prescribed under this subtitle or a regulation prescribed by the Secretary to carry out the provisions of this subtitle, is liable to the United States Government for a civil penalty of not more than $5,000 for each violation. Each day of a continuing violation shall constitute a separate violation.
 
 ### §2116. Marine safety strategy, goals, and performance assessments
-* (a) LONG-TERM STRATEGY AND GOALS.—In conjunction with existing federally required strategic planning efforts, the Secretary shall develop a long-term strategy for improving vessel safety and the safety of individuals on vessels. The strategy shall include the issuance of a triennial plan and schedule for achieving the following goals:
+* (a) LONG-TERM STRATEGY AND GOALS.—In conjunction with existing federally required strategic planning efforts, the Secretary shall develop a long-term strategy for improving vessel safety and the safety of individuals on vessels. The 5-year strategy shall include the issuance of a plan and schedule for achieving the following goals:
 
   * (1) Reducing the number and rates of marine casualties.
 
@@ -456,9 +456,9 @@
   * (4) Improving research efforts to enhance and promote vessel and operator safety and performance.
 
 
-* (b) CONTENTS OF STRATEGY AND TRIENNIAL PLANS.—
+* (b) 5–YEAR STRATEGY AND PLAN.—
 
-  * (1) MEASURABLE GOALS.—The strategy and triennial plans shall include specific numeric or measurable goals designed to achieve the goals set forth in subsection (a). The purposes of the numeric or measurable goals are the following:
+  * (1) MEASURABLE GOALS.—The 5-year strategy and plan shall include specific numeric or measurable goals designed to achieve the goals set forth in subsection (a). The purposes of the numeric or measurable goals are the following:
 
     * (A) To increase the number of safety examinations on all high-risk vessels.
 
@@ -469,28 +469,28 @@
     * (D) To provide for a sufficient number of Coast Guard marine safety personnel, and provide adequate facilities and equipment to carry out the functions referred to in section 93(c) of title 14.
 
 
-  * (2) RESOURCE NEEDS.—The strategy and triennial plans shall include estimates of—
+  * (2) RESOURCE NEEDS.—The 5-year strategy and plan shall include estimates of—
 
-    * (A) the funds and staff resources needed to accomplish each activity included in the strategy and plans; and
+    * (A) the funds and staff resources needed to accomplish each activity included in the strategy and plan; and
 
     * (B) the staff skills and training needed for timely and effective accomplishment of each goal.
 
 
-* (c) SUBMISSION WITH THE PRESIDENT'S BUDGET.—Beginning with fiscal year 2020 and triennially thereafter, the Secretary shall submit to Congress the strategy and triennial plan not later than 60 days following the transmission of the President's budget submission under section 1105 of title 31.
+* (c) SUBMISSION WITH THE PRESIDENT'S BUDGET.—Not later than 5 years after the date of the enactment of the Elijah E. Cummings Coast Guard Authorization Act of 2020, and every 5 years thereafter, the Secretary shall submit to Congress the strategy and plan not later than 60 days following the transmission of the President's budget submission under section 1105 of title 31.
 
 * (d) ACHIEVEMENT OF GOALS.—
 
-  * (1) PROGRESS ASSESSMENT.—No less frequently than semiannually, the Commandant shall assess the progress of the Coast Guard toward achieving the goals set forth in subsection (b). The Commandant shall convey the Commandant's assessment to the employees of the marine safety workforce and shall identify any deficiencies that should be remedied before the next progress assessment.
+  * (1) PROGRESS ASSESSMENT.—In conjunction with the submission of the 5-year strategy and plan, the Commandant shall assess the progress of the Coast Guard toward achieving the goals set forth in subsection (b). The Commandant shall convey the Commandant's assessment to the employees of the marine safety workforce and shall identify any deficiencies that should be remedied before the next progress assessment.
 
-  * (2) REPORT TO CONGRESS.—The Secretary shall report triennially to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate—
+  * (2) PERIODIC BRIEFINGS.—The Secretary shall periodically brief the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representative—
 
-    * (A) on the performance of the marine safety program in achieving the goals of the marine safety strategy and annual plan under subsection (a) for the year covered by the report;
+    * (A) on the performance of the marine safety program in achieving the goals of the marine safety strategy and plan under subsection (a) for the period covered by the briefing;
 
     * (B) on the program's mission performance in achieving numerical measurable goals established under subsection (b), including—
 
       * (i) the number of civilian and military Coast Guard personnel assigned to marine safety positions; and
 
-      * (ii) an identification of marine safety positions that are understaffed to meet the workload required to accomplish each activity included in the strategy and plans under subsection (a); and
+      * (ii) an identification of marine safety positions that are understaffed to meet the workload required to accomplish each activity included in the strategy and plan under subsection (a); and
 
 
     * (C) recommendations on how to improve performance of the program.

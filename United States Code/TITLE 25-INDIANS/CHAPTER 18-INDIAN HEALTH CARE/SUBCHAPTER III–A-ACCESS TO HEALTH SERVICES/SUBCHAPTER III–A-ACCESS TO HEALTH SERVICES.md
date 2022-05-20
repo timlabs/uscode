@@ -124,7 +124,7 @@
 ### §1645. Sharing arrangements with Federal agencies
 #### (a) Authority
 * #### (1) In general
-  * The Secretary may enter into (or expand) arrangements for the sharing of medical facilities and services between the Service, Indian tribes, and tribal organizations and the Department of Veterans Affairs and the Department of Defense.
+  * The Secretary may enter into (or expand) arrangements for the sharing of medical facilities and services between the Service, Indian tribes, urban Indian organizations, and tribal organizations and the Department of Veterans Affairs and the Department of Defense.
 
 * #### (2) Consultation by Secretary required
   * The Secretary may not finalize any arrangement between the Service and a Department described in paragraph (1) without first consulting with the Indian tribes which will be significantly affected by the arrangement.
@@ -143,7 +143,7 @@
   * (5) the eligibility of any Indian who is a veteran to receive health services through the Department of Veterans Affairs.
 
 #### (c) Reimbursement
-* The Service, Indian tribe, or tribal organization shall be reimbursed by the Department of Veterans Affairs or the Department of Defense (as the case may be) where services are provided through the Service, an Indian tribe, or a tribal organization to beneficiaries eligible for services from either such Department, notwithstanding any other provision of law.
+* The Service, Indian tribe, urban Indian organization, or tribal organization shall be reimbursed by the Department of Veterans Affairs or the Department of Defense (as the case may be) where services are provided through the Service, an Indian tribe, an urban Indian organization, or a tribal organization to beneficiaries eligible for services from either such Department, notwithstanding any other provision of law, regardless of whether such services are provided directly by the Service, an Indian tribe, or tribal organization, through purchased/referred care, or through a contract for travel described in section 1621l(b) of this title.
 
 #### (d) Construction
 * Nothing in this section may be construed as creating any right of a non-Indian veteran to obtain health services from the Service.
@@ -215,7 +215,7 @@
 * For provisions related to nondiscrimination against providers operated by the Service, an Indian tribe, tribal organization, or urban Indian organization, see section 1320b–9(c) of title 42.
 
 ### §1647b. Access to Federal insurance
-* Notwithstanding the provisions of title 5, Executive order, or administrative regulation, an Indian tribe or tribal organization carrying out programs under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) or an urban Indian organization carrying out programs under subchapter IV of this chapter shall be entitled to purchase coverage, rights, and benefits for the employees of such Indian tribe or tribal organization, or urban Indian organization, under chapter 89 of title 5 and chapter 87 of such title if necessary employee deductions and agency contributions in payment for the coverage, rights, and benefits for the period of employment with such Indian tribe or tribal organization, or urban Indian organization, are currently deposited in the applicable Employee's Fund under such title.
+* Notwithstanding the provisions of title 5, Executive order, or administrative regulation, an Indian tribe or tribal organization carrying out programs under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5301 et seq.) or the Tribally Controlled Schools Act of 1988 (25 U.S.C. 2501 et seq.) or an urban Indian organization carrying out programs under subchapter IV of this chapter shall be entitled to purchase coverage, rights, and benefits for the employees of such Indian tribe or tribal organization, or urban Indian organization, under chapter 89 of title 5 and chapter 87 of such title if necessary employee deductions and agency contributions in payment for the coverage, rights, and benefits for the period of employment with such Indian tribe or tribal organization, or urban Indian organization, are currently deposited in the applicable Employee's Fund under such title.
 
 ### §1647c. General exceptions
 * The requirements of this subchapter shall not apply to any excepted benefits described in paragraph (1)(A) or (3) of section 300gg–91(c) of title 42.

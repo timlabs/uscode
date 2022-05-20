@@ -33,18 +33,23 @@
 
 * (h) The Court of International Trade shall have exclusive jurisdiction of any civil action commenced to review, prior to the importation of the goods involved, a ruling issued by the Secretary of the Treasury, or a refusal to issue or change such a ruling, relating to classification, valuation, rate of duty, marking, restricted merchandise, entry requirements, drawbacks, vessel repairs, or similar matters, but only if the party commencing the civil action demonstrates to the court that he would be irreparably harmed unless given an opportunity to obtain judicial review prior to such importation.
 
-* (i) In addition to the jurisdiction conferred upon the Court of International Trade by subsections (a)–(h) of this section and subject to the exception set forth in subsection (j) of this section, the Court of International Trade shall have exclusive jurisdiction of any civil action commenced against the United States, its agencies, or its officers, that arises out of any law of the United States providing for—
+* (i)(1) In addition to the jurisdiction conferred upon the Court of International Trade by subsections (a)–(h) of this section and subject to the exception set forth in subsection (j) of this section, the Court of International Trade shall have exclusive jurisdiction of any civil action commenced against the United States, its agencies, or its officers, that arises out of any law of the United States providing for—
 
-  * (1) revenue from imports or tonnage;
+  * (A) revenue from imports or tonnage;
 
-  * (2) tariffs, duties, fees, or other taxes on the importation of merchandise for reasons other than the raising of revenue;
+  * (B) tariffs, duties, fees, or other taxes on the importation of merchandise for reasons other than the raising of revenue;
 
-  * (3) embargoes or other quantitative restrictions on the importation of merchandise for reasons other than the protection of the public health or safety; or
+  * (C) embargoes or other quantitative restrictions on the importation of merchandise for reasons other than the protection of the public health or safety; or
 
-  * (4) administration and enforcement with respect to the matters referred to in paragraphs (1)–(3) of this subsection and subsections (a)–(h) of this section.
+  * (D) administration and enforcement with respect to the matters referred to in subparagraphs (A) through (C) of this paragraph and subsections (a)–(h) of this section.
 
 
-* This subsection shall not confer jurisdiction over an antidumping or countervailing duty determination which is reviewable either by the Court of International Trade under section 516A(a) of the Tariff Act of 1930 or by a binational panel under article 1904 of the North American Free Trade Agreement or the United States-Canada Free-Trade Agreement and section 516A(g) of the Tariff Act of 1930.
+* (2) This subsection shall not confer jurisdiction over an antidumping or countervailing duty determination which is reviewable by—
+
+  * (A) the Court of International Trade under section 516A(a) of the Tariff Act of 1930 (19 U.S.C. 1516a(a)); or
+
+  * (B) a binational panel under section 516A(g) of the Tariff Act of 1930 (19 U.S.C. 1516a(g)).
+
 
 * (j) The Court of International Trade shall not have jurisdiction of any civil action arising under section 305 of the Tariff Act of 1930.
 
@@ -60,7 +65,7 @@
 ### §1583. Counterclaims, cross-claims, and third-party actions
 * In any civil action in the Court of International Trade, the court shall have exclusive jurisdiction to render judgment upon any counterclaim, cross-claim, or third-party action of any party, if (1) such claim or action involves the imported merchandise that is the subject matter of such civil action, or (2) such claim or action is to recover upon a bond or customs duties relating to such merchandise.
 
-### §1584. Civil actions under the North American Free Trade Agreement or the United States-Canada Free-Trade Agreement
+### §1584. Civil actions under the United States-Canada Free-Trade Agreement or the USMCA
 * The United States Court of International Trade shall have exclusive jurisdiction of any civil action which arises under section 777(f) of the Tariff Act of 1930 and is commenced by the United States to enforce administrative sanctions levied for violation of a protective order or an undertaking.
 
 ### §1585. Powers in law and equity

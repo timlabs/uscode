@@ -203,7 +203,7 @@
 
 * (4) In any civil action described in section 1581(h) of this title, the Court of International Trade may only order the appropriate declaratory relief.
 
-* (5) In any civil action involving an antidumping or countervailing duty proceeding regarding a class or kind of merchandise of a free trade area country (as defined in section 516A(f)(10) of the Tariff Act of 1930), as determined by the administering authority, the Court of International Trade may not order declaratory relief.
+* (5) In any civil action involving an antidumping or countervailing duty proceeding regarding a class or kind of merchandise of a free trade area country (as defined in section 516A(f)(9) of the Tariff Act of 1930), as determined by the administering authority, the Court of International Trade may not order declaratory relief.
 
 * (d) If a surety commences a civil action in the Court of International Trade, such surety shall recover only the amount of the liquidated duties, charges, or exactions paid on the entries included in such action. The excess amount of any recovery shall be paid to the importer of record.
 

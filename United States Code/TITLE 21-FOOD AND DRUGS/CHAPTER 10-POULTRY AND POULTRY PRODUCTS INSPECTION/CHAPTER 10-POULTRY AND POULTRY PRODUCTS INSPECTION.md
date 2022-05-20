@@ -571,3 +571,78 @@
 
 * #### (2) Requirement
   * Not later than 18 months after the date of the enactment of this section, the Secretary shall promulgate final regulations in accordance with paragraph (1).
+
+### §473. Grants for improvements to meat and poultry facilities to allow for interstate shipment
+#### (a) In general
+* The Secretary shall make grants to meat and poultry slaughter and processing facilities described in subsection (b) (including such facilities operating under State inspection or such facilities that are exempt from Federal inspection) to assist such facilities with respect to costs incurred in making improvements to such facilities and carrying out other planning activities necessary—
+
+  * (1) to obtain a Federal grant of inspection under the Federal Meat Inspection Act (21 U.S.C. 601 et seq.) or the Poultry Products Inspection Act (21 U.S.C. 451 et seq.), as applicable; or
+
+  * (2) to operate as a State-inspected facility that is compliant with—
+
+    * (A) the Federal Meat Inspection Act (21 U.S.C. 601 et seq.) under the cooperative interstate shipment program established under section 501 of that Act (21 U.S.C. 683); or
+
+    * (B) the Poultry Products Inspection Act (21 U.S.C. 451 et seq.) under the cooperative interstate shipment program established under section 31 of that Act (21 U.S.C. 472).
+
+#### (b) Eligible facilities
+* To be eligible for a grant under this section, a meat or poultry slaughter or processing facility shall be—
+
+  * (1) in operation as of the date on which the facility submits to the Secretary an application for the grant; and
+
+  * (2) seeking—
+
+    * (A) to obtain a Federal grant of inspection described in subsection (a)(1); or
+
+    * (B) to be eligible for inspection under a cooperative interstate shipment program described in subparagraph (A) or (B), as applicable, of subsection (a)(2), in a State that participates in that program.
+
+#### (c) Eligible activities
+* A facility that receives a grant under this section may use the grant amount for—
+
+  * (1) the modernization or expansion of existing facilities;
+
+  * (2) the modernization of equipment;
+
+  * (3) compliance with packaging and labeling requirements under applicable law;
+
+  * (4) compliance with safety requirements under applicable law;
+
+  * (5) the development of processes to ensure food safety; and
+
+  * (6) such other purposes as the Secretary determines to be appropriate.
+
+#### (d) Grant requirements
+* #### (1) Amount
+  * The amount of a grant under this section shall not exceed $200,000.
+
+* #### (2) Condition
+  * As a condition of receiving a grant under this section, a grant recipient shall agree that the grant recipient shall make a payment (or payments) to the Secretary in an amount equal to the amount of the grant if the recipient, within 36 months of receiving such grant—
+
+    * (A) as applicable—
+
+      * (i) is not subject to inspection under the Federal Meat Inspection Act (21 U.S.C. 601 et seq.) or the Poultry Products Inspection Act (21 U.S.C. 451 et seq.), as applicable; or
+
+      * (ii) is not eligible for inspection under a cooperative interstate shipment program described in subparagraph (A) or (B), as applicable, of subsection (a)(2); or
+
+
+    * (B) is not making a good faith effort to be subject to such inspection or to be eligible under such a cooperative interstate shipment program, as applicable.
+
+* #### (3) Matching funds
+  * #### (A) In general
+    * The Secretary shall require a recipient of a grant under this section to provide matching non-Federal funds in an amount equal to the amount of the grant.
+
+  * #### (B) Exception
+    * The Secretary shall not require any recipient of a grant under this section to provide matching funds with respect to a grant awarded in fiscal year 2021.
+
+#### (e) Reports
+* #### (1) Reports on grants made
+  * Beginning not later than 1 year after the date on which the first grant is awarded under this section, and continuing annually thereafter through the year that is 10 years after the date on which the final grant is awarded under this section, the Secretary shall submit to the Committee on Agriculture and the Committee on Appropriations of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry and the Committee on Appropriations of the Senate a report on grants made under this section, including—
+
+    * (A) any facilities that used a grant awarded under this section to carry out eligible activities described in subsection (c) during the year covered by the report; and
+
+    * (B) the operational status of facilities that were awarded grants under this section.
+
+* #### (2) Report on the cooperative interstate shipment program
+  * Beginning not later than 1 year after December 27, 2020, the Secretary shall submit to the Committee on Agriculture and the Committee on Appropriations of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry and the Committee on Appropriations of the Senate a report describing any recommendations, developed in consultation with all States, for possible improvements to the cooperative interstate shipment programs under section 501 of the Federal Meat Inspection Act (21 U.S.C. 683) and section 31 of the Poultry Products Inspection Act (21 U.S.C. 472).
+
+#### (f) Funding
+* Of the funds of the Treasury not otherwise appropriated, there is appropriated to carry out this section $60,000,000 for the period of fiscal years 2021 through 2023, to remain available until expended.

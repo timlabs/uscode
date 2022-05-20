@@ -24,8 +24,8 @@
 ### §1004. Computation of pay and allowances for month or part of month
 * A member of a uniformed service who is entitled to pay and allowances under this title for a continuous period of less than one month is entitled to his pay and allowances for each day of that period at the rate of 1/30 of the monthly amount of his pay and allowances. The thirty-first day of a calendar month may not be excluded from a computation under this section.
 
-### §1005. Army and Air Force: prompt payments required
-* Members of the Army and of the Air Force shall be paid at such times that arrears will at no time be more than two months, unless circumstances make further arrears unavoidable.
+### §1005. Army, Air Force, and Space Force: prompt payments required
+* Members of the Army, the Air Force, and the Space Force shall be paid at such times that arrears will at no time be more than two months, unless circumstances make further arrears unavoidable.
 
 ### §1006. Advance payments
 * (a) Under regulations prescribed by the Secretary concerned, a member of a uniformed service may be paid in advance—
@@ -60,7 +60,7 @@
 ### §1007. Deductions from pay
 * (a) The pay of an officer of an armed force may be withheld, under section 5512 of title 5, only for an indebtedness to the United States admitted by the officer or shown by the judgment of a court, or upon a special order issued in the discretion of the Secretary of Defense (or the Secretary of Homeland Security, in the case of an officer of the Coast Guard when the Coast Guard is not operating as a service in the Navy), or upon the denial of relief of an officer pursuant to section 3527 of title 31.
 
-* (b) An amount due to the United States from an enlisted member of the Army or the Air Force for articles sold to him on credit under section 4621(a)(1) or 9621(a)(1) of title 10, as the case may be, shall be deducted from the next pay due him after the sale is reported.
+* (b) An amount due to the United States from an enlisted member of the Army, the Air Force, or the Space Force for articles sold to the member on credit under section 4621(a)(1) or 9621(a)(1) of title 10, as the case may be, shall be deducted from the next pay due the member after the sale is reported.
 
 * (c)(1) Under regulations prescribed by the Secretary concerned, an amount that a member of the uniformed services is administratively determined to owe the United States or any of its instrumentalities may be deducted from the member's pay in monthly installments.
 
@@ -96,13 +96,13 @@
 
 * (B) Subparagraph (A) shall not apply if the member, after receiving notification of the overpayment, requests or consents to initiation at an earlier date of the collection of the overpayment of the pay or allowances.
 
-* (d) Subject to subsection (c), an amount due the United States from an enlisted member of the Army or the Air Force may be deducted from his pay on final statement, or from his savings on his clothing allowance.
+* (d) Subject to subsection (c), an amount due the United States from an enlisted member of the Army, the Air Force, or the Space Force may be deducted from the member's pay on final statement, or from the member's savings on his clothing allowance.
 
-* (e) The amount of any damage, or cost of repairs, to arms or equipment caused by the abuse or negligence of a member of the Army, Navy, Air Force, or Marine Corps, as the case may be, who had the care of, or was using, the property when it was damaged, shall be deducted from his pay.
+* (e) The amount of any damage, or cost of repairs, to arms or equipment caused by the abuse or negligence of a member of the Army, Navy, Air Force, Marine Corps, or Space Force, as the case may be, who had the care of, or was using, the property when it was damaged, shall be deducted from his pay.
 
-* (f) If, upon final settlement of the accounts of an officer of the Army or the Air Force charged with the issue of an article of military supply, there is a deficiency of that article, or if an article of military supply with whose issue an officer is charged is damaged, the value of the lost article or the amount of the damage shall be charged against the officer and deducted from his monthly pay, unless he shows to the satisfaction of the Secretary of the Army or the Secretary of the Air Force, as the case may be, by one or more affidavits setting forth the circumstances, that he was not at fault.
+* (f) If, upon final settlement of the accounts of an officer of the Army, the Air Force, or the Space Force charged with the issue of an article of military supply, there is a deficiency of that article, or if an article of military supply with whose issue an officer is charged is damaged, the value of the lost article or the amount of the damage shall be charged against the officer and deducted from the officer's monthly pay, unless the officer shows to the satisfaction of the Secretary of the Army or the Secretary of the Air Force, as the case may be, by one or more affidavits setting forth the circumstances, that the officer was not at fault.
 
-* (g) An amount due the United States from an officer of the Army or the Air Force for rations bought on credit, and for articles bought on credit under section 4621(a)(1) or 9621(a)(1) of title 10, shall be deducted from the next pay due that officer after the sale is reported.
+* (g) An amount due the United States from an officer of the Army, the Air Force, or the Space Force for rations bought on credit, and for articles bought on credit under section 4621(a)(1) or 9621(a)(1) of title 10, shall be deducted from the next pay due that officer after the sale is reported.
 
 * (h)(1) Upon request by a service relief society and subject to paragraph (2), an amount owed by a member of the uniformed services to the relief society may be deducted from the pay on final statement of such member and paid to that relief society.
 
@@ -116,7 +116,7 @@
 
 * (2) Amounts deducted under paragraph (1) shall be deposited in the Armed Forces Retirement Home Trust Fund.
 
-* (3) The Secretary of Defense or, in the case of the Coast Guard, the Commandant, after consultation with the Armed Forces Retirement Home Board, shall determine from time to time the amount to be deducted under paragraph (1) from the pay of enlisted members, warrant officers, and limited duty officers on the basis of the financial needs of the Armed Forces Retirement Home. The amount to be deducted may be fixed at different amounts on the basis of grade or length of service, or both.
+* (3) The Secretary of Defense or, in the case of the Coast Guard, the Commandant, after consultation with the Chief Operating Officer of the Armed Forces Retirement Home, shall determine from time to time the amount to be deducted under paragraph (1) from the pay of enlisted members, warrant officers, and limited duty officers on the basis of the financial needs of the Armed Forces Retirement Home. The amount to be deducted may be fixed at different amounts on the basis of grade or length of service, or both.
 
 * (4) This subsection does not apply to an enlisted member, warrant officer, or limited duty officer of a reserve component.
 

@@ -791,6 +791,9 @@
 * #### (3) Administration of employment security and workers' compensation
   * State agencies operating employment security and workers' compensation programs shall have access to information reported by employers pursuant to subsection (b) for the purposes of administering such programs.
 
+* #### (4) Veteran employment
+  * The Secretaries of Labor and of Veterans Affairs shall have access to information reported by employers pursuant to subsection (b) of this section for purposes of tracking employment of veterans.
+
 ### §654. State plan for child and spousal support
 * A State plan for child and spousal support must—
 

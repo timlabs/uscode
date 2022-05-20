@@ -820,11 +820,18 @@
 * #### (2) Rules for applying paragraph (1)
   * Determinations under paragraph (1) shall be made—
 
-    * (A) on the basis of interest at the greater of an annual effective rate of 4 percent or the rate or rates guaranteed on issuance of the contract,
+    * (A) on the basis of interest at the greater of the applicable accumulation test minimum rate or the rate or rates guaranteed on issuance of the contract,
 
     * (B) on the basis of the rules of subparagraph (B)(i) (and, in the case of qualified additional benefits, subparagraph (B)(ii)) of subsection (c)(3), and
 
     * (C) by taking into account under subparagraphs (A) and (D) of subsection (e)(1) only current and future death benefits and qualified additional benefits.
+
+* #### (3) Applicable accumulation test minimum rate
+  * For purposes of paragraph (2)(A), the term "applicable accumulation test minimum rate" means the lesser of—
+
+    * (A) an annual effective rate of 4 percent, or
+
+    * (B) the insurance interest rate (as defined in subsection (f)(11)) in effect at the time the contract is issued.
 
 #### (c) Guideline premium requirements
 * For purposes of this section—
@@ -850,7 +857,7 @@
 
       * (ii) any reasonable charges (other than mortality charges) which (on the basis of the company's experience, if any, with respect to similar contracts) are reasonably expected to be actually paid, and
 
-      * (iii) interest at the greater of an annual effective rate of 6 percent or the rate or rates guaranteed on issuance of the contract.
+      * (iii) interest at the greater of the applicable guideline premium minimum rate or the rate or rates guaranteed on issuance of the contract.
 
   * #### (C) When determination made
     * Except as provided in subsection (f)(7), the determination under subparagraph (A) shall be made as of the time the contract is issued.
@@ -862,8 +869,11 @@
     * #### (ii) New companies, etc.
       * If any company does not have adequate experience for purposes of the determination under subparagraph (B)(ii), to the extent provided in regulations, such determination shall be made on the basis of the industry-wide experience.
 
+  * #### (E) Applicable guideline premium minimum rate
+    * For purposes of subparagraph (B)(iii), the term "applicable guideline premium minimum rate" means the applicable accumulation test minimum rate (as defined in subsection (b)(3)) plus 2 percentage points.
+
 * #### (4) Guideline level premium
-  * The term "guideline level premium" means the level annual amount, payable over a period not ending before the insured attains age 95, computed on the same basis as the guideline single premium, except that paragraph (3)(B)(iii) shall be applied by substituting "4 percent" for "6 percent".
+  * The term "guideline level premium" means the level annual amount, payable over a period not ending before the insured attains age 95, computed on the same basis as the guideline single premium, except that paragraph (3)(B)(iii) shall be applied by substituting "the applicable accumulation test minimum rate" for "the applicable guideline premium minimum rate".
 
 #### (d) Cash value corridor for purposes of subsection (a)(2)(B)
 * For purposes of this section—
@@ -1023,6 +1033,32 @@
 
 * #### (10) Prevailing commissioners' standard tables
   * For purposes of subsection (c)(3)(B)(i), the term "prevailing commissioners' standard tables" means the most recent commissioners' standard tables prescribed by the National Association of Insurance Commissioners which are permitted to be used in computing reserves for that type of contract under the insurance laws of at least 26 States when the contract was issued. If the prevailing commissioners' standard tables as of the beginning of any calendar year (hereinafter in this paragraph referred to as the "year of change") are different from the prevailing commissioners' standard tables as of the beginning of the preceding calendar year, the issuer may use the prevailing commissioners' standard tables as of the beginning of the preceding calendar year with respect to any contract issued after the change and before the close of the 3-year period beginning on the first day of the year of change.
+
+* #### (11) Insurance interest rate
+  * For purposes of this section—
+
+  * #### (A) In general
+    * The term "insurance interest rate" means, with respect to any contract issued in any calendar year, the lesser of—
+
+      * (i) the section 7702 valuation interest rate for such calendar year (or, if such calendar year is not an adjustment year, the most recent adjustment year), or
+
+      * (ii) the section 7702 applicable Federal interest rate for such calendar year (or, if such calendar year is not an adjustment year, the most recent adjustment year).
+
+  * #### (B) Section 7702 valuation interest rate
+    * The term "section 7702 valuation interest rate" means, with respect to any adjustment year, the prescribed U.S. valuation interest rate for life insurance with guaranteed durations of more than 20 years (as defined in the National Association of Insurance Commissioners' Standard Valuation Law) as effective in the calendar year immediately preceding such adjustment year.
+
+  * #### (C) Section 7702 applicable Federal interest rate
+    * The term "section 7702 applicable Federal interest rate" means, with respect to any adjustment year, the average (rounded to the nearest whole percentage point) of the applicable Federal mid-term rates (as defined in section 1274(d) but based on annual compounding) effective as of the beginning of each of the calendar months in the most recent 60-month period ending before the second calendar year prior to such adjustment year.
+
+  * #### (D) Adjustment year
+    * The term "adjustment year" means the calendar year following any calendar year that includes the effective date of a change in the prescribed U.S. valuation interest rate for life insurance with guaranteed durations of more than 20 years (as defined in the National Association of Insurance Commissioners' Standard Valuation Law).
+
+  * #### (E) Transition rule
+    * Notwithstanding subparagraph (A), the insurance interest rate shall be 2 percent in the case of any contract which is issued during the period that—
+
+      * (i) begins on January 1, 2021, and
+
+      * (ii) ends immediately before the beginning of the first adjustment year that beings after December 31, 2021.
 
 #### (g) Treatment of contracts which do not meet subsection (a) test
 * #### (1) Income inclusion

@@ -95,3 +95,162 @@
 
 ### §2276. "Central American countries" defined
 * For the purposes of this part, the term "Central American countries" includes Belize, Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua, Panama, and regional programs which benefit such countries.
+
+### §2277. Strategy to advance prosperity, combat corruption, strengthen democratic governance, and improve civilian security in El Salvador, Guatemala, and Honduras
+#### (a) Elements
+* Not later than 180 days after December 27, 2020, the Secretary of State, in coordination with the Administrator of the United States Agency for International Development, and the heads of other relevant Federal agencies, shall submit to the appropriate congressional committees a 5-year strategy to advance economic prosperity, combat corruption, strengthen democratic governance, and improve civilian security in El Salvador, Guatemala, and Honduras and to curb irregular migration from the region.
+
+#### (b) Consideration
+* In developing the strategy required under this section, the Secretary of State should consider the following priorities:
+
+  * (1) Promoting economic prosperity, including by—
+
+    * (A) supporting market-based solutions to eliminate constraints to inclusive economic growth;
+
+    * (B) addressing the underlying causes of poverty and inequality;
+
+    * (C) responding to immediate humanitarian needs by improving humanitarian outcomes, including through access to sanitation, hygiene, and shelter, and by enabling the provision of health resources;
+
+    * (D) supporting conservation and community resilience and strengthening community preparedness for natural disasters;
+
+    * (E) identifying, as appropriate, a role for relevant United States agencies and the United States private sector in supporting efforts to increase private sector investment and advance economic prosperity; and
+
+    * (F) improving domestic resource mobilization, including by strengthening tax collection and enforcement and legal arbitration mechanisms.
+
+
+  * (2) Combating corruption, including by—
+
+    * (A) strengthening the capacity of national justice systems and attorneys generals to identify and prosecute money laundering and other financial crimes and breaking up financial holdings of organized criminal syndicates, including illegally acquired lands and proceeds from illegal activities;
+
+    * (B) strengthening special prosecutorial offices and financial institutions to conduct asset forfeitures and criminal analysis, and to combat corruption, money laundering, financial crimes, extortion, and human rights crimes;
+
+    * (C) implementing transparent, merit-based selection processes for prosecutors and judges and the development of professional and merit-based civil services;
+
+    * (D) establishing or strengthening methods, procedures for internal and external control mechanisms for the security and police services and judiciary; and
+
+    * (E) supporting anticorruption efforts through bilateral assistance and complementary support through multilateral anticorruption mechanisms when necessary.
+
+
+  * (3) Advancing democratic governance, including by—
+
+    * (A) strengthening government institutions at the local and national levels to provide services and respond to citizen needs through transparent, inclusive, and democratic processes;
+
+    * (B) strengthening access to information laws and reforming laws that currently limit access to information;
+
+    * (C) building the capacity of independent media to engage in professional investigative journalism;
+
+    * (D) ensuring that threats and attacks on journalists, labor leaders, human rights defenders, and other members of civil society are fully investigated and perpetrators are held accountable; and
+
+    * (E) strengthening electoral institutions and processes to ensure free, fair, and transparent elections.
+
+
+  * (4) Improving security conditions, including by—
+
+    * (A) implementing the Central America Regional Security Initiative;
+
+    * (B) increasing the professionalization of security services, including the civilian police and military units;
+
+    * (C) combating the illicit activities of transnational criminal organizations through support to fully vetted elements of attorneys general offices, appropriate government institutions, and security services; and
+
+    * (D) enhancing the capacity of relevant security services and attorneys general to support counternarcotics efforts and combat human trafficking, forcible recruitment of children and youth by gangs, gender-based violence, and other illicit activities, including trafficking of wildlife, and natural resources.
+
+#### (c) Consultation
+* In developing the strategy required under this section, the Secretary of State may consult with civil society and the private sector in the United States, El Salvador, Guatemala, and Honduras.
+
+#### (d) Benchmarks
+* The strategy required under this section shall include annual benchmarks to track the strategy's progress in curbing irregular migration from the region to the United States and improving conditions in El Salvador, Guatemala, and Honduras by measuring progress in key areas, including—
+
+  * (1) reducing poverty and unemployment, increasing private sector investment, responding to immediate humanitarian needs, sustainably reintegrating returnees, supporting conservation and community resilience, and addressing forced displacement in accordance with the priorities outlined in subsection (b)(1);
+
+  * (2) strengthening national justice systems and attorneys generals, supporting multilateral anticorruption mechanisms, identifying and prosecuting money laundering and other financial crimes, breaking up financial holdings of organized criminal syndicates, and advancing judicial integrity and investigative capacity of local authorities in accordance with the priorities outlined in subsection (b)(2);
+
+  * (3) strengthening government institutions at the local and national levels to provide services and respond to citizen needs through transparent, inclusive, and democratic processes, promoting human rights, building the capacity of independent media, developing the capacity of civil society to conduct oversight, affording legal protections for human rights defenders and members of civil society, and strengthening electoral institutions in accordance with priorities outlined in subsection (b)(3); and
+
+  * (4) implementing the objectives stated under the Central America Regional Security Initiative and building the capacity of civilian security services in accordance with the priorities outlined in subsection (b)(4).
+
+#### (e) Public diplomacy
+* The strategy required under this section shall include a public diplomacy strategy for educating citizens of the region about United States assistance and its benefits to them, and informing such citizens of the dangers of irregular migration to the United States.
+
+#### (f) Annual progress updates
+* Not later than 1 year after the submission of the strategy required under this section and annually thereafter for 4 years, the Secretary of State shall provide the appropriate congressional committees with a written description of progress made in meeting the benchmarks established in the strategy.
+
+#### (g) Public availability
+* The strategy required under this section shall be made publicly available on the website of the Department of State. If appropriate, a classified annex may be submitted to the appropriate congressional committees.
+
+#### (h) Definition
+* In this section, the term "appropriate congressional committees" means—
+
+  * (1) the Committee on Foreign Relations and the Committee on Appropriations of the Senate; and
+
+  * (2) the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives.
+
+### §2277a. Targeted sanctions to fight corruption in El Salvador, Guatemala, and Honduras
+#### (a) Sense of Congress
+* It is the sense of Congress that—
+
+  * (1) corruption in El Salvador, Guatemala, and Honduras by private citizens and select officials in local, regional, and Federal governments significantly damages the economies of such countries and deprives citizens of opportunities;
+
+  * (2) corruption in El Salvador, Guatemala, and Honduras is facilitated and carried out not only by private citizens and select officials from those countries but also in many instances by individuals from third countries; and
+
+  * (3) imposing targeted sanctions on individuals from throughout the world and particularly in the Western Hemisphere who are engaged in acts of significant corruption that impact El Salvador, Guatemala, and Honduras or obstruction of investigations into such acts of corruption will benefit the citizens and governments of such countries.
+
+#### (b) Report required
+* Not later than 180 days after December 27, 2020, and not less frequently than annually thereafter, the President shall submit to the appropriate congressional committees an unclassified report with classified annex if necessary that identifies each foreign person who the President determines to have knowingly engaged in actions that undermine democratic processes or institutions, or in significant corruption or obstruction of investigations into such acts of corruption in El Salvador, Guatemala, and Honduras, including the following:
+
+  * (1) Corruption related to government contracts.
+
+  * (2) Bribery and extortion.
+
+  * (3) The facilitation or transfer of the proceeds of corruption, including through money laundering.
+
+  * (4) Acts of violence, harassment, or intimidation directed at governmental and nongovernmental corruption investigators.
+
+#### (c) Imposition of sanctions
+* The President shall impose the sanctions described in subsection (d) with respect to each foreign person identified in the report required under subsection (b).
+
+#### (d) Sanctions described
+* #### (1) In general
+  * The sanctions described in this subsection are the following:
+
+  * #### (A) Ineligibility for visas and admission to the United States
+    * In the case of a foreign person who is an individual, such foreign person is—
+
+      * (i) inadmissible to the United States;
+
+      * (ii) ineligible to receive a visa or other documentation to enter the United States; and
+
+      * (iii) otherwise ineligible to be admitted or paroled into the United States or to receive any other benefit under the Immigration and Nationality Act (8 U.S.C. 1101 et seq.).
+
+  * #### (B) Current visas revoked
+    * #### (i) In general
+      * The issuing consular officer or the Secretary of State, (or a designee of the Secretary of State) shall, in accordance with section 221(i) of the Immigration and Nationality Act (8 U.S.C. 1201(i)), revoke any visa or other entry documentation issued to a foreign person regardless of when the visa or other entry documentation is issued.
+
+    * #### (ii) Effect of revocation
+      * A revocation under clause (i) shall—
+
+        * (I) take effect immediately; and
+
+        * (II) automatically cancel any other valid visa or entry documentation that is in the foreign person's possession.
+
+* #### (2) Exception to comply with international obligations
+  * Sanctions under subparagraph (B) and (C) of paragraph (1) shall not apply with respect to a foreign person if admitting or paroling such person into the United States is necessary to permit the United States to comply with the Agreement regarding the Headquarters of the United Nations, signed at Lake Success June 26, 1947, and entered into force November 21, 1947, between the United Nations and the United States, or other applicable international obligations.
+
+#### (e) National security waiver
+* The President may waive the application of the sanctions under subsection (c) if the President—
+
+  * (1) determines that such a waiver is in the national security interest of the United States; and
+
+  * (2) submits to the appropriate congressional committees within 15 days after such determination a notice of and justification for the waiver.
+
+#### (f) Termination
+* The authority to impose sanctions under subsection (b), and any sanctions imposed pursuant to such authority, shall expire on the date that is 3 years after December 27, 2020.
+
+#### (g) Public availability
+* The unclassified portion of the report required by subsection (b) shall be made available to the public, including through publication in the Federal Register. In any case in which the President concludes that such publication would be harmful to the national security of the United States, only a statement that a determination or finding has been made by the President, including the name and section of the Act under which it was made, shall be published.
+
+#### (h) Definitions
+* In this section, the term "appropriate congressional committees" means—
+
+  * (1) the Committee on Foreign Relations and the Committee on the Judiciary of the Senate;
+
+  * (2) the Committee on Foreign Affairs and the Committee on the Judiciary of the House of Representatives.

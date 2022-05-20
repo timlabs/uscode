@@ -4,13 +4,16 @@
 #### (a) In general
 * In this part:
 
-* #### (1) Child
+* #### (1) Caregiver assessment
+  * The term "caregiver assessment" means a defined process of gathering information to identify the specific needs, barriers to carrying out caregiving responsibilities, and existing supports of a family caregiver or older relative caregiver, as identified by the caregiver involved, to appropriately target recommendations for support services described in section 3030s–1(b) of this title. Such assessment shall be administered through direct contact with the caregiver, which may include contact through a home visit, the Internet, telephone or teleconference, or in-person interaction.
+
+* #### (2) Child
   * The term "child" means an individual who is not more than 18 years of age.
 
-* #### (2) Individual with a disability
+* #### (3) Individual with a disability
   * The term "individual with a disability" means an individual with a disability, as defined in section 12102 of this title, who is not less than age 18 and not more than age 59.
 
-* #### (3) Older relative caregiver
+* #### (4) Older relative caregiver
   * The term "older relative caregiver" means a caregiver who—
 
     * (A)(i) is age 55 or older; and
@@ -40,7 +43,7 @@
   * (2) for older relative caregivers.
 
 #### (b) Support services
-* The services provided, in a State program under subsection (a), by an area agency on aging, or entity that such agency has contracted with, shall include—
+* The services provided, which may be informed through the use of caregiver assessments, in a State program under subsection (a), by an area agency on aging, or entity that such agency has contracted with, shall include—
 
   * (1) information to caregivers about available services;
 
@@ -70,7 +73,21 @@
 #### (d) Use of volunteers
 * In carrying out this part, each area agency on aging shall make use of trained volunteers to expand the provision of the available services described in subsection (b) and, if possible, work in coordination with organizations that have experience in providing training, placement, and stipends for volunteers or participants (such as organizations carrying out Federal service programs administered by the Corporation for National and Community Service), in community service settings.
 
-#### (e) Quality standards and mechanisms and accountability
+#### (e) Best Practices
+* Not later than 1 year after March 25, 2020, and every 5 years thereafter, the Assistant Secretary shall—
+
+  * (1) identify best practices relating to the programs carried out under this section and section 3057k–11 of this title, regarding—
+
+    * (A) the use of procedures and tools to monitor and evaluate the performance of the programs carried out under such sections;
+
+    * (B) the use of evidence-based caregiver support services; and
+
+    * (C) any other issue determined relevant by the Assistant Secretary; and
+
+
+  * (2) make available, including on the website of the Administration and pursuant to section 3012(a)(34) of this title, best practices described in paragraph (1), to carry out the programs under this section and section 3057k–11 of this title.
+
+#### (f) Quality standards and mechanisms and accountability
 * #### (1) Quality standards and mechanisms
   * The State shall establish standards and mechanisms designed to assure the quality of services provided with assistance made available under this part.
 
@@ -78,9 +95,9 @@
   * The State shall collect data and maintain records relating to the State program in a standardized format specified by the Assistant Secretary. The State shall furnish the records to the Assistant Secretary, at such time as the Assistant Secretary may require, in order to enable the Assistant Secretary to monitor State program administration and compliance, and to evaluate and compare the effectiveness of the State programs.
 
 * #### (3) Reports
-  * The State shall prepare and submit to the Assistant Secretary reports on the data and records required under paragraph (2), including information on the services funded under this part, and standards and mechanisms by which the quality of the services shall be assured. The reports shall describe any mechanisms used in the State to provide to persons who are family caregivers, or older relative caregivers, information about and access to various services so that the persons can better carry out their care responsibilities.
+  * The State shall prepare and submit to the Assistant Secretary reports on the data and records required under paragraph (2), including information on the services funded under this part, and standards and mechanisms, including caregiver assessments used in the State, by which the quality of the services shall be assured. The reports shall describe any mechanisms used in the State to provide to persons who are family caregivers, or older relative caregivers, information about and access to various services so that the persons can better carry out their care responsibilities.
 
-#### (f) Caregiver allotment
+#### (g) Caregiver allotment
 * #### (1) In general
   * (A) From sums appropriated under section 3023(e) of this title for a fiscal year, the Assistant Secretary shall allot amounts among the States proportionately based on the population of individuals 70 years of age or older in the States.
 
@@ -99,7 +116,7 @@
 
   * (C) For the purposes of subparagraph (B)(i), the term "State" does not include Guam, American Samoa, the Virgin Islands of the United States, and the Commonwealth of the Northern Mariana Islands.
 
-#### (g) Availability of funds
+#### (h) Availability of funds
 * #### (1) Use of funds for administration of area plans
   * Amounts made available to a State to carry out the State program under this part may be used, in addition to amounts available in accordance with section 3023(c)(1) of this title, for costs of administration of area plans.
 
@@ -110,8 +127,21 @@
   * #### (B) Non-Federal share
     * The non-Federal share of the cost shall be provided from State and local sources.
 
-  * #### (C) Limitation
-    * A State may use not more than 10 percent of the total Federal and non-Federal share available to the State to provide support services to older relative caregivers.
+#### (i) Activities of national significance
+* The Assistant Secretary may award funds authorized under this section to States, public agencies, private nonprofit agencies, institutions of higher education, and organizations, including tribal organizations, for conducting activities of national significance that—
+
+  * (1) promote quality and continuous improvement in the support provided to family caregivers and older relative caregivers through programs carried out under this section and section 3057k–11 of this title; and
+
+  * (2) include, with respect to such programs, program evaluation, training, technical assistance, and research.
+
+#### (j) Technical assistance for caregiver assessments
+* Not later than 1 year after March 25, 2020, the Assistant Secretary, in consultation with stakeholders with appropriate expertise and, as appropriate, informed by the strategy developed under the RAISE Family Caregivers Act (42 U.S.C. 3030s note), shall provide technical assistance to promote and implement the use of caregiver assessments. Such technical assistance may include sharing available tools or templates, comprehensive assessment protocols, and best practices concerning—
+
+  * (1) conducting caregiver assessments (including reassessments) as needed;
+
+  * (2) implementing such assessments that are consistent across a planning and service area, as appropriate; and
+
+  * (3) implementing caregiver support service plans, including conducting referrals to and coordination of activities with relevant State services.
 
 ### §3030s–2. Maintenance of effort
 * Funds made available under this part shall supplement, and not supplant, any Federal, State, or local funds expended by a State or unit of general purpose local government (including an area agency on aging) to provide services described in section 3030s–1 of this title.

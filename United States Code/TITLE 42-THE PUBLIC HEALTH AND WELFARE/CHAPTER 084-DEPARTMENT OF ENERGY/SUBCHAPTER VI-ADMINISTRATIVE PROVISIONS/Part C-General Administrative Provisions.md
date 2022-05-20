@@ -92,7 +92,42 @@
 
 * (9) The authority of the Secretary under this subsection may be delegated only to an officer of the Department who is appointed by the President by and with the advice and consent of the Senate.
 
-* (10) Notwithstanding any other provision of law, the authority to enter into transactions under paragraph (1) shall terminate on September 30, 2020.
+* (10) Notwithstanding any other provision of law, the authority to enter into transactions under paragraph (1) shall terminate on September 30, 2030.
+
+### §7256c. Milestone-based demonstration projects
+#### (a) In general
+* Acting under section 7256(g) of this title, notwithstanding paragraph (10) of such section, the Secretary of Energy (in this section referred to as the "Secretary") may carry out demonstration projects as a milestone-based demonstration project that requires particular technical and financial milestones to be met before a participant is awarded grants by the Department through a competitive award process.
+
+#### (b) Requirements
+* In carrying out milestone-based demonstration projects under the authority in paragraph (1), the Secretary shall, for each relevant project—
+
+  * (1) request proposals from eligible entities, as determined by the Secretary, including—
+
+    * (A) a business plan, that may include a plan for scalable manufacturing and a plan for addressing supply chain gaps;
+
+    * (B) a plan for raising private sector investment; and
+
+    * (C) proposed technical and financial milestones, including estimated project timelines and total costs; and
+
+
+  * (2) award funding of a predetermined amount to projects that successfully meet proposed milestones under paragraph (1)(C) or for expenses deemed reimbursable by the Secretary, in accordance with terms negotiated for an individual award;
+
+  * (3) require cost sharing in accordance with section 16352 of this title; and
+
+  * (4) communicate regularly with selected eligible entities and, if the Secretary deems appropriate, exercise small amounts of flexibility for technical and financial milestones as projects mature.
+
+#### (c) Awards
+* For the program established under subsection (a)—
+
+  * (1) an award recipient shall be responsible for all costs until milestones are achieved, or reimbursable expenses are reviewed and verified by the Department; and
+
+  * (2) should an awardee not meet the milestones described in subsection (a), the Secretary or their designee may end the partnership with an award recipient and use the remaining funds in the ended agreement for new or existing projects carried out under this section.
+
+#### (d) Project management
+* In carrying out projects under this program and assessing the completion of their milestones in accordance with subsection (b), the Secretary shall consult with experts that represent diverse perspectives and professional experiences, including those from the private sector, to ensure a complete and thorough review.
+
+#### (e) Report
+* In accordance with section 16391a(a) of this title, the Secretary shall report annually on any demonstration projects carried out using the authorities under this section.
 
 ### §7257. Acquisition, construction, etc., of laboratories, research and testing sites, etc.
 * The Secretary is authorized to acquire (by purchase, lease, condemnation, or otherwise), construct, improve, repair, operate, and maintain laboratories, research and testing sites and facilities, quarters and related accommodations for employees and dependents of employees of the Department, personal property (including patents), or any interest therein, as the Secretary deems necessary; and to provide by contract or otherwise for eating facilities and other necessary facilities for the health and welfare of employees of the Department at its installations and purchase and maintain equipment therefor.

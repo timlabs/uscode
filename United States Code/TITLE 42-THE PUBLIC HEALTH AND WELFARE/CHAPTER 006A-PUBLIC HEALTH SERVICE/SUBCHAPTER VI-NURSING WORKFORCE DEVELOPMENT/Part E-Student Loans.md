@@ -166,12 +166,12 @@
   * (3) who enters into an agreement with the Secretary to serve as nurse for a period of not less than two years at a health care facility with a critical shortage of nurses, or in a accredited school of nursing, as defined by section 296(2) of this title, as nurse faculty;
 
 
-* the Secretary shall make payments in accordance with subsection (b), for and on behalf of that individual, on the principal of and interest on any loan of that individual described in paragraph (2) of this subsection which is outstanding on the date the individual begins the service specified in the agreement described in paragraph (3) of this subsection. After fiscal year 2007, the Secretary may not, pursuant to any agreement entered into under this subsection, assign a nurse to any private entity unless that entity is nonprofit.
+* the Secretary shall make payments in accordance with subsection (b), for and on behalf of that individual, on the principal of and interest on any loan of that individual described in paragraph (2) of this subsection which is outstanding on the date the individual begins the service specified in the agreement described in paragraph (3) of this subsection.
 
 #### (b) Manner of payments
 * The payments described in subsection (a) shall be made by the Secretary as follows:
 
-  * (1) Upon completion by the individual for whom the payments are to be made of the first year of the service specified in the agreement entered into with the Secretary under subsection (a), the Secretary shall pay 30 percent of the principal of, and the interest on each loan of such individual described in subsection (a)(2) which is outstanding on the date he began such practice.
+  * (1) Upon completion by the individual for whom the payments are to be made of the first year of the service specified in the agreement entered into with the Secretary under subsection (a), the Secretary shall pay 30 percent of the principal of, and the interest on each loan of such individual described in subsection (a)(2) which is outstanding on the date the individual began such practice.
 
   * (2) Upon completion by that individual of the second year of such service, the Secretary shall pay another 30 percent of the principal of, and the interest on each such loan.
 
@@ -256,12 +256,8 @@
 
   * (11) an evaluation of the overall costs and benefits of the programs.
 
-#### (i) Funding
-* #### (1) Authorization of appropriations
-  * For the purpose of payments under agreements entered into under subsection (a) or (d), there are authorized to be appropriated such sums as may be necessary for each of fiscal years 2003 through 2007.
-
-* #### (2) Allocations
-  * Of the amounts appropriated under paragraph (1), the Secretary may, as determined appropriate by the Secretary, allocate amounts between the program under subsection (a) and the program under subsection (d).
+#### (i) Allocations
+* Of the amounts appropriated under section 298d(b) of this title,, the Secretary may, as determined appropriate by the Secretary, allocate amounts between the program under subsection (a) and the program under subsection (d).
 
 ### §297n–1. Nurse faculty loan program
 #### (a) School of nursing student loan fund
@@ -319,9 +315,6 @@
 #### (e) Review by Secretary
 * At the request of the individual involved, the Secretary may review any determination by an accredited school of nursing under subsection (c)(6)(B).
 
-#### (f) Authorization of appropriations
-* There are authorized to be appropriated to carry out this section such sums as may be necessary for each of fiscal years 2010 through 2014.
-
 ### §297_o_. Eligible individual student loan repayment
 #### (a) In general
 * The Secretary, acting through the Administrator of the Health Resources and Services Administration, may enter into an agreement with eligible individuals for the repayment of education loans, in accordance with this section, to increase the number of qualified nursing faculty.
@@ -375,6 +368,3 @@
 
 #### (f) Priority
 * For the purposes of this section and section 297n–1 of this title, funding priority will be awarded to School of Nursing Student Loans that support doctoral nursing students or Individual Student Loan Repayment that support doctoral nursing students.
-
-#### (g) Authorization of appropriations
-* There are authorized to be appropriated to carry out this section such sums as may be necessary for each of fiscal years 2010 through 2014.

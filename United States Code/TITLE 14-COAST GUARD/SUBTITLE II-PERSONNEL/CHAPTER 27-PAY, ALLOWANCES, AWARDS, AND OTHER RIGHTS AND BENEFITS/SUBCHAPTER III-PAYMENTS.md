@@ -1,7 +1,7 @@
 ### SUBCHAPTER III—PAYMENTS
 
-### §2761. Persons discharged as result of court-martial; allowances to
-* The Secretary may furnish persons discharged pursuant to the sentence of a Coast Guard court-martial suitable civilian clothing and a monetary allowance not to exceed $25 if the person discharged would not otherwise have suitable clothing or funds to meet immediate needs.
+### §2761. Individuals discharged as result of court-martial; allowances to
+* The Secretary may furnish individuals discharged pursuant to the sentence of a Coast Guard court-martial suitable civilian clothing and a monetary allowance not to exceed $25 if the individual discharged would not otherwise have suitable clothing or funds to meet immediate needs.
 
 ### §2762. Shore patrol duty; payment of expenses
 * An officer or cadet of the Coast Guard who is assigned shore patrol duty away from his vessel or other duty station may be paid his actual expenses.
@@ -20,7 +20,7 @@
 
 * (b) WITHHOLDING OF NONDISPUTED OBLIGATIONS.—The Secretary may also establish requirements similar to those established by the Secretary of Defense pursuant to section 2784a of title 10 for deduction or withholding of pay or retired pay from a Coast Guard employee, member, or retired member who is delinquent in payment under the terms of the contract under which the card was issued and does not dispute the amount of the delinquency.
 
-### §2767. Reimbursement for medical-related travel expenses for certain persons residing on islands in the continental United States
+### §2767. Reimbursement for medical-related travel expenses for certain individuals residing on islands in the continental United States
 * In any case in which a covered beneficiary (as defined in section 1072(5) of title 10) resides on an island that is located in the 48 contiguous States and the District of Columbia and that lacks public access roads to the mainland, the Secretary shall reimburse the reasonable travel expenses of the covered beneficiary and, when accompaniment by an adult is necessary, for a parent or guardian of the covered beneficiary or another member of the covered beneficiary's family who is at least 21 years of age, if—
 
   * (1) the covered beneficiary is referred by a primary care physician to a specialty care provider (as defined in section 1074i(b) of title 10) on the mainland who provides services less than 100 miles from the location where the beneficiary resides; or
@@ -31,9 +31,9 @@
 * The Commandant shall conduct each calendar year an audit of member pay and allowances for the members who transferred to new units during such calendar year. The audit for a calendar year shall be completed by the end of the calendar year.
 
 ### §2769. Remission of indebtedness
-* The Secretary may have remitted or cancelled any part of a person's indebtedness to the United States or any instrumentality of the United States if—
+* The Secretary may have remitted or cancelled any part of an individual's indebtedness to the United States or any instrumentality of the United States if—
 
-  * (1) the indebtedness was incurred while the person served as a member of the Coast Guard, whether as a regular or a reserve in active status; and
+  * (1) the indebtedness was incurred while the individual served as a member of the Coast Guard, whether as a regular or a reserve in active status; and
 
   * (2) the Secretary determines that remitting or cancelling the indebtedness is in the best interest of the United States.
 
@@ -55,7 +55,7 @@
 
 * Repayment of any such loan shall be made on the basis of each complete year of service performed by the borrower.
 
-* (2) The Secretary may repay loans described in paragraph (1) in the case of any person for service performed on active duty as an enlisted member of the Coast Guard in a specialty specified by the Secretary.
+* (2) The Secretary may repay loans described in paragraph (1) in the case of any individual for service performed on active duty as an enlisted member of the Coast Guard in a specialty specified by the Secretary.
 
 * (b) The portion or amount of a loan that may be repaid under subsection (a) is 331/3 percent or $1,500, whichever is greater, for each year of service.
 
@@ -68,29 +68,29 @@
 ### §2773. Rations or commutation therefor in money
 * (a) Enlisted members of the Coast Guard, civilian officers and civilian crews of vessels, and working parties in the field shall be allowed a ration or commutation thereof in money, in such amount and under limitations and regulations prescribed by the Secretary.
 
-* (b) Money for commuted rations shall be paid, under such regulations as the Secretary shall prescribe, on proper vouchers, or pay rolls, to persons entitled to receive it, or to the officers designated by the Commandant to administer the financial affairs of the messes in which such persons may be subsisted.
+* (b) Money for commuted rations shall be paid, under such regulations as the Secretary shall prescribe, on proper vouchers, or pay rolls, to individuals entitled to receive it, or to the officers designated by the Commandant to administer the financial affairs of the messes in which such individuals may be subsisted.
 
 * (c) Money paid for commuted rations to the designated officer may be deposited in general or limited depositories of public money or in any bank in which deposits are insured. Such funds shall be expended and accounted for under such regulations as the Secretary shall prescribe.
 
-* (d) Nothing contained in this section shall be construed as modifying or changing in any manner the provisions of law pertaining to subsistence allowances for enlisted members, but no ration or commutation thereof shall be allowed a person receiving a subsistence allowance.
+* (d) Nothing contained in this section shall be construed as modifying or changing in any manner the provisions of law pertaining to subsistence allowances for enlisted members, but no ration or commutation thereof shall be allowed an individual receiving a subsistence allowance.
 
 ### §2774. Sales of ration supplies to messes
 * Ration supplies may be purchased by the cabin, wardroom, warrant officers', and other authorized messes and payment therefor made in cash to the commissary officer. The prices to be charged for such supplies shall not be less than the invoice prices, and the cash received from such sales shall be accounted for on the ration return and may be expended for the general mess.
 
 ### §2775. Flight rations
-* There may be furnished to officers, enlisted members, and civilian employees, while actually engaged in flight operations, an aircraft flight ration in kind, chargeable to the proper Coast Guard appropriation, which flight ration shall be supplementary to any ration or subsistence allowance now granted to such personnel. No part of an aircraft flight ration shall be furnished without cost to any person in a travel status or to any person to whom a per diem allowance is granted in lieu of actual subsistence.
+* There may be furnished to officers, enlisted members, and civilian employees, while actually engaged in flight operations, an aircraft flight ration in kind, chargeable to the proper Coast Guard appropriation, which flight ration shall be supplementary to any ration or subsistence allowance now granted to such personnel. No part of an aircraft flight ration shall be furnished without cost to any individual in a travel status or to any individual to whom a per diem allowance is granted in lieu of actual subsistence.
 
 ### §2776. Payments at time of discharge for good of service
-* Enlisted members discharged by dishonorable discharge, bad-conduct discharge, or any other discharge for the good of the service, may, upon discharge, be paid a sum not to exceed $25. The sum paid shall be fixed by and in the discretion of the Commandant, and shall be paid only in cases where the person so discharged would otherwise be without funds to meet his immediate needs.
+* Enlisted members discharged by dishonorable discharge, bad-conduct discharge, or any other discharge for the good of the service, may, upon discharge, be paid a sum not to exceed $25. The sum paid shall be fixed by and in the discretion of the Commandant, and shall be paid only in cases where the individual so discharged would otherwise be without funds to meet his immediate needs.
 
-### §2777. Clothing for destitute shipwrecked persons
-* The Coast Guard may furnish clothing and subsistence to destitute shipwrecked persons, and the Coast Guard may reimburse, in cash or in kind, Coast Guard personnel who furnish clothing and subsistence to destitute shipwrecked persons.
+### §2777. Clothing for destitute shipwrecked individuals
+* The Coast Guard may furnish clothing and subsistence to destitute shipwrecked individuals, and the Coast Guard may reimburse, in cash or in kind, Coast Guard personnel who furnish clothing and subsistence to destitute shipwrecked individuals.
 
 ### §2778. Advancement of public funds to personnel
 * The Commandant, under regulations prescribed by the Secretary, may advance public funds to personnel when required to meet expenses of members detailed on emergency shore duty. Funds so advanced shall not exceed a reasonable estimate of the actual expenditures to be made and for which reimbursement is authorized by law.
 
 ### §2779. Transportation to and from certain places of employment
-* (a) Whenever the Secretary determines that it is necessary for the effective conduct of the affairs of the Coast Guard, he may, at reasonable rates of fare fixed under regulations to be prescribed by him, provide assured and adequate transportation by motor vehicle or water carrier to and from their places of employment for persons attached to, or employed by, the Coast Guard; and during a war or during a national emergency declared by Congress or the President, for persons attached to, or employed in, a private plant that is manufacturing material for the Coast Guard.
+* (a) Whenever the Secretary determines that it is necessary for the effective conduct of the affairs of the Coast Guard, he may, at reasonable rates of fare fixed under regulations to be prescribed by him, provide assured and adequate transportation by motor vehicle or water carrier to and from their places of employment for individuals attached to, or employed by, the Coast Guard; and during a war or during a national emergency declared by Congress or the President, for individuals attached to, or employed in, a private plant that is manufacturing material for the Coast Guard.
 
 * (b) Transportation may not be provided under subsection (a) unless the Secretary or an officer designated by the Secretary, determines that—
 
@@ -98,14 +98,14 @@
 
   * (2) a reasonable effort has been made to induce operators of private facilities to provide the necessary transportation; and
 
-  * (3) the service to be furnished will make proper use of transportation facilities and will supply the most efficient transportation to the persons concerned.
+  * (3) the service to be furnished will make proper use of transportation facilities and will supply the most efficient transportation to the individuals concerned.
 
 
 * (c) To provide transportation under subsection (a), the Secretary may—
 
   * (1) buy, lease, or charter motor vehicles or water carriers having a seating capacity of 12 or more passengers;
 
-  * (2) maintain and operate that equipment by enlisted members or employees of the Coast Guard, or by private persons under contract; and
+  * (2) maintain and operate that equipment by enlisted members or employees of the Coast Guard, or by private individuals under contract; and
 
   * (3) lease or charter the equipment to private or public carriers for operation under terms that are considered necessary by the Secretary or by an officer designated by the Secretary, and that may provide for the pooling of government-owned and privately owned equipment and facilities and for the reciprocal use of that equipment.
 

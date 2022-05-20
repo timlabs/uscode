@@ -1,18 +1,18 @@
 ### SUBCHAPTER II—LIFE SAVING AND LAW ENFORCEMENT AUTHORITIES
 
 ### §521. Saving life and property
-* (a) In order to render aid to distressed persons, vessels, and aircraft on and under the high seas and on and under the waters over which the United States has jurisdiction and in order to render aid to persons and property imperiled by flood, the Coast Guard may:
+* (a) In order to render aid to distressed individuals, vessels, and aircraft on and under the high seas and on and under the waters over which the United States has jurisdiction and in order to render aid to individuals and property imperiled by flood, the Coast Guard may:
 
-  * (1) perform any and all acts necessary to rescue and aid persons and protect and save property;
+  * (1) perform any and all acts necessary to rescue and aid individuals and protect and save property;
 
-  * (2) take charge of and protect all property saved from marine or aircraft disasters, or floods, at which the Coast Guard is present, until such property is claimed by persons legally authorized to receive it or until otherwise disposed of in accordance with law or applicable regulations, and care for bodies of those who may have perished in such catastrophes;
+  * (2) take charge of and protect all property saved from marine or aircraft disasters, or floods, at which the Coast Guard is present, until such property is claimed by individuals legally authorized to receive it or until otherwise disposed of in accordance with law or applicable regulations, and care for bodies of those who may have perished in such catastrophes;
 
-  * (3) furnish clothing, food, lodging, medicines, and other necessary supplies and services to persons succored by the Coast Guard; and
+  * (3) furnish clothing, food, lodging, medicines, and other necessary supplies and services to individuals succored by the Coast Guard; and
 
   * (4) destroy or tow into port sunken or floating dangers to navigation.
 
 
-* (b)(1) Subject to paragraph (2), the Coast Guard may render aid to persons and protect and save property at any time and at any place at which Coast Guard facilities and personnel are available and can be effectively utilized.
+* (b)(1) Subject to paragraph (2), the Coast Guard may render aid to individuals and protect and save property at any time and at any place at which Coast Guard facilities and personnel are available and can be effectively utilized.
 
 * (2) The Commandant shall make full use of all available and qualified resources, including the Coast Guard Auxiliary and individuals licensed by the Secretary pursuant to section 8904(b) of title 46, United States Code, in rendering aid under this subsection in nonemergency cases.
 
@@ -34,7 +34,7 @@
   * (2) subject to a civil penalty of not more than $1,000 per day for each violation.
 
 ### §522. Law enforcement
-* (a) The Coast Guard may make inquiries, examinations, inspections, searches, seizures, and arrests upon the high seas and waters over which the United States has jurisdiction, for the prevention, detection, and suppression of violations of laws of the United States. For such purposes, commissioned, warrant, and petty officers may at any time go on board of any vessel subject to the jurisdiction, or to the operation of any law, of the United States, address inquiries to those on board, examine the ship's documents and papers, and examine, inspect, and search the vessel and use all necessary force to compel compliance. When from such inquiries, examination, inspection, or search it appears that a breach of the laws of the United States rendering a person liable to arrest is being, or has been committed, by any person, such person shall be arrested or, if escaping to shore, shall be immediately pursued and arrested on shore, or other lawful and appropriate action shall be taken; or, if it shall appear that a breach of the laws of the United States has been committed so as to render such vessel, or the merchandise, or any part thereof, on board of, or brought into the United States by, such vessel, liable to forfeiture, or so as to render such vessel liable to a fine or penalty and if necessary to secure such fine or penalty, such vessel or such merchandise, or both, shall be seized.
+* (a) The Coast Guard may make inquiries, examinations, inspections, searches, seizures, and arrests upon the high seas and waters over which the United States has jurisdiction, for the prevention, detection, and suppression of violations of laws of the United States. For such purposes, commissioned, warrant, and petty officers may at any time go on board of any vessel subject to the jurisdiction, or to the operation of any law, of the United States, address inquiries to those on board, examine the ship's documents and papers, and examine, inspect, and search the vessel and use all necessary force to compel compliance. When from such inquiries, examination, inspection, or search it appears that a breach of the laws of the United States rendering an individual liable to arrest is being, or has been committed, by any individual, such individual shall be arrested or, if escaping to shore, shall be immediately pursued and arrested on shore, or other lawful and appropriate action shall be taken; or, if it shall appear that a breach of the laws of the United States has been committed so as to render such vessel, or the merchandise, or any part thereof, on board of, or brought into the United States by, such vessel, liable to forfeiture, or so as to render such vessel liable to a fine or penalty and if necessary to secure such fine or penalty, such vessel or such merchandise, or both, shall be seized.
 
 * (b) The officers of the Coast Guard insofar as they are engaged, pursuant to the authority contained in this section, in enforcing any law of the United States shall:
 
@@ -70,7 +70,7 @@
 
     * (i) any offense against the United States committed in the agent's presence; or
 
-    * (ii) any felony cognizable under the laws of the United States if the agent has probable cause to believe that the person to be arrested has committed or is committing the felony.
+    * (ii) any felony cognizable under the laws of the United States if the agent has probable cause to believe that the individual to be arrested has committed or is committing the felony.
 
 
 * (2) The authorities provided in paragraph (1) shall be exercised only in the enforcement of statutes for which the Coast Guard has law enforcement authority, or in exigent circumstances.
@@ -80,11 +80,11 @@
 * (c) The authority provided under subsection (a) shall be exercised in accordance with guidelines prescribed by the Commandant and approved by the Attorney General and any other applicable guidelines prescribed by the Secretary or the Attorney General.
 
 ### §526. Stopping vessels; indemnity for firing at or into vessel
-* (a)(1) Whenever any vessel liable to seizure or examination does not stop on being ordered to do so or on being pursued by an authorized vessel or authorized aircraft which has displayed the ensign, pennant, or other identifying insignia prescribed for an authorized vessel or authorized aircraft, the person in command or in charge of the authorized vessel or authorized aircraft may, subject to paragraph (2), fire at or into the vessel which does not stop.
+* (a)(1) Whenever any vessel liable to seizure or examination does not stop on being ordered to do so or on being pursued by an authorized vessel or authorized aircraft which has displayed the ensign, pennant, or other identifying insignia prescribed for an authorized vessel or authorized aircraft, the individual in command or in charge of the authorized vessel or authorized aircraft may, subject to paragraph (2), fire at or into the vessel which does not stop.
 
-* (2) Before firing at or into a vessel as authorized in paragraph (1), the person in command or in charge of the authorized vessel or authorized aircraft shall fire a gun as a warning signal, except that the prior firing of a gun as a warning signal is not required if that person determines that the firing of a warning signal would unreasonably endanger persons or property in the vicinity of the vessel to be stopped.
+* (2) Before firing at or into a vessel as authorized in paragraph (1), the individual in command or in charge of the authorized vessel or authorized aircraft shall fire a gun as a warning signal, except that the prior firing of a gun as a warning signal is not required if that individual determines that the firing of a warning signal would unreasonably endanger individuals or property in the vicinity of the vessel to be stopped.
 
-* (b) The person in command of an authorized vessel or authorized aircraft and all persons acting under that person's direction shall be indemnified from any penalties or actions for damages for firing at or into a vessel pursuant to subsection (a). If any person is killed or wounded by the firing, and the person in command of the authorized vessel or authorized aircraft or any person acting pursuant to their orders is prosecuted or arrested therefor, they shall be forthwith admitted to bail.
+* (b) The individual in command of an authorized vessel or authorized aircraft and all individuals acting under that individual's direction shall be indemnified from any penalties or actions for damages for firing at or into a vessel pursuant to subsection (a). If any individual is killed or wounded by the firing, and the individual in command of the authorized vessel or authorized aircraft or any individual acting pursuant to their orders is prosecuted or arrested therefor, they shall be forthwith admitted to bail.
 
 * (c) A vessel or aircraft is an authorized vessel or authorized aircraft for purposes of this section if—
 

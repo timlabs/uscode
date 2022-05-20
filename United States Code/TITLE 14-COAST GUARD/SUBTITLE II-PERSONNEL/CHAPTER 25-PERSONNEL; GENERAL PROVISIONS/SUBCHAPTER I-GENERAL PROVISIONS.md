@@ -1,9 +1,56 @@
 ### SUBCHAPTER I—GENERAL PROVISIONS
 
 ### §2501. Grade on retirement
-* (a) Any commissioned officer, other than a commissioned warrant officer, who is retired under any provision of this title, shall be retired from active service with the highest grade held by him for not less than six months while on active duty in which, as determined by the Secretary, his performance of duty was satisfactory.
+* (a) COMMISSIONED OFFICERS.—
 
-* (b) Any warrant officer who is retired under any provision of section 580, 1263, 1293, or 1305 of title 10, shall be retired from active service with the highest commissioned grade above chief warrant officer, W–4, held by him for not less than six months on active duty in which, as determined by the Secretary, his performance of duty was satisfactory.
+  * (1) IN GENERAL.—A commissioned officer who is retired under any provision of this title, shall be retired from active service with the highest grade held by the commissioned officer for not less than six months while on active duty in which, as determined by the Secretary, the commissioned officer's performance of duty was satisfactory.
+
+  * (2) CONDITIONAL DETERMINATION.—When a commissioned officer is under investigation for alleged misconduct at the time of retirement—
+
+    * (A) the Secretary may conditionally determine the highest grade of satisfactory service of the commissioned officer pending completion of the investigation; and
+
+    * (B) the grade under subparagraph (A) is subject to resolution under subsection (c)(2).
+
+
+* (b) WARRANT OFFICERS.—Any warrant officer who is retired under any provision of section 580, 1263, 1293, or 1305 of title 10, shall be retired from active service with the highest commissioned grade above chief warrant officer, W–4, held by the warrant officer for not less than six months on active duty in which, as determined by the Secretary, the warrant officer's performance of duty was satisfactory.
+
+* (c) RETIREMENT IN LOWER GRADE.—
+
+  * (1) MISCONDUCT IN LOWER GRADE.—In the case of a commissioned officer whom the Secretary determines committed misconduct in a lower grade, the Secretary may determine the commissioned officer has not served satisfactorily in any grade equal to or higher than that lower grade.
+
+  * (2) ADVERSE FINDINGS.—A determination of the retired grade of a commissioned officer shall be resolved following a conditional determination under subsection (a)(2) if the investigation of or personnel action against the commissioned officer results in adverse findings.
+
+  * (3) RECALCULATION OF RETIRED PAY.—If the retired grade of a commissioned officer is reduced pursuant to this subsection, the retired pay of the commissioned officer shall be recalculated under chapter 71 of title 10, and any modification of the retired pay of the commissioned officer shall go into effect on the effective date of the reduction in retired grade.
+
+
+* (d) FINALITY OF RETIRED GRADE DETERMINATIONS.—
+
+  * (1) IN GENERAL.—Except as provided in paragraph (2), a determination of the retired grade of a commissioned officer under this section is administratively final on the day the commissioned officer is retired, and may not be reopened.
+
+  * (2) REOPENING DETERMINATIONS.—A determination of the retired grade of a commissioned officer may be reopened if—
+
+    * (A) the retirement or retired grade of the commissioned officer was procured by fraud;
+
+    * (B) substantial evidence comes to light after the retirement that could have led to a lower retired grade under this section and such evidence was not known by competent authority at the time of retirement;
+
+    * (C) a mistake of law or calculation was made in the determination of the retired grade;
+
+    * (D) in the case of a retired grade following a conditional determination under subsection (a)(2), the investigation of or personnel action against the commissioned officer results in adverse findings; or
+
+    * (E) the Secretary determines, under regulations prescribed by the Secretary, that good cause exists to reopen the determination.
+
+
+  * (3) REQUIREMENTS.—If a determination of the retired grade of a commissioned officer is reopened under paragraph (2), the Secretary—
+
+    * (A) shall notify the commissioned officer of the reopening; and
+
+    * (B) may not make an adverse determination on the retired grade of the commissioned officer until the commissioned officer has had a reasonable opportunity to respond regarding the basis of the reopening.
+
+
+  * (4) RECALCULATION OF RETIRED PAY.—If the retired grade of a commissioned officer is reduced through the reopening of the commissioned officer's retired grade under paragraph (2), the retired pay of the commissioned officer shall be recalculated under chapter 71 of title 10, and any modification of the retired pay of the commissioned officer shall go into effect on the effective date of the reduction in retired grade.
+
+
+* (e) INAPPLICABILITY TO COMMISSIONED WARRANT OFFICERS.—This section, including subsection (b), shall not apply to commissioned warrant officers.
 
 ### §2502. Retirement
 * (a) Every commissioned officer, warrant officer, or enlisted member who is retired under any provisions of this title shall be retired with the permanent grade or rate held at the time of retirement, unless entitled to retire with a higher grade or rate under any provision of this title or any other law.
@@ -119,4 +166,111 @@
   * (2) to use flexible work schedules (pursuant to a program established by the Secretary in accordance with chapter 61 of title 5).
 
 ### §2513. Computation of length of service
-* In computing length of service of officers and enlisted personnel for any purpose all creditable service in the Army, Navy, Marine Corps, Air Force, Coast Guard, Revenue Cutter Service, and Life Saving Service shall be included in addition to any other creditable service authorized by any other law.
+* In computing length of service of officers and enlisted personnel for any purpose all creditable service in the Army, Navy, Marine Corps, Air Force, Space Force, Coast Guard, Revenue Cutter Service, and Life Saving Service shall be included in addition to any other creditable service authorized by any other law.
+
+### §2514. Career flexibility to enhance retention of members
+* (a) PROGRAMS AUTHORIZED.—The Commandant may carry out a program under which members of the Coast Guard may be inactivated from active duty in order to meet personal or professional needs and returned to active duty at the end of such period of inactivation from active duty.
+
+* (b) PERIOD OF INACTIVATION FROM ACTIVE DUTY; EFFECT OF INACTIVATION.—
+
+  * (1) IN GENERAL.—The period of inactivation from active duty under a program under this section of a member participating in the program shall be such period as the Commandant shall specify in the agreement of the member under subsection (c), except that such period may not exceed 3 years.
+
+  * (2) EXCLUSION FROM YEARS OF SERVICE.—Any service by a Reserve officer while participating in a program under this section shall be excluded from computation of the total years of service of that officer pursuant to section 14706(a) of title 10.
+
+  * (3) EXCLUSION FROM RETIREMENT.—Any period of participation of a member in a program under this section shall not count toward—
+
+    * (A) eligibility for retirement or transfer to the Ready Reserve under either chapter 841 or 1223 of title 10; or
+
+    * (B) computation of retired or retainer pay under chapter 71 or 1223 of title 10.
+
+
+* (c) AGREEMENT.—Each member of the Coast Guard who participates in a program under this section shall enter into a written agreement with the Commandant under which that member shall agree as follows:
+
+  * (1) To accept an appointment or enlist, as applicable, and serve in the Coast Guard Ready Reserve during the period of the inactivation of the member from active duty under the program.
+
+  * (2) To undergo during the period of the inactivation of the member from active duty under the program such inactive service training as the Commandant shall require in order to ensure that the member retains proficiency, at a level determined by the Commandant to be sufficient, in the military skills, professional qualifications, and physical readiness of the member during the inactivation of the member from active duty.
+
+  * (3) Following completion of the period of the inactivation of the member from active duty under the program, to serve 2 months as a member of the Coast Guard on active duty for each month of the period of the inactivation of the member from active duty under the program.
+
+
+* (d) CONDITIONS OF RELEASE.—The Commandant shall prescribe regulations specifying the guidelines regarding the conditions of release that must be considered and addressed in the agreement required by subsection (c). At a minimum, the Commandant shall prescribe the procedures and standards to be used to instruct a member on the obligations to be assumed by the member under paragraph (2) of such subsection while the member is released from active duty.
+
+* (e) ORDER TO ACTIVE DUTY.—Under regulations prescribed by the Commandant, a member of the Coast Guard participating in a program under this section may, in the discretion of the Commandant, be required to terminate participation in the program and be ordered to active duty.
+
+* (f) PAY AND ALLOWANCES.—
+
+  * (1) BASIC PAY.—During each month of participation in a program under this section, a member who participates in the program shall be paid basic pay in an amount equal to two-thirtieths of the amount of monthly basic pay to which the member would otherwise be entitled under section 204 of title 37 as a member of the uniformed services on active duty in the grade and years of service of the member when the member commences participation in the program.
+
+  * (2) SPECIAL OR INCENTIVE PAY OR BONUS.—
+
+    * (A) PROHIBITION.—A member who participates in such a program shall not, while participating in the program, be paid any special or incentive pay or bonus to which the member is otherwise entitled under an agreement under chapter 5 of title 37 that is in force when the member commences participation in the program.
+
+    * (B) NOT TREATED AS FAILURE TO PERFORM SERVICES.—The inactivation from active duty of a member participating in a program shall not be treated as a failure of the member to perform any period of service required of the member in connection with an agreement for a special or incentive pay or bonus under chapter 5 of title 37 that is in force when the member commences participation in the program.
+
+
+  * (3) RETURN TO ACTIVE DUTY.—
+
+    * (A) SPECIAL OR INCENTIVE PAY OR BONUS.—Subject to subparagraph (B), upon the return of a member to active duty after completion by the member of participation in a program—
+
+      * (i) any agreement entered into by the member under chapter 5 of title 37 for the payment of a special or incentive pay or bonus that was in force when the member commenced participation in the program shall be revived, with the term of such agreement after revival being the period of the agreement remaining to run when the member commenced participation in the program; and
+
+      * (ii) any special or incentive pay or bonus shall be payable to the member in accordance with the terms of the agreement concerned for the term specified in clause (i).
+
+
+    * (B) LIMITATION.—
+
+      * (i) IN GENERAL.—Subparagraph (A) shall not apply to any special or incentive pay or bonus otherwise covered by such subparagraph with respect to a member if, at the time of the return of the member to active duty as described in that subparagraph—
+
+        * (I) such pay or bonus is no longer authorized by law; or
+
+        * (II) the member does not satisfy eligibility criteria for such pay or bonus as in effect at the time of the return of the member to active duty.
+
+
+      * (ii) PAY OR BONUS CEASES BEING AUTHORIZED.—Subparagraph (A) shall cease to apply to any special or incentive pay or bonus otherwise covered by such subparagraph with respect to a member if, during the term of the revived agreement of the member under subparagraph (A)(i), such pay or bonus ceases being authorized by law.
+
+
+    * (C) REPAYMENT.—A member who is ineligible for payment of a special or incentive pay or bonus otherwise covered by this paragraph by reason of subparagraph (B)(i)(II) shall be subject to the requirements for repayment of such pay or bonus in accordance with the terms of the applicable agreement of the member under chapter 5 of title 37.
+
+    * (D) REQUIRED SERVICE IS ADDITIONAL.—Any service required of a member under an agreement covered by this paragraph after the member returns to active duty as described in subparagraph (A) shall be in addition to any service required of the member under an agreement under subsection (c).
+
+
+  * (4) TRAVEL AND TRANSPORTATION ALLOWANCE.—
+
+    * (A) IN GENERAL.—Subject to subparagraph (B), a member who participates in a program is entitled, while participating in the program, to the travel and transportation allowances authorized by section 474 of title 37 for—
+
+      * (i) travel performed from the residence of the member, at the time of release from active duty to participate in the program, to the location in the United States designated by the member as the member's residence during the period of participation in the program; and
+
+      * (ii) travel performed to the residence of the member upon return to active duty at the end of the participation of the member in the program.
+
+
+    * (B) SINGLE RESIDENCE.—An allowance is payable under this paragraph only with respect to travel of a member to and from a single residence.
+
+
+  * (5) LEAVE BALANCE.—A member who participates in a program is entitled to carry forward the leave balance existing as of the day on which the member begins participation and accumulated in accordance with section 701 of title 10, but not to exceed 60 days.
+
+
+* (g) PROMOTION.—
+
+  * (1) OFFICERS.—
+
+    * (A) IN GENERAL.—An officer participating in a program under this section shall not, while participating in the program, be eligible for consideration for promotion under chapter 21 or 37 of this title.
+
+    * (B) RETURN TO DUTY.—Upon the return of an officer to active duty after completion by the officer of participation in a program—
+
+      * (i) the Commandant may adjust the date of rank of the officer in such manner as the Commandant may prescribe in regulations for purposes of this section; and
+
+      * (ii) the officer shall be eligible for consideration for promotion when officers of the same grade and seniority are eligible for consideration for promotion.
+
+
+  * (2) ENLISTED MEMBERS.—An enlisted member participating in a program under this section shall not be eligible for consideration for advancement during the period that—
+
+    * (A) begins on the date of the inactivation of the member from active duty under the program; and
+
+    * (B) ends at such time after the return of the member to active duty under the program that the member is treatable as eligible for promotion by reason of time in grade and such other requirements as the Commandant shall prescribe in regulations for purposes of the program.
+
+
+* (h) CONTINUED ENTITLEMENTS.—A member participating in a program under this section shall, while participating in the program, be treated as a member of the Armed Forces on active duty for a period of more than 30 days for purposes of—
+
+  * (1) the entitlement of the member and of the dependents of the member to medical and dental care under the provisions of chapter 55 of title 10; and
+
+  * (2) retirement or separation for physical disability under the provisions of chapter 61 of title 10 and chapters 21 and 23 of this title.

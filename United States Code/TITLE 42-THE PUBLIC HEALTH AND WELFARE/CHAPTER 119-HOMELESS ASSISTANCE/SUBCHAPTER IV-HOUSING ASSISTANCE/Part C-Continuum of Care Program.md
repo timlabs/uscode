@@ -510,3 +510,10 @@
 
 ### §11388. Reports to Congress
 * The Secretary shall submit a report to the Congress annually, summarizing the activities carried out under this part and setting forth the findings, conclusions, and recommendations of the Secretary as a result of the activities. The report shall be submitted not later than 4 months after the end of each fiscal year (except that, in the case of fiscal year 1993, the report shall be submitted not later than 6 months after the end of the fiscal year).
+
+### §11389. Indian tribes and tribally designated housing entities
+* Notwithstanding any other provision of this subchapter, for purposes of this part, an Indian Tribe or tribally designated housing entity (as defined in section 4103 of title 25) may—
+
+  * (1) be a collaborative applicant or eligible entity; or
+
+  * (2) receive grant amounts from another entity that receives a grant directly from the Secretary, and use the amounts in accordance with this part.

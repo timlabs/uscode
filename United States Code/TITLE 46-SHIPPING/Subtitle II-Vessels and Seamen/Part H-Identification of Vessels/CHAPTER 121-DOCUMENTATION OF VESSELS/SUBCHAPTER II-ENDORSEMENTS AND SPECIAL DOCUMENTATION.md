@@ -392,15 +392,21 @@
 
   * (1) ELIGIBLE VESSEL.—The term "eligible vessel" means a vessel that—
 
-    * (A) was not built in the United States and is at least 3 years old; or
+    * (A) was built in the United States;
 
-    * (B) if rebuilt, was rebuilt outside the United States at least 3 years before the certificate requested under subsection (b) would take effect.
+    * (B) was not built in the United States and is at least 3 years old; or
+
+    * (C) if rebuilt, was rebuilt—
+
+      * (i) in the United States; or
+
+      * (ii) outside the United States at least 3 years before the certificate requested under subsection (b) would take effect.
 
 
   * (2) SMALL PASSENGER VESSEL; UNINSPECTED PASSENGER VESSEL; PASSENGER FOR HIRE.—The terms "small passenger vessel", "uninspected passenger vessel", and "passenger for hire" have the meaning given those terms in section 2101 of this title.
 
 
-* (b) ISSUANCE OF CERTIFICATE AND ENDORSEMENT.—Notwithstanding sections 12112, 12113, 55102, and 55103 of this title, the Secretary may issue a certificate of documentation with an appropriate endorsement for employment in the coastwise trade as a small passenger vessel or an uninspected passenger vessel in the case of an eligible vessel authorized to carry no more than 12 passengers for hire if the Secretary of Transportation, after notice and an opportunity for public comment, determines that the employment of the vessel in the coastwise trade will not adversely affect—
+* (b) ISSUANCE OF CERTIFICATE AND ENDORSEMENT.—Notwithstanding sections 12112, 12113, 12132, 55102, and 55103 of this title, the Secretary may issue a certificate of documentation with an appropriate endorsement for employment in the coastwise trade as a small passenger vessel or an uninspected passenger vessel in the case of an eligible vessel authorized to carry no more than 12 passengers for hire if the Secretary of Transportation, after notice and an opportunity for public comment, determines that the employment of the vessel in the coastwise trade will not adversely affect—
 
   * (1) United States vessel builders; or
 

@@ -297,3 +297,99 @@
 
 #### (b) Use of unexpended funds
 * Any funds paid to an institution and not expended or used for the purposes for which the funds were paid during the five-year period following the date of the initial grant award, may be carried over and expended during the succeeding five-year period, if such funds were obligated for a purpose for which the funds were paid during the five-year period following the date of the initial grant award.
+
+### §1063d. Strengthening HBCUS through Federal agency plans
+#### (a) Designating applicable agencies
+* The Secretary, in consultation with the Executive Director, shall—
+
+  * (1) identify each Federal agency with which an HBCU—
+
+    * (A) has entered into a grant, contract, or cooperative agreement; or
+
+    * (B) is eligible to participate in the programs and initiatives under the jurisdiction of such Federal agency; and
+
+
+  * (2) designate each Federal agency so identified as an applicable agency.
+
+#### (b) Submitting agency plans
+* Not later than February 1 of each year, the head of each applicable agency shall submit to the Secretary, the Executive Director, the Committee on Health, Education, Labor, and Pensions of the Senate, the Committee on Education and Labor of the House of Representatives, and the President's Board of Advisors an annual Agency Plan describing efforts to strengthen the capacity of HBCUs to participate or be eligible to participate in the programs and initiatives under the jurisdiction of such applicable agency as described in subsection (a)(1)(B).
+
+#### (c) Further requirements for submission and accessibility
+* The Executive Director shall make all annual Agency Plan submissions publicly available online in a user-friendly format.
+
+#### (d) Agency plan content
+* Where appropriate, each Agency Plan shall include—
+
+  * (1) a description of how the applicable agency intends to increase the capacity of HBCUs to compete effectively for grants, contracts, or cooperative agreements;
+
+  * (2) an identification of Federal programs and initiatives under the jurisdiction of the applicable agency in which HBCUs are underrepresented;
+
+  * (3) an outline of proposed efforts to improve HBCUs' participation in such programs and initiatives;
+
+  * (4) a description of any progress made towards advancing or achieving goals and efforts from previous Agency Plans submitted under this section by such applicable agency;
+
+  * (5) a description of how the applicable agency plans to encourage public-sector, private-sector, and community involvement to improve the capacity of HBCUs to compete effectively for grants, contracts, or cooperative agreements, and to participate in programs and initiatives under the jurisdiction of such agency;
+
+  * (6) an identification of programs and initiatives not listed in a previous Agency Plan in which an HBCU may participate;
+
+  * (7) any other information the applicable agency determines is relevant to promoting opportunities to fund, partner, contract, or otherwise interact with HBCUs; and
+
+  * (8) any additional criteria established by the Secretary or the White House Initiative.
+
+#### (e) Agency engagement
+* To help fulfill the objectives of the Agency Plans, the head of each applicable agency—
+
+  * (1) shall provide, as appropriate, technical assistance and information to the Executive Director to enhance communication with HBCUs concerning the applicable agency's—
+
+    * (A) programs and initiatives described in subsection (d)(2); and
+
+    * (B) the preparation of applications or proposals for grants, contracts, or cooperative agreements; and
+
+
+  * (2) shall appoint a senior official to report directly to the agency head on the applicable agency's progress under this section.
+
+### §1063e. President's Board of Advisors on HBCUS
+#### (a) Administration
+* #### (1) In general
+  * There is established the President's Board of Advisors on historically Black colleges and universities in the Department of Education or, if the President so elects, within the Executive Office of the President.
+
+* #### (2) Funding from ED
+  * Except as provided in paragraph (3), the Secretary shall provide funding and administrative support for the President's Board of Advisors, subject to the availability of appropriations.
+
+* #### (3) Funding from the Executive Office of the President
+  * If the President elects to locate the President's Board of Advisors within the Executive Office of the President, the Executive Office of the President shall provide funding and administrative support for the President's Board of Advisors, subject to the availability of appropriations.
+
+#### (b) Membership
+* #### (1) In general
+  * The President shall appoint not more than 23 members to the President's Board of Advisors, and the Secretary and Executive Director or their designees shall serve as ex officio members.
+
+* #### (2) Chair
+  * #### (A) Designation
+    * The President shall designate one member of the President's Board of Advisors to serve as its Chair, who shall help direct the Board's work in coordination with the Secretary and in consultation with the Executive Director.
+
+  * #### (B) Consultation
+    * The Chair shall also consult with the Executive Director regarding the time and location of meetings of the President's Board of Advisors, which shall take place not less frequently than once every 6 months.
+
+  * #### (C) Performance
+    * Insofar as the Federal Advisory Committee Act (5 U.S.C. App.) may apply to the President's Board of Advisors, any functions of the President under such Act, except for those of reporting to the Congress, shall be performed by the Chair, in accordance with guidelines issued by the Administrator of General Services.
+
+* #### (3) Compensation
+  * Members of the President's Board of Advisors shall serve without compensation, but shall be reimbursed for travel expenses, including per diem in lieu of subsistence, as authorized by law.
+
+#### (c) Mission and functions
+* The President's Board of Advisors shall advise the President, through the White House Initiative, on all matters pertaining to strengthening the educational capacity of HBCUs, which shall include the following:
+
+  * (1) Improving the identity, visibility, distinctive capabilities, and overall competitiveness of HBCUs.
+
+  * (2) Engaging the philanthropic, business, government, military, homeland-security, and education communities in a national dialogue regarding new HBCU programs and initiatives.
+
+  * (3) Improving the ability of HBCUs to remain fiscally secure institutions that can assist the Nation in achieving its educational goals and in advancing the interests of all Americans.
+
+  * (4) Elevating the public awareness of, and fostering appreciation of, HBCUs.
+
+  * (5) Encouraging public-private investments in HBCUs.
+
+  * (6) Improving government-wide strategic planning related to HBCU competitiveness to align Federal resources and provide the context for decisions about HBCU partnerships, investments, performance goals, priorities, human capital development, and budget planning.
+
+#### (d) Report
+* The President's Board of Advisors shall report annually to the President on the Board's progress in carrying out its duties under this section.

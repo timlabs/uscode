@@ -3,7 +3,7 @@
 ### §651. Members: required service
 * (a) Each person who becomes a member of an armed force, other than a person deferred under the next to the last sentence of section 6(d)(1) of the Military Selective Service Act (50 U.S.C. 3806(d)(1)) shall serve in the armed forces for a total initial period of not less than six years nor more than eight years, as provided in regulations prescribed by the Secretary of Defense for the armed forces under his jurisdiction and by the Secretary of Homeland Security for the Coast Guard when it is not operating as service in the Navy, unless such person is sooner discharged under such regulations because of personal hardship. Any part of such service that is not active duty or that is active duty for training shall be performed in a reserve component.
 
-* (b) Each person covered by subsection (a) who is not a Reserve, and who is qualified, shall, upon his release from active duty, be transferred to a reserve component of his armed force to complete the service required by subsection (a).
+* (b) Each person covered by subsection (a) who is not a Reserve, and who is qualified, shall, upon his release from active duty, be transferred to a reserve component to complete the service required by subsection (a).
 
 * (c)(1) For the armed forces under the jurisdiction of the Secretary of Defense, the Secretary may waive the initial period of required service otherwise established pursuant to subsection (a) in the case of the initial appointment of a commissioned officer in a critically short health professional specialty specified by the Secretary for purposes of this subsection.
 
@@ -71,21 +71,44 @@
 
 * (b) The Secretary concerned shall, upon the request of a member, permit the member to revise the person or persons specified by the member under subsection (a) at any time. Any such revision shall be in writing.
 
-### §656. Diversity in military leadership: plan
+### §656. Diversity in military leadership: plan; mentoring and career counseling program
 * (a) PLAN.—The Secretary of Defense (and the Secretary of Homeland Security in the case of the Coast Guard when it is not operating as a service in the Department of the Navy) shall develop and implement a plan to accurately measure the efforts of the Department of Defense and the Coast Guard to achieve a dynamic, sustainable level of members of the armed forces (including reserve components) that, among both commissioned officers and senior enlisted personnel of each armed force, will reflect the diverse population of the United States eligible to serve in the armed forces, including gender specific, racial, and ethnic populations. Any metric established pursuant to this subsection may not be used in a manner that undermines the merit-based processes of the Department of Defense and the Coast Guard, including such processes for accession, retention, and promotion. Such metrics may not be combined with the identification of specific quotas based upon diversity characteristics. The Secretary concerned shall continue to account for diversified language and cultural skills among the total force of the armed forces.
 
-* (b) METRICS TO MEASURE PROGRESS IN DEVELOPING AND IMPLEMENTING PLAN.—In developing and implementing the plan under subsection (a), the Secretary of Defense and the Secretary of Homeland Security shall develop a standard set of metrics and collection procedures that are uniform across the armed forces. The metrics required by this subsection shall be designed—
+* (b) MENTORING AND CAREER COUNSELING PROGRAM.—
+
+  * (1) PROGRAM REQUIRED AS PART OF PLAN.—With the goal of having the diversity of the population of officers serving in each branch, specialty, community, and grade of each armed force reflect the diversity of the population in such armed force as a whole, the Secretary of Defense and the Secretary of the Department in which the Coast Guard is operating shall include in the plan required by subsection (a) a mentoring and career counseling program for officers.
+
+  * (2) ELEMENTS.—The program required by this subsection shall include the following:
+
+    * (A) The option for any officer to participate in the program.
+
+    * (B) For each officer who elects to participate in the program, the following:
+
+      * (i) One or more opportunities for mentoring and career counseling before selection of the officer's branch, specialty, or community.
+
+      * (ii) Ongoing opportunities for mentoring and career counseling following selection of the officer's branch, specialty, or community, and continuing through the officer's military career.
+
+
+    * (C) Mentoring and counseling during opportunities under subparagraph (B) consisting of the following:
+
+      * (i) Information on officer retention and promotion rates in each grade, branch, specialty, and community of the armed force concerned, including the rate at which officers in each branch, specialty, or community of such armed force are promoted to a grade above O–6.
+
+      * (ii) Information on career and service pathways, including service in the reserve components.
+
+      * (iii) Such other information as may be required to optimize the ability of an officer to make informed career decisions through the officer's military career.
+
+* (c) METRICS TO MEASURE PROGRESS IN DEVELOPING AND IMPLEMENTING PLAN AND MENTORING AND CAREER COUNSELING PROGRAM.—In developing and implementing the plan under subsection (a) and the mentoring and career counseling program under subsection (b), the Secretary of Defense and the Secretary of Homeland Security shall develop a standard set of metrics and collection procedures that are uniform across the armed forces. The metrics required by this subsection shall be designed—
 
   * (1) to accurately capture the inclusion and capability aspects of the armed forces' broader diversity plans, including race, ethnic, and gender specific groups, as potential factors of force readiness that would supplement continued accounting by the Department of Defense and the Coast Guard of diversified language and cultural skills among the total force as part of the assessment of current and future national security needs; and
 
   * (2) to be verifiable and systematically linked to strategic plans that will drive improvements.
 
 
-* (c) DEFINITION OF DIVERSITY.—In developing and implementing the plan under subsection (a), the Secretary of Defense and the Secretary of Homeland Security shall develop a uniform definition of diversity.
+* (d) DEFINITION OF DIVERSITY.—In developing and implementing the plan under subsection (a), the Secretary of Defense and the Secretary of Homeland Security shall develop a uniform definition of diversity.
 
-* (d) CONSULTATION.—Not less than annually, the Secretary of Defense and the Secretary of Homeland Security shall meet with the Secretaries of the military departments, the Joint Chiefs of Staff, the Commandant of the Coast Guard, and senior enlisted members of the armed forces to discuss the progress being made toward developing and implementing the plan established under subsection (a).
+* (e) CONSULTATION.—Not less than annually, the Secretary of Defense and the Secretary of Homeland Security shall meet with the Secretaries of the military departments, the Joint Chiefs of Staff, the Commandant of the Coast Guard, and senior enlisted members of the armed forces to discuss the progress being made toward developing and implementing the plan established under subsection (a).
 
-* (e) COOPERATION WITH STATES.—The Secretary of Defense shall coordinate with the National Guard Bureau and States in tracking the progress of the National Guard toward developing and implementing the plan established under subsection (a).
+* (f) COOPERATION WITH STATES.—The Secretary of Defense shall coordinate with the National Guard Bureau and States in tracking the progress of the National Guard toward developing and implementing the plan established under subsection (a).
 
 ### §657. Prohibition on service in the armed forces by individuals convicted of certain sexual offenses
 * (a) PROHIBITION ON COMMISSIONING OR ENLISTMENT.—A person who has been convicted of an offense specified in subsection (b) under Federal or State law may not be processed for commissioning or permitted to enlist in the armed forces.

@@ -1594,6 +1594,29 @@
 
   * (13) COMMITTEE RECORDS.—The Chairperson of the Council shall maintain the records of the Integrity Committee.
 
+
+* (e) OVERSIGHT.GOV.—
+
+  * (1) DEFINITION.—In this subsection, the term "Office of Inspector General" means the Office of—
+
+    * (A) an Inspector General described in subparagraph (A), (B), or (I) of subsection (b)(1);
+
+    * (B) the Special Inspector General for Afghanistan Reconstruction established under section 1229 of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 122 Stat. 379);
+
+    * (C) the Special Inspector General for the Troubled Asset Relief Plan established under section 121 of title I of the Emergency Economic Stabilization Act of 2008 (12 U.S.C. 5231); and
+
+    * (D) the Special Inspector General for Pandemic Recovery established under section 4018 of the CARES Act (15 U.S.C. 9053).
+
+
+  * (2) ESTABLISHMENT.—The Council shall establish and maintain a website entitled "oversight.gov"—
+
+    * (A) to consolidate all public reports from each Office of Inspector General to improve the access of the public to any audit report, inspection report, or evaluation report (or portion of any such report) made by an Office of Inspector General; and
+
+    * (B) that shall include any additional resources, information, and enhancements as the Council determines are necessary or desirable.
+
+
+  * (3) PARTICIPATION OF OFFICES OF INSPECTORS GENERAL.—Each Office of Inspector General that publishes an audit report, inspection report, or evaluation report (or portion of any such report) on the website of the Office of Inspector General shall, or in the case of the office of an Inspector General described in subparagraph (I) of subsection (b)(1) may, contemporaneously publish the report or portion thereof on oversight.gov in a manner prescribed by the Council.
+
 ### §12. Definitions
 * As used in this Act—
 

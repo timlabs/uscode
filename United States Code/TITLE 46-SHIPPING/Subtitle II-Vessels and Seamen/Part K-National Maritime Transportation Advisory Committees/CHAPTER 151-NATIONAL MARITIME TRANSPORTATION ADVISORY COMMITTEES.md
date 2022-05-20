@@ -31,7 +31,7 @@
 
 * (b) FUNCTION.—The Committee shall—
 
-  * (1) advise the Secretary on matters relating to the safe operation of vessels to which chapter 45 of this title applies, including the matters of—
+  * (1) advise and provide recommendations in writing to the Secretary on matters relating to the safe operation of vessels to which chapter 45 of this title applies, including the matters of—
 
     * (A) navigation safety;
 
@@ -41,10 +41,12 @@
 
     * (D) vessel design, construction, maintenance, and operation; and
 
-    * (E) personnel qualifications and training; and
+    * (E) personnel qualifications and training;
 
 
-  * (2) review regulations proposed under chapter 45 of this title (during preparation of the regulations).
+  * (2) review regulations proposed under chapter 45 of this title (during preparation of the regulations); and
+
+  * (3) review marine casualties and investigations of vessels covered by chapter 45 of this title and make recommendations to the Secretary to improve safety and reduce vessel casualties.
 
 
 * (c) MEMBERSHIP.—
@@ -83,6 +85,11 @@
       * (ii) a marine surveyor who provides services to vessels to which chapter 45 of this title applies; and
 
       * (iii) a person familiar with issues affecting fishing communities and the families of fishermen.
+
+
+* (d) QUORUM.—A quorum of 10 members is required to send any written recommendations from the Committee to the Secretary.
+
+* (e) SAVINGS CLAUSE.—Nothing in this section shall preclude the Secretary from taking emergency action to ensure safety and preservation of life at sea.
 
 ### §15103. National Merchant Marine Personnel Advisory Committee
 * (a) ESTABLISHMENT.—There is established a National Merchant Marine Personnel Advisory Committee (in this section referred to as the "Committee").
@@ -224,21 +231,21 @@
 
     * (B) 2 members shall represent entities engaged in offshore drilling.
 
-    * (C) 2 members shall represent entities engaged in the support, by offshore supply vessels or other vessels, of offshore mineral and oil operations, including geophysical services.
+    * (C) 2 members shall represent entities engaged in the support, by offshore supply vessels or other vessels, of offshore operations.
 
-    * (D) 1 member shall represent entities engaged in the construction of offshore exploration and recovery facilities.
+    * (D) 1 member shall represent entities engaged in the construction of offshore facilities.
 
-    * (E) 1 member shall represent entities engaged in diving services related to offshore construction, inspection, and maintenance.
+    * (E) 1 member shall represent entities providing diving services to the offshore industry.
 
-    * (F) 1 member shall represent entities engaged in safety and training services related to offshore exploration and construction.
+    * (F) 1 member shall represent entities providing safety and training services to the offshore industry.
 
-    * (G) 1 member shall represent entities engaged in pipelaying services related to offshore construction.
+    * (G) 1 member shall represent entities providing subsea engineering, construction, or remotely operated vehicle support to the offshore industry.
 
-    * (H) 2 members shall represent individuals employed in offshore operations and, of the 2, 1 shall have recent practical experience on a vessel or offshore unit involved in the offshore mineral and energy industry.
+    * (H) 2 members shall represent individuals employed in offshore operations and, of the 2, 1 shall have recent practical experience on a vessel or offshore unit involved in the offshore industry.
 
-    * (I) 1 member shall represent national environmental entities.
+    * (I) 1 member shall represent national environmental entities and entities providing environmental protection, compliance, or response services to the offshore industry.
 
-    * (J) 1 member shall represent deepwater ports.
+    * (J) 1 member shall represent entities engaged in offshore oil exploration and production on the Outer Continental Shelf adjacent to Alaska.
 
     * (K) 1 member shall represent the general public (but not a specific environmental group).
 
@@ -302,16 +309,29 @@
     * (I) 2 members shall represent the general public.
 
 ### §15109. Administration
-* (a) MEETINGS.—Each committee established under this chapter shall, at least once each year, meet at the call of the Secretary or a majority of the members of the committee.
+* (a) MEETINGS.—
 
-* (b) EMPLOYEE STATUS.—A member of a committee established under this chapter shall not be considered an employee of the Federal Government by reason of service on such committee, except for the purposes of the following:
+  * (1) IN GENERAL.—Except as provided in paragraph (2), each committee established under this chapter or to which this chapter applies shall, at least once each year, meet at the call of the Secretary or a majority of the members of the committee.
+
+  * (2) MINIMUM REQUIREMENTS.—The committee established under section 15102, shall—
+
+    * (A) meet in-person, not less frequently than twice each year, at the call of the Secretary of a majority of the members of the committee;
+
+    * (B) hold additional meetings as necessary;
+
+    * (C) post the minutes of each meeting of the committee on a publicly available website not later than 2 weeks after the date on which a meeting concludes; and
+
+    * (D) provide reasonable public notice of any meeting of the committee, and publish such notice in the Federal Register and on a publicly available website.
+
+
+* (b) EMPLOYEE STATUS.—A member of a committee established under this chapter or to which this chapter applies shall not be considered an employee of the Federal Government by reason of service on such committee, except for the purposes of the following:
 
   * (1) Chapter 81 of title 5.
 
   * (2) Chapter 171 of title 28 and any other Federal law relating to tort liability.
 
 
-* (c) COMPENSATION.—Notwithstanding subsection (b), a member of a committee established under this chapter, when actually engaged in the performance of the duties of such committee, may—
+* (c) COMPENSATION.—Notwithstanding subsection (b), a member of a committee established under this chapter or to which this chapter applies, when actually engaged in the performance of the duties of such committee, may—
 
   * (1) receive compensation at a rate established by the Secretary, not to exceed the maximum daily rate payable under section 5376 of title 5; or
 
@@ -322,18 +342,18 @@
     * (B) be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5.
 
 
-* (d) ACCEPTANCE OF VOLUNTEER SERVICES.—A member of a committee established under this chapter may serve on such committee on a voluntary basis without pay without regard to section 1342 of title 31 or any other law.
+* (d) ACCEPTANCE OF VOLUNTEER SERVICES.—A member of a committee established under this chapter or to which this chapter applies may serve on such committee on a voluntary basis without pay without regard to section 1342 of title 31 or any other law.
 
 * (e) STATUS OF MEMBERS.—
 
-  * (1) IN GENERAL.—Except as provided in paragraph (2), with respect to a member of a committee established under this chapter whom the Secretary appoints to represent an entity or group—
+  * (1) IN GENERAL.—Except as provided in paragraph (2), with respect to a member of a committee established under this chapter or to which this chapter applies whom the Secretary appoints to represent an entity or group—
 
     * (A) the member is authorized to represent the interests of the applicable entity or group; and
 
     * (B) requirements under Federal law that would interfere with such representation and that apply to a special Government employee (as defined in section 202(a) of title 18), including requirements relating to employee conduct, political activities, ethics, conflicts of interest, and corruption, do not apply to the member.
 
 
-  * (2) EXCEPTION.—Notwithstanding subsection (b), a member of a committee established under this chapter shall be treated as a special Government employee for purposes of the committee service of the member if—
+  * (2) EXCEPTION.—Notwithstanding subsection (b), a member of a committee established under this chapter or to which this chapter applies shall be treated as a special Government employee for purposes of the committee service of the member if—
 
     * (A) the Secretary appointed the member to represent the general public; or
 
@@ -342,57 +362,61 @@
 
 * (f) SERVICE ON COMMITTEE.—
 
-  * (1) SOLICITATION OF NOMINATIONS.—Before appointing an individual as a member of a committee established under this chapter, the Secretary shall publish, in the Federal Register, a timely notice soliciting nominations for membership on such committee.
+  * (1) SOLICITATION OF NOMINATIONS.—Before appointing an individual as a member of a committee established under this chapter or to which this chapter applies, the Secretary shall publish, in the Federal Register, a timely notice soliciting nominations for membership on such committee.
 
   * (2) APPOINTMENTS.—
 
-    * (A) IN GENERAL.—After considering nominations received pursuant to a notice published under paragraph (1), the Secretary may, as necessary, appoint a member to the applicable committee established under this chapter.
+    * (A) IN GENERAL.—After considering nominations received pursuant to a notice published under paragraph (1), the Secretary may, as necessary, appoint a member to the applicable committee established under this chapter or to which this chapter applies.
 
-    * (B) PROHIBITION.—The Secretary shall not seek, consider, or otherwise use information concerning the political affiliation of a nominee in making an appointment to any committee established under this chapter.
+    * (B) PROHIBITION.—The Secretary shall not seek, consider, or otherwise use information concerning the political affiliation of a nominee in making an appointment to any committee established under this chapter or to which this chapter applies.
 
 
   * (3) SERVICE AT PLEASURE OF THE SECRETARY.—
 
-    * (A) IN GENERAL.—Each member of a committee established under this chapter shall serve at the pleasure of the Secretary.
+    * (A) IN GENERAL.—Each member of a committee established under this chapter or to which this chapter applies shall serve at the pleasure of the Secretary.
 
     * (B) EXCEPTION.—Notwithstanding subparagraph (A), a member of the committee established under section 15102 may only be removed prior to the end of the term of that member for just cause.
 
 
-  * (4) SECURITY BACKGROUND EXAMINATIONS.—The Secretary may require an individual to have passed an appropriate security background examination before appointment to a committee established under this chapter.
+  * (4) SECURITY BACKGROUND EXAMINATIONS.—The Secretary may require an individual to have passed an appropriate security background examination before appointment to a committee established under this chapter or to which this chapter applies.
 
   * (5) PROHIBITION.—
 
-    * (A) IN GENERAL.—Except as provided in subparagraph (B), a Federal employee may not be appointed as a member of a committee established under this chapter.
+    * (A) IN GENERAL.—Except as provided in subparagraph (B), a Federal employee may not be appointed as a member of a committee established under this chapter or to which this chapter applies.
 
     * (B) SPECIAL RULE FOR NATIONAL MERCHANT MARINE PERSONNEL ADVISORY COMMITTEE.—The Secretary may appoint a Federal employee to serve as a member of the National Merchant Marine Personnel Advisory Committee to represent the interests of the United States Merchant Marine Academy and, notwithstanding paragraphs (1) and (2), may do so without soliciting, receiving, or considering nominations for such appointment.
 
 
   * (6) TERMS.—
 
-    * (A) IN GENERAL.—The term of each member of a committee established under this chapter shall expire on December 31 of the third full year after the effective date of the appointment.
+    * (A) IN GENERAL.—The term of each member of a committee established under this chapter or to which this chapter applies shall expire on December 31 of the third full year after the effective date of the appointment.
 
-    * (B) CONTINUED SERVICE AFTER TERM.—When the term of a member of a committee established under this chapter ends, the member, for a period not to exceed 1 year, may continue to serve as a member until a successor is appointed.
-
-
-  * (7) VACANCIES.—A vacancy on a committee established under this chapter shall be filled in the same manner as the original appointment.
-
-  * (8) SPECIAL RULE FOR REAPPOINTMENTS.—Notwithstanding paragraphs (1) and (2), the Secretary may reappoint a member of a committee established under this chapter for any term, other than the first term of the member, without soliciting, receiving, or considering nominations for such appointment.
+    * (B) CONTINUED SERVICE AFTER TERM.—When the term of a member of a committee established under this chapter or to which this chapter applies ends, the member, for a period not to exceed 1 year, may continue to serve as a member until a successor is appointed.
 
 
-* (g) STAFF SERVICES.—The Secretary shall furnish to each committee established under this chapter any staff and services considered by the Secretary to be necessary for the conduct of the committee's functions.
+  * (7) VACANCIES.—A vacancy on a committee established under this chapter or to which this chapter applies shall be filled in the same manner as the original appointment.
+
+  * (8) SPECIAL RULE FOR REAPPOINTMENTS.—
+
+    * (A) REAPPOINTMENT.—Notwithstanding paragraphs (1) and (2), the Secretary may reappoint a member of a committee established under this chapter or to which this chapter applies for any term, other than the first term of the member, without soliciting, receiving, or considering nominations for such appointment.
+
+    * (B) LIMITATION.—With respect to the committee established under section 15102, members may serve not more than 3 terms.
+
+
+* (g) STAFF SERVICES.—The Secretary shall furnish to each committee established under this chapter or to which this chapter applies any staff and services considered by the Secretary to be necessary for the conduct of the committee's functions.
 
 * (h) CHAIRMAN; VICE CHAIRMAN.—
 
-  * (1) IN GENERAL.—Each committee established under this chapter shall elect a Chairman and Vice Chairman from among the committee's members.
+  * (1) IN GENERAL.—Each committee established under this chapter or to which this chapter applies shall elect a Chairman and Vice Chairman from among the committee's members.
 
   * (2) VICE CHAIRMAN ACTING AS CHAIRMAN.—The Vice Chairman shall act as Chairman in the absence or incapacity of, or in the event of a vacancy in the office of, the Chairman.
 
 
 * (i) SUBCOMMITTEES AND WORKING GROUPS.—
 
-  * (1) IN GENERAL.—The Chairman of a committee established under this chapter may establish and disestablish subcommittees and working groups for any purpose consistent with the function of the committee.
+  * (1) IN GENERAL.—The Chairman of a committee established under this chapter or to which this chapter applies may establish and disestablish subcommittees and working groups for any purpose consistent with the function of the committee.
 
-  * (2) PARTICIPANTS.—Subject to conditions imposed by the Chairman, members of a committee established under this chapter and additional persons drawn from entities or groups designated by this chapter to be represented on the committee or the general public may be assigned to subcommittees and working groups established under paragraph (1).
+  * (2) PARTICIPANTS.—Subject to conditions imposed by the Chairman, members of a committee established under this chapter or to which this chapter applies and additional individuals drawn from entities or groups designated by this chapter to be represented on the committee or the general public may be assigned to subcommittees and working groups established under paragraph (1).
 
   * (3) CHAIR.—Only committee members may chair subcommittees and working groups established under paragraph (1).
 
@@ -401,20 +425,22 @@
 
   * (1) CONSULTATION.—
 
-    * (A) IN GENERAL.—Before taking any significant action, the Secretary shall consult with, and consider the information, advice, and recommendations of, a committee established under this chapter if the function of the committee is to advise the Secretary on matters related to the significant action.
+    * (A) IN GENERAL.—Before taking any significant action, the Secretary shall consult with, and consider the information, advice, and recommendations of, a committee established under this chapter or to which this chapter applies if the function of the committee is to advise the Secretary on matters related to the significant action.
 
     * (B) INCLUSION.—For purposes of this paragraph, regulations proposed under chapter 45 of this title are significant actions.
 
 
-  * (2) ADVICE, REPORTS, AND RECOMMENDATIONS.—Each committee established under this chapter shall submit, in writing, to the Secretary its advice, reports, and recommendations, in a form and at a frequency determined appropriate by the committee.
+  * (2) ADVICE, REPORTS, AND RECOMMENDATIONS.—Each committee established under this chapter or to which this chapter applies shall submit, in writing, to the Secretary its advice, reports, and recommendations, in a form and at a frequency determined appropriate by the committee.
 
   * (3) EXPLANATION OF ACTIONS TAKEN.—Not later than 60 days after the date on which the Secretary receives recommendations from a committee under paragraph (2), the Secretary shall—
 
     * (A) publish the recommendations on a website accessible at no charge to the public;
 
-    * (B) if the recommendations are from the committee established under section 15102, establish a mechanism for the submission of public comments on the recommendations; and
+    * (B) if the recommendations are from the committee established under section 15102, establish a mechanism for the submission of public comments on the recommendations;
 
-    * (C) respond, in writing, to the committee regarding the recommendations, including by providing an explanation of actions taken regarding the recommendations.
+    * (C) respond, in writing, to the committee regarding the recommendations, including by providing an explanation of actions taken regarding the recommendations; and
+
+    * (D) make all responses required by subparagraph (C) which are related to recommendations made by the committee established under section 15102 available to the public not later than 30 days after the date of response.
 
 
   * (4) SUBMISSION TO CONGRESS.—
@@ -424,11 +450,25 @@
     * (B) ADDITIONAL SUBMISSION.—With respect to a committee established under section 70112 and to which this section applies, the Secretary shall submit the advice, reports, and recommendations received from the committee under paragraph (2) to the Committee on Homeland Security of the House of Representatives in addition to the committees specified in subparagraph (A).
 
 
-* (k) OBSERVERS.—Any Federal agency with matters under such agency's administrative jurisdiction related to the function of a committee established under this chapter may designate a representative to—
+* (k) OBSERVERS.—
 
-  * (1) attend any meeting of such committee; and
+  * (1) IN GENERAL.—Any Federal agency with matters under such agency's administrative jurisdiction related to the function of a committee established under this chapter may designate a representative to—
 
-  * (2) participate as an observer at meetings of such committee that relate to such a matter.
+    * (A) attend any meeting of such committee; and
+
+    * (B) participate as an observer at meetings of such committee that relate to such a matter.
 
 
-* (l) TERMINATION.—Each committee established under this chapter shall terminate on September 30, 2027.
+  * (2) NATIONAL COMMERCIAL FISHING SAFETY ADVISORY COMMITTEE.—With respect to the committee established under section 15102, the Commandant of the Coast Guard shall designate a representative under paragraph (1).
+
+
+* (l) TECHNICAL ASSISTANCE.—
+
+  * (1) IN GENERAL.—The Secretary shall provide technical assistance to the Committee if requested by the Chairman.
+
+  * (2) COMMITTEE CONSULTATION.—With respect to the committee established under section 15102, the Chairman of the committee shall seek expertise from the fishing industry, marine safety experts, the shipbuilding industry, and others as the committee determines appropriate.
+
+
+* (m) TERMINATION.—Each committee established under this chapter or to which this chapter applies shall terminate on September 30, 2029.
+
+* (n) SAVINGS CLAUSE.—Nothing in this section shall preclude the Secretary from taking emergency action to ensure safety and preservation of life at sea.

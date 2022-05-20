@@ -54,7 +54,7 @@
 
   * (2) ADMINISTRATIVE SERVICES AND SUPPORT FOR LIAISON OFFICERS.—The Secretary of Defense may provide administrative services and support for the performance of duties by a liaison officer of a foreign country while the liaison officer is assigned temporarily to any headquarters in the Department of Defense.
 
-  * (3) TRAVEL, SUBSISTENCE, AND MEDICAL CARE FOR LIAISON OFFICERS.—The Secretary of Defense may pay the expenses of a liaison officer in connection with the assignment of that officer as described in paragraph (2) if the assignment is requested by the commander of a combatant command, the Chief of Staff of the Army, the Chief of Naval Operations, the Chief of Staff of the Air Force, the Commandant of the Marine Corps, or the head of a Defense Agency as follows:
+  * (3) TRAVEL, SUBSISTENCE, AND MEDICAL CARE FOR LIAISON OFFICERS.—The Secretary of Defense may pay the expenses of a liaison officer in connection with the assignment of that officer as described in paragraph (2) if the assignment is requested by the commander of a combatant command, the Chief of Staff of the Army, the Chief of Naval Operations, the Chief of Staff of the Air Force, the Commandant of the Marine Corps, the Chief of Space Operations, or the head of a Defense Agency as follows:
 
     * (A) Travel and subsistence expenses.
 

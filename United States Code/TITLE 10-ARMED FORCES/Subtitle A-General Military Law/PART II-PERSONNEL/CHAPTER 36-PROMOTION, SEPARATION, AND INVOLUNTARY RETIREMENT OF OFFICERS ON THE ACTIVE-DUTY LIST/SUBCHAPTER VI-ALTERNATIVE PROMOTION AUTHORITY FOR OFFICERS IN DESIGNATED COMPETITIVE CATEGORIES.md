@@ -32,7 +32,9 @@
   * (2) Paragraph (2)(A) of that section.
 
 
-* (d) INELIGIBILITY OF CERTAIN OFFICERS.—The following officers are not eligible for promotion under this subchapter:
+* (d) INAPPLICABILITY OF REQUIREMENT RELATING TO OPPORTUNITIES FOR CONSIDERATION FOR PROMOTION.—Section 645(1)(A)(i)(I) of this title shall not apply to the promotion of officers described in subsection (a) to the extent that such section is inconsistent with a number of opportunities for promotion specified pursuant to section 649d of this title.
+
+* (e) INELIGIBILITY OF CERTAIN OFFICERS.—The following officers are not eligible for promotion under this subchapter:
 
   * (1) An officer described in section 619(d) of this title.
 

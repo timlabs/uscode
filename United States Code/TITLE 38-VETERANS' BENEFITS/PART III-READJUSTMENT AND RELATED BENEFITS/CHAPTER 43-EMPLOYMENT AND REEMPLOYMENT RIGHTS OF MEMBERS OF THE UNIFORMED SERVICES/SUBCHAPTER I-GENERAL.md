@@ -78,11 +78,20 @@
 
   * (12) The term "seniority" means longevity in employment together with any benefits of employment which accrue with, or are determined by, longevity in employment.
 
-  * (13) The term "service in the uniformed services" means the performance of duty on a voluntary or involuntary basis in a uniformed service under competent authority and includes active duty, active duty for training, initial active duty for training, inactive duty training, full-time National Guard duty, a period for which a person is absent from a position of employment for the purpose of an examination to determine the fitness of the person to perform any such duty, a period for which a System member of the National Urban Search and Rescue Response System is absent from a position of employment due to an appointment into Federal service under section 327 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act, and a period for which a person is absent from employment for the purpose of performing funeral honors duty as authorized by section 12503 of title 10 or section 115 of title 32.
+  * (13) The term "service in the uniformed services" means the performance of duty on a voluntary or involuntary basis in a uniformed service under competent authority and includes active duty, active duty for training, initial active duty for training, inactive duty training, full-time National Guard duty, State active duty for a period of 14 days or more, State active duty in response to a national emergency declared by the President under the National Emergencies Act (50 U.S.C. 1601 et seq.), State active duty in response to a major disaster declared by the President under section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170), a period for which a person is absent from a position of employment for the purpose of an examination to determine the fitness of the person to perform any such duty, a period for which a System member of the National Urban Search and Rescue Response System is absent from a position of employment due to an appointment into Federal service under section 327 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act, and a period for which a person is absent from employment for the purpose of performing funeral honors duty as authorized by section 12503 of title 10 or section 115 of title 32.
 
   * (14) The term "State" means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Virgin Islands, and other territories of the United States (including the agencies and political subdivisions thereof).
 
-  * (15) The term "undue hardship", in the case of actions taken by an employer, means actions requiring significant difficulty or expense, when considered in light of—
+  * (15) The term "State active duty" means training or other duty, other than inactive duty, performed by a member of the National Guard of a State—
+
+    * (A) not under section 502 of title 32 or under title 10;
+
+    * (B) in service to the Governor of a State; and
+
+    * (C) for which the member is not entitled to pay from the Federal Government.
+
+
+  * (16) The term "undue hardship", in the case of actions taken by an employer, means actions requiring significant difficulty or expense, when considered in light of—
 
     * (A) the nature and cost of the action needed under this chapter;
 
@@ -93,7 +102,7 @@
     * (D) the type of operation or operations of the employer, including the composition, structure, and functions of the work force of such employer; the geographic separateness, administrative, or fiscal relationship of the facility or facilities in question to the employer.
 
 
-  * (16) The term "uniformed services" means the Armed Forces, the Army National Guard and the Air National Guard when engaged in active duty for training, inactive duty training, or full-time National Guard duty, the commissioned corps of the Public Health Service, System members of the National Urban Search and Rescue Response System during a period of appointment into Federal service under section 327 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act, and any other category of persons designated by the President in time of war or national emergency.
+  * (16) The term "uniformed services" means the Armed Forces, the Army National Guard and the Air National Guard when engaged in active duty for training, inactive duty training, or full-time National Guard duty, the commissioned corps of the Public Health Service, the commissioned officer corps of the National Oceanic and Atmospheric Administration, System members of the National Urban Search and Rescue Response System during a period of appointment into Federal service under section 327 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act, and any other category of persons designated by the President in time of war or national emergency.
 
 ### §4304. Character of service
 * A person's entitlement to the benefits of this chapter by reason of the service of such person in one of the uniformed services terminates upon the occurrence of any of the following events:

@@ -163,6 +163,9 @@
 * #### (3) Consideration
   * In awarding grants under this section, the Secretary shall take into consideration the extent of the need of the applicant, including the incidence and prevalence of suicide in the State and among the populations of focus, including rates of suicide determined by the Centers for Disease Control and Prevention for the State or population of focus.
 
+* #### (4) Consultation
+  * An entity described in paragraph (1)(A) or (1)(B) that applies for a grant or cooperative agreement under this section shall agree to consult or confer with entities described in paragraph (1)(C) and Native Hawaiian Health Care Systems, as applicable, in the applicable State with respect to the development and implementation of a statewide early intervention strategy.
+
 #### (c) Preference
 * In providing assistance under a grant or cooperative agreement under this section, an eligible entity shall give preference to public organizations, private nonprofit organizations, political subdivisions, institutions of higher education, and tribal organizations actively involved with the State-sponsored statewide or tribal youth suicide early intervention and prevention strategy that—
 

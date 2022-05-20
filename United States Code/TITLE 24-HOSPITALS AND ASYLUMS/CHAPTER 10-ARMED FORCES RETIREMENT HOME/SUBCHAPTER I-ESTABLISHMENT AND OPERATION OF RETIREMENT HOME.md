@@ -95,15 +95,23 @@
 
 ### §412. Residents of Retirement Home
 #### (a) Persons eligible to be residents
-* Except as provided in subsection (b), the following persons who served as members of the Armed Forces, at least one-half of whose service was not active commissioned service (other than as a warrant officer or limited-duty officer), are eligible to become residents of the Retirement Home:
+* Except as provided in subsection (b), the following persons who served as members of the Armed Forces, at least one-half of whose service was not commissioned service (other than as a warrant officer or limited-duty officer), are eligible to become residents of the Retirement Home:
 
-  * (1) Persons who are 60 years of age or over and were discharged or released from service in the Armed Forces after 20 or more years of active service.
+  * (1) Persons who were discharged or released from service in the Armed Forces after 20 or more years of active service.
 
   * (2) Persons who are determined under rules prescribed by the Chief Operating Officer to be suffering from a service-connected disability incurred in the line of duty in the Armed Forces.
 
   * (3) Persons who served in a war theater during a time of war declared by Congress or were eligible for hostile fire special pay under section 310 or 351 of title 37 and who are determined under rules prescribed by the Chief Operating Officer to be suffering from injuries, disease, or disability.
 
   * (4) Persons who served in a women's component of the Armed Forces before June 12, 1948, and are determined under rules prescribed by the Chief Operating Officer to be eligible for admission because of compelling personal circumstances.
+
+  * (5) Persons who are eligible for retired pay under chapter 1223 of title 10 and are—
+
+    * (A) eligible for care under section 1710 of title 38;
+
+    * (B) enrolled in coverage under chapter 55 of title 10; or
+
+    * (C) enrolled in a qualified health plan (as defined in section 18021(a) of title 42) that is acceptable to the Chief Operating Officer.
 
 #### (b) Persons ineligible to be residents
 * The following persons are ineligible to become a resident of the Retirement Home:
@@ -184,7 +192,7 @@
 
   * (1) Facilitate and monitor the timely availability to residents of the Retirement Home such medical, mental health, and dental care services as such residents may require at locations other than the Retirement Home.
 
-  * (2) Monitor compliance by the facilities of the Retirement Home with accreditation standards, applicable nationally recognized health care standards and requirements, or any other applicable health care standards and requirements (including requirements identified in applicable reports of the Inspector General of the Department of Defense).
+  * (2) Monitor compliance by the facilities of the Retirement Home with accreditation standards, applicable nationally recognized health care standards and requirements, or any other applicable health care standards and requirements.
 
   * (3) Periodically visit each facility of the Retirement Home to review—
 
@@ -208,9 +216,13 @@
 #### (c) Fixing fees
 * (1) The Chief Operating Officer, with the approval of the Secretary of Defense, shall from time to time prescribe the fees required by subsection (a). Changes to such fees shall be based on the financial needs of the Retirement Home and the ability of the residents to pay. A change of a fee may not take effect until 120 days after the Secretary of Defense transmits a notification of the change to the Committees on Armed Services of the Senate and the House of Representatives.
 
-* (2) The fee shall be fixed as a percentage of the monthly income and monthly payments (including Federal payments) received by a resident. The percentage shall be the same for each facility of the Retirement Home. The Secretary of Defense may make any adjustment in a percentage that the Secretary determines appropriate.
+* (2)(A) The fee shall be fixed as a percentage of the monthly income and monthly payments (including Federal payments) received by a resident. The percentage shall be the same for each facility of the Retirement Home. The Secretary of Defense may make any adjustment in a percentage that the Secretary determines appropriate.
+
+* (B) The calculation of monthly income and monthly payments under subparagraph (A) for a resident eligible under section 412(a)(5) of this title shall not be less than the retirement pay for equivalent active duty service as determined by the Chief Operating Officer, except as the Chief Operating Officer may provide because of the compelling personal circumstances of such resident.
 
 * (3) The fee shall be subject to a limitation on maximum monthly amount. The amount of the limitation shall be increased, effective on January 1 of each year, by the percentage of the increase in retired pay and retainer pay that takes effect on the preceding December 1 under subsection (b) of section 1401a of title 10 without regard to paragraph (3) of such subsection.
+
+* (4) The Administrator of each facility of the Retirement Home may collect a fee upon admission from a resident accepted under section 412(a)(5) of this title equal to the deductions then in effect under section 1007(i)(1) of title 37 for each year of service computed under chapter 1223 of title 10 and shall deposit such fee in the Armed Forces Retirement Home Trust Fund.
 
 ### §415. Chief Operating Officer
 #### (a) Appointment
@@ -274,11 +286,7 @@
 
 * (2) Not less often than annually, the Advisory Council shall submit to the Secretary of Defense a report summarizing its activities during the preceding year and providing such observations and recommendations with respect to the Retirement Home as the Advisory Council considers appropriate.
 
-* (3) In carrying out its functions, the Advisory Council shall—
-
-  * (A) provide for participation in its activities by a representative of the Resident Advisory Committee of each facility of the Retirement Home; and
-
-  * (B) make recommendations to the Inspector General of the Department of Defense regarding issues that the Inspector General should investigate.
+* (3) In carrying out its functions, the Advisory Council shall provide for participation in its activities by a representative of the Resident Advisory Committee of each facility of the Retirement Home.
 
 #### (c) Composition
 * (1) The Advisory Council shall consist of at least 15 members.
@@ -390,7 +398,7 @@
 #### (e) Duties of Ombudsman
 * (1) The Ombudsman of a facility shall, under the authority, direction, and control of the Administrator of the facility, serve as ombudsman for the residents and perform such other duties as the Administrator may assign.
 
-* (2) The Ombudsman may provide information to the Administrator, the Chief Operating Officer, the Senior Medical Advisor, the Inspector General of the Department of Defense, and the Secretary of Defense.
+* (2) The Ombudsman may provide information to the Administrator, the Chief Operating Officer, the Senior Medical Advisor, and the Secretary of Defense.
 
 #### (f) Staff
 * (1) The Administrator of a facility may, subject to the approval of the Chief Operating Officer, appoint and prescribe the pay of such principal staff as the Administrator considers appropriate to assist the Administrator in operating the facility.
@@ -402,31 +410,15 @@
 
 * (2) The Chief Operating Officer shall submit to the Secretary of Defense any recommendations regarding an Administrator that the Chief Operating Officer determines appropriate taking into consideration the annual evaluation.
 
-### §418. Periodic inspection of retirement home facilities by Department of Defense Inspector General and outside inspectors
-#### (a) Duty of Inspector General of the Department of Defense
-* The Inspector General of the Department of Defense shall have the duty to inspect the Retirement Home.
+### §418. Periodic inspection of retirement home facilities
+#### (a) Inspections
+* The Chief Operating Officer shall request the inspection of each facility of the Retirement Home by a nationally recognized civilian accrediting organization in accordance with section 411(g) of this title on a frequency consistent with the standards of such organization.
 
-#### (b) Inspections by Inspector General
-* (1) Not less often than once every three years, the Inspector General of the Department of Defense shall perform a comprehensive inspection of all aspects of each facility of the Retirement Home, including independent living, assisted living, long-term care, medical and dental care, pharmacy, financial and contracting records, and any aspect of either facility on which the Advisory Council or the Resident Advisory Committee of the facility recommends inspection.
+#### (b) Availability of staff and records
+* The Chief Operating Officer and the Administrator of a facility being inspected under this section shall make all staff, other personnel, and records of the facility available to the civilian accrediting organization in a timely manner for purposes of inspections under this section.
 
-* (2) The Inspector General shall be assisted in inspections under this subsection by a medical inspector general of a military department designated for purposes of this subsection by the Secretary of Defense.
-
-* (3) In conducting the inspection of a facility of the Retirement Home under this subsection, the Inspector General shall solicit concerns, observations, and recommendations from the Advisory Council, the Resident Advisory Committee of the facility, and the residents of the facility. Any concerns, observations, and recommendations solicited from residents shall be solicited on a not-for-attribution basis.
-
-* (4) The Chief Operating Officer and the Administrator of each facility of the Retirement Home shall make all staff, other personnel, and records of each facility available to the Inspector General in a timely manner for purposes of inspections under this subsection.
-
-#### (c) Reports on inspections by Inspector General
-* (1) The Inspector General shall prepare a report describing the results of each inspection conducted of a facility of the Retirement Home under subsection (b), and include in the report such recommendations as the Inspector General considers appropriate in light of the inspection. Not later than 90 days after completing the inspection of the facility, the Inspector General shall submit the report to the Secretary of Defense, the Chief Operating Officer, the Administrator of the facility, the Senior Medical Advisor, and the Advisory Council.
-
-* (2) A report submitted under paragraph (1) shall include a plan by the Chief Operating Officer to address the recommendations and other matters contained in the report.
-
-#### (d) Additional inspections
-* (1) The Chief Operating Officer shall request the inspection of each facility of the Retirement Home by a nationally recognized civilian accrediting organization in accordance with section 411(g) of this title.
-
-* (2) The Chief Operating Officer and the Administrator of a facility being inspected under this subsection shall make all staff, other personnel, and records of the facility available to the civilian accrediting organization in a timely manner for purposes of inspections under this subsection.
-
-#### (e) Reports on additional inspections
-* Not later than 60 days after receiving a report of an inspection from the civilian accrediting organization under subsection (d), the Chief Operating Officer shall submit to the Secretary of Defense, the Senior Medical Advisor, and the Advisory Council a report containing—
+#### (c) Reports
+* Not later than 60 days after receiving a report on an inspection from the civilian accrediting organization under this section, the Chief Operating Officer shall submit to the Secretary of Defense, the Senior Medical Advisor, and the Advisory Council a report containing—
 
   * (1) the results of the inspection; and
 

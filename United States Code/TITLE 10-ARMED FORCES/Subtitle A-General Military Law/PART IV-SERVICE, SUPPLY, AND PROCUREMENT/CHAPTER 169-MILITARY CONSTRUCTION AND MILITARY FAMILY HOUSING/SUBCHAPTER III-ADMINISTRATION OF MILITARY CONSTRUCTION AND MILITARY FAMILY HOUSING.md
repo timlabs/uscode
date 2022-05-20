@@ -39,6 +39,20 @@
 
 * (d) ANNUAL REPORT ON SCHEDULE DELAYS.—Not later than March 1 of each year (beginning with 2018), the Secretary of Defense shall submit to the Committees on Armed Services of the House of Representatives and Senate a report on each military construction project or military family housing project for which, as of the end of the most recent fiscal year, the estimated completion date is more than 1 year later than the completion date proposed at the time the contract for the project was awarded.
 
+### §2851a. Supervision of military housing by Chief Housing Officer
+* (a) DESIGNATION.—(1) The Secretary of Defense shall designate, from among officials of the Department of Defense who are appointed by the President with the advice and consent of the Senate, a Chief Housing Officer who shall oversee family housing and military unaccompanied housing under the jurisdiction of the Department of Defense or acquired or constructed under subchapter IV of this chapter (in this section referred to as "covered housing units").
+
+* (2) The official of the Department of Defense designated as Chief Housing Officer may be assigned duties in addition to the duties as Chief Housing Officer under subsection (b).
+
+* (b) PRINCIPAL DUTIES.—(1) The Chief Housing Officer shall oversee all aspects of the provision of covered housing units, including the following:
+
+  * (A) Creation and standardization of policies and processes regarding covered housing units.
+
+  * (B) Oversight of the administration of any Department of Defense-wide policies regarding covered housing units, to include, in coordination with the Secretaries of the military departments, the housing documents developed pursuant to section 2890 of this title entitled Military Housing Privatization Initiative Tenant Bill of Rights and Military Housing Privatization Initiative Tenant Responsibilities.
+
+
+* (2) The duties specified in paragraph (1) may not be further delegated.
+
 ### §2852. Military construction projects: waiver of certain restrictions
 * (a) The Secretary of Defense and the Secretaries of the military departments may carry out authorized military construction projects and authorized military family housing projects without regard to subsections (a) and (b) of section 3324 of title 31.
 
@@ -62,7 +76,7 @@
 
 * (c) The limitation on cost variations in subsection (a) or the limitation on scope reduction in subsection (b)(1) does not apply if the variation in cost or reduction in the scope of work is approved by the Secretary concerned and—
 
-  * (1) in the case of a cost increase or a reduction in the scope of work—
+  * (1) in the case of a cost increase (subject to subsection (f)) or a reduction in the scope of work—
 
     * (A) the Secretary concerned notifies the appropriate committees of Congress of the cost increase or reduction in scope, the reasons therefor, a certification that the mission requirement identified in the justification data provided to Congress can still be met with the reduced scope, and a description of the funds proposed to be used to finance any increased costs; and
 
@@ -90,7 +104,7 @@
   * (2) The costs associated with the required remediation of an environmental hazard in connection with a military construction project or military family housing project, such as asbestos removal, radon abatement, lead-based paint removal or abatement, or any other legally required environmental hazard remediation, if the required remediation could not have reasonably been anticipated at the time the project was approved originally by Congress.
 
 
-* (f)(1) In addition to the notification sent under paragraph (1) of subsection (c) of a cost increase with respect to a project, the Secretary concerned shall provide an additional report notifying the congressional defense committees and the Comptroller General of the United States of any military construction project or military family housing project with a total authorized cost greater than $40,000,000 that has a cost increase of 25 percent or more.
+* (f)(1) In addition to the notification sent under paragraph (1) of subsection (c) of a cost increase with respect to a project, the Secretary concerned shall provide an additional report notifying the congressional defense committees of any military construction project or military family housing project with a total authorized cost greater than $40,000,000 that has a cost increase of 25 percent or more.
 
 * (2) The report under paragraph (1) shall include the following—
 
@@ -108,13 +122,11 @@
   * (D) A summary of any changes the Secretary concerned believes may be required to the organizational structure, project management and oversight practices, policy, or authorities of a government organization involved in military construction projects as a result of problems identified and lessons learned from the project.
 
 
-* (3) If any proceeding or investigation described in paragraph (2)(C) is still ongoing at the time the Secretary concerned submits the report under paragraph (1), the Secretary shall provide a supplemental report to the congressional defense committees and the Comptroller General of the United States not later than 30 days after such proceeding or investigation has been completed. If such proceeding or investigation resulted in final judicial or administrative action against a government employee, prime contractor, subcontractor, or non-governmental organization, the Secretary shall include in the supplemental report the information required by paragraph (2)(C).
+* (3) If any proceeding or investigation described in paragraph (2)(C) is still ongoing at the time the Secretary concerned submits the report under paragraph (1), the Secretary shall provide a supplemental report to the congressional defense committees not later than 30 days after such proceeding or investigation has been completed. If such proceeding or investigation resulted in final judicial or administrative action against a government employee, prime contractor, subcontractor, or non-governmental organization, the Secretary shall include in the supplemental report the information required by paragraph (2)(C).
 
 * (4) Each report under this subsection shall be cosigned by the senior engineer authorized to supervise military construction projects and military family housing projects under section 2851(a).
 
 * (5) The Secretary shall send the report required under paragraph (1) with respect to a project not later than 180 days after the Secretary sends to the appropriate committees of Congress the notification under paragraph (1) of subsection (c) of a cost increase with respect to the project.
-
-* (6) The Comptroller General of the United States shall review each report submitted under this subsection and validate or correct as necessary the information provided.
 
 * (g) Notwithstanding the authority under subsections (a) through (f), the Secretary concerned shall ensure compliance of contracts for military construction projects and for the construction, improvement, and acquisition of military family housing projects with section 1341 of title 31 (commonly referred to as the "Anti-Deficiency Act").
 
@@ -404,13 +416,33 @@
   * (B) that is located on a military installation not covered by subparagraph (A) and for which the Secretary concerned makes a determination that the conveyance under paragraph (1) is advantageous to the United States.
 
 
-* (b) CONDITIONS ON CONVEYANCE AUTHORITY.—(1) The fair market value of the land to be obtained by the Secretary concerned under subsection (a) in exchange for the conveyance of real property by the Secretary under such subsection shall be at least equal to the fair market value of the conveyed real property, as determined by the Secretary. If the fair market value of the land is less than the fair market value of the real property to be conveyed, the recipient of the property shall pay to the United States an amount equal to the difference in the fair market values.
+* (3)(A) The Secretary of Defense shall establish a pilot program under which the Secretary concerned, during the term of the pilot program, may use the authority provided by paragraph (1) to also convey real property, including any improvements thereon, described in paragraph (2) to any person who agrees, in exchange for the real property, to provide—
+
+  * (i) installation-support services (as defined in 2679(e) of this title); or
+
+  * (ii) a new facility or improvements to an existing facility.
+
+
+* (B) The acquisition of a facility or improvements to an existing facility using the authority provided by subparagraph (A) shall not be treated as a military construction project for which an authorization is required by section 2802 of this title.
+
+* (C) The expanded conveyance authority provided by subparagraph (A) applies only during the five-year period beginning on the date on which the Secretary of Defense issues guidance regarding the use by the Secretaries concerned of such authority.
+
+* (b) CONDITIONS ON CONVEYANCE AUTHORITY.—(1) The fair market value of the real property, installation-support services, or facility or improvements to an existing facility obtained by the Secretary concerned under subsection (a) in exchange for the conveyance of real property by the Secretary under such subsection shall be at least equal to the fair market value of the conveyed real property, as determined by the Secretary. If the fair market value of the real property conveyed by the Secretary concerned exceeds the fair market value of the real property, installation-support services, or facility or improvements received by the Secretary, the recipient of the property shall pay to the United States an amount equal to the difference in the fair market values.
 
 * (2) In the case of a conveyance of real property to a political subdivision of a State, the value of the real property to be conveyed by the Secretary concerned under subsection (a) may exceed the fair market value of the land to be obtained, as determined under paragraph (1), by an amount not to exceed the reduction in value of the land which is attributable to voluntary zoning actions taken by such political subdivision to limit encroachment on a military installation, but only if the notice required by subsection (d)(2) contains—
 
   * (A) a certification by the Secretary concerned that the military value to the United States of the land to be acquired justifies a payment in excess of the fair market value; and
 
   * (B) a description of the military value to be obtained.
+
+
+* (3) The Secretary concerned may agree to accept a facility or improvements to an existing facility under subsection (a)(3) only if the Secretary concerned determines that the facility or improvements—
+
+  * (A) are completed and usable, fully functional, and ready for occupancy;
+
+  * (B) satisfy all operational requirements; and
+
+  * (C) meet all Federal, State, and local requirements applicable to the facility relating to health, safety, and the environment.
 
 
 * (c) LIMITATION ON USE OF CONVEYANCE AUTHORITY AT INSTALLATIONS CLOSED UNDER BASE CLOSURE LAWS.—The authority under subsection (a)(2)(A) to convey property located on a military installation may only be used to the extent the conveyance is consistent with an approved redevelopment plan for such installation.
@@ -438,23 +470,3 @@
 * (f) DESCRIPTION OF PROPERTY.—The exact acreage and legal description of real property conveyed under subsection (a) shall be determined by surveys satisfactory to the Secretary concerned.
 
 * (g) ADDITIONAL TERMS AND CONDITIONS.—The Secretary concerned may require such additional terms and conditions in connection with a conveyance under subsection (a) as the Secretary considers appropriate to protect the interests of the United States.
-
-### §2870. Use of qualified apprentices by military construction contractors
-* (a) CERTIFICATION REQUIRED.—The Secretary of Defense shall require each offeror for a contract for a military construction project to certify to the Secretary that, if awarded such a contract, the offeror will—
-
-  * (1) establish a goal that not less than 20 percent of the total workforce employed in the performance of such a contract are qualified apprentices; and
-
-  * (2) make a good faith effort to meet or exceed such goal.
-
-
-* (b) INCENTIVES.—The Secretary of Defense shall develop incentives for offerors for a contract for military construction projects to meet or exceed the goal described in subsection (a).
-
-* (c) CONSIDERATION OF USE OF QUALIFIED APPRENTICES.—The Secretary of Defense shall revise the Department of Defense Supplement to the Federal Acquisition Regulation to require that the system used by the Federal Government to monitor or record contractor past performance includes an analysis of whether the contractor has made a good faith effort to meet or exceed the goal described in subsection (a), including consideration of the actual number of qualified apprentices used by the contractor on the contract, as part of the past performance rating of such contractor.
-
-* (d) QUALIFIED APPRENTICE DEFINED.—In this section, the term "qualified apprentice" means an employee participating in an apprenticeship program that is—
-
-  * (1) registered with the Office of Apprenticeship of the Employment Training Administration of the Department of Labor pursuant to the Act of August 16, 1937 (popularly known as the "National Apprenticeship Act"; 29 U.S.C. 50 et seq.);
-
-  * (2) registered with a State apprenticeship agency recognized by such Office of Apprenticeship pursuant to such Act; or
-
-  * (3) determined to be a high-quality apprenticeship program by industry and the Secretary of Labor.

@@ -272,22 +272,21 @@
 
   * (2) A list of all major atomic energy defense acquisition programs and a concise description of the status of each such program and project in meeting cost and critical schedule milestones.
 
-#### (h) Definitions
+#### (h) Rule of Construction
+* Nothing in this section shall be construed to require duplicate reviews or cost estimates for major atomic energy defense acquisition programs by the Administration or other elements of the Department of Energy.
+
+#### (i) Definitions
 * In this section:
 
 * #### (1) Administration
   * The term "Administration", with respect to any authority, duty, or responsibility provided by this section, does not include the Office of Naval Reactors.
 
 * #### (2) Major atomic energy defense acquisition program
-  * #### (A) In general
-    * Except as provided in subparagraph (B), the term "major atomic energy defense acquisition program" means an atomic energy defense acquisition program of the Administration—
+  * The term "major atomic energy defense acquisition program" means an atomic energy defense acquisition program of the Administration—
 
-      * (i) the total project cost of which is more than $500,000,000; or
+    * (A) the total project cost of which is more than $500,000,000; or
 
-      * (ii) the total lifetime cost of which is more than $1,000,000,000.
-
-  * #### (B) Exclusion of capital assets acquisition projects
-    * The term "major atomic energy defense acquisition program" does not include a project covered by Department of Energy Order 413.3 (or a successor order) for the acquisition of capital assets for atomic energy defense activities.
+    * (B) the total lifetime cost of which is more than $1,000,000,000.
 
 * #### (3) Performance baseline
   * The term "performance baseline", with respect to a major atomic energy defense acquisition program, means the key parameters with respect to performance, scope, cost, and schedule for the project budget of the program.

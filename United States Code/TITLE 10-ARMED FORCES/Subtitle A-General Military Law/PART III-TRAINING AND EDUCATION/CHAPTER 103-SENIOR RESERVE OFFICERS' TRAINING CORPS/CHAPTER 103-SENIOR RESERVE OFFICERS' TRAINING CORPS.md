@@ -10,7 +10,7 @@
   * (3) The term "advanced training" means the training and instruction offered in the Senior Reserve Officers' Training Corps to students enrolled in an advanced education program beyond the baccalaureate degree level or to students in the third and fourth years of a four-year Senior Reserve Officers' Training Corps course, or the equivalent period of training in an approved two-year Senior Reserve Officers' Training Corps course (except that, in the case of a student enrolled in an academic program which has been approved by the Secretary of the military department concerned and which requires more than four academic years for completion of baccalaureate degree requirements, including elective requirements of the Senior Reserve Officers' Training Corps course, such term includes a fifth academic year or a combination of a part of a fifth academic year and summer sessions).
 
 ### §2102. Establishment
-* (a) For the purpose of preparing selected students for commissioned service in the Army, Navy, Air Force, or Marine Corps, the Secretary of each military department, under regulations prescribed by the President, may establish and maintain a Senior Reserve Officers' Training Corps program, organized into one or more units, at any accredited civilian educational institution authorized to grant baccalaureate degrees, and at any school essentially military that does not confer baccalaureate degrees, upon the request of the authorities at that institution.
+* (a) For the purpose of preparing selected students for commissioned service in the Army, Navy, Air Force, Marine Corps, or Space Force, the Secretary of each military department, under regulations prescribed by the President, may establish and maintain a Senior Reserve Officers' Training Corps program, organized into one or more units, at any accredited civilian educational institution authorized to grant baccalaureate degrees, and at any school essentially military that does not confer baccalaureate degrees, upon the request of the authorities at that institution.
 
 * (b) No unit may be established or maintained at an institution unless—
 
@@ -47,7 +47,7 @@
 
   * (1) contract with the Secretary of the military department concerned, or the Secretary's designated representative, to serve for the period required by the program; and
 
-  * (2) agree in writing to accept an appointment, if offered, as a commissioned officer in the Army, Navy, Air Force, or Marine Corps, as the case may be, and to serve in the armed forces for the period prescribed by the Secretary.
+  * (2) agree in writing to accept an appointment, if offered, as a commissioned officer in the Army, Navy, Air Force, Marine Corps, or Space Force, as the case may be, and to serve in the armed forces for the period prescribed by the Secretary.
 
 
 * (b) ELIGIBILITY REQUIREMENTS.—A member of the program may enter into a contract and agreement under this section (and receive a subsistence allowance under section 209(c) of title 37) only if the person—
@@ -74,7 +74,7 @@
 
   * (4) contract, with the consent of his parent or guardian if he is a minor, with the Secretary of the military department concerned, or his designated representative, to serve for the period required by the program;
 
-  * (5) agree in writing that he will accept an appointment, if offered, as a commissioned officer in the Army, Navy, Air Force, or Marine Corps, as the case may be, and that he will serve in the armed forces for the period prescribed by the Secretary;
+  * (5) agree in writing that he will accept an appointment, if offered, as a commissioned officer in the Army, Navy, Air Force, Marine Corps, or Space Force, as the case may be, and that he will serve in the armed forces for the period prescribed by the Secretary;
 
   * (6) either—
 
@@ -106,7 +106,7 @@
 * (c) In computing length of service for any purpose, an officer appointed under this section may not be credited with enlisted service for the period covered by his advanced training, other than any period of enlisted service performed on or after August 1, 1979, as a member of the Selected Reserve.
 
 ### §2107. Financial assistance program for specially selected members
-* (a) The Secretary of the military department concerned may appoint as a cadet or midshipman, as appropriate, in the reserve of an armed force under his jurisdiction any eligible member of the program who will be under 31 years of age on December 31 of the calendar year in which he is eligible under this section for appointment as an ensign in the Navy or as a second lieutenant in the Army, Air Force, or Marine Corps, as the case may be.
+* (a) The Secretary of the military department concerned may appoint as a cadet or midshipman, as appropriate, in the reserve of an armed force under his jurisdiction any eligible member of the program who will be under 31 years of age on December 31 of the calendar year in which he is eligible under this section for appointment as an ensign in the Navy, as a second lieutenant in the Army, Air Force, Marine Corps, or as an officer in the equivalent grade in the Space Force or Space Force, as the case may be.
 
 * (b) To be eligible for appointment as a cadet or midshipman under this section a member must—
 
@@ -114,23 +114,23 @@
 
   * (2) be specially selected for the financial assistance program under procedures prescribed by the Secretary of the military department concerned;
 
-  * (3) enlist in the reserve component of the armed force in which he is appointed as a cadet or midshipman for the period prescribed by the Secretary of the military department concerned;
+  * (3) enlist in the reserve component of an armed force for the period prescribed by the Secretary of the military department concerned;
 
   * (4) contract, with the consent of his parent or guardian if he is a minor, with the Secretary of the military department concerned, or his designated representative, to serve for the period required by the program; and
 
   * (5) agree in writing that, at the discretion of the Secretary of the military department concerned, he will—
 
-    * (A)(i) accept an appointment, if offered, as a commissioned officer in the Army, Navy, Air Force, or Marine Corps, as the case may be, and that, if he is commissioned as a regular officer and his regular commission is terminated before the sixth anniversary of his date of rank, he will accept an appointment, if offered, in the reserve component of that armed force and not resign before that anniversary or before such other date, not beyond the eighth anniversary of the midshipman's date of rank, that the Secretary of Defense may prescribe; and
+    * (A)(i) accept an appointment, if offered, as a commissioned officer in the Army, Navy, Air Force, Marine Corps, or Space Force, as the case may be, and that, if he is commissioned as a regular officer and his regular commission is terminated before the sixth anniversary of his date of rank, he will accept an appointment, if offered, in the reserve component of an armed force and not resign before that anniversary or before such other date, not beyond the eighth anniversary of the midshipman's date of rank, that the Secretary of Defense may prescribe; and
 
     * (ii) serve on active duty for four or more years;
 
-    * (B)(i) accept an appointment, if offered, as a commissioned officer in the Army, Navy, Air Force, or Marine Corps, as the case may be; and
+    * (B)(i) accept an appointment, if offered, as a commissioned officer in the Army, Navy, Air Force, Marine Corps, or Space Force, as the case may be; and
 
-    * (ii) serve in a reserve component of that armed force until the eighth anniversary of the receipt of such appointment, unless otherwise extended by subsection (d) of section 2108 of this title, under such terms and conditions as shall be prescribed by the Secretary of the military department concerned; or
+    * (ii) serve in a reserve component of an armed force until the eighth anniversary of the receipt of such appointment, unless otherwise extended by subsection (d) of section 2108 of this title, under such terms and conditions as shall be prescribed by the Secretary of the military department concerned; or
 
-    * (C)(i) accept an appointment, if offered, as a commissioned officer in the Army, Navy, Air Force, or Marine Corps, as the case may be; and
+    * (C)(i) accept an appointment, if offered, as a commissioned officer in the Army, Navy, Air Force, Marine Corps, or Space Force, as the case may be; and
 
-    * (ii) serve in a reserve component of that armed force until at least the sixth anniversary and, at the discretion of the Secretary of Defense, up to the eighth anniversary of the receipt of such appointment, unless such appointment is otherwise extended by subsection (d) of section 2108 of this title, under such terms and conditions as may be prescribed by the Secretary of the military department concerned.
+    * (ii) serve in a reserve component of an armed force until at least the sixth anniversary and, at the discretion of the Secretary of Defense, up to the eighth anniversary of the receipt of such appointment, unless such appointment is otherwise extended by subsection (d) of section 2108 of this title, under such terms and conditions as may be prescribed by the Secretary of the military department concerned.
 
 
 * The performance of service under clause (5)(B) or (5)(C) may include periods of active duty, active duty for training, and other service in an active or inactive status in the reserve component in which appointed, except that performance of service under clause (5)(C) shall include not less than two years of active duty.
@@ -157,7 +157,7 @@
 
 * (G) Any service obligation incurred by an officer under an agreement entered into under this paragraph shall be in addition to any service obligation incurred by that officer under any other provision of law or agreement.
 
-* (d) Upon satisfactorily completing the academic and military requirements of the four-year program, a cadet or midshipman may be appointed as a regular or reserve officer in the appropriate armed force in the grade of second lieutenant or ensign, even though he is under 21 years of age.
+* (d) Upon satisfactorily completing the academic and military requirements of the four-year program, a cadet or midshipman may be appointed as a regular or reserve officer in the appropriate armed force in the grade of second lieutenant, ensign, or an equivalent grade in the Space Force, even though he is under 21 years of age.
 
 * (e) The date of rank of officers appointed under this section in May or June of any year is the date of graduation of cadets or midshipmen from the United States Military Academy, the United States Naval Academy, or the United States Air Force Academy, as the case may be in that year. The Secretary of the military department concerned shall establish the date of rank of all other officers appointed under this section.
 

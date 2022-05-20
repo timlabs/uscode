@@ -298,7 +298,7 @@
 ### §16133. Time limitation for use of entitlement
 * (a) Except as provided in subsection (b), the period during which a person entitled to educational assistance under this chapter may use such person's entitlement expires on the date the person is separated from the Selected Reserve.
 
-* (b)(1) In the case of a person—
+* (b)&nbsp;(1) In the case of a person—
 
   * (A) who is separated from the Selected Reserve because of a disability which was not the result of the individual's own willful misconduct incurred on or after the date on which such person became entitled to educational assistance under this chapter; or
 

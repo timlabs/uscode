@@ -7,7 +7,7 @@
 
   * (2) the surviving spouse or child of a veteran who (A) died as a result of a service-connected disability, or (B) at the time of death had a total disability permanent in nature, resulting from a service-connected disability,
 
-  * (3) the surviving spouse or child of a person who died in the active military, naval, or air service in the line of duty and not due to such person's own misconduct, and
+  * (3) the surviving spouse or child of a person who died in the active military, naval, air, or space service in the line of duty and not due to such person's own misconduct, and
 
   * (4) an individual designated as a primary provider of personal care services under section 1720G(a)(7)(A) of this title who is not entitled to care or services under a health-plan contract (as defined in section 1725(f) of this title),
 
@@ -80,7 +80,7 @@
   * (2) that occurred while the veteran was participating in a hospice program (or a similar program) conducted by the Secretary.
 
 
-* (b) DEATHS IN ACTIVE SERVICE.—(1) The Secretary may provide bereavement counseling to an individual who is a member of the immediate family of a member of the Armed Forces who dies in the active military, naval, or air service in the line of duty and under circumstances not due to the person's own misconduct.
+* (b) DEATHS IN ACTIVE SERVICE.—(1) The Secretary may provide bereavement counseling to an individual who is a member of the immediate family of a member of the Armed Forces who dies in the active military, naval, air, or space service in the line of duty and under circumstances not due to the person's own misconduct.
 
 * (2) For purposes of this subsection, the members of the immediate family of a member of the Armed Forces described in paragraph (1) include the parents of such member.
 
@@ -219,14 +219,37 @@
 * (f) REGULATIONS.—The Secretary shall prescribe regulations governing the exercise of the authority of the Secretary under this section.
 
 ### §1786. Care for newborn children of women veterans receiving maternity care
-* (a) IN GENERAL.—The Secretary may furnish health care services described in subsection (b) to a newborn child of a woman veteran who is receiving maternity care furnished by the Department for not more than seven days after the birth of the child if the veteran delivered the child in—
+* (a) IN GENERAL.—Except as provided in subsection (c), the Secretary may furnish health care services described in subsection (b) and transportation necessary to receive such services to a newborn child of a woman veteran who is receiving maternity care furnished by the Department for not more than seven days after the birth of the child if the veteran delivered the child in—
 
-  * (1) a facility of the Department; or
+  * (1) a facility of the Department;
 
-  * (2) another facility pursuant to a Department contract for services relating to such delivery.
+  * (2) another facility pursuant to a Department contract for services relating to such delivery; or
+
+  * (3) another location, including a health care facility, if the veteran delivers the child before arriving at a facility described in paragraph (1) or (2).
 
 
-* (b) COVERED HEALTH CARE SERVICES.—Health care services described in this subsection are all post-delivery care services, including routine care services, that a newborn child requires.
+* (b) COVERED HEALTH CARE SERVICES.—Health care services described in this subsection are all post-delivery care services, including routine care services, that a newborn child requires, including necessary health care services provided by a facility other than the facility where the newborn child was delivered (including a specialty pediatric hospital) that accepts transfer of the newborn child and responsibility for treatment of the newborn child.
+
+* (c) EXCEPTION BASED ON MEDICAL NECESSITY.—Pursuant to such regulations as the Secretary shall prescribe to carry out this section, the Secretary may furnish more than seven days of health care services described in subsection (b), and may furnish transportation necessary to receive such services, to a newborn child based on medical necessity if the child is in need of additional care, including if the child has been discharged or released from a hospital and requires readmittance to ensure the health and welfare of the child.
+
+* (d) TRANSPORTATION.—(1) Transportation furnished under subsection (a) to, from, or between care settings to meet the needs of a newborn child includes costs for either or both the newborn child and parents.
+
+* (2) Transportation furnished under subsection (a) includes transportation by ambulance, including air ambulance, or other appropriate medically staffed modes of transportation—
+
+  * (A) to another health care facility (including a specialty pediatric hospital) that accepts transfer of the newborn child or otherwise provides post-delivery care services when the treating facility is not capable of furnishing the care or services required; or
+
+  * (B) to a health care facility in a medical emergency of such nature that a prudent layperson reasonably expects that delay in seeking immediate medical attention would be hazardous to life or health.
+
+
+* (3) Amounts paid by the Department for transportation under this section shall be derived from the Medical Services appropriations account of the Department.
+
+* (e) REIMBURSEMENT OR PAYMENT FOR HEALTH CARE SERVICES OR TRANSPORTATION.—(1) Pursuant to regulations the Secretary shall prescribe to establish rates of reimbursement and any limitations thereto under this section, the Secretary shall directly reimburse a covered entity for health care services or transportation services provided under this section, unless the cost of the services or transportation is covered by an established agreement or contract. If such an agreement or contract exists, its negotiated payment terms shall apply.
+
+* (2)(A) Reimbursement or payment by the Secretary under this section on behalf of an individual to a covered entity shall, unless rejected and refunded by the covered entity within 30 days of receipt, extinguish any liability on the part of the individual for the health care services or transportation covered by such payment.
+
+* (B) Neither the absence of a contract or agreement between the Secretary and a covered entity nor any provision of a contract, agreement, or assignment to the contrary shall operate to modify, limit, or negate the requirements of subparagraph (A).
+
+* (3) In this subsection, the term "covered entity" means any individual, transportation carrier, organization, or other entity that furnished or paid for health care services or transportation under this section.
 
 ### §1787. Health care of family members of veterans stationed at Camp Lejeune, North Carolina
 * (a) IN GENERAL.—Subject to subsection (b), a family member of a veteran described in subparagraph (F) of section 1710(e)(1) of this title who resided at Camp Lejeune, North Carolina, for not fewer than 30 days during the period described in such subparagraph or who was in utero during such period while the mother of such family member resided at such location shall be eligible for hospital care and medical services furnished by the Secretary for any of the illnesses or conditions described in such subparagraph, notwithstanding that there is insufficient medical evidence to conclude that such illnesses or conditions are attributable to such residence.
@@ -243,3 +266,6 @@
 * (b) OTHER SERVICES.—Subject to the availability of appropriations for such purpose, the Secretary shall furnish to a live donor any care or services before and after conducting the transplant procedure under subsection (a) that may be required in connection with such procedure.
 
 * (c) USE OF NON-DEPARTMENT FACILITIES.—In carrying out this section, the Secretary may provide for the operation described in subsection (a) on a live donor and furnish to the live donor the care and services described in subsection (b) at a non-Department facility pursuant to an agreement entered into by the Secretary under this title. The live donor shall be deemed to be an individual eligible for hospital care and medical services at a non-Department facility pursuant to such an agreement solely for the purposes of receiving such operation, care, and services at the non-Department facility.
+
+### §1789. Mental health services for members of the reserve components of the Armed Forces
+* The Secretary, in consultation with the Secretary of Defense, may furnish mental health services to members of the reserve components of the Armed Forces.

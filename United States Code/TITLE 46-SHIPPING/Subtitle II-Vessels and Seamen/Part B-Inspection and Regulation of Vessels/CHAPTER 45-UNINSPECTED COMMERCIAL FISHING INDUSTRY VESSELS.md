@@ -147,17 +147,17 @@
 
 * (2) The Secretary of Health and Human Services, in consultation with and based on criteria established by the Commandant of the Coast Guard shall award grants under this subsection on a competitive basis.
 
-* (3) The Federal share of the cost of any activity carried out with a grant under this subsection shall not exceed 50 percent.
+* (3) The Federal share of the cost of any activity carried out with a grant under this subsection shall not exceed 75 percent.
 
-* (4) There is authorized to be appropriated $3,000,000 for each of fiscal years 2018 through 2019 for grants under this subsection.
+* (4) There is authorized to be appropriated $3,000,000 for each of fiscal years 2018 through 2021 for grants under this subsection.
 
 * (j)(1) The Secretary of Health and Human Services shall establish a Fishing Safety Research Grant Program to provide funding to individuals in academia, members of non-profit organizations and businesses involved in fishing and maritime matters, and other persons with expertise in fishing safety, to conduct research on methods of improving the safety of the commercial fishing industry, including vessel design, emergency and survival equipment, enhancement of vessel monitoring systems, communications devices, de-icing technology, and severe weather detection.
 
 * (2) The Secretary of Health and Human Services, in consultation with and based on criteria established by the Commandant of the Coast Guard, shall award grants under this subsection on a competitive basis.
 
-* (3) The Federal share of the cost of any activity carried out with a grant under this subsection shall not exceed 50 percent.
+* (3) The Federal share of the cost of any activity carried out with a grant under this subsection shall not exceed 75 percent.
 
-* (4) There is authorized to be appropriated $3,000,000 for each of fiscal years 2018 through 2019 for activities under this subsection.
+* (4) There is authorized to be appropriated $3,000,000 for each of fiscal years 2018 through 2021 for activities under this subsection.
 
 * (k) For the purposes of this section, the term "auxiliary craft" means a vessel that is carried onboard a fishing vessel and is normally used to support fishing operations.
 

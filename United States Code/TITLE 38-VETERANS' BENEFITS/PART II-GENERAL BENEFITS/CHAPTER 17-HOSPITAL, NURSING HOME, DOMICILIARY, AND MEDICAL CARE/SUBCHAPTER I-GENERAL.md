@@ -1171,3 +1171,48 @@
   * (1) The most recent evaluations submitted to the Secretary under subsection (a)(5) that the Secretary has not previously submitted to such Committees.
 
   * (2) Any recommendations the Secretary considers appropriate.
+
+### §1709C. Assistance for child care for certain veterans receiving health care
+* (a) PROGRAM REQUIRED.—The Secretary shall carry out a program to provide, subject to subsection (b), assistance to qualified veterans described in subsection (c) to obtain child care so that such veterans can receive health care services described in subsection (c)(2).
+
+* (b) LIMITATION ON PERIOD OF PAYMENTS.—Assistance may be provided to a qualified veteran under this section for receipt of child care only during the period that the qualified veteran—
+
+  * (1) receives the types of health care services described in subsection (c)(2) at a facility of the Department; and
+
+  * (2) requires travel to and return from such facility for the receipt of such health care services.
+
+
+* (c) QUALIFIED VETERANS.—For purposes of this section, a qualified veteran is a veteran who—
+
+  * (1) is the primary caretaker of a child or children; and
+
+  * (2)(A) receives from the Department—
+
+    * (i) regular mental health care services;
+
+    * (ii) intensive mental health care services; or
+
+    * (iii) such other intensive health care services that the Secretary determines that provision of assistance to the veteran to obtain child care would improve access to such health care services by the veteran; or
+
+
+  * (B) is in need of regular or intensive mental health care services from the Department, and but for lack of child care services, would receive such health care services from the Department.
+
+
+* (d) LOCATIONS.—Not later than five years after the date of the enactment of the Deborah Sampson Act of 2020, the Secretary shall carry out the program at each medical center of the Department.
+
+* (e) FORMS OF CHILD CARE ASSISTANCE.—(1) Child care assistance under this section may include the following:
+
+  * (A) Stipends for the payment of child care offered by a licensed child care center (either directly or through a voucher program) that shall be, to the extent practicable, modeled after the Department of Veterans Affairs Child Care Subsidy Program established pursuant to section 630 of the Treasury and General Government Appropriations Act, 2002 (Public Law 107–67; 115 Stat. 552).
+
+  * (B) Direct provision of child care at an on-site facility of the Department.
+
+  * (C) Payments to private child care agencies.
+
+  * (D) Collaboration with facilities or programs of other Federal agencies.
+
+  * (E) Such other forms of assistance as the Secretary considers appropriate.
+
+
+* (2) In providing child care assistance under this section, the child care needs of the local area shall be considered and the head of each medical center may select the type of care that is most appropriate or feasible for such medical center.
+
+* (3) In the case that child care assistance under this section is provided as a stipend under paragraph (1)(A), such stipend shall cover the full cost of such child care.

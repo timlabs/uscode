@@ -17,7 +17,7 @@
 
   * (7) The term "State" includes the District of Columbia.
 
-  * (8) The term "covered TRICARE-eligible individual" means an individual entitled to dental care under chapter 55 of title 10, pursuant to section 1076a or 1076c of such title, who the Secretary of Defense determines should be an eligible individual for purposes of this chapter.
+  * (8) The term "covered TRICARE-eligible individual" means an individual entitled to dental care under chapter 55 of title 10, pursuant to section 1076c of such title, who the Secretary of Defense determines should be an eligible individual for purposes of this chapter.
 
 ### §8952. Availability of dental benefits
 * (a) The Office shall establish and administer a program through which an eligible individual may obtain dental coverage to supplement coverage available through chapter 89.

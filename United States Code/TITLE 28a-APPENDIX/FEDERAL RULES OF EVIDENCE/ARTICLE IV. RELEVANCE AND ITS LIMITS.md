@@ -24,7 +24,7 @@
 ### Rule 403. Excluding Relevant Evidence for Prejudice, Confusion, Waste of Time, or Other Reasons
 * The court may exclude relevant evidence if its probative value is substantially outweighed by a danger of one or more of the following: unfair prejudice, confusing the issues, misleading the jury, undue delay, wasting time, or needlessly presenting cumulative evidence.
 
-### Rule 404. Character Evidence; Crimes or Other Acts
+### Rule 404. Character Evidence; Other Crimes, Wrongs, or Acts.
 * (a) CHARACTER EVIDENCE.
 
   * (1) _Prohibited Uses._ Evidence of a person's character or character trait is not admissible to prove that on a particular occasion the person acted in accordance with the character or trait.
@@ -46,15 +46,19 @@
   * (3) _Exceptions for a Witness._ Evidence of a witness's character may be admitted under Rules 607, 608, and 609.
 
 
-* (b) CRIMES, WRONGS, OR OTHER ACTS.
+* (b) OTHER CRIMES, WRONGS, OR ACTS.
 
-  * (1) _Prohibited Uses._ Evidence of a crime, wrong, or other act is not admissible to prove a person's character in order to show that on a particular occasion the person acted in accordance with the character.
+  * (1) _Prohibited Uses._ Evidence of any other crime, wrong, or act is not admissible to prove a person's character in order to show that on a particular occasion the person acted in accordance with the character.
 
-  * (2) _Permitted Uses; Notice in a Criminal Case._ This evidence may be admissible for another purpose, such as proving motive, opportunity, intent, preparation, plan, knowledge, identity, absence of mistake, or lack of accident. On request by a defendant in a criminal case, the prosecutor must:
+  * (2) _Permitted Uses._ This evidence may be admissible for another purpose, such as proving motive, opportunity, intent, preparation, plan, knowledge, identity, absence of mistake, or lack of accident.
 
-    * (A) provide reasonable notice of the general nature of any such evidence that the prosecutor intends to offer at trial; and
+  * (3) _Notice in a Criminal Case._ In a criminal case, the prosecutor must:
 
-    * (B) do so before trial—or during trial if the court, for good cause, excuses lack of pretrial notice.
+    * (A) provide reasonable notice of any such evidence that the prosecutor intends to offer at trial, so that the defendant has a fair opportunity to meet it;
+
+    * (B) articulate in the notice the permitted purpose for which the prosecutor intends to offer the evidence and the reasoning that supports the purpose; and
+
+    * (C) do so in writing before trial—or in any form during trial if the court, for good cause, excuses lack of pretrial notice.
 
 ### Rule 405. Methods of Proving Character
 * (a) BY REPUTATION OR OPINION. When evidence of a person's character or character trait is admissible, it may be proved by testimony about the person's reputation or by testimony in the form of an opinion. On cross-examination of the character witness, the court may allow an inquiry into relevant specific instances of the person's conduct.

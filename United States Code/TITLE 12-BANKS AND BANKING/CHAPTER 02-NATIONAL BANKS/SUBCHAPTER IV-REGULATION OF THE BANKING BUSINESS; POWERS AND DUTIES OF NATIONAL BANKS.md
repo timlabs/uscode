@@ -47,7 +47,7 @@
 
   * (6) Loans or extensions of credit secured by a segregated deposit account in the lending bank shall not be subject to any limitation based on capital and surplus.
 
-  * (7) Loans or extensions of credit to any financial institution or to any receiver, conservator, superintendent of banks, or other agent in charge of the business and property of such financial institution, when such loans or extensions of credit are approved by the Comptroller of the Currency, shall not be subject to any limitation based on capital and surplus.
+  * (7) Loans or extensions of credit to any nonbank financial company (as that term is defined in section 5311 of this title), any financial institution, or to any receiver, conservator, superintendent of banks, or other agent in charge of the business and property of such financial institution, when such loans or extensions of credit are approved by the Comptroller of the Currency, shall not be subject to any limitation based on capital and surplus.
 
   * (8)(A) Loans and extensions of credit arising from the discount of negotiable or nonnegotiable installment consumer paper which carries a full recourse endorsement or unconditional guarantee by the person transferring the paper shall be subject under this section to a maximum limitation equal to 25 per centum of such capital and surplus, notwithstanding the collateral requirements set forth in subsection (a)(2).
 
@@ -60,7 +60,7 @@
   * (10) Loans or extensions of credit to the Student Loan Marketing Association shall not be subject to any limitation based on capital and surplus.
 
 #### (d) Authority of Comptroller of the Currency
-* (1) The Comptroller of the Currency may prescribe rules and regulations to administer and carry out the purposes of this section, including rules or regulations to define or further define terms used in this section and to establish limits or requirements other than those specified in this section for particular classes or categories of loans or extensions of credit.
+* (1) The Comptroller of the Currency may prescribe rules and regulations to administer and carry out the purposes of this section, including rules or regulations to define or further define terms used in this section and to establish limits or requirements other than those specified in this section for particular classes or categories of loans or extensions of credit. The Comptroller of the Currency may, by order, exempt any transaction or series of transactions from the requirements of this section upon a finding by the Comptroller that such exemption is in the public interest and consistent with the purposes of this section.
 
 * (2) The Comptroller of the Currency also shall have authority to determine when a loan putatively made to a person shall for purposes of this section be attributed to another person.
 

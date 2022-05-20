@@ -1,12 +1,5 @@
 ### **CHAPTER 10—ANCHORAGE GROUNDS AND HARBOR REGULATIONS GENERALLY**
 
-### §471. Establishment by Secretary of Homeland Security of anchorage grounds and regulations generally
-#### (a) In general
-* The Secretary of Homeland Security is authorized, empowered, and directed to define and establish anchorage grounds for vessels in all harbors, rivers, bays, and other navigable waters of the United States whenever it is manifest to the said Secretary that the maritime or commercial interests of the United States require such anchorage grounds for safe navigation and the establishment of such anchorage grounds shall have been recommended by the Chief of Engineers, and to adopt suitable rules and regulations in relation thereto; and such rules and regulations shall be enforced by the Coast Guard under the direction of the Secretary of Transportation: _Provided_, That at ports or places where there is no Coast Guard vessel available such rules and regulations may be enforced by the Chief of Engineers under the direction of the Secretary of Homeland Security. In the event of the violation of any such rules and regulations by the owner, master, or person in charge of any vessel, such owner, master, or person in charge of such vessel shall be liable to a penalty of up to $10,000. Each day during which a violation continues shall constitute a separate violation. The said vessel may be holden for the payment of such penalty, and may be seized and proceeded against summarily by libel for the recovery of the same in any United States district court for the district within which such vessel may be and in the name of the officer designated by the Secretary of Homeland Security.
-
-#### (b) Definition
-* As used in this section "navigable waters of the United States" includes all waters of the territorial sea of the United States as described in Presidential Proclamation No. 5928 of December 27, 1988.
-
 ### §472. Marking anchorage grounds by Commandant of the Coast Guard
 * The Commandant of the Coast Guard shall provide, establish, and maintain, out of the annual appropriations for the Coast Guard, buoys or other suitable marks for marking anchorage grounds for vessels in waters of the United States, when such anchorage grounds have been defined and established by proper authority in accordance with the laws of the United States.
 

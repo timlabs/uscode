@@ -160,7 +160,9 @@
 
   * (F) $340,000,000 for fiscal year 2018.
 
-  * (G) $380,000,000 for each of fiscal years 2019 through 2021.
+  * (G) $380,000,000 for each of fiscal years 2019 and 2020.
+
+  * (H) $420,000,000 for each of fiscal years 2021 and 2022.
 
 
 * (2) Not more than $750,000 may be available under paragraph (1) in any fiscal year to provide technical assistance under subsection (d).

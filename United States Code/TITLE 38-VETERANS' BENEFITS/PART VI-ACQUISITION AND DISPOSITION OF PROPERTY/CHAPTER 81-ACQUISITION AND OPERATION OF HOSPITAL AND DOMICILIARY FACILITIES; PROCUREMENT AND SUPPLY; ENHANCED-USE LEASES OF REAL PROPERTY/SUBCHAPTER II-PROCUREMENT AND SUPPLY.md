@@ -242,9 +242,9 @@
 
 * (4) The Secretary shall establish a review mechanism to ensure that, in the case of a subcontract of a Department contract that is counted for purposes of meeting a goal established pursuant to this section, the subcontract was actually awarded to a business concern that may be counted for purposes of meeting that goal.
 
-* (b) USE OF NONCOMPETITIVE PROCEDURES FOR CERTAIN SMALL CONTRACTS.—For purposes of meeting the goals under subsection (a), and in accordance with this section, in entering into a contract with a small business concern owned and controlled by veterans or a small business concern owned and controlled by veterans with service-connected disabilities for an amount less than the simplified acquisition threshold (as defined in section 134 of title 41), a contracting officer of the Department may use procedures other than competitive procedures.
+* (b) USE OF NONCOMPETITIVE PROCEDURES FOR CERTAIN SMALL CONTRACTS.—Except as provided in subsection (d)(2), for purposes of meeting the goals under subsection (a), and in accordance with this section, in entering into a contract with a small business concern owned and controlled by veterans or a small business concern owned and controlled by veterans with service-connected disabilities for an amount less than the simplified acquisition threshold (as defined in section 134 of title 41), a contracting officer of the Department may use procedures other than competitive procedures.
 
-* (c) SOLE SOURCE CONTRACTS FOR CONTRACTS ABOVE SIMPLIFIED ACQUISITION THRESHOLD.—For purposes of meeting the goals under subsection (a), and in accordance with this section, a contracting officer of the Department may award a contract to a small business concern owned and controlled by veterans or a small business concern owned and controlled by veterans with service-connected disabilities using procedures other than competitive procedures if—
+* (c) SOLE SOURCE CONTRACTS FOR CONTRACTS ABOVE SIMPLIFIED ACQUISITION THRESHOLD.—Except as provided in subsection (d)(2), for purposes of meeting the goals under subsection (a), and in accordance with this section, a contracting officer of the Department may award a contract to a small business concern owned and controlled by veterans or a small business concern owned and controlled by veterans with service-connected disabilities using procedures other than competitive procedures if—
 
   * (1) such concern is determined to be a responsible source with respect to performance of such contract opportunity;
 
@@ -253,7 +253,40 @@
   * (3) in the estimation of the contracting officer, the contract award can be made at a fair and reasonable price that offers best value to the United States.
 
 
-* (d) USE OF RESTRICTED COMPETITION.—Except as provided in subsections (b) and (c), for purposes of meeting the goals under subsection (a), and in accordance with this section, a contracting officer of the Department shall award contracts on the basis of competition restricted to small business concerns owned and controlled by veterans or small business concerns owned and controlled by veterans with service-connected disabilities if the contracting officer has a reasonable expectation that two or more small business concerns owned and controlled by veterans or small business concerns owned and controlled by veterans with service-connected disabilities will submit offers and that the award can be made at a fair and reasonable price that offers best value to the United States.
+* (d) USE OF RESTRICTED COMPETITION.—(1) Except as provided in paragraph (2) and in subsections (b) and (c), for purposes of meeting the goals under subsection (a), and in accordance with this section, a contracting officer of the Department shall award contracts on the basis of competition restricted to small business concerns owned and controlled by veterans or small business concerns owned and controlled by veterans with service-connected disabilities if the contracting officer has a reasonable expectation that two or more small business concerns owned and controlled by veterans or small business concerns owned and controlled by veterans with service-connected disabilities will submit offers and that the award can be made at a fair and reasonable price that offers best value to the United States.
+
+* (2)(A) Notwithstanding paragraph (1) and except as provided by subparagraph (B) of this paragraph, with respect to the procurement of a covered product or service, a contracting officer of the Department shall procure such product or service from a source designated under chapter 85 of title 41, and in accordance with the regulations prescribed under such chapter.
+
+* (B)(i) Subject to clause (ii), subparagraph (A) shall not apply in the case of a covered product or service for which a contract was—
+
+  * (I) awarded under paragraph (1) after December 22, 2006; and
+
+  * (II) in effect on the day before the date of the enactment of the Department of Veterans Affairs Contracting Preference Consistency Act of 2020.
+
+
+* (ii) Clause (i) shall cease to apply to a covered product or service described in such clause upon a determination of the Secretary that when the current contract for the covered product or service is terminated or expires there is no reasonable expectation that—
+
+  * (I) two or more small business concerns owned and controlled by veterans will submit offers as described in paragraph (1); and
+
+  * (II) the award can be made at a fair and reasonable price that offers best value to the United States.
+
+
+* (C) In this paragraph, the term "covered product or service" means—
+
+  * (i) a product or service that—
+
+    * (I) is included on the procurement list under section 8503(a) of title 41; and
+
+    * (II) was included on such procurement list on or before December 22, 2006; or
+
+
+  * (ii) a product or service that—
+
+    * (I) is a replacement for a product or service described under clause (i);
+
+    * (II) is essentially the same and meeting the same requirement as the product or service being replaced; and
+
+    * (III) a contracting officer determines meets the quality standards and delivery schedule of the Department.
 
 * (e) ELIGIBILITY OF SMALL BUSINESS CONCERNS.—A small business concern may be awarded a contract under this section only if the small business concern and the veteran owner of the small business concern are listed in the database of veteran-owned businesses maintained by the Secretary under subsection (f).
 
@@ -328,7 +361,37 @@
   * (4) The percentage of the total amount of all contracts awarded by each such Administration during that fiscal year that were awarded to small business concerns owned and controlled by veterans with service-connected disabilities.
 
 
-* (k) DEFINITIONS.—In this section:
+* (k) LIMITATIONS ON SUBCONTRACTING.—(1)(A) The requirements applicable to a covered small business concern under section 46 of the Small Business Act (15 U.S.C. 657s) shall apply with respect to a small business concern owned and controlled by veterans that is awarded a contract under this section.
+
+* (B) For purposes of applying the requirements of section 46 of the Small Business Act (15 U.S.C. 657s) pursuant to subparagraph (A), the term "similarly situated entity" used in such section 46 includes a subcontractor for a small business concern owned and controlled by veterans described in such subparagraph (A).
+
+* (2) The Secretary may award a contract under this section only after the Secretary obtains from the offeror a certification that the offeror will comply with the requirements described in paragraph (1)(A) if awarded the contract. Such certification shall—
+
+  * (A) specify the exact performance requirements applicable under such paragraph; and
+
+  * (B) explicitly acknowledge that the certification is subject to section 1001 of title 18.
+
+
+* (3)(A) The Director of Small and Disadvantaged Business Utilization for the Department, established pursuant to section 15(k) of the Small Business Act (15 U.S.C. 644(k)), and the Chief Acquisition Officer of the Department, established pursuant to section 1702 of title 41, shall jointly implement a process using the systems described in section 16(g)(2) of the Small Business Act (15 U.S.C. 645(g)(2)), or any other relevant systems available, to monitor compliance with this subsection.
+
+* (B) The Director of Small and Disadvantaged Business Utilization and the Chief Acquisition Officer shall jointly refer any violations or suspected violations of this subsection to the Inspector General of the Department.
+
+* (C) If the Secretary determines, in consultation with the Inspector General of the Department, that a small business concern that is awarded a contract under this section did not act in good faith with respect to the requirements described in paragraph (1)(A), the small business concern shall be subject to any or all of the following consequences—
+
+  * (i) referral to the Debarment and Suspension Committee of the Department;
+
+  * (ii) a fine under section 16(g)(1) of the Small Business Act (15 U.S.C. 645(g)(1)); and
+
+  * (iii) prosecution for violating section 1001 of title 18.
+
+
+* (D) Not later than November 30 for each of fiscal years 2021 through 2025, the Inspector General shall submit to the Committees on Veterans' Affairs of the Senate and House of Representatives a report for the fiscal year preceding the fiscal year during which the report is submitted that includes, for the fiscal year covered by the report—
+
+  * (i) the number of referred violations and suspected violations received under subparagraph (B); and
+
+  * (ii) the disposition of such referred violations, including the number of small business concerns suspended or debarred from Federal contracting or referred to the Attorney General for prosecution.
+
+* (l) DEFINITIONS.—In this section:
 
   * (1) The term "small business concern" has the meaning given that term under section 3 of the Small Business Act (15 U.S.C. 632).
 
@@ -340,3 +403,19 @@
 * (a) CONTRACTING PRIORITY.—In procuring goods and services pursuant to a contracting preference under this title or any other provision of law, the Secretary shall give priority to a small business concern owned and controlled by veterans, if such business concern also meets the requirements of that contracting preference.
 
 * (b) DEFINITION.—For purposes of this section, the term "small business concern owned and controlled by veterans" means a small business concern that is included in the small business database maintained by the Secretary under section 8127(f) of this title.
+
+### §8129. Preference for offerors employing veterans
+* (a) PREFERENCE.—(1) In awarding a contract for the procurement of goods or services, the Secretary may give a preference to offerors that employ veterans on a full-time basis.
+
+* (2) The Secretary shall determine such preference based on the percentage of the full-time employees of the offeror who are veterans.
+
+* (b) ENFORCEMENT PENALTIES FOR MISREPRESENTATION.—(1) Any offeror that is determined by the Secretary to have willfully and intentionally misrepresented the veteran status of the employees of the offeror for purposes of subsection (a) may be debarred from contracting with the Department for a period of not less than five years.
+
+* (2) If the Secretary carries out a debarment under paragraph (1), the Secretary shall—
+
+  * (A) commence debarment action against the offeror by not later than 30 days after determining that the offeror willfully and intentionally misrepresented the veteran status of the employees of the offeror as described in paragraph (1); and
+
+  * (B) complete debarment actions against such offeror by not later than 90 days after such determination.
+
+
+* (3) The debarment of an offeror under paragraph (1) includes the debarment of all principals in the offeror for a period of not less than five years.

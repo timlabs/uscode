@@ -68,3 +68,54 @@
 
 #### (e) Participation of Defense personnel in training prohibited; availability of funds; expiration of authority
 * Personnel of the Department of Defense and members of the United States Armed Forces may not participate in the provision of training under this section. Of the funds made available to carry out this section, not more than $10,000,000 may be made available in fiscal year 1991 to carry out the provisions of subsection (b)(3) of this section. The authority of this section shall expire on September 30, 1991.
+
+### §2346d. People-to-People Partnership for Peace Fund
+#### (a) Establishment
+* Beginning on the date that is one year after Dec. 27, 2020, the Administrator of the United States Agency for International Development is authorized to establish a program to provide funding for projects to help build the foundation for peaceful co-existence between Israelis and Palestinians and for a sustainable two-state solution. The program established under this subsection shall be known as the "People-to-People Partnership for Peace Fund" (referred to in this section as the "Fund").
+
+#### (b) Eligibility for support
+* In providing funding for projects through the Fund, the Administrator may provide support for qualified organizations, prioritizing those organizations that seek to build better cooperation between Israelis and Palestinians, including Palestinian organizations, Israeli organizations, and international organizations that bring Israelis and Palestinians together.
+
+#### (c) Additional eligibility for support
+* In providing funding for projects through the Fund, the Administrator may additionally provide support to qualified organizations that further shared community building, peaceful co-existence, dialogue, and reconciliation between Arab and Jewish citizens of Israel.
+
+#### (d) Contributions
+* The Administrator—
+
+  * (1) is encouraged to work with foreign governments and international organizations to leverage the impact of United States resources and achieve the objectives of this section; and
+
+  * (2) is authorized to accept contributions for the purposes of the Fund, consistent with subsection (d) of section 2395 of this title.
+
+#### (e) Advisory board
+* #### (1) Establishment
+  * The Administrator shall establish an advisory board to make recommendations to the Administrator regarding the types of projects that should be considered for funding through the Fund.
+
+* #### (2) Membership
+  * #### (A) In general
+    * Subject to subparagraph (B), the advisory board shall be composed of 13 members, none of whom may be Members of Congress, who shall be appointed for renewable periods of 3 years, as follows:
+
+      * (i) One member to serve as chair, appointed by the Administrator, in consultation with the Secretary of State.
+
+      * (ii) One member appointed by the chair, and one member appointed by the ranking member, of the Committee on Foreign Relations of the Senate.
+
+      * (iii) One member appointed by the chair, and one member appointed by the ranking member, of the Committee on Foreign Affairs of the House of Representatives.
+
+      * (iv) One member appointed by the chair, and one member appointed by the ranking member, of the Committee on Appropriations of the Senate.
+
+      * (v) One member appointed by the chair, and one member appointed by the ranking member, of the Committee on Appropriations of the House of Representatives.
+
+      * (vi) One member appointed by the majority leader, and one member appointed by the minority leader, of the Senate.
+
+      * (vii) One member appointed by the Speaker, and one member appointed by the minority leader, of the House of Representatives.
+
+  * #### (B) International participation
+    * The Administrator may appoint up to two additional members to the advisory board who are representatives of foreign governments or international organizations for renewable periods of 3 years.
+
+  * #### (C) Qualifications
+    * Members of the advisory board shall have demonstrated regional expertise and experience and expertise in conflict mitigation and people-to-people programs, and shall not receive compensation on account of their service on the advisory board.
+
+#### (f) USAID mission recommendations
+* The Administrator shall consider the input and recommendations from missions of the United States Agency for International Development in the region and mission directors regarding projects that should be considered for funding through the Fund.
+
+#### (g) Coordination
+* The Administrator shall coordinate with the Secretary of State in carrying out the provisions of this section.

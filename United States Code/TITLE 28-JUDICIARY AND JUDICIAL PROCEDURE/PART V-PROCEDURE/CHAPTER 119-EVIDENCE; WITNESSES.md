@@ -34,21 +34,21 @@
 * No constructive or double mileage fees shall be allowed by reason of any person being summoned both as a witness and a juror.
 
 ### §1825. Payment of fees
-* (a) In any case in which the United States or an officer or agency of the United States is a party, the United States marshal for the district shall pay all fees of witnesses on the certificate of the United States attorney or assistant United States attorney, and in the proceedings before a United States magistrate judge, on the certificate of such magistrate judge, except that any fees of defense witnesses, other than experts, appearing pursuant to subpoenas issued upon approval of the court, shall be paid by the United States marshal for the district—
+* (a) In any case in which the United States or an officer or agency of the United States is a party, the Attorney General shall pay all fees of witnesses on the certificate of the United States attorney or assistant United States attorney, and in the proceedings before a United States magistrate judge, on the certificate of such magistrate judge, except that any fees of defense witnesses, other than experts, appearing pursuant to subpoenas issued upon approval of the court, shall be paid by the Attorney General—
 
   * (1) on the certificate of a Federal public defender or assistant Federal public defender, in a criminal case in which the defendant is represented by such Federal public defender or assistant Federal public defender, and
 
   * (2) on the certificate of the clerk of the court upon the affidavit of such witnesses' attendance given by other counsel appointed pursuant to section 3006A of title 18, in a criminal case in which a defendant is represented by such other counsel.
 
 
-* (b) In proceedings in forma pauperis for a writ of habeas corpus, and in proceedings in forma pauperis under section 2255 of this title, the United States marshal for the district shall pay, on the certificate of the district judge, all fees of witnesses for the party authorized to proceed in forma pauperis, except that any fees of witnesses for such party, other than experts, appearing pursuant to subpoenas issued upon approval of the court, shall be paid by the United States marshal for the district—
+* (b) In proceedings in forma pauperis for a writ of habeas corpus, and in proceedings in forma pauperis under section 2255 of this title, the Attorney General shall pay, on the certificate of the district judge, all fees of witnesses for the party authorized to proceed in forma pauperis, except that any fees of witnesses for such party, other than experts, appearing pursuant to subpoenas issued upon approval of the court, shall be paid by the Attorney General—
 
   * (1) on the certificate of a Federal public defender or assistant Federal public defender, in any such proceedings in which a party is represented by such Federal public defender or assistant Federal public defender, and
 
   * (2) on the certificate of the clerk of the court upon the affidavit of such witnesses' attendance given by other counsel appointed pursuant to section 3006A of title 18, in any such proceedings in which a party is represented by such other counsel.
 
 
-* (c) Fees and mileage need not be tendered to a witness upon service of a subpoena issued on behalf of the United States or an officer or agency of the United States, upon service of a subpoena issued on behalf of a defendant represented by a Federal public defender, assistant Federal public defender, or other attorney appointed pursuant to section 3006A of title 18, or upon service of a subpoena issued on behalf of a party authorized to proceed in forma pauperis, if the payment of such fees and mileage is to be made by the United States marshal under this section.
+* (c) Fees and mileage need not be tendered to a witness upon service of a subpoena issued on behalf of the United States or an officer or agency of the United States, upon service of a subpoena issued on behalf of a defendant represented by a Federal public defender, assistant Federal public defender, or other attorney appointed pursuant to section 3006A of title 18, or upon service of a subpoena issued on behalf of a party authorized to proceed in forma pauperis, if the payment of such fees and mileage is to be made by the Attorney General under this section.
 
 ### §1826. Recalcitrant witnesses
 * (a) Whenever a witness in any proceeding before or ancillary to any court or grand jury of the United States refuses without just cause shown to comply with an order of the court to testify or provide other information, including any book, paper, document, record, recording or other material, the court, upon such refusal, or when such refusal is duly brought to its attention, may summarily order his confinement at a suitable place until such time as the witness is willing to give such testimony or provide such information. No period of such confinement shall exceed the life of—

@@ -849,6 +849,7 @@
 
     * (ii) were approved for a security clearance at such level during the preceding fiscal year.
 
+
 * (2) For purposes of paragraph (1), the President may consider—
 
   * (A) security clearances at the level of confidential and secret as one security clearance level; and

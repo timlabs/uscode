@@ -345,9 +345,11 @@
       * (bb) information used to support such determination with respect to such countries.
 
 
-    * (vii)(I) The Postmaster General shall, in consultation with the Commissioner, refuse any shipments received after December 31, 2020, for which the information described in paragraphs (1) and (2) is not transmitted as required under this subparagraph, except as provided in subclause (II).
+    * (vii)(I) The Postmaster General shall, in consultation with the Commissioner, refuse any shipments received after December 31, 2020, for which the information described in paragraphs (1) and (2) is not transmitted as required under this subparagraph, except as provided in subclause (II) or (III).
 
     * (II) If remedial action is warranted in lieu of refusal of shipments pursuant to subclause (I), the Postmaster General and the Commissioner shall take remedial action with respect to the shipments, including destruction, seizure, controlled delivery or other law enforcement initiatives, or correction of the failure to provide the information described in paragraphs (1) and (2) with respect to the shipments.
+
+    * (III) Notwithstanding subclause (I), during the period beginning on January 1, 2021, through March 15, 2021, the Postmaster General may accept a shipment without transmission of the information described in paragraphs (1) and (2) if the Commissioner determines, or concurs with the determination of the Postmaster General, that the shipment presents a low risk of violating any relevant United States statutes or regulations, including statutes or regulations relating to the importation of controlled substances such as fentanyl and other synthetic opioids.
 
     * (viii) Nothing in this subparagraph shall be construed to limit the authority of the Secretary to obtain information relating to international mail shipments from private carriers or other appropriate parties.
 

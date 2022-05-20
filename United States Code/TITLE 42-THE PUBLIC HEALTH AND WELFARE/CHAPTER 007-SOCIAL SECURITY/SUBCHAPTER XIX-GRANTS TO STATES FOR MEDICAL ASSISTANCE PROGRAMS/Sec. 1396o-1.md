@@ -79,6 +79,8 @@
 
       * (x) Items and services furnished to an Indian directly by the Indian Health Service, an Indian Tribe, Tribal Organization or Urban Indian Organization or through referral under contract health services.
 
+      * (xi) Any in vitro diagnostic product described in section 1396d(a)(3)(B) of this title that is administered during any portion of the emergency period described in such section beginning on or after March 18, 2020 (and the administration of such product) and any visit described in section 1396o(a)(2)(G) of this title that is furnished during any such portion.
+
   * #### (C) Construction
     * Nothing in this paragraph shall be construed as preventing a State from exempting additional classes of individuals from premiums under this section or from exempting additional individuals or services from cost sharing under subsection (a).
 

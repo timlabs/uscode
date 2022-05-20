@@ -23,10 +23,34 @@
 
   * (2) RECEIPTS UNDER OUTER CONTINENTAL SHELF LANDS ACT.—To the extent that amounts appropriated under paragraph (1) are not sufficient to make the total annual income of the Fund equivalent to the amounts provided in paragraph (1), an amount sufficient to cover the remainder shall be credited to the Fund from revenues due and payable to the United States for deposit in the Treasury as miscellaneous receipts under the Outer Continental Shelf Lands Act (43 U.S.C. 1331 et seq.).
 
-  * (3) AVAILABILITY OF DEPOSITS.—Notwithstanding section 200303 of this title, money deposited in the Fund under this subsection shall remain in the Fund until appropriated by Congress to carry out this chapter.
+### §200303. Availability of funds
+* (a) IN GENERAL.—Any amounts deposited in the Fund under section 200302 for fiscal year 2020 and each fiscal year thereafter shall be made available for expenditure for fiscal year 2021 and each fiscal year thereafter, without further appropriation or fiscal year limitation, to carry out the purposes of the Fund (including accounts and programs made available from the Fund pursuant to the Further Consolidated Appropriations Act, 2020 (Public Law 116–94; 133 Stat. 2534)).
 
-### §200303. Appropriations for expenditure of Fund amounts
-* Amounts deposited in the Fund shall be available for expenditure for the purposes of this chapter only when appropriated for those purposes. The appropriations may be made without fiscal-year limitation. Amounts made available for obligation or expenditure from the Fund may be obligated or expended only as provided in this chapter.
+* (b) ADDITIONAL AMOUNTS.—Amounts made available under subsection (a) shall be in addition to amounts made available to the Fund under section 105 of the Gulf of Mexico Energy Security Act of 2006 (43 U.S.C. 1331 note; Public Law 109–432) or otherwise appropriated from the Fund.
+
+* (c) ALLOCATION AUTHORITY.—
+
+  * (1) SUBMISSION OF COST ESTIMATES.—The President shall submit to Congress detailed account, program, and project allocations of the full amount made available under subsection (a)—
+
+    * (A) for fiscal year 2021, not later than 90 days after the date of enactment of the Great American Outdoors Act; and
+
+    * (B) for each fiscal year thereafter, as part of the annual budget submission of the President.
+
+
+  * (2) ALTERNATE ALLOCATION.—
+
+    * (A) IN GENERAL.—Appropriations Acts may provide for alternate allocation of amounts made available under subsection (a), including allocations by account, program, and project.
+
+    * (B) ALLOCATION BY PRESIDENT.—
+
+      * (i) NO ALTERNATE ALLOCATIONS.—If Congress has not enacted legislation establishing alternate allocations by the date on which the Act making full-year appropriations for the Department of the Interior, Environment, and Related Agencies for the applicable fiscal year is enacted into law, amounts made available under subsection (a) shall be allocated by the President.
+
+      * (ii) INSUFFICIENT ALTERNATE ALLOCATION.—If Congress enacts legislation establishing alternate allocations for amounts made available under subsection (a) that are less than the full amount appropriated under that subsection, the difference between the amount appropriated and the alternate allocation shall be allocated by the President.
+
+
+  * (3) RECREATIONAL PUBLIC ACCESS.—Amounts expended from the Fund under this section shall be consistent with the requirements for recreational public access for hunting, fishing, recreational shooting, or other outdoor recreational purposes under section 200306(c).
+
+  * (4) ANNUAL REPORT.—The President shall submit to Congress an annual report that describes the final allocation by account, program, and project of amounts made available under subsection (a), including a description of the status of obligations and expenditures.
 
 ### §200304. Statement of estimated requirements
 * (a) IN GENERAL.—There shall be submitted with the annual budget of the United States a comprehensive statement of estimated requirements during the ensuing fiscal year for appropriations from the Fund.
@@ -181,8 +205,6 @@
 
 
       * (ii) ADJACENT LAND.—Land outside but adjacent to an existing national forest boundary, not to exceed 3,000 acres in the case of any one forest, that would comprise an integral part of a forest recreational management area may also be acquired with amounts appropriated from the Fund.
-
-      * (iii) LIMITATION.—Except for areas specifically authorized by Act of Congress, not more than 15 percent of the acreage added to the National Forest System pursuant to this section shall be west of the 100th meridian.
 
 
     * (C) ENDANGERED SPECIES AND THREATENED SPECIES; FISH AND WILDLIFE REFUGE AREAS; NATIONAL WILDLIFE REFUGE SYSTEM.—Amounts shall be allotted for the acquisition of land, water, or an interest in land or water for—

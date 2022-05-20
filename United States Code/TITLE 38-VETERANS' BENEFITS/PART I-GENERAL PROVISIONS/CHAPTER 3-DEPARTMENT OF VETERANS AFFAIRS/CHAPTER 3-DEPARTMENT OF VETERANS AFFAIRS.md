@@ -253,7 +253,7 @@
 ### §315. Regional offices
 * (a) The Secretary may establish such regional offices and such other field offices within the United States, its Territories, Commonwealths, and possessions, as the Secretary considers necessary.
 
-* (b) The Secretary may maintain a regional office in the Republic of the Philippines until September 30, 2020.
+* (b) The Secretary may maintain a regional office in the Republic of the Philippines until September 30, 2022.
 
 ### §316. Colocation of regional offices and medical centers
 * (a) To provide for a more economical, efficient, and effective operation of such regional offices, the Secretary shall provide for the colocation of at least three regional offices with medical centers of the Department—
@@ -527,7 +527,7 @@
 
 * (3) In providing assistance under this subsection, the Secretary shall give priority to veterans with service-connected disabilities.
 
-* (4) There is authorized to be appropriated to carry out this subsection $2,000,000 for each of fiscal years 2010 through 2020.
+* (4) There is authorized to be appropriated to carry out this subsection $2,000,000 for each of fiscal years 2010 through 2022.
 
 * (e) APPLICABILITY TO COMMONWEALTHS AND TERRITORIES OF THE UNITED STATES.—The provisions of this subsection shall apply in the same manner and to the same degree as to the United States Olympic Committee to the Paralympic sport entities the Secretary considers appropriate to represent the interests of each of the following:
 

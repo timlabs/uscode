@@ -260,14 +260,14 @@
 
     * (B) The responses of the heads of agencies that received recommendations from the external review panels.
 
-### §3237. Annual reports on influence operations and campaigns in the United States by the Communist Party of China
+### §3237. Annual reports on influence operations and campaigns in the United States by the Chinese Communist Party
 #### (a) Requirement
-* On an annual basis, consistent with the protection of intelligence sources and methods, the Director of the National Counterintelligence and Security Center shall submit to the congressional intelligence committees, the Committee on Foreign Affairs of the House of Representatives, and the Committee on Foreign Relations of the Senate a report on the influence operations and campaigns in the United States conducted by the Communist Party of China.
+* On an annual basis, consistent with the protection of intelligence sources and methods, the Director of the National Counterintelligence and Security Center shall submit to the congressional intelligence committees, the Committee on Foreign Affairs of the House of Representatives, and the Committee on Foreign Relations of the Senate a report on the influence operations and campaigns in the United States conducted by the Chinese Communist Party.
 
 #### (b) Contents
 * Each report under subsection (a) shall include the following:
 
-  * (1) A description of the organization of the United Front Work Department of the People's Republic of China, or the successors of the United Front Work Department, and the links between the United Front Work Department and the Central Committee of the Communist Party of China.
+  * (1) A description of the organization of the United Front Work Department of the People's Republic of China, or the successors of the United Front Work Department, and the links between the United Front Work Department and the Central Committee of the Chinese Communist Party.
 
   * (2) An assessment of the degree to which organizations that are associated with or receive funding from the United Front Work Department, particularly such entities operating in the United States, are formally tasked by the Chinese Communist Party or the Government of China.
 
@@ -281,13 +281,72 @@
 
   * (7) A listing of all known organizations affiliated with the United Front Work Department that are operating in the United States as of the date of the report.
 
-  * (8) With respect to reports submitted after the first report, an assessment of the change in goals, tactics, techniques, and procedures of the influence operations and campaigns conducted by the Chinese Communist Party.
+  * (8) An identification of influence activities and operations employed by the Chinese Communist Party against the United States science and technology sectors, specifically employees of the United States Government, researchers, scientists, and students in the science and technology sector in the United States.
+
+  * (9) With respect to reports submitted after the first report, an assessment of the change in goals, tactics, techniques, and procedures of the influence operations and campaigns conducted by the Chinese Communist Party.
 
 #### (c) Coordination
 * In carrying out subsection (a), the Director shall coordinate with the Director of the Federal Bureau of Investigation, the Director of the Central Intelligence Agency, the Director of the National Security Agency, and any other relevant head of an element of the intelligence community.
 
 #### (d) Form
 * Each report submitted under subsection (a) shall be submitted in unclassified form, but may include a classified annex.
+
+### §3237a. Annual reports on security services of the People's Republic of China in the Hong Kong Special Administrative Region
+#### (a) Definitions
+* In this section:
+
+* #### (1) Appropriate congressional committees
+  * The term "appropriate congressional committees" means—
+
+    * (A) the congressional intelligence committees;
+
+    * (B) the Committee on Foreign Relations and the Committee on Armed Services of the Senate; and
+
+    * (C) the Committee on Foreign Affairs and the Committee on Armed Services of the House of Representatives.
+
+* #### (2) Chinese security services
+  * The term "Chinese security services" means—
+
+    * (A) the security services of the Government of the People's Republic of China, including the Ministry of State Security and the Ministry of Public Security; and
+
+    * (B) any known front organizations or aliases associated with such security services, including officers associated with the national security division of the Hong Kong Police Force and other officers of the Hong Kong Police Force selected by the Committee for Safeguarding National Security to work on matters relating to national security.
+
+#### (b) Requirement
+* On an annual basis through 2047, the Director of National Intelligence shall submit to the appropriate congressional committees a report on the presence and activities of Chinese security services operating within the Hong Kong Special Administrative Region.
+
+#### (c) Contents
+* Each report under subsection (b) shall include, with respect to the year covered by the report, the following:
+
+  * (1) Identification of the approximate number of personnel affiliated with Chinese security services operating within the Hong Kong Special Administrative Region, including a breakdown of such personnel by the specific security service and the division of the security service, and (to the extent possible) an identification of any such personnel associated with the national security division of the Hong Kong Police Force.
+
+  * (2) A description of the command and control structures of such security services, including information regarding the extent to which such security services are controlled by the Government of the Hong Kong Special Administrative Region or the Government of the People's Republic of China.
+
+  * (3) A description of the working relationship and coordination mechanisms of the Chinese security services with the police force of the Hong Kong Special Administrative Region.
+
+  * (4) A description of the activities conducted by Chinese security services operating within the Hong Kong Special Administrative Region, including—
+
+    * (A) information regarding the extent to which such security services, and officers associated with the national security division of the Hong Kong Police Force, are engaged in frontline policing, serving in advisory and assistance roles, or both;
+
+    * (B) an assessment of the likelihood of such security services conducting renditions of individuals from the Hong Kong Special Administrative Region to China and a listing of every known individual subject to such rendition during the year covered by the report; and
+
+    * (C) an assessment of how such activities conducted by Chinese security services contribute to self-censorship and corruption within the Hong Kong Special Administrative Region.
+
+
+  * (5) A discussion of the doctrine and tactics employed by Chinese security services operating within the Hong Kong Special Administrative Region, including an overview of the extent to which such security services employ surveillance, detection, and control methods, including "high-tech" policing models and "preventative policing tactics", that are consistent with the rise of digital authoritarianism, and used in a manner similar to methods used in the Xinjiang region of China.
+
+  * (6) An overview of the funding for Chinese security services operating within the Hong Kong Special Administrative Region, including an assessment of the extent to which funding is drawn locally from the Hong Kong Special Administrative Region Government or from the Government of China.
+
+  * (7) A discussion of the various surveillance technologies used by security services operating within the Hong Kong Special Administrative Region, including—
+
+    * (A) a list of the key companies that provide such technologies; and
+
+    * (B) an assessment of the degree to which such technologies can be accessed by Chinese security services operating within the Hong Kong Special Administrative Region.
+
+#### (d) Coordination
+* In carrying out subsection (b), the Director shall coordinate with the Director of the Central Intelligence Agency, the Director of the National Security Agency, the Director of the Defense Intelligence Agency, the Director of the National Geospatial-Intelligence Agency, the Assistant Secretary of State for the Bureau of Intelligence and Research, and any other relevant head of an element of the intelligence community.
+
+#### (e) Form
+* Each report submitted to the appropriate congressional committees under subsection (b) shall be submitted in unclassified form, but may include a classified annex.
 
 ### §3238. Annual reports on influence operations and campaigns in the United States by the Russian Federation
 #### (a) Requirement
@@ -311,3 +370,52 @@
 
 #### (d) Form
 * Each report submitted under subsection (a) shall be submitted in unclassified form, but may include a classified annex.
+
+### §3239. Requirement to buy certain satellite component from American sources
+#### (a) Definitions
+* In this section:
+
+* #### (1) Covered element of the intelligence community
+  * The term "covered element of the intelligence community" means an element of the intelligence community that is not an element of the Department of Defense.
+
+* #### (2) National security satellite
+  * The term "national security satellite" means a satellite weighing over 400 pounds whose principle purpose is to support the national security or intelligence needs of the United States Government.
+
+* #### (3) United States
+  * The term "United States" means the several States, the District of Columbia, and the territories and possessions of the United States.
+
+#### (b) Requirement
+* Beginning January 1, 2021, except as provided in subsection (c), a covered element of the intelligence community may not award a contract for a national security satellite if the satellite uses a star tracker that is not produced in the United States, including with respect to both the software and the hardware of the star tracker.
+
+#### (c) Exception
+* The head of a covered element of the intelligence community may waive the requirement under subsection (b) if, on a case-by-case basis, the head certifies in writing to the congressional intelligence committees that—
+
+  * (1) there is no available star tracker produced in the United States that meets the mission and design requirements of the national security satellite for which the star tracker will be used;
+
+  * (2) the cost of a star tracker produced in the United States is unreasonable, based on a market survey; or
+
+  * (3) such waiver is necessary for the national security interests of the United States based on an urgent and compelling need.
+
+### §3240. Report on best practices to protect privacy, civil liberties, and civil rights of Chinese Americans
+#### (a) Sense of Congress
+* It is the sense of Congress that—
+
+  * (1) the People's Republic of China appears to be specifically targeting the Chinese-American community for intelligence purposes;
+
+  * (2) such targeting carries a substantial risk that the loyalty of such Americans may be generally questioned and lead to unacceptable stereotyping, targeting, and racial profiling;
+
+  * (3) the United States Government has a duty to warn and protect all Americans including those of Chinese descent from these intelligence efforts by the People's Republic of China;
+
+  * (4) the broad stereotyping, targeting, and racial profiling of Americans of Chinese descent is contrary to the values of the United States and reinforces the flawed narrative perpetuated by the People's Republic of China that ethnically Chinese individuals worldwide have a duty to support the People's Republic of China; and
+
+  * (5) the United States efforts to combat the People's Republic of China's intelligence activities should actively safeguard and promote the constitutional rights of all Chinese Americans.
+
+#### (b) Report
+* On an annual basis, the Director of National Intelligence, acting through the Office of Civil Liberties, Privacy, and Transparency, in coordination with the civil liberties and privacy officers of the elements of the intelligence community, shall submit a report to the congressional intelligence committees containing—
+
+  * (1) a review of how the policies, procedures, and practices of the intelligence community that govern the intelligence activities and operations targeting the People's Republic of China affect policies, procedures, and practices relating to the privacy, civil liberties, and civil rights of Americans of Chinese descent who may be targets of espionage and influence operations by China; and
+
+  * (2) recommendations to ensure that the privacy, civil liberties, and civil rights of Americans of Chinese descent are sufficiently protected.
+
+#### (c) Form
+* The report under subsection (b) shall be submitted in unclassified form, but may include a classified annex.

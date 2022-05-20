@@ -1,4 +1,0 @@
-### PART C—TEMPORARY ENTRY OF BUSINESS PERSONS
-
-### §3401. Nonimmigrant traders and investors
-* Upon a basis of reciprocity secured by the Agreement, an alien who is a citizen of Canada or Mexico, and the spouse and children of any such alien if accompanying or following to join such alien, may, if otherwise eligible for a visa and if otherwise admissible into the United States under the Immigration and Nationality Act (8 U.S.C. 1101 et seq.), be considered to be classifiable as a nonimmigrant under section 101(a)(15)(E) of such Act (8 U.S.C. 1101(a)(15)(E)) if entering solely for a purpose specified in Section B of Annex 1603 of the Agreement, but only if any such purpose shall have been specified in such Annex on the date of entry into force of the Agreement. For purposes of this section, the term "citizen of Mexico" means "citizen" as defined in Annex 1608 of the Agreement.

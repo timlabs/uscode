@@ -32,12 +32,12 @@
 * The death and disability benefits of this chapter shall, notwithstanding the service requirements thereof, be granted to persons heretofore recognized by law as having a compensable status, including persons whose claims are based on war or peacetime service rendered before April 21, 1898.
 
 ### §1153. Aggravation
-* A preexisting injury or disease will be considered to have been aggravated by active military, naval, or air service, where there is an increase in disability during such service, unless there is a specific finding that the increase in disability is due to the natural progress of the disease.
+* A preexisting injury or disease will be considered to have been aggravated by active military, naval, air, or space service, where there is an increase in disability during such service, unless there is a specific finding that the increase in disability is due to the natural progress of the disease.
 
 ### §1154. Consideration to be accorded time, place, and circumstances of service
 * (a) The Secretary shall include in the regulations pertaining to service-connection of disabilities (1) additional provisions in effect requiring that in each case where a veteran is seeking service-connection for any disability due consideration shall be given to the places, types, and circumstances of such veteran's service as shown by such veteran's service record, the official history of each organization in which such veteran served, such veteran's medical records, and all pertinent medical and lay evidence, and (2) the provisions required by section 5 of the Veterans' Dioxin and Radiation Exposure Compensation Standards Act (Public Law 98–542; 98 Stat. 2727).
 
-* (b) In the case of any veteran who engaged in combat with the enemy in active service with a military, naval, or air organization of the United States during a period of war, campaign, or expedition, the Secretary shall accept as sufficient proof of service-connection of any disease or injury alleged to have been incurred in or aggravated by such service satisfactory lay or other evidence of service incurrence or aggravation of such injury or disease, if consistent with the circumstances, conditions, or hardships of such service, notwithstanding the fact that there is no official record of such incurrence or aggravation in such service, and, to that end, shall resolve every reasonable doubt in favor of the veteran. Service-connection of such injury or disease may be rebutted by clear and convincing evidence to the contrary. The reasons for granting or denying service-connection in each case shall be recorded in full.
+* (b) In the case of any veteran who engaged in combat with the enemy in active service with a military, naval, air, or space organization of the United States during a period of war, campaign, or expedition, the Secretary shall accept as sufficient proof of service-connection of any disease or injury alleged to have been incurred in or aggravated by such service satisfactory lay or other evidence of service incurrence or aggravation of such injury or disease, if consistent with the circumstances, conditions, or hardships of such service, notwithstanding the fact that there is no official record of such incurrence or aggravation in such service, and, to that end, shall resolve every reasonable doubt in favor of the veteran. Service-connection of such injury or disease may be rebutted by clear and convincing evidence to the contrary. The reasons for granting or denying service-connection in each case shall be recorded in full.
 
 ### §1155. Authority for schedule for rating disabilities
 * The Secretary shall adopt and apply a schedule of ratings of reductions in earning capacity from specific injuries or combination of injuries. The ratings shall be based, as far as practicable, upon the average impairments of earning capacity resulting from such injuries in civil occupations. The schedule shall be constructed so as to provide ten grades of disability and no more, upon which payments of compensation shall be based, namely, 10 percent, 20 percent, 30 percent, 40 percent, 50 percent, 60 percent, 70 percent, 80 percent, 90 percent, and total, 100 percent. The Secretary shall from time to time readjust this schedule of ratings in accordance with experience. However, in no event shall such a readjustment in the rating schedule cause a veteran's disability rating in effect on the effective date of the readjustment to be reduced unless an improvement in the veteran's disability is shown to have occurred.
@@ -160,3 +160,71 @@
 
 
 * (2) After providing the notice required under paragraph (1) of this subsection, the Secretary shall offer the veteran the opportunity for an evaluation under section 3106(a) of this title.
+
+### §1164. Presumptions of service-connection for Coronavirus Disease 2019
+* (a) PRESUMPTIONS GENERALLY.—(1) For purposes of laws administered by the Secretary and subject to section 1113 of this title, if symptoms of Coronavirus Disease 2019 (in this section referred to as "COVID–19") described in subsection (d) manifest within one of the manifestation periods described in paragraph (2) in an individual who served in a qualifying period of duty described in subsection (b)—
+
+  * (A) infection with severe acute respiratory syndrome coronavirus 2 (in this section referred to as "SARS–CoV–2") shall be presumed to have occurred during the qualifying period of duty;
+
+  * (B) COVID–19 shall be presumed to have been incurred during the qualifying period of duty; and
+
+  * (C) if the individual becomes disabled or dies as a result of COVID–19, it shall be presumed that the individual became disabled or died during the qualifying period of duty for purposes of establishing that the individual served in the active military, naval, or air service.
+
+
+* (2)(A) The manifestation periods described in this paragraph are the following:
+
+  * (i) During a qualifying period of duty described in subsection (b), if that period of duty was more than 48 continuous hours in duration.
+
+  * (ii) Within 14 days after the individual's completion of a qualifying period of duty described in subsection (b).
+
+  * (iii) An additional period prescribed under subparagraph (B).
+
+
+* (B)(i) If the Secretary determines that a manifestation period of more than 14 days after completion of a qualifying period of service is appropriate for the presumptions under paragraph (1), the Secretary may prescribe that additional period by regulation.
+
+* (ii) A determination under clause (i) shall be made in consultation with the Director of the Centers for Disease Control and Prevention.
+
+* (b) QUALIFYING PERIOD OF DUTY DESCRIBED.—A qualifying period of duty described in this subsection is—
+
+  * (1) a period of active duty performed—
+
+    * (A) during the national emergency declared by the President under the National Emergencies Act (50 U.S.C. 1601 et seq.); and
+
+    * (B) before the date that is three years after the date of the enactment of the Johnny Isakson and David P. Roe, M.D. Veterans Health Care and Benefits Improvement Act of 2020; or
+
+
+  * (2) training duty under title 10 or full-time National Guard duty (as defined in section 101 of title 10), performed under orders issued on or after March 13, 2020—
+
+    * (A) during the national emergency declared by the President under the National Emergencies Act (50 U.S.C. 1601 et seq.); and
+
+    * (B) before the date that is three years after the date of the enactment of the Johnny Isakson and David P. Roe, M.D. Veterans Health Care and Benefits Improvement Act of 2020.
+
+
+* (c) APPLICATION OF PRESUMPTIONS FOR TRAINING DUTY.—When, pursuant to subsection (a), COVID–19 is presumed to have been incurred during a qualifying period of duty described in subsection (b)(2)—
+
+  * (1) COVID–19 shall be deemed to have been incurred in the line of duty during a period of active military, naval, or air service; and
+
+  * (2) where entitlement to benefits under this title is predicated on the individual who was disabled or died being a veteran, benefits for disability or death resulting from COVID–19 as described in subsection (a) shall be paid or furnished as if the individual was a veteran, without regard to whether the period of duty would constitute active military, naval, or air service under section 101 of this title.
+
+
+* (d) SYMPTOMS OF COVID–19.—For purposes of subsection (a), symptoms of COVID–19 are those symptoms that competent medical evidence demonstrates are experienced by an individual affected and directly related to COVID–19.
+
+* (e) MEDICAL EXAMINATIONS AND OPINIONS.—If there is a question of whether the symptoms experienced by an individual described in paragraph (1) of subsection (a) during a manifestation period described in paragraph (2) of such subsection are attributable to COVID–19 resulting from infection with SARS–CoV–2 during the qualifying period of duty, in determining whether a medical examination or medical opinion is necessary to make a decision on the claim within the meaning of section 5103A(d) of this title, a qualifying period of duty described in subsection (b) of this section shall be treated as if it were active military, naval, or air service for purposes of section 5103A(d)(2)(B) of this title.
+
+### §1164. Specialized teams to evaluate claims involving military sexual trauma
+* (a) IN GENERAL.—The Secretary shall establish specialized teams to process claims for compensation for a covered mental health condition based on military sexual trauma experienced by a veteran during active military, naval, or air service.
+
+* (b) TRAINING.—The Secretary shall ensure that members of teams established under subsection (a) are trained to identify markers indicating military sexual trauma.
+
+* (c) DEFINITIONS.—In this section:
+
+  * (1) The term "covered mental health condition" means post-traumatic stress disorder, anxiety, depression, or other mental health diagnosis described in the current version of the Diagnostic and Statistical Manual of Mental Disorders published by the American Psychiatric Association that the Secretary determines to be related to military sexual trauma.
+
+  * (2) The term "military sexual trauma" means, with respect to a veteran, a physical assault of a sexual nature, battery of a sexual nature, or sexual harassment during active military, naval, or air service.
+
+### §1165. Choice of sex of medical examiner for certain disabilities
+* (a) IN GENERAL.—The Secretary shall ensure that a veteran who requires a medical examination from a covered medical provider in support of a claim for compensation under this chapter for a mental or physical health condition that resulted from a physical assault of a sexual nature, battery of a sexual nature, or sexual harassment may designate the sex of the medical provider who provides such medical examination.
+
+* (b) COVERED MEDICAL PROVIDERS.—For purposes of this section, a covered medical provider is any medical provider who is employed by the Department or is under any contract with the Department to provide a medical examination or a medical opinion when such an examination or opinion is necessary to make a decision on a claim.
+
+* (c) NOTICE.—Before providing any medical examination for a veteran in support for a claim described in subsection (a), the Secretary shall notify the veteran of the veteran's rights under subsection (a).

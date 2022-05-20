@@ -558,18 +558,20 @@
 
   * (A) An independent cost estimate of the following:
 
-    * (i) Each nuclear weapon system undergoing life extension at the completion of phase 6.2A, relating to design definition and cost study.
+    * (i) Each nuclear weapon system undergoing life extension at the completion of phase 6.2A or new weapon system at the completion of phase 2A, relating to design definition and cost study.
 
-    * (ii) Each nuclear weapon system undergoing life extension at the completion of phase 6.3, relating to development engineering.
+    * (ii) Each nuclear weapon system undergoing life extension at the completion of phase 6.3 or new weapon system at the completion of phase 3, relating to development engineering.
 
     * (iii) Each nuclear weapon system undergoing life extension at the completion of phase 6.4, relating to production engineering, and before the initiation of phase 6.5, relating to first production.
 
-    * (iv) Each new nuclear facility within the nuclear security enterprise that is estimated to cost more than $500,000,000 before such facility achieves critical decision 1 and before such facility achieves critical decision 2 in the acquisition process.
+    * (iv) Each new weapon system at the completion of phase 4, relating to production engineering, and before the initiation of phase 5, relating to first production.
 
-    * (v) Each nuclear weapons system undergoing a major alteration project (as defined in section 2753(a)(2) of this title).
+    * (v) Each new nuclear facility within the nuclear security enterprise that is estimated to cost more than $500,000,000 before such facility achieves critical decision 1 and before such facility achieves critical decision 2 in the acquisition process.
+
+    * (vi) Each nuclear weapons system undergoing a major alteration project (as defined in section 2753(a)(2) of this title).
 
 
-  * (B) An independent cost review of each nuclear weapon system undergoing life extension at the completion of phase 6.2, relating to study of feasibility and down-select.
+  * (B) An independent cost review of each nuclear weapon system undergoing life extension at the completion of phase 6.2 or new weapon system at the completion of phase 2, relating to study of feasibility and down-select.
 
 
 * (2) Each independent cost estimate and independent cost review under paragraph (1) shall include—
@@ -585,7 +587,7 @@
 
   * (A) in the case of a nuclear weapons system, such system completes a phase specified in such paragraph; or
 
-  * (B) in the case of a nuclear facility, such facility achieves critical decision 1 as specified in subparagraph (A)(iv) of such paragraph.
+  * (B) in the case of a nuclear facility, such facility achieves critical decision 1 as specified in subparagraph (A)(v) of such paragraph.
 
 
 * (5) Each independent cost estimate or independent cost review submitted under this subsection shall be submitted in unclassified form, but may include a classified annex if necessary.
@@ -736,3 +738,92 @@
 
 #### (d) Termination
 * The requirements of subsections (a) and (b) shall terminate on December 31, 2029.
+
+### §2538e. W93 Nuclear warhead acquisition process
+#### (a) Reporting requirements
+* #### (1) Phase 1
+  * Upon receiving a concept definition study under phase 1 of the joint nuclear weapons life cycle for the W93 nuclear weapon, the Nuclear Weapons Council shall submit to the congressional defense committees a report that includes the following:
+
+    * (A) A description of the potential military characteristics of the weapon.
+
+    * (B) A description of the stockpile-to-target sequence requirements of the weapon.
+
+    * (C) An initial assessment of the requirements a W93 nuclear weapon program is likely to generate for the nuclear security enterprise, including—
+
+      * (i) adjustments to the size and composition of the workforce;
+
+      * (ii) additions to existing weapon design and production capabilities; or
+
+      * (iii) additional facility recapitalization or new construction.
+
+
+    * (D) A preliminary description of other significant requirements for a W93 nuclear weapon program, including—
+
+      * (i) first production unit date;
+
+      * (ii) initial operational capability date;
+
+      * (iii) full operational capability date; and
+
+      * (iv) any unique safety and surety requirements that could increase design complexity or cost estimate uncertainty.
+
+* #### (2) Phase 2
+  * #### (A) In general
+    * Not later than 15 days after the date on which the Nuclear Weapons Council approves phase 2 of the joint nuclear weapons life cycle for the W93 nuclear weapon, the Administrator shall submit to the congressional defense committees a plan to implement a process of independent peer review or review by a board of experts, or both, with respect to—
+
+      * (i) the nonnuclear components of the weapon;
+
+      * (ii) subsystem design; and
+
+      * (iii) engineering aspects of the weapon.
+
+  * #### (B) Requirements for process
+    * The Administrator shall ensure that the process required by subparagraph (A)—
+
+      * (i) uses—
+
+        * (I) all relevant capabilities of the Federal Government, the defense industrial base, and institutions of higher education; and
+
+        * (II) other capabilities that the Administrator determines necessary; and
+
+
+      * (ii) informs the entire development life cycle of the W93 nuclear weapon.
+
+#### (b) Certifications and reports at phase 3
+* Not later than 15 days after the date on which the Nuclear Weapons Council approves phase 3 of the joint nuclear weapons life cycle for the W93 nuclear weapon—
+
+  * (1) the Administrator shall certify to the congressional defense committees that—
+
+    * (A) phases 1 through 5 of the joint nuclear weapons life cycle for the weapon will employ, at a minimum, the same best practices and will provide Congress with the same level of programmatic insight as exists under the phase 6.X process for life extension programs; and
+
+    * (B) the proposed design for the weapon can be carried out within estimated schedule and cost objectives; and
+
+
+  * (2) the Commander of the United States Strategic Command shall submit to the congressional defense committees a report containing the requirements for weapon quantity and composition by type for the sub-surface ballistic nuclear (SSBN) force, including such requirements planned for the 15-year period following the date of the report, including any planned life extensions, retirements, or alterations.
+
+#### (c) Waivers
+* Subsections (a) and (b) may be waived during a period of war declared by Congress after January 1, 2021.
+
+#### (d) Joint nuclear weapons life cycle defined
+* In this section, the term "joint nuclear weapons life cycle" has the meaning given that term in section 2538b of this title.
+
+### §2538f. Earned value management and technology readiness levels for life extension programs
+#### (a) Review of contractor earned value management systems
+* The Administrator shall enter into an arrangement with an independent entity under which that entity shall—
+
+  * (1) review and validate whether the earned value management systems of contractors of the Administration for life extension programs meet the earned value management national standard; and
+
+  * (2) conduct periodic surveillance reviews of such systems to ensure that such systems maintain compliance with that standard through program completion.
+
+#### (b) Benchmarks for technology readiness levels
+* The Administrator shall—
+
+  * (1) establish specific benchmarks for technology readiness levels of critical technologies for life extension programs at key decision points; and
+
+  * (2) ensure that critical technologies meet such benchmarks at such decision points.
+
+#### (c) Applicability
+* This section shall apply to programs that, as of January 1, 2021, have not entered phase 3 of the nuclear weapons acquisition process or phase 6.3 of a nuclear weapons life extension program.
+
+#### (d) Definition
+* In this section, the term "earned value management national standard" means the most recent version of the EIA-748 Earned Value Management System Standard published by the National Defense Industrial Association.

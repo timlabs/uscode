@@ -57,6 +57,10 @@
 
     * (C) providing ongoing victim advocacy and referrals to comprehensive services including legal, housing, health care, and economic assistance.
 
+  * (23) To develop, strengthen, and implement policies, protocols, and training for law enforcement regarding cases of missing or murdered Indians, as described in section 5704 of title 25.
+
+  * (24) To compile and annually report data to the Attorney General related to missing or murdered Indians, as described in section 5705 of title 25.
+
 #### (c) Eligibility
 * Eligible grantees are—
 

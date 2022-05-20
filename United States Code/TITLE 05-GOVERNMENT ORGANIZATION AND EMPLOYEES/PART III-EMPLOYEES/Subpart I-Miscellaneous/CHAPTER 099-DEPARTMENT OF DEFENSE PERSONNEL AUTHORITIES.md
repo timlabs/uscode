@@ -338,6 +338,8 @@
 
   * (10) Any position, as determined by the Secretary, for the purpose of assisting and facilitating the efforts of the Department in business transformation and management innovation.
 
+  * (11) Any position in the military housing office of a military installation whose primary function is supervision of military housing covered by subchapter IV of chapter 169 of title 10.
+
 
 * (b) SUNSET.—
 

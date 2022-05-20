@@ -32,7 +32,7 @@
 #### (b) Time of attachment on distilled spirits
 * The tax shall attach to distilled spirits as soon as this substance is in existence as such, whether it be subsequently separated as pure or impure spirits, or be immediately, or at any subsequent time, transferred into any other substance, either in the process of original production or by any subsequent process.
 
-#### (c) Temporary reduced rate
+#### (c) Reduced rate
 * #### (1) In general
   * In the case of a distilled spirits operation, the otherwise applicable tax rate under subsection (a)(1) shall be—
 
@@ -54,14 +54,14 @@
     * Under regulations prescribed by the Secretary, principles similar to the principles of subparagraphs (A) and (B) shall be applied to a group under common control where one or more of the persons is not a corporation.
 
   * #### (D) Single taxpayer
-    * Pursuant to rules issued by the Secretary, two or more entities (whether or not under common control) that produce distilled spirits marketed under a similar brand, license, franchise, or other arrangement shall be treated as a single taxpayer for purposes of the application of this subsection.
+    * Pursuant to rules issued by the Secretary, two or more entities (whether or not under common control) that produce or process distilled spirits under a license, franchise, or other arrangement shall be treated as a single taxpayer for purposes of the application of this subsection.
 
 * #### (3) Reduced tax rate for foreign manufacturers and importers
   * #### (A) In general
     * In the case of any proof gallons of distilled spirits which have been produced outside of the United States and imported into the United States, the rate of tax applicable under paragraph (1) (referred to in this paragraph as the "reduced tax rate") may be assigned by the distilled spirits operation (provided that such operation makes an election described in subparagraph (B)(ii)) to any electing importer of such proof gallons pursuant to the requirements established by the Secretary under subparagraph (B).
 
   * #### (B) Assignment
-    * The Secretary shall, through such rules, regulations, and procedures as are determined appropriate, establish procedures for assignment of the reduced tax rate provided under this paragraph, which shall include—
+    * The Secretary of the Treasury, after consultation with the Secretary of the Department of Homeland Security, shall, through such rules, regulations, and procedures as are determined appropriate, establish procedures for assignment of the reduced tax rate provided under this paragraph, which shall include—
 
       * (i) a limitation to ensure that the number of proof gallons of distilled spirits for which the reduced tax rate has been assigned by a distilled spirits operation—
 
@@ -82,9 +82,6 @@
 
     * #### (ii) Apportionment
       * For purposes of this paragraph, in the case of a controlled group, rules similar to section 5051(a)(5)(B) shall apply.
-
-* #### (4) Termination
-  * This subsection shall not apply to distilled spirits removed after December 31, 2020.
 
 #### (d) Cross reference
     *  **For provisions relating to the tax on shipments to the United States of taxable articles from Puerto Rico and the Virgin Islands, see section 7652.**

@@ -208,11 +208,7 @@
     * With respect to any Federal amounts received by a center of excellence and available for carrying out activities for which a grant under this part is authorized to be expended, the center shall, before expending the grant, expend the Federal amounts obtained from sources other than the grant, unless given prior approval from the Secretary.
 
 #### (i) Authorization of appropriations
-* There are authorized to be appropriated to carry out this section—
-
-  * (1) $50,000,000 for each of the fiscal years 2010 through 2015; and
-
-  * (2) and such sums as are necessary for each subsequent fiscal year.
+* To carry out this section, there is authorized to be appropriated $23,711,000 for each of fiscal years 2021 through 2025.
 
 ### §293a. Scholarships for disadvantaged students
 #### (a) In general
@@ -371,16 +367,16 @@
 
 ### §293d. Authorization of appropriation
 #### (a) Scholarships
-* There are authorized to be appropriated to carry out section 293a of this title, $51,000,000 for fiscal year 2010, and such sums as may be necessary for each of the fiscal years 2011 through 2014. Of the amount appropriated in any fiscal year, the Secretary shall ensure that not less than 16 percent shall be distributed to schools of nursing.
+* There are authorized to be appropriated to carry out section 293a of this title, $51,470,000 for each of fiscal years 2021 through 2025. Of the amount appropriated in any fiscal year, the Secretary shall ensure that not less than 16 percent shall be distributed to schools of nursing.
 
 #### (b) Loan repayments and fellowships
-* For the purpose of carrying out section 293b of this title, there is authorized to be appropriated, $5,000,000 for each of the fiscal years 2010 through 2014.
+* For the purpose of carrying out section 293b of this title, there is authorized to be appropriated, $1,190,000 for each of fiscal years 2021 through 2025.
 
 #### (c) Educational assistance in health professions regarding individuals from disadvantaged backgrounds
-* For the purpose of grants and contracts under section 293c(a)(1) of this title, there is authorized to be appropriated $60,000,000 for fiscal year 2010 and such sums as may be necessary for each of the fiscal years 2011 through 2014. The Secretary may use not to exceed 20 percent of the amount appropriated for a fiscal year under this subsection to provide scholarships under section 293c(a)(2)(F) of this title.
+* For the purpose of grants and contracts under section 293c(a)(1) of this title, there is authorized to be appropriated $15,000,000 for each of fiscal years 2021 through 2025. The Secretary may use not to exceed 20 percent of the amount appropriated for a fiscal year under this subsection to provide scholarships under section 293c(a)(2)(F) of this title.
 
 #### (d) Report
-* Not later than 6 months after November 13, 1998, the Secretary shall prepare and submit to the appropriate committees of Congress a report concerning the efforts of the Secretary to address the need for a representative mix of individuals from historically minority health professions schools, or from institutions or other entities that historically or by geographic location have a demonstrated record of training or educating underrepresented minorities, within various health professions disciplines, on peer review councils.
+* Not later than September 30, 2025, and every five years thereafter, the Secretary shall prepare and submit to the Committee on Health, Education, Labor, and Pensions of the Senate, and the Committee on Energy and Commerce of the House of Representatives, a report concerning the efforts of the Secretary to address the need for a representative mix of individuals from historically minority health professions schools, or from institutions or other entities that historically or by geographic location have a demonstrated record of training or educating underrepresented minorities, within various health professions disciplines, on peer review councils.
 
 ### §293e. Grants for health professions education
 #### (a) Cultural competency, prevention, and public health and individuals with disability grants

@@ -65,49 +65,19 @@
 #### (j) Delivery withheld until marked
 * No imported article held in customs custody for inspection, examination, or appraisement shall be delivered until such article and every other article of the importation (or their containers), whether or not released from customs custody, shall have been marked in accordance with the requirements of this section or until the amount of duty estimated to be payable under subsection (i) of this section has been deposited. Nothing in this section shall be construed as excepting any article (or its container) from the particular requirements of marking provided for in any other provision of law.
 
-#### (k) Treatment of goods of NAFTA country
-* #### (1) Application of section
-  * In applying this section to an article that qualifies as a good of a NAFTA country (as defined in section 3301(4) of this title) under the regulations issued by the Secretary to implement Annex 311 of the North American Free Trade Agreement—
+#### (k) Treatment of goods of a USMCA country
+* In applying this section to an article that qualifies as a good of a USMCA country (as defined in section 4502 of this title)—
 
-    * (A) the exemption under subsection (a)(3)(H) shall be applied by substituting "reasonably know" for "necessarily know";
+  * (1) the exemption under subsection (a)(3)(H) shall be applied by substituting "reasonably know" for "necessarily know";
 
-    * (B) the Secretary shall exempt the good from the requirements for marking under subsection (a) if the good—
+  * (2) the Secretary shall exempt the good from the requirements for marking under subsection (a) if the good—
 
-      * (i) is an original work of art, or
+    * (A) is an original work of art; or
 
-      * (ii) is provided for under subheading 6904.10, heading 8541, or heading 8542 of the Harmonized Tariff Schedule of the United States; and
+    * (B) is provided for under subheading 6904.10, heading 8541, or heading 8542 of the Harmonized Tariff Schedule of the United States; and
 
 
-    * (C) subsection (b) does not apply to the usual container of any good described in subsection (a)(3)(E) or (I) or subparagraph (B)(i) or (ii) of this paragraph.
-
-* #### (2) Petition rights of NAFTA exporters and producers regarding marking determinations
-  * #### (A) Definitions
-    * For purposes of this paragraph:
-
-      * (i) The term "adverse marking decision" means a determination by the Customs Service which an exporter or producer of merchandise believes to be contrary to Annex 311 of the North American Free Trade Agreement.
-
-      * (ii) A person may not be treated as the exporter or producer of merchandise regarding which an adverse marking decision was made unless such person—
-
-        * (I) if claiming to be the exporter, is located in a NAFTA country and is required to maintain records in that country regarding exportations to NAFTA countries; or
-
-        * (II) if claiming to be the producer, grows, mines, harvests, fishes, traps, hunts, manufactures, processes, or assembles such merchandise in a NAFTA country.
-
-  * #### (B) Intervention or petition regarding adverse marking decisions
-    * If the Customs Service makes an adverse marking decision regarding any merchandise, the Customs Service shall, upon written request by the exporter or producer of the merchandise, provide to the exporter or producer a statement of the basis for the decision. If the exporter or producer believes that the decision is not correct, it may intervene in any protest proceeding initiated by the importer of the merchandise. If the importer does not file a protest with regard to the decision, the exporter or producer may file a petition with the Customs Service setting forth—
-
-      * (i) a description of the merchandise; and
-
-      * (ii) the basis for its claim that the merchandise should be marked as a good of a NAFTA country.
-
-  * #### (C) Effect of determination regarding decision
-    * If, after receipt and consideration of a petition filed by an exporter or producer under subparagraph (B), the Customs Service determines that the adverse marking decision—
-
-      * (i) is not correct, the Customs Service shall notify the petitioner of the determination and all merchandise entered, or withdrawn from warehouse for consumption, more than 30 days after the date that notice of the determination under this clause is published in the weekly Custom Bulletin shall be marked in conformity with the determination; or
-
-      * (ii) is correct, the Customs Service shall notify the petitioner that the petition is denied.
-
-  * #### (D) Judicial review
-    * For purposes of judicial review, the denial of a petition under subparagraph (C)(ii) shall be treated as if it were a denial of a petition of an interested party under section 1516 of this title regarding an issue arising under any of the preceding provisions of this section.
+  * (3) subsection (b) does not apply to the usual container of any good described in subsection (a)(3)(E) or (I) or paragraph (2)(A) or (B) of this subsection.
 
 #### (l) Penalties
 * Any person who, with intent to conceal the information given thereby or contained therein, defaces, destroys, removes, alters, covers, obscures, or obliterates any mark required under the provisions of this chapter shall—
@@ -294,14 +264,14 @@
 
 * Distilled spirits and wines which are rectified in bonded manufacturing warehouses, class six, and distilled spirits which are reduced in proof and bottled in such warehouses, shall be deemed to have been manufactured within the meaning of this section, and may be withdrawn as hereinbefore provided, and likewise for shipment in bond to Puerto Rico, subject to the provisions of this section, and under such regulations as the Secretary of the Treasury may prescribe, there to be withdrawn for consumption or be rewarehoused and subsequently withdrawn for consumption: _Provided_, That upon withdrawal in Puerto Rico for consumption, the duties imposed by the customs laws of the United States shall be collected on all imported merchandise (in its condition as imported) and imported containers used in the manufacture and putting up of such spirits and wines in such warehouses.
 
-* No article manufactured in a bonded warehouse from materials that are goods subject to NAFTA drawback, as defined in section 3333(a) of this title, may be withdrawn from warehouse for exportation to a NAFTA country, as defined in section 3301(4) of this title, without assessment of a duty on the materials in their condition and quantity, and at their weight, at the time of importation into the United States. The duty shall be paid before the 61st day after the date of exportation, except that upon the presentation, before such 61st day, of satisfactory evidence of the amount of any customs duties paid to the NAFTA country on the article, the customs duty may be waived or reduced (subject to section 1508(b)(2)(B) of this title) in an amount that does not exceed the lesser of—
+* No article manufactured in a bonded warehouse from materials that are goods subject to drawback, as defined in section 4534(a) of this title, may be withdrawn from warehouse for exportation to a country, as defined in section 4502 of this title, without assessment of a duty on the materials in their condition and quantity, and at their weight, at the time of importation into the United States. The duty shall be paid before the 61st day after the date of exportation, except that upon the presentation, before such 61st day, of satisfactory evidence of the amount of any customs duties paid to the country on the article, the customs duty may be waived or reduced (subject to section 4534(e) of this title) in an amount that does not exceed the lesser of—
 
   * (1) the total amount of customs duties paid or owed on the materials on importation into the United States, or
 
-  * (2) the total amount of customs duties paid on the article to the NAFTA country.
+  * (2) the total amount of customs duties paid on the article to the country.
 
 
-* If Canada ceases to be a NAFTA country and the suspension of the operation of the United States-Canada Free-Trade Agreement thereafter terminates, no article manufactured in a bonded warehouse, except to the extent that such article is made from an article that is a drawback eligible good under section 204(a) of the United States-Canada Free-Trade Agreement Implementation Act of 1988, may be withdrawn from such warehouse for exportation to Canada during the period such Agreement is in operation without payment of a duty on such imported merchandise in its condition, and at the rate of duty in effect, at the time of importation.
+* If Canada ceases to be a country and the suspension of the operation of the United States-Canada Free-Trade Agreement thereafter terminates, no article manufactured in a bonded warehouse, except to the extent that such article is made from an article that is a drawback eligible good under section 204(a) of the United States-Canada Free-Trade Agreement Implementation Act of 1988, may be withdrawn from such warehouse for exportation to Canada during the period such Agreement is in operation without payment of a duty on such imported merchandise in its condition, and at the rate of duty in effect, at the time of importation.
 
 * No article manufactured in a bonded warehouse from materials that are goods subject to Chile FTA drawback, as defined in section 203(a) of the United States-Chile Free Trade Agreement Implementation Act, may be withdrawn from warehouse for exportation to Chile without assessment of a duty on the materials in their condition and quantity, and at their weight, at the time of importation into the United States. The duty shall be paid before the 61st day after the date of exportation, except that the duty may be waived or reduced by—
 
@@ -322,11 +292,11 @@
 
   * (1) upon the exportation from the bonded warehouses which treated the metal-bearing materials, or from any other bonded smelting or refining warehouse, of a quantity of the same kind of metal contained in any product of smelting or refining of metal-bearing materials equal to the dutiable quantity contained in the imported metal-bearing materials less wastage provided for in subsection (c); except that—
 
-    * (A) in the case of a withdrawal for exportation of such a product to a NAFTA country, as defined in section 3301(4) of this title, if any of the imported metal-bearing materials are goods subject to NAFTA drawback, as defined in section 3333(a) of this title, the duties on the materials shall be paid, and the charges against the bond canceled, before the 61st day after the date of exportation; but upon the presentation, before such 61st day, of satisfactory evidence of the amount of any customs duties paid to the NAFTA country on the product, the duties on the materials may be waived or reduced (subject to section 1508(b)(2)(B) of this title) in an amount that does not exceed the lesser of—
+    * (A) in the case of a withdrawal for exportation of such a product to a USMCA country, as defined in section 4502 of this title, if any of the imported metal-bearing materials are goods subject to USMCA drawback, as defined in section 4534(a) of this title, the duties on the materials shall be paid, and the charges against the bond canceled, before the 61st day after the date of exportation; but upon the presentation, before such 61st day, of satisfactory evidence of the amount of any customs duties paid to the USMCA country on the product, the duties on the materials may be waived or reduced (subject to section 4534(e) of this title) in an amount that does not exceed the lesser of—
 
       * (i) the total amount of customs duties owed on the materials on importation into the United States, or
 
-      * (ii) the total amount of customs duties paid to the NAFTA country on the product, and
+      * (ii) the total amount of customs duties paid to the USMCA country on the product, and
 
 
     * (B) in the case of a withdrawal for exportation of such a product to Chile, if any of the imported metal-bearing materials are goods subject to Chile FTA drawback, as defined in section 203(a) of the United States-Chile Free Trade Agreement Implementation Act, the duties on the materials shall be paid, and the charges against the bond canceled, before the 61st day after the date of exportation, except that the duties may be waived or reduced by—
@@ -346,11 +316,11 @@
 
   * (4) upon the transfer of the bond charges to a bonded customs warehouse other than a bonded smelting or refining warehouse by physical shipment of a quantity of the same kind of metal contained in any product of smelting or refining equal to the dutiable quantity contained in the imported metal-bearing materials less wastage provided for in subsection (c), and upon withdrawal from such other warehouse for exportation or domestic consumption the provisions of this section shall apply; except that—
 
-    * (A) in the case of a withdrawal for exportation of such a product to a NAFTA country, as defined in section 3301(4) of this title, if any of the imported metal-bearing materials are goods subject to NAFTA drawback, as defined in section 3333(a) of this title, the duties on the materials shall be paid, and the charges against the bond canceled, before the 61st day after the date of exportation; but upon the presentation, before such 61st day, of satisfactory evidence of the amount of any customs duties paid to the NAFTA country on the product, the duties on the materials may be waived or reduced (subject to section 1508(b)(2)(B) of this title) in an amount that does not exceed the lesser of—
+    * (A) in the case of a withdrawal for exportation of such a product to a USMCA country, as defined in section 4502 of this title, if any of the imported metal-bearing materials are goods subject to USMCA drawback, as defined in section 4534(a) of this title, the duties on the materials shall be paid, and the charges against the bond canceled, before the 61st day after the date of exportation; but upon the presentation, before such 61st day, of satisfactory evidence of the amount of any customs duties paid to the USMCA country on the product, the duties on the materials may be waived or reduced (subject to section 4534(e) of this title) in an amount that does not exceed the lesser of—
 
       * (i) the total amount of customs duties owed on the materials on importation into the United States, or
 
-      * (ii) the total amount of customs duties paid to the NAFTA country on the product, and
+      * (ii) the total amount of customs duties paid to the USMCA country on the product, and
 
 
     * (B) in the case of a withdrawal for exportation of such a product to Chile, if any of the imported metal-bearing materials are goods subject to Chile FTA drawback, as defined in section 203(a) of the United States-Chile Free Trade Agreement Implementation Act, the duties on the materials shall be paid, and the charges against the bond canceled, before the 61st day after the date of exportation, except that the duties may be waived or reduced by—
@@ -367,7 +337,7 @@
   * (5) upon the transfer to another bonded smelting or refining warehouse without physical shipment of metal of bond charges representing a quantity of dutiable metal contained in imported metal-bearing materials less wastage provided for in subsection (c) of the plant of initial treatment of such materials provided there is on hand at the warehouse to which the transfer is made sufficient like metal in any form to satisfy the transferred bond charges.
 
 
-* If Canada ceases to be a NAFTA country and the suspension of the operation of the United States-Canada Free-Trade Agreement thereafter terminates, no charges against such bond may be canceled in whole or part upon an exportation to Canada under paragraph (1) or (4) during the period such Agreement is in operation except to the extent that the metal-bearing materials were of Canadian origin as determined in accordance with section 202 of the United States-Canada Free-Trade Agreement Implementation Act of 1988.
+* If Canada ceases to be a USMCA country and the suspension of the operation of the United States-Canada Free-Trade Agreement thereafter terminates, no charges against such bond may be canceled in whole or part upon an exportation to Canada under paragraph (1) or (4) during the period such Agreement is in operation except to the extent that the metal-bearing materials were of Canadian origin as determined in accordance with section 202 of the United States-Canada Free-Trade Agreement Implementation Act of 1988.
 
 #### (c) Allowance on bond for wastage of metals
 * For purposes of paragraphs (1), (3), (4), and (5) of subsection (b), due allowances shall be made for wastage of metals other than copper, lead, and zinc, as ascertained from time to time by the Secretary of the Treasury.
@@ -375,11 +345,11 @@
 #### (d) Credit for exportation of product other than refined metal
 * Upon the exportation of a product of smelting or refining other than refined metal the bond shall be credited with a quantity of metal equivalent to the quantity of metal contained in the product exported less the proportionate part of the deductions allowed for losses in determination of the bond charge being cancelled that would not ordinarily be sustained in production of the specific product exported as ascertained from time to time by the Secretary of the Treasury; except that—
 
-  * (1) in the case of a withdrawal for exportation to a NAFTA country, as defined in section 3301(4) of this title, if any of the imported metal-bearing materials are goods subject to NAFTA drawback, as defined in section 3333(a) of this title, charges against the bond shall be paid before the 61st day after the date of exportation; but upon the presentation, before such 61st day, of satisfactory evidence of the amount of any customs duties paid to the NAFTA country on the product, the bond shall be credited (subject to section 1508(b)(2)(B) of this title) in an amount not to exceed the lesser of—
+  * (1) in the case of a withdrawal for exportation to a USMCA country, as defined in section 4502 of this title, if any of the imported metal-bearing materials are goods subject to USMCA drawback, as defined in section 4534(a) of this title, charges against the bond shall be paid before the 61st day after the date of exportation; but upon the presentation, before such 61st day, of satisfactory evidence of the amount of any customs duties paid to the USMCA country on the product, the bond shall be credited (subject to section 4534(e) of this title) in an amount not to exceed the lesser of—
 
     * (A) the total amount of customs duties paid or owed on the materials on importation into the United States, or
 
-    * (B) the total amount of customs duties paid to the NAFTA country on the product; and
+    * (B) the total amount of customs duties paid to the USMCA country on the product; and
 
 
   * (2) in the case of a withdrawal for exportation to Chile, if any of the imported metal-bearing materials are goods subject to Chile FTA drawback, as defined in section 203(a) of the United States-Chile Free Trade Agreement Implementation Act, charges against the bond shall be paid before the 61st day after the date of exportation, and the bond shall be credited in an amount equal to—
@@ -393,7 +363,7 @@
     * (D) 25 percent of the total amount of customs duties paid or owed on the materials on importation into the United States during the 1-year period beginning on January 1, 2014.
 
 
-* If Canada ceases to be a NAFTA country and the suspension of the operation of the United States-Canada Free-Trade Agreement thereafter terminates, no bond shall be credited under this subsection with respect to an exportation of a product to Canada during the period such Agreement is in operation except to the extent that the product is a drawback eligible good under section 204(a) of the United States-Canada Free-Trade Agreement Implementation Act of 1988.
+* If Canada ceases to be a USMCA country and the suspension of the operation of the United States-Canada Free-Trade Agreement thereafter terminates, no bond shall be credited under this subsection with respect to an exportation of a product to Canada during the period such Agreement is in operation except to the extent that the product is a drawback eligible good under section 204(a) of the United States-Canada Free-Trade Agreement Implementation Act of 1988.
 
 #### (e) General bond for two or more warehouses
 * Two or more smelting or refining warehouses may be included under one general bond and the quantities of each kind of metal subject to duty on hand at all of such warehouses may be aggregated to satisfy the bond obligation.
@@ -544,7 +514,9 @@
 
 * shall not be treated as a use of that merchandise for purposes of applying paragraph (1)(B) or (2)(C).
 
-* (4)(A) Effective upon the entry into force of the North American Free Trade Agreement, the exportation to a NAFTA country, as defined in section 2(4) of the North American Free Trade Agreement Implementation Act [19 U.S.C. 3301(4)], of merchandise that is fungible with and substituted for imported merchandise, other than merchandise described in paragraphs (1) through (8) of section 203(a) of that Act [19 U.S.C. 3333(a)], shall not constitute an exportation for purposes of paragraph (2).
+* (4)(A)(i) Effective upon the entry into force of the USMCA, the exportation to a USMCA country of merchandise that is fungible with and substituted for imported merchandise, other than merchandise described in paragraphs (1) through (8) of section 4534(a) of this title, shall not constitute an exportation for purposes of paragraph (2).
+
+* (ii) In this subparagraph, the terms "USMCA" and "USMCA country" have the meanings given those terms in section 4502 of this title.
 
 * (B) Beginning on January 1, 2015, the exportation to Chile of merchandise that is fungible with and substituted for imported merchandise, other than merchandise described in paragraphs (1) through (5) of section 203(a) of the United States-Chile Free Trade Agreement Implementation Act, shall not constitute an exportation for purposes of paragraph (2). The preceding sentence shall not be construed to permit the substitution of unused drawback under paragraph (2) of this subsection with respect to merchandise described in paragraph (2) of section 203(a) of the United States-Chile Free Trade Agreement Implementation Act.
 
@@ -641,23 +613,23 @@
 #### (n) Refunds, waivers, or reductions under certain free trade agreements
 * (1) For purposes of this subsection and subsection (o)—
 
-  * (A) the term "NAFTA Act" means the North American Free Trade Agreement Implementation Act [19 U.S.C. 3301 et seq.];
+  * (A) the term "USMCA country" has the meaning given that term in section 4502 of this title;
 
-  * (B) the terms "NAFTA country" and "good subject to NAFTA drawback" have the same respective meanings that are given such terms in sections 2(4) and 203(a) of the NAFTA Act [19 U.S.C. 3301(4), 3333(a)];
+  * (B) the term "good subject to USMCA drawback" has the meaning given that term in section 4534(a) of this title;
 
-  * (C) a refund, waiver, or reduction of duty under paragraph (2) of this subsection or paragraph (1) of subsection (o) is subject to section 1508(b)(2)(B) of this title; and
+  * (C) a refund, waiver, or reduction of duty under paragraph (2) of this subsection or paragraph (1) of subsection (o) is subject to section 4534(e) of this title; and
 
   * (D) the term "good subject to Chile FTA drawback" has the meaning given that term in section 203(a) of the United States-Chile Free Trade Agreement Implementation Act.
 
 
-* (2) For purposes of subsections (a), (b), (f), (h), (p), and (q), if an article that is exported to a NAFTA country is a good subject to NAFTA drawback, no customs duties on the good may be refunded, waived, or reduced in an amount that exceeds the lesser of—
+* (2) For purposes of subsections (a), (b), (f), (h), (p), and (q), if an article that is exported to a USMCA country is a good subject to USMCA drawback, no customs duties on the good may be refunded, waived, or reduced in an amount that exceeds the lesser of—
 
   * (A) the total amount of customs duties paid or owed on the good on importation into the United States, or
 
-  * (B) the total amount of customs duties paid on the good to the NAFTA country.
+  * (B) the total amount of customs duties paid on the good to the USMCA country.
 
 
-* (3) If Canada ceases to be a NAFTA country and the suspension of the operation of the United States-Canada Free-Trade Agreement thereafter terminates, then for purposes of subsections (a), (b), (f), (h), (j)(2), and (q), the shipment to Canada during the period such Agreement is in operation of an article made from or substituted for, as appropriate, a drawback eligible good under section 204(a) of the United States-Canada Free-Trade Implementation Act of 1988 does not constitute an exportation.
+* (3) If Canada ceases to be a USMCA country and the suspension of the operation of the United States-Canada Free-Trade Agreement thereafter terminates, then for purposes of subsections (a), (b), (f), (h), (j)(2), and (q), the shipment to Canada during the period such Agreement is in operation of an article made from or substituted for, as appropriate, a drawback eligible good under section 204(a) of the United States-Canada Free-Trade Implementation Act of 1988 does not constitute an exportation.
 
 * (4)(A) For purposes of subsections (a), (b), (f), (h), (j)(2), (p), and (q), if an article that is exported to Chile is a good subject to Chile FTA drawback, no customs duties on the good may be refunded, waived, or reduced, except as provided in subparagraph (B).
 
@@ -674,14 +646,14 @@
 #### (o) Special rules for certain vessels and imported materials
 * (1) For purposes of subsection (g), if—
 
-  * (A) a vessel is built for the account and ownership of a resident of a NAFTA country or the government of a NAFTA country, and
+  * (A) a vessel is built for the account and ownership of a resident of a USMCA country or the government of a USMCA country, and
 
-  * (B) imported materials that are used in the construction and equipment of the vessel are goods subject to NAFTA drawback,
+  * (B) imported materials that are used in the construction and equipment of the vessel are goods subject to USMCA drawback,
 
 
-* the amount of customs duties refunded, waived, or reduced on such materials may not exceed the lesser of the total amount of customs duties paid or owed on the materials on importation into the United States or the total amount of customs duties paid on the vessel to the NAFTA country.
+* the amount of customs duties refunded, waived, or reduced on such materials may not exceed the lesser of the total amount of customs duties paid or owed on the materials on importation into the United States or the total amount of customs duties paid on the vessel to the USMCA country.
 
-* (2) If Canada ceases to be a NAFTA country and the suspension of the operation of the United States-Canada Free-Trade Agreement thereafter terminates, then for purposes of subsection (g), vessels built for Canadian account and ownership, or for the Government of Canada, may not be considered to be built for any foreign account and ownership, or for the government of any foreign country, except to the extent that the materials in such vessels are drawback eligible goods under section 204(a) of the United States-Canada Free-Trade Implementation Act of 1988.
+* (2) If Canada ceases to be a USMCA country and the suspension of the operation of the United States-Canada Free-Trade Agreement thereafter terminates, then for purposes of subsection (g), vessels built for Canadian account and ownership, or for the Government of Canada, may not be considered to be built for any foreign account and ownership, or for the government of any foreign country, except to the extent that the materials in such vessels are drawback eligible goods under section 204(a) of the United States-Canada Free-Trade Implementation Act of 1988.
 
 * (3) For purposes of subsection (g), if—
 
@@ -811,7 +783,7 @@
 * whichever is later.
 
 
-* (B) If an extension is granted with respect to a request filed under this paragraph, the period of time for retaining records set forth in section 1508(c)(3) of this title shall be extended for an additional 18 months or, in a case to which subparagraph (A)(ii) applies, for a period not to exceed 1 year from the date the claim is filed.
+* (B) If an extension is granted with respect to a request filed under this paragraph, the period of time for retaining records set forth in section 1508(c)(2) of this title shall be extended for an additional 18 months or, in a case to which subparagraph (A)(ii) applies, for a period not to exceed 1 year from the date the claim is filed.
 
 * (C) For purposes of this paragraph, the term "major disaster" has the meaning given that term in section 5122(2) of title 42.
 

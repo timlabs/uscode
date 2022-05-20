@@ -27,7 +27,7 @@
   * The term "SBIR program" has the same meaning as in section 638(e)(4) of this title.
 
 * #### (9) State
-  * The term "State" means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, and American Samoa.
+  * The term "State" means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
 * #### (10) STTR program
   * The term "STTR program" has the same meaning as in section 638(e)(6) of this title.

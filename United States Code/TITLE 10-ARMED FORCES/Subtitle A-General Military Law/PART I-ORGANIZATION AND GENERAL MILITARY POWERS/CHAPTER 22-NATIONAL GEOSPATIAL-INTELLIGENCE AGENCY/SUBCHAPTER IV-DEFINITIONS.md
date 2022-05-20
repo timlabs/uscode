@@ -16,11 +16,11 @@
 
   * (3) The term "imagery intelligence" means the technical, geographic, and intelligence information derived through the interpretation or analysis of imagery and collateral materials.
 
-  * (4) The term "geospatial information" means information that identifies the geographic location and characteristics of natural or constructed features and boundaries on the earth and includes—
+  * (4) The term "geospatial information" means information that identifies the geographic location and characteristics of natural or constructed features and boundaries on or about the earth and includes—
 
-    * (A) statistical data and information derived from, among other things, remote sensing, mapping, and surveying technologies; and
+    * (A) data and information derived from, among other things, remote sensing, mapping, and surveying technologies; and
 
-    * (B) mapping, charting, geodetic data, and related products.
+    * (B) mapping, charting, geomatics data, and related products and services.
 
 
-  * (5) The term "geospatial intelligence" means the exploitation and analysis of imagery and geospatial information to describe, assess, and visually depict physical features and geographically referenced activities on the earth. Geospatial intelligence consists of imagery, imagery intelligence, and geospatial information.
+  * (5) The term "geospatial intelligence" means the exploitation and analysis of imagery and geospatial information to describe, assess, and visually depict physical features and geographically referenced activities on or about the earth. Geospatial intelligence consists of imagery, imagery intelligence, and geospatial information.

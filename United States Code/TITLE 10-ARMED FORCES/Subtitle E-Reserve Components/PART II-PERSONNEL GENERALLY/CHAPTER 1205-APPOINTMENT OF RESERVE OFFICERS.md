@@ -78,7 +78,7 @@
 
 * (2) The Secretary of Defense shall prescribe regulations, which shall apply uniformly among the Army, Navy, Air Force, and Marine Corps, to authorize the Secretary of the military department concerned to limit the amount of prior commissioned service with which a person receiving an original appointment may be credited under paragraph (1), or to deny any such credit, in the case of a person who at the time of such appointment is credited with constructive service under subsection (b) or (e).
 
-* (b)(1) Under regulations prescribed by the Secretary of Defense, a person who is receiving an original appointment as a reserve commissioned officer (other than a commissioned warrant officer) of the Army, Navy, Air Force, or Marine Corps, or a designation in, or an assignment to, an officer category in which advanced education or training is required and who has advanced education or training, shall be credited with constructive service for such education, training, or experience, as follows:
+* (b)(1) Under regulations prescribed by the Secretary of Defense, a person who is receiving an original appointment as a reserve commissioned officer (other than a commissioned warrant officer) of the Army, Navy, Air Force, or Marine Corps, and who has special training or experience, or advanced education (if applicable), shall be credited with constructive service for such education, training, or experience, as follows:
 
   * (A) One year for each year of advanced education beyond the baccalaureate degree level, for persons appointed or designated in, or assigned to, officer categories requiring such advanced education or an advanced degree as a prerequisite for such appointment, designation, or assignment. In determining the number of years of constructive service to be credited under this subparagraph to officers in any professional field, the Secretary concerned shall credit an officer with, but with not more than, the number of years of advanced education required by a majority of institutions that award degrees in that professional field for completion of the advanced education or award of the advanced degree.
 
@@ -88,7 +88,11 @@
 
   * (C) Additional credit of (i) not more than one year for internship or equivalent graduate medical, dental, or other formal health professional training required by the armed forces, and (ii) not more than one year for each additional year of such graduate-level training or experience creditable toward certification in a speciality required by the armed force concerned.
 
-  * (D) Additional credit for special training or experience in a particular officer career field as designated by the Secretary concerned, if such training or experience is directly related to the operational needs of the armed force concerned.
+  * (D) Additional credit as follows:
+
+    * (i) For special training or experience in a particular officer field as designated by the Secretary concerned, if such training or experience is directly related to the operational needs of the armed force concerned.
+
+    * (ii) During fiscal years 2021 through 2025, for advanced education in an officer field so designated, if such education is directly related to the operational needs of the armed force concerned.
 
   * (E) Additional credit for experience as a physician or dentist, if appointed, assigned, or designated as a medical or dental officer.
 

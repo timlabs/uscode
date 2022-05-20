@@ -142,7 +142,7 @@
 #### (c) Requirements for payment information
 * With respect to home health services furnished on or after October 1, 1998, no claim for such a service may be paid under this subchapter unless—
 
-  * (1) the claim has the unique identifier (provided under section 1395u(r) of this title) for the physician who prescribed the services or made the certification described in section 1395f(a)(2) or 1395n(a)(2)(A) of this title;
+  * (1) the claim has the unique identifier for the physician the nurse practitioner or clinical nurse specialist (as those terms are defined in section 1395x(aa)(5) of this title), or the physician assistant (as defined in section 1395x(aa)(5) of this title) who prescribed the services or made the certification described in section 1395f(a)(2) or 1395n(a)(2)(A) of this title;
 
   * (2) in the case of a service visit described in paragraph (1), (2), (3), or (4) of section 1395x(m) of this title, the claim contains a code (or codes) specified by the Secretary that identifies the length of time of the service visit, as measured in 15 minute increments; and
 
@@ -167,9 +167,9 @@
 * #### (1) Telecommunications
   * Nothing in this section shall be construed as preventing a home health agency furnishing a home health unit of service for which payment is made under the prospective payment system established by this section for such units of service from furnishing services via a telecommunication system if such services—
 
-    * (A) do not substitute for in-person home health services ordered as part of a plan of care certified by a physician pursuant to section 1395f(a)(2)(C) or 1395n(a)(2)(A) of this title; and
+    * (A) do not substitute for in-person home health services ordered as part of a plan of care certified by a physician a nurse practitioner or clinical nurse specialist, or a physician assistant pursuant to section 1395f(a)(2)(C) or 1395n(a)(2)(A) of this title; and
 
     * (B) are not considered a home health visit for purposes of eligibility or payment under this subchapter.
 
-* #### (2) Physician certification
-  * Nothing in this section shall be construed as waiving the requirement for a physician certification under section 1395f(a)(2)(C) or 1395n(a)(2)(A) of this title for the payment for home health services, whether or not furnished via a telecommunications system.
+* #### (2) Rule of construction regarding requirement for certification
+  * Nothing in this section shall be construed as waiving the requirement for a certification under section 1395f(a)(2)(C) or 1395n(a)(2)(A) of this title for the payment for home health services, whether or not furnished via a telecommunications system.

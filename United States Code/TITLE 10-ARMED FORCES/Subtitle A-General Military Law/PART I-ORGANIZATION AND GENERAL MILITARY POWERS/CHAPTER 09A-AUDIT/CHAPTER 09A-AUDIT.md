@@ -18,7 +18,7 @@
 
       * (ii) ensuring the financial statements of the Department of Defense go under full financial statement audit, and that the Department leadership makes every effort to reach an unmodified opinion as soon as possible;
 
-      * (iii) ensuring the audit of the financial statements of the Department of Defense for fiscal year 2018 occurs by not later than March 31, 2019.
+      * (iii) ensuring the audit of the financial statements of the Department of Defense for each fiscal year after fiscal year 2020 occurs by not later than March 31 following such fiscal year;
 
       * (iv) achieving an unqualified audit opinion for each major element of the statement of budgetary resources of the Department of Defense; and
 
@@ -59,13 +59,15 @@
 
       * (viii) If less than 25 percent of the auditing services under contract, as described in the briefing required under paragraph (2), are being performed by professionals meeting the qualifications described in section 240d(b) of this title, a written certification that the staffing ratio complies with commercial best practices and presents no increased risk of delay in the Department's ability to achieve a clean audit opinion.
 
-      * (ix) If less than 50 percent of the audit remediation services under contract, as described in the briefing required under paragraph (2)(B), are being performed by individual professionals meeting the qualifications described in suhsection (c), a detailed description of the risks associated with the risks of the acquisition strategy of the Department with respect to conducting audit remediation activities and an explanation of how the strategy complies with the policies expressed by Congress.
+      * (ix) If less than 50 percent of the audit remediation services under contract, as described in the briefing required under paragraph (2)(B), are being performed by individual professionals meeting the qualifications described in subsection (c), a detailed description of the risks associated with the risks of the acquisition strategy of the Department with respect to conducting audit remediation activities and an explanation of how the strategy complies with the policies expressed by Congress.
 
       * (x) If less than 25 percent of the audit remediation services under contract, as described in the briefing required under paragraph (2)(B), are being performed by individual professionals meeting the qualifications described in subsection (c), a written certification that the staffing ratio complies with commercial best practices and presents no increased risk of delay in the Department's ability to achieve a clean audit opinion.
 
       * (xi) A description of audit activities and results for classified programs, including a description of the use of procedures and requirements to prevent unauthorized exposure of classified information in such activities.
 
-      * (xii) An identification the manner in which the corrective action plan or plans of each department, agency, component, or element of the Department of Defense, and the corrective action plan of the Department as a whole, support the National Defense Strategy (NDS) of the United States.
+      * (xii) An identification of the manner in which the corrective action plan or plans of each department, agency, component, or element of the Department of Defense, and the corrective action plan of the Department as a whole, support the National Defense Strategy (NDS) of the United States.
+
+      * (xiii) An description of the incentives available pursuant to the guidance required by section 1004(a) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021, including a detailed explanation of how such incentives were provided during the fiscal year covered by the report.
 
 
     * (C) ADDITIONAL REQUIREMENTS.—
@@ -137,9 +139,13 @@
 
   * (1) in-service, retirement, and other pertinent dates for affected defense business systems;
 
-  * (2) current cost-to-complete estimates for each affected defense business system; and
+  * (2) current cost-to-complete estimates for each affected defense business system;
 
-  * (3) dependencies both between the various defense business systems and between the introduction, replacement, update, modification, and retirement of such systems.
+  * (3) dependencies both between the various defense business systems and between the introduction, replacement, update, modification, and retirement of such systems; and
+
+  * (4) the amount spent by the Department on operating and maintaining financial management systems during the preceding five fiscal years; and
+
+  * (5) the amount spent by the Department on acquiring or developing new financial management systems during such five fiscal years.
 
 
 * (b) REPORT AND BRIEFING REQUIREMENTS.—
@@ -175,3 +181,35 @@
   * (9) A breakdown by fiscal years in which open NFRs are forecasted to be closed.
 
   * (10) Explanations for unfavorable trends in the information under paragraphs (1) through (9).
+
+### §240i. Annual report on unfunded priorities
+* (a) IN GENERAL.—Not later than 10 days after the date on which the budget of the President for a fiscal year is submitted to Congress pursuant to section 1105 of title 31, the Under Secretary of Defense (Comptroller) shall submit to the Secretary of Defense, the Chairman of the Joint Chiefs of Staff, and the congressional defense committees a report on unfunded priorities of the Department of Defense related to audit readiness and remediation.
+
+* (b) ELEMENTS.—(1) Each report under subsection (a) shall include, for each unfunded priority covered by such report, the following:
+
+  * (A) A summary description of such priority, including the objectives to be achieved if such priority were to be funded (whether in whole or in part).
+
+  * (B) The additional amount of funds recommended in connection with the objectives identified under subparagraph (A).
+
+  * (C) Account information with respect to such priority, including, as applicable, the following:
+
+    * (i) Line item number, in the case of applicable procurement accounts.
+
+    * (ii) Program element number, in the case of applicable research, development, test, and evaluation accounts.
+
+    * (iii) Sub-activity group, in the case of applicable operation and maintenance accounts.
+
+
+* (2) The Under Secretary shall ensure that the unfunded priorities covered by a report under subsection (a) are listed in the order of urgency of priority, as determined by the Under Secretary.
+
+* (c) UNFUNDED PRIORITY DEFINED.—In this section, the term "unfunded priority", with respect to a fiscal year, means an activity related to an audit readiness or remediation effort stemming from a relevant requirement under the Chief Financial Officer Act (Public Law 101–576), chapter 9 of title 31, or this chapter that—
+
+  * (1) is not funded in the budget of the President for that fiscal year, as submitted to Congress pursuant to section 1105 of title 31;
+
+  * (2) is necessary to address a shortfall in an audit readiness or remediation activity; and
+
+  * (3) would have been recommended for funding through the budget referred to in paragraph (1) if—
+
+    * (A) additional resources had been available for the budget to fund the program, activity, or mission requirement; or
+
+    * (B) the program, activity, or mission requirement had emerged before the budget was formulated.

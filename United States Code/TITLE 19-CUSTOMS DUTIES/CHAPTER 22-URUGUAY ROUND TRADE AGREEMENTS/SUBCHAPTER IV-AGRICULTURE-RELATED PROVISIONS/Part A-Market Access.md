@@ -68,8 +68,12 @@
 #### (d) No simultaneous safeguard
 * A duty may not be in effect for a special safeguard agricultural good pursuant to this section during any period in which such good is the subject of any action proclaimed pursuant to section 2252 or 2253 of this title.
 
-#### (e) Exclusion of NAFTA countries
-* The President may exempt from any duty imposed under this section any good originating in a NAFTA country (as determined in accordance with section 3332 of this title).
+#### (e) Exclusion of originating goods of USMCA countries
+* #### (1) In general
+  * The President shall exempt from any duty imposed under this section any good that qualifies as an originating good under section 4531 of this title of a USMCA country with respect to which preferential tariff treatment is provided under the USMCA.
+
+* #### (2) Definitions
+  * In this subsection, the terms "preferential tariff treatment", "USMCA", and "USMCA country" have the meanings given those terms in section 4502 of this title.
 
 #### (f) Advice of Secretary of Agriculture
 * The Secretary of Agriculture shall advise the President on the implementation of this section.

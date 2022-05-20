@@ -2,7 +2,7 @@
 #### (a) State option of providing benchmark benefits
 * #### (1) Authority
   * #### (A) In general
-    * Notwithstanding section 1396a(a)(1) of this title (relating to statewideness), section 1396a(a)(10)(B) of this title (relating to comparability) and any other provision of this subchapter which would be directly contrary to the authority under this section and subject to subsection (E), a State, at its option as a State plan amendment, may provide for medical assistance under this subchapter to individuals within one or more groups of individuals specified by the State through coverage that—
+    * Notwithstanding section 1396a(a)(1) of this title (relating to statewideness), section 1396a(a)(10)(B) of this title (relating to comparability) and any other provision of this subchapter which would be directly contrary to the authority under this section and subject to subparagraphs (E) and (F), a State, at its option as a State plan amendment, may provide for medical assistance under this subchapter to individuals within one or more groups of individuals specified by the State through coverage that—
 
       * (i) provides benchmark coverage described in subsection (b)(1) or benchmark equivalent coverage described in subsection (b)(2); and
 
@@ -25,6 +25,13 @@
       * (ii) preventing a State from offering all or any of the items and services required by subparagraph (A)(ii) through an issuer of benchmark coverage described in subsection (b)(1) or benchmark equivalent coverage described in subsection (b)(2); or
 
       * (iii) affecting a child's entitlement to care and services described in subsections (a)(4)(B) and (r) of section 1396d of this title and provided in accordance with section 1396a(a)(43) of this title whether provided through benchmark coverage, benchmark equivalent coverage, or otherwise.
+
+  * #### (F) Necessary transportation
+    * Notwithstanding the preceding provisions of this paragraph, a State may not provide medical assistance through the enrollment of an individual with benchmark coverage or benchmark equivalent coverage described in subparagraph (A)(i) unless, subject to section 1396b(i)(9) of this title and in accordance with section 1396a(a)(4) of this title, the benchmark benefit package or benchmark equivalent coverage (or the State)—
+
+      * (i) ensures necessary transportation for individuals enrolled under such package or coverage to and from providers; and
+
+      * (ii) provides a description of the methods that will be used to ensure such transportation.
 
 * #### (2) Application
   * #### (A) In general
@@ -155,11 +162,11 @@
     * (B) payment for such services is made in accordance with the requirements of section 1396a(bb) of this title.
 
 * #### (5) Minimum standards
-  * Effective January 1, 2014, any benchmark benefit package under paragraph (1) or benchmark equivalent coverage under paragraph (2) must provide at least essential health benefits as described in section 18022(b) of this title.
+  * Effective January 1, 2014, any benchmark benefit package under paragraph (1) or benchmark equivalent coverage under paragraph (2) must provide at least essential health benefits as described in section 18022(b) of this title, and beginning January 1, 2022, coverage of routine patient costs for items and services furnished in connection with participation in a qualifying clinical trial (as defined in section 1396d(gg) of this title)".
 
 * #### (6) Mental health services parity
   * #### (A) In general
-    * In the case of any benchmark benefit package under paragraph (1) or benchmark equivalent coverage under paragraph (2) that is offered by an entity that is not a medicaid managed care organization and that provides both medical and surgical benefits and mental health or substance use disorder benefits, the entity shall ensure that the financial requirements and treatment limitations applicable to such mental health or substance use disorder benefits comply with the requirements of section 300gg–4(a) of this title in the same manner as such requirements apply to a group health plan.
+    * In the case of any benchmark benefit package under paragraph (1) or benchmark equivalent coverage under paragraph (2) that is offered by an entity that is not a medicaid managed care organization and that provides both medical and surgical benefits and mental health or substance use disorder benefits, the entity shall ensure that the financial requirements and treatment limitations applicable to such mental health or substance use disorder benefits comply with the requirements of section 300gg–26(a) of this title in the same manner as such requirements apply to a group health plan. In applying the previous sentence with respect to requirements under paragraph (8) of section 300gg–26(a) of this title, a benchmark benefit package or benchmark equivalent coverage described in such sentence shall be treated as in compliance with such requirements if the State plan under this subchapter or the benchmark benefit package or benefit equivalent coverage, as applicable, is in compliance with subpart C of part 440 of title 42, Code of Federal Regulations, or any successor regulation.
 
   * #### (B) Deemed compliance
     * Coverage provided with respect to an individual described in section 1396d(a)(4)(B) of this title and covered under the State plan under section 1396a(a)(10)(A) of this title of the services described in section 1396d(a)(4)(B) of this title (relating to early and periodic screening, diagnostic, and treatment services defined in section 1396d(r) of this title) and provided in accordance with section 1396a(a)(43) of this title, shall be deemed to satisfy the requirements of subparagraph (A).

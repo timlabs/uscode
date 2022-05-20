@@ -420,7 +420,7 @@
 ### §105. Subject matter of copyright: United States Government works
 * (a) IN GENERAL.—Copyright protection under this title is not available for any work of the United States Government, but the United States Government is not precluded from receiving and holding copyrights transferred to it by assignment, bequest, or otherwise.
 
-* (b) COPYRIGHT PROTECTION OF CERTAIN OF WORKS.—Subject to subsection (c), the covered author of a covered work owns the copyright to that covered work.
+* (b) COPYRIGHT PROTECTION OF CERTAIN OF Works.—Subject to subsection (c), the covered author of a covered work owns the copyright to that covered work.
 
 * (c) USE BY FEDERAL GOVERNMENT.—The Secretary of Defense may direct the covered author of a covered work to provide the Federal Government with an irrevocable, royalty-free, world-wide, nonexclusive license to reproduce, distribute, perform, or display such covered work for purposes of the United States Government.
 

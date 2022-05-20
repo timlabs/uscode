@@ -48,7 +48,42 @@
 * #### (4) Feasibility report defined
   * In this subsection, the term "feasibility report" means each feasibility report, and any associated environmental impact statement and mitigation plan, prepared by the Corps of Engineers for a water resources project. The term includes a project implementation report prepared under title VI of the Water Resources Development Act of 2000 (114 Stat. 2680–2694), a general reevaluation report, and a limited reevaluation report.
 
-#### (b) Repealed. Pub. L. 113–121, title I, §1002(a)(1), June 10, 2014, 128 Stat. 1198
+#### (b) Federal interest determination
+* #### (1) In general
+  * #### (A) Economically disadvantaged communities
+    * In preparing a feasibility report under subsection (a) for a study that will benefit an economically disadvantaged community, upon request by the non-Federal interest for the study, the Secretary shall first determine the Federal interest in carrying out the study and the projects that may be proposed in the study.
+
+  * #### (B) Other communities
+    * #### (i) Authorization
+      * In preparing a feasibility report under subsection (a) for a study that will benefit a covered community, upon request by the non-Federal interest for the study, the Secretary may, with respect to not more than 3 studies in each fiscal year, first determine the Federal interest in carrying out the study and the projects that may be proposed in the study.
+
+    * #### (ii) Covered communities
+      * In this subparagraph, the term "covered community" means a community that—
+
+        * (I) is not an economically disadvantaged community; and
+
+        * (II) the Secretary finds has a compelling need for the Secretary to make a determination under clause (i).
+
+* #### (2) Cost share
+  * The costs of a determination under paragraph (1)—
+
+    * (A) shall be at Federal expense; and
+
+    * (B) shall not exceed $200,000.
+
+* #### (3) Deadline
+  * A determination under paragraph (1) shall be completed by not later than 120 days after the date on which funds are made available to the Secretary to carry out the determination.
+
+* #### (4) Treatment
+  * #### (A) Timing
+    * The period during which a determination is being completed under paragraph (1) for a study shall not be included for purposes of the deadline to complete a final feasibility report under section 2282c(a)(1) of this title.
+
+  * #### (B) Cost
+    * The cost of a determination under paragraph (1) shall not be included for purposes of the maximum Federal cost under section 2282c(a)(2) of this title.
+
+* #### (5) Report to non-Federal interest
+  * If, based on a determination under paragraph (1), the Secretary determines that a study or project is not in the Federal interest because the project will not result, or is unlikely to result, in a recommended plan that will produce national economic development benefits greater than cost, but may result in a technically sound and environmentally acceptable plan that is otherwise consistent with section 2281 of this title, the Secretary shall issue a report to the non-Federal interest with recommendations on how the non-Federal interest might modify the proposal such that the project could be in the Federal interest and feasible.
+
 #### (c) Projects not specifically authorized by Congress
 * In the case of any water resources project-related study authorized to be undertaken by the Secretary without specific authorization by Congress in law or otherwise, the Secretary shall prepare a detailed project report.
 
@@ -213,15 +248,12 @@
 
   * (3) provide written notice to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives as to the reasons the requirements of subsection (a) are not attainable.
 
-#### (c) Termination of authorization
-* A feasibility study for which the Secretary has issued a determination under subsection (b) is not authorized after the last day of the 1-year period beginning on the date of the determination if the Secretary has not completed the study on or before such last day.
-
-#### (d) Exception
+#### (c) Exception
 * #### (1) In general
-  * Notwithstanding the requirements of subsection (c), the Secretary may extend the timeline of a study by a period not to exceed 3 years, if the Secretary determines that the feasibility study is too complex to comply with the requirements of subsections (a) and (c).
+  * The Secretary may extend the timeline of a study by a period not to exceed 3 years, if the Secretary determines that the feasibility study is too complex to comply with the requirements of subsection (a).
 
 * #### (2) Factors
-  * In making a determination that a study is too complex to comply with the requirements of subsections (a) and (c), the Secretary shall consider—
+  * In making a determination that a study is too complex to comply with the requirements of subsection (a), the Secretary shall consider—
 
     * (A) the type, size, location, scope, and overall cost of the project;
 
@@ -236,10 +268,7 @@
 * #### (3) Notification
   * Each time the Secretary makes a determination under this subsection, the Secretary shall provide written notice to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives as to the results of that determination, including an identification of the specific 1 or more factors used in making the determination that the project is complex.
 
-* #### (4) Limitation
-  * The Secretary shall not extend the timeline for a feasibility study for a period of more than 10 years, and any feasibility study that is not completed before that date shall no longer be authorized.
-
-#### (e) Reviews
+#### (d) Reviews
 * Not later than 90 days after the date of the initiation of a study described in subsection (a) for a project, the Secretary shall—
 
   * (1) take all steps necessary to initiate the process for completing federally mandated reviews that the Secretary is required to complete as part of the study, including the environmental review process under section 1005;
@@ -248,7 +277,7 @@
 
   * (3) take all steps necessary to provide information that will enable required reviews and analyses related to the project to be conducted by other agencies in a thorough and timely manner.
 
-#### (f) Interim report
+#### (e) Interim report
 * Not later than 18 months after June 10, 2014, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives and make publicly available a report that describes—
 
   * (1) the status of the implementation of the planning process under this section, including the number of participating projects;
@@ -257,7 +286,7 @@
 
   * (3) any recommendations for additional authority necessary to support efforts to expedite the feasibility study process for water resource projects.
 
-#### (g) Final report
+#### (f) Final report
 * Not later than 4 years after June 10, 2014, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives and make publicly available a report that describes—
 
   * (1) the status of the implementation of this section, including a description of each feasibility study subject to the requirements of this section;
@@ -326,7 +355,7 @@
 
         * (II) improvement to transportation;
 
-        * (III) the national economy;
+        * (III) the national, regional, or local economy;
 
         * (IV) the environment; or
 
@@ -342,6 +371,40 @@
         * (I) that local support exists for the proposed feasibility study or proposed modification to an authorized water resources development project or feasibility study (including the water resources development project that is the subject of the proposed feasibility study or the proposed modification to an authorized feasibility study); and
 
         * (II) the financial ability to provide the required non-Federal cost share.
+
+  * #### (D) Modifications of projects carried out pursuant to continuing authority programs
+    * #### (i) In general
+      * With respect to a project being carried out pursuant to a continuing authority program for which a proposed modification is necessary because the project is projected to exceed, in the coming fiscal year, the maximum Federal cost of the project, the Secretary shall include a proposed modification in the annual report if the proposed modification will result in completion of construction the project and the justification for the modification is not the result of a change in the scope of the project.
+
+    * #### (ii) Inclusion
+      * For each proposed modification included in an annual report under clause (i), the Secretary shall include in the annual report—
+
+        * (I) a justification of why the modification is necessary;
+
+        * (II) an estimate of the total cost and timeline required to complete construction of the project; and
+
+        * (III) an indication of continued support by the non-Federal interest and the financial ability of the non-Federal interest to provide the required cost-share.
+
+    * #### (iii) Definition
+      * For the purposes of this subparagraph, the term "continuing authority program" means any of—
+
+        * (I) section 701r of this title;
+
+        * (II) section 426g of this title;
+
+        * (III) section 577 of this title;
+
+        * (IV) section 426i of this title;
+
+        * (V) section 2326 of this title;
+
+        * (VI) section 701s of this title;
+
+        * (VII) section 2330 of this title;
+
+        * (VIII) section 701g of this title; and
+
+        * (IX) section 2309a of this title.
 
 * #### (2) Transparency
   * The Secretary shall include in the annual report, for each feasibility report, proposed feasibility study, and proposed modification to an authorized water resources development project or feasibility study included under paragraph (1)(A)—
@@ -409,9 +472,11 @@
   * #### (B) Limitation
     * In carrying out the activities described in this section—
 
-      * (i) the Secretary shall not include proposals in the appendix of the annual report that otherwise meet the criteria for inclusion in the annual report solely on the basis of the Secretary's determination that the proposal requires legislative changes to an authorized water resources development project, feasibility study, or environmental infrastructure program; and
+      * (i) the Secretary shall not include proposals in the appendix of the annual report that otherwise meet the criteria for inclusion in the annual report solely on the basis of the Secretary's determination that the proposal requires legislative changes to an authorized water resources development project, feasibility study, or environmental infrastructure program;
 
-      * (ii) the Secretary shall not include proposals in the appendix of the annual report that otherwise meet the criteria for inclusion in the annual report solely on the basis of a policy of the Secretary.
+      * (ii) the Secretary shall not include proposals in the appendix of the annual report that otherwise meet the criteria for inclusion in the annual report solely on the basis that the proposals are for the purposes of navigation, flood risk management, ecosystem restoration, or municipal or agricultural water supply; and
+
+      * (iii) the Secretary shall not include proposals in the appendix of the annual report that otherwise meet the criteria for inclusion in the annual report solely on the basis of a policy of the Secretary.
 
 #### (d) Programmatic modifications in annual report
 * The Secretary shall include in the annual report only proposed modifications for an environmental infrastructure assistance program that have not been included in any previous annual report. For each proposed modification, the Secretary shall include a letter or statement of support for the proposed modification from each associated non-Federal interest, description of assistance provided, and total Federal cost of assistance provided.
@@ -450,7 +515,93 @@
   * The term "non-Federal interest" has the meaning given that term in section 1962d–5b of title 42.
 
 * #### (5) Water resources development project
-  * The term "water resources development project" includes a project under an environmental infrastructure assistance program if authorized before December 16, 2016.
+  * The term "water resources development project" includes a project under an environmental infrastructure assistance program.
+
+### §2282d–1. Report to Congress on authorized studies and projects
+#### (a) In general
+* Not later than February 1 of each year, the Secretary shall develop and submit to Congress an annual report, to be entitled "Report to Congress on Authorized Water Resources Development Projects and Studies", that identifies—
+
+  * (1) ongoing or new feasibility studies, authorized within the previous 20 years, for which a Report of the Chief of Engineers has not been issued;
+
+  * (2) authorized feasibility studies for projects in the preconstruction, engineering and design phase;
+
+  * (3) ongoing or new water resources development projects authorized for construction within the previous 20 years; and
+
+  * (4) authorized and constructed water resources development projects the Secretary has the responsibility to operate or maintain.
+
+#### (b) Contents
+* #### (1) Inclusions
+  * #### (A) Criteria
+    * The Secretary shall include in each report submitted under this section only a feasibility study or water resources development project—
+
+      * (i) that has been authorized by Congress to be carried out by the Secretary and does not require any additional congressional authorization to be carried out;
+
+      * (ii) that the Secretary has the capability to carry out if funds are appropriated for such study or project under any of the "Investigations", "Construction", "Operation and Maintenance", or "Mississippi River and Tributaries" appropriations accounts for the Corps of Engineers; and
+
+      * (iii) for which a non-Federal interest—
+
+        * (I) in the case of a study or a project other than a project for which funds may be appropriated for operation and maintenance, has entered into a feasibility cost-sharing agreement, design agreement, or project partnership agreement with the Corps of Engineers, or has informed the Secretary that the non-Federal interest has the financial capability to enter into such an agreement within 1 year; and
+
+        * (II) demonstrates the legal and financial capability to satisfy the requirements for local cooperation with respect to the study or project.
+
+  * #### (B) Description of benefits
+    * #### (i) Description
+      * The Secretary shall, to the maximum extent practicable, describe in each report submitted under this section the benefits, as described in clause (ii), of each feasibility study and water resources development project included in the report.
+
+    * #### (ii) Benefits
+      * The benefits referred to in clause (i) are benefits to—
+
+        * (I) the protection of human life and property;
+
+        * (II) improvement to transportation;
+
+        * (III) the national, regional, or local economy;
+
+        * (IV) the environment; or
+
+        * (V) the national security interests of the United States.
+
+* #### (2) Transparency
+  * The Secretary shall include in each report submitted under this section, for each feasibility study and water resources development project included in the report—
+
+    * (A) the name of the associated non-Federal interest, including the name of any non-Federal interest that has contributed, or is expected to contribute, a non-Federal share of the cost of the study or project;
+
+    * (B) the purpose of the study or project;
+
+    * (C) an estimate, to the extent practicable, of the Federal, non-Federal, and total costs of the study or project, including, to the extent practicable, the fully funded capability of the Corps of Engineers for—
+
+      * (i) the 3 fiscal years following the fiscal year in which the report is submitted, in the case of a feasibility study; and
+
+      * (ii) the 5 fiscal years following the fiscal year in which the report is submitted, in the case of a water resources development project; and
+
+
+    * (D) an estimate, to the extent practicable, of the monetary and nonmonetary benefits of the study or project.
+
+* #### (3) Certification
+  * The Secretary shall include in each report submitted under this section a certification stating that each feasibility study or water resources development project included in the report meets the criteria described in paragraph (1)(A).
+
+* #### (4) Omissions
+  * #### (A) Limitation
+    * The Secretary shall not omit from a report submitted under this section a study or project that otherwise meets the criteria for inclusion in the report solely on the basis of a policy of the Secretary.
+
+  * #### (B) Appendix
+    * If the Secretary omits from a report submitted under this section a study or project that otherwise meets the criteria for inclusion in the report, the Secretary shall include with the report an appendix that lists the name of the study or project and reason for its omission.
+
+#### (c) Submission to Congress; publication
+* #### (1) Submission to Congress
+  * The Secretary may submit a report under this section in conjunction with the submission of the annual report under section 2282d of this title.
+
+* #### (2) Publication
+  * On submission of each report under this section, the Secretary shall make the report publicly available, including through publication on the internet.
+
+#### (d) Definitions
+* In this section:
+
+* #### (1) Non-Federal interest
+  * The term "non-Federal interest" has the meaning given that term in section 1962d–5b of title 42.
+
+* #### (2) Water resources development project
+  * The term "water resources development project" includes a separable element of a project, a project under an environmental infrastructure assistance program, and a project the authorized purposes of which include water supply.
 
 ### §2282e. Post-authorization change reports
 #### (a) In general
@@ -482,6 +633,25 @@
   * (2) a limited reevaluation report; and
 
   * (3) any other report that recommends the modification of an authorized water resources development project.
+
+### §2282f. Review of resiliency assessments
+#### (a) Resiliency assessment
+* #### (1) In general
+  * Not later than 180 days after December 27, 2020, and in conjunction with the development of procedures under section 1962–4 of title 42, the Secretary is directed to review, and where appropriate, revise the existing planning guidance documents and regulations of the Corps of Engineers on the assessment of the effects of sea level rise or inland flooding on future water resources development projects to ensure that such guidance documents and regulations are based on the best available, peer-reviewed science and data on the current and future effects of sea level rise or inland flooding on relevant communities.
+
+* #### (2) Coordination
+  * In carrying out this subsection, the Secretary shall—
+
+    * (A) coordinate the review with the Engineer Research and Development Center, other Federal and State agencies, and other relevant entities; and
+
+    * (B) to the maximum extent practicable and where appropriate, utilize data provided to the Secretary by such agencies.
+
+#### (b) Assessment of benefits from addressing sea level rise and inland flooding resiliency in feasibility reports
+* #### (1) In general
+  * Upon the request of a non-Federal interest, in carrying out a feasibility study for a project for flood risk mitigation, hurricane and storm damage risk reduction, or ecosystem restoration under section 2282 of this title, the Secretary shall consider whether the need for the project is predicated upon or exacerbated by conditions related to sea level rise or inland flooding.
+
+* #### (2) Addressing sea level rise and inland flooding resiliency benefits
+  * To the maximum extent practicable, in carrying out a study pursuant to paragraph (1), the Secretary shall document the potential effects of sea level rise or inland flooding on the project, and the expected benefits of the project relating to sea level rise or inland flooding, during the 50-year period after the date of completion of the project.
 
 ### §2283. Fish and wildlife mitigation
 #### (a) Steps to be taken prior to or concurrently with construction
@@ -1001,7 +1171,7 @@
 
   * (D) the Secretary of Commerce or his or her delegate,
 
-  * (E) the Administrator of the Saint Lawrence Seaway Development Corporation or his or her delegate,
+  * (E) the Administrator of the Great Lakes St. Lawrence Seaway Development Corporation or his or her delegate,
 
   * (F) the Secretary of Agriculture or his or her delegate, and
 
@@ -1014,7 +1184,7 @@
 
 * (C) Four members of the Board shall constitute a quorum but a lesser number may hold hearings.
 
-* (D) The co-chairmen of the Board shall be the Secretary or his or her delegate and the Administrator of the Saint Lawrence Seaway Development Corporation or his or her delegate.
+* (D) The co-chairmen of the Board shall be the Secretary or his or her delegate and the Administrator of the Great Lakes St. Lawrence Seaway Development Corporation or his or her delegate.
 
 * (E) The Board shall meet at the call of the co-chairmen or a majority of its members.
 
@@ -1093,7 +1263,7 @@
   * (2) for any Indian tribe or tribal organization (as those terms are defined in section 5304 of title 25).
 
 #### (b) Inflation adjustment
-* The Secretary shall adjust the dollar amount specified in subsection (a) for inflation for the period beginning on November 17, 1986, and ending on October 23, 2018.
+* The Secretary shall adjust the dollar amount specified in subsection (a) on an annual basis for inflation.
 
 ### §2311. Report to Congress covering proposals for water impoundment facilities
 * Any report that is submitted to the Committee on Environment and Public Works of the Senate or the Committee on Public Works and Transportation of the House of Representatives by the Secretary, or the Secretary of Agriculture acting under Public Law 83–566, as amended [16 U.S.C. 1001 et seq.], which proposes construction of a water impoundment facility, shall include information on the consequences of failure and geologic or design factors which could contribute to the possible failure of such facility.
@@ -1488,24 +1658,66 @@
 #### (a) Policy
 * Congress declares that it is the policy of the United States that—
 
-  * (1) the development of non-Federal hydroelectric power at Corps of Engineers civil works projects, including locks and dams, shall be given priority;
+  * (1) the development of non-Federal hydroelectric power at Corps of Engineers water resources development projects, including locks and dams, shall be given priority;
 
-  * (2) Corps of Engineers approval of non-Federal hydroelectric power at Corps of Engineers civil works projects, including permitting required under section 408 of this title, shall be completed by the Corps of Engineers in a timely and consistent manner; and
+  * (2) Corps of Engineers approval of non-Federal hydroelectric power at Corps of Engineers water resources development projects, including permitting required under section 408 of this title, shall be completed by the Corps of Engineers in a timely and consistent manner; and
 
-  * (3) approval of hydropower at Corps of Engineers civil works projects shall in no way diminish the other priorities and missions of the Corps of Engineers, including authorized project purposes and habitat and environmental protection.
+  * (3) approval of hydropower at Corps of Engineers water resources development projects shall in no way diminish the other priorities and missions of the Corps of Engineers, including authorized project purposes and habitat and environmental protection.
 
 #### (b) Report
 * Not later than 2 years after June 10, 2014, and biennially thereafter, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives and make publicly available a report that, at a minimum, shall include—
 
-  * (1) a description of initiatives carried out by the Secretary to encourage the development of hydroelectric power by non-Federal entities at Corps of Engineers civil works projects;
+  * (1) a description of initiatives carried out by the Secretary to encourage the development of hydroelectric power by non-Federal entities at Corps of Engineers water resources development projects;
 
-  * (2) a list of all new hydroelectric power activities by non-Federal entities approved at Corps of Engineers civil works projects in that fiscal year, including the length of time the Secretary needed to approve those activities;
+  * (2) a list of all new hydroelectric power activities by non-Federal entities approved at Corps of Engineers water resources development projects in that fiscal year, including the length of time the Secretary needed to approve those activities;
 
-  * (3) a description of the status of each pending application from non-Federal entities for approval to develop hydroelectric power at Corps of Engineers civil works projects;
+  * (3) a description of the status of each pending application from non-Federal entities for approval to develop hydroelectric power at Corps of Engineers water resources development projects;
 
-  * (4) a description of any benefits or impacts to the environment, recreation, or other uses associated with Corps of Engineers civil works projects at which non-Federal entities have developed hydroelectric power in the previous fiscal year; and
+  * (4) a description of any benefits or impacts to the environment, recreation, or other uses associated with Corps of Engineers water resources development projects at which non-Federal entities have developed hydroelectric power in the previous fiscal year; and
 
-  * (5) the total annual amount of payments or other services provided to the Corps of Engineers, the Treasury, and any other Federal agency as a result of approved non-Federal hydropower projects at Corps of Engineers civil works projects.
+  * (5) the total annual amount of payments or other services provided to the Corps of Engineers, the Treasury, and any other Federal agency as a result of approved non-Federal hydropower projects at Corps of Engineers water resources development projects.
+
+#### (c) Reviewing hydropower at Corps of Engineers facilities
+* #### (1) Definition of eligible non-Federal interest
+  * In this subsection, the term "eligible non-Federal interest" means a non-Federal interest that owns or operates an existing non-Federal hydropower facility at a Corps of Engineers water resources development project.
+
+* #### (2) Evaluation
+  * #### (A) In general
+    * On the written request of an eligible non-Federal interest, the Secretary shall conduct an evaluation to consider operational changes at the applicable project to facilitate production of non-Federal hydropower, consistent with authorized project purposes. The Secretary shall solicit input from interested stakeholders as part of the evaluation.
+
+  * #### (B) Deadline
+    * Not later than 180 days after the date on which the Secretary receives a written request under subparagraph (A), the Secretary shall provide to the non-Federal interest a written response to inform the non-Federal interest—
+
+      * (i) that the Secretary has approved the request to conduct an evaluation; or
+
+      * (ii) of any additional information necessary for the Secretary to approve the request to conduct an evaluation.
+
+* #### (3) Operational changes
+  * An operational change referred to in paragraph (2)(A) may include—
+
+    * (A) changes to seasonal pool levels;
+
+    * (B) modifying releases from the project; and
+
+    * (C) other changes included in the written request submitted under that paragraph that enhance the usage of the project to facilitate production of non-Federal hydropower, consistent with authorized project purposes.
+
+* #### (4) Cost share
+  * The eligible non-Federal interest shall pay 100 percent of the costs associated with an evaluation under this subsection, including the costs to prepare the report under paragraph (6).
+
+* #### (5) Deadline
+  * The Secretary shall complete an evaluation under this subsection by the date that is not later than 1 year after the date on which the Secretary begins the evaluation.
+
+* #### (6) Report
+  * On completion of an evaluation under this subsection, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the effects of the operational changes proposed by the non-Federal interest and examined in the evaluation on the authorized purposes of the project, including a description of any negative impacts of the proposed operational changes on the authorized purposes of the project, or on any Federal project located in the same basin.
+
+* #### (7) Savings provision
+  * Nothing in this subsection—
+
+    * (A) affects the authorized purposes of a Corps of Engineers water resources development project;
+
+    * (B) affects existing authorities of the Corps of Engineers, including authorities with respect to navigation, flood damage reduction, environmental protection and restoration, water supply and conservation, and other related purposes; or
+
+    * (C) authorizes the Secretary to make any operational changes to a Corps of Engineers water resources development project.
 
 ### §2322. Single entities
 * For purposes of Federal participation in water resource development projects which are to be carried out by the Secretary, benefits which are to be provided to a facility owned by a State (including the District of Columbia and a territory or possession of the United States), county, municipality, or other public entity shall not be treated as benefits to be provided a single owner or single entity. The Secretary shall not treat such a facility as a single owner or single entity for any purpose.
@@ -1549,7 +1761,7 @@
 * If a low income community requests the Secretary to provide water supply storage space in a water resources development project operated by the Secretary and if the amount of space requested is available or could be made available through reallocation of water supply storage space in the project or through modifications to operation of the project, the Secretary may provide such space to the community at a price determined under subsection (c).
 
 #### (b) Maximum amount of storage space
-* The maximum amount of water supply storage space which may be provided to a community under this section may not exceed an amount of water supply storage space sufficient to yield 2,000,000 gallons of water per day.
+* The maximum amount of water supply storage space which may be provided to a community under this section may not exceed an amount of water supply storage space sufficient to yield 3,000,000 gallons of water per day.
 
 #### (c) Price
 * The Secretary shall provide water supply storage space under this section at a price which is the greater of—
@@ -1568,7 +1780,11 @@
 * Nothing in this section shall be construed as affecting the responsibility of non-Federal interests to provide operation and maintenance costs assigned to water supply storage provided under this section.
 
 #### (g) "Low income community" defined
-* The term "low income community" means a community with a population of less than 20,000 which is located in a county with a per capita income less than the per capita income of two-thirds of the counties in the United States.
+* The term "low income community" means—
+
+  * (1) a community with a population of less than 20,000 which is located in a county with a per capita income less than the per capita income of two-thirds of the counties in the United States; or
+
+  * (2) a regional water system that serves a population of less than 100,000, for which the per capita income is less than the per capita income of not less than 50 percent of the counties in the United States.
 
 ### §2325. Voluntary contributions for environmental and recreation projects
 #### (a) Acceptance
@@ -1601,6 +1817,47 @@
   * (1) a description of the activities undertaken, including the costs associated with the activities; and
 
   * (2) a comprehensive description of how the activities are necessary for maintaining a safe and reliable water resources project.
+
+### §2325b. Materials, services, and funds for repair, restoration, or rehabilitation of projects
+#### (a) Definitions
+* In this section:
+
+* #### (1) Covered area
+  * The term "covered area" means an area—
+
+    * (A) for which the Governor of a State has requested a determination that an emergency exists; or
+
+    * (B) covered by an emergency or major disaster declaration declared under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.).
+
+* #### (2) Emergency period
+  * The term "emergency period" means—
+
+    * (A) with respect to a covered area described in paragraph (1)(A), the period during which the Secretary determines an emergency exists; and
+
+    * (B) with respect to a covered area described in paragraph (1)(B), the period during which the applicable declaration is in effect.
+
+#### (b) In general
+* In any covered area, the Secretary is authorized to accept and use materials, services, and funds, during the emergency period, from a non-Federal interest or private entity to repair, restore, or rehabilitate a federally authorized water resources development project, and to provide reimbursement to such non-Federal interest or private entity for such materials, services, and funds, in the Secretary's sole discretion, and subject to the availability of appropriations, if the Secretary determines that reimbursement is in the public interest.
+
+#### (c) Additional requirement
+* The Secretary may only reimburse for the use of materials or services accepted under this section if such materials or services meet the Secretary's specifications and comply with all applicable laws and regulations that would apply if such materials and services were acquired by the Secretary, including sections 3141 through 3148 and 3701 through 3708 of title 40, section 8302 of title 41, and the National Environmental Policy Act of 1969.
+
+#### (d) Agreements
+* #### (1) In general
+  * Prior to the acceptance of materials, services, or funds under this section, the Secretary and the non-Federal interest or private entity shall enter into an agreement that specifies—
+
+    * (A) the non-Federal interest or private entity shall hold and save the United States free from any and all damages that arise from use of materials or services of the non-Federal interest or private entity, except for damages due to the fault or negligence of the United States or its contractors;
+
+    * (B) the non-Federal interest or private entity shall certify that the materials or services comply with all applicable laws and regulations under subsection (c); and
+
+    * (C) any other term or condition required by the Secretary.
+
+* #### (2) Exception
+  * If an agreement under paragraph (1) was not entered prior to materials or services being contributed, a non-Federal interest or private entity shall enter into an agreement with the Secretary that—
+
+    * (A) specifies the value, as determined by the Secretary, of those materials or services contributed and eligible for reimbursement; and
+
+    * (B) ensures that the materials or services comply with subsection (c) and paragraph (1).
 
 ### §2326. Regional sediment management
 #### (a) In general
@@ -1653,11 +1910,11 @@
 
 #### (d) Selection of dredged material disposal method for purposes related to environmental restoration or storm damage and flood reduction
 * #### (1) In general
-  * In developing and carrying out a Federal water resources project involving the disposal of dredged material, the Secretary may select, with the consent of the non-Federal interest, a disposal method that is not the least cost option if the Secretary determines that the incremental costs of the disposal method are reasonable in relation to—
+  * At the request of the non-Federal interest for a water resources development project involving the disposal of dredged material, the Secretary, using funds appropriated for construction or operation and maintenance of the project, may select a disposal method that is not the least cost option if the Secretary determines that the incremental costs of the disposal method are reasonable in relation to—
 
     * (A) the environmental benefits, including the benefits to the aquatic environment to be derived from the creation of wetlands and control of shoreline erosion; or
 
-    * (B) the flood and storm damage and flood reduction benefits, including shoreline protection, protection against loss of life, and damage to improved property.
+    * (B) the hurricane and storm or flood risk reduction benefits, including shoreline protection, protection against loss of life, and damage to improved property.
 
 * #### (2) Federal share
   * The Federal share of such incremental costs shall be determined in accordance with subsection (c).
@@ -1667,6 +1924,13 @@
 
 * #### (4) Disposal at non-Federal cost
   * The Secretary may accept funds from a non-Federal interest to dispose of dredged material as provided under section 2213(d)(1) of this title.
+
+* #### (5) Selection of dredged material disposal method for certain purposes
+  * Activities carried out under this subsection—
+
+    * (A) shall be carried out using amounts appropriated for construction or operation and maintenance of the project involving the disposal of the dredged material; and
+
+    * (B) shall not carried out using amounts made available under subsection (g).
 
 #### (e) State and regional plans
 * The Secretary may—
@@ -1706,12 +1970,45 @@
 * There is authorized to be appropriated to carry out this section $62,500,000 per fiscal year, of which not more than $5,000,000 per fiscal year may be used for the development of regional sediment management plans authorized by subsection (e) and of which not more than $3,000,000 per fiscal year may be used for construction of projects to which subsection (c)(1)(B)(ii) applies. Such funds shall remain available until expended.
 
 ### §2326a. Dredged material disposal facility partnerships
-#### (a) Additional capacity
-* #### (1) Provided by Secretary
-  * At the request of a non-Federal interest with respect to a project, the Secretary may provide additional capacity at a dredged material disposal facility constructed by the Secretary beyond the capacity that would be required for project purposes if the non-Federal interest agrees to pay, during the period of construction, all costs associated with the construction of the additional capacity.
+#### (a) Additional capacity or replacement capacity
+* #### (1) Provided by secretary
+  * #### (A) In general
+    * Subject to subparagraph (B), at the request of a non-Federal interest with respect to a project, the Secretary may—
+
+      * (i) provide additional capacity at a dredged material disposal facility constructed by the Secretary beyond the capacity that would be required for project purposes; or
+
+      * (ii) permit the use of dredged material disposal facility capacity required for project purposes by the non-Federal interest if the Secretary determines that replacement capacity can be constructed at the facility or another facility or site before such capacity is needed for project purposes.
+
+  * #### (B) Agreement
+    * Before the Secretary takes an action under subparagraph (A), the non-Federal interest shall agree to pay—
+
+      * (i) all costs associated with the construction of the additional capacity or replacement capacity in advance of construction of such capacity; and
+
+      * (ii) in the case of use by a non-Federal interest of dredged material disposal capacity required for project purposes under subparagraph (A)(ii), any increase in the cost of operation and maintenance of the project that the Secretary determines results from the use of the project capacity by the non-Federal interest in advance of each cycle of dredging.
+
+  * #### (C) Credit
+    * In the event the Secretary determines that the cost to operate or maintain the project decreases as a result of use by the non-Federal interest of dredged material disposal capacity required for project purposes under subparagraph (A)(ii), the Secretary, at the request of the non-Federal interest, shall credit the amount of the decrease toward any cash contribution of the non-Federal interest required thereafter for construction, operation, or maintenance of the project, or of another navigation project.
 
 * #### (2) Cost recovery authority
-  * The non-Federal interest may recover the costs assigned to the additional capacity through fees assessed on third parties whose dredged material is deposited at the facility and who enter into agreements with the non-Federal interest for the use of the facility. The amount of such fees may be determined by the non-Federal interest.
+  * The non-Federal interest may recover the costs assigned to the additional capacity under paragraph (1)(A)(i) through fees assessed on third parties whose dredged material is deposited at the facility and who enter into agreements with the non-Federal interest for the use of the facility. The amount of such fees may be determined by the non-Federal interest.
+
+* #### (3) Special rule for designation of replacement capacity facility or site
+  * #### (A) In general
+    * Subject to such terms and conditions as the Secretary determines to be necessary or advisable, an agreement under paragraph (1)(B) for use permitted under paragraph (1)(A)(ii) shall reserve to the non-Federal interest—
+
+      * (i) the right to submit to the Secretary for approval at a later date an alternative to the facility or site designated in the agreement for construction of replacement capacity; and
+
+      * (ii) the right to construct the replacement capacity at the alternative facility or site at the expense of the non-Federal interest.
+
+  * #### (B) Requirement
+    * The Secretary shall not reject a site for the construction of replacement capacity under paragraph (1)(A)(ii) that is submitted by the non-Federal interest for approval by the Secretary before the date of execution of the agreement under paragraph (1)(B), or thereafter, unless the Secretary—
+
+      * (i) determines that the site is environmentally unacceptable, geographically unacceptable, or technically unsound; and
+
+      * (ii) provides a written basis for the determination under clause (i) to the non-Federal interest.
+
+* #### (4) Public comment
+  * The Secretary shall afford the public an opportunity to comment on the determinations required under this subsection for a use permitted under paragraph (1)(A)(ii).
 
 #### (b) Non-Federal use of disposal facilities
 * #### (1) In general
@@ -1822,12 +2119,24 @@
 #### (f) "Great Lakes States" defined
 * In this section, the term "Great Lakes States" means the States of Illinois, Indiana, Michigan, Minnesota, New York, Ohio, Pennsylvania, and Wisconsin.
 
-#### (g) Authorization of appropriations
+#### (g) Coastal mapping
+* The Secretary shall develop and carry out a plan for the recurring mapping of coastlines that are experiencing rapid change, including such coastlines in—
+
+  * (1) Alaska;
+
+  * (2) Hawaii; and
+
+  * (3) any territory or possession of the United States.
+
+#### (h) Authorization of appropriations
 * #### (1) In general
   * There is authorized to be appropriated to the Secretary to carry out this section $5,000,000 for each of fiscal years 1998 through 2001.
 
 * #### (2) Great Lakes tributary model
   * In addition to amounts made available under paragraph (1), there is authorized to be appropriated to carry out subsection (e) $5,000,000 for each of fiscal years 2002 through 2012.
+
+* #### (3) Coastal mapping
+  * In addition to amounts made available under paragraph (1), there is authorized to be appropriated to carry out subsection (g) with respect to Alaska, Hawaii, and the territories and possessions of the United States, $10,000,000, to remain available until expended.
 
 ### §2326c. Reservoir sediment
 #### (a) In general
@@ -1912,6 +2221,72 @@
 
   * (5) the number of private contractor bids received and the bid amounts, including bids that did not win the final contract award.
 
+### §2326g. Beneficial use of dredged material; dredged material management plans
+#### (a) National Policy on the Beneficial Use of Dredged Material
+* #### (1) In general
+  * It is the policy of the United States for the Corps of Engineers to maximize the beneficial use, in an environmentally acceptable manner, of suitable dredged material obtained from the construction or operation and maintenance of water resources development projects.
+
+* #### (2) Placement of dredged materials
+  * #### (A) In general
+    * In evaluating the placement of dredged material obtained from the construction or operation and maintenance of water resources development projects, the Secretary shall consider—
+
+      * (i) the suitability of the dredged material for a full range of beneficial uses; and
+
+      * (ii) the economic and environmental benefits, efficiencies, and impacts (including the effects on living coral) of using the dredged material for beneficial uses, including, in the case of beneficial use activities that involve more than one water resources development project, the benefits, efficiencies, and impacts that result from the combined activities.
+
+  * #### (B) Calculation of federal standard
+    * #### (i) Determination
+      * The economic benefits and efficiencies from the beneficial use of dredged material considered by the Secretary under subparagraph (A) shall be included in any determination relating to the "Federal standard" by the Secretary under section 335.7 of title 33, Code of Federal Regulations, for the placement or disposal of such material.
+
+    * #### (ii) Reports
+      * The Secretary shall submit to Congress—
+
+        * (I) a report detailing the method and all of the factors utilized by the Corps of Engineers to determine the Federal standard referred to in clause (i); and
+
+        * (II) for each evaluation under subparagraph (A), a report displaying the calculations for economic and environmental benefits and efficiencies from the beneficial use of dredged material (including, where appropriate, the utilization of alternative dredging equipment and dredging disposal methods) considered by the Secretary under such subparagraph for the placement or disposal of such material.
+
+  * #### (C) Omitted
+
+### §2326h. Five-year regional dredged material management plans
+#### (1) In general
+* Not later than 1 year after December 27, 2020, and annually thereafter, the District Commander of each district of the Corps of Engineers that obtains dredged material through the construction or operation and maintenance of a water resources development project shall, at Federal expense, develop and submit to the Secretary a 5-year dredged material management plan in coordination with relevant State agencies and stakeholders.
+
+#### (2) Scope
+* Each plan developed under this subsection shall include—
+
+  * (A) a dredged material budget for each watershed or littoral system within the district;
+
+  * (B) an estimate of the amount of dredged material likely to be obtained through the construction or operation and maintenance of all water resources development projects projected to be carried out within the district during the 5-year period following submission of the plan, and the estimated timing for obtaining such dredged material;
+
+  * (C) an identification of potential water resources development projects projected to be carried out within the district during such 5-year period that are suitable for, or that require, the placement of dredged material, and an estimate of the amount of dredged material placement capacity of such projects;
+
+  * (D) an evaluation of—
+
+    * (i) the suitability of the dredged material for a full range of beneficial uses; and
+
+    * (ii) the economic and environmental benefits, efficiencies, and impacts (including the effects on living coral) of using the dredged material for beneficial uses, including, in the case of beneficial use activities that involve more than one water resources development project, the benefits, efficiencies, and impacts that result from the combined activities;
+
+
+  * (E) the district-wide goals for beneficial use of the dredged material, including any expected cost savings from aligning and coordinating multiple projects (including projects across Corps districts) in the use of the dredged material; and
+
+  * (F) a description of potential beneficial use projects identified through stakeholder solicitation and coordination.
+
+#### (3) Public comment
+* In developing each plan under this subsection, each District Commander shall provide notice and an opportunity for public comment, including a solicitation for stakeholders to identify beneficial use projects, in order to ensure, to the extent practicable, that beneficial use of dredged material is not foregone in a particular fiscal year or dredging cycle.
+
+#### (4) Public availability
+* Upon submission of each plan to the Secretary under this subsection, each District Commander shall make the plan publicly available, including on a publicly available website.
+
+#### (5) Transmission to Congress
+* As soon as practicable after receiving a plan under subsection (a), the Secretary shall transmit the plan to Congress.
+
+#### (6) Regional sediment management plans
+* A plan developed under this section—
+
+  * (A) shall be in addition to regional sediment management plans prepared under section 2326(a) of this title; and
+
+  * (B) shall not be subject to the limitations in section 2326(g) of this title.
+
 ### §2327. Definition of rehabilitation for inland waterway projects
 * For purposes of laws relating to navigation on inland and intracoastal waterways of the United States, the term "rehabilitation" means—
 
@@ -1938,6 +2313,64 @@
 
 
 * Such term does not include routine or deferred maintenance. The dollar amounts referred to in paragraphs (1) and (2) shall be adjusted annually according to the economic assumption published each year as guidance in the Annual Program and Budget Request for Civil Works Activities of the Corps of Engineers.
+
+### §2327a. Rehabilitation of Corps of Engineers constructed pump stations
+#### (a) Definitions
+* In this section:
+
+* #### (1) Eligible pump station
+  * The term "eligible pump station" means a pump station—
+
+    * (A) constructed, in whole or in part, by the Corps of Engineers for flood risk management purposes;
+
+    * (B) that the Secretary has identified as having a major deficiency; and
+
+    * (C) the failure of which the Secretary has determined would impair the function of a flood risk management project constructed by the Corps of Engineers.
+
+* #### (2) Rehabilitation
+  * #### (A) In general
+    * The term "rehabilitation", with respect to an eligible pump station, means to address a major deficiency of the eligible pump station caused by long-term degradation of the foundation, construction materials, or engineering systems or components of the eligible pump station.
+
+  * #### (B) Inclusions
+    * The term "rehabilitation", with respect to an eligible pump station, includes—
+
+      * (i) the incorporation into the eligible pump station of—
+
+        * (I) current design standards;
+
+        * (II) efficiency improvements; and
+
+        * (III) associated drainage; and
+
+
+      * (ii) increasing the capacity of the eligible pump station, subject to the condition that the increase shall—
+
+        * (I) significantly decrease the risk of loss of life and property damage; or
+
+        * (II) decrease total lifecycle rehabilitation costs for the eligible pump station.
+
+#### (b) Authorization
+* The Secretary may carry out rehabilitation of an eligible pump station, if the Secretary determines that the rehabilitation is feasible.
+
+#### (c) Cost sharing
+* The non-Federal interest for the eligible pump station shall—
+
+  * (1) provide 35 percent of the cost of rehabilitation of an eligible pump station carried out under this section; and
+
+  * (2) provide all land, easements, rights-of-way, and necessary relocations associated with the rehabilitation described in subparagraph (A), at no cost to the Federal Government.
+
+#### (d) Agreement required
+* The rehabilitation of an eligible pump station pursuant to this section shall be initiated only after a non-Federal interest has entered into a binding agreement with the Secretary—
+
+  * (1) to pay the non-Federal share of the costs of rehabilitation under subsection (c); and
+
+  * (2) to pay 100 percent of the operation and maintenance costs of the rehabilitated eligible pump station, in accordance with regulations promulgated by the Secretary.
+
+#### (e) Treatment
+* The rehabilitation of an eligible pump station pursuant to this section shall not be considered to be a separable element of the associated flood risk management project constructed by the Corps of Engineers.
+
+#### (f) Authorization of appropriations
+* There is authorized to be appropriated to carry out this section $60,000,000, to remain available until expended.
 
 ### §2328. Challenge cost-sharing program for management of recreation facilities
 #### (a) In general
@@ -2054,6 +2487,19 @@
 * #### (2) Dam removal
   * A project under this section may include removal of a dam.
 
+* #### (3) Anadromous fish habitat and passage
+  * #### (A) Measures
+    * A project under this section may include measures to improve habitat or passage for anadromous fish, including—
+
+      * (i) installing fish bypass structures on small water diversions;
+
+      * (ii) modifying tide gates; and
+
+      * (iii) restoring or reconnecting floodplains and wetlands that are important for anadromous fish habitat or passage.
+
+  * #### (B) Benefits
+    * A project that includes measures under this paragraph shall be formulated to maximize benefits for the anadromous fish species benefitted by the project.
+
 #### (b) Cost sharing
 * #### (1) In general
   * Non-Federal interests shall provide 35 percent of the cost of construction of any project carried out under this section, including provision of all lands, easements, rights-of-way, and necessary relocations.
@@ -2076,6 +2522,9 @@
 
 #### (f) Funding
 * There is authorized to be appropriated to carry out this section $62,500,000 for each fiscal year.
+
+#### (g) Prioritization
+* The Secretary shall give projects that include measures described in subsection (a)(3) equal priority for implementation as other projects under this section.
 
 ### §2330a. Monitoring ecosystem restoration
 #### (a) In general
@@ -2114,6 +2563,102 @@
 
 #### (b) Costs
 * A non-Federal entity, another Federal agency, or a group of non-Federal entities or other Federal agencies shall be responsible for 100 percent of the additional costs associated with managing a fish hatchery for the purpose described in subsection (a) that are not authorized as of December 16, 2016, for the fish hatchery.
+
+### §2330c. Aquatic ecosystem restoration
+#### (a) Definition of eligible entity
+* In this section, the term "eligible entity" means—
+
+  * (1) any State, Indian Tribe, irrigation district, or water district;
+
+  * (2) any State, regional, or local authority, the members of which include 1 or more organizations with water or power delivery authority;
+
+  * (3) any other entity or organization that owns a facility that is eligible for upgrade, modification or removal under this section;
+
+  * (4) any nonprofit conservation organization, acting in partnership with any entity listed in paragraphs (1) through (3), with respect to a project involving land or infrastructure owned by the entity; and
+
+  * (5) an agency established under State law for the joint exercise of powers or a combination of entities described in paragraphs (1) through (4).
+
+#### (b) General authority
+* #### (1) In general
+  * Subject to the requirements of this section and paragraph (2), on request of any eligible entity the Secretary may negotiate and enter into an agreement on behalf of the United States to fund the design, study, and construction of an aquatic ecosystem restoration and protection project in a Reclamation State if the Secretary determines that the project is likely to improve the health of fisheries, wildlife or aquatic habitat, including through habitat restoration and improved fish passage via the removal or bypass of barriers to fish passage.
+
+* #### (2) Exception
+  * With respect to an aquatic ecosystem restoration and protection project under this section that removes a dam or modifies a dam in a manner that reduces storage or diversion capacity, the Secretary may only negotiate and enter into an agreement to fund—
+
+    * (A) the design or study of such project if the Secretary has received consent from the owner of the applicable dam; or
+
+    * (B) the construction of such project if the Secretary—
+
+      * (i) identifies any eligible entity that receives water or power from the facility that is under consideration for removal or modification at the time of the request;
+
+      * (ii) notifies each eligible entity identified in clause (i) that the dam removal or modification project has been requested; and
+
+      * (iii) does not receive, by the date that is 120 days after the date on which all eligible entities have been notified under clause (ii), written objection from 1 or more eligible entities that collectively receive 1/3 or more of the water or power delivered from the facility that is under consideration for removal or modification at the time of the request.
+
+#### (c) Requirements
+* #### (1) In general
+  * The Secretary shall accept and consider public comment prior to initiating design, study or development of a project under this section.
+
+* #### (2) Preconditions
+  * Construction of a project under this section shall be a voluntary project initiated only after—
+
+    * (A) an eligible entity has entered into an agreement with the Secretary to pay no less than 35 percent of the costs of project construction;
+
+    * (B) an eligible entity has entered an agreement to pay 100 percent of any operation, maintenance, and replacement and rehabilitation costs with respect to the project;
+
+    * (C) the Secretary determines the proposed project—
+
+      * (i) will not result in an unmitigated adverse impact on fulfillment of existing water delivery obligations consistent with historical operations and applicable contracts;
+
+      * (ii) will not result in an unmitigated adverse effect on the environment;
+
+      * (iii) is consistent with the responsibilities of the Secretary—
+
+        * (I) in the role as trustee for federally recognized Indian Tribes; and
+
+        * (II) to ensure compliance with any applicable international and Tribal treaties and agreements and interstate compacts and agreements;
+
+
+      * (iv) is in the financial interest of the United States based on a determination that the project advances Federal objectives including environmental enhancement objectives in a Reclamation State; and
+
+      * (v) complies with all applicable Federal and State law, including environmental laws; and
+
+
+    * (D) the Secretary has complied with all applicable environmental laws, including—
+
+      * (i) the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.);
+
+      * (ii) the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.); and
+
+      * (iii) subtitle III of title 54.
+
+#### (d) Funding
+* There is authorized to be appropriated to carry out this section $15,000,000 for each of fiscal years 2022 through 2026, to remain available until expended.
+
+#### (e) Effects
+* #### (1) In general
+  * Nothing in this section supersedes or limits any existing authority provided, or responsibility conferred, by any provision of law.
+
+* #### (2) Effect on state water law
+  * Nothing in this section preempts or affects any—
+
+    * (A) State water law; or
+
+    * (B) interstate compact governing water.
+
+#### (f) Compliance required
+* The Secretary shall comply with applicable State water laws in carrying out this section.
+
+#### (g) Priority for projects providing regional benefits and assistance for aging assets
+* When funding projects under this section, the Secretary shall prioritize projects that—
+
+  * (1) are jointly developed and supported by a diverse array of stakeholders including representatives of irrigated agricultural production, hydroelectric production, potable water purveyors and industrial water users, Indian Tribes, commercial fishing interests, and nonprofit conservation organizations;
+
+  * (2) affect water resources management in 2 or more river basins while providing regional benefits not limited to fisheries restoration;
+
+  * (3) are a component of a broader strategy or plan to replace aging facilities with 1 or more alternate facilities providing similar benefits; and
+
+  * (4) contribute to the restoration of anadromous fish species listed under the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.).
 
 ### §2331. Use of continuing contracts for construction of certain projects
 #### (a) In general
@@ -2382,7 +2927,7 @@
 * The Secretary may provide assistance to non-Federal and nonprofit entities to develop, manage, and maintain a database of conventional and innovative, cost-effective technologies for reclamation of abandoned and inactive noncoal mine sites. Such assistance shall be provided through the Rehabilitation of Abandoned Mine Sites Program managed by the Sacramento District Office of the Corps of Engineers.
 
 #### (f) Authorization of appropriations
-* There is authorized to be appropriated to carry out this section $20,000,000.
+* There is authorized to be appropriated to carry out this section $30,000,000.
 
 ### §2337. Property protection program
 #### (a) In general
@@ -2520,6 +3065,45 @@
 
 
     * (B) that is at significant risk for catastrophic flooding.
+
+### §2341c. Criteria for funding environmental infrastructure projects
+#### (a) In general
+* Not later than 180 days after December 27, 2020, the Secretary shall develop specific criteria for the evaluation and ranking of individual environmental assistance projects authorized by Congress (including projects authorized pursuant to environmental assistance programs) for the Secretary to carry out.
+
+#### (b) Minimum criteria
+* For the purposes of carrying out this section, the Secretary shall evaluate, at a minimum—
+
+  * (1) the nature and extent of the positive and negative local economic impacts of the project, including—
+
+    * (A) the benefits of the project to the local economy;
+
+    * (B) the extent to which the project will enhance local development;
+
+    * (C) the number of jobs that will be directly created by the project; and
+
+    * (D) the ability of the non-Federal interest to pay the applicable non-Federal share of the cost of the project;
+
+
+  * (2) the demographics of the location in which the project is to be carried out, including whether the project serves—
+
+    * (A) a rural community; or
+
+    * (B) an economically disadvantaged community, including an economically disadvantaged minority community;
+
+
+  * (3) the amount of appropriations a project has received;
+
+  * (4) the funding capability of the Corps of Engineers with respect to the project;
+
+  * (5) whether the project could be carried out under other Federal authorities at an equivalent cost to the non-Federal interest; and
+
+  * (6) any other criteria that the Secretary considers to be appropriate.
+
+#### (c) Inclusion in guidance
+* The Secretary shall include the criteria developed under subsection (a) in the annual Civil Works Direct Program Development Policy Guidance of the Secretary.
+
+#### (d) Report to Congress
+* For fiscal year 2022, and biennially thereafter, in conjunction with the President's annual budget submission to Congress under section 1105(a) of title 31, the Secretary shall submit to the Committee on Environment and Public Works and the Committee on Appropriations of the Senate and the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives a report that identifies the Secretary's ranking of individual environmental assistance projects authorized by Congress for the Secretary to carry out, in accordance with the criteria developed under this section.
 
 ### §2342. Access to water resource data
 #### (a) In general
@@ -2918,6 +3502,71 @@
 
 #### (b) Appeals request
 * A non-Federal interest may use the administrative appeals process described in part 331 of title 33, Code of Federal Regulations (or any succeeding regulation), in relation to a decision of the Secretary related to an application for a water storage project.
+
+### §2347c. Small water storage projects
+#### (a) In general
+* The Secretary shall carry out a program to study and construct new, or enlarge existing, small water storage projects, in partnership with a non-Federal interest.
+
+#### (b) Requirements
+* To be eligible to participate in the program under this section, a small water storage project shall—
+
+  * (1) in the case of a new small water storage project, have a water storage capacity of not less than 2,000 acre-feet and not more than 30,000 acre-feet;
+
+  * (2) in the case of an enlargement of an existing small water storage project, be for an enlargement of not less than 1,000 acre-feet and not more than 30,000 acre-feet;
+
+  * (3) provide—
+
+    * (A) flood risk management benefits;
+
+    * (B) ecological benefits; or
+
+    * (C) water management, water conservation, or water supply; and
+
+
+  * (4) be—
+
+    * (A) economically justified, environmentally acceptable, and technically feasible; or
+
+    * (B) in the case of a project providing ecological benefits, cost-effective with respect to such benefits.
+
+#### (c) Scope
+* In carrying out the program under this section, the Secretary shall give preference to a small water storage project located in a State with a population of less than 1,000,000.
+
+#### (d) Expedited projects
+* For the 10-year period beginning on December 27, 2020, the Secretary shall expedite small water storage projects under this section for which applicable Federal permitting requirements have been completed.
+
+#### (e) Use of data
+* In conducting a study under this section, to the maximum extent practicable, the Secretary shall—
+
+  * (1) as the Secretary determines appropriate, consider and utilize any applicable hydrologic, economic, or environmental data that is prepared for a small water storage project under State law as the documentation, or part of the documentation, required to complete State water plans or other State planning documents relating to water resources management; and
+
+  * (2) consider information developed by the non-Federal interest in relation to another study, to the extent the Secretary determines such information is applicable, appropriate, or otherwise authorized by law.
+
+#### (f) Cost share
+* #### (1) Study
+  * The Federal share of the cost of a study conducted under this section shall be—
+
+    * (A) 100 percent for costs not to exceed $100,000; and
+
+    * (B) 50 percent for any costs above $100,000.
+
+* #### (2) Construction
+  * A small water storage project carried out under this section shall be subject to the cost-sharing requirements applicable to projects under section 2213 of this title, including—
+
+    * (A) municipal and industrial water supply: 100 percent non-Federal;
+
+    * (B) agricultural water supply: 35 percent non-Federal; and
+
+    * (C) recreation, including recreational navigation: 50 percent of separable costs and, in the case of any harbor or inland harbor or channel project, 50 percent of joint and separable costs allocated to recreational navigation.
+
+#### (g) OMRRR responsibility
+* The costs of operation, maintenance, repair, and replacement and rehabilitation for a small water storage project constructed under this section shall be the responsibility of the non-Federal interest.
+
+#### (h) Individual project limit
+* Not more than $65,000,000 in Federal funds may be made available to a small water storage project under this section.
+
+#### (i) Authorization of appropriations
+* There is authorized to be appropriated to carry out this section $130,000,000 annually through fiscal year 2030.
 
 ### §2348. Project acceleration
 #### (a) Definitions
@@ -3538,6 +4187,33 @@
 
   * (2) consider models for maintenance and repair information, the development of degradation models for real-time measurements and environmental inputs, and research on qualitative inspection data as surrogate sensors.
 
+### §2353a. Aging infrastructure
+#### (a) Definitions
+* In this section:
+
+* #### (1) Aging infrastructure
+  * The term "aging infrastructure" means a water resources development project of the Corps of Engineers, or any other water resources, water storage, or irrigation project of another Federal agency, that is greater than 75 years old.
+
+* #### (2) Enhanced inspection
+  * The term "enhanced inspection" means an inspection that uses current or innovative technology, including Light Detection and Ranging (commonly known as "LiDAR"), ground penetrating radar, subsurface imaging, or subsurface geophysical techniques, to detect whether the features of the aging infrastructure are structurally sound and can operate as intended, or are at risk of failure.
+
+#### (b) Contracts for enhanced inspection
+* #### (1) In general
+  * The Secretary may carry out enhanced inspections of aging infrastructure, pursuant to a contract with the owner or operator of the aging infrastructure.
+
+* #### (2) Certain circumstances
+  * Subject to the availability of appropriations, or funds available pursuant to subsection (d), the Secretary shall enter into a contract described in paragraph (1), if—
+
+    * (A) the owner or operator of the aging infrastructure requests that the Secretary carry out the enhanced inspections; and
+
+    * (B) the inspection is at the full expense of such owner or operator.
+
+#### (c) Limitation
+* The Secretary shall not require a non-Federal entity associated with a project under the jurisdiction of another Federal agency to carry out corrective or remedial actions in response to an enhanced inspection carried out under this section.
+
+#### (d) Funding
+* The Secretary is authorized to accept funds from an owner or operator of aging infrastructure, and may use such funds to carry out an enhanced inspection pursuant to a contract entered into with such owner or operator under this section.
+
 ### §2354. Easements for electric, telephone, or broadband service facilities
 #### (a) Definition of water resources development project
 * In this section, the term "water resources development project" means a project under the administrative jurisdiction of the Corps of Engineers that is subject to part 327 of title 36, Code of Federal Regulations (or successor regulations).
@@ -3550,3 +4226,47 @@
 
 ### §2355. Prior project authorization
 * In any case in which a project under the jurisdiction of the Secretary is budgeted under a different business line than the business line under which the project was originally authorized, the Secretary shall ensure that the project is carried out in accordance with any requirements that apply to the business line under which the project was originally authorized.
+
+### §2356. Project consultation
+#### (a) Reports required
+* Not later than 180 days after December 27, 2020, the Secretary shall submit the following reports:
+
+  * (1) The report required under section 1214 of the Water Resources Development Act of 2018 (132 Stat. 3809).
+
+  * (2) The report required under section 1120(a)(3) of the Water Resources Development Act of 2016 (130 Stat. 1643).
+
+#### (b) Environmental justice updates
+* #### (1) In general
+  * In the formulation of water development resources projects, the Secretary shall comply with any existing Executive order regarding environmental justice in effect as of December 27, 2020, to address any disproportionate and adverse human health or environmental effects on minority communities, low-income communities, and Indian Tribes.
+
+* #### (2) Update
+  * Not later than 1 year after December 27, 2020, the Secretary shall review, and shall update, where appropriate, any policies, regulations, and guidance of the Corps of Engineers necessary to implement any Executive order described in paragraph (1) with respect to water resources development projects.
+
+* #### (3) Requirements
+  * In updating the policies, regulations, or guidance under paragraph (2), the Secretary shall—
+
+    * (A) provide notice to interested non-Federal stakeholders, including representatives of minority communities, low-income communities, and Indian Tribes;
+
+    * (B) provide opportunities for interested stakeholders to comment on potential updates of policies, regulations, or guidance;
+
+    * (C) consider the recommendations from the reports submitted under subsection (a); and
+
+    * (D) promote the meaningful involvement of minority communities, low-income communities, and Indian Tribes.
+
+#### (c) Community engagement
+* In carrying out a water resources development project, the Secretary shall, to the extent practicable—
+
+  * (1) promote the meaningful involvement of minority communities, low-income communities, and Indian Tribes;
+
+  * (2) provide guidance and technical assistance to such communities or Tribes to increase understanding of the project development and implementation activities, regulations, and policies of the Corps of Engineers; and
+
+  * (3) cooperate with State, Tribal, and local governments with respect to activities carried out pursuant to this subsection.
+
+#### (d) Tribal lands and consultation
+* In carrying out water resources development projects, the Secretary shall, to the extent practicable and in accordance with the Tribal Consultation Policy affirmed and formalized by the Secretary on November 1, 2012 (or a successor policy)—
+
+  * (1) promote meaningful involvement with Indian Tribes specifically on any Tribal lands near or adjacent to any water resources development projects, for purposes of identifying lands of ancestral, cultural, or religious importance;
+
+  * (2) consult with Indian Tribes specifically on any Tribal areas near or adjacent to any water resources development projects, for purposes of identifying lands, waters, and other resources critical to the livelihood of the Indian Tribes; and
+
+  * (3) cooperate with Indian Tribes to avoid, or otherwise find alternate solutions with respect to, such areas.

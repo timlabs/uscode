@@ -359,3 +359,475 @@
 
 #### (m) Regulations
 * The Assistant Secretary shall have the authority to prescribe such rules as are necessary to carry out the purposes of this section.
+
+### §1306. Connecting minority communities
+#### (a) Definitions
+* In this section:
+
+* #### (1) Anchor community
+  * #### (A) In general
+    * The term "anchor community" means any area that—
+
+      * (i) except as provided in subparagraph (B), is not more than 15 miles from a historically Black college or university, a Tribal College or University, or a Minority-serving institution; and
+
+      * (ii) has an estimated median annual household income of not more than 250 percent of the poverty line, as that term is defined in section 9902(2) of title 42.
+
+  * #### (B) Certain Tribal Colleges or Universities
+    * With respect to a Tribal College or University that is located on land held in trust by the United States, the Assistant Secretary, in consultation with the Secretary of the Interior, may establish a different maximum distance for the purposes of subparagraph (A)(i) if the Assistant Secretary is able to ensure that, in establishing that different maximum distance, each anchor community that is established as a result of that action is statistically comparable to other anchor communities described in subparagraph (A).
+
+* #### (2) Assistant Secretary
+  * The term "Assistant Secretary" means the Assistant Secretary of Commerce for Communications and Information.
+
+* #### (3) Broadband internet access service
+  * The term "broadband internet access service" has the meaning given the term in section 8.1(b) of title 47, Code of Federal Regulations, or any successor regulation.
+
+* #### (4) Commission
+  * The term "Commission" means the Federal Communications Commission.
+
+* #### (5) Connected device
+  * The term "connected device" means a laptop computer, tablet computer, or similar device that is capable of connecting to broadband internet access service.
+
+* #### (6) Director
+  * The term "Director" means the Director of the Office.
+
+* #### (7) Eligible equipment
+  * The term "eligible equipment" means—
+
+    * (A) a Wi-Fi hotspot;
+
+    * (B) a modem;
+
+    * (C) a router;
+
+    * (D) a device that combines a modem and router;
+
+    * (E) a connected device; or
+
+    * (F) any other equipment used to provide access to broadband internet access service.
+
+* #### (8) Eligible recipient
+  * The term "eligible recipient" means—
+
+    * (A) a historically Black college or university;
+
+    * (B) a Tribal College or University;
+
+    * (C) a Minority-serving institution; or
+
+    * (D) a consortium that is led by a historically Black college or university, a Tribal College or University, or a Minority-serving institution and that also includes—
+
+      * (i) a minority business enterprise; or
+
+      * (ii) an organization described in section 501(c)(3) of title 26 and exempt from tax under section 501(a) of such title.
+
+* #### (9) Historically Black college or university
+  * The term "historically Black college or university" has the meaning given the term "part B institution" in section 1061 of title 20.
+
+* #### (10) Minority-serving institution
+  * The term "Minority-serving institution" means any of the following:
+
+    * (A) An Alaska Native-serving institution, as that term is defined in section 1059d(b) of title 20.
+
+    * (B) A Native Hawaiian-serving institution, as that term is defined in section 1059d(b) of title 20.
+
+    * (C) A Hispanic-serving institution, as that term is defined in section 1101a(a) of title 20.
+
+    * (D) A Predominantly Black institution, as that term is defined in section 1067q(c) of title 20).
+
+    * (E) An Asian American and Native American Pacific Islander-serving institution, as that term is defined in section 1059g(b) of title 20.
+
+    * (F) A Native American-serving, nontribal institution, as that term is defined in section 1059f(b) of title 20.
+
+* #### (11) Minority business enterprise
+  * The term "minority business enterprise" has the meaning given the term in section 1400.2 of title 15, Code of Federal Regulations, or any successor regulation.
+
+* #### (12) Office
+  * The term "Office" means the Office of Minority Broadband Initiatives established pursuant to subsection (b)(1).
+
+* #### (13) Pilot Program
+  * The term "Pilot Program" means the Connecting Minority Communities Pilot Program established under the rules promulgated by the Assistant Secretary under subsection (c)(1).
+
+* #### (14) Tribal College or University
+  * The term "Tribal College or University" has the meaning given the term in section 1059c(b) of title 20.
+
+* #### (15) Wi-Fi
+  * The term "Wi-Fi" means a wireless networking protocol based on Institute of Electrical and Electronics Engineers standard 802.11, or any successor standard.
+
+* #### (16) Wi-Fi hotspot
+  * The term "Wi-Fi hotspot" means a device that is capable of—
+
+    * (A) receiving broadband internet access service; and
+
+    * (B) sharing broadband internet access service with another device through the use of Wi-Fi.
+
+#### (b) Office of Minority Broadband Initiatives
+* #### (1) Establishment
+  * Not later than 180 days after December 27, 2020, the Assistant Secretary shall establish within the National Telecommunications and Information Administration the Office of Minority Broadband Initiatives.
+
+* #### (2) Director
+  * The Office shall be headed by the Director of the Office of Minority Broadband Initiatives, who shall be appointed by the Assistant Secretary.
+
+* #### (3) Duties
+  * The Office, acting through the Director, shall—
+
+    * (A) collaborate with Federal agencies that carry out broadband internet access service support programs to determine how to expand access to broadband internet access service and other digital opportunities in anchor communities;
+
+    * (B) collaborate with State, local, and Tribal governments, historically Black colleges or universities, Tribal Colleges or Universities, Minority-serving institutions, and stakeholders in the communications, education, business, and technology fields to—
+
+      * (i) promote—
+
+        * (I) initiatives relating to broadband internet access service connectivity for anchor communities; and
+
+        * (II) digital opportunities for anchor communities;
+
+
+      * (ii) develop recommendations to promote the rapid, expanded deployment of broadband internet access service to unserved historically Black colleges or universities, Tribal Colleges or Universities, Minority-serving institutions, and anchor communities, including to—
+
+        * (I) students, faculty, and staff of historically Black colleges or universities, Tribal Colleges or Universities, and Minority-serving institutions; and
+
+        * (II) senior citizens and veterans who live in anchor communities;
+
+
+      * (iii) promote activities that would accelerate the adoption of broadband internet access service (including any associated equipment or personnel necessary to access and use that service, such as modems, routers, devices that combine a modem and a router, Wi-Fi hotspots, and connected devices)—
+
+        * (I) by students, faculty, and staff of historically Black colleges or universities, Tribal Colleges or Universities, and Minority-serving institutions; and
+
+        * (II) within anchor communities;
+
+
+      * (iv) upon request, provide assistance to historically Black colleges or universities, Tribal Colleges or Universities, Minority-serving institutions, and leaders from anchor communities with respect to navigating Federal programs dealing with broadband internet access service;
+
+      * (v) promote digital literacy skills, including by providing opportunities for virtual or in-person digital literacy training and education;
+
+      * (vi) promote professional development opportunity partnerships between industry and historically Black colleges or universities, Tribal Colleges or Universities, and Minority-serving institutions to help ensure that information technology personnel and students of historically Black colleges or universities, Tribal Colleges or Universities, and Minority-serving institutions have the skills needed to work with new and emerging technologies with respect to broadband internet access service; and
+
+      * (vii) explore how to leverage investment in infrastructure with respect to broadband internet access service to—
+
+        * (I) expand connectivity with respect to that service in anchor communities and by students, faculty, and staff of historically Black colleges or universities, Tribal Colleges or Universities, and Minority-serving institutions;
+
+        * (II) encourage investment in communities that have been designated as qualified opportunity zones under section 1400Z–1 of title 26; and
+
+        * (III) serve as a catalyst for adoption of that service, so as to promote job growth and economic development and deployment of advanced technologies; and
+
+
+    * (C) assume any functions carried out under the Minority Broadband Initiative of the National Telecommunications and Information Administration, as of the day before December 27, 2020.
+
+* #### (4) Reports
+  * #### (A) In general
+    * Not later than 1 year after the date on which the Assistant Secretary establishes the Office under paragraph (1), and annually thereafter, the Assistant Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives a report that—
+
+      * (i) for the year covered by the report, details the work of the Office in expanding access to fixed and mobile broadband internet access service—
+
+        * (I) at historically Black colleges or universities, Tribal Colleges or Universities, and Minority-serving institutions, including by expanding that access to students, faculty, and staff of historically Black colleges or universities, Tribal Colleges or Universities, and Minority-serving institutions; and
+
+        * (II) within anchor communities; and
+
+
+      * (ii) identifies barriers to providing access to broadband internet access service—
+
+        * (I) at historically Black colleges or universities, Tribal Colleges or Universities, and Minority-serving institutions, including to students, faculty, and staff of historically Black colleges or universities, Tribal Colleges or Universities, and Minority-serving institutions; and
+
+        * (II) within anchor communities.
+
+  * #### (B) Public availability
+    * Not later than 30 days after the date on which the Assistant Secretary submits a report under subparagraph (A), the Assistant Secretary shall, to the extent feasible, make that report publicly available.
+
+#### (c) Connecting Minority Communities Pilot Program
+* #### (1) Rules required
+  * #### (A) In general
+    * Not later than 45 days after December 27, 2020, the Assistant Secretary shall promulgate rules establishing the Connecting Minority Communities Pilot Program, the purpose of which shall be to provide grants to eligible recipients in anchor communities for the purchase of broadband internet access service or any eligible equipment, or to hire and train information technology personnel—
+
+      * (i) in the case of an eligible recipient described in subparagraph (A), (B), or (C) of subsection (a)(8), to facilitate educational instruction and learning, including through remote instruction;
+
+      * (ii) in the case of an eligible recipient described in subsection (a)(8)(D)(i), to operate the minority business enterprise; or
+
+      * (iii) in the case of an eligible recipient described in subsection (a)(8)(D)(ii), to operate the organization.
+
+  * #### (B) Content
+    * The rules promulgated under subparagraph (A) shall—
+
+      * (i) establish a method for identifying which eligible recipients in anchor communities have the greatest unmet financial needs;
+
+      * (ii) ensure that grants under the Pilot Program are made—
+
+        * (I) to eligible recipients identified under the method established under clause (i); and
+
+        * (II) in a manner that best achieves the purposes of the Pilot Program;
+
+
+      * (iii) require that an eligible recipient described in subparagraph (A), (B), or (C) of subsection (a)(8) that receives a grant to provide broadband internet access service or eligible equipment to students prioritizes students who—
+
+        * (I) are eligible to receive a Federal Pell Grant under section 1070a of title 20;
+
+        * (II) are recipients of any other need-based financial aid from the Federal Government, a State, or that eligible recipient;
+
+        * (III) are qualifying low-income consumers for the purposes of the program carried out under subpart E of part 54 of title 47, Code of Federal Regulations, or any successor regulations;
+
+        * (IV) are low-income individuals, as that term is defined in section 1058(g) of title 20; or
+
+        * (V) have been approved to receive unemployment insurance benefits under any Federal or State law since March 1, 2020;
+
+
+      * (iv) provide that a recipient of a grant under the Pilot Program—
+
+        * (I) shall use eligible equipment for a purpose that the recipient considers to be appropriate, subject to any restriction provided in those rules (or any successor rules);
+
+        * (II) if the recipient lends, or otherwise provides, eligible equipment to students or patrons, shall prioritize lending or providing to such individuals that the recipient believes do not have access to that equipment, subject to any restriction provided in those rules (or any successor rules); and
+
+        * (III) may not sell or otherwise transfer eligible equipment in exchange for any thing (including a service) of value;
+
+
+      * (v) include audit requirements that—
+
+        * (I) ensure that a recipient of a grant made under the Pilot Program uses grant funds in compliance with the requirements of this section and the overall purpose of the Pilot Program; and
+
+        * (II) prevent waste, fraud, and abuse in the operation of the Pilot Program;
+
+
+      * (vi) provide that not less than 40 percent of the amount of the grants made under the Pilot Program are made to Historically Black colleges or universities; and
+
+      * (vii) provide that not less than 20 percent of the amount of the grants made under the Pilot Program are made to eligible recipients described in subparagraphs (A), (B), and (C) of subsection (a)(8) to provide broadband internet access service or eligible equipment to students of those eligible recipients.
+
+* #### (2) Fund
+  * #### (A) Establishment
+    * There is established in the Treasury of the United States a fund to be known as the Connecting Minority Communities Fund.
+
+  * #### (B) Use of Fund
+    * Amounts in the Connecting Minority Communities Fund established under subparagraph (A) shall be available to the Assistant Secretary to provide support under the rules promulgated under paragraph (1).
+
+* #### (3) Interagency coordination
+  * When making grants under the Pilot Program, the Assistant Secretary shall coordinate with other Federal agencies, including the Commission, the National Science Foundation, and the Department of Education, to ensure the efficient expenditure of Federal funds, including by preventing multiple expenditures of Federal funds for the same purpose.
+
+* #### (4) Audits
+  * #### (A) In general
+    * For each of fiscal years 2021 and 2022, the Inspector General of the Department of Commerce shall conduct an audit of the Pilot Program according to the requirements established under paragraph (1)(B)(v).
+
+  * #### (B) Report
+    * After completing each audit conducted under subparagraph (A), the Inspector General of the Department of Commerce shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives a report that details the findings of the audit.
+
+* #### (5) Direct appropriation
+  * There is appropriated, out of amounts in the Treasury not otherwise appropriated, for the fiscal year ending September 30, 2021, to remain available until expended, $285,000,000 to the Connecting Minority Communities Fund established under paragraph (2).
+
+* #### (6) Termination
+  * Except with respect to the report required under paragraph (7) and the authority of the Secretary of Commerce and the Inspector General of the Department of Commerce described in paragraph (8), the Pilot Program, including all reporting requirements under this section, shall terminate on the date on which the amounts made available to carry out the Pilot Program are fully expended.
+
+* #### (7) Report
+  * Not later than 90 days after the date on which the Pilot Program terminates under paragraph (6), the Assistant Secretary, after consulting with eligible recipients that received grants under the Pilot Program, shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives a report that—
+
+    * (A) describes the manner in which the Pilot Program was carried out;
+
+    * (B) identifies each eligible recipient that received a grant under the Pilot Program; and
+
+    * (C) contains information regarding the effectiveness of the Pilot Program, including lessons learned in carrying out the Pilot Program and recommendations for future action.
+
+* #### (8) Savings provision
+  * The termination of the Pilot Program under paragraph (6) shall not limit, alter, or affect the ability of the Secretary of Commerce or the Inspector General of the Department of Commerce to—
+
+    * (A) investigate waste, fraud, and abuse with respect to the Pilot Program; or
+
+    * (B) recover funds that are misused under the Pilot Program.
+
+### §1307. Office of Internet Connectivity and Growth
+#### (a) Short title
+* This section may be cited as the "Advancing Critical Connectivity Expands Service, Small Business Resources, Opportunities, Access, and Data Based on Assessed Need and Demand Act" or the "ACCESS BROADBAND Act".
+
+#### (b) Establishment
+* Not later than 180 days after December 27, 2020, the Assistant Secretary shall establish the Office of Internet Connectivity and Growth within the National Telecommunications and Information Administration.
+
+#### (c) Duties
+* #### (1) Outreach
+  * The Office shall—
+
+    * (A) connect with communities that need access to high-speed internet and improved digital inclusion efforts through various forms of outreach and communication techniques;
+
+    * (B) hold regional workshops across the country to share best practices and effective strategies for promoting broadband access and adoption;
+
+    * (C) develop targeted broadband training and presentations for various demographic communities through various media;
+
+    * (D) develop and distribute publications (including toolkits, primers, manuals, and white papers) providing guidance, strategies, and insights to communities as the communities develop strategies to expand broadband access and adoption; and
+
+    * (E) as applicable in carrying out subparagraphs (A) through (D), coordinate with State agencies that provide similar broadband investments, outreach, and coordination through Federal programs.
+
+* #### (2) Tracking of Federal dollars
+  * #### (A) Broadband infrastructure
+    * The Office shall track the construction and use of and access to any broadband infrastructure built using any Federal support in a central database.
+
+  * #### (B) Accounting mechanism
+    * The Office shall develop a streamlined accounting mechanism by which any agency offering a Federal broadband support program and the Commission for any Universal Service Fund Program shall provide the information described in subparagraph (A) in a standardized and efficient fashion.
+
+  * #### (C) Report
+    * Not later than 1 year after December 27, 2020, and every year thereafter, the Office shall make public on the website of the Office and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the following:
+
+      * (i) A description of the work of the Office for the previous year and the number of residents of the United States that received broadband as result of Federal broadband support programs and the Universal Service Fund Programs.
+
+      * (ii) A description of how many residents of the United States were provided broadband by which universal service mechanism or which Federal broadband support program.
+
+      * (iii) An estimate of the economic impact of such broadband deployment efforts on local economies, including any effect on small businesses or jobs.
+
+#### (d) Relation to current broadband activities of NTIA
+* The Assistant Secretary shall assign to the Office all activities performed by the National Telecommunications and Information Administration as of December 27, 2020, that are similar to the activities required to be conducted by the Office under this section.
+
+#### (e) Streamlined applications for support
+* #### (1) Agency consultation
+  * The Office shall consult with any agency offering a Federal broadband support program to streamline and standardize the applications process for financial assistance or grants for such program.
+
+* #### (2) Agency streamlining
+  * Any agency offering a Federal broadband support program shall amend the applications of the agency for broadband support, to the extent practicable and as necessary, to streamline and standardize applications for Federal broadband support programs across the Government.
+
+* #### (3) Single application
+  * To the greatest extent practicable, the Office shall seek to create one application that may be submitted to apply for all, or substantially all, Federal broadband support programs.
+
+* #### (4) Website required
+  * Not later than 180 days after December 27, 2020, the Office shall create a central website through which potential applicants can learn about and apply for support through any Federal broadband support program.
+
+#### (f) Coordination of support
+* #### (1) In general
+  * To ensure that Federal support for broadband deployment is being distributed in an efficient, technology-neutral, and financially sustainable manner, and that a program does not duplicate any other Federal broadband support program or any Universal Service Fund high-cost program—
+
+    * (A) any agency that offers a Federal broadband support program shall coordinate with the Office consistent with the goals described in paragraph (2); and
+
+    * (B) the Office, with respect to Federal broadband support programs, and the Commission, with respect to the Universal Service Fund high-cost programs, shall coordinate with each other consistent with the goals described in paragraph (2).
+
+* #### (2) Goals
+  * The goals of any coordination conducted pursuant to this subsection are the following:
+
+    * (A) Serving the largest number of unserved locations in the United States and ensuring all residents of the United States have access to high-speed broadband.
+
+    * (B) Promoting the most job and economic growth for all residents of the United States.
+
+* #### (3) Broadband availability maps
+  * The Office and the Commission shall consult the broadband availability maps produced by the Commission when coordinating under paragraph (1).
+
+#### (g) Definitions
+* In this section:
+
+* #### (1) Agency
+  * The term "agency" has the meaning given that term in section 551 of title 5.
+
+* #### (2) Assistant Secretary
+  * The term "Assistant Secretary" means the Assistant Secretary of Commerce for Communications and Information.
+
+* #### (3) Commission
+  * The term "Commission" means the Federal Communications Commission.
+
+* #### (4) Federal broadband support program
+  * The term "Federal broadband support program" does not include any Universal Service Fund Program and means any of the following programs (or any other similar Federal program) to the extent the program offers broadband internet service, support for broadband deployment, or programs for promoting broadband access and adoption for various demographic communities through various media for residential, commercial, community providers, or academic establishments:
+
+    * (A) The Telecommunications and Technology Program of the Appalachian Regional Commission.
+
+    * (B) The Telecommunications Infrastructure Loan and Loan Guarantee Program established under the Rural Electrification Act of 1936 [7 U.S.C. 901 et seq.], the rural broadband access program established under title VI of that Act (7 U.S.C. 950bb et seq.), the initiative under section 306F of that Act (7 U.S.C. 936f), the Community Connect Grant Program established under section 604 of that Act (7 U.S.C. 950bb–3), the broadband loan and grant pilot program authorized under section 779 of division A of the Consolidated Appropriations Act, 2018 (Public Law 115–141; 132 Stat. 399) (commonly known as the "Rural eConnectivity Pilot Program" or the "ReConnect Program"), and the Distance Learning and Telemedicine Program under chapter 1 of subtitle D of title XXIII of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 950aaa et seq.).
+
+    * (C) Community facility direct and guaranteed loans under section 1926(a) of title 7, community facility grants under paragraph (19), (20), or (21) of section 1926(a) of title 7, and the Rural Community Development Initiative authorized under the heading "Rural Housing Service—Rural Community Facilities Program Account" under title III of division B of the Further Consolidated Appropriations Act, 2020 (Public Law 116–94; 133 Stat. 2629).
+
+    * (D) The Public Works and Economic Adjustment Assistance Programs and the Planning and Local Technical Assistance Programs of the Economic Development Administration of the Department of Commerce.
+
+    * (E) The Community Development Block Grants and Section 108 Loan Guarantees Programs, the Funds for Public Housing Authorities: Capital Fund and Operating Fund, the Multifamily Housing Programs, the Indian Community Development Block Grant Program, the Indian Housing Block Grant Program, the Title VI Loan Guarantee Program, the Choice Neighborhoods Program, the HOME Investment Partnerships Program, the Housing Trust Fund, and the Housing Opportunities for Persons with AIDS Program of the Department of Housing and Urban Development.
+
+    * (F) The American Job Centers of the Employment and Training Administration of the Department of Labor.
+
+    * (G) The Library Services and Technology Grant Programs of the Institute of Museum and Library Services.
+
+* #### (5) Office
+  * The term "Office" means the Office of Internet Connectivity and Growth established pursuant to subsection (b).
+
+* #### (6) Universal Service Fund high-cost programs
+  * The term "Universal Service Fund high-cost programs" means—
+
+    * (A) the program for Universal Service Support for High-Cost Areas set forth under subpart D of part 54 of title 47, Code of Federal Regulations, or any successor thereto;
+
+    * (B) the Rural Digital Opportunity Fund set forth under subpart J of part 54 of title 47, Code of Federal Regulations, or any successor thereto;
+
+    * (C) the Interstate Common Line Support Mechanism for Rate-of-Return Carriers set forth under subpart K of part 54 of title 47, Code of Federal Regulations, or any successor thereto;
+
+    * (D) the Mobility Fund and 5G Fund set forth under subpart L of part 54 of title 47, Code of Federal Regulations, or any successor thereto; and
+
+    * (E) the High Cost Loop Support for Rate-of-Return Carriers program set forth under subpart M of part 54 of title 47, Code of Federal Regulations, or any successor thereto.
+
+* #### (7) Universal Service Fund Program
+  * The term "Universal Service Fund Program" means any program authorized under section 254 of this title to help deploy broadband.
+
+* #### (8) Universal service mechanism
+  * The term "universal service mechanism" means any funding stream provided by a Universal Service Fund Program to support broadband access.
+
+#### (h) Rule of construction
+* Nothing in this section is intended to alter or amend any provision of section 254 of this title.
+
+### §1308. Interagency agreement
+#### (a) Short title
+* This section may be cited as the "Broadband Interagency Coordination Act of 2020".
+
+#### (b) Interagency agreement
+* #### (1) Definitions
+  * In this section—
+
+    * (A) the term "covered agency" means—
+
+      * (i) the Federal Communications Commission;
+
+      * (ii) the Department of Agriculture; and
+
+      * (iii) the National Telecommunications and Information Administration; and
+
+
+    * (B) the term "high-cost programs" means—
+
+      * (i) the program for Universal Service Support for High-Cost Areas set forth under subpart D of part 54 of title 47, Code of Federal Regulations, or any successor thereto;
+
+      * (ii) the Rural Digital Opportunity Fund set forth under subpart J of part 54 of title 47, Code of Federal Regulations, or any successor thereto;
+
+      * (iii) the Interstate Common Line Support Mechanism for Rate-of-Return Carriers set forth under subpart K of part 54 of title 47, Code of Federal Regulations, or any successor thereto;
+
+      * (iv) the Mobility Fund and 5G Fund set forth under subpart L of part 54 of title 47, Code of Federal Regulations, or any successor thereto; and
+
+      * (v) the High Cost Loop Support for Rate-of-Return Carriers program set forth under subpart M of part 54 of title 47, Code of Federal Regulations, or any successor thereto.
+
+* #### (2) Interagency agreement
+  * Not later than 180 days after December 27, 2020, the heads of the covered agencies shall enter into an interagency agreement requiring coordination between the covered agencies for the distribution of funds for broadband deployment under—
+
+    * (A) the high-cost programs;
+
+    * (B) the programs administered by the Rural Utilities Service of the Department of Agriculture and the Department of Agriculture; and
+
+    * (C) the programs administered by or coordinated through the National Telecommunications and Information Administration.
+
+* #### (3) Requirements
+  * In entering into an interagency agreement with respect to the programs described in paragraph (2), the heads of the covered agencies shall—
+
+    * (A) require that the covered agencies share information with each other about existing or planned projects that have received or will receive funds under the programs described in paragraph (2) for new broadband deployment;
+
+    * (B) provide that—
+
+      * (i) subject to clause (ii), upon request from another covered agency with authority to award or authorize any funds for new broadband deployment in a project area, a covered agency shall provide the other covered agency with any information the covered agency possesses regarding, with respect to the project area—
+
+        * (I) each entity that provides broadband service in the area;
+
+        * (II) levels of broadband service provided in the area, including the speed of broadband service and the technology provided;
+
+        * (III) the geographic scope of broadband service coverage in the area; and
+
+        * (IV) each entity that has received or will receive funds under the programs described in paragraph (2) to provide broadband service in the area; and
+
+
+      * (ii) if a covered agency designates any information provided to another covered agency under clause (i) as confidential, the other covered agency shall protect the confidentiality of that information;
+
+
+    * (C) consider basing the distribution of funds for broadband deployment under the programs described in paragraph (2) on standardized data regarding broadband coverage; and
+
+    * (D) provide that the interagency agreement shall be updated periodically, except that the scope of the agreement with respect to the Federal Communications Commission may not expand beyond the high-cost programs.
+
+* #### (4) Assessment of agreement
+  * #### (A) Public comment
+    * Not later than 1 year after entering into the interagency agreement required under paragraph (2), the Federal Communications Commission shall seek public comment on—
+
+      * (i) the effectiveness of the interagency agreement in facilitating efficient use of funds for broadband deployment;
+
+      * (ii) the availability of Tribal, State, and local data regarding broadband deployment and the inclusion of that data in interagency coordination; and
+
+      * (iii) modifications to the interagency agreement that would improve the efficacy of interagency coordination.
+
+  * #### (B) Assessment; report
+    * Not later than 18 months after December 27, 2020, the Federal Communications Commission shall—
+
+      * (i) review and assess the comments received under subparagraph (A); and
+
+      * (ii) submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives a report detailing any findings and recommendations from the assessment conducted under clause (i).

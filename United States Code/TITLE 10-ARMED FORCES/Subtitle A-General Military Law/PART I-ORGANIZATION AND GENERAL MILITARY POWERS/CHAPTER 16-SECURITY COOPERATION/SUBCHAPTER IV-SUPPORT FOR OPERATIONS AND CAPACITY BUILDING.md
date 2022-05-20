@@ -134,7 +134,11 @@
 
   * (6) Military intelligence operations.
 
-  * (7) Operations or activities that contribute to an existing international coalition operation that is determined by the Secretary to be in the national interest of the United States.
+  * (7) Air domain awareness operations.
+
+  * (8) Operations or activities that contribute to an existing international coalition operation that is determined by the Secretary to be in the national interest of the United States.
+
+  * (9) Cyberspace security and defensive cyberspace operations.
 
 
 * (b) CONCURRENCE AND COORDINATION WITH SECRETARY OF STATE.—

@@ -222,7 +222,35 @@
 
 * (b) Notwithstanding subsection (a), after the death of an employee, Member, or annuitant, or former employee or Member, a benefit based on the service of such employee, Member, or annuitant, or former employee or Member, shall not be paid under subchapter II or IV of this chapter unless an application therefor is received by the Office within 30 years after the death or other event which establishes the entitlement to the benefit.
 
-* (c) Payment due a minor, or an individual mentally incompetent or under other legal disability, may be made to the person who is constituted guardian or other fiduciary by the law of the State of residence of the claimant or is otherwise legally vested with the care of the claimant or his estate. If a guardian or other fiduciary of the individual under legal disability has not been appointed under the law of the State of residence of the claimant, payment may be made to any person who, in the judgment of the Office, is responsible for the care of the claimant, and the payment bars recovery by any other person.
+* (c)(1) Payment due a minor, or an individual mentally incompetent or under other legal disability, may be made to the person (including an organization) who is constituted guardian or other fiduciary by the law of the State of residence of the claimant or is otherwise legally vested with the care of the claimant or his estate. If a guardian or other fiduciary of the individual under legal disability has not been appointed under the law of the State of residence of the claimant, payment may be made to any person (including an organization) who, in the judgment of the Office, is responsible for the care of the claimant and may appropriately receive such payments on behalf of the claimant, and the payment bars recovery by any other person.
+
+* (2) If the Office determines that direct payment of a benefit to an individual mentally incompetent or under other legal disability would cause substantial harm to the individual, the Office may defer or suspend direct payment of the benefit until such time as the appointment of a representative payee is made. The Office shall resume payment as soon as practicable, including all amounts due.
+
+* (d) The Office may not authorize a person to receive payments on behalf of a minor or individual of legal disability under subsection (c) if that person has been convicted of a violation of—
+
+  * (1) section 8345a or 8466a;
+
+  * (2) section 208 or 1632 of the Social Security Act (42 U.S.C. 408, 1383a); or
+
+  * (3) section 6101 of title 38.
+
+### §8466a. Embezzlement or conversion of payments
+* (a) EMBEZZLING AND CONVERSION GENERALLY.—
+
+  * (1) IN GENERAL.—It shall be unlawful for a representative payee to embezzle or in any manner convert all or any part of the amounts received from payments received as a representative payee to a use other than for the use and benefit of the minor or individual on whose behalf such payments were received.
+
+  * (2) REVOCATION.—If the Office determines that a representative payee has embezzled or converted payments as described in paragraph (1), the Office shall promptly—
+
+    * (A) revoke the certification for payment of benefits to the representative payee; and
+
+    * (B) certify payment—
+
+      * (i) to another representative payee; or
+
+      * (ii) if the interest of the individual under this title would be served thereby, to the individual.
+
+
+* (b) PENALTY.—Any person who violates subsection (a)(1) shall be fined under title 18, imprisoned for not more than 5 years, or both.
 
 ### §8467. Court orders
 * (a) Payments under this chapter which would otherwise be made to an employee, Member, or annuitant (including an employee, Member, or annuitant as defined in section 8331) based on service of that individual shall be paid (in whole or in part) by the Office or the Executive Director, as the case may be, to another person if and to the extent expressly provided for in the terms of—

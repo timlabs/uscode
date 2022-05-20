@@ -21,16 +21,18 @@
 
 * (2) The term "counterfeit drug" means a drug which, or the container or labeling of which, without authorization, bears the trademark, trade name, or other identifying mark, imprint, or device, or any likeness thereof, of a drug manufacturer, processor, packer, or distributor other than the person or persons who in fact manufactured, processed, packed, or distributed such drug and which thereby falsely purports or is represented to be the product of, or to have been packed or distributed by, such other drug manufacturer, processor, packer, or distributor.
 
-* (h) The term "device" (except when used in paragraph (n) of this section and in sections 331(i), 343(f), 352(c), and 362(c) of this title) means an instrument, apparatus, implement, machine, contrivance, implant, in vitro reagent, or other similar or related article, including any component, part, or accessory, which is—
+* (h)(1) The term "device" (except when used in paragraph (n) of this section and in sections 331(i), 343(f), 352(c), and 362(c) of this title) means an instrument, apparatus, implement, machine, contrivance, implant, in vitro reagent, or other similar or related article, including any component, part, or accessory, which is—
 
-  * (1) recognized in the official National Formulary, or the United States Pharmacopeia, or any supplement to them,
+  * (A) recognized in the official National Formulary, or the United States Pharmacopeia, or any supplement to them,
 
-  * (2) intended for use in the diagnosis of disease or other conditions, or in the cure, mitigation, treatment, or prevention of disease, in man or other animals, or
+  * (B) intended for use in the diagnosis of disease or other conditions, or in the cure, mitigation, treatment, or prevention of disease, in man or other animals, or
 
-  * (3) intended to affect the structure or any function of the body of man or other animals, and
+  * (C) intended to affect the structure or any function of the body of man or other animals, and
 
 
 * which does not achieve its primary intended purposes through chemical action within or on the body of man or other animals and which is not dependent upon being metabolized for the achievement of its primary intended purposes. The term "device" does not include software functions excluded pursuant to section 360j(o) of this title.
+
+* (2) The term "counterfeit device" means a device which, or the container, packaging, or labeling of which, without authorization, bears a trademark, trade name, or other identifying mark or imprint, or any likeness thereof, or is manufactured using a design, of a device manufacturer, processor, packer, or distributor other than the person or persons who in fact manufactured, processed, packed, or distributed such device and which thereby falsely purports or is represented to be the product of, or to have been packed or distributed by, such other device manufacturer, processor, packer, or distributor.
 
 * (i) The term "cosmetic" means (1) articles intended to be rubbed, poured, sprinkled, or sprayed on, introduced into, or otherwise applied to the human body or any part thereof for cleansing, beautifying, promoting attractiveness, or altering the appearance, and (2) articles intended for use as a component of any such articles; except that such term shall not include soap.
 

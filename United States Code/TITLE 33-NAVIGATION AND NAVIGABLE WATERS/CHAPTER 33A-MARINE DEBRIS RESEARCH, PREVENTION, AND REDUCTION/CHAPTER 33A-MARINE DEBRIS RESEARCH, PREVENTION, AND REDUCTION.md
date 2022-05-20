@@ -1,7 +1,7 @@
 ### **CHAPTER 33A—MARINE DEBRIS RESEARCH, PREVENTION, AND REDUCTION**
 
 ### §1951. Purpose
-* The purpose of this chapter is to address the adverse impacts of marine debris on the United States economy, the marine environment, and navigation safety through the identification, determination of sources, assessment, prevention, reduction, and removal of marine debris.
+* The purpose of this chapter is to address the adverse impacts of marine debris on the United States economy, the marine environment (including waters in the jurisdiction of the United States, the high seas, and waters in the jurisdiction of other countries), and navigation safety through the identification, determination of sources, assessment, prevention, reduction, and removal of marine debris.
 
 ### §1952. NOAA Marine Debris Program
 #### (a) Establishment of Program
@@ -188,7 +188,20 @@
 
 ### §1958. Authorization of appropriations
 #### (a) In general
-* There is authorized to be appropriated to the Administrator $10,000,000 for each of fiscal years 2018 through 2022 for carrying out sections 1952, 1954, and 1955 of this title, of which not more than 5 percent is authorized for each fiscal year for administrative costs.
+* There is authorized to be appropriated to the Administrator $15,000,000 for each of fiscal years 2018 through 2022 for carrying out sections 1952, 1954, and 1955 of this title, of which not more than 7 percent is authorized for each fiscal year for administrative costs.
 
 #### (b) Amounts authorized for Coast Guard
 * Of the amounts authorized for each fiscal year under section 2702(1) of title 14, up to $2,000,000 is authorized for the Secretary of the department in which the Coast Guard is operating for use by the Commandant of the Coast Guard to carry out section 1953 of this title, of which not more than 5 percent is authorized for each fiscal year for administrative costs.
+
+### §1959. Prioritization of marine debris in existing innovation and entrepreneurship programs
+* In carrying out any relevant innovation and entrepreneurship programs that improve the innovation, effectiveness, and efficiency of the Marine Debris Program established under section 1952 of this title without undermining the purpose for which such program was established, the Secretary of Commerce, the Secretary of Energy, the Administrator of the Environmental Protection Agency, and the heads of other relevant Federal agencies, shall prioritize efforts to combat marine debris, including by—
+
+  * (1) increasing innovation in methods and the effectiveness of efforts to identify, determine sources of, assess, prevent, reduce, and remove marine debris; and
+
+  * (2) addressing the impacts of marine debris on—
+
+    * (A) the economy of the United States;
+
+    * (B) the marine environment; and
+
+    * (C) navigation safety.

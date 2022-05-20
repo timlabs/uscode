@@ -12,11 +12,11 @@
 
 * However, sales to civilian officers and employees inside the United States may be made only to those residing within military installations.
 
-### §8802. Sales: members of Army and Air Force; prices
-* The Navy and the Marine Corps shall sell subsistence supplies to any member of the Army or the Air Force at prices charged members of the naval service.
+### §8802. Sales: members of Army, Air Force, and Space Force; prices
+* The Navy and the Marine Corps shall sell subsistence supplies to any member of the Army, the Air Force, or the Space Force at prices charged members of the naval service.
 
 ### §8803. Sales: veterans under treatment
-* A person who has been separated honorably or under honorable conditions from the Army, the Navy, the Air Force, or the Marine Corps and who is receiving care and medical treatment from the Public Health Service or the Department of Veterans Affairs may buy subsistence supplies and other supplies, except articles of uniform, from the Navy and the Marine Corps at prices charged members of the naval service.
+* A person who has been separated honorably or under honorable conditions from the Army, the Navy, the Air Force, the Marine Corps, or the Space Force and who is receiving care and medical treatment from the Public Health Service or the Department of Veterans Affairs may buy subsistence supplies and other supplies, except articles of uniform, from the Navy and the Marine Corps at prices charged members of the naval service.
 
 ### §8804. Ships' stores: sale of goods and services
 * (a) IN GENERAL.—Under such regulations and at such prices as the Secretary of the Navy may prescribe, the Secretary may provide for the sale of goods and services from ships' stores to members of the naval service and to such other persons as provided by law.
@@ -68,7 +68,7 @@
 
 * (c) The Secretary may sell serviceable supplies, other than subsistence supplies, to members of other armed forces for the buyers' use in the service. The prices at which the supplies are sold shall be the same prices at which like property is sold to members of the Navy and Marine Corps.
 
-* (d) A person who has been discharged honorably or under honorable conditions from the Army, Navy, Air Force or Marine Corps and who is receiving care and medical treatment from the Public Health Service or the Department of Veterans Affairs may buy subsistence supplies and other supplies, except articles of uniform, at the prices at which like property is sold to members of the Navy and Marine Corps.
+* (d) A person who has been discharged honorably or under honorable conditions from the Army, Navy, Air Force, Marine Corps, or Space Force and who is receiving care and medical treatment from the Public Health Service or the Department of Veterans Affairs may buy subsistence supplies and other supplies, except articles of uniform, at the prices at which like property is sold to members of the Navy and Marine Corps.
 
 * (e) Under such conditions as the Secretary may prescribe, exterior articles of uniform may be sold to a person who has been discharged honorably or under honorable conditions from the Navy or Marine Corps, at the prices at which like articles are sold to members of the Navy or Marine Corps. This subsection does not modify section 772 or 773 of this title.
 

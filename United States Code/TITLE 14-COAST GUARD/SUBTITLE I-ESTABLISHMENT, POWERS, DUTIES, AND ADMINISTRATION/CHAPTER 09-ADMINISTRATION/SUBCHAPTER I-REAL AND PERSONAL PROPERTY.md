@@ -28,7 +28,7 @@
 * The Coast Guard may employ temporarily, at the seat of government, draftsmen and engineers for the preparation of plans and specifications for vessels, lighthouses, aids to navigation, and other projects for the Coast Guard that may be authorized or appropriated for by Congress, to be paid from the appropriations applicable to such projects.
 
 ### §903. Use of certain appropriated funds
-* (a) Funds appropriated to or for the use of the Coast Guard for acquisition, construction, and improvement of facilities, for research, development, test, and evaluation; and for the alteration of bridges over the navigable waters shall remain available until expended.
+* (a) Funds appropriated to or for the use of the Coast Guard for procurement, construction, and improvement of facilities and for research and development shall remain available until expended.
 
 * (b) The Secretary may use any funds appropriated to or for the use of the Coast Guard for other construction purposes to restore, repair, or replace facilities that have been damaged or destroyed, including acquisition of sites.
 
@@ -36,7 +36,7 @@
 
 * (d) MINOR CONSTRUCTION AND IMPROVEMENT.—
 
-  * (1) IN GENERAL.—Subject to the reporting requirements set forth in paragraph (2), each fiscal year the Secretary may expend from amounts made available for the operating expenses of the Coast Guard not more than $1,500,000 for minor construction and improvement projects at any location.
+  * (1) IN GENERAL.—Subject to the reporting requirements set forth in paragraph (2), each fiscal year the Secretary may expend from amounts made available for the operations and support of the Coast Guard not more than $1,500,000 for minor construction and improvement projects at any location.
 
   * (2) REPORT.—Not later than the date on which the President submits to Congress a budget under section 1105 of title 31 each year, the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report describing each project carried out under paragraph (1), in the most recently concluded fiscal year, for which the amount expended under such paragraph for such project was more than $1,000,000. If no such project was carried out during a fiscal year, no report under this paragraph shall be required with respect to that fiscal year.
 
@@ -197,7 +197,7 @@
   * (3) The term "facility" means a building, structure, or other improvement to real property.
 
 ### §914. Disposition of infrastructure related to E–LORAN
-* (a) IN GENERAL.—The Secretary may not carry out activities related to the dismantling or disposal of infrastructure comprising the LORAN–C system until the date on which the Secretary provides to the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives and the Committee on Commerce, Science, and Transportation and the Committee on Appropriations of the Senate notice of a determination by the Secretary that such infrastructure is not required to provide a positioning, navigation, and timing system to provide redundant capability in the event the Global Positioning System signals are disrupted.
+* (a) IN GENERAL.—The Secretary may not carry out activities related to the dismantling or disposal of infrastructure comprising the LORAN–C system until the later of the date of the conveyance of the properties directed under section 533(a) of the Coast Guard Authorization Act of 2016 (Public Law 114–120) or the date on which the Secretary provides to the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives and the Committee on Commerce, Science, and Transportation and the Committee on Appropriations of the Senate notice of a determination by the Secretary of Transportation under section 312(d) of title 49 that such infrastructure is not required to provide a positioning, navigation, and timing system to provide redundant capability in the event the Global Positioning System signals are disrupted.
 
 * (b) EXCEPTION.—Subsection (a) does not apply to activities necessary for the safety of human life.
 
@@ -205,17 +205,4 @@
 
   * (1) IN GENERAL.—On any date after the notification is made under subsection (a), the Administrator of General Services, acting on behalf of the Secretary, may, notwithstanding any other provision of law, sell any real and personal property under the administrative control of the Coast Guard and used for the LORAN–C system, subject to such terms and conditions that the Secretary believes to be necessary to protect government interests and program requirements of the Coast Guard.
 
-  * (2) AVAILABILITY OF PROCEEDS.—
-
-    * (A) AVAILABILITY OF PROCEEDS.—The proceeds of such sales, less the costs of sale incurred by the General Services Administration, shall be deposited as offsetting collections into the Coast Guard "Environmental Compliance and Restoration" account and, without further appropriation, shall be available until expended for—
-
-      * (i) environmental compliance and restoration purposes associated with the LORAN–C system;
-
-      * (ii) the costs of securing and maintaining equipment that may be used as a backup to the Global Positioning System or to meet any other Federal navigation requirement;
-
-      * (iii) the demolition of improvements on such real property; and
-
-      * (iv) the costs associated with the sale of such real and personal property, including due diligence requirements, necessary environmental remediation, and reimbursement of expenses incurred by the General Services Administration.
-
-
-    * (B) OTHER ENVIRONMENTAL COMPLIANCE AND RESTORATION ACTIVITIES.—After the completion of activities described in subparagraph (A), the unexpended balances of such proceeds shall be available for any other environmental compliance and restoration activities of the Coast Guard.
+  * (2) AVAILABILITY OF PROCEEDS.—The proceeds of such sales, less the costs of sale incurred by the General Services Administration, shall be deposited into the Coast Guard Housing Fund for uses authorized under section 2946 of this title.

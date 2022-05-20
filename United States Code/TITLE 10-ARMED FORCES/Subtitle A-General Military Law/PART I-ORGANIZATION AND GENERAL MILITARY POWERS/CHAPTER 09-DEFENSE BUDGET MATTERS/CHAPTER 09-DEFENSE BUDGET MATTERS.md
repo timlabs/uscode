@@ -50,7 +50,11 @@
 
   * (4) The Commandant of the Marine Corps.
 
-  * (5) The commanders of the combatant commands established under section 161 of this title.
+  * (5) The Chief of Space Operations.
+
+  * (6) The commanders of the combatant commands established under section 161 of this title.
+
+  * (7) The Chief of the National Guard Bureau in the role assigned to that position in section 10502(c)(1) of this title.
 
 
 * (c) ELEMENTS.—
@@ -79,6 +83,22 @@
     * (C) In overall order of urgency of priority among covered military construction projects.
 
 
+  * (3) NATIONAL GUARD UNFUNDED PRIORITIES.—
+
+    * (A) IN GENERAL.—The officer specified under subsection (b)(6) shall only include in a report submitted under subsection (a) such priorities that—
+
+      * (i) relate to equipping requirements in support of non-federalized National Guard responsibilities for the homeland defense or civil support missions; and
+
+      * (ii) except as provided in subparagraph (B), were not included in a report under this section submitted by an officer specified in subsection (b)(1) or (3) for any of five fiscal years preceding the fiscal year for which the report is submitted, on behalf of National Guard forces to address a warfighting requirement.
+
+
+    * (B) EXCEPTION.—The officer specified under subsection (b)(6) may include in a report submitted under subsection (a) an unfunded priority covered by subparagraph (A)(ii) if the Secretary of Defense—
+
+      * (i) determines that the inclusion such unfunded priority reasonably supports the priorities of the Department under the national defense strategy under section 113(g) of this title; and
+
+      * (ii) submits to the congressional defense committees written notice of such determination.
+
+
 * (d) DEFINITIONS.—In this section:
 
   * (1) The term "unfunded priority", in the case of a fiscal year, means a program, activity, or mission requirement, including a covered military construction project, that—
@@ -89,7 +109,7 @@
 
     * (C) would have been recommended for funding through the budget referred to in subparagraph (1) by the officer submitting the report required by subsection (a) in connection with the budget if—
 
-      * (i) additional resources been available for the budget to fund the program, activity, or mission requirement; or
+      * (i) additional resources had been available for the budget to fund the program, activity, or mission requirement; or
 
       * (ii) the program, activity, or mission requirement has emerged since the budget was formulated.
 
@@ -310,9 +330,20 @@
   * (2) a description of the operations and sustainment functions and costs for which a military department is responsible.
 
 ### §226. Special operations forces: display of service-common and other support and enabling capabilities
-* (a) IN GENERAL.—The Secretary shall include, in the budget materials submitted to Congress under section 1105 of title 31 for fiscal year 2021 and any subsequent fiscal year, a consolidated budget justification display showing service-common and other support and enabling capabilities for special operations forces requested by a military service or Defense Agency. Such budget justification display shall include any amount for service-common or other capability development and acquisition, training, operations, pay, base operations sustainment, and other common services and support.
+* (a) IN GENERAL.—The Secretary of Defense and the Secretary of each of the military departments shall include, in the budget materials submitted to Congress under section 1105 of title 31 for fiscal year 2022 and any subsequent fiscal year, a budget justification display for each applicable appropriation showing service-common and other support and enabling capabilities for special operations forces requested by a military service or Defense Agency. Such budget justification displays shall include each of the following:
 
-* (b) SERVICE-COMMON AND OTHER SUPPORT AND ENABLING CAPABILITIES.—In this section, the term "service-common and other support and enabling capabilities" means capabilities provided in support of special operations that are not reflected in Major Force Program–11 or designated as special operations forces-peculiar.
+  * (1) Details at the appropriation and line item level, including any amount for service-common support, acquisition support, training, operations, pay and allowances, base operations sustainment, and any other common services and support.
+
+  * (2) An identification of any change in the level or type of service-common support and enabling capabilities provided by each of the military services or Defense Agencies to special operations forces for the fiscal year covered by the budget justification display when compared to the preceding fiscal year, including the rationale for any such change and any mitigating actions.
+
+  * (3) An assessment of the specific effects that the budget justification display for the fiscal year covered by the display and any anticipated future manpower and force structure changes are likely to have on the ability of each of the military services to provide service-common support and enabling capabilities to special operations forces.
+
+  * (4) Any other matters the Secretary of Defense or the Secretary of a military department determines are relevant.
+
+
+* (b) CONSOLIDATED BUDGET JUSTIFICATION DISPLAY.—The Secretary of Defense shall include, in the budget materials submitted to Congress under section 1105 of title 31, for fiscal year 2022 and any subsequent fiscal year, a consolidated budget justification display containing the same information as is required in the budget justification displays required under subsection (a). Such consolidated budget justification display may be provided as a summary by appropriation for each military department and a summary by appropriation for all Defense Agencies.
+
+* (c) SERVICE-COMMON AND OTHER SUPPORT AND ENABLING CAPABILITIES.—In this section, the term "service-common and other support and enabling capabilities" means capabilities provided in support of special operations that are not reflected in Major Force Program–11 or designated as special operations forces-peculiar.
 
 ### §229. Programs for combating terrorism: display of budget information
 * (a) SUBMISSION WITH ANNUAL BUDGET JUSTIFICATION DOCUMENTS.—The Secretary of Defense shall submit to Congress, as a part of the documentation that supports the President's annual budget for the Department of Defense, a consolidated budget justification display, in classified and unclassified form, that includes all programs and activities of the Department of Defense combating terrorism program.
@@ -336,9 +367,9 @@
 * (e) TERMINATION.—The requirement to submit a budget justification display under this section shall terminate on December 31, 2020.
 
 ### §231. Budgeting for construction of naval vessels: annual plan and certification
-* (a) ANNUAL NAVAL VESSEL CONSTRUCTION PLAN AND CERTIFICATION.—The Secretary of Defense shall include with the defense budget materials for a fiscal year each of the following:
+* (a) ANNUAL NAVAL VESSEL CONSTRUCTION PLAN AND CERTIFICATION.—The Secretary of the Navy shall include with the defense budget materials for a fiscal year each of the following:
 
-  * (1) A plan for the construction of naval vessels developed in accordance with this section for each of the following classes of ships: and
+  * (1) A plan for the construction of naval vessels developed in accordance with this section for each of the following classes of ships:
 
     * (A) Combatant and support vessels.
 
@@ -348,7 +379,7 @@
   * (2) A certification by the Secretary that both the budget for that fiscal year and the future-years defense program submitted to Congress in relation to such budget under section 221 of this title provide for funding of the construction of naval vessels at a level that is sufficient for the procurement of the vessels provided for in the plan under paragraph (1) on the schedule provided in that plan.
 
 
-* (b) ANNUAL NAVAL VESSEL CONSTRUCTION PLAN.—(1) The annual naval vessel construction plan developed for a fiscal year for purposes of subsection (a)(1) shall be designed so that the naval vessel force provided for under that plan supports the national security strategy of the United States as set forth in the most recent national security strategy report of the President under section 108 of the National Security Act of 1947 (50 U.S.C. 3043), except that, if at the time such plan is submitted with the defense budget materials for that fiscal year, a national security strategy report required under such section 108 has not been submitted to Congress as required by paragraph (2) or paragraph (3), if applicable, of subsection (a) of such section, then such annual plan shall be designed so that the naval vessel force provided for under that plan supports the ship force structure recommended in the report of the most recent quadrennial defense review.
+* (b) ANNUAL NAVAL VESSEL CONSTRUCTION PLAN.—(1) The annual naval vessel construction plan developed for a fiscal year for purposes of subsection (a)(1) shall be designed so that the naval vessel force provided for under that plan supports the national security strategy of the United States as set forth in the most recent national security strategy report of the President under section 108 of the National Security Act of 1947 (50 U.S.C. 3043), except that, if at the time such plan is submitted with the defense budget materials for that fiscal year, a national security strategy report required under such section 108 has not been submitted to Congress as required by paragraph (2) or paragraph (3), if applicable, of subsection (a) of such section, then such annual plan shall be designed so that the naval vessel force provided for under that plan supports the ship force structure recommended in the report of the most recent national defense strategy.
 
 * (2) Each such naval vessel construction plan shall include the following:
 
@@ -356,7 +387,7 @@
 
   * (B) A detailed program for the construction of auxiliary vessels for the Navy over the next 30 fiscal years.
 
-  * (C) A description of the necessary naval vessel force structure and capabilities to meet the requirements of the national security strategy of the United States or the most recent quadrennial defense review, whichever is applicable under paragraph (1).
+  * (C) A description of the necessary naval vessel force structure and capabilities to meet the requirements of the national security strategy of the United States or the most recent national defense strategy, whichever is applicable under paragraph (1).
 
   * (D) The estimated levels of annual funding by ship class in both graphical and tabular form necessary to carry out the program, together with a discussion of the procurement strategies on which such estimated levels of annual funding are based.
 
@@ -369,9 +400,9 @@
 
 * (d) CBO EVALUATION.—Not later than 60 days after the date on which the congressional defense committees receive the plan under subsection (a)(1), the Director of the Congressional Budget Office shall submit to such committees a report assessing the sufficiency of the estimated levels of annual funding included in such plan with respect to the budget submitted during the year in which the plan is submitted and the future-years defense program submitted under section 221 of this title.
 
-* (e) LIMITATION ON AVAILABILITY OF FUNDS FOR FISCAL YEARS WITHOUT PLAN AND CERTIFICATION.—(1) If the Secretary of Defense does not include with the defense budget materials for a fiscal year the plan and certification under subsection (a), the Secretary of the Navy may not use more than 50 percent of the funds described in paragraph (2) during the fiscal year in which such materials are submitted until the date on which such plan and certification are submitted to the congressional defense committees.
+* (e) LIMITATION ON AVAILABILITY OF FUNDS FOR FISCAL YEARS WITHOUT PLAN AND CERTIFICATION.—(1) If the Secretary of Defense does not include with the defense budget materials for a fiscal year the plan and certification under subsection (a), the Secretary of Defense may not use more than 25 percent of the funds described in paragraph (2) during the fiscal year in which such materials are submitted until the date on which such plan and certification are submitted to the congressional defense committees.
 
-* (2) The funds described in this paragraph are funds made available to the Secretary of the Navy for operation and maintenance, Navy, for emergencies and extraordinary expenses.
+* (2) The funds described in this paragraph are funds made available to the Secretary of Defense for operation and maintenance, Defense-wide, for emergencies and extraordinary expenses, that remain available for obligation or expenditure as of the date on which the plan and certification under subsection (a) are required to be submitted.
 
 * (f) DEFINITIONS.—In this section:
 
@@ -379,11 +410,115 @@
 
   * (2) The term "defense budget materials", with respect to a fiscal year, means the materials submitted to Congress by the Secretary of Defense in support of the budget for that fiscal year.
 
-  * (3) The term "quadrennial defense review" means the review of the defense programs and policies of the United States that is carried out every four years under section 118 of this title.
+  * (3) The term "national defense strategy" means the review of the defense programs and policies of the United States that is carried out every four years under section 113(g) of this title.
 
   * (4) The term "combatant and support vessel" means any commissioned ship built or armed for naval combat or any naval ship designed to provide support to combatant ships and other naval operations. Such term does not include patrol coastal ships, non-commissioned combatant craft specifically designed for combat roles, or ships that are designated for potential mobilization.
 
   * (5) The term "auxiliary vessel" means any ship designed to operate in the open ocean in a variety of sea states to provide general support to either combatant forces or shore based establishments.
+
+### §231a. Budgeting for life-cycle costs of aircraft for the Army, Navy, and Air Force: annual plan and certification
+* (a) ANNUAL AIRCRAFT PROCUREMENT PLAN AND CERTIFICATION.—Not later than 30 days after the date on which the President submits to Congress the budget for a fiscal year, the Secretary of Defense shall submit to the congressional defense committees the following:
+
+  * (1) A plan for the procurement of the aircraft specified in subsection (b) for each of the Department of the Army, the Department of the Navy, and the Department of the Air Force developed in accordance with this section.
+
+  * (2) A certification by the Secretary that both the budget for such fiscal year and the future-years defense program submitted to Congress in relation to such budget under section 221 of this title provide for funding of the procurement of aircraft at a level that is sufficient for the procurement of the aircraft provided for in the plan under paragraph (1) on the schedule provided in the plan.
+
+
+* (b) COVERED AIRCRAFT.—The aircraft specified in this subsection are the aircraft as follows:
+
+  * (1) Fighter aircraft.
+
+  * (2) Attack aircraft.
+
+  * (3) Bomber aircraft.
+
+  * (4) Intertheater lift aircraft.
+
+  * (5) Intratheater lift aircraft.
+
+  * (6) Intelligence, surveillance, and reconnaissance aircraft.
+
+  * (7) Tanker aircraft.
+
+  * (8) Remotely piloted aircraft.
+
+  * (9) Rotary-wing aircraft.
+
+  * (10) Operational support and executive lift aircraft.
+
+  * (11) Any other major support aircraft designated by the Secretary of Defense for purposes of this section.
+
+
+* (c) ANNUAL AIRCRAFT PROCUREMENT PLAN.—(1) The annual aircraft procurement plan developed for a fiscal year for purposes of subsection (a) should be designed so that the aviation force provided for under the plan is capable of supporting the national military strategy of the United States as set forth in the most recent National Defense Strategy submitted under section 113(g) of this title and the most recent National Military Strategy submitted under section 153(b) of this title.
+
+* (2) Each annual aircraft procurement plan shall include the following:
+
+  * (A) A detailed program for the procurement of the aircraft specified in subsection (b) for each of the Department of the Army, the Department of the Navy, and the Department of the Air Force over the next 15 fiscal years.
+
+  * (B) A description of the aviation force structure necessary to meet the requirements of the national military strategy of the United States.
+
+  * (C) The estimated levels of annual investment funding necessary to carry out each aircraft program, together with a discussion of the procurement strategies on which such estimated levels of annual investment funding are based, set forth in aggregate for the Department of Defense and in aggregate for each military department.
+
+  * (D) The estimated level of annual funding necessary to operate, maintain, sustain, and support each aircraft program throughout the life-cycle of the program, set forth in aggregate for the Department of Defense and in aggregate for each military department.
+
+  * (E) For each of the cost estimates required by subparagraphs (C) and (D)—
+
+    * (i) a description of whether the cost estimate is derived from the cost estimate position of the military department concerned or from the cost estimate position of the Office of Cost Assessment and Program Evaluation;
+
+    * (ii) if the cost estimate position of the military department and the cost estimate position of the Office of Cost Assessment and Program Evaluation differ by more than 5 percent for any aircraft program, an annotated cost estimate difference and sufficient rationale to explain the difference;
+
+    * (iii) the confidence or certainty level associated with the cost estimate for each aircraft program; and
+
+    * (iv) a certification that the calculations from which the cost estimate is derived are based on common cost categories used by the Under Secretary of Defense for Acquisition and Sustainment for calculating the life-cycle cost of an aircraft program.
+
+
+  * (F) An assessment by the Secretary of Defense of the extent to which the combined aircraft forces of the Department of the Army, the Department of the Navy, and the Department of the Air Force meet the national security requirements of the United States.
+
+
+* (3) For any cost estimate required by subparagraph (C) or (D) of paragraph (2) for any aircraft program for which the Secretary is required to include in a report under section 2432 of this title, the source of the cost information used to prepare the annual aircraft plan shall be derived from the Selected Acquisition Report data that the Secretary plans to submit to the congressional defense committees in accordance with subsection (f) of that section for the year for which the annual aircraft procurement plan is prepared.
+
+* (4) Each annual aircraft procurement plan shall be submitted in unclassified form, and shall contain a classified annex. A summary version of the unclassified report shall be made available to the public.
+
+* (d) ASSESSMENT WHEN AIRCRAFT PROCUREMENT BUDGET IS INSUFFICIENT TO MEET APPLICABLE REQUIREMENTS.—If the budget for any fiscal year provides for funding of the procurement of aircraft for the Department of the Army, the Department of the Navy, or the Department of the Air Force at a level that is not sufficient to sustain the aviation force structure specified in the aircraft procurement plan for such Department for that fiscal year under subsection (a), the Secretary shall include with the defense budget materials for that fiscal year an assessment that describes the funding shortfall and discusses the risks associated with the reduced force structure of aircraft that will result from funding aircraft procurement at such level. The assessment shall be coordinated in advance with the commanders of the combatant commands.
+
+* (e) ANNUAL REPORT ON AIRCRAFT INVENTORY.—(1) As part of the annual plan and certification required to be submitted under this section, the Secretary shall include a report on the aircraft in the inventory of the Department of Defense.
+
+* (2) Each report under paragraph (1) shall include the following, for the year covered by such report, the following:
+
+  * (A) The total number of aircraft in the inventory.
+
+  * (B) The total number of the aircraft in the inventory that are active, stated in the following categories (with appropriate subcategories for mission aircraft, training aircraft, dedicated test aircraft, and other aircraft):
+
+    * (i) Primary aircraft.
+
+    * (ii) Backup aircraft.
+
+    * (iii) Attrition and reconstitution reserve aircraft.
+
+
+  * (C) The total number of the aircraft in the inventory that are inactive, stated in the following categories:
+
+    * (i) Bailment aircraft.
+
+    * (ii) Drone aircraft.
+
+    * (iii) Aircraft for sale or other transfer to foreign governments.
+
+    * (iv) Leased or loaned aircraft.
+
+    * (v) Aircraft for maintenance training.
+
+    * (vi) Aircraft for reclamation.
+
+    * (vii) Aircraft in storage.
+
+
+  * (D) The aircraft inventory requirements approved by the Joint Chiefs of Staff.
+
+
+* (3) Each report under paragraph (1) shall set forth each item specified in paragraph (2) separately for the regular component of each armed force and for each reserve component of each armed force and, for each such component, shall set forth each type, model, and series of aircraft provided for in the future-years defense program that covers the fiscal year for which the budget accompanying the plan, certification and report is submitted.
+
+* (f) BUDGET DEFINED.—In this section, the term "budget" means the budget of the President for a fiscal year as submitted to Congress pursuant to section 1105 of title 31.
 
 ### §233. Operation and maintenance budget presentation
 * (a) IDENTIFICATION OF BASELINE AMOUNTS IN O&M JUSTIFICATION DOCUMENTS.—In any case in which the amount requested in the President's budget for a fiscal year for a Department of Defense operation and maintenance program, project, or activity is different from the amount appropriated for that program, project, or activity for the current year, the O&M justification documents supporting that budget shall identify that appropriated amount and the difference between that amount and the amount requested in the budget, stated as an amount and as a percentage.
@@ -490,18 +625,25 @@
 * The Secretary of Defense shall submit to Congress, as a part of the documentation that supports the President's annual budget for the Department of Defense, a budget justification display with respect to embedded mental health providers within each reserve component, including the amount requested for each such component.
 
 ### §238. Cyber mission forces: program elements
-* (a) BUDGET JUSTIFICATION DISPLAY.—The Secretary of Defense shall submit to Congress, as a part of the defense budget materials for fiscal year 2017 and each fiscal year thereafter, a budget justification display that includes—
+* (a) BUDGET JUSTIFICATION DISPLAY.—The Secretary of Defense shall submit to Congress, as a part of the defense budget materials for fiscal year 2021 and each fiscal year thereafter, a budget justification display, in electronic and print formats, that includes—
 
-  * (1) a major force program category for the five-year defense plan of the Department of Defense for the training, manning, and equipping of the cyber mission forces; and
+  * (1) a major force program category for the five-year defense plan of the Department of Defense for the training, manning, and equipping of the cyber mission forces and the cyberspace operations forces; and
 
-  * (2) program elements for the cyber mission forces.
+  * (2) program elements for the cyber mission forces and the cyberspace operations forces.
 
 
-* (b) WAIVER.—The Secretary may waive the requirement under subsection (a) for fiscal year 2017 if the Secretary—
+* (b) WAIVER.—The Secretary may waive the requirement under subsection (a) for fiscal year 2021 if the Secretary—
 
-  * (1) determines the Secretary is unable to comply with such requirement for fiscal year 2017; and
+  * (1) determines the Secretary is unable to comply with such requirement for fiscal year 2021; and
 
-  * (2) establishes a plan to implement the requirement for fiscal year 2018.
+  * (2) establishes a plan to implement the requirement for fiscal year 2022.
+
+
+* (c) SUBMISSION.—The Secretary shall provide the displays described in subsection (a)—
+
+  * (1) in electronic format not later than five days after the submission by the President under section 1105(a) of title 31 of the budget; and
+
+  * (2) in print format not later than 21 days after the submission by the President under section 1105(a) of title 31 of the budget.
 
 ### §239. National security space programs: major force program and budget assessment
 * (a) ESTABLISHMENT OF MAJOR FORCE PROGRAM.—The Secretary of Defense shall establish a unified major force program for national security space programs pursuant to section 222(b) of this title to prioritize national security space activities in accordance with the requirements of the Department of Defense and national security.

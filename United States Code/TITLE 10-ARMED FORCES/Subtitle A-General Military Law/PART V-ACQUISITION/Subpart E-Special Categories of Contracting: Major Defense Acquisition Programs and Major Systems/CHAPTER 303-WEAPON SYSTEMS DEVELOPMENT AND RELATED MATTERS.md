@@ -1,4 +1,0 @@
-### **CHAPTER 303—WEAPON SYSTEMS DEVELOPMENT AND RELATED MATTERS**
-
-### §4071. [Reserved]
-* [Reserved]

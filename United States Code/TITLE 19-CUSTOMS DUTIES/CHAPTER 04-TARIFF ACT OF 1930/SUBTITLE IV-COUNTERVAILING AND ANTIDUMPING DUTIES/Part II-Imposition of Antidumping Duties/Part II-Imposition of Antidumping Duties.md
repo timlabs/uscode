@@ -1,6 +1,6 @@
 ### PART II—IMPOSITION OF ANTIDUMPING DUTIES
 
-### §1673. Imposition of antidumping duties
+### §1673. Antidumping duties imposed
 * If—
 
   * (1) the administering authority determines that a class or kind of foreign merchandise is being, or is likely to be, sold in the United States at less than its fair value, and

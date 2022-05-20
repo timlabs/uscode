@@ -457,9 +457,13 @@
 
   * (8) provide legal assistance necessary to provide effective aid to victims of domestic violence, dating violence, stalking, sex trafficking, or sexual assault who are seeking relief in legal matters arising as a consequence of that abuse or violence, at minimal or no cost to the victims;
 
-  * (9) provide services to address the needs of youth who are victims of domestic violence, dating violence, sexual assault, sex trafficking, or stalking and the needs of youth and children exposed to domestic violence, dating violence, sexual assault, or stalking, including support for the nonabusing parent or the caretaker of the youth or child; and
+  * (9) provide services to address the needs of youth who are victims of domestic violence, dating violence, sexual assault, sex trafficking, or stalking and the needs of youth and children exposed to domestic violence, dating violence, sexual assault, or stalking, including support for the nonabusing parent or the caretaker of the youth or child;
 
-  * (10) develop and promote legislation and policies that enhance best practices for responding to violent crimes against Indian women, including the crimes of domestic violence, dating violence, sexual assault, sex trafficking, and stalking.
+  * (10) develop and promote legislation and policies that enhance best practices for responding to violent crimes against Indian women, including the crimes of domestic violence, dating violence, sexual assault, sex trafficking, and stalking;
+
+  * (11) develop, strengthen, and implement policies, protocols, and training for law enforcement regarding cases of missing or murdered Indians, as described in section 5704 of title 25; and
+
+  * (12) compile and annually report data to the Attorney General related to missing or murdered Indians, as described in section 5705 of title 25.
 
 #### (b) Collaboration
 * All applicants under this section shall demonstrate their proposal was developed in consultation with a nonprofit, nongovernmental Indian victim services program, including sexual assault and domestic violence victim services providers in the tribal or local community, or a nonprofit tribal domestic violence and sexual assault coalition to the extent that they exist. In the absence of such a demonstration, the applicant may meet the requirement of this subsection through consultation with women in the community to be served.

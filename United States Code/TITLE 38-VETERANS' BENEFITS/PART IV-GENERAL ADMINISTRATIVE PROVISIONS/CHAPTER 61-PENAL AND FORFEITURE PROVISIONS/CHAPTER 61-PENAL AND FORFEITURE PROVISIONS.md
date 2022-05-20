@@ -26,10 +26,10 @@
 
 * (b) The Secretary, in the Secretary's discretion, may apportion and pay any part of benefits forfeited under subsection (a) to the dependents of the person forfeiting such benefits. No dependent of any person shall receive benefits by reason of this subsection in excess of the amount to which the dependent would be entitled if such person were dead.
 
-* (c) In the case of any forfeiture under this section there shall be no authority after September 1, 1959 (1) to make an apportionment award pursuant to subsection (b) or (2) to make an award to any person of gratuitous benefits based on any period of military, naval, or air service commencing before the date of commission of the offense.
+* (c) In the case of any forfeiture under this section there shall be no authority after September 1, 1959 (1) to make an apportionment award pursuant to subsection (b) or (2) to make an award to any person of gratuitous benefits based on any period of military, naval, air, or space service commencing before the date of commission of the offense.
 
 ### §6105. Forfeiture for subversive activities
-* (a) Any individual who is convicted after September 1, 1959, of any offense listed in subsection (b) of this section shall, from and after the date of commission of such offense, have no right to gratuitous benefits (including the right to burial in a national cemetery) under laws administered by the Secretary based on periods of military, naval, or air service commencing before the date of the commission of such offense and no other person shall be entitled to such benefits on account of such individual. After receipt of notice of the return of an indictment for such an offense the Secretary shall suspend payment of such gratuitous benefits pending disposition of the criminal proceedings. If any individual whose right to benefits has been terminated pursuant to this section is granted a pardon of the offense by the President of the United States, the right to such benefits shall be restored as of the date of such pardon.
+* (a) Any individual who is convicted after September 1, 1959, of any offense listed in subsection (b) of this section shall, from and after the date of commission of such offense, have no right to gratuitous benefits (including the right to burial in a national cemetery) under laws administered by the Secretary based on periods of military, naval, air, or space service commencing before the date of the commission of such offense and no other person shall be entitled to such benefits on account of such individual. After receipt of notice of the return of an indictment for such an offense the Secretary shall suspend payment of such gratuitous benefits pending disposition of the criminal proceedings. If any individual whose right to benefits has been terminated pursuant to this section is granted a pardon of the offense by the President of the United States, the right to such benefits shall be restored as of the date of such pardon.
 
 * (b) The offenses referred to in subsection (a) of this section are those offenses for which punishment is prescribed in—
 
@@ -63,16 +63,9 @@
   * (C) In any other case in which actual negligence is shown.
 
 
-* (b) REISSUANCE OF MISUSED BENEFITS IN OTHER CASES.—(1) In any case in which a fiduciary described in paragraph (2) misuses all or part of an individual's benefit paid to such fiduciary, the Secretary shall pay to the beneficiary or the beneficiary's successor fiduciary an amount equal to the amount of such benefit so misused.
+* (b) REISSUANCE OF MISUSED BENEFITS IN OTHER CASES.—(1) In any case not covered by subsection (a) in which a fiduciary misuses all or part of an individual's benefit paid to such fiduciary, the Secretary shall pay to the beneficiary or the beneficiary's successor fiduciary an amount equal to the amount of such benefit so misused.
 
-* (2) Paragraph (1) applies to a fiduciary that—
-
-  * (A) is not an individual; or
-
-  * (B) is an individual who, for any month during a period when misuse occurs, serves 10 or more individuals who are beneficiaries under this title.
-
-
-* (3) In any other case in which the Secretary obtains recoupment from a fiduciary who has misused benefits, the Secretary shall promptly remit payment of the recouped amounts to the beneficiary or the beneficiary's successor fiduciary as the case may be.
+* (2) In any other case in which the Secretary obtains recoupment from a fiduciary who has misused benefits, the Secretary shall promptly remit payment of the recouped amounts to the beneficiary or the beneficiary's successor fiduciary as the case may be.
 
 * (c) LIMITATION ON TOTAL AMOUNT PAID.—The total of the amounts paid to a beneficiary (or a beneficiary's successor fiduciary) under this section may not exceed the total benefit amount misused by the fiduciary with respect to that beneficiary.
 

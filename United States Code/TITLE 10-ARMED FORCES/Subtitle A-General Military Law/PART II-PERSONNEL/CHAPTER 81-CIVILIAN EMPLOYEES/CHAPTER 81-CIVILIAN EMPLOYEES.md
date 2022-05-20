@@ -199,7 +199,7 @@
 
   * (2) Voluntary services to be provided for a museum or a natural resources program.
 
-  * (3) Voluntary services to be provided for programs providing services to members of the armed forces and the families of such members, including the following programs:
+  * (3) Voluntary services to be provided for programs providing services to members of the uniformed services and the families of such members, including the following programs:
 
     * (A) Family support programs.
 
@@ -288,6 +288,8 @@
 
 * (4) The Secretary of Defense and, with respect to the Coast Guard when it is not operating as a service in the Navy, the Secretary of Homeland Security shall prescribe regulations to carry out this subsection.
 
+* (g) SECRETARY CONCERNED FOR ACCEPTANCE OF SERVICES FOR PROGRAMS SERVING MEMBERS OF NOAA CORPS AND THEIR FAMILIES.—For purposes of the acceptance of services described in subsection (a)(3), the term "Secretary concerned" in subsection (a) shall include the Secretary of Commerce with respect to members of the commissioned officer corps of the National Oceanic and Atmospheric Administration.
+
 ### §1589. Participation in management of specified non-Federal entities: authorized activities
 * (a) AUTHORIZATION.—(1) The Secretary concerned may authorize an employee described in paragraph (2) to serve without compensation as a director, officer, or trustee, or to otherwise participate, in the management of an entity designated under subsection (b). Any such authorization shall be made on a case-by-case basis, for a particular employee to participate in a specific capacity with a specific designated entity. Such authorization may be made only for the purpose of providing oversight and advice to, and coordination with, the designated entity, and participation of the employee in the activities of the designated entity may not extend to participation in the day-to-day operations of the entity.
 
@@ -367,6 +369,10 @@
 
   * (5) The Joint Special Operations University.
 
+  * (6) The Defense Security Cooperation University.
+
+  * (7) The Defense Institute for Security Governance.
+
 
 * (d) APPLICATION TO FACULTY MEMBERS AT NDU.—In the case of the National Defense University, this section applies with respect to persons selected by the Secretary for employment as professors, instructors, and lecturers at the National Defense University after February 27, 1990.
 
@@ -441,6 +447,20 @@
 * (e) DESIGNATION OF CRITICAL FOREIGN LANGUAGES.—The Secretary shall designate those languages that are critical foreign languages for the purposes of this section. The Secretary shall make such a designation for any foreign language for which there is a shortage of experts in translation or interpretation available to meet requirements of the Secretary or of the head of any other department or agency of the United States for translation or interpretation in the national security interests of the United States.
 
 * (f) LINGUISTIC SERVICES DEFINED.—In this section, the term "linguistic services" means translation or interpretation of communication in a foreign language.
+
+### §1596c. Programming language proficiency: special pay for proficiency beneficial for national security interests
+* (a) AUTHORITY.—The Secretary of Defense, under the sole and exclusive discretion of the Secretary, may pay special pay under this section to an employee of the Department of Defense who—
+
+  * (1) has been certified by the Secretary to be proficient in a computer or digital programming language identified by the Secretary as being a language in which proficiency by civilian personnel of the Department is necessary because of national security interests; and
+
+  * (2) is assigned duties requiring proficiency in that programming language.
+
+
+* (b) RATE.—The rate of special pay for an employee under this section shall be prescribed by the Secretary, but may not exceed 20 percent of the employee's rate of basic pay.
+
+* (c) RELATIONSHIP TO OTHER PAY AND ALLOWANCES.—Special pay under this section is in addition to any other pay or allowances to which the employee is entitled.
+
+* (d) REGULATIONS.—The Secretary of Defense shall prescribe regulations to carry out this section.
 
 ### §1597. Civilian positions: guidelines for reductions
 * (a) REQUIREMENT OF GUIDELINES FOR REDUCTIONS IN CIVILIAN POSITIONS.—Reductions in the number of civilian positions of the Department of Defense during a fiscal year, if any, shall be carried out in accordance with the guidelines established pursuant to subsection (b).
@@ -564,9 +584,9 @@
 
 * (C) Any designation by the Secretary for purposes of subparagraph (A)(i) shall be based on an analysis of current and future Department of Defense workforce requirements.
 
-* (b) TERMINATION OF AUTHORITY.—(1) The authority of the Secretary of Defense under subsection (a)(1) to exercise authorities available under chapter 74 of title 38 for purposes of the recruitment, employment, and retention of civilian health care professionals for the Department of Defense expires December 31, 2020.
+* (b) TERMINATION OF AUTHORITY.—(1) The authority of the Secretary of Defense under subsection (a)(1) to exercise authorities available under chapter 74 of title 38 for purposes of the recruitment, employment, and retention of civilian health care professionals for the Department of Defense expires December 31, 2025.
 
-* (2) The Secretary may not appoint a person to a position of employment under subsection (a)(2) after December 31, 2020.
+* (2) The Secretary may not appoint a person to a position of employment under subsection (a)(2) after December 31, 2025.
 
 ### §1599d. Financial management positions: authority to prescribe professional certification and credential standards
 * (a) AUTHORITY TO PRESCRIBE PROFESSIONAL CERTIFICATION AND CREDENTIAL STANDARDS.—The Secretary of Defense may prescribe professional certification and credential standards for financial management positions within the Department of Defense, including requirements for formal education and requirements for certifications that individuals have met predetermined qualifications set by an agency of Government or by an industry or professional group. Any such professional certification or credential standard shall be prescribed as a Department regulation.
@@ -742,7 +762,7 @@
 
   * (B) shall provide that if the employee of the Department of Defense or of the private-sector organization (as the case may be) fails to carry out the agreement, such employee shall be liable to the United States for payment of all expenses of the assignment, unless that failure was for good and sufficient reason, as determined by the Secretary of Defense; and
 
-  * (C) shall contain language ensuring that such employee of the Department does not improperly use pre-decisional or draft deliberative information that such employee may be privy to or aware of related to Department programing, budgeting, resourcing, acquisition, or procurement for the benefit or advantage of the private-sector organization.
+  * (C) shall contain language ensuring that such employee of the Department does not improperly use information that such employee knows relates to a Department acquisition or procurement for the benefit or advantage of the private-sector organization.
 
 
 * (2) An amount for which an employee is liable under paragraph (1) shall be treated as a debt due the United States.
@@ -787,7 +807,7 @@
 
   * (3) shall not have access to any trade secrets or to any other nonpublic information which is of commercial value to the private-sector organization from which such employee is assigned;
 
-  * (4) may perform work that is considered inherently governmental in nature only when requested in writing by the Secretary of Defense; and
+  * (4) may not perform work that is considered inherently governmental in nature; and
 
   * (5) may not be used to circumvent the provision of section 2461 of this title nor to circumvent any limitation or restriction on the size of the Department's workforce.
 
@@ -828,6 +848,12 @@
 
   * (6) JOINT ARTIFICIAL INTELLIGENCE CENTER.—The Director of the Joint Artificial Intelligence Center may carry out a program of personnel management authority provided in subsection (b) in order to facilitate recruitment of eminent experts in science or engineering for the Center. The authority to carry out the program under this paragraph shall terminate on December 31, 2024.
 
+  * (7) NGA.—The Director of the National Geospatial-Intelligence Agency may carry out a program of personnel management authority provided in subsection (b) in order to facilitate recruitment of eminent experts in science or engineering for research and development projects and to enhance the administration and management of the Agency.
+
+  * (7) SDA.—The Director of the Space Development Agency may carry out a program of personnel management authority provided in subsection (b) in order to facilitate recruitment of eminent experts in science or engineering for research and development projects and to enhance the administration and management of the Agency. The authority to carry out the program under this paragraph shall terminate on December 31, 2025.
+
+  * (8) UNITED STATES CYBER COMMAND.—The Commander of United States Cyber Command may carry out a program of personnel management authority provided in subsection (b) in order to facilitate the recruitment of eminent experts in computer science, data science, engineering, mathematics, and computer network exploitation within the headquarters of United States Cyber Command and the Cyber National Mission Force.
+
 
 * (b) PERSONNEL MANAGEMENT AUTHORITY.—Under a program under subsection (a), the official responsible for administration of the program may—
 
@@ -841,9 +867,15 @@
 
     * (D) in the case of the Strategic Capabilities Office, appoint scientists and engineers to a total of not more than 5 scientific and engineering positions in the Office;
 
-    * (E) in the case of the Defense Innovation Unit, appoint scientists and engineers to a total of not more than 5 scientific and engineering positions in the Unit; and
+    * (E) in the case of the Defense Innovation Unit, appoint scientists and engineers to a total of not more than 5 scientific and engineering positions in the Unit;
 
     * (F) in the case of the Joint Artificial Intelligence Center, appoint scientists and engineers to a total of not more than 5 scientific and engineering positions in the Center;
+
+    * (G) in the case of the National Geospatial-Intelligence Agency, appoint individuals to a total of not more than 7 positions in the Agency, of which not more than 2 such positions may be positions of administration or management in the Agency;
+
+    * (G) in the case of the Space Development Agency, appoint individuals to a total of not more than 10 positions in the Agency, of which not more than 3 such positions may be positions of administration or management of the Agency; and
+
+    * (H) in the case of United States Cyber Command, appoint computer scientists, data scientists, engineers, mathematicians, and computer network exploitation specialists to a total of not more than 10 scientific and engineering positions in the Command;
 
 
   * (2) notwithstanding any provision of title 5 governing the rates of pay or classification of employees in the executive branch, prescribe the rates of basic pay for positions to which employees are appointed under paragraph (1)—
@@ -860,7 +892,26 @@
 
   * (1) IN GENERAL.—Except as provided in paragraph (2), the service of an employee under an appointment under subsection (b)(1) may not exceed four years.
 
-  * (2) EXTENSION.—The official responsible for the administration of a program under subsection (a) may, in the case of a particular employee under the program, extend the period to which service is limited under paragraph (1) by up to two years if the official determines that such action is necessary to promote the efficiency of a laboratory of a military department, the Defense Advanced Research Projects Agency, the Office of Operational Test and Evaluation, the Strategic Capabilities Office, the Defense Innovation Unit, or the Joint Artificial Intelligence Center, as applicable.
+  * (2) EXTENSION.—The official responsible for the administration of a program under subsection (a) may, in the case of a particular employee under the program, extend the period to which service is limited under paragraph (1) by up to two years if the official determines that such action is necessary to promote the efficiency of a laboratory of a military department, the Defense Advanced Research Projects Agency, the Office of Operational Test and Evaluation, the Strategic Capabilities Office, the Defense Innovation Unit, the Joint Artificial Intelligence Center, or the National Geospatial-Intelligence Agency, as applicable.
 
 
 * (d) MAXIMUM AMOUNT OF ADDITIONAL PAYMENTS PAYABLE.—Notwithstanding any other provision of this section or section 5307 of title 5, no additional payments may be paid to an employee under subsection (b)(3) in any calendar year if, or to the extent that, the employee's total annual compensation in such calendar year will exceed the maximum amount of total annual compensation payable at the salary set in accordance with section 104 of title 3.
+
+### §1599i. Recruitment incentives for placement at remote locations
+* (a) RECRUITMENT INCENTIVE.—
+
+  * (1) IN GENERAL.—An individual appointed to a position in the Department of Defense at a covered location may be paid a recruitment incentive in connection with such appointment.
+
+  * (2) AMOUNT.—The amount of a recruitment incentive payable to an individual under this subsection may not exceed the amount equal to—
+
+    * (A) 25 percent of the annual rate of basic pay of the employee for the position concerned as of the date on which the service period in such position agreed to by the individual under paragraph (3) commences; multiplied by
+
+    * (B) the number of years (including fractions of a year) of such service period (not to exceed four years).
+
+
+  * (3) SERVICE AGREEMENT.—To receive a recruitment incentive under this subsection, an individual appointed to a position under paragraph (1) shall enter into an agreement with the Secretary of Defense to complete a period of service at the covered location. The period of obligated service of the individual at such location under the agreement may not exceed four years. The agreement shall include such repayment or alternative employment obligations as the Secretary considers appropriate for failure of the individual to complete the period of obligated service specified in the agreement.
+
+  * (4) COVERED LOCATIONS DEFINED.—In this section, a covered location is a location for which the Secretary of Defense has determined that critical hiring needs are not being met due to the geographic remoteness or isolation or extreme climate conditions of the location.
+
+
+* (b) SUNSET.—Effective on September 30, 2022, the authority provided under subsection (a) shall expire.

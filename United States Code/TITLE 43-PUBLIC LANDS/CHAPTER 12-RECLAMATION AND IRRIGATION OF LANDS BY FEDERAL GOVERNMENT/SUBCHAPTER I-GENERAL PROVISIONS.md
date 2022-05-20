@@ -366,7 +366,11 @@
     * An entity other than an entity described in subparagraph (A) may voluntarily contribute to the costs of implementing a proposal submitted under subsection (a).
 
 #### (i) Contributed funds
-* The Secretary may receive and expend funds contributed by a non-Federal interest for the review and approval of a proposal submitted under subsection (a).
+* #### (1) Contributed funds for corps projects
+  * The Secretary may may receive and expend funds contributed by a non-Federal interest for the review and approval of a proposal submitted under subsection (a).
+
+* #### (2) Contributed funds for other federal reservoir projects
+  * The Secretary is authorized to receive and expend funds from a non-Federal interest to formulate, review, or revise operational documents, pursuant to a proposal submitted in accordance subsection (a), for any reservoir for which the Secretary is authorized to prescribe regulations for the use of storage allocated for flood control or navigation pursuant to section 709 of title 33.
 
 #### (j) Assistance
 * On request by a non-Federal interest, the Secretary may provide technical assistance in the development or implementation of a proposal under subsection (a), including assistance in obtaining necessary permits for construction, if the non-Federal interest contracts with the Secretary to pay all costs of providing the technical assistance.
@@ -458,6 +462,126 @@
   * (1) the interstate transfer of water from the State of Arkansas; or
 
   * (2) the study or demonstration of the potential for the interstate transfer of water from the State of Arkansas.
+
+### §390g–9. Aquifer recharge flexibility
+#### (a) Short title
+* This section may be cited as the "Aquifer Recharge Flexibility Act".
+
+#### (b) Definitions
+* In this section:
+
+* #### (1) Bureau
+  * The term "Bureau" means the Bureau of Reclamation.
+
+* #### (2) Commissioner
+  * The term "Commissioner" means the Commissioner of Reclamation.
+
+* #### (3) Eligible land
+  * The term "eligible land", with respect to a Reclamation project, means land that—
+
+    * (A) is authorized to receive water under State law; and
+
+    * (B) shares an aquifer with land located in the service area of the Reclamation project.
+
+* #### (4) Net water storage benefit
+  * The term "net water storage benefit" means an increase in the volume of water that is—
+
+    * (A) stored in 1 or more aquifers; and
+
+    * (B)(i) available for use within the authorized service area of a Reclamation project; or
+
+    * (ii) stored on a long-term basis to avoid or reduce groundwater overdraft.
+
+* #### (5) Reclamation facility
+  * The term "Reclamation facility" means each of the infrastructure assets that are owned by the Bureau at a Reclamation project.
+
+* #### (6) Reclamation project
+  * The term "Reclamation project" means any reclamation or irrigation project, including incidental features thereof, authorized by Federal reclamation law or the Act of August 11, 1939 (commonly known as the "Water Conservation and Utilization Act") (53 Stat. 1418, chapter 717; 16 U.S.C. 590y et seq.), or constructed by the United States pursuant to such law, or in connection with which there is a repayment or water service contract executed by the United States pursuant to such law, or any project constructed by the Secretary through the Bureau for the reclamation of land.
+
+#### (c) Flexibility to allow greater aquifer recharge in Western States
+* #### (1) Use of Reclamation facilities
+  * #### (A) In general
+    * The Commissioner may allow the use of excess capacity in Reclamation facilities for aquifer recharge of non-Reclamation project water, subject to applicable rates, charges, and public participation requirements, on the condition that—
+
+      * (i) the use—
+
+        * (I) shall not be implemented in a manner that is detrimental to—
+
+          * (aa) any power service or water contract for the Reclamation project; or
+
+          * (bb) any obligations for fish, wildlife, or water quality protection applicable to the Reclamation project;
+
+
+        * (II) shall be consistent with water quality guidelines for the Reclamation project;
+
+        * (III) shall comply with all applicable—
+
+          * (aa) Federal laws; and
+
+          * (bb) policies of the Bureau; and
+
+
+        * (IV) shall comply with all applicable State laws and policies; and
+
+
+      * (ii) the non-Federal party to an existing contract for water or water capacity in a Reclamation facility consents to the use of the Reclamation facility under this subsection.
+
+  * #### (B) Effect on existing contracts
+    * Nothing in this subsection affects a contract—
+
+      * (i) in effect on December 27, 2020; and
+
+      * (ii) under which the use of excess capacity in a Bureau conveyance facility for carriage of non-Reclamation project water for aquifer recharge is allowed.
+
+* #### (2) Aquifer recharge on eligible land
+  * #### (A) In general
+    * Subject to subparagraphs (C) and (D), the Secretary may contract with a holder of a water service or repayment contract for a Reclamation project to allow the contractor, in accordance with applicable State laws and policies—
+
+      * (i) to directly use water available under the contract for aquifer recharge on eligible land; or
+
+      * (ii) to enter into an agreement with an individual or entity to transfer water available under the contract for aquifer recharge on eligible land.
+
+  * #### (B) Authorized project use
+    * The use of a Reclamation facility for aquifer recharge under subparagraph (A) shall be considered an authorized use for the Reclamation project if requested by a holder of a water service or repayment contract for the Reclamation facility.
+
+  * #### (C) Modifications to contracts
+    * The Secretary may contract with a holder of a water service or repayment contract for a Reclamation project under subparagraph (A) if the Secretary determines that a new contract or contract amendment described in that subparagraph is—
+
+      * (i) necessary to allow for the use of water available under the contract for aquifer recharge under this subsection;
+
+      * (ii) in the best interest of the Reclamation project and the United States; and
+
+      * (iii) approved by the contractor that is responsible for repaying the cost of construction, operations, and maintenance of the facility that delivers the water under the contract.
+
+  * #### (D) Requirements
+    * The use of Reclamation facilities for the use or transfer of water for aquifer recharge under this subsection shall be subject to the requirements that—
+
+      * (i) the use or transfer shall not be implemented in a manner that materially impacts any power service or water contract for the Reclamation project; and
+
+      * (ii) before the use or transfer, the Secretary shall determine that the use or transfer—
+
+        * (I) results in a net water storage benefit for the Reclamation project; or
+
+        * (II) contributes to the recharge of an aquifer on eligible land; and
+
+
+      * (iii) the use or transfer complies with all applicable—
+
+        * (I) Federal laws and policies; and
+
+        * (II) interstate water compacts.
+
+* #### (3) Conveyance for aquifer recharge purposes
+  * The holder of a right-of-way, easement, permit, or other authorization to transport water across public land administered by the Bureau of Land Management may transport water for aquifer recharge purposes without requiring additional authorization from the Secretary where the use does not expand or modify the operation of the right-of-way, easement, permit, or other authorization across public land.
+
+* #### (4) Effect
+  * Nothing in this section creates, impairs, alters, or supersedes a Federal or State water right.
+
+* #### (5) Exemption
+  * This section shall not apply to the State of California.
+
+* #### (6) Advisory group
+  * The Secretary may participate in any State-led collaborative, multi-stakeholder advisory group created in any watershed the purpose of which is to monitor, review, and assess aquifer recharge activities.
 
 ### §390h. Program to investigate reclamation and reuse of wastewater and groundwater; general authority
 #### (a) Program established

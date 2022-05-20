@@ -9,9 +9,9 @@
 
   * (2) The term "possessions" includes Guam, American Samoa, and the guano islands.
 
-  * (3) The term "uniformed services" means the Army, Navy, Air Force, Marine Corps, Coast Guard, National Oceanic and Atmospheric Administration, and Public Health Service.
+  * (3) The term "uniformed services" means the Army, Navy, Air Force, Marine Corps, Space Force, Coast Guard, National Oceanic and Atmospheric Administration, and Public Health Service.
 
-  * (4) The term "armed forces" means the Army, Navy, Air Force, Marine Corps, and Coast Guard.
+  * (4) The term "armed forces" means the Army, Navy, Air Force, Marine Corps, Space Force,and Coast Guard.
 
   * (5) The term "Secretary concerned" means—
 
@@ -19,7 +19,7 @@
 
     * (B) the Secretary of the Navy, with respect to matters concerning the Navy, the Marine Corps, and the Coast Guard when it is operating as a service in the Navy;
 
-    * (C) the Secretary of the Air Force, with respect to matters concerning the Air Force;
+    * (C) the Secretary of the Air Force, with respect to matters concerning the Air Force and the Space Force;
 
     * (D) the Secretary of Homeland Security, with respect to matters concerning the Coast Guard when it is not operating as a service in the Navy;
 

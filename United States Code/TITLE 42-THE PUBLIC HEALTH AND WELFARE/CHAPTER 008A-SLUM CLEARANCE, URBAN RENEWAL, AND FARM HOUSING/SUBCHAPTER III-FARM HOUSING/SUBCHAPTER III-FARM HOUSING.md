@@ -799,6 +799,13 @@
 
   * (2) the need for such housing in the area has diminished to the extent that the purpose of the loan, providing housing for domestic farm labor, can no longer be met.
 
+#### (j) Carbon monoxide alarm or detector
+* Housing and related facilities constructed with loans under this section shall contain installed carbon monoxide alarms or detectors that meet or exceed—
+
+  * (1) the standards described in chapters 9 and 11 of the 2018 publication of the International Fire Code, as published by the International Code Council; or
+
+  * (2) any other standards as may be adopted by the Secretary, in collaboration with the Secretary of Housing and Urban Development, including any relevant updates to the International Fire Code, through a notice published in the Federal Register.
+
 ### §1485. Housing and related facilities for elderly persons and families or other persons and families of low income
 #### (a) Direct loans; authorization; terms and conditions; revolving fund; appropriation
 * The Secretary is authorized to make loans to private nonprofit corporations and consumer cooperatives and Indian tribes to provide rental or cooperative housing and related facilities for elderly or handicapped persons or families of low or moderate income or other persons and families of low income in rural areas, in accordance with terms and conditions substantially identical with those specified in section 1472 of this title; except that—
@@ -908,8 +915,14 @@
 
     * (C) during the term of such rental assistance contracts, such State or political subdivision shall make available the amounts required for such rental assistance not less than annually.
 
-#### (m) Standards for housing and related facilities rehabilitated or repaired; establishment, criteria, etc.
-* The Secretary shall establish standards for housing and related facilities rehabilitated or repaired with amounts received under a loan made or insured under this section. Standards established by the Secretary under this subsection shall provide that except for substantial rehabilitation the particular items or systems repaired or rehabilitated must meet appropriate levels of quality or performance comparable to those levels prescribed by the Secretary of Housing and Urban Development for rehabilitation, but shall not require that such items or systems or the remainder of the property meet the standards which are applicable to new construction. The Secretary shall ensure that standards prescribed under this subsection provide decent, safe, and sanitary housing and related facilities.
+#### (m) Standards for housing and related facilities rehabilitated or repaired; carbon monoxide detectors
+* (1) The Secretary shall establish standards for housing and related facilities rehabilitated or repaired with amounts received under a loan made or insured under this section. Standards established by the Secretary under this subsection shall provide that except for substantial rehabilitation the particular items or systems repaired or rehabilitated must meet appropriate levels of quality or performance comparable to those levels prescribed by the Secretary of Housing and Urban Development for rehabilitation, but shall not require that such items or systems or the remainder of the property meet the standards which are applicable to new construction. The Secretary shall ensure that standards prescribed under this subsection provide decent, safe, and sanitary housing and related facilities.
+
+* (2) Housing and related facilities rehabilitated or repaired with amounts received under a loan made or insured under this section shall contain installed carbon monoxide alarms or detectors that meet or exceed—
+
+  * (A) the standards described in chapters 9 and 11 of the 2018 publication of the International Fire Code, as published by the International Code Council; or
+
+  * (B) any other standards as may be adopted by the Secretary, in collaboration with the Secretary of Housing and Urban Development, including any relevant updates to the International Fire Code, through a notice published in the Federal Register.
 
 #### (n) Assistance to projects located on more than one site
 * The Secretary may not deny assistance under this section or section 1490a of this title on the basis that the project involved is to be located on more than one site.

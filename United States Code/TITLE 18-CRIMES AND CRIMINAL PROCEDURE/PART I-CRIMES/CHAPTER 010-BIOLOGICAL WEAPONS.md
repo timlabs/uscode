@@ -29,6 +29,7 @@
 
   * (3) PENALTY.—Whoever knowingly violates this section shall be fined as provided in this title, imprisoned not more than 10 years, or both, but the prohibition contained in this section shall not apply with respect to any duly authorized United States governmental activity.
 
+
 * (b) TRANSFER TO UNREGISTERED PERSON.—
 
   * (1) SELECT AGENTS.—Whoever transfers a select agent to a person who the transferor knows or has reasonable cause to believe is not registered as required by regulations under subsection (b) or (c) of section 351A of the Public Health Service Act shall be fined under this title, or imprisoned for not more than 5 years, or both.

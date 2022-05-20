@@ -1,7 +1,7 @@
 ### SUBCHAPTER I—GENERAL EMPLOYEE MATTERS
 
 ### §701. Placement of employees in military installations
-* The Secretary may place employees of the Department in such Army, Navy, and Air Force installations as may be considered advisable for the purpose of adjudicating disability claims of, and giving aid and advice to, members of the Armed Forces who are about to be discharged or released from active military, naval, or air service.
+* The Secretary may place employees of the Department in such Army, Navy, Air Force, and Space Force installations as may be considered advisable for the purpose of adjudicating disability claims of, and giving aid and advice to, members of the Armed Forces who are about to be discharged or released from active military, naval, air, or space service.
 
 ### §703. Miscellaneous authorities respecting employees
 * (a) The Secretary may furnish and launder such wearing apparel as may be prescribed for employees in the performance of their official duties.

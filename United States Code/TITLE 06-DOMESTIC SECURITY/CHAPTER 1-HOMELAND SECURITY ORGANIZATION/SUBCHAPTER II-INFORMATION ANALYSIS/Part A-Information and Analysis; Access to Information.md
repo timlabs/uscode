@@ -543,7 +543,23 @@
 
   * (10) incorporate law enforcement officers, other emergency response providers, and, as appropriate, the private sector, into all relevant phases of the intelligence and fusion process, consistent with the mission statement developed under paragraph (1), either through full time representatives or liaison relationships with the fusion center to enable the receipt and sharing of information and intelligence.
 
-#### (j) Definitions
+#### (j) Fusion center information sharing strategy
+* Not later than 1 year after March 2, 2020, and not less frequently than once every 5 years thereafter, the Secretary shall develop or update a strategy for Department engagement with fusion centers. Such strategy shall be developed and updated in consultation with the heads of intelligence components of the Department, the Chief Privacy Officer, the Officer for Civil Rights and Civil Liberties, officials of fusion centers, officers designated as Homeland Security Advisors, and the heads of other relevant agencies, as appropriate. Such strategy shall include the following:
+
+  * (1) Specific goals and objectives for sharing information and engaging with fusion centers—
+
+    * (A) through the direct deployment of personnel from intelligence components of the Department;
+
+    * (B) through the use of Department unclassified and classified information sharing systems, including the Homeland Security Information Network and the Homeland Secure Data Network, or any successor systems; and
+
+    * (C) through any additional means.
+
+
+  * (2) The performance metrics to be used to measure success in achieving the goals and objectives referred to in paragraph (1).
+
+  * (3) A 5-year plan for continued engagement with fusion centers.
+
+#### (k) Definitions
 * In this section—
 
   * (1) the term "fusion center" means a collaborative effort of 2 or more Federal, State, local, or tribal government agencies that combines resources, expertise, or information with the goal of maximizing the ability of such agencies to detect, prevent, investigate, apprehend, and respond to criminal or terrorist activity;
@@ -556,7 +572,7 @@
 
   * (5) the term "terrorism information" has the meaning given that term in section 485 of this title.
 
-#### (k) Authorization of appropriations
+#### (l) Authorization of appropriations
 * There is authorized to be appropriated $10,000,000 for each of fiscal years 2008 through 2012, to carry out this section, except for subsection (i), including for hiring officers and intelligence analysts to replace officers and intelligence analysts who are assigned to fusion centers under this section.
 
 ### §124i. Homeland Security Information Sharing Fellows Program
@@ -782,6 +798,78 @@
   * (1) designate the initial Classified Information Advisory Officer; and
 
   * (2) submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security of the House of Representatives a written notification of the designation.
+
+### §124m–1. Departmental coordination on counter threats
+#### (a) Establishment
+* There is authorized in the Department, for a period of 2 years beginning after December 27, 2020, a Counter Threats Advisory Board (in this section referred to as the "Board") which shall—
+
+  * (1) be composed of senior representatives of departmental operational components and headquarters elements; and
+
+  * (2) coordinate departmental intelligence activities and policy and information related to the mission and functions of the Department that counter threats.
+
+#### (b) Charter
+* There shall be a charter to govern the structure and mission of the Board, which shall—
+
+  * (1) direct the Board to focus on the current threat environment and the importance of aligning departmental activities to counter threats under the guidance of the Secretary; and
+
+  * (2) be reviewed and updated as appropriate.
+
+#### (c) Members
+* #### (1) In general
+  * The Board shall be composed of senior representatives of departmental operational components and headquarters elements.
+
+* #### (2) Chair
+  * The Under Secretary for Intelligence and Analysis shall serve as the Chair of the Board.
+
+* #### (3) Members
+  * The Secretary shall appoint additional members of the Board from among the following:
+
+    * (A) The Transportation Security Administration.
+
+    * (B) U.S. Customs and Border Protection.
+
+    * (C) U.S. Immigration and Customs Enforcement.
+
+    * (D) The Federal Emergency Management Agency.
+
+    * (E) The Coast Guard.
+
+    * (F) U.S. Citizenship and Immigration Services.
+
+    * (G) The United States Secret Service.
+
+    * (H) The Cybersecurity and Infrastructure Security Agency.
+
+    * (I) The Office of Operations Coordination.
+
+    * (J) The Office of the General Counsel.
+
+    * (K) The Office of Intelligence and Analysis.
+
+    * (L) The Office of Strategy, Policy, and Plans.
+
+    * (M) The Science and Technology Directorate.
+
+    * (N) The Office for State and Local Law Enforcement.
+
+    * (O) The Privacy Office.
+
+    * (P) The Office for Civil Rights and Civil Liberties.
+
+    * (Q) Other departmental offices and programs as determined appropriate by the Secretary.
+
+#### (d) Meetings
+* The Board shall—
+
+  * (1) meet on a regular basis to discuss intelligence and coordinate ongoing threat mitigation efforts and departmental activities, including coordination with other Federal, State, local, tribal, territorial, and private sector partners; and
+
+  * (2) make recommendations to the Secretary.
+
+#### (e) Terrorism alerts
+* The Board shall advise the Secretary on the issuance of terrorism alerts under section 124 of this title.
+
+#### (f) Prohibition on additional funds
+* No additional funds are authorized to carry out this section.
 
 ### §124n. Protection of certain facilities and assets from unmanned aircraft
 #### (a) Authority

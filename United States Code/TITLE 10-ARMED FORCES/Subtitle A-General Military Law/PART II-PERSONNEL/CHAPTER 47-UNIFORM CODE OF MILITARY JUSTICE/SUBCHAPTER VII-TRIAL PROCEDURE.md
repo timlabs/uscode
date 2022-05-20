@@ -2,7 +2,7 @@
 | Sec. | Art. | &nbsp; |
 | --- | --- | --- |
 | 836. | 36. | President may prescribe rules. |
-| 837. | Art. 37.<sup>1</sup> | Command influence. |
+| 837. | 37. | Command influence. |
 | 838. | 38. | Duties of trial counsel and defense counsel. |
 | 839. | 39. | Sessions. |
 | 840. | 40. | Continuances. |
@@ -22,8 +22,6 @@
 | 853. | 53. | Findings and sentencing. |
 | 853a. | 53a. | Plea agreements. |
 | 854. | 54. | Record of trial. |
-
-* <sup>1</sup>&nbsp;So in original. "Art." probably should not appear.
 
 ### §836. Art. 36. President may prescribe rules
 * (a) Pretrial, trial, and post-trial procedures, including modes of proof, for cases arising under this chapter triable in courts-martial, military commissions and other military tribunals, and procedures for courts of inquiry, may be prescribed by the President by regulations which shall, so far as he considers practicable, apply the principles of law and the rules of evidence generally recognized in the trial of criminal cases in the United States district courts, but which may not, except as provided in chapter 47A of this title, be contrary to or inconsistent with this chapter.

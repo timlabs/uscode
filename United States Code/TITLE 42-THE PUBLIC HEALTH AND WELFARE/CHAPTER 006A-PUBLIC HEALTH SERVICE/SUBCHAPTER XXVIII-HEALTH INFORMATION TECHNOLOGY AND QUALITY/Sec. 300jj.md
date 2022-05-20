@@ -46,7 +46,7 @@
 * #### (13) Qualified electronic health record
   * The term "qualified electronic health record" means an electronic record of health-related information on an individual that—
 
-    * (A) includes patient demographic and clinical health information, such as medical history and problem lists; and
+    * (A) includes patient demographic and clinical health information, such as medical history and problem lists;
 
     * (B) has the capacity—
 
@@ -56,7 +56,10 @@
 
       * (iii) to capture and query information relevant to health care quality; and
 
-      * (iv) to exchange electronic health information with, and integrate such information from other sources.
+      * (iv) to exchange electronic health information with, and integrate such information from other sources; and
+
+
+    * (C) includes, or is capable of including, a real-time benefit tool that conveys patient-specific real-time cost and coverage information with respect to prescription drugs that, with respect to any health information technology certified for electronic prescribing, the technology shall be capable of incorporating the information described in clauses (i) through (iii) of paragraph (2)(B) of section 1395w–104(o) of this title at a time specified by the Secretary but not before the Secretary adopts a standard for such tools as described in paragraph (1) of such section.
 
 * #### (15) State
   * The term "State" means each of the several States, the District of Columbia, Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Northern Mariana Islands.

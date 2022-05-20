@@ -47,9 +47,15 @@
   * (5) Any other issues relating to discrimination, harassment, or assault (including unwanted sexual contact) as the Secretary of Defense considers appropriate.
 
 
-* (d) WHEN SURVEYS REQUIRED.—(1) One of the two Armed Forces Workplace and Gender Relations Surveys shall be conducted in 2014 and then every second year thereafter and the other Armed Forces Workplace and Gender Relations Survey shall be conducted in 2015 and then every second year thereafter, so that one of the two surveys is being conducted each year.
+* (d) WHEN SURVEYS REQUIRED.—(1) The Armed Forces Workplace and Gender Relations Surveys of the Active Duty and the Armed Forces Workplace and Gender Relations Survey of the Reserve Components shall each be conducted once every two years. The surveys may be conducted within the same year or in two separate years, and shall be conducted in a manner designed to reduce the burden of the surveys on members of the armed forces.
 
-* (2) The two Armed Forces Workplace and Equal Opportunity Surveys shall be conducted at least once every four years. The two surveys may not be conducted in the same year.
+* (2) The two Armed Forces Workplace and Equal Opportunity Surveys shall be conducted at least once every four years. The surveys may be conducted within the same year or in two separate years, and shall be conducted in a manner designed to reduce the burden of the surveys on members of the armed forces.
+
+* (3)(A) The Secretary of Defense may postpone the conduct of a survey under this section if the Secretary determines that conducting such survey is not practicable due to a war or national emergency declared by the President or Congress.
+
+* (B) The Secretary shall ensure that a survey postponed under subparagraph (A) is conducted as soon as practicable after the end of the period of war or national emergency concerned, or earlier if the Secretary determines appropriate.
+
+* (C) The Secretary shall notify Congress of a determination under subparagraph (A) not later than 30 days after the date on which the Secretary makes such determination.
 
 * (e) REPORTS TO CONGRESS.—Upon the completion of a survey under this section, the Secretary shall submit to Congress a report containing the results of the survey.
 
@@ -74,6 +80,12 @@
 
 
 * (c) REPORT TO CONGRESS.—Upon the completion of a survey under this section, the Secretary shall submit to Congress a report containing the results of the survey.
+
+* (d) POSTPONEMENT.—(1) The Secretary of Defense may postpone the conduct of a survey under this section if the Secretary determines that conducting such survey is not practicable due to a war or national emergency declared by the President or Congress.
+
+* (2) The Secretary shall ensure that a survey postponed under paragraph (1) is conducted as soon as practicable after the end of the period of war or national emergency concerned, or earlier if the Secretary determines appropriate.
+
+* (3) The Secretary shall notify Congress of a determination under paragraph (1) not later than 30 days after the date on which the Secretary makes such determination.
 
 ### §482. Readiness reports
 * (a) REPORTS AND BRIEFINGS.—(1) Not later than 30 days after the end of the second and fourth quarter of each calendar year, the Secretary of Defense shall submit to Congress a report regarding the military readiness of the active and reserve components. The Secretary of Defense shall submit each such report in writing and shall also submit a copy of each such report to the Chairman of the Joint Chiefs of Staff.
@@ -129,18 +141,103 @@
 
 * (e) CLASSIFICATION OF REPORTS.—A report under this section shall be submitted in unclassified form. To the extent the Secretary of Defense determines necessary, the report may also be submitted in classified form.
 
+### §483. Notifications related to basing decision-making process
+* (a) NOTIFICATION REQUIRED.—At each point in the decision-making process specified in subsection (b), the Secretary concerned shall notify the congressional defense committees of the decision-making process to be used or the decision-making process used, whichever applies—
+
+  * (1) to select a military installation to serve as the first permanent location for a new major headquarters, covered military unit, or major weapon system; or
+
+  * (2) to make a permanent change in the basing of a major headquarters, covered military unit, or major weapon system by relocating the major headquarters, covered military unit, or major weapon system from its current military installation to a different military installation.
+
+
+* (b) DEADLINES FOR SUBMISSION OF NOTICE.—The Secretary concerned shall provide the notice required by subsection (a) within seven days after each of the following decision points during the decision-making process:
+
+  * (1) When the Secretary concerned issues any formal internal guidance to begin the decision-making process regarding the location or relocation of a major headquarters, covered military unit, or major weapon system.
+
+  * (2) When the Secretary concerned selects between two and five military installations as the most likely candidate locations for a major headquarters, covered military unit, or major weapon system in order to subject those installations to additional analysis.
+
+  * (3) When the Secretary concerned selects a specific military installation as the preferred location for the major headquarters, covered military unit, or major weapon system.
+
+
+* (c) REQUIRED ELEMENTS OF NOTIFICATION.—In a notice required by subsection (a), the Secretary concerned shall include at a minimum the following:
+
+  * (1) A description of the manner in which the joint and all-domain training capabilities at each candidate location, if applicable to the type of basing decision-making process at issue, will be or was, whichever applies, comparatively analyzed among candidate military installations, separate from and in addition to the mission criteria to be used or that was used to make the basing decision.
+
+  * (2) A description of the manner in which the airspace and training areas available at each candidate location, if applicable to the type of basing decision-making process at issue, will be or was, whichever applies, comparatively analyzed among candidate military installations, separate from and in addition to the mission criteria to be used or that was used to make the basing decision.
+
+  * (3) A description of the manner in which community support for the basing decision-making process described in subsection (a) will be or was, whichever applies, comparatively analyzed among candidate military installations, including consultation with appropriate State officials and officials of units of local government in which each installation is located regarding matters affecting the local community, such as transportation, utility infrastructure, housing, education, and family support activities. In any case in which the Secretary concerned selects as the preferred location a military installation with less community support compared to other locations, as indicated by such a comparative analysis, an explanation of the operational considerations that formed the basis for such selection.
+
+  * (4) An explanation of how each candidate location will be or was, whichever applies, scored against the factors referred to in the preceding paragraphs, including the weight assigned to each factor.
+
+  * (5) A summary of any internal score cards that will be or were, whichever applies, used to make the basing decision.
+
+
+* (d) NOTICE AND WAIT REQUIREMENTS.—No irrevocable action may be taken to effect or implement a basing decision reached through the decision-making process described in subsection (a) until the end of the 14-day period beginning on the date on which the Secretary concerned submits, in an electronic medium pursuant to section 480 of this title, the notice referred to in subsection (b)(3) regarding a preferred location for the major headquarters, covered military unit, or major weapon system.
+
+* (e) ANNUAL REPORTING REQUIREMENT.—
+
+  * (1) REPORT REQUIRED.—Not later than 10 days after the date on which the budget request for a fiscal year is submitted to Congress under section 1105 of title 31, the Secretary concerned shall submit to the Committees on Armed Services of the House of Representatives and the Senate a report providing the following:
+
+    * (A) An update on the status and anticipated completion date of each decision-making process that was commenced or was underway during the previous two fiscal years regarding the location or relocation of a major headquarters, covered military unit, or major weapon system.
+
+    * (B) A list and description of anticipated basing decisions to be made regarding the location or relocation of a major headquarters, covered military unit, or major weapon system over the period covered by the future-years defense plan.
+
+    * (C) A timeline for a congressional engagement plan to brief the Committees on Armed Services of the House of Representatives and the Senate during the decision-making process and when decision notifications would be provided to interested Members of Congress.
+
+
+  * (2) ELEMENTS OF REPORT.—To satisfy the requirements of paragraph (1)(B), a report under this subsection shall include at a minimum the following:
+
+    * (A) An estimate of the number of members of the armed forces and civilian personnel potentially impacted by the basing decision.
+
+    * (B) The locations to be considered, if already known.
+
+    * (C) The expected timeline for beginning the decision-making process and reaching a final determination.
+
+
+* (f) DEFINITIONS.—In this section:
+
+  * (1) The term "covered military unit" means a unit of the armed forces whose initial assignment to a military installation or relocation from a military installation to a different military installation requires the preparation of an environmental impact statement in accordance with the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
+
+  * (2) The term "major headquarters" means the headquarters of a military unit or command that is the appropriate command of a general officer or flag officer.
+
+  * (3) The term "major weapon system" means a weapon system that is treatable as a major system under section 2302(5) of title.
+
+  * (4) The term "military installation" means a base, camp, post, station, yard, center, homeport facility for any ship, or other activity under the jurisdiction of the Department of Defense, including any leased facility, which is located within any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, the Virgin Islands, the Commonwealth of the Northern Mariana Islands, or Guam. Such term does not include any facility used primarily for civil works, rivers and harbors projects, or flood control projects.
+
+  * (5) The term "Secretary concerned" means—
+
+    * (A) the Secretary of the military department concerned; and
+
+    * (B) the Secretary of Defense with respect to matters concerning the Defense Agencies and the Joint Staff.
+
 ### §484. Quarterly cyber operations briefings
-* (a) BRIEFINGS REQUIRED.—The Secretary of Defense shall provide to the congressional defense committees quarterly briefings on all offensive and significant defensive military operations in cyberspace carried out by the Department of Defense during the immediately preceding quarter.
+* (a) BRIEFINGS REQUIRED.—The Under Secretary of Defense for Policy, the Commander of United States Cyber Command, and the Chairman of the Joint Chiefs of Staff, or designees from each of their offices, shall provide to the congressional defense committees quarterly briefings on all offensive and significant defensive military operations in cyberspace, including clandestine cyber activities, carried out by the Department of Defense during the immediately preceding quarter.
 
 * (b) ELEMENTS.—Each briefing under subsection (a) shall include, with respect to the military operations in cyberspace described in such subsection, the following:
 
-  * (1) An update, set forth separately for each geographic and functional command, that describes the operations carried out by the command and any hostile cyber activity directed at the command.
+  * (1) An update, set forth separately for each applicable geographic and functional command, that describes the operations carried out in the area of operations of that command or by that command.
 
-  * (2) An overview of authorities and legal issues applicable to the operations, including any relevant legal limitations.
+  * (2) An update, set forth for each applicable geographic and functional command, that describes defensive cyber operations executed to protect or defend forces, networks, and equipment in the area of operations of that command.
 
-  * (3) An outline of any interagency activities and initiatives relating to the operations.
+  * (3) An update on relevant authorities and legal issues applicable to operations, including any presidential directives and delegations of authority received since the last quarterly update.
 
-  * (4) Any other matters the Secretary determines to be appropriate.
+  * (4) An overview of critical operational challenges posed by major adversaries or encountered in operational activities conducted since the last quarterly update.
+
+  * (5) An overview of the readiness of the Cyber Mission Forces to perform assigned missions that—
+
+    * (A) addresses all of the abilities of such Forces to conduct cyberspace operations based on capability and capacity of personnel, equipment, training, and equipment condition—
+
+      * (i) using both quantitative and qualitative metrics; and
+
+      * (ii) in a way that is common to all military departments; and
+
+
+    * (B) is consistent with readiness reporting pursuant to section 482 of this title.
+
+
+  * (6) Any other matters that the briefers determine to be appropriate.
+
+
+* (c) DOCUMENTS.—Each briefing under subsection (a) shall include a classified placemat, summarizing the elements specified in paragraphs (1), (2), (3), and (5) of subsection (b), and an unclassified memorandum, summarizing the briefing's contents.
 
 ### §485. Monthly counterterrorism operations briefings
 * (a) BRIEFINGS REQUIRED.—The Secretary of Defense shall provide to the congressional defense committees monthly briefings outlining Department of Defense counterterrorism operations and related activities.

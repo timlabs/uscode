@@ -40,4 +40,4 @@
   * (2) the amount of funds allocated to and the positions authorized for such public diplomacy programs, including bureaus to be created upon the transfer of functions from USIA to the Department.
 
 ### §6553. Sunset of United States Advisory Commission on Public Diplomacy
-* The United States Advisory Commission on Public Diplomacy, established under section 1469 of this title and section 8 of Reorganization Plan Numbered 2 of 1977, shall continue to exist and operate under such provisions of law until October 1, 2020.
+* The United States Advisory Commission on Public Diplomacy, established under section 1469 of this title and section 8 of Reorganization Plan Numbered 2 of 1977, shall continue to exist and operate under such provisions of law until October 1, 2021.

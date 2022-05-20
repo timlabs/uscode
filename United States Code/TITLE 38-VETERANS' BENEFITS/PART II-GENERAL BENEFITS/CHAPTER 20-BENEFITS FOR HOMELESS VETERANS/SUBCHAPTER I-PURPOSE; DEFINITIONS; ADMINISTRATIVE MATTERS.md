@@ -11,7 +11,7 @@
   * (2) The term "grant and per diem provider" means an entity in receipt of a grant under section 2011 or 2012 of this title.
 
 
-* (b) VETERAN DEFINED.—(1) Notwithstanding section 101(2) of this title and except as provided in paragraph (2), for purposes of sections 2011, 2012, 2013, 2044, and 2061 of this title, the term "veteran" means a person who served in the active military, naval, or air service, regardless of length of service, and who was discharged or released therefrom.
+* (b) VETERAN DEFINED.—(1) Notwithstanding section 101(2) of this title and except as provided in paragraph (2), for purposes of sections 2011, 2012, 2013, 2044, and 2061 of this title, the term "veteran" means a person who served in the active military, naval, air, or space service, regardless of length of service, and who was discharged or released therefrom.
 
 * (2) For purposes of paragraph (1), the term "veteran" excludes a person who—
 
@@ -37,4 +37,6 @@
   * (7) Such other programs relating to homeless veterans as may be specified by the Secretary.
 
 
-* (b) VHA CASE MANAGERS.—The Secretary shall ensure that the number of case managers in the Veterans Health Administration is sufficient to assure that every veteran who is provided a housing voucher through section 8(o) of the United States Housing Act of 1937 (42 U.S.C. 1437f(o)) is assigned to, and is seen as needed by, a case manager.
+* (b) VHA CASE MANAGERS.—The Secretary shall ensure that the number of case managers in the Veterans Health Administration is sufficient to assure that every veteran who is provided a housing voucher through section 8(o) of the United States Housing Act of 1937 (42 U.S.C. 1437f(o)) is assigned to, and is seen as needed by, a case manager. In the case of vouchers provided under the HUD–VASH program under section 8(o)(19) of such Act, for purposes of the preceding sentence, the term "veteran" shall have the meaning given such term in section 2002(b) of this title.
+
+* (c) MEMORANDUM OF UNDERSTANDING ON ASSISTANCE FROM INDIAN HEALTH SERVICE.—The Secretary may enter into a memorandum of understanding with the Secretary of Health and Human Services under which case managers of the Indian Health Service may provide case management assistance to veterans who receive housing vouchers under the Tribal Housing and Urban Development-Veterans Affairs Supportive Housing (Tribal HUD-VASH) program of the Department of Housing and Urban Development.

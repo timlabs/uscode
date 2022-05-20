@@ -20,7 +20,7 @@
 
 * (2) In carrying out this program, the Secretary shall be governed by the terms of this chapter and other applicable provisions of law with respect to all nonnuclear aspects of the research, development, and demonstration program; and the policies and provisions of the Atomic Energy Act of 1954 [42 U.S.C. 2011 et seq.], and other provisions of law shall continue to apply to the nuclear research, development, and demonstration program.
 
-* (3) In implementing and conducting the research, development, and demonstration programs pursuant to this chapter, the Secretary shall incorporate programs in specific nonnuclear technologies previously enacted into law, including those established by the Solar Heating and Cooling Demonstration Act of 1974 (Public Law 93–409) [42 U.S.C. 5501 et seq.], the Geothermal Energy Research, Development, and Demonstration Act of 1974 (Public Law 93–410) [30 U.S.C. 1101 et seq.], and the Solar Energy Research, Development, and Demonstration Act of 1974 (Public Law 93–473) [42 U.S.C. 5551 et seq.].
+* (3) In implementing and conducting the research, development, and demonstration programs pursuant to this chapter, the Secretary shall incorporate programs in specific nonnuclear technologies previously enacted into law, including those established by the Solar Heating and Cooling Demonstration Act of 1974 (Public Law 93–409) [42 U.S.C. 5501 et seq.], the Geothermal Energy Research, Development, and Demonstration Act of 1974 (Public Law 93–410), and the Solar Energy Research, Development, and Demonstration Act of 1974 (Public Law 93–473).
 
 ### §5903. Duties and authorities of the Secretary
 * The Secretary shall—
@@ -114,33 +114,31 @@
 
   * (E) to accelerate the commercial demonstration of technologies for producing syncrude and liquid petroleum products from coal: _Provided_, That the Secretary shall invite and consider proposals from potential participants based upon Federal assistance and participation through guaranteed prices or purchase of the products, and recommendations pursuant to this clause shall be accompanied by a report on the viability of using this form of Federal assistance or participation;
 
-  * (F) in accordance with the program authorized by the Geothermal Energy Research, Development, and Demonstration Act of 1974 (Public Law 93–410) [30 U.S.C. 1101 et seq.], to accelerate the commercial demonstration of geothermal energy technologies;
+  * (F) in accordance with the program authorized by the Geothermal Energy Research, Development, and Demonstration Act of 1974 (Public Law 93–410), to accelerate the commercial demonstration of geothermal energy technologies;
 
   * (G) to demonstrate the production of syncrude from oil shale by all promising technologies including in situ technologies;
 
   * (H) to demonstrate new and improved methods for the extraction of petroleum resources, including secondary and tertiary recovery of crude oil;
 
-  * (I) to demonstrate the economics and commercial viability of solar energy for residential and commercial energy supply applications in accordance with the program authorized by the Solar Heating and Cooling Demonstration Act of 1974 (Public Law 93–409) [42 U.S.C. 5501 et seq.];
+  * (I) to demonstrate the economics and commercial viability of solar energy for residential and commercial energy supply applications in accordance with the program authorized by the Solar Heating and Cooling Demonstration Act of 1974 (Public Law 93–409);
 
   * (J) to accelerate the commercial demonstration of environmental control systems for energy technologies developed pursuant to this chapter;
 
   * (K) to investigate the technical and economic feasibility of tidal power for supplying electrical energy;
 
-  * (L) to commercially demonstrate advanced solar energy technologies in accordance with the Solar Energy Research, Development, and Demonstration Act of 1974 (Public Law 93–473) [42 U.S.C. 5551 et seq.];
+  * (L) to determine the economics and commercial viability of the production of synthetic fuels such as hydrogen and methanol;
 
-  * (M) to determine the economics and commercial viability of the production of synthetic fuels such as hydrogen and methanol;
+  * (M) to commercially demonstrate the use of fuel cells for central station electric power generation;
 
-  * (N) to commercially demonstrate the use of fuel cells for central station electric power generation;
+  * (N) to determine the economics and commercial viability of in situ coal gasification;
 
-  * (O) to determine the economics and commercial viability of in situ coal gasification;
+  * (O) to improve techniques for the management of existing energy systems by means of quality control; application of systems analysis, communications, and computer techniques; and public information with the objective of improving the reliability and efficiency of energy supplies and encourage the conservation of energy resources;
 
-  * (P) to improve techniques for the management of existing energy systems by means of quality control; application of systems analysis, communications, and computer techniques; and public information with the objective of improving the reliability and efficiency of energy supplies and encourage the conservation of energy resources;
+  * (P) to improve methods for the prevention and cleanup of marine oil spills;
 
-  * (Q) to improve methods for the prevention and cleanup of marine oil spills;
+  * (Q) to implement the Renewable Energy and Energy Efficiency Technology Competitiveness Act of 1989 (42 U.S.C. 12001 et seq.); and
 
-  * (R) to implement the Renewable Energy and Energy Efficiency Technology Competitiveness Act of 1989 (42 U.S.C. 12001 et seq.); and
-
-  * (S) to implement titles XX through XXIII of the Energy Policy Act of 1992 [42 U.S.C. 13401 et seq., 13451 et seq., 13501 et seq., 13521 et seq.].
+  * (R) to implement titles XX through XXIII of the Energy Policy Act of 1992 [42 U.S.C. 13401 et seq., 13451 et seq., 13501 et seq., 13521 et seq.].
 
 
 * (c) Based upon the comprehensive plan developed under subsection (a), the Secretary, in consultation with the Advisory Board established under section 2302 of the Energy Policy Act of 1992 [42 U.S.C. 13522], shall develop and transmit to the Congress, on or before September 1, 1978, a comprehensive environment and safety program to insure the full consideration and evaluation of all environmental, health, and safety impacts of each element, program, or initiative contained in the nuclear and nonnuclear energy research, development, and demonstration plans. Such program shall be updated and transmitted to the Congress annually as part of the report required under section 5914 of this title.

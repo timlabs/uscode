@@ -145,7 +145,7 @@
 
   * (8) to enable the local educational agency, or consortium of such agencies, or other organizations partnered with such agency or consortium, to establish, expand, or strengthen inter-district and regional magnet programs; and
 
-  * (9) notwithstanding section 1228 of this title, to provide transportation to and from the magnet school, provided that—
+  * (9) to provide transportation to and from the magnet school, provided that—
 
     * (A) such transportation is sustainable beyond the grant period; and
 

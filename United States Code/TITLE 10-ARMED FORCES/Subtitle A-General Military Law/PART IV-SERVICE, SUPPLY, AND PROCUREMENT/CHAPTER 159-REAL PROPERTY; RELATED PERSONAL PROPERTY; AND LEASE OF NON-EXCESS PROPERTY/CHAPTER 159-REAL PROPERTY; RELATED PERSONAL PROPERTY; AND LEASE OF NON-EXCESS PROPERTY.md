@@ -728,7 +728,24 @@
 
 * (d) EFFECT ON OMB CIRCULAR A-76.— The Secretary concerned shall ensure that intergovernmental support agreements authorized by this section are not used to circumvent the requirements of Office of Management and Budget Circular A-76 regarding public-private competitions.
 
-* (e) DEFINITIONS.—In this section:
+* (e) PILOT PROGRAM FOR USE OF COST SAVINGS REALIZED.—(1) Each Secretary concerned shall conduct a pilot program under which the Secretary will make available to the commander of each military installation for which cost savings are realized as a result of an intergovernmental support agreement entered into under this section an amount equal to not less than 25 percent of the amount of such cost savings for that military installation for a fiscal year.
+
+* (2) Amounts made available to an installation commander under paragraph (1) shall be used solely to address sustainment restoration and modernization requirements that have been approved by the major subordinate command or equivalent component.
+
+* (3) With respect to each military installation for which amounts are made available to the installation commander under paragraph (1), the Secretary concerned shall certify, not less frequently than annually for each fiscal year of the pilot program, to the congressional defense committees the following:
+
+  * (A) The name of the installation and the amount of the cost savings achieved at the installation.
+
+  * (B) The source and type of intergovernmental support agreement that achieved the cost savings.
+
+  * (C) The amount of the cost savings made available to the installation commander under paragraph (1).
+
+  * (D) The sustainment restoration and modernization purposes for which the amount made available under paragraph (1) were used.
+
+
+* (4) The authority to conduct the pilot program shall expire September 30, 2025.
+
+* (f) DEFINITIONS.—In this section:
 
   * (1) The term "installation-support services" means those services, supplies, resources, and support typically provided by a local government for its own needs and without regard to whether such services, supplies, resources, and support are provided to its residents generally, except that the term does not include security guard or fire-fighting functions.
 
@@ -854,15 +871,15 @@
 
     * (A) is compatible with environmental requirements; and
 
-    * (B)(i) may eliminate or relieve current or anticipated environmental restrictions that would or might otherwise restrict, impede, or otherwise interfere, whether directly or indirectly, with current or anticipated military training, testing, or operations on the installation; or
-
-    * (ii) maintains or improves military installation resilience; or
+    * (B) may eliminate or relieve current or anticipated environmental restrictions that would or might otherwise restrict, impede, or otherwise interfere, whether directly or indirectly, with current or anticipated military training, testing, or operations on the installation;
 
 
-  * (3) protecting Clear Zone Areas from use or encroachment that is incompatible with the mission of the installation.
+  * (3) maintaining or improving military installation resilience; or
+
+  * (4) protecting Clear Zone Areas from use or encroachment that is incompatible with the mission of the installation.
 
 
-* (b) ELIGIBLE ENTITIES.—An agreement under this section may be entered into with any of the following:
+* (b) ELIGIBLE ENTITIES.—For purposes of this section, an eligible entity is any of the following:
 
   * (1) A State or political subdivision of a State.
 
@@ -873,9 +890,9 @@
 
 * (d) ACQUISITION AND ACCEPTANCE OF PROPERTY AND INTERESTS.—(1) An agreement with an eligible entity or entities under this section shall provide for—
 
-  * (A) the acquisition by the entity or entities of all right, title, and interest in and to any real property, or any lesser interest in the property, as may be appropriate for purposes of this section; and
+  * (A) the acquisition by an eligible entity or entities of all right, title, and interest in and to any real property, or any lesser interest in the property, as may be appropriate for purposes of this section; and
 
-  * (B) the sharing by the United States and the entity or entities of the acquisition costs in accordance with paragraph (3).
+  * (B) the sharing by the United States and an eligible entity or entities of the acquisition costs in accordance with paragraph (3).
 
 
 * (2) Property or interests may not be acquired pursuant to the agreement unless the owner of the property or interests consents to the acquisition.
@@ -919,9 +936,9 @@
   * (iii) The exchange or donation of real property or any interest in real property.
 
 
-* (5)(A) The agreement shall require the entity or entities to transfer to the United States, upon the request of the Secretary concerned, all or a portion of the property or interest acquired under the agreement or a lesser interest therein. No such requirement need be included in the agreement if the property or interest is being transferred to a State, or the agreement requires it to be subsequently transferred to a State, and the Secretary concerned determines that the laws and regulations applicable to the future use of such property or interest provide adequate assurance that the property concerned will be developed and used in a manner appropriate for purposes of this section. The Secretary shall limit such transfer request to the minimum property or interests necessary to ensure that the property concerned is developed and used in a manner appropriate for purposes of this section.
+* (5)(A) The agreement shall require the entity or entities to transfer to the United States, upon the request of the Secretary concerned, all or a portion of the property or interest acquired under the agreement or a lesser interest therein. No such requirement need be included in the agreement if the property or interest is being transferred to a State or another Federal agency, or the agreement requires it to be subsequently transferred to a State or another Federal agency, and the Secretary concerned determines that the laws and regulations applicable to the future use of such property or interest provide adequate assurance that the property concerned will be developed and used in a manner appropriate for purposes of this section. The Secretary shall limit such transfer request to the minimum property or interests necessary to ensure that the property concerned is developed and used in a manner appropriate for purposes of this section.
 
-* (B) Notwithstanding subparagraph (A), if all or a portion of the property or interest acquired under the agreement is subsequently transferred to the United States and administrative jurisdiction over the property is under a Federal official other than a Secretary concerned, the Secretary concerned and that Federal official shall enter into a memorandum of agreement providing, to the satisfaction of the Secretary concerned, for the management of the property or interest concerned in a manner appropriate for purposes of this section. Such memorandum of agreement shall also provide that, should it be proposed that the property or interest concerned be developed or used in a manner not appropriate for purposes of this section, including declaring the property to be excess to the agency's needs or proposing to exchange the property for other property, the Secretary concerned may request that administrative jurisdiction over the property be transferred to the Secretary concerned at no cost, and, upon such a request being made, the administrative jurisdiction over the property shall be transferred accordingly.
+* (B) Notwithstanding subparagraph (A), if all or a portion of the property or interest acquired under the agreement is initially or subsequently transferred to a State or another Federal agency, before that State or other Federal agency may declare the property or interest in excess to its needs or propose to exchange the property or interest, the State or other Federal agency shall give the Secretary concerned reasonable advance notice of its intent. If the Secretary concerned determines it necessary to preserve the purposes of this section, the Secretary concerned may request that administrative jurisdiction over the property be transferred to the Secretary concerned at no cost, and, upon such a request being made, the administrative jurisdiction over the property shall be transferred accordingly. If the Secretary concerned does not make such a request within a reasonable time period, all such rights of the Secretary concerned to request transfer of the property or interest shall remain available to the Secretary concerned with respect to future transfers or exchanges of the property or interest and shall bind all subsequent transferees.
 
 * (6) The Secretary concerned may accept on behalf of the United States any property or interest to be transferred to the United States under the agreement.
 
@@ -946,11 +963,18 @@
   * (E) Such recommendations as the Secretary of Defense considers appropriate for legislative or administrative action in order to improve the efficiency and effectiveness of actions taken pursuant to agreements under this section.
 
 
-* (h) INTERAGENCY COOPERATION IN CONSERVATION PROGRAMS TO AVOID OR REDUCE ADVERSE IMPACTS ON MILITARY READINESS ACTIVITIES.—In order to facilitate interagency cooperation and enhance the effectiveness of actions that will protect both the environment and military readiness, the recipient of funds provided pursuant an agreement under this section or under the Sikes Act (16 U.S.C. 670 et seq.) may, with regard to the lands and waters within the scope of the agreement, use such funds to satisfy any matching funds or cost-sharing requirement of any conservation program of the Department of Agriculture or the Department of the Interior notwithstanding any limitation of such program on the source of matching or cost-sharing funds.
+* (h) INTERAGENCY COOPERATION IN CONSERVATION AND RESILIENCE PROGRAMS TO AVOID OR REDUCE ADVERSE IMPACTS ON MILITARY INSTALLATION RESILIENCE AND MILITARY READINESS ACTIVITIES.—In order to facilitate interagency cooperation and enhance the effectiveness of actions that will protect the environment, military installation resilience, and military readiness, the recipient of funds provided pursuant to an agreement under this section or under the Sikes Act (16 U.S.C. 670 et seq.) may, with regard to the lands and waters within the scope of the agreement, use such funds to satisfy any matching funds or cost-sharing requirement of any conservation or resilience program of any Federal agency notwithstanding any limitation of such program on the source of matching or cost-sharing funds.
 
-* (i) FUNDING.—(1) Except as provided in paragraph (2), funds authorized to be appropriated for operation and maintenance of the Army, Navy, Marine Corps, Air Force, or Defense-wide activities may be used to enter into agreements under this section.
+* (i) FUNDING.—(1) Except as provided in paragraph (2), funds authorized to be appropriated for operation and maintenance of the Army, Navy, Marine Corps, Air Force, Space Force, or Defense-wide activities may be used to enter into agreements under this section.
 
-* (2) In the case of a military installation operated primarily with funds authorized to be appropriated for research, development, test, and evaluation, funds authorized to be appropriated for the Army, Navy, Marine Corps, Air Force, or Defense-wide activities for research, development, test, and evaluation may be used to enter into agreements under this section with respect to the installation.
+* (2) In the case of a military installation operated primarily with funds authorized to be appropriated for research, development, test, and evaluation, funds authorized to be appropriated for the Army, Navy, Marine Corps, Air Force, Space Force, or Defense-wide activities for research, development, test, and evaluation may be used to enter into agreements under this section with respect to the installation.
+
+* (3) Funds obligated to carry out an agreement under this section shall be available for use with regard to any property in the geographic scope specified in the agreement—
+
+  * (A) at the time the funds are obligated; and
+
+  * (B) in any subsequent modification to the agreement.
+
 
 * (j) DEFINITIONS.—In this section:
 
@@ -991,7 +1015,7 @@
   * (5) Fees paid by sources of products in order to obtain favorable display of the products for resale, known as business related management fees.
 
 ### §2686. Utilities and services: sale; expansion and extension of systems and facilities
-* (a) Under such regulations and for such periods and at such prices as he may prescribe, the Secretary concerned or his designee may sell or contract to sell to purchasers within or in the immediate vicinity of an activity of the Army, Navy, Air Force, Marine Corps, or Coast Guard, as the case may be, any of the following utilities and related services, if it is determined that they are not available from another local source and that the sale is in the interest of national defense or in the public interest:
+* (a) Under such regulations and for such periods and at such prices as he may prescribe, the Secretary concerned or his designee may sell or contract to sell to purchasers within or in the immediate vicinity of an activity of the Army, Navy, Air Force, Marine Corps, Space Force, or Coast Guard, as the case may be, any of the following utilities and related services, if it is determined that they are not available from another local source and that the sale is in the interest of national defense or in the public interest:
 
   * (1) Electric power.
 
@@ -1073,22 +1097,51 @@
 
   * (4) The term "legislative day" means a day on which either House of Congress is in session.
 
-### §2687a. Overseas base closures and realignments and basing master plans
-* (a) ANNUAL REPORT ON STATUS OF OVERSEAS CLOSURES AND REALIGNMENTS AND MASTER PLANS.—(1) At the same time that the budget is submitted under section 1105(a) of title 31 for a fiscal year, the Secretary of Defense shall submit to the congressional defense committees and the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives a report on—
+### §2687a. Overseas base closures and realignments and status of United States overseas military locations
+* (a) ANNUAL REPORT ON STATUS OF OVERSEAS CLOSURES AND REALIGNMENTS AND OVERSEAS MILITARY LOCATIONS.—(1) At the same time that the budget is submitted under section 1105(a) of title 31 for a fiscal year, the Secretary of Defense shall submit to the congressional defense committees and the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives a report on—
 
   * (A) the status of overseas base closure and realignment actions undertaken as part of a global defense posture realignment strategy; and
 
-  * (B) the status of development and execution of comprehensive master plans for overseas military main operating bases, forward operating sites, and cooperative security locations.
+  * (B) the status of overseas military locations, whether such a location is designated as an enduring location or contingency location.
 
 
-* (2) A report under paragraph (1) shall address the following:
+* (2) To satisfy the reporting requirement specified in paragraph (1)(B), a report under paragraph (1) shall contain the following:
 
-  * (A) How the master plans described in paragraph (1)(B) would support the security commitments undertaken by the United States pursuant to any international security treaty.
+  * (A) A list of overseas military locations. For any overseas military location established during the previous fiscal year, the reasons for the establishment of the overseas military location.
 
-  * (B) The impact of such plans on the current security environments in the combatant commands, including United States participation in theater security cooperation activities and bilateral partnership, exchanges, and training exercises.
+  * (B) A description of the strategic goal and operational requirements supported by each overseas military location.
 
-  * (C) Any comments of the Secretary of Defense resulting from an interagency review of these plans that includes the Department of State and other Federal departments and agencies that the Secretary of Defense considers necessary for national security.
+  * (C) A list of each construction or facility improvement project carried out by the Department of Defense regardless of the funding source, and each construction or facility improvement project accepted as a payment-in-kind, at overseas military locations during the previous fiscal year if the construction or facility improvement project was not specifically authorized in a Military Construction Authorization Act or congressional notice of the construction or facility improvement project was not provided by another means. Each construction or facility improvement project on the list shall be delineated by project location, project title or description, project cost, including costs covered by the host country, and authority used to undertake the project.
 
+  * (D) For each overseas military location first designated as an enduring location in one of the previous two required reports, a list of required construction and facility improvement projects anticipated to be carried out by the Department of Defense directly or through the acceptance of payments-in-kind during the fiscal year in which the report is submitted and the next four fiscal years. Each construction or facility improvement project on the list shall be delineated by project location, project title or description, estimated project cost, including costs anticipated to be covered by the host country, and authority to be used to undertake the project.
+
+  * (E) An overview of any annual lease or access costs to the United States for each overseas military location designated as an enduring location.
+
+  * (F) A description of any plans to transition an existing contingency overseas military location to an enduring overseas military location, or to upgrade or downgrade the designation of an existing enduring or contingency overseas military location, during the fiscal year in which the report is submitted.
+
+  * (G) A list of any overseas military locations that, during the previous fiscal year, were transferred to the control of security forces of the host country or another military force, closed, or for any other reason no longer used by the armed forces, including a summary of any costs associated with the transfer or closure of the overseas military location.
+
+  * (H) A summary of any force protection risks identified for cooperative security locations and contingency locations, the actions proposed to mitigate such risks, and the resourcing and implementation plan to implement the mitigation actions.
+
+  * (I) Such other such matters related to overseas military locations as the Secretary of Defense considers appropriate.
+
+
+* (3) In this subsection:
+
+  * (A)(i) The term "overseas military location" covers both enduring locations and contingency locations established outside the United States.
+
+  * (ii) An enduring location is primarily characterized either by the presence of permanently assigned United States forces with robust infrastructure and quality of life amenities to support that presence, by the sustained presence of allocated United States forces with infrastructure and quality of life amenities consistent with that presence, or by the periodic presence of allocated United States forces with little or no permanent United States military presence or controlled infrastructure. Enduring locations include main operating bases, forward operating sites, and cooperative security locations.
+
+  * (iii) A contingency location refers to a location outside of the United States that is not covered by subparagraph (B), but that is used by United States forces to support and sustain operations during named and unnamed contingency operations or other operations as directed by appropriate authority and is categorized by mission life-cycle requirements as initial, temporary, or semi-permanent.
+
+  * (B)(i) The term "construction or facility improvement project" includes any construction, development, conversion, or extension of a building, structure, or other improvement to real property carried out at an overseas military location, whether to satisfy temporary or permanent requirements, and any acquisition of land for an overseas military location.
+
+  * (ii) The term does not include repairs to a building, structure, or other improvement to real property, unless the building, structure, or other improvement cannot effectively be used for its designated functional purpose in the absence of the repairs.
+
+
+* (4) The Secretary of Defense shall prepare the report under paragraph (1) in coordination with the Under Secretary of Defense for Policy and the Under Secretary of Defense for Acquisition and Sustainment.
+
+* (5) A report under paragraph (1) shall be submitted in unclassified form, but may contain a classified annex as necessary.
 
 * (b) DEPARTMENT OF DEFENSE OVERSEAS MILITARY FACILITY INVESTMENT RECOVERY ACCOUNT.—(1) Except as provided in subsection (c), amounts paid to the United States, pursuant to any treaty, status of forces agreement, or other international agreement to which the United States is a party, for the residual value of real property or improvements to real property used by civilian or military personnel of the Department of Defense shall be deposited into the Department of Defense Overseas Military Facility Investment Recovery Account.
 
@@ -1118,7 +1171,7 @@
   * (C) A certification that the project is included in the current future-years defense program.
 
 
-* (2) Before concluding an agreement for acceptance of host nation support or host nation payment of operating costs of United States forces as a payment-in-kind, the Secretary of Defense shall submit to the congressional defense committees a notification on the proposed agreement. Any such notification shall contain the following:
+* (2) Before concluding an agreement for acceptance of host country support or host country payment of operating costs of United States forces as a payment-in-kind, the Secretary of Defense shall submit to the congressional defense committees a notification on the proposed agreement. Any such notification shall contain the following:
 
   * (A) A description of each activity to be covered by the payment-in-kind.
 
@@ -1194,7 +1247,7 @@
 
 * (d) CONTRACTS FOR UTILITY SERVICES.—(1) Except as provided in paragraph (2), a contract for the receipt of utility services as consideration under subsection (c), or any other contract for utility services entered into by the Secretary concerned in connection with the conveyance of a utility system under this section, may be for a period not to exceed 10 years.
 
-* (2) The Secretary of Defense, or the designee of the Secretary, may authorize a contract for utility services described in paragraph (1) to have a term in excess of 10 years, but not to exceed 50 years, if the Secretary determines that a contract for a longer term will be cost effective. The determination of cost effectiveness shall be made using a business case analysis that includes an independent estimate of the level of investment that should be required to maintain adequate operation of the utility system over the proposed term of the contract. The business case analysis must also demonstrate how a privatized system will operate in a manner consistent with subsection (g)(3).
+* (2) The Secretary concerned may authorize a contract for utility services described in paragraph (1) or the renewal of such a contract to have a term in excess of 10 years, but not to exceed 50 years, if the Secretary concerned determines that a contract for a longer term will be cost effective. The determination of cost effectiveness shall be made using a business case analysis that includes an independent estimate of the level of investment that should be required to maintain adequate operation of the utility system over the proposed term of the contract or contract renewal. The business case analysis must also demonstrate how a privatized system will operate in a manner consistent with subsection (g)(3). A renewal of a contract pursuant to this paragraph may be entered into only within the last five years of the existing contract term.
 
 * (e) TREATMENT OF PAYMENTS.—(1) A lump sum payment received under subsection (c) shall be credited, at the election of the Secretary concerned—
 

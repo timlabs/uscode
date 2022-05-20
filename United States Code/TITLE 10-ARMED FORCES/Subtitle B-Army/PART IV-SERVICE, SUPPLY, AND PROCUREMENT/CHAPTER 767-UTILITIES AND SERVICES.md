@@ -35,3 +35,16 @@
   * (1) The term "United States Army Military History Institute" means the archive for historical records and materials of the Army that the Secretary of the Army designates as the primary archive for such records and materials.
 
   * (2) The terms "officer of the United States" and "employee of the United States" have the meanings given the terms "officer" and "employee", respectively, in sections 2104 and 2105, respectively, of title 5.
+
+### §7596. Provision of goods and services at Kwajalein Atoll
+* (a) AUTHORITY.—(1) Except as provided in paragraph (2), the Secretary of the Army, with the concurrence of the Secretary of State, may provide goods and services, including interatoll transportation, to the Government of the Republic of the Marshall Islands and other eligible patrons, as determined by the Secretary of the Army, at Kwajalein Atoll.
+
+* (2) The Secretary of the Army may not provide goods or services under this section if doing so would be inconsistent, as determined by the Secretary of State, with the Compact of Free Association between the Government of the United States and the Government of the Republic of the Marshall Islands or any subsidiary agreement or implementing arrangement.
+
+* (b) REIMBURSEMENT.—(1) The Secretary of the Army may collect reimbursement from the Government of the Republic of the Marshall Islands and eligible patrons for the provision of goods or services under subsection (a).
+
+* (2) The amount collected for goods or services under this subsection may not be greater than the total amount of actual costs to the United States for providing the goods or services.
+
+* (c) NECESSARY EXPENSES.—Amounts appropriated to the Department of the Army may be used for necessary expenses associated with providing goods and services under this section.
+
+* (d) REGULATIONS.—The Secretary of the Army shall issue regulations to carry out this section.

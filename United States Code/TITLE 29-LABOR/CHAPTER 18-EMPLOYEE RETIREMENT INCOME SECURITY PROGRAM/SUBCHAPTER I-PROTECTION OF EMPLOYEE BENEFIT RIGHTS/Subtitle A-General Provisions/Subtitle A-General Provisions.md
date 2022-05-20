@@ -103,6 +103,13 @@
 
 * shall, for purposes of this subchapter, be treated as welfare plans rather than pension plans. In the case of any arrangement or payment a principal effect of which is the evasion of the standards or purposes of this chapter applicable to pension plans, such arrangement or payment shall be treated as a pension plan. An applicable voluntary early retirement incentive plan (as defined in section 457(e)(11)(D)(ii) of title 26) making payments or supplements described in section 457(e)(11)(D)(i) of title 26, and an applicable employment retention plan (as defined in section 457(f)(4)(C) of title 26) making payments of benefits described in section 457(f)(4)(A) of title 26, shall, for purposes of this subchapter, be treated as a welfare plan (and not a pension plan) with respect to such payments and supplements.
 
+* (C) A pooled employer plan shall be treated as—
+
+  * (i) a single employee pension benefit plan or single pension plan; and
+
+  * (ii) a plan to which section 1060(a) of this title applies.
+
+
 * (3) The term "employee benefit plan" or "plan" means an employee welfare benefit plan or an employee pension benefit plan or a plan which is both an employee welfare benefit plan and an employee pension benefit plan.
 
 * (4) The term "employee organization" means any labor union or any organization of any kind, or any agency or employee representation committee, association, group, or plan, in which employees participate and which exists for the purpose, in whole or in part, of dealing with employers concerning an employee benefit plan, or other matters incidental to employment relationships; or any employees' beneficiary association organized for the purpose in whole or in part, of establishing such a plan.
@@ -177,7 +184,7 @@
   * (iii) in the case of a plan for which an administrator is not designated and a plan sponsor cannot be identified, such other person as the Secretary may by regulation prescribe.
 
 
-* (B) The term "plan sponsor" means (i) the employer in the case of an employee benefit plan established or maintained by a single employer, (ii) the employee organization in the case of a plan established or maintained by an employee organization, or (iii) in the case of a plan established or maintained by two or more employers or jointly by one or more employers and one or more employee organizations, the association, committee, joint board of trustees, or other similar group of representatives of the parties who establish or maintain the plan.
+* (B) The term "plan sponsor" means (i) the employer in the case of an employee benefit plan established or maintained by a single employer, (ii) the employee organization in the case of a plan established or maintained by an employee organization, (iii) in the case of a plan established or maintained by two or more employers or jointly by one or more employers and one or more employee organizations, the association, committee, joint board of trustees, or other similar group of representatives of the parties who establish or maintain the plan, or (iv) in the case of a pooled employer plan, the pooled plan provider.
 
 * (17) The term "separate account" means an account established or maintained by an insurance company under which income, gains, and losses, whether or not realized, from assets allocated to such account, are, in accordance with the applicable contract, credited to or charged against such account without regard to other income, gains, or losses of the insurance company.
 
@@ -402,9 +409,93 @@
 
 * (41) SINGLE-EMPLOYER PLAN.—The term "single-employer plan" means an employee benefit plan other than a multiemployer plan.
 
-* (41) The term "single-employer plan" means a plan which is not a multiemployer plan.
-
 * (42) the term "plan assets" means plan assets as defined by such regulations as the Secretary may prescribe, except that under such regulations the assets of any entity shall not be treated as plan assets if, immediately after the most recent acquisition of any equity interest in the entity, less than 25 percent of the total value of each class of equity interest in the entity is held by benefit plan investors. For purposes of determinations pursuant to this paragraph, the value of any equity interest held by a person (other than such a benefit plan investor) who has discretionary authority or control with respect to the assets of the entity or any person who provides investment advice for a fee (direct or indirect) with respect to such assets, or any affiliate of such a person, shall be disregarded for purposes of calculating the 25 percent threshold. An entity shall be considered to hold plan assets only to the extent of the percentage of the equity interest held by benefit plan investors. For purposes of this paragraph, the term "benefit plan investor" means an employee benefit plan subject to part 4, any plan to which section 4975 of title 26 applies, and any entity whose underlying assets include plan assets by reason of a plan's investment in such entity.
+
+* (43) POOLED EMPLOYER PLAN.—
+
+  * (A) IN GENERAL.—The term "pooled employer plan" means a plan—
+
+    * (i) which is an individual account plan established or maintained for the purpose of providing benefits to the employees of 2 or more employers;
+
+    * (ii) which is a plan described in section 401(a) of title 26 which includes a trust exempt from tax under section 501(a) of title 26 or a plan that consists of individual retirement accounts described in section 408 of title 26 (including by reason of subsection (c) thereof); and
+
+    * (iii) the terms of which meet the requirements of subparagraph (B).
+
+
+* Such term shall not include a plan maintained by employers which have a common interest other than having adopted the plan.
+
+  * (B) REQUIREMENTS FOR PLAN TERMS.—The requirements of this subparagraph are met with respect to any plan if the terms of the plan—
+
+    * (i) designate a pooled plan provider and provide that the pooled plan provider is a named fiduciary of the plan;
+
+    * (ii) designate one or more trustees meeting the requirements of section 408(a)(2) of title 26 (other than an employer in the plan) to be responsible for collecting contributions to, and holding the assets of, the plan and require such trustees to implement written contribution collection procedures that are reasonable, diligent, and systematic;
+
+    * (iii) provide that each employer in the plan retains fiduciary responsibility for—
+
+      * (I) the selection and monitoring in accordance with section 1104(a) of this title of the person designated as the pooled plan provider and any other person who, in addition to the pooled plan provider, is designated as a named fiduciary of the plan; and
+
+      * (II) to the extent not otherwise delegated to another fiduciary by the pooled plan provider and subject to the provisions of section 1104(c) of this title, the investment and management of the portion of the plan's assets attributable to the employees of the employer (or beneficiaries of such employees);
+
+
+    * (iv) provide that employers in the plan, and participants and beneficiaries, are not subject to unreasonable restrictions, fees, or penalties with regard to ceasing participation, receipt of distributions, or otherwise transferring assets of the plan in accordance with section 1058 of this title or paragraph (44)(C)(i)(II);
+
+    * (v) require—
+
+      * (I) the pooled plan provider to provide to employers in the plan any disclosures or other information which the Secretary may require, including any disclosures or other information to facilitate the selection or any monitoring of the pooled plan provider by employers in the plan; and
+
+      * (II) each employer in the plan to take such actions as the Secretary or the pooled plan provider determines are necessary to administer the plan or for the plan to meet any requirement applicable under this chapter or title 26 to a plan described in section 401(a) of title 26 or to a plan that consists of individual retirement accounts described in section 408 of title 26 (including by reason of subsection (c) thereof), whichever is applicable, including providing any disclosures or other information which the Secretary may require or which the pooled plan provider otherwise determines are necessary to administer the plan or to allow the plan to meet such requirements; and
+
+
+    * (vi) provide that any disclosure or other information required to be provided under clause (v) may be provided in electronic form and will be designed to ensure only reasonable costs are imposed on pooled plan providers and employers in the plan.
+
+
+  * (C) EXCEPTIONS.—The term "pooled employer plan" does not include—
+
+    * (i) a multiemployer plan; or
+
+    * (ii) a plan established before December 20, 2019, unless the plan administrator elects that the plan will be treated as a pooled employer plan and the plan meets the requirements of this subchapter applicable to a pooled employer plan established on or after such date.
+
+
+  * (D) TREATMENT OF EMPLOYERS AS PLAN SPONSORS.—Except with respect to the administrative duties of the pooled plan provider described in paragraph (44)(A)(i), each employer in a pooled employer plan shall be treated as the plan sponsor with respect to the portion of the plan attributable to employees of such employer (or beneficiaries of such employees).
+
+
+* (44) POOLED PLAN PROVIDER.—
+
+  * (A) IN GENERAL.—The term "pooled plan provider" means a person who—
+
+    * (i) is designated by the terms of a pooled employer plan as a named fiduciary, as the plan administrator, and as the person responsible for the performance of all administrative duties (including conducting proper testing with respect to the plan and the employees of each employer in the plan) which are reasonably necessary to ensure that—
+
+      * (I) the plan meets any requirement applicable under this chapter or title 26 to a plan described in section 401(a) of title 26 or to a plan that consists of individual retirement accounts described in section 408 of title 26 (including by reason of subsection (c) thereof), whichever is applicable; and
+
+      * (II) each employer in the plan takes such actions as the Secretary or pooled plan provider determines are necessary for the plan to meet the requirements described in subclause (I), including providing the disclosures and information described in paragraph (43)(B)(v)(II);
+
+
+    * (ii) registers as a pooled plan provider with the Secretary, and provides to the Secretary such other information as the Secretary may require, before beginning operations as a pooled plan provider;
+
+    * (iii) acknowledges in writing that such person is a named fiduciary, and the plan administrator, with respect to the pooled employer plan; and
+
+    * (iv) is responsible for ensuring that all persons who handle assets of, or who are fiduciaries of, the pooled employer plan are bonded in accordance with section 1112 of this title.
+
+
+  * (B) AUDITS, EXAMINATIONS AND INVESTIGATIONS.—The Secretary may perform audits, examinations, and investigations of pooled plan providers as may be necessary to enforce and carry out the purposes of this paragraph and paragraph (43).
+
+  * (C) GUIDANCE.—The Secretary shall issue such guidance as the Secretary determines appropriate to carry out this paragraph and paragraph (43), including guidance—
+
+    * (i) to identify the administrative duties and other actions required to be performed by a pooled plan provider under either such paragraph; and
+
+    * (ii) which requires in appropriate cases that if an employer in the plan fails to take the actions required under subparagraph (A)(i)(II)—
+
+      * (I) the assets of the plan attributable to employees of such employer (or beneficiaries of such employees) are transferred to a plan maintained only by such employer (or its successor), to an eligible retirement plan as defined in section 402(c)(8)(B) of title 26 for each individual whose account is transferred, or to any other arrangement that the Secretary determines is appropriate in such guidance; and
+
+      * (II) such employer (and not the plan with respect to which the failure occurred or any other employer in such plan) shall, except to the extent provided in such guidance, be liable for any liabilities with respect to such plan attributable to employees of such employer (or beneficiaries of such employees).
+
+
+  * The Secretary shall take into account under clause (ii) whether the failure of an employer or pooled plan provider to provide any disclosures or other information, or to take any other action, necessary to administer a plan or to allow a plan to meet requirements described in subparagraph (A)(i)(II) has continued over a period of time that demonstrates a lack of commitment to compliance. The Secretary may waive the requirements of subclause (ii)(I) in appropriate circumstances if the Secretary determines it is in the best interests of the employees of the employer referred to in such clause (and the beneficiaries of such employees) to retain the assets in the plan with respect to which the employer's failure occurred.
+
+
+  * (D) GOOD FAITH COMPLIANCE WITH LAW BEFORE GUIDANCE.—An employer or pooled plan provider shall not be treated as failing to meet a requirement of guidance issued by the Secretary under subparagraph (C) if, before the issuance of such guidance, the employer or pooled plan provider complies in good faith with a reasonable interpretation of the provisions of this paragraph, or paragraph (43), to which such guidance relates.
+
+  * (E) AGGREGATION RULES.—For purposes of this paragraph, in determining whether a person meets the requirements of this paragraph to be a pooled plan provider with respect to any plan, all persons who perform services for the plan and who are treated as a single employer under subsection (b), (c), (m), or (o) of section 414 of title 26 shall be treated as one person.
 
 ### §1003. Coverage
 #### (a) In general

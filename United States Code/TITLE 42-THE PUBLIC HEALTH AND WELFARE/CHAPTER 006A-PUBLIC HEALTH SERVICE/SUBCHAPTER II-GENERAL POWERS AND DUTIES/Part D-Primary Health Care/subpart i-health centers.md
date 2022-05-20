@@ -167,9 +167,11 @@
 
     * (E) expanding the use of telehealth and technology-enabled collaborative learning and capacity building models;
 
-    * (F) care integration, including integration of behavioral health, mental health, or substance use disorder services; and
+    * (F) care integration, including integration of behavioral health, mental health, or substance use disorder services;
 
-    * (G) addressing emerging public health or substance use disorder issues to meet the health needs of the population served by the health center.
+    * (G) addressing emerging public health or substance use disorder issues to meet the health needs of the population served by the health center; and
+
+    * (H) improving access to recommended immunizations.
 
 * #### (2) Sustainability
   * In making supplemental awards under this subsection, the Secretary may consider whether the health center involved has submitted a plan for continuing the activities funded under this subsection after supplemental funding is expended.
@@ -611,6 +613,9 @@
 * #### (5) Funding for participation of health centers in All of Us Research Program
   * In addition to any amounts made available pursuant to paragraph (1) of this subsection, section 282a of this title, or section 254b–2 of this title, there is authorized to be appropriated, and there is appropriated, out of any monies in the Treasury not otherwise appropriated, to the Secretary $25,000,000 for fiscal year 2018 to support the participation of health centers in the All of Us Research Program under the Precision Medicine Initiative under section 289g–5 of this title.
 
+* #### (6) Additional amounts for supplemental awards
+  * In addition to any amounts made available pursuant to this subsection, section 282a of this title, or section 254b—2 of this title, there is authorized to be appropriated, and there is appropriated, out of any monies in the Treasury not otherwise appropriated, $1,320,000,000 for fiscal year 2020 for supplemental awards under subsection (d) for the detection of SARS–CoV–2 or the prevention, diagnosis, and treatment of COVID–19.
+
 ### §254b–1. State grants to health care providers who provide services to a high percentage of medically underserved populations or other special populations
 #### (a) In general
 * A State may award grants to health care providers who treat a high percentage, as determined by such State, of medically underserved populations or other special populations in such State.
@@ -637,7 +642,7 @@
 
     * (E) $3,600,000,000 for each of fiscal years 2015 through 2017; and
 
-    * (F) $3,800,000,000 for fiscal year 2018, $4,000,000,000 for fiscal year 2019, and $2,575,342,466 for the period beginning on October 1, 2019, and ending on May 22, 2020; and
+    * (F) $3,800,000,000 for fiscal year 2018 and $4,000,000,000 for each of fiscal years 2019 through 2023; and
 
 
   * (2) to be transferred to the Secretary of Health and Human Services to provide enhanced funding for the National Health Service Corps—
@@ -652,9 +657,11 @@
 
     * (E) $310,000,000 for each of fiscal years 2015 through 2017;
 
-    * (F) $310,000,000 for each of fiscal years 2018 and 2019; and
+    * (F) $310,000,000 for each of fiscal years 2018 and 2019;
 
-    * (G) $199,589,041 for the period beginning on October 1, 2019, and ending on May 22, 2020.
+    * (G) $310,000,000 for fiscal year 2020; and
+
+    * (H) $310,000,000 for each of fiscal years 2021 through 2023.
 
 #### (c) Construction
 * There is authorized to be appropriated, and there is appropriated, out of any monies in the Treasury not otherwise appropriated, $1,500,000,000 to be available for fiscal years 2011 through 2015 to be used by the Secretary of Health and Human Services for the construction and renovation of community health centers.
@@ -694,34 +701,34 @@
 
 * #### (2) Grants
   * #### (A) In general
-    * In carrying out the programs described in paragraph (1), the Director may award grants under subsections (e), (f), and (g) to expand access to, coordinate, and improve the quality of essential health care services, and enhance the delivery of health care, in rural areas.
+    * In carrying out the programs described in paragraph (1), the Director may award grants under subsections (e), (f), and (g) to expand access to, coordinate, and improve the quality of basic health care services, and enhance the delivery of health care, in rural areas.
 
   * #### (B) Types of grants
-    * The Director may award the grants—
+    * The Director may award the grants to—
 
-      * (i) to promote expanded delivery of health care services in rural areas under subsection (e);
+      * (i) promote expanded delivery of health care services in rural areas under subsection (e);
 
-      * (ii) to provide for the planning and implementation of integrated health care networks in rural areas under subsection (f); and
+      * (ii) provide for the planning and implementation of integrated health care networks in rural areas under subsection (f); and
 
-      * (iii) to provide for the planning and implementation of small health care provider quality improvement activities under subsection (g).
+      * (iii) provide for the planning and implementation of small health care provider quality improvement activities under subsection (g).
 
 #### (e) Rural health care services outreach grants
 * #### (1) Grants
-  * The Director may award grants to eligible entities to promote rural health care services outreach by expanding the delivery of health care services to include new and enhanced services in rural areas. The Director may award the grants for periods of not more than 3 years.
+  * The Director may award grants to eligible entities to promote rural health care services outreach by improving and expanding the delivery of health care services to include new and enhanced services in rural areas, through community engagement and evidence-based or innovative, evidence-informed models. The Director may award the grants for periods of not more than 5 years.
 
 * #### (2) Eligibility
-  * To be eligible to receive a grant under this subsection for a project, an entity—
+  * To be eligible to receive a grant under this subsection for a project, an entity shall—
 
-    * (A) shall be a rural public or rural nonprofit private entity;
+    * (A) be an entity with demonstrated experience serving, or the capacity to serve, rural underserved populations;
 
-    * (B) shall represent a consortium composed of members—
+    * (B) represent a consortium composed of members that—
 
-      * (i) that include 3 or more health care providers; and
+      * (i) include 3 or more health care providers; and
 
-      * (ii) that may be nonprofit or for-profit entities; and
+      * (ii) may be nonprofit or for-profit entities; and
 
 
-    * (C) shall not previously have received a grant under this subsection for the same or a similar project, unless the entity is proposing to expand the scope of the project or the area that will be served through the project.
+    * (C) not previously have received a grant under this subsection for the same or a similar project, unless the entity is proposing to expand the scope of the project or the area that will be served through the project.
 
 * #### (3) Applications
   * To be eligible to receive a grant under this subsection, an eligible entity, in consultation with the appropriate State office of rural health or another appropriate State entity, shall prepare and submit to the Secretary an application, at such time, in such manner, and containing such information as the Secretary may require, including—
@@ -730,7 +737,7 @@
 
     * (B) a description of the manner in which the project funded under the grant will meet the health care needs of rural underserved populations in the local community or region to be served;
 
-    * (C) a description of how the local community or region to be served will be involved in the development and ongoing operations of the project;
+    * (C) a description of how the rural underserved populations in the local community or region to be served will be involved in the development and ongoing operations of the project;
 
     * (D) a plan for sustaining the project after Federal support for the project has ended;
 
@@ -741,30 +748,30 @@
 #### (f) Rural health network development grants
 * #### (1) Grants
   * #### (A) In general
-    * The Director may award rural health network development grants to eligible entities to promote, through planning and implementation, the development of integrated health care networks that have combined the functions of the entities participating in the networks in order to—
+    * The Director may award rural health network development grants to eligible entities to plan, develop, and implement integrated health care networks that collaborate in order to—
 
       * (i) achieve efficiencies;
 
-      * (ii) expand access to, coordinate, and improve the quality of essential health care services; and
+      * (ii) expand access to, coordinate, and improve the quality of basic health care services and associated health outcomes; and
 
       * (iii) strengthen the rural health care system as a whole.
 
   * #### (B) Grant periods
-    * The Director may award such a rural health network development grant for implementation activities for a period of 3 years. The Director may also award such a rural health network development grant for planning activities for a period of 1 year, to assist in the development of an integrated health care network, if the proposed participants in the network do not have a history of collaborative efforts and a 3-year grant would be inappropriate.
+    * The Director may award grants under this subsection for periods of not more than 5 years.
 
 * #### (2) Eligibility
-  * To be eligible to receive a grant under this subsection, an entity—
+  * To be eligible to receive a grant under this subsection, an entity shall—
 
-    * (A) shall be a rural public or rural nonprofit private entity;
+    * (A) be an entity with demonstrated experience serving, or the capacity to serve, rural underserved populations;
 
-    * (B) shall represent a network composed of participants—
+    * (B) represent a network composed of participants that—
 
-      * (i) that include 3 or more health care providers; and
+      * (i) include 3 or more health care providers; and
 
-      * (ii) that may be nonprofit or for-profit entities; and
+      * (ii) may be nonprofit or for-profit entities; and
 
 
-    * (C) shall not previously have received a grant under this subsection (other than a grant for planning activities) for the same or a similar project.
+    * (C) not previously have received a grant under this subsection (other than a grant for planning activities) for the same or a similar project.
 
 * #### (3) Applications
   * To be eligible to receive a grant under this subsection, an eligible entity, in consultation with the appropriate State office of rural health or another appropriate State entity, shall prepare and submit to the Secretary an application, at such time, in such manner, and containing such information as the Secretary may require, including—
@@ -779,10 +786,10 @@
 
       * (ii) the degree to which the participants are ready to integrate their functions; and
 
-      * (iii) how the local community or region to be served will benefit from and be involved in the activities carried out by the network;
+      * (iii) how the rural underserved populations in the local community or region to be served will benefit from and be involved in the development and ongoing operations of the network;
 
 
-    * (D) a description of how the local community or region to be served will experience increased access to quality health care services across the continuum of care as a result of the integration activities carried out by the network;
+    * (D) a description of how the rural underserved populations in the local community or region to be served will experience increased access to quality health care services across the continuum of care as a result of the integration activities carried out by the network;
 
     * (E) a plan for sustaining the project after Federal support for the project has ended;
 
@@ -792,16 +799,16 @@
 
 #### (g) Small health care provider quality improvement grants
 * #### (1) Grants
-  * The Director may award grants to provide for the planning and implementation of small health care provider quality improvement activities. The Director may award the grants for periods of 1 to 3 years.
+  * The Director may award grants to provide for the planning and implementation of small health care provider quality improvement activities, including activities related to increasing care coordination, enhancing chronic disease management, and improving patient health outcomes. The Director may award the grants for periods of 1 to 5 years.
 
 * #### (2) Eligibility
-  * To be eligible for a grant under this subsection, an entity—
+  * To be eligible for a grant under this subsection, an entity shall—
 
-    * (A)(i) shall be a rural public or rural nonprofit private health care provider or provider of health care services, such as a critical access hospital or a rural health clinic; or
+    * (A)(i) be a rural public or rural nonprofit private health care provider or provider of health care services, such as a critical access hospital or a rural health clinic; or
 
-    * (ii) shall be another rural provider or network of small rural providers identified by the Secretary as a key source of local care; and
+    * (ii) be another rural provider or network of small rural providers identified by the Secretary as a key source of local or regional care; and
 
-    * (B) shall not previously have received a grant under this subsection for the same or a similar project.
+    * (B) not previously have received a grant under this subsection for the same or a similar project.
 
 * #### (3) Applications
   * To be eligible to receive a grant under this subsection, an eligible entity, in consultation with the appropriate State office of rural health or another appropriate State entity shall prepare and submit to the Secretary an application, at such time, in such manner, and containing such information as the Secretary may require, including—
@@ -812,7 +819,7 @@
 
     * (C) a description of the manner in which the project funded under the grant will assure continuous quality improvement in the provision of services by the entity;
 
-    * (D) a description of how the local community or region to be served will experience increased access to quality health care services across the continuum of care as a result of the activities carried out by the entity;
+    * (D) a description of how the rural underserved populations in the local community or region to be served will experience increased access to quality health care services across the continuum of care as a result of the activities carried out by the entity;
 
     * (E) a plan for sustaining the project after Federal support for the project has ended;
 
@@ -835,17 +842,17 @@
   * The Secretary shall coordinate activities carried out under grant programs described in this section, to the extent practicable, with Federal and State agencies and nonprofit organizations that are operating similar grant programs, to maximize the effect of public dollars in funding meritorious proposals.
 
 * #### (3) Preference
-  * In awarding grants under this section, the Secretary shall give preference to entities that—
+  * In awarding grants under this section, the Secretary, as appropriate, shall give preference to entities that—
 
     * (A) are located in health professional shortage areas or medically underserved communities, or serve medically underserved populations; or
 
     * (B) propose to develop projects with a focus on primary care, and wellness and prevention strategies.
 
 #### (i) Report
-* Not later than September 30, 2005, the Secretary shall prepare and submit to the appropriate committees of Congress a report on the progress and accomplishments of the grant programs described in subsections (e), (f), and (g).
+* Not later than 4 years after March 27, 2020, and every 5 years thereafter, the Secretary shall prepare and submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a report on the activities and outcomes of the grant programs under subsections (e), (f), and (g), including the impact of projects funded under such programs on the health status of rural residents with chronic conditions.
 
 #### (j) Authorization of appropriations
-* There are authorized to be appropriated to carry out this section $45,000,000 for each of fiscal years 2008 through 2012.
+* There are authorized to be appropriated to carry out this section $79,500,000 for each of fiscal years 2021 through 2025.
 
 ### §254c–1. Grants for health services for Pacific Islanders
 #### (a) Grants
@@ -958,7 +965,7 @@
 
     * (C) $150,000,000 for each of fiscal years 2004 through 2017; and
 
-    * (D) $150,000,000 for each of fiscal years 2018 and 2019, and $96,575,342 for the period beginning on October 1, 2019, and ending on May 22, 2020, to remain available until expended.
+    * (D) $150,000,000 for each of fiscal years 2018 through 2023, to remain available until expended.
 
 ### §254c–3. Special diabetes programs for Indians
 #### (a) In general
@@ -986,7 +993,7 @@
 
     * (C) $150,000,000 for each of fiscal years 2004 through 2017; and
 
-    * (D) $150,000,000 for each of fiscal years 2018 and 2019, and $96,575,342 for the period beginning on October 1, 2019, and ending on May 22, 2020, to remain available until expended.
+    * (D) $150,000,000 for each of fiscal years 2018 through 2023, to remain available until expended.
 
 ### §254c–4. Centers for strategies on facilitating utilization of preventive health services among various populations
 #### (a) In general
@@ -1178,49 +1185,84 @@
 ### §254c–8. Healthy start for infants
 #### (a) In general
 * #### (1) Continuation and expansion of program
-  * The Secretary, acting through the Administrator of the Health Resources and Services Administration, Maternal and Child Health Bureau, shall under authority of this section continue in effect the Healthy Start Initiative and may, during fiscal year 2001 and subsequent years, carry out such program on a national basis.
+  * The Secretary, acting through the Administrator of the Health Resources and Services Administration, Maternal and Child Health Bureau, shall under authority of this section continue in effect the Healthy Start Initiative and may carry out such program on a national basis.
 
 * #### (2) Definition
-  * For purposes of paragraph (1), the term "Healthy Start Initiative" is a reference to the program that, as an initiative to reduce the rate of infant mortality and improve perinatal outcomes, makes grants for project areas with high annual rates of infant mortality and that, prior to the effective date of this section, was a demonstration program carried out under section 241 of this title.
+  * For purposes of paragraph (1), the term "Healthy Start Initiative" is a reference to the program that, as an initiative to reduce the rate of infant mortality and improve perinatal outcomes, makes grants for project areas with high or increasing above the national average annual rates of infant mortality and that, prior to the effective date of this section, was a demonstration program carried out under section 241 of this title.
 
 #### (b) Considerations in making grants
 * #### (1) Requirements
-  * In making grants under subsection (a), the Secretary shall require that applicants (in addition to meeting all eligibility criteria established by the Secretary) establish, for project areas under such subsection, community-based consortia of individuals and organizations (including agencies responsible for administering block grant programs under title V of the Social Security Act [42 U.S.C. 701 et seq.], consumers of project services, public health departments, hospitals, health centers under section 254b of this title, and other significant sources of health care services) that are appropriate for participation in projects under subsection (a).
+  * In making grants under subsection (a), the Secretary shall require that applicants (in addition to meeting all eligibility criteria established by the Secretary) establish, for project areas under such subsection, community-based consortia of individuals and organizations (including agencies responsible for administering block grant programs under title V of the Social Security Act [42 U.S.C. 701 et seq.], participants and former participants of project services, public health departments, hospitals, health centers under section 254b of this title, State substance abuse agencies, and other significant sources of health care services) that are appropriate for participation in projects under subsection (a).
 
 * #### (2) Other considerations
   * In making grants under subsection (a), the Secretary shall take into consideration the following:
 
-    * (A) Factors that contribute to infant mortality, such as low birthweight.
+    * (A) Factors that contribute to infant mortality, including poor birth outcomes (such as low birthweight and preterm birth) and social determinants of health.
 
-    * (B) The extent to which applicants for such grants facilitate—
+    * (B) Communities with—
 
-      * (i) a community-based approach to the delivery of services; and
+      * (i) high rates of infant mortality or poor perinatal outcomes; or
 
-      * (ii) a comprehensive approach to women's health care to improve perinatal outcomes.
+      * (ii) high rates of infant mortality or poor perinatal outcomes in specific subpopulations within the community.
+
+
+    * (C) The extent to which applicants for such grants facilitate—
+
+      * (i) collaboration with the local community in the development of the project;
+
+      * (ii) a community-based approach to the delivery of services;
+
+      * (iii) a comprehensive approach to women's health care to improve perinatal outcomes; and
+
+      * (iv) the use and collection of data demonstrating the effectiveness of such program in decreasing infant mortality rates and improving perinatal outcomes, as applicable, or the process by which new applicants plan to collect this data.
 
 * #### (3) Special projects
   * Nothing in paragraph (2) shall be construed to prevent the Secretary from awarding grants under subsection (a) for special projects that are intended to address significant disparities in perinatal health indicators in communities along the United States-Mexico border or in Alaska or Hawaii.
 
 #### (c) Coordination
-* Recipients of grants under subsection (a) shall coordinate their services and activities with the State agency or agencies that administer block grant programs under title V of the Social Security Act [42 U.S.C. 701 et seq.] in order to promote cooperation, integration, and dissemination of information with Statewide systems and with other community services funded under the Maternal and Child Health Block Grant.
+* #### (1) In general
+  * Recipients of grants under subsection (a) shall coordinate their services and activities with the State agency or agencies that administer block grant programs under title V of the Social Security Act [42 U.S.C. 701 et seq.] in order to promote cooperation, integration, and dissemination of information with Statewide systems and with other community services funded under the Maternal and Child Health Block Grant.
+
+* #### (2) Other programs
+  * The Secretary shall ensure coordination of the program carried out pursuant to this section with other programs and activities related to the reduction of the rate of infant mortality and improved perinatal and infant health outcomes supported by the Department.
 
 #### (d) Rule of construction
 * Except to the extent inconsistent with this section, this section may not be construed as affecting the authority of the Secretary to make modifications in the program carried out under subsection (a).
 
 #### (e) Funding
 * #### (1) Authorization of appropriations
-  * For the purpose of carrying out this section, there are authorized to be appropriated—
-
-    * (A) $120,000,000 for fiscal year 2008; and
-
-    * (B) for each of fiscal years 2009 through 2013, the amount authorized for the preceding fiscal year increased by the percentage increase in the Consumer Price Index for all urban consumers for such year.
+  * For the purpose of carrying out this section, there are authorized to be appropriated $125,500,000 for each of fiscal years 2021 through 2025.
 
 * #### (2) Allocation
   * #### (A) Program administration
     * Of the amounts appropriated under paragraph (1) for a fiscal year, the Secretary may reserve up to 5 percent for coordination, dissemination, technical assistance, and data activities that are determined by the Secretary to be appropriate for carrying out the program under this section.
 
   * #### (B) Evaluation
-    * Of the amounts appropriated under paragraph (1) for a fiscal year, the Secretary may reserve up to 1 percent for evaluations of projects carried out under subsection (a). Each such evaluation shall include a determination of whether such projects have been effective in reducing the disparity in health status between the general population and individuals who are members of racial or ethnic minority groups.
+    * Of the amounts appropriated under paragraph (1) for a fiscal year, the Secretary may reserve up to 1 percent for evaluations of projects carried out under subsection (a). Each such evaluation shall include a determination of whether such projects have been effective in reducing the disparity in health status between the general population and individuals who are members of racial or ethnic minority groups. Evaluations may also include, to the extent practicable, information related to—
+
+      * (i) progress toward achieving any grant metrics or outcomes related to reducing infant mortality rates, improving perinatal outcomes, or reducing the disparity in health status;
+
+      * (ii) recommendations on potential improvements that may assist with addressing gaps, as applicable and appropriate; and
+
+      * (iii) the extent to which the grantee coordinated with the community in which the grantee is located in the development of the project and delivery of services, including with respect to technical assistance and mentorship programs.
+
+#### (f) GAO report
+* #### (1) In general
+  * Not later than 4 years after March 27, 2020, the Comptroller General of the United States shall conduct an independent evaluation, and submit to the appropriate Committees of Congress a report, concerning the Healthy Start program under this section.
+
+* #### (2) Evaluation
+  * In conducting the evaluation under paragraph (1), the Comptroller General shall consider, as applicable and appropriate, information from the evaluations under subsection (e)(2)(B).
+
+* #### (3) Report
+  * The report described in paragraph (1) shall review, assess, and provide recommendations, as appropriate, on the following:
+
+    * (A) The allocation of Healthy Start program grants by the Health Resources and Services Administration, including considerations made by such Administration regarding disparities in infant mortality or perinatal outcomes among urban and rural areas in making such awards.
+
+    * (B) Trends in the progress made toward meeting the evaluation criteria pursuant to subsection (e)(2)(B), including programs which decrease infant mortality rates and improve perinatal outcomes, programs that have not decreased infant mortality rates or improved perinatal outcomes, and programs that have made an impact on disparities in infant mortality or perinatal outcomes.
+
+    * (C) The ability of grantees to improve health outcomes for project participants, promote the awareness of the Healthy Start program services, incorporate and promote family participation, facilitate coordination with the community in which the grantee is located, and increase grantee accountability through quality improvement, performance monitoring, evaluation, and the effect such metrics may have toward decreasing the rate of infant mortality and improving perinatal outcomes.
+
+    * (D) The extent to which such Federal programs are coordinated across agencies and the identification of opportunities for improved coordination in such Federal programs and activities.
 
 ### §254c–9. Establishment of program of grants
 #### (a) In general
@@ -1311,68 +1353,58 @@
 
 #### (d) Grants
 * #### (1) Telehealth network grants
-  * The Director may, in carrying out the telehealth network grant program referred to in subsection (b), award grants to eligible entities for projects to demonstrate how telehealth technologies can be used through telehealth networks in rural areas, frontier communities, and medically underserved areas, and for medically underserved populations, to—
+  * The Director may, in carrying out the telehealth network grant program referred to in subsection (b), award grants to eligible entities for evidence-based projects that utilize telehealth technologies through telehealth networks in rural areas, frontier communities, and medically underserved areas, and for medically underserved populations, to—
 
-    * (A) expand access to, coordinate, and improve the quality of health care services;
+    * (A) expand access to, coordinate, and improve access to, and the quality of, health care services; and
 
-    * (B) improve and expand the training of health care providers; and
-
-    * (C) expand and improve the quality of health information available to health care providers, and patients and their families, for decisionmaking.
+    * (B) expand and improve the quality of health information available to health care providers,, patients, and their families.
 
 * #### (2) Telehealth resource centers grants
-  * The Director may, in carrying out the telehealth resource centers grant program referred to in subsection (b), award grants to eligible entities for projects to demonstrate how telehealth technologies can be used in the areas and communities, and for the populations, described in paragraph (1), to establish telehealth resource centers.
+  * The Director may, in carrying out the telehealth resource centers grant program referred to in subsection (b), award grants to eligible entities for projects to support initiatives that utilize telehealth technologies in the areas and communities, and for the populations, described in paragraph (1).
 
 #### (e) Grant periods
-* The Director may award grants under this section for periods of not more than 4 years.
+* The Director may award grants under this section for periods of not more than 5 years.
 
 #### (f) Eligible entities
-* #### (1) Telehealth network grants
-  * #### (A) Grant recipient
-    * To be eligible to receive a grant under subsection (d)(1), an entity shall be a nonprofit entity.
+* #### (1) In general
+  * To be eligible to receive a grant under subsection (d)(1), an entity shall demonstrate that the entity will provide services through a telehealth network.
 
-  * #### (B) Telehealth networks
-    * #### (i) In general
-      * To be eligible to receive a grant under subsection (d)(1), an entity shall demonstrate that the entity will provide services through a telehealth network.
+* #### (2) Nature of entities
+  * Each entity participating in the telehealth network may be a nonprofit or for-profit entity.
 
-    * #### (ii) Nature of entities
-      * Each entity participating in the telehealth network may be a nonprofit or for-profit entity.
+* #### (3) Composition of network
+  * The telehealth network shall include at least 2 of the following entities (at least 1 of which shall be a community-based health care provider):
 
-    * #### (iii) Composition of network
-      * The telehealth network shall include at least 2 of the following entities (at least 1 of which shall be a community-based health care provider):
+    * (A) Community or migrant health centers or other Federally qualified health centers.
 
-        * (I) Community or migrant health centers or other Federally qualified health centers.
+    * (B) Health care providers, including pharmacists, in private practice.
 
-        * (II) Health care providers, including pharmacists, in private practice.
+    * (C) Entities operating clinics, including rural health clinics.
 
-        * (III) Entities operating clinics, including rural health clinics.
+    * (D) Local health departments.
 
-        * (IV) Local health departments.
+    * (E) Nonprofit hospitals, including community access hospitals.
 
-        * (V) Nonprofit hospitals, including community access hospitals.
+    * (F) Other publicly funded health or social service agencies.
 
-        * (VI) Other publicly funded health or social service agencies.
+    * (G) Long-term care providers.
 
-        * (VII) Long-term care providers.
+    * (H) Providers of health care services in the home.
 
-        * (VIII) Providers of health care services in the home.
+    * (I) Providers of outpatient mental health and substance use disorder services and entities operating outpatient mental health and substance use disorder facilities.
 
-        * (IX) Providers of outpatient mental health services and entities operating outpatient mental health facilities.
+    * (J) Local or regional emergency health care providers.
 
-        * (X) Local or regional emergency health care providers.
+    * (K) Institutions of higher education.
 
-        * (XI) Institutions of higher education.
-
-        * (XII) Entities operating dental clinics.
-
-* #### (2) Telehealth resource centers grants
-  * To be eligible to receive a grant under subsection (d)(2), an entity shall be a nonprofit entity.
+    * (L) Entities operating dental clinics.
 
 #### (g) Applications
 * To be eligible to receive a grant under subsection (d), an eligible entity, in consultation with the appropriate State office of rural health or another appropriate State entity, shall prepare and submit to the Secretary an application, at such time, in such manner, and containing such information as the Secretary may require, including—
 
   * (1) a description of the project that the eligible entity will carry out using the funds provided under the grant;
 
-  * (2) a description of the manner in which the project funded under the grant will meet the health care needs of rural or other populations to be served through the project, or improve the access to services of, and the quality of the services received by, those populations;
+  * (2) a description of the manner in which the project funded under the grant will meet the health care needs of rural or other populations to be served through the project, and improve the access to services of, and the quality of the services received by, those populations;
 
   * (3) evidence of local support for the project, and a description of how the areas, communities, or populations to be served will be involved in the development and ongoing operations of the project;
 
@@ -1386,10 +1418,7 @@
 
   * (8) other such information as the Secretary determines to be appropriate.
 
-#### (h) Terms; conditions; maximum amount of assistance
-* The Secretary shall establish the terms and conditions of each grant program described in subsection (b) and the maximum amount of a grant to be awarded to an individual recipient for each fiscal year under this section. The Secretary shall publish, in a publication of the Health Resources and Services Administration, notice of the application requirements for each grant program described in subsection (b) for each fiscal year.
-
-#### (i) Preferences
+#### (h) Preferences
 * #### (1) Telehealth networks
   * In awarding grants under subsection (d)(1) for projects involving telehealth networks, the Secretary shall give preference to an eligible entity that meets at least 1 of the following requirements:
 
@@ -1397,7 +1426,7 @@
     * The eligible entity is a rural community-based organization or another community-based organization.
 
   * #### (B) Services
-    * The eligible entity proposes to use Federal funds made available through such a grant to develop plans for, or to establish, telehealth networks that provide mental health, public health, long-term care, home care, preventive, case management services, or prenatal care for high-risk pregnancies.
+    * The eligible entity proposes to use Federal funds made available through such a grant to develop plans for, or to establish, telehealth networks that provide mental health care, public health services, long-term care, home care, preventive care, case management services, or prenatal care for high-risk pregnancies.
 
   * #### (C) Coordination
     * The eligible entity demonstrates how the project to be carried out under the grant will be coordinated with other relevant federally funded projects in the areas, communities, and populations to be served through the grant.
@@ -1416,16 +1445,13 @@
         * (III) a local government entity.
 
   * #### (E) Connectivity
-    * The eligible entity proposes a project that promotes local connectivity within areas, communities, or populations to be served through the project.
-
-  * #### (F) Integration
-    * The eligible entity demonstrates that health care information has been integrated into the project.
+    * The eligible entity proposes a project that promotes local and regional connectivity within areas, communities, or populations to be served through the project.
 
 * #### (2) Telehealth resource centers
   * In awarding grants under subsection (d)(2) for projects involving telehealth resource centers, the Secretary shall give preference to an eligible entity that meets at least 1 of the following requirements:
 
   * #### (A) Provision of services
-    * The eligible entity has a record of success in the provision of telehealth services to medically underserved areas or medically underserved populations.
+    * The eligible entity has a record of success in the provision of telehealth services to rural areas, medically underserved areas, or medically underserved populations.
 
   * #### (B) Collaboration and sharing of expertise
     * The eligible entity has a demonstrated record of collaborating and sharing expertise with providers of telehealth services at the national, regional, State, and local levels.
@@ -1441,24 +1467,20 @@
 
       * (iv) rural residency support programs.
 
-#### (j) Distribution of funds
+#### (i) Distribution of funds
 * #### (1) In general
   * In awarding grants under this section, the Director shall ensure, to the greatest extent possible, that such grants are equitably distributed among the geographical regions of the United States.
 
 * #### (2) Telehealth networks
-  * In awarding grants under subsection (d)(1) for a fiscal year, the Director shall ensure that—
+  * In awarding grants under subsection (d)(1) for a fiscal year, the Director shall ensure that not less than 50 percent of the funds awarded shall be awarded for projects in rural areas.
 
-    * (A) not less than 50 percent of the funds awarded shall be awarded for projects in rural areas; and
-
-    * (B) the total amount of funds awarded for such projects for that fiscal year shall be not less than the total amount of funds awarded for such projects for fiscal year 2001 under section 254c of this title (as in effect on the day before October 26, 2002).
-
-#### (k) Use of funds
+#### (j) Use of funds
 * #### (1) Telehealth network program
   * The recipient of a grant under subsection (d)(1) may use funds received through such grant for salaries, equipment, and operating or other costs, including the cost of—
 
     * (A) developing and delivering clinical telehealth services that enhance access to community-based health care services in rural areas, frontier communities, or medically underserved areas, or for medically underserved populations;
 
-    * (B) developing and acquiring, through lease or purchase, computer hardware and software, audio and video equipment, computer network equipment, interactive equipment, data terminal equipment, and other equipment that furthers the objectives of the telehealth network grant program;
+    * (B) developing and acquiring, through lease or purchase, equipment that furthers the objectives of the telehealth network grant program;
 
     * (C)(i) developing and providing distance education, in a manner that enhances access to care in rural areas, frontier communities, or medically underserved areas, or for medically underserved populations; or
 
@@ -1489,18 +1511,18 @@
 
     * (E) promoting the integration of the technologies used in clinical information systems with other telehealth technologies;
 
-    * (F) fostering the use of telehealth technologies to provide health care information and education for health care providers and consumers in a more effective manner; and
+    * (F) fostering the use of telehealth technologies to provide health care information and education for consumers in a more effective manner; and
 
     * (G) implementing special projects or studies under the direction of the Office.
 
-#### (l) Prohibited uses of funds
+#### (k) Prohibited uses of funds
 * An entity that receives a grant under this section may not use funds made available through the grant—
 
   * (1) to acquire real property;
 
-  * (2) for expenditures to purchase or lease equipment, to the extent that the expenditures would exceed 40 percent of the total grant funds;
+  * (2) for expenditures to purchase or lease equipment, to the extent that the expenditures would exceed 20 percent of the total grant funds;
 
-  * (3) in the case of a project involving a telehealth network, to purchase or install transmission equipment (such as laying cable or telephone lines, or purchasing or installing microwave towers, satellite dishes, amplifiers, or digital switching equipment);
+  * (3) in the case of a project involving a telehealth network, to purchase or install transmission equipment;
 
   * (4) to pay for any equipment or transmission costs not directly related to the purposes for which the grant is awarded;
 
@@ -1510,7 +1532,7 @@
 
   * (7) for expenditures for indirect costs (as determined by the Secretary), to the extent that the expenditures would exceed 15 percent of the total grant funds.
 
-#### (m) Collaboration
+#### (l) Collaboration
 * In providing services under this section, an eligible entity shall collaborate, if feasible, with entities that—
 
   * (1)(A) are private or public organizations, that receive Federal or State assistance; or
@@ -1519,27 +1541,20 @@
 
   * (2) provide telehealth services or related activities.
 
-#### (n) Coordination with other agencies
+#### (m) Coordination with other agencies
 * The Secretary shall coordinate activities carried out under grant programs described in subsection (b), to the extent practicable, with Federal and State agencies and nonprofit organizations that are operating similar programs, to maximize the effect of public dollars in funding meritorious proposals.
 
-#### (o) Outreach activities
+#### (n) Outreach activities
 * The Secretary shall establish and implement procedures to carry out outreach activities to advise potential end users of telehealth services in rural areas, frontier communities, medically underserved areas, and medically underserved populations in each State about the grant programs described in subsection (b).
 
-#### (p) Telehealth
+#### (o) Telehealth
 * It is the sense of Congress that, for purposes of this section, States should develop reciprocity agreements so that a provider of services under this section who is a licensed or otherwise authorized health care provider under the law of 1 or more States, and who, through telehealth technology, consults with a licensed or otherwise authorized health care provider in another State, is exempt, with respect to such consultation, from any State law of the other State that prohibits such consultation on the basis that the first health care provider is not a licensed or authorized health care provider under the law of that State.
 
-#### (q) Report
-* Not later than September 30, 2005, the Secretary shall prepare and submit to the appropriate committees of Congress a report on the progress and accomplishments of the grant programs described in subsection (b).
+#### (p) Report
+* Not later than 4 years after March 27, 2020, and every 5 years thereafter, the Secretary shall prepare and submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a report on the activities and outcomes of the grant programs under subsection (b).
 
-#### (r) Regulations
-* The Secretary shall issue regulations specifying, for purposes of this section, a definition of the term "frontier area". The definition shall be based on factors that include population density, travel distance in miles to the nearest medical facility, travel time in minutes to the nearest medical facility, and such other factors as the Secretary determines to be appropriate. The Secretary shall develop the definition in consultation with the Director of the Bureau of the Census and the Administrator of the Economic Research Service of the Department of Agriculture.
-
-#### (s) Authorization of appropriations
-* There are authorized to be appropriated to carry out this section—
-
-  * (1) for grants under subsection (d)(1), $40,000,000 for fiscal year 2002, and such sums as may be necessary for each of fiscal years 2003 through 2006; and
-
-  * (2) for grants under subsection (d)(2), $20,000,000 for fiscal year 2002, and such sums as may be necessary for each of fiscal years 2003 through 2006.
+#### (q) Authorization of appropriations
+* There are authorized to be appropriated to carry out this section $29,000,000 for each of fiscal years 2021 through 2025.
 
 ### §254c–15. Rural emergency medical service training and equipment assistance program
 #### (a) Grants
@@ -1734,3 +1749,85 @@
 
 #### (g) Authorization of appropriations
 * To carry out this section, there are authorized to be appropriated, $9,000,000 for the period of fiscal years 2018 through 2022.
+
+### §254c–20. Expanding capacity for health outcomes
+#### (a) Definitions
+* In this section:
+
+* #### (1) Eligible entity
+  * The term "eligible entity" means an entity that provides, or supports the provision of, health care services in rural areas, frontier areas, health professional shortage areas, or medically underserved areas, or to medically underserved populations or Native Americans, including Indian Tribes, Tribal organizations, and urban Indian organizations, and which may include entities leading, or capable of leading, a technology-enabled collaborative learning and capacity building model or engaging in technology-enabled collaborative training of participants in such model.
+
+* #### (2) Health professional shortage area
+  * The term "health professional shortage area" means a health professional shortage area designated under section 254e of this title.
+
+* #### (3) Indian Tribe
+  * The terms "Indian Tribe" and "Tribal organization" have the meanings given the terms "Indian tribe" and "tribal organization" in section 5304 of title 25.
+
+* #### (4) Medically underserved population
+  * The term "medically underserved population" has the meaning given the term in section 254b(b)(3) of this title.
+
+* #### (5) Native Americans
+  * The term "Native Americans" has the meaning given the term in section 293 of this title and includes Indian Tribes and Tribal organizations.
+
+* #### (6) Technology-enabled collaborative learning and capacity building model
+  * The term "technology-enabled collaborative learning and capacity building model" means a distance health education model that connects health care professionals, and particularly specialists, with multiple other health care professionals through simultaneous interactive videoconferencing for the purpose of facilitating case-based learning, disseminating best practices, and evaluating outcomes.
+
+* #### (7) Urban Indian organization
+  * The term "urban Indian organization" has the meaning given the term in section 1603 of title 25.
+
+#### (b) Program established
+* The Secretary shall, as appropriate, award grants to evaluate, develop, and, as appropriate, expand the use of technology-enabled collaborative learning and capacity building models, to improve retention of health care providers and increase access to health care services, such as those to address chronic diseases and conditions, infectious diseases, mental health, substance use disorders, prenatal and maternal health, pediatric care, pain management, palliative care, and other specialty care in rural areas, frontier areas, health professional shortage areas, or medically underserved areas and for medically underserved populations or Native Americans.
+
+#### (c) Use of funds
+* #### (1) In general
+  * Grants awarded under subsection (b) shall be used for—
+
+    * (A) the development and acquisition of instructional programming, and the training of health care providers and other professionals that provide or assist in the provision of services through models described in subsection (b), such as training on best practices for data collection and leading or participating in such technology-enabled activities consistent with technology-enabled collaborative learning and capacity-building models;
+
+    * (B) information collection and evaluation activities to study the impact of such models on patient outcomes and health care providers, and to identify best practices for the expansion and use of such models; or
+
+    * (C) other activities consistent with achieving the objectives of the grants awarded under this section, as determined by the Secretary.
+
+* #### (2) Other uses
+  * In addition to any of the uses under paragraph (1), grants awarded under subsection (b) may be used for—
+
+    * (A) equipment to support the use and expansion of technology-enabled collaborative learning and capacity building models, including for hardware and software that enables distance learning, health care provider support, and the secure exchange of electronic health information; or
+
+    * (B) support for health care providers and other professionals that provide or assist in the provision of services through such models.
+
+#### (d) Length of grants
+* Grants awarded under subsection (b) shall be for a period of up to 5 years.
+
+#### (e) Grant requirements
+* The Secretary may require entities awarded a grant under this section to collect information on the effect of the use of technology-enabled collaborative learning and capacity building models, such as on health outcomes, access to health care services, quality of care, and provider retention in areas and populations described in subsection (b). The Secretary may award a grant or contract to assist in the coordination of such models, including to assess outcomes associated with the use of such models in grants awarded under subsection (b), including for the purpose described in subsection (c)(1)(B).
+
+#### (f) Application
+* An eligible entity that seeks to receive a grant under subsection (b) shall submit to the Secretary an application, at such time, in such manner, and containing such information as the Secretary may require. Such application shall include plans to assess the effect of technology-enabled collaborative learning and capacity building models on patient outcomes and health care providers.
+
+#### (g) Access to broadband
+* In administering grants under this section, the Secretary may coordinate with other agencies to ensure that funding opportunities are available to support access to reliable, high-speed internet for grantees.
+
+#### (h) Technical assistance
+* The Secretary shall provide (either directly through the Department of Health and Human Services or by contract) technical assistance to eligible entities, including recipients of grants under subsection (b), on the development, use, and evaluation of technology-enabled collaborative learning and capacity building models in order to expand access to health care services provided by such entities, including for medically underserved areas and to medically underserved populations or Native Americans.
+
+#### (i) Research and evaluation
+* The Secretary, in consultation with stakeholders with appropriate expertise in such models, shall develop a strategic plan to research and evaluate the evidence for such models. The Secretary shall use such plan to inform the activities carried out under this section.
+
+#### (j) Report by Secretary
+* Not later than 4 years after December 27, 2020, the Secretary shall prepare and submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives, and post on the internet website of the Department of Health and Human Services, a report including, at minimum—
+
+  * (1) a description of any new and continuing grants awarded to entities under subsection (b) and the specific purpose and amounts of such grants;
+
+  * (2) an overview of—
+
+    * (A) the evaluations conducted under subsections (b);
+
+    * (B) technical assistance provided under subsection (h); and
+
+    * (C) activities conducted by entities awarded grants under subsection (b); and
+
+
+  * (3) a description of any significant findings or developments related to patient outcomes or health care providers and best practices for eligible entities expanding, using, or evaluating technology-enabled collaborative learning and capacity building models, including through the activities described in subsection (h).
+
+#### (k) Authorization of appropriations
+* There are authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2022 through 2026.

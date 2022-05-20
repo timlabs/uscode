@@ -24,61 +24,17 @@
 * The compensation of the Architect of the Capitol shall be at an annual rate which is equal to the maximum rate of pay in effect under section 4575(f) of this title.
 
 ### §1803. Delegation of authority
-* The Architect of the Capitol may delegate to the assistants of the Architect such authority of the Architect as the Architect may determine proper, except those authorities, duties, and responsibilities specifically assigned to the Deputy Architect of the Capitol by the Legislative Branch Appropriations Act, 2003.
+* The Architect of the Capitol may delegate the duties and authorities of the Architect to officers and employees of the Office of the Architect of the Capitol, as the Architect determines appropriate.
 
 ### §1804. Deputy Architect of the Capitol to act in case of absence, disability, or vacancy
 * On and after August 18, 1970, the Deputy Architect of the Capitol shall act as Architect of the Capitol during the absence or disability of that official or whenever there is no Architect.
 
-### §1805. Deputy Architect of the Capitol/Chief Operating Officer
+### §1805. Deputy Architect of the Capitol
 #### (a) Establishment of Deputy Architect of the Capitol
-* There shall be a Deputy Architect of the Capitol who shall serve as the Chief Operating Officer of the Office of the Architect of the Capitol. The Deputy Architect of the Capitol shall be appointed by the Architect of the Capitol and shall report directly to the Architect of the Capitol and shall be subject to the authority of the Architect of the Capitol. The Architect of the Capitol shall appoint the Deputy Architect of the Capitol not later than 180 days after February 20, 2003. The Architect of the Capitol shall consult with the Comptroller General or his designee before making the appointment.
+* The Architect of the Capitol shall appoint a suitable individual to be the Deputy Architect of the Capitol. The Architect may delegate to the Deputy Architect such duties as the Architect determines are necessary or appropriate.
 
-#### (b) Qualifications
-* The Deputy Architect of the Capitol shall have strong leadership skills and demonstrated ability in management, including in such areas as strategic planning, performance management, worker safety, customer satisfaction, and service quality.
-
-#### (c) Responsibilities
-* #### (1) In general
-  * The Deputy Architect of the Capitol shall be responsible to the Architect of the Capitol for the overall direction, operation, and management of the Office of the Architect of the Capitol, including implementing the Office's goals and mission; providing overall organization management to improve the Office's performance; and assisting the Architect of the Capitol in promoting reform, and measuring results.
-
-* #### (2) Responsibilities
-  * The Deputy Architect's responsibilities include—
-
-    * (A) developing, implementing, annually updating, and maintaining a long-term strategic plan covering a period of not less than 5 years for the Office of the Architect of the Capitol;
-
-    * (B) developing and implementing an annual performance plan that includes annual performance goals covering each of the general goals and objectives in the strategic plan and including to the extent practicable quantifiable performance measures for the annual goals;
-
-    * (C) proposing organizational changes and staffing needed to carry out the Office of the Architect of the Capitol's mission and strategic and annual performance goals; and
-
-    * (D) reviewing and directing the operational functions of the Office of the Architect of the Capitol.
-
-#### (d) Additional responsibilities
-* The Architect of the Capitol may delegate to the Deputy Architect such additional duties as the Architect determines are necessary or appropriate.
-
-#### (e) Action plan
-* #### (1) In general
-  * No later than 90 days after the appointment, the Deputy Architect shall prepare and submit to the Committees on Appropriations of the House of Representatives and Senate and the Committee on Rules and Administration of the Senate, an action plan describing the policies, procedures, and actions the Deputy Architect will implement and timeframes for carrying out the responsibilities under this section.
-
-* #### (2) Action plan
-  * The action plan shall be—
-
-    * (A) approved and signed by both the Architect of the Capitol and the Deputy Architect; and
-
-    * (B) developed concurrently and consistent with the development of a strategic plan.
-
-#### (f) Evaluation
-* The Government Accountability Office shall evaluate annually the implementation of the action plan and provide the results of the evaluation to the Architect of the Capitol, the Committees on Appropriations of the House of Representatives and Senate and the Committee on Rules and Administration of the Senate.
-
-#### (g) Removal
-* The Deputy Architect of the Capitol may be removed by the Architect of the Capitol for misconduct or failure to meet performance goals set forth in the performance agreement in subsection (i). Upon the removal of the Deputy Architect of the Capitol, the Architect of the Capitol shall immediately notify in writing the Committees on Appropriations of the House of Representatives and Senate, and the Committee on Rules and Administration of the Senate, stating the specific reasons for the removal.
-
-#### (h) Compensation
+#### (b) Compensation
 * The Deputy Architect of the Capitol shall be paid at an annual rate of pay to be determined by the Architect but not to exceed $1,500 less than the annual rate of pay for the Architect of the Capitol.
-
-#### (i) Annual performance report
-* The Deputy Architect of the Capitol shall prepare and transmit to the Architect of the Capitol an annual performance report. This report shall contain an evaluation of the extent to which the Office of the Architect of the Capitol met its goals and objectives.
-
-#### (j) Termination of role
-* As of October 1, 2006, the role of the Comptroller General and the Government Accountability Office, as established by this section, will cease.
 
 ### §1808. Inspector General of the Architect of the Capitol
 #### (a) Short title

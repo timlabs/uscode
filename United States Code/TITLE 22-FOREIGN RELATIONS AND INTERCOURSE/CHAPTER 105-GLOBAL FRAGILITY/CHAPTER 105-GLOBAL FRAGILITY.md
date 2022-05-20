@@ -174,14 +174,14 @@
 * The Secretary of State, the Administrator of the United States Agency for International Development, and the Secretary of Defense shall provide to any appropriate congressional committee briefings on the implementation of this chapter upon the request of any such committee.
 
 ### §9808. Authorization of appropriations
-#### (a) Prevention and stabilization fund
+#### (a) Prevention and Stabilization Fund
 * #### (1) Establishment
   * There is established in the Treasury of the United States a fund, which shall be known as the "Prevention and Stabilization Fund" (in this subsection referred to as "The Fund"), to be administered by the Department of State and USAID, as appropriate, to support stabilization of conflict-affected areas and to mitigate fragility, including through the Global Fragility Strategy established pursuant to section 9803 of this title, which shall replace the Relief and Recovery Fund.
 
 * #### (2) Authorization of appropriations
   * There is authorized to be appropriated to the Fund $200,000,000 for each of the fiscal years 2020 through 2024.
 
-* #### (3) Purposes of the fund
+* #### (3) Purposes of the Fund
   * #### (A) In general
     * Amounts authorized to be appropriated to the Fund shall be used—
 
@@ -202,7 +202,7 @@
 * #### (2) Authorization of appropriations
   * There is authorized to be appropriated to the Fund $30,000,000 for each of the fiscal years 2020 through 2024, which shall remain available until expended.
 
-* #### (3) Purposes of the fund
+* #### (3) Purposes of the Fund
   * #### (A) In general
     * Notwithstanding any other provision of law, except section 620M of the Foreign Assistance Act of 1961 (22 U.S.C. 2378d), amounts in the Fund may be used to carry out the provisions of the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq.) to support programs and activities to prevent or respond to emerging or unforeseen foreign challenges and complex crises overseas, including through the Global Fragility Strategy established pursuant to section 9803 of this title.
 
@@ -247,7 +247,7 @@
 
   * (2) shall seek to leverage funds from sources other than the United States Government in order to promote coordination and cost-matching to the maximum extent practicable.
 
-#### (c) Multi-donor global fragility fund
+#### (c) Multi-donor Global Fragility Fund
 * #### (1) Authority
   * Pursuant to sections 2357 and 2392 of this title, and consistent with subsection (b), and after consultation with the appropriate congressional committees, the Secretary of State is authorized to establish funding mechanisms, to include the establishment of a Global Fragility Fund, to leverage, receive, coordinate, and program funds provided by other donors and private sector partners to carry out the purposes of this chapter.
 

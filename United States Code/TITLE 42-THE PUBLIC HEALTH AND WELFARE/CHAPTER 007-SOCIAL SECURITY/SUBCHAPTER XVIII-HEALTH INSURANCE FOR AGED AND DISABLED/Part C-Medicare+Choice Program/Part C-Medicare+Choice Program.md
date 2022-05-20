@@ -574,10 +574,19 @@
 
         * (III) Skilled nursing care.
 
-        * (IV) Such other services that the Secretary determines appropriate (including services that the Secretary determines require a high level of predictability and transparency for beneficiaries).
+        * (IV) Clinical diagnostic laboratory test administered during any portion of the emergency period defined in paragraph (1)(B) of section 1320b–5(g) of this title beginning on or after March 18, 2020, for the detection of SARS–CoV–2 or the diagnosis of the virus that causes COVID–19 and the administration of such test.
+
+        * (V) Specified COVID–19 testing-related services (as described in section 1395l(cc)(1) of this title) for which payment would be payable under a specified outpatient payment provision described in section 1395l(cc)(2) of this title.
+
+        * (VI) A COVID–19 vaccine and its administration described in section 1395x(s)(10)(A) of this title.
+
+        * (VII) Such other services that the Secretary determines appropriate (including services that the Secretary determines require a high level of predictability and transparency for beneficiaries).
 
     * #### (v) Exception
-      * In the case of services described in clause (iv) for which there is no cost-sharing required under parts A and B, cost-sharing may be required for those services in accordance with clause (i).
+      * In the case of services described in clause (iv), other than subclauses (IV), (V), and (VI) of such clause, for which there is no cost-sharing required under parts A and B, cost-sharing may be required for those services in accordance with clause (i).
+
+    * #### (vi) Prohibition of application of certain requirements for COVID–19 testing
+      * In the case of a product or service described in subclause (IV) or (V), respectively, of clause (iv) that is administered or furnished during any portion of the emergency period described in such subclause beginning on or after March 18, 2020, an MA plan may not impose any prior authorization or other utilization management requirements with respect to the coverage of such a product or service under such plan.
 
 * #### (2) Satisfaction of requirement
   * #### (A) In general

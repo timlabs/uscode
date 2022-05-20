@@ -15,10 +15,14 @@
 
       * (ii) by an Indian tribe or an individual Indian, subject to restriction against alienation under laws of the United States; or
 
-      * (iii) by a dependent Indian community; and
+      * (iii) by a dependent Indian community;
 
 
-    * (C) land that is owned by an Indian tribe and was conveyed by the United States to a Native Corporation pursuant to the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.), or that was conveyed by the United States to a Native Corporation in exchange for such land.
+    * (C) land that is owned by an Indian tribe and was conveyed by the United States to a Native Corporation pursuant to the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.), or that was conveyed by the United States to a Native Corporation in exchange for such land;
+
+    * (D) any land located in a census tract in which the majority of residents are Natives (as defined in section 3(b) of the Alaska Native Claims Settlement Act (43 U.S.C. 1602(b))); and
+
+    * (E) any land located in a census tract in which the majority of residents are persons who are enrolled members of a federally recognized Tribe or village.
 
 
   * (3) The term "Indian reservation" includes—
@@ -151,9 +155,13 @@
 
 * (C) In providing a grant under this subsection for an activity to provide, or expand the provision of, electricity on Indian land, the Director shall encourage cooperative arrangements between Indian tribes and utilities that provide service to Indian tribes, as the Director determines to be appropriate.
 
+* (D) The Secretary of Energy may reduce any applicable cost share required of an Indian tribe, intertribal organization, or tribal energy development organization in order to receive a grant under this subsection to not less than 10 percent if the Indian tribe, intertribal organization, or tribal energy development organization meets criteria developed by the Secretary of Energy, including financial need.
+
+* (E) Section 16352 of title 42 shall not apply to assistance provided under this subsection.
+
 * (6) The Secretary of Energy may issue such regulations as the Secretary determines to be necessary to carry out this subsection.
 
-* (7) There is authorized to be appropriated to carry out this subsection $20,000,000 for each of fiscal years 2006 through 2016.
+* (7) There is authorized to be appropriated to carry out this subsection $30,000,000 for each of fiscal years 2021 through 2025.
 
 #### (c) Department of Energy loan guarantee program
 * (1) Subject to paragraphs (2) and (4), the Secretary of Energy may provide loan guarantees (as defined in section 661a of title 2) for an amount equal to not more than 90 percent of the unpaid principal and interest due on any loan made to an Indian tribe or a tribal energy development organization for energy development.

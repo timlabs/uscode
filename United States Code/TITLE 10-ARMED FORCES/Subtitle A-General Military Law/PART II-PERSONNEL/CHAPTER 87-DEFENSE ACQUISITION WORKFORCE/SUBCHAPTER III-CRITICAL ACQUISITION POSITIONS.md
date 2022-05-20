@@ -7,7 +7,7 @@
 
     * (i) in the case of employees, is required to be filled by an employee in a senior position in the National Security Personnel System, as determined in accordance with guidelines prescribed by the Secretary, or in the Senior Executive Service; or
 
-    * (ii) in the case of members of the armed forces, is required to be filled by a commissioned officer of the Army, Navy, Air Force, or Marine Corps who is serving in the grade of lieutenant colonel, or, in the case of the Navy, commander, or a higher grade.
+    * (ii) in the case of members of the armed forces, is required to be filled by a commissioned officer of the Army, Navy, Air Force, Marine Corps, or Space Force who is serving in the grade of lieutenant colonel, or, in the case of the Navy, commander, or a higher grade.
 
 
   * (B) Other selected acquisition positions not covered by subparagraph (A), including the following:

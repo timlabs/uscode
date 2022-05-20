@@ -351,9 +351,11 @@
 
   * (1) administering tribal funds and programs;
 
-  * (2) enhancing the safety of Indian women from domestic violence, dating violence, sexual assault, stalking, and sex trafficking; and
+  * (2) enhancing the safety of Indian women from domestic violence, dating violence, sexual assault, homicide, stalking, and sex trafficking;
 
-  * (3) strengthening the Federal response to such violent crimes.
+  * (3) strengthening the Federal response to such violent crimes; and
+
+  * (4) improving access to local, regional, State, and Federal crime information databases and criminal justice information systems.
 
 #### (c) Annual report
 * The Attorney General shall submit to Congress an annual report on the annual consultations required under subsection (a) that—

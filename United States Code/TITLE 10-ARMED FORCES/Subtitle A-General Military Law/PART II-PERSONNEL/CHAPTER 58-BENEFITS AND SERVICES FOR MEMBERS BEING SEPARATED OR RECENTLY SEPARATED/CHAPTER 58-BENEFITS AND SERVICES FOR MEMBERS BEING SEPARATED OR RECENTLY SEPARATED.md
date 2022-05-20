@@ -157,7 +157,7 @@
 
 * (2) In order to improve the accuracy and completeness of a certification or verification of job skills and experience required by paragraph (1), the Secretary of Defense shall—
 
-  * (A) establish a database to record all training performed by members of the Army, Navy, Air Force, and Marine Corps that may have application to employment in the civilian sector; and
+  * (A) establish a database to record all training performed by members of the Army, Navy, Air Force, Marine Corps, and Space Force that may have application to employment in the civilian sector; and
 
   * (B) make unclassified information regarding such information available to States and other potential employers referred to in subsection (c) so that State and other entities may allow military training to satisfy licensing or certification requirements to engage in a civilian profession.
 
@@ -172,14 +172,14 @@
 
   * (i) use a certification or verification of job skills and experience provided to a member of the armed forces under subsection (a); and
 
-  * (ii) in the case of members of the Army, Navy, Air Force, and Marine Corps, request the Department of Defense to confirm the accuracy and authenticity of the certification or verification.
+  * (ii) in the case of members of the Army, Navy, Air Force, Marine Corps, and Space Force, request the Department of Defense to confirm the accuracy and authenticity of the certification or verification.
 
 
 * (B) A response confirming or denying the information shall be provided within five business days.
 
-* (d) EMPLOYMENT PREFERENCE BY NONAPPROPRIATED FUND INSTRUMENTALITIES.—The Secretary of Defense shall take such steps as necessary to provide that members of Army, Navy, Air Force, or Marine Corps who are involuntarily separated, and the dependents of such members, shall be provided a preference in hiring by nonappropriated fund instrumentalities of the Department. Such preference shall be administered in the same manner as the preference for military spouses provided under section 1784(a)(2) of this title, except that a preference under that section shall have priority over a preference under this subsection. A person may receive a preference in hiring under this subsection only once. The Secretary of Homeland Security shall provide the same preference in hiring to involuntarily separated members of the Coast Guard, and the dependents of such members, in Coast Guard nonappropriated fund instrumentalities.
+* (d) EMPLOYMENT PREFERENCE BY NONAPPROPRIATED FUND INSTRUMENTALITIES.—The Secretary of Defense shall take such steps as necessary to provide that members of Army, Navy, Air Force, Marine Corps, or Space Force who are involuntarily separated, and the dependents of such members, shall be provided a preference in hiring by nonappropriated fund instrumentalities of the Department. Such preference shall be administered in the same manner as the preference for military spouses provided under section 1784(a)(2) of this title, except that a preference under that section shall have priority over a preference under this subsection. A person may receive a preference in hiring under this subsection only once. The Secretary of Homeland Security shall provide the same preference in hiring to involuntarily separated members of the Coast Guard, and the dependents of such members, in Coast Guard nonappropriated fund instrumentalities.
 
-* (e) EMPLOYMENT SKILLS TRAINING.—(1) The Secretary of a military department may carry out one or more programs to provide eligible members of the armed forces under the jurisdiction of the Secretary with job training and employment skills training, including apprenticeship programs, to help prepare such members for employment in the civilian sector.
+* (e) EMPLOYMENT SKILLS TRAINING.—(1) The Secretary concerned may carry out one or more programs to provide eligible members of the armed forces under the jurisdiction of the Secretary with job training and employment skills training, including apprenticeship programs, to help prepare such members for employment in the civilian sector.
 
 * (2) A member of the armed forces is an eligible member for purposes of a program under this subsection if the member—
 
@@ -188,9 +188,9 @@
   * (B) is expected to be discharged or released from active duty in the armed forces within 180 days of the date of commencement of participation in such a program.
 
 
-* (3) Any program under this subsection may be carried out at, through, or in consultation with such other departments or agencies of the Federal Government as the Secretary of the military department concerned considers appropriate.
+* (3) Any program under this subsection may be carried out at, through, or in consultation with such other departments or agencies of the Federal Government as the Secretary concerned considers appropriate.
 
-* (4) Any program under this subsection shall be carried out in accordance with regulations prescribed by the Secretary of Defense.
+* (4) Any program under this subsection shall be carried out in accordance with regulations prescribed by the Secretary concerned.
 
 ### §1144. Employment assistance, job training assistance, and other transitional services: Department of Labor
 * (a) IN GENERAL.—(1) The Secretary of Labor, in conjunction with the Secretary of Defense, the Secretary of Homeland Security, and the Secretary of Veterans Affairs, shall establish and maintain a program to furnish counseling, assistance in identifying employment and training opportunities, help in obtaining such employment and training, and other related information and services to members of the armed forces under the jurisdiction of the Secretary concerned who are being separated from active duty and the spouses of such members. Subject to subsection (f)(2), such services shall be provided to a member within the time periods provided under paragraph (3) of section 1142(a) of this title, except that the Secretary concerned shall not provide preseparation counseling to a member described in paragraph (4)(A) of such section.
@@ -407,6 +407,9 @@
   * (1) The date of the separation of the member.
 
   * (2) The date on which the member is first notified of the member's entitlement to benefits under this section.
+
+
+* (d) EMERGENCY RESPONSE PROVIDERS DURING A DECLARED MAJOR DISASTER OR EMERGENCY.—The Secretary of Defense may prescribe regulations to allow an emergency response provider (as that term is defined in section 2 of the Homeland Security Act of 2002 (Public Law 107–296; 6 U.S.C. 101)) to use a mobile commissary or exchange store deployed to an area covered by a declaration of a major disaster or emergency under section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170).
 
 ### §1147. Use of military family housing
 * (a) TRANSITION FOR INVOLUNTARILY SEPARATED MEMBERS.—(1) The Secretary of a military department may, pursuant to regulations prescribed by the Secretary of Defense, permit individuals who are involuntarily separated during the period beginning on October 1, 2012, and ending on December 31, 2018, to continue for not more than 180 days after the date of such separation to reside (along with other members of the individual's household) in military family housing provided or leased by the Department of Defense to such individual as a member of the armed forces.

@@ -38,6 +38,157 @@
 ### §7. "Person" or "persons" defined
 * The word "person", or "persons", wherever used in sections 1 to 7 of this title shall be deemed to include corporations and associations existing under or authorized by the laws of either the United States, the laws of any of the Territories, the laws of any State, or the laws of any foreign country.
 
+### §7a. Definitions
+* In sections 7a to 7a–3 of this title:
+
+* #### (1) Antitrust division
+  * The term "Antitrust Division" means the United States Department of Justice Antitrust Division.
+
+* #### (2) Antitrust leniency agreement
+  * The term "antitrust leniency agreement," or "agreement," means a leniency letter agreement, whether conditional or final, between a person and the Antitrust Division pursuant to the Corporate Leniency Policy of the Antitrust Division in effect on the date of execution of the agreement.
+
+* #### (3) Antitrust leniency applicant
+  * The term "antitrust leniency applicant," or "applicant," means, with respect to an antitrust leniency agreement, the person that has entered into the agreement.
+
+* #### (4) Claimant
+  * The term "claimant" means a person or class, that has brought, or on whose behalf has been brought, a civil action alleging a violation of section 1 or 3 of this title or any similar State law, except that the term does not include a State or a subdivision of a State with respect to a civil action brought to recover damages sustained by the State or subdivision.
+
+* #### (5) Cooperating individual
+  * The term "cooperating individual" means, with respect to an antitrust leniency agreement, a current or former director, officer, or employee of the antitrust leniency applicant who is covered by the agreement.
+
+* #### (6) Person
+  * The term "person" has the meaning given it in subsection (a) of section 12 of this title.
+
+### §7a–1. Limitation on recovery
+#### (a) In general
+* Subject to subsection (d), in any civil action alleging a violation of section 1 or 3 of this title, or alleging a violation of any similar State law, based on conduct covered by a currently effective antitrust leniency agreement, the amount of damages recovered by or on behalf of a claimant from an antitrust leniency applicant who satisfies the requirements of subsection (b), together with the amounts so recovered from cooperating individuals who satisfy such requirements, shall not exceed that portion of the actual damages sustained by such claimant which is attributable to the commerce done by the applicant in the goods or services affected by the violation.
+
+#### (b) Requirements
+* Subject to subsection (c), an antitrust leniency applicant or cooperating individual satisfies the requirements of this subsection with respect to a civil action described in subsection (a) if the court in which the civil action is brought determines, after considering any appropriate pleadings from the claimant, that the applicant or cooperating individual, as the case may be, has provided satisfactory cooperation to the claimant with respect to the civil action, which cooperation shall include—
+
+  * (1) providing a full account to the claimant of all facts known to the applicant or cooperating individual, as the case may be, that are potentially relevant to the civil action;
+
+  * (2) furnishing all documents or other items potentially relevant to the civil action that are in the possession, custody, or control of the applicant or cooperating individual, as the case may be, wherever they are located; and
+
+  * (3)(A) in the case of a cooperating individual—
+
+    * (i) making himself or herself available for such interviews, depositions, or testimony in connection with the civil action as the claimant may reasonably require; and
+
+    * (ii) responding completely and truthfully, without making any attempt either falsely to protect or falsely to implicate any person or entity, and without intentionally withholding any potentially relevant information, to all questions asked by the claimant in interviews, depositions, trials, or any other court proceedings in connection with the civil action; or
+
+
+  * (B) in the case of an antitrust leniency applicant, using its best efforts to secure and facilitate from cooperating individuals covered by the agreement the cooperation described in clauses (i) and (ii) and subparagraph (A).
+
+#### (c) Timeliness
+* The court shall consider, in making the determination concerning satisfactory cooperation described in subsection (b), the timeliness of the applicant's or cooperating individual's cooperation with the claimant.
+
+#### (d) Cooperation after expiration of stay or protective order
+* If the Antitrust Division does obtain a stay or protective order in a civil action based on conduct covered by an antitrust leniency agreement, once the stay or protective order, or a portion thereof, expires or is terminated, the antitrust leniency applicant and cooperating individuals shall provide without unreasonable delay any cooperation described in paragraphs (1) and (2) of subsection (b) that was prohibited by the expired or terminated stay or protective order, or the expired or terminated portion thereof, in order for the cooperation to be deemed satisfactory under such paragraphs.
+
+#### (e) Continuation
+* Nothing in this section shall be construed to modify, impair, or supersede the provisions of sections 15, 15a, and 15c of this title relating to the recovery of costs of suit, including a reasonable attorney's fee, and interest on damages, to the extent that such recovery is authorized by such sections.
+
+### §7a–2. Rights, authorities, and liabilities not affected
+* Nothing in sections 7a to 7a–3 of this title shall be construed to—
+
+  * (1) affect the rights of the Antitrust Division to seek a stay or protective order in a civil action based on conduct covered by an antitrust leniency agreement to prevent the cooperation described in section 7a–1(b) of this title from impairing or impeding the investigation or prosecution by the Antitrust Division of conduct covered by the agreement;
+
+  * (2) create any right to challenge any decision by the Antitrust Division with respect to an antitrust leniency agreement; or
+
+  * (3) affect, in any way, the joint and several liability of any party to a civil action described in section 7a–1(a) of this title, other than that of the antitrust leniency applicant and cooperating individuals as provided in section 7a–1(a) of this title."
+
+### §7a–3. Anti-retaliation protection for whistleblowers
+#### (a) Whistleblower protections for employees, contractors, subcontractors, and agents
+* #### (1) In general
+  * No employer may discharge, demote, suspend, threaten, harass, or in any other manner discriminate against a covered individual in the terms and conditions of employment of the covered individual because of any lawful act done by the covered individual—
+
+    * (A) to provide or cause to be provided to the Federal Government or a person with supervisory authority over the covered individual (or such other person working for the employer who has the authority to investigate, discover, or terminate misconduct) information relating to—
+
+      * (i) any violation of, or any act or omission the covered individual reasonably believes to be a violation of, the antitrust laws; or
+
+      * (ii) any violation of, or any act or omission the covered individual reasonably believes to be a violation of, another criminal law committed in conjunction with a potential violation of the antitrust laws or in conjunction with an investigation by the Department of Justice of a potential violation of the antitrust laws; or
+
+
+    * (B) to cause to be filed, testify in, participate in, or otherwise assist a Federal Government investigation or a Federal Government proceeding filed or about to be filed (with any knowledge of the employer) relating to—
+
+      * (i) any violation of, or any act or omission the covered individual reasonably believes to be a violation of, the antitrust laws; or
+
+      * (ii) any violation of, or any act or omission the covered individual reasonably believes to be a violation of, another criminal law committed in conjunction with a potential violation of the antitrust laws or in conjunction with an investigation by the Department of Justice of a potential violation of the antitrust laws.
+
+* #### (2) Limitation on protections
+  * Paragraph (1) shall not apply to any covered individual if—
+
+    * (A) the covered individual planned and initiated a violation or attempted violation of the antitrust laws;
+
+    * (B) the covered individual planned and initiated a violation or attempted violation of another criminal law in conjunction with a violation or attempted violation of the antitrust laws; or
+
+    * (C) the covered individual planned and initiated an obstruction or attempted obstruction of an investigation by the Department of Justice of a violation of the antitrust laws.
+
+* #### (3) Definitions
+  * In this section:
+
+  * #### (A) Antitrust laws
+    * The term "antitrust laws" means section 1 or 3 of this title.
+
+  * #### (B) Covered individual
+    * The term "covered individual" means an employee, contractor, subcontractor, or agent of an employer.
+
+  * #### (C) Employer
+    * The term "employer" means a person, or any officer, employee, contractor, subcontractor, or agent of such person.
+
+  * #### (D) Federal Government
+    * The term "Federal Government" means—
+
+      * (i) a Federal regulatory or law enforcement agency; or
+
+      * (ii) any Member of Congress or committee of Congress.
+
+  * #### (E) Person
+    * The term "person" has the same meaning as in subsection (a) of section 12 of this title.
+
+* #### (4) Rule of construction
+  * The term "violation", with respect to the antitrust laws, shall not be construed to include a civil violation of any law that is not also a criminal violation.
+
+#### (b) Enforcement action
+* #### (1) In general
+  * A covered individual who alleges discharge or other discrimination by any employer in violation of subsection (a) may seek relief under subsection (c) by—
+
+    * (A) filing a complaint with the Secretary of Labor; or
+
+    * (B) if the Secretary of Labor has not issued a final decision within 180 days of the filing of the complaint and there is no showing that such delay is due to the bad faith of the claimant, bringing an action at law or equity for de novo review in the appropriate district court of the United States, which shall have jurisdiction over such an action without regard to the amount in controversy.
+
+* #### (2) Procedure
+  * #### (A) In general
+    * A complaint filed with the Secretary of Labor under paragraph (1)(A) shall be governed under the rules and procedures set forth in section 42121(b) of title 49.
+
+  * #### (B) Exception
+    * Notification made under section 42121(b)(1) of title 49 shall be made to any individual named in the complaint and to the employer.
+
+  * #### (C) Burdens of proof
+    * An action brought under paragraph (1)(B) shall be governed by the legal burdens of proof set forth in section 42121(b) of title 49.
+
+  * #### (D) Statute of limitations
+    * A complaint under paragraph (1)(A) shall be filed with the Secretary of Labor not later than 180 days after the date on which the violation occurs.
+
+  * #### (E) Civil actions to enforce
+    * If a person fails to comply with an order or preliminary order issued by the Secretary of Labor pursuant to the procedures set forth in section 42121(b) of title 49, the Secretary of Labor or the person on whose behalf the order was issued may bring a civil action to enforce the order in the district court of the United States for the judicial district in which the violation occurred.
+
+#### (c) Remedies
+* #### (1) In general
+  * A covered individual prevailing in any action under subsection (b)(1) shall be entitled to all relief necessary to make the covered individual whole.
+
+* #### (2) Compensatory damages
+  * Relief for any action under paragraph (1) shall include—
+
+    * (A) reinstatement with the same seniority status that the covered individual would have had, but for the discrimination;
+
+    * (B) the amount of back pay, with interest; and
+
+    * (C) compensation for any special damages sustained as a result of the discrimination including litigation costs, expert witness fees, and reasonable attorney's fees.
+
+#### (d) Rights retained by whistleblowers
+* Nothing in this section shall be deemed to diminish the rights, privileges, or remedies of any covered individual under any Federal or State law, or under any collective bargaining agreement.
+
 ### §8. Trusts in restraint of import trade illegal; penalty
 * Every combination, conspiracy, trust, agreement, or contract is declared to be contrary to public policy, illegal, and void when the same is made by or between two or more persons or corporations, either of whom, as agent or principal, is engaged in importing any article from any foreign country into the United States, and when such combination, conspiracy, trust, agreement, or contract is intended to operate in restraint of lawful trade, or free competition in lawful trade or commerce, or to increase the market price in any part of the United States of any article or articles imported or intended to be imported into the United States, or of any manufacture into which such imported article enters or is intended to enter. Every person who shall be engaged in the importation of goods or any commodity from any foreign country in violation of this section, or who shall combine or conspire with another to violate the same, is guilty of a misdemeanor, and on conviction thereof in any court of the United States such person shall be fined in a sum not less than $100 and not exceeding $5,000, and shall be further punished by imprisonment, in the discretion of the court, for a term not less than three months nor exceeding twelve months.
 

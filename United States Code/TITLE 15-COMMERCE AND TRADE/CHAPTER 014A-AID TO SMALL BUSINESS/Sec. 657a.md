@@ -231,7 +231,7 @@
 
       * (ii) the anticipated award price of the contract (including options) will not exceed—
 
-        * (I) $5,000,000, in the case of a contract opportunity assigned a standard industrial classification code for manufacturing; or
+        * (I) $7,000,000, in the case of a contract opportunity assigned a standard industrial classification code for manufacturing; or
 
         * (II) $3,000,000, in the case of all other contract opportunities; and
 

@@ -30,12 +30,23 @@
 
 * (3) The Commandant is authorized to use appropriated funds available to the Coast Guard to provide assistance to family home daycare providers so that family home daycare services can be provided to uniformed service members and civilian employees of the Coast Guard at a cost comparable to the cost of services provided by Coast Guard child development centers.
 
+* (4) To the maximum extent practicable, the Commandant shall ensure that, in a location in which Coast Guard family child care centers (as such term is defined in section 8239 of the Elijah E. Cummings Coast Guard Authorization Act of 2020) are necessary to meet the demand for child care for qualified families (as such term is defined in such section), not fewer than two housing units are maintained in accordance with safety inspection standards so as to accommodate family child care providers.
+
 * (c) The Secretary shall promulgate regulations to implement this section. The regulations shall establish fees to be charged for child development services provided under this section which take into consideration total family income.
 
 ### §2923. Child development center standards and inspections
 * (a) STANDARDS.—The Commandant shall require each Coast Guard child development center to meet standards that the Commandant considers appropriate to ensure the health, safety, and welfare of the children and employees at the center.
 
-* (b) INSPECTIONS.—The Commandant shall provide for regular and unannounced inspections of each Coast Guard child development center to ensure compliance with this section.
+* (b) INSPECTIONS.—
+
+  * (1) IN GENERAL.—Not less than twice annually, the Commandant shall ensure that each Coast Guard child development center is subject to an unannounced inspection.
+
+  * (2) RESPONSIBILITY FOR INSPECTIONS.—Of the biannual inspections under paragraph (1)—
+
+    * (A) 1 shall be carried out by a representative of the Coast Guard installation served by the Coast Guard child development center concerned; and
+
+    * (B) 1 shall be carried out by a representative of the Coast Guard child development services work-life programs.
+
 
 * (c) NATIONAL REPORTING.—
 
@@ -113,3 +124,12 @@
 
 
 * (b) PARENT PARTICIPATION INITIATIVE.—The Commandant is authorized to establish a parent participation initiative at each Coast Guard child development center to encourage and facilitate parent participation in educational and related activities at the center.
+
+### §2926. Family child care providers
+* (a) IN GENERAL.—Not less frequently than quarterly, the Commandant shall ensure that each family child care provider is subject to inspection.
+
+* (b) RESPONSIBILITY FOR INSPECTIONS.—Of the quarterly inspections under subsection (a) each year—
+
+  * (1) 3 inspections shall be carried out by a representative of the Coast Guard installation served by the family child care provider concerned; and
+
+  * (2) 1 inspection shall be carried out by a representative of the Coast Guard child development services work-life programs.

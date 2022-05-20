@@ -59,7 +59,7 @@
 * (b) An individual (or the estate of that individual) who is authorized by the Coast Guard to provide a service under a program established under subsection (a) and who is acting within the scope of that individual's duties is not liable for injury to, or loss of, property or personal injury or death that may be caused incident to providing the service.
 
 ### §709. Maritime instruction
-* The Coast Guard may, when so requested by proper authority, detail members for duty in connection with maritime instruction and training by the several States, Territories, the District of Columbia, and Puerto Rico, and when requested by the Maritime Administrator, detail persons in the Coast Guard for duty in connection with maritime instruction and training by the United States. The service rendered by any person so detailed shall be considered Coast Guard duty.
+* The Coast Guard may, when so requested by proper authority, detail members for duty in connection with maritime instruction and training by the several States, Territories, the District of Columbia, and Puerto Rico, and when requested by the Maritime Administrator, detail individuals in the Coast Guard for duty in connection with maritime instruction and training by the United States. The service rendered by any individual so detailed shall be considered Coast Guard duty.
 
 ### §710. Assistance to foreign governments and maritime authorities
 * (a) DETAIL OF MEMBERS TO ASSIST FOREIGN GOVERNMENTS.—The President may upon application from the foreign governments concerned, and whenever in his discretion the public interests render such a course advisable, detail members of the Coast Guard to assist foreign governments in matters concerning which the Coast Guard may be of assistance.
@@ -202,3 +202,83 @@
   * (1) STATUS.—Any individual to whom, as an emergency response provider, training is made available under this section, who is not otherwise a Federal employee, shall not, because of that training, be considered a Federal employee for any purpose (including the purposes of chapter 81 of title 5 (relating to compensation for injury) and sections 2671 through 2680 of title 28 (relating to tort claims)).
 
   * (2) LIMITATION ON LIABILITY.—The United States shall not be liable for actions taken by an individual in the course of training made available under this section.
+
+### §719. Research projects; transactions other than contracts and grants
+* (a) ADDITIONAL FORMS OF TRANSACTIONS AUTHORIZED.—
+
+  * (1) IN GENERAL.—The Commandant may enter into—
+
+    * (A) transactions (other than contracts, cooperative agreements, and grants) in carrying out basic, applied, and advanced research projects; and
+
+    * (B) agreements with the Director of the Defense Advanced Research Projects Agency, the Secretary of a military department, or any other official designated by the Secretary of Defense under section 2371b of title 10 to participate in prototype projects and follow-on production contracts or transactions that are being carried out by such official and are directly relevant to the Coast Guard's cyber capability and Command, Control, Communications, Computers, and intelligence initiatives.
+
+
+  * (2) ADDITIONAL AUTHORITY.—The authority under this subsection is in addition to the authority provided in section 717 to use contracts, cooperative agreements, and grants in carrying out such projects.
+
+  * (3) FUNDING.—In carrying out paragraph (1)(B), the Commandant may use funds made available to the extent provided in advance in appropriations Acts for—
+
+    * (A) operations and support;
+
+    * (B) research, development, test, and evaluation; and
+
+    * (C) procurement, construction, and improvement.
+
+
+* (b) RECOVERY OF FUNDS.—
+
+  * (1) IN GENERAL.—Subject to subsection (d), a cooperative agreement for performance of basic, applied, or advanced research authorized by section 717, and a transaction authorized by subsection (a), may include a clause that requires a person or other entity to make payments to the Coast Guard or any other department or agency of the Federal Government as a condition for receiving support under the agreement or transaction, respectively.
+
+  * (2) AVAILABILITY OF FUNDS.—The amount of any payment received by the Federal Government pursuant to a requirement imposed under paragraph (1) shall be deposited in the general fund of the Treasury. Amounts so deposited shall be available for the purposes of carrying out this section, to the extent provided in advance in appropriations Acts.
+
+
+* (c) CONDITIONS.—
+
+  * (1) IN GENERAL.—The Commandant shall ensure that to the extent that the Commandant determines practicable, no cooperative agreement containing a clause described in subsection (c)(1), and no transaction entered into under subsection (a), provides for research that duplicates research being conducted under existing programs carried out by the Coast Guard.
+
+  * (2) OTHER AGREEMENTS NOT FEASIBLE.—A cooperative agreement containing a clause described in subsection (c)(1), or under a transaction authorized by subsection (a), may be used for a research project only if the use of a standard contract, grant, or cooperative agreement for such project is not feasible or appropriate.
+
+
+* (d) EDUCATION AND TRAINING.—The Commandant shall—
+
+  * (1) ensure that management, technical, and contracting personnel of the Coast Guard involved in the award or administration of transactions under this section or other innovative forms of contracting are afforded opportunities for adequate education and training; and
+
+  * (2) establish minimum levels and requirements for continuous and experiential learning for such personnel, including levels and requirements for acquisition certification programs.
+
+
+* (e) PROTECTION OF CERTAIN INFORMATION FROM DISCLOSURE.—
+
+  * (1) IN GENERAL.—Disclosure of information described in paragraph (2) is not required, and may not be compelled, under section 552 of title 5 for 5 years after the date on which the information is received by the Coast Guard.
+
+  * (2) LIMITATION.—
+
+    * (A) IN GENERAL.—Paragraph (1) applies to information described in subparagraph (B) that is in the records of the Coast Guard only if the information was submitted to the Coast Guard in a competitive or noncompetitive process having the potential for resulting in an award, to the party submitting the information, of a cooperative agreement for performance of basic, applied, or advanced research authorized by section 717 or another transaction authorized by subsection (a).
+
+    * (B) INFORMATION DESCRIBED.—The information referred to in subparagraph (A) is the following:
+
+      * (i) A proposal, proposal abstract, and supporting documents.
+
+      * (ii) A business plan submitted on a confidential basis.
+
+      * (iii) Technical information submitted on a confidential basis.
+
+
+* (f) REGULATIONS.—The Commandant shall prescribe regulations, as necessary, to carry out this section.
+
+* (g) ANNUAL REPORT.—On the date on which the President submits to Congress a budget pursuant to section 1105 of title 31, the Commandant shall submit to the Committees on Appropriations and Transportation and Infrastructure of the House of Representatives and the Committees on Appropriations and Commerce, Science, and Transportation of the Senate a report describing each use of the authority provided under this section during the most recently completed fiscal year, including details of each use consisting of—
+
+  * (1) the amount of each transaction;
+
+  * (2) the entities or organizations involved;
+
+  * (3) the product or service received;
+
+  * (4) the research project for which the product or service was required; and
+
+  * (5) the extent of the cost sharing among Federal Government and non-Federal sources.
+
+### §720. VHF communications services
+* (a) The Secretary of the department in which the Coast Guard is operating may authorize a person providing commercial VHF communications services to place commercial VHF communications equipment on real property under the administrative control of the Coast Guard (including towers) subject to any terms agreed to by the parties. The Secretary and that commercial VHF communications service provider also may enter into an agreement providing for VHF communications services to the Coast Guard (including digital selective calling and radio direction finding services) at a discounted rate or price based on providing such access to real property under the administrative control of the Coast Guard.
+
+* (b) Commercial VHF communication equipment placed on real property under the administrative control of the Coast Guard under this section shall not interfere in any manner with any current or future Coast Guard communication equipment.
+
+* (c) Nothing in this section shall affect the rights or obligations of the United States under section 704(c) of the Telecommunications Act of 1996 (47 U.S.C. 332 note) with respect to the availability of property or under section 359(d) of the Communications Act of 1934 (47 U.S.C. 357(d)) with respect to charges for transmission of distress messages.

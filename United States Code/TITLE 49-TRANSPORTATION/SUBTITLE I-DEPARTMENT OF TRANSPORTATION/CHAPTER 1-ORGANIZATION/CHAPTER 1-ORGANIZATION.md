@@ -341,6 +341,8 @@
 
   * (6) CONTRACTS.—The Administrator is authorized to enter into and perform such contracts, leases, cooperative agreements, or other transactions as may be necessary to carry out the functions of the Administrator and the Administration. The Administrator may enter into such contracts, leases, cooperative agreements, and other transactions with any Federal agency (as such term is defined in section 551(1) of title 5) or any instrumentality of the United States, any State, territory, or possession, or political subdivision thereof, any other governmental entity, or any person, firm, association, corporation, or educational institution, on such terms and conditions as the Administrator may consider appropriate.
 
+  * (7) PROHIBITION ON CERTAIN PERFORMANCE-BASED INCENTIVES.—No employee of the Administration shall be given an award, financial incentive, or other compensation, as a result of actions to meet performance goals related to meeting or exceeding schedules, quotas, or deadlines for certificates issued under section 44704.
+
 
 * (m) COOPERATION BY ADMINISTRATOR.—With the consent of appropriate officials, the Administrator may, with or without reimbursement, use or accept the services, equipment, personnel, and facilities of any other Federal agency (as such term is defined in section 551(1) of title 5) and any other public or private entity. The Administrator may also cooperate with appropriate officials of other public and private agencies and instrumentalities concerning the use of services, equipment, personnel, and facilities. The head of each Federal agency shall cooperate with the Administrator in making the services, equipment, personnel, and facilities of the Federal agency available to the Administrator. The head of a Federal agency is authorized, notwithstanding any other provision of law, to transfer to or to receive from the Administration, with or without reimbursement, supplies, personnel, services, and equipment other than administrative supplies or equipment.
 
@@ -704,9 +706,9 @@
     * (B) other information as may be requested by the Administrator and the Chief Operating Officer.
 
 
-* (t) AVIATION SAFETY WHISTLEBLOWER INVESTIGATION OFFICE.—
+* (t) OFFICE OF WHISTLEBLOWER PROTECTION AND AVIATION SAFETY INVESTIGATIONS.—
 
-  * (1) ESTABLISHMENT.—There is established in the Federal Aviation Administration (in this subsection referred to as the "Agency") an Aviation Safety Whistleblower Investigation Office (in this subsection referred to as the "Office").
+  * (1) ESTABLISHMENT.—There is established in the Federal Aviation Administration (in this subsection referred to as the "Agency") the Office of Whistleblower Protection and Aviation Safety Investigations (in this subsection referred to as the "Office").
 
   * (2) DIRECTOR.—
 
@@ -718,16 +720,24 @@
 
     * (D) VACANCIES.—Any individual appointed to fill a vacancy in the position of the Director occurring before the expiration of the term for which the individual's predecessor was appointed shall be appointed for the remainder of that term.
 
+    * (E) LIMITATION OF DUTIES.— The Director may only perform duties of the Director described in paragraph (3)(A).
+
 
   * (3) COMPLAINTS AND INVESTIGATIONS.—
 
     * (A) AUTHORITY OF DIRECTOR.—The Director shall—
 
-      * (i) receive complaints and information submitted by employees of persons holding certificates issued under title 14, Code of Federal Regulations (if the certificate holder does not have a similar in-house whistleblower or safety and regulatory noncompliance reporting process) and employees of the Agency concerning the possible existence of an activity relating to a violation of an order, a regulation, or any other provision of Federal law relating to aviation safety;
+      * (i) receive complaints and information submitted by employees of persons holding certificates issued under title 14, Code of Federal Regulations (if the certificate holder does not have a similar in-house whistleblower or safety and regulatory noncompliance reporting process established under or pursuant to a safety management system) and employees of the Agency concerning the possible existence of an activity relating to a violation of an order, a regulation, or any other provision of Federal law relating to aviation safety;
 
-      * (ii) assess complaints and information submitted under clause (i) and determine whether a substantial likelihood exists that a violation of an order, a regulation, or any other provision of Federal law relating to aviation safety has occurred; and
+      * (ii) assess complaints and information submitted under clause (i) and determine whether a substantial likelihood exists that a violation of an order, a regulation, or any other provision of Federal law relating to aviation safety has occurred;
 
-      * (iii) based on findings of the assessment conducted under clause (ii), make recommendations to the Administrator of the Agency, in writing, regarding further investigation or corrective actions.
+      * (iii) based on findings of the assessment conducted under clause (ii), make recommendations to the Administrator of the Agency, in writing, regarding further investigation or corrective actions;
+
+      * (iv) receive allegations of whistleblower retaliation by employees of the Agency;
+
+      * (v) coordinate with and provide all necessary assistance to the Office of Investigations and Professional Responsibility, the inspector general of the Department of Transportation, and the Office of Special Counsel on investigations relating to whistleblower retaliation by employees of the Agency; and
+
+      * (vi) investigate allegations of whistleblower retaliation by employees of the Agency that have been delegated to the Office by the Office of Investigations and Professional Responsibility, the inspector general of the Department of Transportation, or the Office of Special Counsel.
 
 
     * (B) DISCLOSURE OF IDENTITIES.—The Director shall not disclose the identity of an individual who submits a complaint or information under subparagraph (A)(i) unless—
@@ -748,15 +758,40 @@
 
   * (6) REPORTING OF CRIMINAL VIOLATIONS TO INSPECTOR GENERAL.—If the Director has reasonable grounds to believe that there has been a violation of Federal criminal law, the Director shall report the violation expeditiously to the Inspector General.
 
-  * (7) ANNUAL REPORTS TO CONGRESS.—Not later than October 1 of each year, the Director shall submit to Congress a report containing—
+  * (7) ANNUAL REPORTS TO CONGRESS.—Not later than November 15 of each year, the Director shall submit to Congress a report containing—
 
-    * (A) information on the number of submissions of complaints and information received by the Director under paragraph (3)(A)(i) in the preceding 12-month period;
+    * (A) information on the number of submissions of complaints and information received by the Director under paragraph (3)(A)(i) in the preceding fiscal year;
 
     * (B) summaries of those submissions;
 
-    * (C) summaries of further investigations and corrective actions recommended in response to the submissions; and
+    * (C) summaries of the resolution of those submissions, including any further investigations and corrective actions recommended in response to the submissions;
 
-    * (D) summaries of the responses of the Administrator to such recommendations.
+    * (D) summaries of the responses of the Administrator to such recommendations; and
+
+    * (E) A summary of the activities of the Whistleblower Ombudsman, including—
+
+      * (i) the number of employee consultations conducted by the Whistleblower Ombudsman in the preceding 12-month period and a summary of such consultations and their resolution (in a de-identified or anonymized form); and
+
+      * (ii) the number of reported incidents of retaliation during such period and, if applicable, a description of the disposition of such incidents during such period.
+
+
+  * (8) WHISTLEBLOWER OMBUDSMAN.—
+
+    * (A) IN GENERAL.—Within the Office, there shall be established the position of Whistleblower Ombudsman.
+
+    * (B) OMBUDSMAN QUALIFICATIONS.—The individual selected as Ombudsman shall have knowledge of Federal labor law and demonstrated government experience in human resource management, and conflict resolution.
+
+    * (C) DUTIES.—The Ombudsman shall carry out the following duties:
+
+      * (i) Educate Administration employees about prohibitions against materially adverse acts of retaliation and any specific rights or remedies with respect to those retaliatory actions.
+
+      * (ii) Serve as an independent confidential resource for Administration employees to discuss any specific retaliation allegation and available rights or remedies based on the circumstances, as appropriate.
+
+      * (iii) Coordinate with Human Resource Management, the Office of Accountability and Whistleblower Protection, the Office of Professional Responsibility, and the Office of the Chief Counsel, as necessary.
+
+      * (iv) Coordinate with the Office of the Inspector General of the Department of Transportation's Whistleblower Protection Coordinator and the Office of the Special Counsel, as necessary.
+
+      * (v) Conduct outreach and assist in the development of training within the Agency to mitigate the potential for retaliation and promote timely and appropriate processing of any protected disclosure or allegation of materially adverse acts of retaliation.
 
 ### §107. Federal Transit Administration
 * (a) The Federal Transit Administration is an administration in the Department of Transportation.
@@ -838,8 +873,8 @@
 
     * (I) other operations and training expenses related to the development of waterborne transportation systems, the use of waterborne transportation systems, and general administration.
 
-### §110. Saint Lawrence Seaway Development Corporation
-* (a) The Saint Lawrence Seaway Development Corporation established under section 1 of the Act of May 13, 1954 (33 U.S.C. 981), is subject to the direction and supervision of the Secretary of Transportation.
+### §110. Great Lakes St. Lawrence Seaway Development Corporation
+* (a) The Great Lakes St. Lawrence Seaway Development Corporation established under section 1 of the Act of May 13, 1954 (33 U.S.C. 981), is subject to the direction and supervision of the Secretary of Transportation.
 
 * (b) The Administrator of the Corporation appointed under section 2 of the Act of May 13, 1954 (33 U.S.C. 982), reports directly to the Secretary.
 

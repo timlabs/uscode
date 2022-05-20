@@ -143,7 +143,9 @@
     * (C) be responsible and report directly to the Chief Patient Care Services Officer of the Veterans Health Administration on all matters relating to the education and training, employment, appropriate use, and optimal participation of physician assistants within the programs and initiatives of the Administration.
 
 
-  * (10) Such other personnel as may be authorized by this chapter.
+  * (10) The Chief Officer of Women's Health.
+
+  * (11) Such other personnel as may be authorized by this chapter.
 
 
 * (b) Of the Assistant Under Secretaries for Health appointed under subsection (a)(3)—
@@ -303,7 +305,18 @@
 
   * (B) A description of the workload and additional treatment capacity of the Vet Centers, including, for each Vet Center, the ratio of the number of full-time equivalent employees at such Vet Center and the number of individuals who received services or assistance at such Vet Center.
 
-  * (C) A detailed analysis of demand for and unmet need for readjustment counseling services and the Secretary's plan for meeting such unmet need.
+  * (C) A detailed analysis of demand for and unmet need for readjustment counseling services and the Secretary's plan for meeting such unmet need, including the resources required to meet such unmet need, such as additional staff, additional locations, additional infrastructure, infrastructure improvements, and additional mobile Vet Centers.
+
+
+* (3) For each even numbered year in which the report required by paragraph (1) is submitted, the Secretary shall include in such report a prediction of—
+
+  * (A) trends in demand for care;
+
+  * (B) long-term investments required with respect to the provision of care;
+
+  * (C) requirements relating to maintenance of infrastructure; and
+
+  * (D) other capital investment requirements with respect to the Readjustment Counseling Service, including Vet Centers, mobile Vet Centers, and community access points.
 
 
 * (f) VET CENTER DEFINED.—In this section, the term "Vet Center" has the meaning given the term in section 1712A(h)(1) of this title.
@@ -360,3 +373,152 @@
 * (e) TRAINING.—In providing training to patient advocates under subsection (c)(2)(C), the Director shall ensure that such training is consistent throughout the Department.
 
 * (f) CONTROLLED SUBSTANCE DEFINED.—In this section, the term "controlled substance" has the meaning given that term in section 102 of the Controlled Substances Act (21 U.S.C. 802).
+
+### §7310. Office of Women's Health
+* (a) ESTABLISHMENT.—(1) The Under Secretary for Health shall establish and operate in the Veterans Health Administration the Office of Women's Health (in this section referred to as the "Office").
+
+* (2) The Office shall be located at the Central Office of the Department of Veterans Affairs.
+
+* (3)(A) The head of the Office is the Chief Officer of Women's Health (in this section referred to as the "Chief Officer").
+
+* (B) The Chief Officer shall report to the Under Secretary for Health.
+
+* (4) The Under Secretary for Health shall provide the Office with such staff and other support as may be necessary for the Office to carry out effectively the functions of the Office under this section.
+
+* (5) The Under Secretary for Health may reorganize existing offices within the Veterans Health Administration as of the date of the enactment of this section in order to avoid duplication with the functions of the Office.
+
+* (b) FUNCTIONS.—The functions of the Office include the following:
+
+  * (1) To provide a central office for monitoring and encouraging the activities of the Veterans Health Administration with respect to the provision, evaluation, and improvement of health care services provided to women veterans by the Department.
+
+  * (2) To develop and implement standards of care for the provision of health care for women veterans by the Department.
+
+  * (3) To monitor and identify deficiencies in standards of care for the provision of health care for women veterans by the Department, to provide technical assistance to medical facilities of the Department to address and remedy deficiencies, and to perform oversight of implementation of such standards of care.
+
+  * (4) To monitor and identify deficiencies in standards of care for the provision of health care for women veterans provided through the community pursuant to this title and to provide recommendations to the appropriate office to address and remedy any deficiencies.
+
+  * (5) To oversee distribution of resources and information related to health programming for women veterans under this title.
+
+  * (6) To promote the expansion and improvement of clinical, research, and educational activities of the Veterans Health Administration with respect to the health care of women veterans.
+
+  * (7) To provide, as part of the annual budgeting process, recommendations with respect to the amounts to be requested for furnishing hospital care and medical services to women veterans pursuant to chapter 17 of this title, including, at a minimum, recommendations that ensure that such amounts either reflect or exceed the proportion of veterans enrolled in the system of patient enrollment of the Department established and operated under section 1705(a) of this title who are women.
+
+  * (8) To provide recommendations to the Under Secretary for Health with respect to modifying the Veterans Equitable Resource Allocation system, or successor system, to ensure that resource allocations under such system, or successor system, reflect the health care needs of women veterans.
+
+  * (9) To carry out such other duties as the Under Secretary for Health may require.
+
+
+* (c) RECOMMENDATIONS.—(1) If the Under Secretary for Health determines not to implement any recommendation made by the Chief Officer with respect to the allocation of resources to address the health care needs of women veterans, the Secretary shall notify the appropriate congressional committees of such determination by not later than 30 days after the date on which the Under Secretary for Health receives the recommendation.
+
+* (2) Each notification under paragraph (1) relating to a determination with respect to a recommendation shall include the following:
+
+  * (A) The reasoning of the Under Secretary for Health in making the determination.
+
+  * (B) An alternative, if one is selected, to the recommendation that the Under Secretary for Health will carry out to fulfill the health care needs of women veterans.
+
+
+* (d) STANDARDS OF CARE.—For purposes of carrying out the functions of the Office under this section, the standards of care for the provision of health care for women veterans from the Department shall include, at a minimum, the following:
+
+  * (1) A requirement for—
+
+    * (A) at least one designated women's health primary care provider at each medical center of the Department whose duties include, to the extent practicable, providing training to other health care providers of the Department with respect to the needs of women veterans; and
+
+    * (B) at least one designated women's health primary care provider at each community-based outpatient clinic of the Department who may serve women patients as a percentage of the total duties of the provider.
+
+
+  * (2) Other requirements as determined by the Under Secretary for Health.
+
+
+* (e) OUTREACH.—The Chief Officer shall ensure that—
+
+  * (1) not less frequently than biannually, each medical facility of the Department holds a public forum for women veterans that occurs outside of regular business hours; and
+
+  * (2) not less frequently than quarterly, each medical facility of the Department convenes a focus group of women veterans that includes a discussion of harassment occurring at such facility.
+
+
+* (f) DEFINITIONS.—In this section:
+
+  * (1) The term "appropriate congressional committees" has the meaning given that term in section 7310A(h) of this title.
+
+  * (2) The term "facility of the Department" has the meaning given the term "facilities of the Department" in section 1701(3) of this title.
+
+  * (3) The term "Veterans Equitable Resource Allocation system" means the resource allocation system established pursuant to section 429 of the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 1997 (Public Law 104–204; 110 Stat. 2929).
+
+### §7310A. Annual reports on Women's Health
+* (a) ANNUAL REPORTS.—Not later than December 1 of each year, the Chief Officer of Women's Health shall submit to the appropriate congressional committees a report containing the matters under subsections (b) through (g).
+
+* (b) OFFICE OF WOMEN'S HEALTH.—Each report under subsection (a) shall include a description of—
+
+  * (1) actions taken by the Office of Women's Health established under section 7310 of this title in the preceding fiscal year to improve the provision of health care by the Department to women veterans;
+
+  * (2) any identified deficiencies related to the provision of health care by the Department to women veterans and the standards of care established in such section and the plan of the Department to address such deficiencies;
+
+  * (3) the funding and personnel provided to the Office and whether additional funding or personnel are needed to meet the requirements of such section; and
+
+  * (4) other information that would be of interest to the appropriate congressional committees with respect to oversight of the provision of health care by the Department to women veterans.
+
+
+* (c) ACCESS TO GENDER-SPECIFIC SERVICES.—(1) Each report under subsection (a) shall include an analysis of the access of women veterans to gender-specific services under contracts, agreements, or other arrangements with non-Department medical providers entered into by the Secretary for the provision of hospital care or medical services to veterans.
+
+* (2) The analysis under paragraph (1) shall include data and performance measures for the availability of gender-specific services described in such paragraph, including—
+
+  * (A) the average wait time between the preferred appointment date of the veteran and the date on which the appointment is completed;
+
+  * (B) the average driving time required for veterans to attend appointments; and
+
+  * (C) reasons why appointments could not be scheduled with non-Department medical providers.
+
+
+* (d) MODELS OF CARE.—(1) Each report under subsection (a) shall include an analysis of the use by the Department of general primary care clinics, separate but shared spaces, and women's health centers as delivery of care models for women veterans.
+
+* (2) The analysis under paragraph (1) shall include the following:
+
+  * (A) The number of facilities of the Department that fall into each delivery of care model described in such paragraph, disaggregated by Veterans Integrated Service Network and State.
+
+  * (B) A description of the criteria used by the Department to determine which such model is most appropriate for each facility of the Department.
+
+  * (C) An assessment of how the Department decides to make investments to modify facilities to a different model.
+
+  * (D) A description of what, if any, plans the Department has to modify facilities from general primary care clinics to another model.
+
+  * (E) An assessment of whether any facilities could be modified to a separate but shared space for a women's health center within planned investments under the strategic capital investment planning process of the Department.
+
+  * (F) An assessment of whether any facilities could be modified to a separate or shared space or a women's health center with minor modifications to existing plans under the strategic capital investment planning process of the Department.
+
+  * (G) An assessment of whether the Department has a goal for how many facilities should fall into each such model.
+
+
+* (e) STAFFING.—Each report under subsection (a) shall include an analysis of the staffing of the Department relating to the treatment of women, including the following, disaggregated by Veterans Integrated Service Network and State (except with respect to paragraph (4)):
+
+  * (1) The number of women's health centers.
+
+  * (2) The number of patient aligned care teams of the Department relating to women's health.
+
+  * (3) The number of full- and part-time gynecologists of the Department.
+
+  * (4) The number of designated women's health care providers of the Department, disaggregated by facility of the Department.
+
+  * (5) The number of health care providers of the Department who have completed a mini-residency for women's health care through the Women Veterans Health Care Mini-Residency Program of the Department during the one-year period preceding the submittal of the report and the number of mini-residency training slots for such program that are available during the one-year period following such date.
+
+  * (6) The number of designated women's health care providers of the Department who have sufficient women patient loads or case complexities to retain their competencies and proficiencies.
+
+
+* (f) ACCESSIBILITY AND TREATMENT OPTIONS.—Each report under subsection (a) shall include an analysis of the accessibility and treatment options for women veterans, including the following:
+
+  * (1) An assessment of wheelchair accessibility of women's health centers of the Department, including, with respect to each such center, an assessment of accessibility for each kind of treatment provided at the center, including with respect to radiology and mammography, that addresses all relevant factors, including door sizes, hoists, and equipment.
+
+  * (2) The options for women veterans to access mental health providers and primary care providers who are women.
+
+  * (3) The options for women veterans at medical facilities of the Department with respect to clothing sizes, including for gowns, drawstring pants, and pajamas.
+
+
+* (g) DEFINITIONS.—In this section:
+
+  * (1) The term "appropriate congressional committees" means—
+
+    * (A) the Committee on Appropriations and the Committee on Veterans' Affairs of the Senate; and
+
+    * (B) the Committee on Appropriations and the Committee on Veterans' Affairs of the House of Representatives.
+
+
+  * (2) The term "gender-specific services" means mammography, obstetric care, gynecological care, and such other services as the Secretary determines appropriate.

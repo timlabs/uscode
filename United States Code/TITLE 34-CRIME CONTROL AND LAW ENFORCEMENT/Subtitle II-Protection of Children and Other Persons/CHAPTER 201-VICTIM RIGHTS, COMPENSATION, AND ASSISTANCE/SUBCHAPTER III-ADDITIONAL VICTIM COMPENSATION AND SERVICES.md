@@ -224,7 +224,7 @@
 
     * (A) compensatory damages awarded to a United States person in a final judgment—
 
-      * (i) issued by a United States district court under State or Federal law against a state sponsor of terrorism; and
+      * (i) issued by a United States district court under State or Federal law against a foreign state that was designated as a state sponsor of terrorism at the time the acts described in clause (ii) occurred or was so designated as a result of such acts; and
 
       * (ii) arising from acts of international terrorism, for which the foreign state was determined not to be immune from the jurisdiction of the courts of the United States under section 1605A, or section 1605(a)(7) (as such section was in effect on January 27, 2008), of title 28;
 
@@ -245,10 +245,10 @@
 
         * (I) a final judgment described in paragraph (2)(A) obtained before that date of publication; or
 
-        * (II) a claim described in paragraph (2)(B) or (2)(C), except that any United States person with an eligible claim described in paragraph (2)(B) who did not have an eligible claim before November 21, 2019 shall have 90 days from November 21, 2019 to submit an application for payment.
+        * (II) a claim described in paragraph (2)(B) or (2)(C), except that any United States person with an eligible claim described in paragraph (2)(B) who did not have an eligible claim before November 21, 2019, shall have 90 days from November 21, 2019, to submit an application for payment.
 
 
-      * (ii) Not later than 90 days after the date of obtaining a final judgment, with regard to a final judgment obtained on or after the date of that publication, unless the final judgment was awarded to a 9/11 victim, 9/11 spouse, or 9/11 dependent before November 21, 2019, in which case such United States person shall have 90 days from November 21, 2019 to submit an application for payment.
+      * (ii) Not later than 90 days after the date of obtaining a final judgment, with regard to a final judgment obtained on or after the date of that publication, unless the final judgment was awarded to a 9/11 victim, 9/11 spouse, or 9/11 dependent before November 21, 2019, in which case such United States person shall have 90 days from November 21, 2019, to submit an application for payment.
 
   * #### (B) Good cause
     * For good cause shown, the Special Master may grant a claimant a reasonable extension of a deadline under this paragraph.
@@ -289,10 +289,28 @@
 
 * #### (4) Additional payments
   * #### (A) In general
-    * Except as provided in subparagraph (B), on January 1 of the second calendar year that begins after the date of the initial payments described in paragraph (1) if funds are available in the Fund, the Special Master shall authorize additional payments on a pro rata basis to those claimants with eligible claims under subsection (c)(2) and shall authorize additional payments for eligible claims annually thereafter if funds are available in the Fund.
+    * Except as provided in subparagraphs (B) and (C), on January 1 of the second calendar year that begins after the date of the initial payments described in paragraph (1) if funds are available in the Fund, the Special Master shall authorize additional payments on a pro rata basis to those claimants with eligible claims under subsection (c)(2) and shall authorize additional payments for eligible claims annually thereafter if funds are available in the Fund.
 
   * #### (B) Third round payments
     * The Special Master shall authorize third-round payments to satisfy eligible claims under this section not earlier than 90 days, and not later than 180 days, after November 21, 2019. The Special Master shall accept applications from eligible applicants (consistent with the deadlines for application submission prescribed in subsection (c)(3)) until the date that is 90 days after November 21, 2019.
+
+  * #### (C) Lump sum catch-up payments for 9/11 victims, 9/11 spouses, and 9/11 dependents
+    * #### (i) In general
+      * Not later than 90 days after December 27, 2020, and in accordance with clauses (i) and (ii) of subsection (d)(3)(A), the Comptroller General of the United States shall conduct an audit and publish in the Federal Register a notice of proposed lump sum catch-up payments to 9/11 victims, 9/11 spouses, and 9/11 dependents who have submitted applications in accordance with subparagraph (B) in amounts that, after receiving the lump sum catch-up payments, would result in the percentage of the claims of 9/11 victims, 9/11 spouses, and 9/11 dependents received from the Fund being equal to the percentage of the claims of 9/11 family members received from the Fund, as of December 27, 2020.
+
+    * #### (ii) Public comment
+      * The Comptroller General shall provide an opportunity for public comment for a 30-day period beginning on the date on which the notice is published under clause (i).
+
+    * #### (iii) Report
+      * Not later than 30 days after the expiration comment period in clause (ii), the Comptroller General of the United States shall submit to the Committee on the Judiciary and the Committee on Appropriations of the Senate, the Committee on the Judiciary and the Committee on Appropriations of the House of Representatives, and the Special Master a report that includes the determination of the Comptroller General on—
+
+        * (I) the amount of the lump sum catch-up payment for each 9/11 victim;
+
+        * (II) the amount of the lump sum catch-up payment for each 9/11 spouse;
+
+        * (III) the amount of the lump sum catch-up payment for each 9/11 dependent; and
+
+        * (IV) the total amount of lump sum catch-up payments described in subclauses (I) through (III).
 
 * #### (5) Subrogation and retention of rights
   * #### (A) United States subrogated to creditor rights to the extent of payment
@@ -355,10 +373,10 @@
 
 * #### (6) Termination
   * #### (A) In general
-    * Amounts in the Fund may not be obligated on or after January 2, 2030.
+    * Amounts in the Fund may not be obligated on or after January 2, 2039.
 
   * #### (B) Closing of Fund
-    * Effective on the day after all amounts authorized to be paid from the Fund under this section that were obligated before January 2, 2030 are expended, any unobligated balances in the Fund shall be transferred, as appropriate, to either the Department of the Treasury Forfeiture Fund established under section 9705 of title 31 or to the Department of Justice Assets Forfeiture Fund established under section 524(c)(1) of title 28.
+    * Effective on the day after all amounts authorized to be paid from the Fund under this section that were obligated before January 2, 2039 are expended, any unobligated balances in the Fund shall be transferred, as appropriate, to either the Department of the Treasury Forfeiture Fund established under section 9705 of title 31 or to the Department of Justice Assets Forfeiture Fund established under section 524(c)(1) of title 28.
 
 #### (f) Attorneys' fees and costs
 * #### (1) In general
@@ -428,7 +446,7 @@
   * The term "Fund" means the United States Victims of State Sponsored Terrorism Fund established by this section.
 
 * #### (6) Source other than this Fund
-  * The term "source other than this Fund" means all collateral sources, including life insurance, pension funds, death benefit programs, payments by Federal, State, or local governments, and court awarded compensation related to the act of international terrorism that gave rise to a claimant's final judgment. The term "entitled or scheduled to receive" in subsection (d)(3)(B)(i) includes any potential recovery where that person or their representative is a party to any civil or administrative action pending in any court or agency of competent jurisdiction in which the party seeks to enforce the judgment giving rise to the application to the Fund.
+  * The term "source other than this Fund" means all collateral sources, including life insurance, pension funds, death benefit programs, payments by Federal, State, or local governments, and court awarded compensation related to the act of international terrorism that gave rise to a claimant's final judgment, except that the term does not include payments received in connection with an international claims agreement to which the United States is a state party or any other settlement of terrorism-related claims against Sudan. The term "entitled or scheduled to receive" in subsection (d)(3)(B)(i) includes any potential recovery where that person or their representative is a party to any civil or administrative action pending in any court or agency of competent jurisdiction in which the party seeks to enforce the judgment giving rise to the application to the Fund.
 
 * #### (7) State sponsor of terrorism
   * The term "state sponsor of terrorism" means a country the government of which the Secretary of State has determined, for purposes of section 4605(j) of title 50, section 2371 of title 22, section 2780 of title 22, or any other provision of law, is a government that has repeatedly provided support for acts of international terrorism.

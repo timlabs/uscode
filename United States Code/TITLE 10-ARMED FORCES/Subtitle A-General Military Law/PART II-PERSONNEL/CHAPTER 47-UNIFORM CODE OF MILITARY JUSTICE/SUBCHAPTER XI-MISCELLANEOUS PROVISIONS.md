@@ -123,3 +123,5 @@
 * (b) PROTECTION OF CERTAIN PERSONALLY IDENTIFIABLE INFORMATION.—Records of trial, docket information, filings, and other records made publicly accessible in accordance with the uniform standards and criteria for conduct established by the Secretary under subsection (a) shall restrict access to personally identifiable information of minors and victims of crime (including victims of sexual assault and domestic violence), as practicable to the extent such information is restricted in electronic filing systems of Federal and State courts.
 
 * (c) INAPPLICABILITY TO CERTAIN DOCKETS AND RECORDS.—Nothing in this section shall be construed to provide public access to docket information, filings, or records that are classified, subject to a judicial protective order, or ordered sealed.
+
+* (d) PRESERVATION OF COURT-MARTIAL RECORDS WITHOUT REGARD TO OUTCOME.—The standards and criteria prescribed by the Secretary of Defense under subsection (a) shall provide for the preservation of general and special court-martial records, without regard to the outcome of the proceeding concerned, for not fewer than 15 years.

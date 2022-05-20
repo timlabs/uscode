@@ -1087,12 +1087,17 @@
   * (5) programs of urban development, with particular emphasis on small, labor intensive enterprises, marketing systems for small producers, and financial and other institutions which enable the urban poor to participate in the economic and social development of their country.
 
 #### (e) Authorization of appropriations
-* (1) There are authorized to be appropriated to the President for purposes of this section, in addition to funds otherwise available for such purposes, $207,000,000 for fiscal year 1986 and $207,000,000 for fiscal year 1987.
+* There is authorized to be appropriated $2,000,000 for fiscal years 2021 through 2023 to finance cooperative projects among the United States, Israel, and developing countries that identify and support local solutions to address sustainability challenges relating to water resources, agriculture, and energy storage, including—
 
-* (2) Amounts appropriated under this section are authorized to remain available until expended.
+  * (1) establishing public-private partnerships;
 
-#### (f) Financing cooperative projects among United States, Israel, and developing countries
-* Of the amounts authorized to be appropriated to carry out this part, $5,000,000 for fiscal year 1986 and $5,000,000 for fiscal year 1987 shall be used to finance cooperative projects among the United States, Israel, and developing countries.
+  * (2) supporting the identification, research, development testing, and scaling of innovations that focus on populations that are vulnerable to environmental and resource-scarcity crises, such as subsistence farming communities;
+
+  * (3) seed or transition-to-scale funding;
+
+  * (4) clear and appropriate branding and marking of United States funded assistance, in accordance with section 2401 of this title; and
+
+  * (5) accelerating demonstrations or applications of local solutions to sustainability challenges, or the further refinement, testing, or implementation of innovations that have previously effectively addressed sustainability challenges.
 
 ### §2151e. Appropriate technology
 * (a) In carrying out activities under this part, the President shall place special emphasis on the use of relatively smaller, cost-saving, labor-using technologies that are generally most appropriate for the small farms, small businesses, and small incomes of the poor.
@@ -1919,9 +1924,9 @@
 * #### (2) Duties
   * The duties of the Special Advisor for Assistance to Orphans and Vulnerable Children shall include the following:
 
-    * (A) Coordinate assistance to orphans and other vulnerable children among the various offices, bureaus, and field missions within the United States Agency for International Development.
+    * (A) Coordinate assistance to orphans and other vulnerable children among the relevant Federal agencies and officials.
 
-    * (B) Advise the various offices, bureaus, and field missions within the United States Agency for International Development to ensure that programs approved for assistance under this section are consistent with best practices, meet the requirements of this chapter, and conform to the strategy outlined in section 4 of the Assistance for Orphans and Other Vulnerable Children in Developing Countries Act of 2005.
+    * (B) Advise the relevant Federal branch agencies and officials to ensure that programs approved for assistance under this section are consistent with best practices, meet the requirements of this chapter, and conform to the strategy outlined in section 4 of the Assistance for Orphans and Other Vulnerable Children in Developing Countries Act of 2005.
 
     * (C) Advise the various offices, bureaus, and field missions within the United States Agency for International Development in developing any component of their annual plan, as it relates to assistance for orphans or other vulnerable children in developing countries, to ensure that each program, project, or activity relating to such assistance is consistent with best practices, meets the requirements of this chapter, and conforms to the strategy outlined in section 4 of the Assistance for Orphans and Other Vulnerable Children in Developing Countries Act of 2005.
 
@@ -2386,3 +2391,132 @@
 
 * #### (3) Stakeholders
   * The term "stakeholders" means non-governmental and private sector entities engaged in or affected by conflict prevention and stabilization, peace building, protection, security, transition initiatives, humanitarian response, or related efforts.
+
+### §2152k. Assistance to improve early childhood outcomes globally
+#### (a) Definitions
+* In this section:
+
+* #### (1) Appropriate congressional committees
+  * The term "appropriate congressional committees" means—
+
+    * (A) the Committee on Appropriations of the Senate;
+
+    * (B) the Committee on Foreign Relations of the Senate;
+
+    * (C) the Committee on Appropriations of the House of Representatives; and
+
+    * (D) the Committee on Foreign Affairs of the House of Representatives.
+
+* #### (2) Early childhood development
+  * The term "early childhood development" means the development and learning of a child younger than 8 years of age, including physical, cognitive, social, and emotional development and approaches to learning that allow a child to reach his or her full developmental potential.
+
+* #### (3) Early childhood development program
+  * The term "early childhood development program" means a program that seeks to ensure that every child has the conditions for healthy growth, nurturing family-based care, development and learning, and protection from violence, exploitation, abuse, and neglect, which may include—
+
+    * (A) a health, safe water, sanitation, and hygiene program that serves pregnant women, children younger than 5 years of age, and the parents of such children;
+
+    * (B) a nutrition program, combined with stimulating child development activity;
+
+    * (C) age appropriate cognitive stimulation, especially for newborns, infants, and toddlers, including an early childhood intervention program for children experiencing at-risk situations, developmental delays, disabilities, and behavioral and mental health conditions;
+
+    * (D) an early learning (36 months and younger), preschool, and basic education program for children until they reach 8 years of age or complete primary school; or
+
+    * (E) a child protection program, with an emphasis on the promotion of permanent, safe, and nurturing families, rather than placement in residential care or institutions, including for children with disabilities.
+
+* #### (4) Relevant Federal departments and agencies
+  * The term "relevant Federal departments and agencies" means—
+
+    * (A) the Department of State;
+
+    * (B) the United States Agency for International Development;
+
+    * (C) the Department of the Treasury;
+
+    * (D) the Department of Labor;
+
+    * (E) the Department of Education;
+
+    * (F) the Department of Agriculture;
+
+    * (G) the Department of Defense;
+
+    * (H) the Department of Health and Human Services, including—
+
+      * (i) the Centers for Disease Control and Prevention; and
+
+      * (ii) the National Institutes of Health;
+
+
+    * (I) the Millennium Challenge Corporation;
+
+    * (J) the Peace Corps; and
+
+    * (K) any other department or agency specified by the President for the purposes of this section.
+
+* #### (5) Residential care
+  * The term "residential care" means care provided in any non-family-based group setting, including orphanages, transit or interim care centers, children's homes, children's villages or cottage complexes, group homes, and boarding schools used primarily for care purposes as an alternative to a children's home.
+
+#### (b) Statement of policy
+* It is the policy of the United States—
+
+  * (1) to support early childhood development in relevant foreign assistance programs, including by integrating evidence-based, efficient, and effective interventions into relevant strategies and programs, in coordination with partner countries, other donors, international organizations, international financial institutions, local and international nongovernmental organizations, private sector partners, and civil society, including faith-based and community-based organizations; and
+
+  * (2) to encourage partner countries to lead early childhood development initiatives that include incentives for building local capacity for continued implementation and measurable results, by—
+
+    * (A) scaling up the most effective, evidence-based, national interventions, including for the most vulnerable populations and children with disabilities and developmental delays, with a focus on adaptation to country resources, cultures, and languages;
+
+    * (B) designing, implementing, monitoring, and evaluating programs in a manner that enhances their quality, transparency, equity, accountability, efficiency and effectiveness in improving child and family outcomes in partner countries; and
+
+    * (C) utilizing and expanding innovative public-private financing mechanisms.
+
+#### (c) Implementation
+* #### (1) In general
+  * Not later than 1 year after January 1, 2021, the Administrator of the United States Agency for International Development on behalf of the President and in coordination with the Secretary of State, shall direct relevant Federal departments and agencies—
+
+    * (A) to incorporate, to the extent practical and relevant, early childhood development into foreign assistance programs to be carried out during the following 5 fiscal years; and
+
+    * (B) to promote inclusive early childhood development in partner countries.
+
+* #### (2) Elements
+  * In carrying out paragraph (1), the Administrator, the Secretary, and the heads of other relevant Federal departments and agencies as appropriate shall—
+
+    * (A) build on the evidence and priorities outlined in "Advancing Protection and Care for Children in Adversity: A U.S. Government Strategy for International Assistance 2019–2023", published in June 2019 (referred to in this section as "APCCA");
+
+    * (B) to the extent practicable, identify evidence-based strategic priorities, indicators, outcomes, and targets, particularly emphasizing the most vulnerable populations and children with disabilities and developmental delays, to support inclusive early childhood development;
+
+    * (C) support the design, implementation, and evaluation of pilot projects in partner countries, with the goal of taking such projects to scale;
+
+    * (D) support inclusive early childhood development within all relevant sector strategies and public laws, including—
+
+      * (i) the Global Water Strategy required under section 2152h(j) of this title;
+
+      * (ii) the whole-of-government strategy required under section 9304 of this title;
+
+      * (iii) the Basic Education Strategy set forth in section 2151c(c) of this title;
+
+      * (iv) the U.S. Government Global Nutrition Coordination Plan, 2016–2021; and
+
+      * (v) APCCA; and others as appropriate;
+
+
+    * (E) improve coordination with foreign governments and international and regional organizations with respect to official country policies and plans to improve early childhood development, maternal, newborn, and child health and nutrition care, basic education, water, sanitation and hygiene, and child protection plans which promote nurturing, appropriate, protective, and permanent family care, while reducing the percentage of children living outside of family care, including in residential care or on the street; and
+
+    * (F) consult with partner countries, other donors, international organizations, international financial institutions, local and international nongovernmental organizations, private sector partners and faith-based and community-based organizations, as appropriate.
+
+#### (d) Annual report on the implementation of the strategy
+* The Special Advisor for Children in Adversity shall include, in the annual report required under section 2152g of this title, which shall be submitted to the appropriate congressional committees and made publicly available, a description of—
+
+  * (1) the progress made toward integrating early childhood development interventions into relevant strategies and programs;
+
+  * (2) the efforts made by relevant Federal departments and agencies to implement subsection (c), with a particular focus on the activities described in such subsection; and
+
+  * (3) the progress achieved during the reporting period toward meeting the goals, objectives, benchmarks, and timeframes described in subsection (c) at the program level, along with specific challenges or gaps that may require shifts in targeting or financing in the following fiscal year.
+
+#### (e) Interagency task force
+* The Special Advisor for Assistance to Orphans and Vulnerable Children should establish and regularly convene an Interagency Working Group on Children in Adversity which, among other things, will coordinate—
+
+  * (1) intergovernmental and interagency monitoring, evaluation, and reporting of the activities carried out pursuant to this section;
+
+  * (2) early childhood development initiatives that include children with a variety of needs and circumstances; and
+
+  * (3) United States Government early childhood development programs, strategies, and partnerships across relevant Federal departments and agencies.

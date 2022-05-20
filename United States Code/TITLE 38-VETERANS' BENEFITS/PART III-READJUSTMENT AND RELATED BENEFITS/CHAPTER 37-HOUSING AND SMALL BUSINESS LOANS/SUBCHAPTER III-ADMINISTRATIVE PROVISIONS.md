@@ -88,27 +88,27 @@
   | Type of loan | Active duty veteran | Reservist | Other obligor |
   | --- | --- | --- | --- |
   | (A)(i) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed on or after October 1, 2004, and before January 1, 2020) | 2.15 | 2.40 | NA |
-  | (A)(ii) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed on or after January 1, 2020, and before January 1, 2022) | 2.30 | 2.30 | NA |
-  | (A)(iii) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed on or after January 1, 2022, and before October 1, 2029) | 2.15 | 2.15 | NA |
-  | (A)(iv) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed on or after October 1, 2029) | 1.40 | 1.40 | NA |
+  | (A)(ii) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed on or after January 1, 2020, and before April 7, 2023) | 2.30 | 2.30 | NA |
+  | (A)(iii) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed on or after April 7, 2023, and before October 1, 2030) | 2.15 | 2.15 | NA |
+  | (A)(iv) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed on or after October 1, 2030) | 1.40 | 1.40 | NA |
   | (B)(i) Subsequent loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other subsequent loan described in section 3710(a) (closed on or after October 1, 2004, and before January 1, 2020) | 3.30 | 3.30 | NA |
-  | (B)(ii) Subsequent loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other subsequent loan described in section 3710(a) (closed on or after January 1, 2020, and before January 1, 2022) | 3.60 | 3.60 | NA |
-  | (B)(iii) Subsequent loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other subsequent loan described in section 3710(a) (closed on or after January 1, 2022, and before October 1, 2029) | 3.30 | 3.30 | NA |
-  | (B)(iv) Subsequent loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other subsequent loan described in section 3710(a) (closed on or after October 1, 2029) | 1.25 | 1.25 | NA |
+  | (B)(ii) Subsequent loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other subsequent loan described in section 3710(a) (closed on or after January 1, 2020, and before April 7, 2023) | 3.60 | 3.60 | NA |
+  | (B)(iii) Subsequent loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other subsequent loan described in section 3710(a) (closed on or after April 7, 2023, and before October 1, 2030) | 3.30 | 3.30 | NA |
+  | (B)(iv) Subsequent loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other subsequent loan described in section 3710(a) (closed on or after October 1, 2030) | 1.25 | 1.25 | NA |
   | (C)(i) Loan described in section 3710(a) to purchase or construct a dwelling with 5-down (closed before January 1, 2020) | 1.50 | 1.75 | NA |
-  | (C)(ii) Loan described in section 3710(a) to purchase or construct a dwelling with 5-down (closed on or after January 1, 2020, and before January 1, 2022) | 1.65 | 1.65 | NA |
-  | (C)(iii) Loan described in section 3710(a) to purchase or construct a dwelling with 5-down (closed on or after January 1, 2022, and before October 1, 2029) | 1.50 | 1.50 | NA |
-  | (C)(iv) Loan described in section 3710(a) to purchase or construct a dwelling with 5-down (closed on or after October 1, 2029) | 0.75 | 0.75 | NA |
+  | (C)(ii) Loan described in section 3710(a) to purchase or construct a dwelling with 5-down (closed on or after January 1, 2020, and before April 7, 2023) | 1.65 | 1.65 | NA |
+  | (C)(iii) Loan described in section 3710(a) to purchase or construct a dwelling with 5-down (closed on or after April 7, 2023, and before October 1, 2030) | 1.50 | 1.50 | NA |
+  | (C)(iv) Loan described in section 3710(a) to purchase or construct a dwelling with 5-down (closed on or after October 1, 2030) | 0.75 | 0.75 | NA |
   | (D)(i) Loan described in section 3710(a) to purchase or construct a dwelling with 10-down (closed before January 1, 2020) | 1.25 | 1.50 | NA |
-  | (D)(ii) Loan described in section 3710(a) to purchase or construct a dwelling with 10-down (closed on or after January 1, 2020, and before January 1, 2022) | 1.40 | 1.40 | NA |
-  | (D)(iii) Loan described in section 3710(a) to purchase or construct a dwelling with 10-down (closed on or after January 1, 2022, and before October 1, 2029) | 1.25 | 1.25 | NA |
-  | (D)(iv) Loan described in section 3710(a) to purchase or construct a dwelling with 10-down (closed on or after October 1, 2029) | 0.50 | 0.50 | NA |
+  | (D)(ii) Loan described in section 3710(a) to purchase or construct a dwelling with 10-down (closed on or after January 1, 2020, and before April 7, 2023) | 1.40 | 1.40 | NA |
+  | (D)(iii) Loan described in section 3710(a) to purchase or construct a dwelling with 10-down (closed on or after April 7, 2023, and before October 1, 2030) | 1.25 | 1.25 | NA |
+  | (D)(iv) Loan described in section 3710(a) to purchase or construct a dwelling with 10-down (closed on or after October 1, 2030) | 0.50 | 0.50 | NA |
   | (E) Interest rate reduction refinancing loan | 0.50 | 0.50 | NA |
   | (F) Direct loan under section 3711 | 1.00 | 1.00 | NA |
   | (G) Manufactured home loan under section 3712 (other than an interest rate reduction refinancing loan) | 1.00 | 1.00 | NA |
   | (H) Loan to Native American veteran under section 3762 (other than an interest rate reduction refinancing loan) | 1.25 | 1.25 | NA |
   | (I) Loan assumption under section 3714 | 0.50 | 0.50 | 0.50 |
-  | (J) Loan under section 3733(a) | 2.25 | 2.25 | 2.25 |
+  | (J) Loan under section 3733(a) | 2.25 | 2.25 | 2.25. |
   
 * (3) Any reference to a section in the "Type of loan" column in the loan fee table in paragraph (2) refers to a section of this title.
 
@@ -120,9 +120,16 @@
 
   * (C) The term "other obligor" means a person who is not a veteran, as defined in section 101 of this title or other provision of this chapter.
 
-  * (D) The term "initial loan" means a loan to a veteran guaranteed under section 3710 or made under section 3711 of this title if the veteran has never obtained a loan guaranteed under section 3710 or made under section 3711 of this title.
+  * (D)(i) The term "initial loan" means a loan to a veteran guaranteed under section 3710 or made under section 3711 of this title if the veteran has never obtained a loan guaranteed under section 3710 or made under section 3711 of this title.
 
-  * (E) The term "subsequent loan" means a loan to a veteran, other than an interest rate reduction refinancing loan, guaranteed under section 3710 or made under section 3711 of this title if the veteran has previously obtained a loan guaranteed under section 3710 or made under section 3711 of this title.
+  * (ii) If a veteran has obtained a loan guaranteed under section 3710 or made under section 3711 of this title and the dwelling securing such loan was substantially damaged or destroyed by a major disaster declared by the President under section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170), the Secretary shall treat as an initial loan, as defined in clause (i), the next loan the Secretary guarantees or makes to such veteran under section 3710 or 3711, respectively, if—
+
+    * (I) such loan is guaranteed or made before the date that is three years after the date on which the dwelling was substantially damaged or destroyed; and
+
+    * (II) such loan is only for repairs or construction of the dwelling, as determined by the Secretary.
+
+
+  * (E) The term "subsequent loan" means a loan to a veteran, other than an interest rate reduction refinancing loan, guaranteed under section 3710 or made under section 3711 of this title that is not an initial loan.
 
   * (F) The term "interest rate reduction refinancing loan" means a loan described in section 3710(a)(8), 3710(a)(9)(B)(i), 3710(a)(11), 3712(a)(1)(F), or 3762(h) of this title.
 
@@ -133,7 +140,7 @@
   * (I) The term "10-down" means a downpayment of 10 percent or more of the total purchase price or construction cost of the dwelling.
 
 
-* (c) WAIVER OF FEE.—(1) A fee may not be collected under this section from a veteran who is receiving compensation (or who, but for the receipt of retirement pay or active service pay, would be entitled to receive compensation), from a surviving spouse of any veteran (including a person who died in the active military, naval, or air service) who died from a service-connected disability, or from a member of the Armed Forces who is serving on active duty and who provides, on or before the date of loan closing, evidence of having been awarded the Purple Heart.
+* (c) WAIVER OF FEE.—(1) A fee may not be collected under this section from a veteran who is receiving compensation (or who, but for the receipt of retirement pay or active service pay, would be entitled to receive compensation), from a surviving spouse of any veteran (including a person who died in the active military, naval, air, or space service) who died from a service-connected disability, or from a member of the Armed Forces who is serving on active duty and who provides, on or before the date of loan closing, evidence of having been awarded the Purple Heart.
 
 * (2)(A) A veteran described in subparagraph (B) shall be treated as receiving compensation for purposes of this subsection as of the date of the rating described in such subparagraph without regard to whether an effective date of the award of compensation is established as of that date.
 
@@ -324,6 +331,15 @@
   * (B) the second sentence of paragraph (1) were repealed; and
 
   * (C) the reference in paragraph (2) to "September 30, 1990," were a reference to "September 30, 2020,".
+
+
+* (8) During the period that begins on October 1, 2020, and ends on September 30, 2025, the Secretary shall carry out the provisions of this subsection as if—
+
+  * (A) the references in the first sentence of paragraph (1) to "65 percent" and "may be financed by a loan" were references to "85 percent" and "shall be of property marketed with financing to be", respectively;
+
+  * (B) the second sentence of paragraph (1) were repealed; and
+
+  * (C) the reference in paragraph (2) to "September 30, 1990," were a reference to "September 30, 2025,".
 
 
 * (b) The Secretary may not make a loan to finance a purchase of property acquired by the Secretary as a result of a default on a loan guaranteed under this chapter unless the purchaser meets the credit underwriting standards established under section 3710(g)(2)(A) of this title.

@@ -4,7 +4,7 @@
 
 #### MARITIME FUNCTIONS
 #### Part I. Federal Maritime Commission
-* SECS. 101–105. [Repealed. Pub. L. 109–304, §19, Oct. 6, 2006, 120 Stat. 1710. Section 101 related to creation of Federal Maritime Commission. Section 102 related to composition of the Commission. Section 103 related to transfer of functions to Commission. Section 104 related to transfer of functions to Chairman. Section 105 related to authority to delegate. See sections 301 et seq. of Title 46, Shipping.]
+* SECS. 101–105. [Repealed. Pub. L. 109–304, §19, Oct. 6, 2006, 120 Stat. 1710. Section 101 related to creation of Federal Maritime Commission. Section 102 related to composition of the Commission. Section 103 related to transfer of functions to Commission. Section 104 related to transfer of functions to Chairman. Section 105 related to authority to delegate. See sections 46101 et seq. of Title 46, Shipping.]
 
 #### Part II. Department of Commerce
 * SEC. 201. [Repealed. Pub. L. 109–304, §19, Oct. 6, 2006, 120 Stat. 1710. Section related to the Maritime Administrator's function as head of the Maritime Administration. See section 109 of Title 49, Transportation.]

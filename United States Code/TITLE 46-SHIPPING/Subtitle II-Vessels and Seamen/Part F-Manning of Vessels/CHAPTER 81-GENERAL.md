@@ -93,7 +93,7 @@
 
 * (f) A person employing an individual in violation of this section or a regulation prescribed under this section is liable to the United States Government for a civil penalty of $500 for each individual so employed.
 
-* (g) A deck or engineer officer employed on a vessel on which an operating differential subsidy is paid, or employed on a vessel (except a vessel of the Coast Guard or Saint Lawrence Seaway Development Corporation) owned or operated by the Department of Transportation or by a corporation organized or controlled by the Department, if eligible, shall be a member of the Navy Reserve.
+* (g) A deck or engineer officer employed on a vessel on which an operating differential subsidy is paid, or employed on a vessel (except a vessel of the Coast Guard or Great Lakes St. Lawrence Seaway Development Corporation) owned or operated by the Department of Transportation or by a corporation organized or controlled by the Department, if eligible, shall be a member of the Navy Reserve.
 
 * (h) The President may—
 
@@ -167,16 +167,16 @@
 
     * (C) STATUS, DOCUMENTATION, AND EMPLOYMENT.—An unlicensed seaman described in subparagraph (C) or (D) of paragraph (1) of this subsection—
 
-      * (i) is deemed to meet the nationality requirements necessary to qualify for a merchant mariners document notwithstanding the requirements of part 12 of title 46, Code of Federal Regulations;
+      * (i) is deemed to meet the nationality requirements necessary to qualify for a merchant mariner's document notwithstanding the requirements of part 12 of title 46, Code of Federal Regulations;
 
-      * (ii) is deemed to meet the proof-of-identity requirements necessary to qualify for a merchant mariners document, as prescribed under regulations promulgated by the Secretary, if the seaman possesses—
+      * (ii) is deemed to meet the proof-of-identity requirements necessary to qualify for a merchant mariner's document, as prescribed under regulations promulgated by the Secretary, if the seaman possesses—
 
         * (I) an unexpired passport issued by the government of the country of which the seaman is a citizen or subject; and
 
         * (II) an unexpired visa issued to the seaman, as described in paragraph (1)(C);
 
 
-      * (iii) shall, if eligible, be issued a merchant mariners document with an appropriate annotation reflecting the restrictions of subparagraph (B) of this paragraph; and
+      * (iii) shall, if eligible, be issued a merchant mariner's document with an appropriate annotation reflecting the restrictions of subparagraph (B) of this paragraph; and
 
       * (iv) may be employed for a period of service on board not to exceed 36 months in the aggregate as a nonimmigrant crewman described in section 101(a)(15)(D)(i) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(15)(D)(i)) on vessels engaged in domestic voyages notwithstanding the departure requirements and time limitations of such section and section 252 of the Immigration and Nationality Act (8 U.S.C. 1282) and the regulations and rules promulgated thereunder.
 
@@ -194,20 +194,20 @@
 
 * (b) On an oceangoing or coastwise vessel of not more than 100 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title (except a fishing, fish processing, or fish tender vessel), a licensed individual may not be required to work more than 9 of 24 hours when in port, including the date of arrival, or more than 12 of 24 hours at sea, except in an emergency when life or property are endangered.
 
-* (c) On a towing vessel (except a towing vessel operated only for fishing, fish processing, fish tender, or engaged in salvage operations) operating on the Great Lakes, harbors of the Great Lakes, and connecting or tributary waters between Gary, Indiana, Duluth, Minnesota, Niagara Falls, New York, and Ogdensburg, New York, a licensed individual or seaman in the deck or engine department may not be required to work more than 8 hours in one day or permitted to work more than 15 hours in any 24-hour period, or more than 36 hours in any 72-hour period, except in an emergency when life or property are endangered.
+* (c) On a towing vessel (except a towing vessel operated only for fishing, fish processing, fish tender, or engaged in salvage operations) operating on the Great Lakes, harbors of the Great Lakes, and connecting or tributary waters between Gary, Indiana, Duluth, Minnesota, Niagara Falls, New York, and Ogdensburg, New York, an individual in the deck or engine department may not be required to work more than 8 hours in one day or permitted to work more than 15 hours in any 24-hour period, or more than 36 hours in any 72-hour period, except in an emergency when life or property are endangered.
 
-* (d) On a merchant vessel of more than 100 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title (except a vessel only operating on rivers, harbors, lakes (except the Great Lakes), bays, sounds, bayous, and canals, a fishing, fish tender, or whaling vessel, a fish processing vessel of not more than 5,000 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title, yacht, or vessel engaged in salvage operations), the licensed individuals, sailors, and oilers shall be divided, when at sea, into at least 3 watches, and shall be kept on duty successively to perform ordinary work incident to the operation and management of the vessel. The requirement of this subsection applies to radio officers only when at least 3 radio officers are employed. A licensed individual or seaman in the deck or engine department may not be required to work more than 8 hours in one day.
+* (d) On a merchant vessel of more than 100 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title (except a vessel only operating on rivers, harbors, lakes (except the Great Lakes), bays, sounds, bayous, and canals, a fishing, fish tender, or whaling vessel, a fish processing vessel of not more than 5,000 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title, yacht, or vessel engaged in salvage operations), the licensed individuals, sailors, and oilers shall be divided, when at sea, into at least 3 watches, and shall be kept on duty successively to perform ordinary work incident to the operation and management of the vessel. The requirement of this subsection applies to radio officers only when at least 3 radio officers are employed. An individual in the deck or engine department may not be required to work more than 8 hours in one day.
 
 * (e) On a vessel designated by subsection (d) of this section—
 
-  * (1) a seaman may not be—
+  * (1) an individual may not be—
 
     * (A) engaged to work alternately in the deck and engine departments; or
 
     * (B) required to work in the engine department if engaged for deck department duty or required to work in the deck department if engaged for engine department duty;
 
 
-  * (2) a seaman may not be required to do unnecessary work on Sundays, New Year's Day, July 4th, Labor Day, Thanksgiving Day, or Christmas Day, when the vessel is in a safe harbor, but this clause does not prevent dispatch of a vessel on a voyage; and
+  * (2) an individual may not be required to do unnecessary work on Sundays, New Year's Day, July 4th, Labor Day, Thanksgiving Day, or Christmas Day, when the vessel is in a safe harbor, but this clause does not prevent dispatch of a vessel on a voyage; and
 
   * (3) when the vessel is in a safe harbor, 8 hours (including anchor watch) is a day's work.
 
@@ -231,7 +231,7 @@
 
 * (i) A person violating subsection (a) or (b) of this section is liable to the United States Government for a civil penalty of $10,000.
 
-* (j) The owner, charterer, or managing operator of a vessel on which a violation of subsection (c), (d), (e), or (h) of this section occurs is liable to the Government for a civil penalty of $10,000. The seaman is entitled to discharge from the vessel and receipt of wages earned.
+* (j) The owner, charterer, or managing operator of a vessel on which a violation of subsection (c), (d), (e), or (h) of this section occurs is liable to the Government for a civil penalty of $10,000. The individual is entitled to discharge from the vessel and receipt of wages earned.
 
 * (k) On a fish processing vessel subject to inspection under part B of this subtitle, the licensed individuals and deck crew shall be divided, when at sea, into at least 3 watches.
 

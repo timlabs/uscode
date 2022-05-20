@@ -89,9 +89,9 @@
   * (D) identifies any needed adjustments in the authorization of the programs.
 
 
-* (3) For purposes of carrying out paragraph (1)(A)(i) of this subsection, there is authorized to be appropriated to the Secretary $22,750,000 for fiscal year 1999 and each fiscal year thereafter.
+* (3) For purposes of carrying out paragraph (1)(A)(i) of this subsection, there is authorized to be appropriated to the Secretary $40,000,000 for fiscal year 1999 and each fiscal year thereafter.
 
-* (4) For purposes of carrying out paragraph (1)(A)(ii) of this subsection, there is authorized to be appropriated to the Secretary $10,420,000 for fiscal year 1999 and each fiscal year thereafter.
+* (4) For purposes of carrying out paragraph (1)(A)(ii) of this subsection, there is authorized to be appropriated to the Secretary $15,000,000 for fiscal year 1999 and each fiscal year thereafter.
 
 * (5) AUTHORIZATION OF APPROPRIATIONS.—There is authorized to be appropriated to carry out paragraph (1)(B) $350,000 for each of fiscal years 1999 through 2009.
 

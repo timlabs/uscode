@@ -141,6 +141,10 @@
 
 * (4) In computing benefits to be paid, days of unemployment shall not be combined with days of sickness in the same registration period.
 
+* (5)(A) Notwithstanding paragraph (3), subsection (c)(1)(B), and any other limitation on total benefits in this chapter, for registration periods beginning on or after April 1, 2020, but on or before July 31, 2020, and for registration periods beginning after December 26, 2020, but on or before March 14, 2021, a recovery benefit shall be payable to a qualified employee with respect to any registration period in which the employee received unemployment benefits under paragraph (1)(A), and in any registration period in which the employee did not receive unemployment benefits due to the limitation in subsection (c)(1)(B) or due to reaching the maximum number of days of benefits in the benefit year beginning July 1, 2019, or July 1, 2020, under subsection (c)(1)(A). No recovery benefits shall be payable under this section upon the exhaustion of the funds appropriated under subparagraph (B) for payment of benefits under this subparagraph. For registration periods beginning on or after April 1, 2020, but on or before July 31, 2020, the recovery benefit payable under this subparagraph shall be in the amount of $1,200. For registration periods beginning after December 26, 2020, but on or before March 14, 2021, the recovery benefit payable under this subparagraph shall be in the amount of $600.
+
+* (B) Out of any funds in the Treasury not otherwise appropriated, there are appropriated $425,000,000 to cover the cost of recovery benefits provided under subparagraph (A), to remain available until expended.
+
 #### (b) Time of payments
 * The benefits provided for in this section shall be paid to an employee at such reasonable intervals as the Board may prescribe.
 
@@ -166,17 +170,24 @@
     * #### (i) Employees with 10 or more years of service
       * Subject to clause (iii), in the case of an employee who has 10 or more years of service (as so defined), with respect to extended unemployment benefits—
 
-        * (I) subparagraph (A) shall be applied by substituting "130 days of unemployment" for "65 days of unemployment"; and
+        * (I) subparagraph (A) shall be applied by substituting "185 days of unemployment" for "65 days of unemployment"; and
 
-        * (II) subparagraph (B) shall be applied by inserting "(or, in the case of unemployment benefits, 13 consecutive 14-day periods)" after "7 consecutive 14-day periods".
+        * (II) subparagraph (B) shall be applied by inserting "(or, in the case of unemployment benefits, 19 consecutive 14-day periods, except that no extended benefit period shall end before 6 consecutive 14-day periods after the date of enactment of the Continued Assistance for Unemployed Workers Act of 2020 have elapsed)" after "7 consecutive 14-day periods".
 
     * #### (ii) Employees with less than 10 years of service
-      * Subject to clause (iii), in the case of an employee who has less than 10 years of service (as so defined), with respect to extended unemployment benefits, this paragraph shall apply to such an employee in the same manner as this paragraph would apply to an employee described in clause (i) if such clause had not been enacted.
+      * Subject to clause (iii), in the case of an employee who has less than 10 years of service (as so defined), with respect to extended unemployment benefits, this paragraph shall apply to such an employee in the same manner as this paragraph would apply to an employee described in clause (i) if such clause had not been enacted and if—
+
+        * (A) subparagraph (A) were applied by substituting "120 days of unemployment" for "65 days of unemployment"; and
+
+        * (B) subparagraph (B) were applied by inserting "(or, in the case of unemployment benefits, 12 consecutive 14-day periods, except that no extended benefit period shall end before 6 consecutive 14-day periods after the date of enactment of the Continued Assistance for Unemployed Workers Act of 2020 have elapsed)" after "7 consecutive 14-day periods".
 
     * #### (iii) Application
-      * The provisions of clauses (i) and (ii) shall apply to an employee who received normal benefits for days of unemployment under this chapter during the period beginning July 1, 2008, and ending on June 30, 2013, except that no extended benefit period under this paragraph shall begin after December 31, 2013. Notwithstanding the preceding sentence, no benefits shall be payable under this subparagraph and clauses (i) and (ii) shall no longer be applicable upon the exhaustion of the funds appropriated under clause (iv) for payment of benefits under this subparagraph.
+      * The provisions of clauses (i) and (ii) shall apply to an employee who received normal benefits for days of unemployment under this chapter during the period beginning July 1, 2019, and ending on June 30, 2021, except that the provisions of clauses (i) and (ii) shall not apply to any employee whose extended benefit period under subparagraph (B) begins after March 14, 2021, and shall not apply to any employee with respect to any registration period beginning after April 5, 2021.. Notwithstanding the preceding sentence, no benefits shall be payable under this subparagraph and clauses (i) and (ii) shall no longer be applicable upon the exhaustion of the funds appropriated under clause (v) for payment of benefits under this subparagraph.
 
-    * #### (iv) Appropriation
+    * #### (iv) Treatment of certain calendar days
+      * No calendar day occurring during the period beginning on the first date with respect to which the employee has exhausted all rights to extended unemployment benefits under this paragraph as in effect on the day before the date of enactment of the Continued Assistance for Unemployed Workers Act of 2020 and ending with the date of such enactment may be treated as a day of unemployment for purposes of the payment of extended unemployment benefits under this paragraph.
+
+    * #### (v) Appropriation
       * Out of any funds in the Treasury not otherwise appropriated, there are appropriated $20,000,000 to cover the cost of additional extended unemployment benefits provided under this subparagraph, to remain available until expended. In addition to the amount appropriated by the preceding sentence, out of any funds in the Treasury not otherwise appropriated, there are appropriated $175,000,000 to cover the cost of additional extended unemployment benefits provided under this subparagraph, to remain available until expended.
 
 * #### (3) Accelerated benefits

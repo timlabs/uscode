@@ -127,7 +127,7 @@
 
   * (F) any training program (other than a training program described in paragraph (7)) for which all, or any portion, of the costs of training the worker are paid—
 
-    * (i) under any Federal or State program other than this chapter, or
+    * (i) under any Federal or State program other than this part, or
 
     * (ii) from any source other than this section,
 

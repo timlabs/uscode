@@ -93,3 +93,10 @@
 * (b) SMALL UNMANNED AIRCRAFT EXEMPTION.—Subsection (a)(2) does not apply to small unmanned aircraft.
 
 * (c) DEFINITIONS.—In this section, the terms "small unmanned aircraft" and "unmanned aircraft system" have the meanings given those terms in section 331 of the FAA Modernization and Reform Act of 2012 (49 U.S.C. 40101 note).
+
+### §1157. Extraordinary relief
+* (a) IN GENERAL.—With respect to any prime contracting entity receiving extraordinary relief pursuant to the Act entitled "An Act to authorize the making, amendment, and modification of contracts to facilitate the national defense", approved August 28, 1958 (Public Law 85–804; 50 U.S.C. 1432 et seq.) for a major acquisition, the Secretary shall not consider any further request by the prime contracting entity for extraordinary relief under such Act for such major acquisition.
+
+* (b) INAPPLICABILITY TO SUBCONTRACTORS.—The limitation under subsection (a) shall not apply to subcontractors of a prime contracting entity.
+
+* (c) QUARTERLY REPORT.—Not less frequently than quarterly during each fiscal year in which extraordinary relief is approved or provided to an entity under the Act referred to in subsection (a) for the acquisition of Offshore Patrol Cutters, the Commandant shall provide to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that describes in detail such relief and the compliance of the entity with the oversight measures required as a condition of receiving such relief.

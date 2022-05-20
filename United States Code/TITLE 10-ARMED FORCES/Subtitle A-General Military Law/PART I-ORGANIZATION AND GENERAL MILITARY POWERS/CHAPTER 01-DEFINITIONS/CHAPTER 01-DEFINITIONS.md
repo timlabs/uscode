@@ -57,7 +57,7 @@
 
     * (A) is designated by the Secretary of Defense as an operation in which members of the armed forces are or may become involved in military actions, operations, or hostilities against an enemy of the United States or against an opposing military force; or
 
-    * (B) results in the call or order to, or retention on, active duty of members of the uniformed services under section 688, 12301(a), 12302, 12304, 12304a, 12305, or 12406 of this title, chapter 13 of this title, section 712 of title 14, or any other provision of law during a war or during a national emergency declared by the President or Congress.
+    * (B) results in the call or order to, or retention on, active duty of members of the uniformed services under section 688, 12301(a), 12302, 12304, 12304a, 12305, or 12406 of this title, chapter 13 of this title, section 3713 of title 14, or any other provision of law during a war or during a national emergency declared by the President or Congress.
 
 
   * (14) The term "supplies" includes material, equipment, and stores of all kinds.
@@ -109,7 +109,7 @@
 
   * (12) The term "regular", with respect to an enlistment, appointment, grade, or office, means enlistment, appointment, grade, or office in a regular component of an armed force.
 
-  * (13) The term "active-duty list" means a single list for the Army, Navy, Air Force, or Marine Corps (required to be maintained under section 620 of this title) which contains the names of all officers of that armed force, other than officers described in section 641 of this title, who are serving on active duty.
+  * (13) The term "active-duty list" means a single list for the Army, Navy, Air Force, Marine Corps, or Space Force (required to be maintained under section 620 of this title) which contains the names of all officers of that armed force, other than officers described in section 641 of this title, who are serving on active duty.
 
   * (14) The term "medical officer" means an officer of the Medical Corps of the Army, an officer of the Medical Corps of the Navy, or an officer in the Air Force designated as a medical officer.
 

@@ -9,7 +9,7 @@
   * (2) traineeships for individuals in advanced nursing education programs.
 
 #### (b) Definition of advanced education nurses
-* For purposes of this section, the term "advanced education nurses" means individuals trained in advanced degree programs including individuals in combined R.N./Master's degree programs, post-nursing master's certificate programs, or, in the case of nurse midwives, in certificate programs in existence on the date that is one day prior to November 13, 1998, to serve as nurse practitioners, clinical nurse specialists, nurse midwives, nurse anesthetists, nurse educators, nurse administrators, or public health nurses, or in other nurse specialties determined by the Secretary to require advanced education.
+* For purposes of this section, the term "advanced education nurses" means individuals trained in advanced degree programs including individuals in combined R.N./graduate degree programs, post-nursing master's certificate programs, or, in the case of nurse midwives, in certificate programs in existence on the date that is one day prior to November 13, 1998, to serve as nurse practitioners, clinical nurse specialists, nurse midwives, nurse anesthetists, nurse educators, nurse administrators, clinical nurse leaders, or public health nurses, or in other nurse specialties determined by the Secretary to require advanced education.
 
 #### (c) Authorized nurse practitioner
 * Nurse practitioner programs eligible for support under this section are educational programs for registered nurses (irrespective of the type of school of nursing in which the nurses received their training) that—
@@ -32,10 +32,17 @@
 
   * (2) are accredited by the Council on Accreditation of Nurse Anesthesia Educational Programs.
 
-#### (f) Other authorized educational programs
+#### (f) Authorized clinical nurse specialist programs
+* Clinical nurse specialist programs eligible for support under this section are education programs that—
+
+  * (1) provide registered nurses with full-time clinical nurse specialist education; and
+
+  * (2) have as their objective the education of clinical nurse specialists who will, upon completion of such a program, be qualified to effectively provide care through the wellness and illness continuum to inpatients and outpatients experiencing acute and chronic illness.
+
+#### (g) Other authorized educational programs
 * The Secretary shall prescribe guidelines as appropriate for other advanced nurse education programs eligible for support under this section.
 
-#### (g) Traineeships
+#### (h) Traineeships
 * #### (1) In general
   * The Secretary may not award a grant to an applicant under subsection (a) unless the applicant involved agrees that traineeships provided with the grant will only pay all or part of the costs of—
 

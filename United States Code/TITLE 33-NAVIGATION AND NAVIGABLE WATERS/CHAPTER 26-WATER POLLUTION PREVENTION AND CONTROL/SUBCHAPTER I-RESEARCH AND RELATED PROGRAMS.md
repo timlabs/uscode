@@ -691,7 +691,17 @@
   * The Administrator shall carry out an annual survey of sea grasses in the Chesapeake Bay.
 
 #### (j) Authorization of appropriations
-* There is authorized to be appropriated to carry out this section $40,000,000 for each of fiscal years 2001 through 2005. Such sums shall remain available until expended.
+* There are authorized to be appropriated to carry out this section—
+
+  * (1) for fiscal year 2021, $90,000,000;
+
+  * (2) for fiscal year 2022, $90,500,000;
+
+  * (3) for fiscal year 2023, $91,000,000;
+
+  * (4) for fiscal year 2024, $91,500,000; and
+
+  * (5) for fiscal year 2025, $92,000,000.
 
 ### §1268. Great Lakes
 #### (a) Findings, purpose, and definitions
@@ -909,7 +919,19 @@
 
   * #### (J) Funding
     * #### (i) In general
-      * There is authorized to be appropriated to carry out this paragraph $300,000,000 for each of fiscal years 2017 through 2021.
+      * There are authorized to be appropriated to carry out this paragraph—
+
+        * (I) $300,000,000 for each of fiscal years 2017 through 2021;
+
+        * (II) $375,000,000 for fiscal year 2022;
+
+        * (III) $400,000,000 for fiscal year 2023;
+
+        * (IV) $425,000,000 for fiscal year 2024;
+
+        * (V) $450,000,000 for fiscal year 2025; and
+
+        * (VI) $475,000,000 for fiscal year 2026.
 
     * #### (ii) Limitation
       * Nothing in this paragraph creates, expands, or amends the authority of the Administrator to implement programs or projects under—

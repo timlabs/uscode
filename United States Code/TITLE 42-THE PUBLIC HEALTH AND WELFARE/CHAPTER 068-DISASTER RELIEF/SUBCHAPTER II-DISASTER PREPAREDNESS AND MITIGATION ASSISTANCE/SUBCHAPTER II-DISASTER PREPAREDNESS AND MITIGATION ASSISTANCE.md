@@ -215,3 +215,316 @@
   * (2) State and local government organizations (including Indian tribes); and
 
   * (3) the American Red Cross.
+
+### §5135. Grants to entities for establishment of hazard mitigation revolving loan funds
+#### (a) General authority
+* #### (1) In general
+  * The Administrator may enter into agreements with eligible entities to make capitalization grants to such entities for the establishment of hazard mitigation revolving loan funds (referred to in this section as "entity loan funds") for providing funding assistance to local governments to carry out eligible projects under this section to reduce disaster risks for homeowners, businesses, nonprofit organizations, and communities in order to decrease—
+
+    * (A) the loss of life and property;
+
+    * (B) the cost of insurance; and
+
+    * (C) Federal disaster payments.
+
+* #### (2) Agreements
+  * Any agreement entered into under this section shall require the participating entity to—
+
+    * (A) comply with the requirements of this section; and
+
+    * (B) use accounting, audit, and fiscal procedures conforming to generally accepted accounting standards.
+
+#### (b) Application
+* #### (1) In general
+  * To be eligible to receive a capitalization grant under this section, an eligible entity shall submit to the Administrator an application that includes the following:
+
+    * (A) Project proposals comprised of local government hazard mitigation projects, on the condition that the entity provides public notice not less than 6 weeks prior to the submission of an application.
+
+    * (B) An assessment of recurring major disaster vulnerabilities impacting the entity that demonstrates a risk to life and property.
+
+    * (C) A description of how the hazard mitigation plan of the entity has or has not taken the vulnerabilities described in subparagraph (B) into account.
+
+    * (D) A description about how the projects described in subparagraph (A) could conform with the hazard mitigation plan of the entity and of the unit of local government.
+
+    * (E) A proposal of the systematic and regional approach to achieve resilience in a vulnerable area, including impacts to river basins, river corridors, watersheds, estuaries, bays, coastal regions, micro-basins, micro-watersheds, ecosystems, and areas at risk of earthquakes, tsunamis, droughts, severe storms, and wildfires, including the wildland-urban interface.
+
+* #### (2) Technical assistance
+  * The Administrator shall provide technical assistance to eligible entities for applications under this section.
+
+#### (c) Entity loan fund
+* #### (1) Establishment of fund
+  * An entity that receives a capitalization grant under this section shall establish an entity loan fund that complies with the requirements of this subsection.
+
+* #### (2) Fund management
+  * Except as provided in paragraph (3), entity loan funds shall—
+
+    * (A) be administered by the agency responsible for emergency management; and
+
+    * (B) include only—
+
+      * (i) funds provided by a capitalization grant under this section;
+
+      * (ii) repayments of loans under this section to the entity loan fund; and
+
+      * (iii) interest earned on amounts in the entity loan fund.
+
+* #### (3) Administration
+  * A participating entity may combine the financial administration of the entity loan fund of such entity with the financial administration of any other revolving fund established by such entity if the Administrator determines that—
+
+    * (A) the capitalization grant, entity share, repayments of loans, and interest earned on amounts in the entity loan fund are accounted for separately from other amounts in the revolving fund; and
+
+    * (B) the authority to establish assistance priorities and carry out oversight activities remains in the control of the entity agency responsible for emergency management.
+
+* #### (4) Entity share of funds
+  * #### (A) In general
+    * On or before the date on which a participating entity receives a capitalization grant under this section, the entity shall deposit into the entity loan fund of such entity, an amount equal to not less than 10 percent of the amount of the capitalization grant.
+
+  * #### (B) Reduced grant
+    * If, with respect to a capitalization grant under this section, a participating entity deposits in the entity loan fund of the entity an amount that is less than 10 percent of the total amount of the capitalization grant that the participating entity would otherwise receive, the Administrator shall reduce the amount of the capitalization grant received by the entity to the amount that is 10 times the amount so deposited.
+
+#### (d) Apportionment
+* #### (1) In general
+  * Except as otherwise provided by this subsection, the Administrator shall apportion funds made available to carry out this section to entities that have entered into an agreement under subsection (a)(2) in amounts as determined by the Administrator.
+
+* #### (2) Reservation of funds
+  * The Administrator shall reserve not more than 2.5 percent of the amount made available to carry out this section for the Federal Emergency Management Agency for—
+
+    * (A) administrative costs incurred in carrying out this section;
+
+    * (B) providing technical assistance to participating entities under subsection (b)(2); and
+
+    * (C) capitalization grants to insular areas under paragraph (4).
+
+* #### (3) Priority
+  * In the apportionment of capitalization grants under this subsection, the Administrator shall give priority to entity applications under subsection (b) that—
+
+    * (A) propose projects increasing resilience and reducing risk of harm to natural and built infrastructure;
+
+    * (B) involve a partnership between two or more eligible entities to carry out a project or similar projects;
+
+    * (C) take into account regional impacts of hazards on river basins, river corridors, micro-watersheds, macro-watersheds, estuaries, lakes, bays, and coastal regions and areas at risk of earthquakes, tsunamis, droughts, severe storms, and wildfires, including the wildland-urban interface; or
+
+    * (D) propose projects for the resilience of major economic sectors or critical national infrastructure, including ports, global commodity supply chain assets (located within an entity or within the jurisdiction of local governments, insular areas, and Indian tribal governments), power and water production and distribution centers, and bridges and waterways essential to interstate commerce.
+
+* #### (4) Insular areas
+  * #### (A) Apportionment
+    * From any amount remaining of funds reserved under paragraph (2), the Administrator may enter into agreements to provide capitalization grants to insular areas.
+
+  * #### (B) Requirements
+    * An insular area receiving a capitalization grant under this section shall comply with the requirements of this section as applied to participating entities.
+
+#### (e) Environmental review of revolving loan fund projects
+* The Administrator may delegate to a participating entity all of the responsibilities for environmental review, decision making, and action pursuant to the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), and other applicable Federal environmental laws including the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.) and the National Historic Preservation Act of 1966 (54 U.S.C. 300101 et seq.) that would apply to the Administrator were the Administrator to undertake projects under this section as Federal projects so long as the participating entity carries out such responsibilities in the same manner and subject to the same requirements as if the Administrator carried out such responsibilities.
+
+#### (f) Use of funds
+* #### (1) Types of assistance
+  * Amounts deposited in an entity loan fund, including loan repayments and interest earned on such amounts, may be used—
+
+    * (A) to make loans, on the condition that—
+
+      * (i) such loans are made at an interest rate of not more than 1 percent;
+
+      * (ii) annual principal and interest payments will commence not later than 1 year after completion of any project and all loans made under this subparagraph will be fully amortized—
+
+        * (I) not later than 20 years after the date on which the project is completed; or
+
+        * (II) for projects in a low-income geographic area, not later than 30 years after the date on which the project is completed and not longer than the expected design life of the project;
+
+
+      * (iii) the loan recipient of a loan under this subparagraph establishes a dedicated source of revenue for repayment of the loan;
+
+      * (iv) the loan recipient of a loan under this subparagraph has a hazard mitigation plan that has been approved by the Administrator; and
+
+      * (v) the entity loan fund will be credited with all payments of principal and interest on all loans made under this subparagraph;
+
+
+    * (B) for mitigation efforts, in addition to mitigation planning under section 5165 of this title not to exceed 10 percent of the capitalization grants made to the participating entity in a fiscal year;
+
+    * (C) for the reasonable costs of administering the fund and conducting activities under this section, except that such amounts shall not exceed $100,000 per year, 2 percent of the capitalization grants made to the participating entity in a fiscal year, or 1 percent of the value of the entity loan fund, whichever amount is greatest, plus the amount of any fees collected by the entity for such purpose regardless of the source; and
+
+    * (D) to earn interest on the entity loan fund.
+
+* #### (2) Prohibition on determination that loan is a duplication
+  * In carrying out this section, the Administrator may not determine that a loan is a duplication of assistance or programs under this chapter.
+
+* #### (3) Projects and activities eligible for assistance
+  * Except as provided in this subsection, a participating entity may use funds in the entity loan fund to provide financial assistance for projects or activities that mitigate the impacts of natural hazards including—
+
+    * (A) drought and prolonged episodes of intense heat;
+
+    * (B) severe storms, including hurricanes, tornados, wind storms, cyclones, and severe winter storms;
+
+    * (C) wildfires;
+
+    * (D) earthquakes;
+
+    * (E) flooding, including the construction, repair, or replacement of a non-Federal levee or other flood control structure, provided that the Administrator, in consultation with the Army Corps of Engineers (if appropriate), requires an eligible entity to determine that such levee or structure is designed, constructed, and maintained in accordance with sound engineering practices and standards equivalent to the purpose for which such levee or structure is intended;
+
+    * (F) shoreline erosion;
+
+    * (G) high water levels; and
+
+    * (H) storm surges.
+
+* #### (4) Zoning and land use planning changes
+  * A participating entity may use not more than 10 percent of a capitalization grant under this section to enable units of local government to implement zoning and land use planning changes focused on—
+
+    * (A) the development and improvement of zoning and land use codes that incentivize and encourage low-impact development, resilient wildland-urban interface land management and development, natural infrastructure, green stormwater management, conservation areas adjacent to floodplains, implementation of watershed or greenway master plans, and reconnection of floodplains;
+
+    * (B) the study and creation of agricultural risk compensation districts where there is a desire to remove or set-back levees protecting highly developed agricultural land to mitigate for flooding, allowing agricultural producers to receive compensation for assuming greater flood risk that would alleviate flood exposure to population centers and areas with critical national infrastructure;
+
+    * (C) the study and creation of land use incentives that reward developers for greater reliance on low impact development stormwater best management practices, exchange density increases for increased open space and improvement of neighborhood catch basins to mitigate urban flooding, reward developers for including and augmenting natural infrastructure adjacent to and around building projects without reliance on increased sprawl, and reward developers for addressing wildfire ignition; and
+
+    * (D) the study and creation of an erosion response plan that accommodates river, lake, forest, plains, and ocean shoreline retreating or bluff stabilization due to increased flooding and disaster impacts.
+
+* #### (5) Establishing and carrying out building code enforcement
+  * A participating entity may use capitalization grants under this section to enable units of local government to establish and carry out the latest published editions of relevant building codes, specifications, and standards for the purpose of protecting the health, safety, and general welfare of the building's users against disasters and natural hazards.
+
+* #### (6) Administrative and technical costs
+  * For each fiscal year, a participating entity may use the amount described in paragraph (1)(C) to—
+
+    * (A) pay the reasonable costs of administering the programs under this section, including the cost of establishing an entity loan fund; and
+
+    * (B) provide technical assistance to recipients of financial assistance from the entity loan fund, on the condition that such technical assistance does not exceed 5 percent of the capitalization grant made to such entity.
+
+* #### (7) Limitation for single projects
+  * A participating entity may not provide an amount equal to or more than $5,000,000 to a single hazard mitigation project.
+
+* #### (8) Requirements
+  * For fiscal year 2022 and each fiscal year thereafter, the requirements of subchapter IV of chapter 31 of title 40 shall apply to the construction of projects carried out in whole or in part with assistance made available by an entity loan fund authorized by this section.
+
+#### (g) Intended use plans
+* #### (1) In general
+  * After providing for public comment and review, and consultation with appropriate government agencies of the State or Indian tribal government, Federal agencies, and interest groups, each participating entity shall annually prepare and submit to the Administrator a plan identifying the intended uses of the entity loan fund.
+
+* #### (2) Contents of plan
+  * An entity intended use plan prepared under paragraph (1) shall include—
+
+    * (A) the integration of entity planning efforts, including entity hazard mitigation plans and other programs and initiatives relating to mitigation of major disasters carried out by such entity;
+
+    * (B) an explanation of the mitigation and resiliency benefits the entity intends to achieve by—
+
+      * (i) reducing future damage and loss associated with hazards;
+
+      * (ii) reducing the number of severe repetitive loss structures and repetitive loss structures in the entity;
+
+      * (iii) decreasing the number of insurance claims in the entity from injuries resulting from major disasters or other natural hazards; and
+
+      * (iv) increasing the rating under the community rating system under section 4022(b) of this title for communities in the entity;
+
+
+    * (C) information on the availability of, and application process for, financial assistance from the entity loan fund of such entity;
+
+    * (D) the criteria and methods established for the distribution of funds;
+
+    * (E) the amount of financial assistance that the entity anticipates apportioning;
+
+    * (F) the expected terms of the assistance provided from the entity loan fund; and
+
+    * (G) a description of the financial status of the entity loan fund, including short-term and long-term goals for the fund.
+
+#### (h) Audits, reports, publications, and oversight
+* #### (1) Biennial entity audit and report
+  * Beginning not later than the last day of the second fiscal year after the receipt of payments under this section, and biennially thereafter, any participating entity shall—
+
+    * (A) conduct an audit of the entity loan fund established under subsection (c); and
+
+    * (B) provide to the Administrator a report including—
+
+      * (i) the result of any such audit; and
+
+      * (ii) a review of the effectiveness of the entity loan fund of the entity with respect to meeting the goals and intended benefits described in the intended use plan submitted by the entity under subsection (g).
+
+* #### (2) Publication
+  * A participating entity shall publish and periodically update information about all projects receiving funding from the entity loan fund of such entity, including—
+
+    * (A) the location of the project;
+
+    * (B) the type and amount of assistance provided from the entity loan fund;
+
+    * (C) the expected funding schedule; and
+
+    * (D) the anticipated date of completion of the project.
+
+* #### (3) Oversight
+  * #### (A) In general
+    * The Administrator shall, at least every 4 years, conduct reviews and audits as may be determined necessary or appropriate by the Administrator to carry out the objectives of this section and determine the effectiveness of the fund in reducing natural hazard risk.
+
+  * #### (B) GAO requirements
+    * A participating entity shall conduct audits under paragraph (1) in accordance with the auditing procedures of the Government Accountability Office, including generally accepted government auditing standards.
+
+  * #### (C) Recommendations by Administrator
+    * The Administrator may at any time make recommendations for or require specific changes to an entity loan fund in order to improve the effectiveness of the fund.
+
+#### (i) Regulations or guidance
+* The Administrator shall issue such regulations or guidance as are necessary to—
+
+  * (1) ensure that each participating entity uses funds as efficiently as possible;
+
+  * (2) reduce waste, fraud, and abuse to the maximum extent possible; and
+
+  * (3) require any party that receives funds directly or indirectly under this section, including a participating entity and a recipient of amounts from an entity loan fund, to use procedures with respect to the management of the funds that conform to generally accepted accounting standards.
+
+#### (j) Waiver authority
+* Until such time as the Administrator issues final regulations to implement this section, the Administrator may—
+
+  * (1) waive notice and comment rulemaking, if the Administrator determines the waiver is necessary to expeditiously implement this section; and
+
+  * (2) provide capitalization grants under this section as a pilot program.
+
+#### (k) Liability protections
+* The Agency shall not be liable for any claim based on the exercise or performance of, or the failure to exercise or perform, a discretionary function or duty by the Agency, or an employee of the Agency in carrying out this section.
+
+#### (l) GAO report
+* Not later than 1 year after the date on which the first entity loan fund is established under subsection (c), the Comptroller General of the United States shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that examines—
+
+  * (1) the appropriateness of regulations and guidance issued by the Administrator for the program, including any oversight of the program;
+
+  * (2) a description of the number of the entity loan funds established, the projects funded from such entity loan funds, and the extent to which projects funded by the loan funds adhere to any applicable hazard mitigation plans;
+
+  * (3) the effectiveness of the entity loan funds to lower disaster related costs; and
+
+  * (4) recommendations for improving the administration of entity loan funds.
+
+#### (m) Definitions
+* In this section, the following definitions apply:
+
+* #### (1) Administrator
+  * The term "Administrator" means the Administrator of the Federal Emergency Management Agency.
+
+* #### (2) Agency
+  * The term "Agency" means the Federal Emergency Management Agency.
+
+* #### (3) Eligible entity
+  * The term "eligible entity" means—
+
+    * (A) a State; or
+
+    * (B) an Indian tribal government that has received a major disaster declaration during the 5-year period ending on January 1, 2021.
+
+* #### (4) Hazard mitigation plan
+  * The term "hazard mitigation plan" means a mitigation plan submitted under section 5165 of this title.
+
+* #### (5) Insular area
+  * The term "insular area" means Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and the United States Virgin Islands.
+
+* #### (6) Low-income geographic area
+  * The term "low-income geographic area" means an area described in paragraph (1) or (2) of section 3161(a) of this title.
+
+* #### (7) Participating entity
+  * The term "participating entity" means an eligible entity that has entered into an agreement under this section.
+
+* #### (8) Repetitive loss structure
+  * The term "repetitive loss structure" has the meaning given the term in section 4121 of this title.
+
+* #### (9) Severe repetitive loss structure
+  * The term "severe repetitive loss structure" has the meaning given the term in section 4104c(h) of this title.
+
+* #### (10) State
+  * The term "State" means any State of the United States, the District of Columbia, and Puerto Rico.
+
+* #### (11) Wildland-urban interface
+  * The term "wildland-urban interface" has the meaning given the term in section 6511 of title 16.
+
+#### (n) Authorization of appropriations
+* There are authorized to be appropriated $100,000,000 for each of fiscal years 2022 through 2023 to carry out this section.

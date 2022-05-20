@@ -351,7 +351,7 @@
 
 #### (b) Elements
 * #### (1) In general
-  * Each report report under subsection (a)(1) shall specify, for each unfunded priority covered by the report, the following:
+  * Each report under subsection (a)(1) shall specify, for each unfunded priority covered by the report, the following:
 
     * (A) A summary description of that priority, including the objectives to be achieved if that priority is funded (whether in whole or in part).
 
@@ -374,3 +374,52 @@
     * (A) if additional resources were available for the budget to fund the program, activity, or mission requirement; or
 
     * (B) in the case of a program, activity, or mission requirement that emerged after the budget was formulated, if the program, activity, or mission requirement had emerged before the budget was formulated.
+
+### §2757. Review of adequacy of nuclear weapons budget
+#### (a) Review of adequacy of administration budget by Nuclear Weapons Council
+* #### (1) Transmission to Council
+  * The Secretary of Energy shall transmit to the Nuclear Weapons Council (in this section referred to as the "Council") a copy of the proposed budget request of the Administration for each fiscal year before that budget request is submitted to the Director of the Office of Management and Budget in relation to the preparation of the budget of the President to be submitted to Congress under section 1105(a) of title 31.
+
+* #### (2) Review and determination of adequacy
+  * #### (A) Review
+    * The Council shall review each budget request transmitted to the Council under paragraph (1).
+
+  * #### (B) Determination of adequacy
+    * #### (i) Inadequate requests
+      * If the Council determines that a budget request for a fiscal year transmitted to the Council under paragraph (1) is inadequate, in whole or in part, to implement the objectives of the Department of Defense with respect to nuclear weapons for that fiscal year, the Council shall submit to the Secretary of Energy a written description of funding levels and specific initiatives that would, in the determination of the Council, make the budget request adequate to implement those objectives.
+
+    * #### (ii) Adequate requests
+      * If the Council determines that a budget request for a fiscal year transmitted to the Council under paragraph (1) is adequate to implement the objectives described in clause (i) for that fiscal year, the Council shall submit to the Secretary of Energy a written statement confirming the adequacy of the request.
+
+    * #### (iii) Records
+      * The Council shall maintain a record of each description submitted under clause (i) and each statement submitted under clause (ii).
+
+* #### (3) Department of Energy response
+  * #### (A) In general
+    * If the Council submits to the Secretary of Energy a written description under paragraph (2)(B)(i) with respect to the budget request of the Administration for a fiscal year, the Secretary shall include as an appendix to the budget request submitted to the Director of the Office of Management and Budget—
+
+      * (i) the funding levels and initiatives identified in the description under paragraph (2)(B)(i); and
+
+      * (ii) any additional comments the Secretary considers appropriate.
+
+  * #### (B) Transmission to Congress
+    * The Secretary of Energy shall transmit to Congress, with the budget justification materials submitted in support of the Department of Energy budget for a fiscal year (as submitted with the budget of the President under section 1105(a) of title 31), a copy of the appendix described in subparagraph (A).
+
+#### (b) Review and certification of Department of Energy budget by Nuclear Weapons Council
+* #### (1) In general
+  * At the time the Secretary of Energy submits the budget request of the Department of Energy for that fiscal year to the Director of the Office of Management and Budget in relation to the preparation of the budget of the President, the Secretary shall transmit a copy of the budget request of the Department to the Council.
+
+* #### (2) Certification
+  * The Council shall—
+
+    * (A) review the budget request transmitted to the Council under paragraph (1);
+
+    * (B) based on the review under subparagraph (A), make a determination with respect to whether the budget request includes the funding levels and initiatives described in subsection (a)(2)(B)(i); and
+
+    * (C) submit to Congress—
+
+      * (i)(I) a certification that the budget request is adequate to implement the objectives described in subsection (a)(2)(B)(i); or
+
+      * (II) a statement that the budget request is not adequate to implement those objectives; and
+
+      * (ii) a copy of the written description submitted by the Council to the Secretary under subsection (a)(2)(B)(i), if any.

@@ -468,9 +468,11 @@
 
   * (2) develop standards and guidelines, including minimum requirements, for information systems used or operated by an agency or by a contractor of an agency or other organization on behalf of an agency, other than national security systems (as defined in section 3552(b)(5) of title 44);
 
-  * (3) develop standards and guidelines, including minimum requirements, for providing adequate information security for all agency operations and assets, but such standards and guidelines shall not apply to national security systems; and
+  * (3) develop standards and guidelines, including minimum requirements, for providing adequate information security for all agency operations and assets, but such standards and guidelines shall not apply to national security systems;
 
-  * (4) carry out the responsibilities described in paragraph (3) through the Computer Security Division.
+  * (4) carry out the responsibilities described in paragraph (3) through the Computer Security Division; and
+
+  * (5) identify and develop standards and guidelines for improving the cybersecurity workforce for an agency as part of the National Initiative for Cybersecurity Education (NICE) Cybersecurity Workforce Framework (NIST Special Publication 800–181), or successor framework.
 
 #### (b) Minimum requirements for standards and guidelines
 * The standards and guidelines required by subsection (a) shall include, at a minimum—
@@ -574,6 +576,183 @@
   * (4) the term "information technology" has the same meaning as provided in section 11101 of title 40; and
 
   * (5) the term "national security system" has the same meaning as provided in section 3552(b)(5) of such title.
+
+### §278g–3a. Definitions
+* In this Act:
+
+* #### (1) Agency
+  * The term "agency" has the meaning given that term in section 3502 of title 44.
+
+* #### (2) Director of OMB
+  * The term "Director of OMB" means the Director of the Office of Management and Budget.
+
+* #### (3) Director of the Institute
+  * The term "Director of the Institute" means the Director of the National Institute of Standards and Technology.
+
+* #### (4) Information system
+  * The term "information system" has the meaning given that term in section 3502 of title 44.
+
+* #### (5) National security system
+  * The term "national security system" has the meaning given that term in section 3552(b)(6) of title 44.
+
+* #### (6) Operational technology
+  * The term "operational technology" means hardware and software that detects or causes a change through the direct monitoring or control of physical devices, processes, and events in the enterprise.
+
+* #### (7) Secretary
+  * The term "Secretary" means the Secretary of Homeland Security.
+
+* #### (8) Security vulnerability
+  * The term "security vulnerability" has the meaning given that term in section 1501(17) of title 6.
+
+### §278g–3b. Security standards and guidelines for agencies on use and management of Internet of Things devices
+#### (a) National Institute of Standards and Technology development of standards and guidelines for use of Internet of Things devices by agencies
+* #### (1) In general
+  * Not later than 90 days after December 4, 2020, the Director of the Institute shall develop and publish under section 278g–3 of this title standards and guidelines for the Federal Government on the appropriate use and management by agencies of Internet of Things devices owned or controlled by an agency and connected to information systems owned or controlled by an agency, including minimum information security requirements for managing cybersecurity risks associated with such devices.
+
+* #### (2) Consistency with ongoing efforts
+  * The Director of the Institute shall ensure that the standards and guidelines developed under paragraph (1) are consistent with the efforts of the National Institute of Standards and Technology in effect on December 4, 2020—
+
+    * (A) regarding—
+
+      * (i) examples of possible security vulnerabilities of Internet of Things devices; and
+
+      * (ii) considerations for managing the security vulnerabilities of Internet of Things devices; and
+
+
+    * (B) with respect to the following considerations for Internet of Things devices:
+
+      * (i) Secure Development.
+
+      * (ii) Identity management.
+
+      * (iii) Patching.
+
+      * (iv) Configuration management.
+
+* #### (3) Considering relevant standards
+  * In developing the standards and guidelines under paragraph (1), the Director of the Institute shall consider relevant standards, guidelines, and best practices developed by the private sector, agencies, and public-private partnerships.
+
+#### (b) Review of agency information security policies and principles
+* #### (1) Requirement
+  * Not later than 180 days after the date on which the Director of the Institute completes the development of the standards and guidelines required under subsection (a), the Director of OMB shall review agency information security policies and principles on the basis of the standards and guidelines published under subsection (a) pertaining to Internet of Things devices owned or controlled by agencies (excluding agency information security policies and principles pertaining to Internet of Things of devices owned or controlled by agencies that are or comprise a national security system) for consistency with the standards and guidelines submitted under subsection (a) and issue such policies and principles as may be necessary to ensure those policies and principles are consistent with such standards and guidelines.
+
+* #### (2) Review
+  * In reviewing agency information security policies and principles under paragraph (1) and issuing policies and principles under such paragraph, as may be necessary, the Director of OMB shall—
+
+    * (A) consult with the Director of the Cybersecurity and Infrastructure Security Agency of the Department of Homeland Security; and
+
+    * (B) ensure such policies and principles are consistent with the information security requirements under subchapter II of chapter 35 of title 44.
+
+* #### (3) National security systems
+  * Any policy or principle issued by the Director of OMB under paragraph (1) shall not apply to national security systems.
+
+#### (c) Quinquennial review and revision
+* #### (1) Review and revision of NIST standards and guidelines
+  * Not later than 5 years after the date on which the Director of the Institute publishes the standards and guidelines under subsection (a), and not less frequently than once every 5 years thereafter, the Director of the Institute, shall—
+
+    * (A) review such standards and guidelines; and
+
+    * (B) revise such standards and guidelines as appropriate.
+
+* #### (2) Updated OMB policies and principles for agencies
+  * Not later than 180 days after the Director of the Institute makes a revision pursuant to paragraph (1), the Director of OMB, in consultation with the Director of the Cybersecurity and Infrastructure Security Agency of the Department of Homeland Security, shall update any policy or principle issued under subsection (b)(1) as necessary to ensure those policies and principles are consistent with the review and any revision under paragraph (1) under this subsection and paragraphs (2) and (3) of subsection (b).
+
+#### (d) Revision of Federal Acquisition Regulation
+* The Federal Acquisition Regulation shall be revised as necessary to implement any standards and guidelines promulgated in this section.
+
+### §278g–3c. Guidelines on the disclosure process for security vulnerabilities relating to information systems, including Internet of Things devices
+#### (a) In general
+* Not later than 180 days after December 4, 2020, the Director of the Institute, in consultation with such cybersecurity researchers and private sector industry experts as the Director considers appropriate, and in consultation with the Secretary, shall develop and publish under section 278g–3 of this title guidelines—
+
+  * (1) for the reporting, coordinating, publishing, and receiving of information about—
+
+    * (A) a security vulnerability relating to information systems owned or controlled by an agency (including Internet of Things devices owned or controlled by an agency); and
+
+    * (B) the resolution of such security vulnerability; and
+
+
+  * (2) for a contractor providing to an agency an information system (including an Internet of Things device) and any subcontractor thereof at any tier providing such information system to such contractor, on—
+
+    * (A) receiving information about a potential security vulnerability relating to the information system; and
+
+    * (B) disseminating information about the resolution of a security vulnerability relating to the information system.
+
+#### (b) Elements
+* The guidelines published under subsection (a) shall—
+
+  * (1) to the maximum extent practicable, be aligned with industry best practices and Standards 29147 and 30111 of the International Standards Organization (or any successor standard) or any other appropriate, relevant, and widely-used standard;
+
+  * (2) incorporate guidelines on—
+
+    * (A) receiving information about a potential security vulnerability relating to an information system owned or controlled by an agency (including an Internet of Things device); and
+
+    * (B) disseminating information about the resolution of a security vulnerability relating to an information system owned or controlled by an agency (including an Internet of Things device); and
+
+
+  * (3) be consistent with the policies and procedures produced under section 659(m) of title 6.
+
+#### (c) Information items
+* The guidelines published under subsection (a) shall include example content, on the information items that should be reported, coordinated, published, or received pursuant to this section by a contractor, or any subcontractor thereof at any tier, providing an information system (including Internet of Things device) to the Federal Government.
+
+#### (d) Oversight
+* The Director of OMB shall oversee the implementation of the guidelines published under subsection (a).
+
+#### (e) Operational and technical assistance
+* The Secretary, in consultation with the Director of OMB, shall administer the implementation of the guidelines published under subsection (a) and provide operational and technical assistance in implementing such guidelines.
+
+### §278g–3d. Implementation of coordinated disclosure of security vulnerabilities relating to agency information systems, including Internet of Things devices
+#### (a) Agency guidelines required
+* Not later than 2 years after December 4, 2020, the Director of OMB, in consultation with the Secretary, shall develop and oversee the implementation of policies, principles, standards, or guidelines as may be necessary to address security vulnerabilities of information systems (including Internet of Things devices).
+
+#### (b) Operational and technical assistance
+* Consistent with section 3553(b) of title 44, the Secretary, in consultation with the Director of OMB, shall provide operational and technical assistance to agencies on reporting, coordinating, publishing, and receiving information about security vulnerabilities of information systems (including Internet of Things devices).
+
+#### (c) Consistency with guidelines from National Institute of Standards and Technology
+* The Secretary shall ensure that the assistance provided under subsection (b) is consistent with applicable standards and publications developed by the Director of the Institute.
+
+#### (d) Revision of Federal Acquisition Regulation
+* The Federal Acquisition Regulation shall be revised as necessary to implement the provisions under this section.
+
+### §278g–3e. Contractor compliance with coordinated disclosure of security vulnerabilities relating to agency Internet of Things devices
+#### (a) Prohibition on procurement and use
+* #### (1) In general
+  * The head of an agency is prohibited from procuring or obtaining, renewing a contract to procure or obtain, or using an Internet of Things device, if the Chief Information Officer of that agency determines during a review required by section 11319(b)(1)(C) of title 40 of a contract for such device that the use of such device prevents compliance with the standards and guidelines developed under section 278g–3b of this title or the guidelines published under section 278g–3c of this title with respect to such device.
+
+* #### (2) Simplified acquisition threshold
+  * Notwithstanding section 1905 of title 41, the requirements under paragraph (1) shall apply to a contract or subcontract in amounts not greater than the simplified acquisition threshold.
+
+#### (b) Waiver
+* #### (1) Authority
+  * The head of an agency may waive the prohibition under subsection (a)(1) with respect to an Internet of Things device if the Chief Information Officer of that agency determines that—
+
+    * (A) the waiver is necessary in the interest of national security;
+
+    * (B) procuring, obtaining, or using such device is necessary for research purposes; or
+
+    * (C) such device is secured using alternative and effective methods appropriate to the function of such device.
+
+* #### (2) Agency process
+  * The Director of OMB shall establish a standardized process for the Chief Information Officer of each agency to follow in determining whether the waiver under paragraph (1) may be granted.
+
+#### (c) Reports to Congress
+* #### (1) Report
+  * Every 2 years during the 6-year period beginning on December 4, 2020, the Comptroller General of the United States shall submit to the Committee on Oversight and Reform of the House of Representatives, the Committee on Homeland Security of the House of Representatives, and the Committee on Homeland Security and Governmental Affairs of the Senate a report—
+
+    * (A) on the effectiveness of the process established under subsection (b)(2);
+
+    * (B) that contains recommended best practices for the procurement of Internet of Things devices; and
+
+    * (C) that lists—
+
+      * (i) the number and type of each Internet of Things device for which a waiver under subsection (b)(1) was granted during the 2-year period prior to the submission of the report; and
+
+      * (ii) the legal authority under which each such waiver was granted, such as whether the waiver was granted pursuant to subparagraph (A), (B), or (C) of such subsection.
+
+* #### (2) Classification of report
+  * Each report submitted under this subsection shall be submitted in unclassified form, but may include a classified annex that contains the information described under paragraph (1)(C).
+
+#### (d) Effective date
+* The prohibition under subsection (a)(1) shall take effect 2 years after December 4, 2020.
 
 ### §278g–4. Information Security and Privacy Advisory Board
 #### (a) Establishment and composition
@@ -723,6 +902,117 @@
 
 * #### (2) Institution of higher education
   * The term "institution of higher education" has the meaning given that term in section 1001(a) of title 20.
+
+### §278h–1. Standards for artificial intelligence
+#### (a) Mission
+* The Institute shall—
+
+  * (1) advance collaborative frameworks, standards, guidelines, and associated methods and techniques for artificial intelligence;
+
+  * (2) support the development of a risk-mitigation framework for deploying artificial intelligence systems;
+
+  * (3) support the development of technical standards and guidelines that promote trustworthy artificial intelligence systems; and
+
+  * (4) support the development of technical standards and guidelines by which to test for bias in artificial intelligence training data and applications.
+
+#### (b) Supporting activities
+* The Director of the National Institute of Standards and Technology may—
+
+  * (1) support measurement research and development of best practices and voluntary standards for trustworthy artificial intelligence systems, which may include—
+
+    * (A) privacy and security, including for datasets used to train or test artificial intelligence systems and software and hardware used in artificial intelligence systems;
+
+    * (B) advanced computer chips and hardware designed for artificial intelligence systems;
+
+    * (C) data management and techniques to increase the usability of data, including strategies to systematically clean, label, and standardize data into forms useful for training artificial intelligence systems and the use of common, open licenses;
+
+    * (D) safety and robustness of artificial intelligence systems, including assurance, verification, validation, security, control, and the ability for artificial intelligence systems to withstand unexpected inputs and adversarial attacks;
+
+    * (E) auditing mechanisms and benchmarks for accuracy, transparency, verifiability, and safety assurance for artificial intelligence systems;
+
+    * (F) applications of machine learning and artificial intelligence systems to improve other scientific fields and engineering;
+
+    * (G) model documentation, including performance metrics and constraints, measures of fairness, training and testing processes, and results;
+
+    * (H) system documentation, including connections and dependences within and between systems, and complications that may arise from such connections; and
+
+    * (I) all other areas deemed by the Director to be critical to the development and deployment of trustworthy artificial intelligence;
+
+
+  * (2) produce curated, standardized, representative, high-value, secure, aggregate, and privacy protected data sets for artificial intelligence research, development, and use;
+
+  * (3) support one or more institutes as described in section 9431(b) of this title for the purpose of advancing measurement science, voluntary consensus standards, and guidelines for trustworthy artificial intelligence systems;
+
+  * (4) support and strategically engage in the development of voluntary consensus standards, including international standards, through open, transparent, and consensus-based processes; and
+
+  * (5) enter into and perform such contracts, including cooperative research and development arrangements and grants and cooperative agreements or other transactions, as may be necessary in the conduct of the work of the National Institute of Standards and Technology and on such terms as the Director considers appropriate, in furtherance of the purposes of this division.
+
+#### (c) Risk management framework
+* Not later than 2 years after January 1, 2021, the Director shall work to develop, and periodically update, in collaboration with other public and private sector organizations, including the National Science Foundation and the Department of Energy, a voluntary risk management framework for trustworthy artificial intelligence systems. The framework shall—
+
+  * (1) identify and provide standards, guidelines, best practices, methodologies, procedures and processes for—
+
+    * (A) developing trustworthy artificial intelligence systems;
+
+    * (B) assessing the trustworthiness of artificial intelligence systems; and
+
+    * (C) mitigating risks from artificial intelligence systems;
+
+
+  * (2) establish common definitions and characterizations for aspects of trustworthiness, including explainability, transparency, safety, privacy, security, robustness, fairness, bias, ethics, validation, verification, interpretability, and other properties related to artificial intelligence systems that are common across all sectors;
+
+  * (3) provide case studies of framework implementation;
+
+  * (4) align with international standards, as appropriate;
+
+  * (5) incorporate voluntary consensus standards and industry best practices; and
+
+  * (6) not prescribe or otherwise require the use of specific information or communications technology products or services.
+
+#### (d) Participation in standard setting organizations
+* #### (1) Requirement
+  * The Institute shall participate in the development of standards and specifications for artificial intelligence.
+
+* #### (2) Purpose
+  * The purpose of this participation shall be to ensure—
+
+    * (A) that standards promote artificial intelligence systems that are trustworthy; and
+
+    * (B) that standards relating to artificial intelligence reflect the state of technology and are fit-for-purpose and developed in transparent and consensus-based processes that are open to all stakeholders.
+
+#### (e) Data sharing best practices
+* Not later than 1 year after January 1, 2021, the Director shall, in collaboration with other public and private sector organizations, develop guidance to facilitate the creation of voluntary data sharing arrangements between industry, federally funded research centers, and Federal agencies for the purpose of advancing artificial intelligence research and technologies, including options for partnership models between government entities, industry, universities, and nonprofits that incentivize each party to share the data they collected.
+
+#### (f) Best practices for documentation of data sets
+* Not later than 1 year after January 1, 2021, the Director shall, in collaboration with other public and private sector organizations, develop best practices for datasets used to train artificial intelligence systems, including—
+
+  * (1) standards for metadata that describe the properties of datasets, including—
+
+    * (A) the origins of the data;
+
+    * (B) the intent behind the creation of the data;
+
+    * (C) authorized uses of the data;
+
+    * (D) descriptive characteristics of the data, including what populations are included and excluded from the datasets; and
+
+    * (E) any other properties as determined by the Director; and
+
+
+  * (2) standards for privacy and security of datasets with human characteristics.
+
+#### (g) Authorization of appropriations
+* There are authorized to be appropriated to the National Institute of Standards and Technology to carry out this section—
+
+  * (1) $64,000,000 for fiscal year 2021;
+
+  * (2) $70,400,000 for fiscal year 2022;
+
+  * (3) $77,440,000 for fiscal year 2023;
+
+  * (4) $85,180,000 for fiscal year 2024; and
+
+  * (5) $93,700,000 for fiscal year 2025.
 
 ### §278i. Reports to Congress
 #### (a) Information to Congress on Institute activities

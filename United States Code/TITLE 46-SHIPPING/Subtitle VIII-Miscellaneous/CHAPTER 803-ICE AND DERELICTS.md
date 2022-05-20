@@ -17,7 +17,7 @@
   * (2) contribution by the Government for its proportionate share if the agreement provides for another country to maintain the services.
 
 
-* (c) PAYMENTS.—Payments received pursuant to subsection (b)(1) shall be credited to the appropriation for operating expenses of the Coast Guard.
+* (c) PAYMENTS.—Payments received pursuant to subsection (b)(1) shall be credited to the appropriation for operations and support of the Coast Guard.
 
 ### §80302. Patrol services
 * (a) GENERAL REQUIREMENTS.—Unless the agreements made under section 80301 of this title provide otherwise, an ice patrol shall be maintained during the entire ice season in guarding the southeastern, southern, and southwestern limits of the region of icebergs in the vicinity of the Grand Banks of Newfoundland. The patrol shall inform trans-Atlantic and other passing vessels by radio and other available means of the ice conditions and the extent of the dangerous region. During the ice season, there shall be maintained a service of study of ice and current conditions, a service of providing assistance to vessels and crews requiring assistance, and a service of removing and destroying derelicts. Any of these services may be maintained during the remainder of the year as may be advisable.

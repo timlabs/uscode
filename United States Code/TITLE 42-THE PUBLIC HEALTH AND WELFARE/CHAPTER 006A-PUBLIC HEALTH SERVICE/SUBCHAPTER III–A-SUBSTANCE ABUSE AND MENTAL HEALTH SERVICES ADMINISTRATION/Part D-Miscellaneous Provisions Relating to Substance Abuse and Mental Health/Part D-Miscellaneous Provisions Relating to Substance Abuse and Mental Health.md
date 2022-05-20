@@ -48,11 +48,19 @@
 
 ### §290dd–2. Confidentiality of records
 #### (a) Requirement
-* Records of the identity, diagnosis, prognosis, or treatment of any patient which are maintained in connection with the performance of any program or activity relating to substance abuse education, prevention, training, treatment, rehabilitation, or research, which is conducted, regulated, or directly or indirectly assisted by any department or agency of the United States shall, except as provided in subsection (e), be confidential and be disclosed only for the purposes and under the circumstances expressly authorized under subsection (b).
+* Records of the identity, diagnosis, prognosis, or treatment of any patient which are maintained in connection with the performance of any program or activity relating to substance use disorder education, prevention, training, treatment, rehabilitation, or research, which is conducted, regulated, or directly or indirectly assisted by any department or agency of the United States shall, except as provided in subsection (e), be confidential and be disclosed only for the purposes and under the circumstances expressly authorized under subsection (b).
 
 #### (b) Permitted disclosure
 * #### (1) Consent
-  * The content of any record referred to in subsection (a) may be disclosed in accordance with the prior written consent of the patient with respect to whom such record is maintained, but only to such extent, under such circumstances, and for such purposes as may be allowed under regulations prescribed pursuant to subsection (g).
+  * The following shall apply with respect to the contents of any record referred to in subsection (a):
+
+    * (A) Such contents may be used or disclosed in accordance with the prior written consent of the patient with respect to whom such record is maintained.
+
+    * (B) Once prior written consent of the patient has been obtained, such contents may be used or disclosed by a covered entity, business associate, or a program subject to this section for purposes of treatment, payment, and health care operations as permitted by the HIPAA regulations. Any information so disclosed may then be redisclosed in accordance with the HIPAA regulations. Section 17935(c) of this title shall apply to all disclosures pursuant to subsection (b)(1) of this section.
+
+    * (C) It shall be permissible for a patient's prior written consent to be given once for all such future uses or disclosures for purposes of treatment, payment, and health care operations, until such time as the patient revokes such consent in writing.
+
+    * (D) Section 17935(a) of this title shall apply to all disclosures pursuant to subsection (b)(1) of this section.
 
 * #### (2) Method for disclosure
   * Whether or not the patient, with respect to whom any given record referred to in subsection (a) is maintained, gives written consent, the content of such record may be disclosed as follows:
@@ -63,8 +71,18 @@
 
     * (C) If authorized by an appropriate order of a court of competent jurisdiction granted after application showing good cause therefor, including the need to avert a substantial risk of death or serious bodily harm. In assessing good cause the court shall weigh the public interest and the need for disclosure against the injury to the patient, to the physician-patient relationship, and to the treatment services. Upon the granting of such order, the court, in determining the extent to which any disclosure of all or any part of any record is necessary, shall impose appropriate safeguards against unauthorized disclosure.
 
-#### (c) Use of records in criminal proceedings
-* Except as authorized by a court order granted under subsection (b)(2)(C), no record referred to in subsection (a) may be used to initiate or substantiate any criminal charges against a patient or to conduct any investigation of a patient.
+    * (D) To a public health authority, so long as such content meets the standards established in section 164.514(b) of title 45, Code of Federal Regulations (or successor regulations) for creating de-identified information.
+
+#### (c) Use of records in criminal, civil, or administrative contexts
+* Except as otherwise authorized by a court order under subsection (b)(2)(C) or by the consent of the patient, a record referred to in subsection (a), or testimony relaying the information contained therein, may not be disclosed or used in any civil, criminal, administrative, or legislative proceedings conducted by any Federal, State, or local authority, against a patient, including with respect to the following activities:
+
+  * (1) Such record or testimony shall not be entered into evidence in any criminal prosecution or civil action before a Federal or State court.
+
+  * (2) Such record or testimony shall not form part of the record for decision or otherwise be taken into account in any proceeding before a Federal, State, or local agency.
+
+  * (3) Such record or testimony shall not be used by any Federal, State, or local agency for a law enforcement purpose or to conduct any law enforcement investigation.
+
+  * (4) Such record or testimony shall not be used in any application for a warrant.
 
 #### (d) Application
 * The prohibitions of this section continue to apply to records concerning any individual who has been a patient, irrespective of whether or when such individual ceases to be a patient.
@@ -80,13 +98,71 @@
 * The prohibitions of this section do not apply to the reporting under State law of incidents of suspected child abuse and neglect to the appropriate State or local authorities.
 
 #### (f) Penalties
-* Any person who violates any provision of this section or any regulation issued pursuant to this section shall be fined in accordance with title 18.
+* The provisions of sections 1176 and 1177 of the Social Security Act [42 U.S.C. 1320d–5, 1320d–6] shall apply to a violation of this section to the extent and in the same manner as such provisions apply to a violation of part C of title XI of such Act [42 U.S.C. 1320d et seq.]. In applying the previous sentence—
+
+  * (1) the reference to "this subsection" in subsection (a)(2) of such section 1176 shall be treated as a reference to "this subsection (including as applied pursuant to section 290dd–2(f) of this title)"; and
+
+  * (2) in subsection (b) of such section 1176—
+
+    * (A) each reference to "a penalty imposed under subsection (a)" shall be treated as a reference to "a penalty imposed under subsection (a) (including as applied pursuant to section 290dd–2(f) of this title)"; and
+
+    * (B) each reference to "no damages obtained under subsection (d)" shall be treated as a reference to "no damages obtained under subsection (d) (including as applied pursuant to section 290dd–2(f) of this title)".
 
 #### (g) Regulations
 * Except as provided in subsection (h), the Secretary shall prescribe regulations to carry out the purposes of this section. Such regulations may contain such definitions, and may provide for such safeguards and procedures, including procedures and criteria for the issuance and scope of orders under subsection (b)(2)(C), as in the judgment of the Secretary are necessary or proper to effectuate the purposes of this section, to prevent circumvention or evasion thereof, or to facilitate compliance therewith.
 
 #### (h) Application to Department of Veterans Affairs
-* The Secretary of Veterans Affairs, acting through the Under Secretary for Health, shall, to the maximum feasible extent consistent with their responsibilities under title 38, prescribe regulations making applicable the regulations prescribed by the Secretary of Health and Human Services under subsection (g) to records maintained in connection with the provision of hospital care, nursing home care, domiciliary care, and medical services under such title 38 to veterans suffering from substance abuse. In prescribing and implementing regulations pursuant to this subsection, the Secretary of Veterans Affairs shall, from time to time, consult with the Secretary of Health and Human Services in order to achieve the maximum possible coordination of the regulations, and the implementation thereof, which they each prescribe.
+* The Secretary of Veterans Affairs, acting through the Under Secretary for Health, shall, to the maximum feasible extent consistent with their responsibilities under title 38, prescribe regulations making applicable the regulations prescribed by the Secretary of Health and Human Services under subsection (g) to records maintained in connection with the provision of hospital care, nursing home care, domiciliary care, and medical services under such title 38 to veterans suffering from substance use disorder. In prescribing and implementing regulations pursuant to this subsection, the Secretary of Veterans Affairs shall, from time to time, consult with the Secretary of Health and Human Services in order to achieve the maximum possible coordination of the regulations, and the implementation thereof, which they each prescribe.
+
+#### (i) Antidiscrimination
+* #### (1) In general
+  * No entity shall discriminate against an individual on the basis of information received by such entity pursuant to an inadvertent or intentional disclosure of records, or information contained in records, described in subsection (a) in—
+
+    * (A) admission, access to, or treatment for health care;
+
+    * (B) hiring, firing, or terms of employment, or receipt of worker's compensation;
+
+    * (C) the sale, rental, or continued rental of housing;
+
+    * (D) access to Federal, State, or local courts; or
+
+    * (E) access to, approval of, or maintenance of social services and benefits provided or funded by Federal, State, or local governments.
+
+* #### (2) Recipients of Federal funds
+  * No recipient of Federal funds shall discriminate against an individual on the basis of information received by such recipient pursuant to an intentional or inadvertent disclosure of such records or information contained in records described in subsection (a) in affording access to the services provided with such funds.
+
+#### (j) Notification in case of breach
+* The provisions of section 17932 of this title shall apply to a program or activity described in subsection (a), in case of a breach of records described in subsection (a), to the same extent and in the same manner as such provisions apply to a covered entity in the case of a breach of unsecured protected health information.
+
+#### (k) Definitions
+* For purposes of this section:
+
+* #### (1) Breach
+  * The term "breach" has the meaning given such term for purposes of the HIPAA regulations.
+
+* #### (2) Business associate
+  * The term "business associate" has the meaning given such term for purposes of the HIPAA regulations.
+
+* #### (3) Covered entity
+  * The term "covered entity" has the meaning given such term for purposes of the HIPAA regulations.
+
+* #### (4) Health care operations
+  * The term "health care operations" has the meaning given such term for purposes of the HIPAA regulations.
+
+* #### (5) HIPAA regulations
+  * The term "HIPAA regulations" has the meaning given such term for purposes of parts 160 and 164 of title 45, Code of Federal Regulations.
+
+* #### (6) Payment
+  * The term "payment" has the meaning given such term for purposes of the HIPAA regulations.
+
+* #### (7) Public health authority
+  * The term "public health authority" has the meaning given such term for purposes of the HIPAA regulations.
+
+* #### (8) Treatment
+  * The term "treatment" has the meaning given such term for purposes of the HIPAA regulations.
+
+* #### (9) Unsecured protected health information
+  * The term "unprotected health information" has the meaning given such term for purposes of the HIPAA regulations.
 
 ### §290dd–2a. Promoting access to information on evidence-based programs and practices
 #### (a) In general

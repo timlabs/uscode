@@ -6,7 +6,7 @@
 ### §5101. Claims and forms
 * (a)(1)(A) Except as provided in subparagraph (B), a specific claim in the form prescribed by the Secretary (or jointly with the Commissioner of Social Security, as prescribed by section 5105 of this title) must be filed in order for benefits to be paid or furnished to any individual under the laws administered by the Secretary.
 
-* (B)(i) The Secretary may pay benefits under chapters 13 and 15 and sections 2302, 2307, and 5121 of this title to a survivor of a veteran who has not filed a formal claim if the Secretary determines that the record contains sufficient evidence to establish the entitlement of the survivor to such benefits.
+* (B)(i) The Secretary may pay benefits under chapters 13 and 15 and sections 2303, 2307, and 5121 of this title to a survivor of a veteran who has not filed a formal claim if the Secretary determines that the record contains sufficient evidence to establish the entitlement of the survivor to such benefits.
 
 * (ii) For purposes of this subparagraph and section 5110 of this title, the earlier of the following dates shall be treated as the date of the receipt of the survivor's application for benefits described in clause (i):
 
@@ -29,7 +29,30 @@
 
 * (3) The costs of administering this subsection shall be paid for from amounts available to the Department of Veterans Affairs for the payment of compensation and pension.
 
-* (d) In this section:
+* (d)(1) The Secretary shall publish in a central location on the internet website of the Department—
+
+  * (A) the disability benefit questionnaire forms of the Department for the submittal of evidence from non-Department medical providers regarding a disability of a claimant, including any form or process that replaces any such disability benefit questionnaire form; and
+
+  * (B) details about the process used by the Department for submittal of evidence described in subparagraph (A).
+
+
+* (2) Subject to section 6103 of this title, if the Secretary updates a form described in paragraph (1)(A), the Secretary shall—
+
+  * (A) accept the previous version of the form filed by a claimant if—
+
+    * (i) the claimant provided to the non-Department medical provider the previous version of the form before the date on which the updated version of the form was made available; and
+
+    * (ii) the claimant files the previous version of the form during the one-year period following the date the form was completed by the non-Department medical provider;
+
+
+  * (B) request from the claimant (or from a non-Department medical provider if the claimant has authorized the provider to share health information with the Secretary) any other information that the updated version of the form requires; and
+
+  * (C) apply the laws and regulations required to adjudicate the claim as if the claimant filed the updated version of the form.
+
+
+* (3) The Secretary may waive any interagency approval process required to approve a modification to a disability benefit questionnaire form if such requirement only applies by reason of the forms being made public.
+
+* (e) In this section:
 
   * (1) The term "mentally incompetent" with respect to an individual means that the individual lacks the mental capacity—
 
@@ -118,7 +141,7 @@
 
 * (c) OBTAINING RECORDS FOR COMPENSATION CLAIMS.—(1) In the case of a claim for disability compensation, the assistance provided by the Secretary under this section shall include obtaining the following records if relevant to the claim:
 
-  * (A) The claimant's service medical records and, if the claimant has furnished the Secretary information sufficient to locate such records, other relevant records pertaining to the claimant's active military, naval, or air service that are held or maintained by a governmental entity.
+  * (A) The claimant's service medical records and, if the claimant has furnished the Secretary information sufficient to locate such records, other relevant records pertaining to the claimant's active military, naval, air, or space service that are held or maintained by a governmental entity.
 
   * (B) Records of relevant medical treatment or examination of the claimant at Department health-care facilities or at the expense of the Department, if the claimant furnishes information sufficient to locate those records.
 
@@ -133,7 +156,7 @@
 
   * (A) contains competent evidence that the claimant has a current disability, or persistent or recurrent symptoms of disability; and
 
-  * (B) indicates that the disability or symptoms may be associated with the claimant's active military, naval, or air service; but
+  * (B) indicates that the disability or symptoms may be associated with the claimant's active military, naval, air, or space service; but
 
   * (C) does not contain sufficient medical evidence for the Secretary to make a decision on the claim.
 

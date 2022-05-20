@@ -43,7 +43,7 @@
 ### §7326. Computation of years of service: voluntary retirement; regular and reserve commissioned officers
 * (a) For the purpose of determining whether an officer of the Army may be retired under section 7311, 7318, or 7324 of this title, his years of service are computed by adding—
 
-  * (1) all active service performed as a member of the Army or the Air Force;
+  * (1) all active service performed as a member of the Army, the Air Force, or the Space Force;
 
   * (2) all service in the Navy or Marine Corps that may be included in determining the eligibility of an officer of the Navy or Marine Corps for retirement;
 

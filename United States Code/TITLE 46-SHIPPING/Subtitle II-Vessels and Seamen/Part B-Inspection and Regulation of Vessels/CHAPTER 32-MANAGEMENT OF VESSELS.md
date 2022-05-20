@@ -36,12 +36,16 @@
   * (B) is a foreign vessel departing from a place under the jurisdiction of the United States on a voyage, any part of which is on the high seas.
 
 
-* (b) OTHER PASSENGER VESSELS.—This chapter applies to a vessel that is—
+* (b) OTHER PASSENGER VESSELS.—
 
-  * (1) a passenger vessel or small passenger vessel; and
+  * (1) IN GENERAL.—This chapter applies to a vessel that is—
 
-  * (2) is transporting more passengers than a number prescribed by the Secretary based on the number of individuals on the vessel that could be killed or injured in a marine casualty.
+    * (A) a passenger vessel or small passenger vessel; and
 
+    * (B) is transporting more passengers than a number prescribed by the Secretary based on the number of individuals on the vessel that could be killed or injured in a marine casualty.
+
+
+  * (2) SAFETY MANAGEMENT SYSTEM.—Notwithstanding any other provision in this chapter, including paragraph (1)(B), any regulations under section 3203, including the safety management system established by such regulations, issued on or after the date of enactment of the Elijah E. Cummings Coast Guard Authorization Act of 2020, shall apply to all covered small passenger vessels, as defined in section 3306(n)(5).
 
 * (c) VOLUNTARY APPLICATION.—This chapter applies to a vessel not described in subsection (a) of this section if the owner of the vessel requests the Secretary to apply this chapter to the vessel.
 
@@ -58,7 +62,7 @@
   * (5) a public vessel.
 
 ### §3203. Safety management system
-* (a) IN GENERAL.—The Secretary shall prescribe regulations which establish a safety management system for responsible persons and vessels to which this chapter applies, including—
+* (a) IN GENERAL.—The Secretary shall prescribe regulations which establish a safety management system for responsible persons and vessels to which this chapter applies (including, for purposes of this section, all covered small passenger vessels, as defined in section 3306(n)(5)), including—
 
   * (1) a safety and environmental protection policy;
 

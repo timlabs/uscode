@@ -91,4 +91,4 @@
 * In this section, the term "young women" means women 15 to 44 years of age.
 
 #### (h) Authorization of appropriations
-* To carry out subsections (a), (b), (c)(1), and (d), there are authorized to be appropriated $4,900,000 for each of fiscal years 2015 through 2019.
+* To carry out subsections (a), (b), (c)(1), and (d), there are authorized to be appropriated $9,000,000 for each of fiscal years 2022 through 2026.

@@ -14,7 +14,7 @@
 
   * (F)(i) in the case of hospitals which provide inpatient hospital services for which payment may be made under subsection (b), (c), or (d) of section 1395ww of this title, to maintain an agreement with a professional standards review organization (if there is such an organization in existence in the area in which the hospital is located) or with a quality improvement organization which has a contract with the Secretary under part B of subchapter XI for the area in which the hospital is located, under which the organization will perform functions under that part with respect to the review of the validity of diagnostic information provided by such hospital, the completeness, adequacy, and quality of care provided, the appropriateness of admissions and discharges, and the appropriateness of care provided for which additional payments are sought under section 1395ww(d)(5) of this title, with respect to inpatient hospital services for which payment may be made under part A of this subchapter (and for purposes of payment under this subchapter, the cost of such agreement to the hospital shall be considered a cost incurred by such hospital in providing inpatient services under part A, and (I) shall be paid directly by the Secretary to such organization on behalf of such hospital in accordance with a rate per review established by the Secretary, (II) shall be transferred from the Federal Hospital Insurance Trust Fund, without regard to amounts appropriated in advance in appropriation Acts, in the same manner as transfers are made for payment for services provided directly to beneficiaries, and (III) shall not be less in the aggregate for a fiscal year than the aggregate amount expended in fiscal year 1988 for direct and administrative costs (adjusted for inflation and for any direct or administrative costs incurred as a result of review functions added with respect to a subsequent fiscal year) of such reviews),
 
-  * (ii) in the case of hospitals, critical access hospitals, skilled nursing facilities, and home health agencies, to maintain an agreement with a quality improvement organization (which has a contract with the Secretary under part B of subchapter XI for the area in which the hospital, facility, or agency is located) to perform the functions described in paragraph (3)(A),
+  * (ii) in the case of hospitals, critical access hospitals, rural emergency hospitals, skilled nursing facilities, and home health agencies, to maintain an agreement with a quality improvement organization (which has a contract with the Secretary under part B of subchapter XI for the area in which the hospital, facility, or agency is located) to perform the functions described in paragraph (3)(A),
 
   * (G) in the case of hospitals which provide inpatient hospital services for which payment may be made under subsection (b) or (d) of section 1395ww of this title, not to charge any individual or any other person for inpatient hospital services for which such individual would be entitled to have payment made under part A but for a denial or reduction of payments under section 1395ww(f)(2) of this title,
 
@@ -29,11 +29,11 @@
 
 * to have items and services (other than services described in section 1395yy(e)(2)(A)(ii) of this title) furnished by the skilled nursing facility or otherwise under arrangements (as defined in section 1395x(w)(1) of this title) made by the skilled nursing facility,
 
-  * (I) in the case of a hospital or critical access hospital—
+  * (I) in the case of a hospital, critical access hospital, or rural emergency hospital—
 
     * (i) to adopt and enforce a policy to ensure compliance with the requirements of section 1395dd of this title and to meet the requirements of such section,
 
-    * (ii) to maintain medical and other records related to individuals transferred to or from the hospital for a period of five years from the date of the transfer, and
+    * (ii) to maintain medical and other records related to individuals transferred to or from the hospital, critical access hospital, or rural emergency hospital for a period of five years from the date of the transfer, and
 
     * (iii) to maintain a list of physicians who are on call for duty after the initial examination to provide treatment necessary to stabilize an individual with an emergency medical condition,
 
@@ -57,15 +57,15 @@
 
 * and which provides such additional information as the Secretary may specify,
 
-  * (N) in the case of hospitals and critical access hospitals—
+  * (N) in the case of hospitals, critical access hospitals, and rural emergency hospitals—
 
-    * (i) to make available to its patients the directory or directories of participating physicians (published under section 1395u(h)(4) of this title) for the area served by the hospital or critical access hospital,
+    * (i) to make available to its patients the directory or directories of participating physicians (published under section 1395u(h)(4) of this title) for the area served by the hospital, critical access hospital, or rural emergency hospital,
 
     * (ii) if hospital personnel (including staff of any emergency or outpatient department) refer a patient to a nonparticipating physician for further medical care on an outpatient basis, the personnel must inform the patient that the physician is a nonparticipating physician and, whenever practicable, must identify at least one qualified participating physician who is listed in such a directory and from whom the patient may receive the necessary services,
 
     * (iii) to post conspicuously in any emergency department a sign (in a form specified by the Secretary) specifying rights of individuals under section 1395dd of this title with respect to examination and treatment for emergency medical conditions and women in labor, and
 
-    * (iv) to post conspicuously (in a form specified by the Secretary) information indicating whether or not the hospital participates in the medicaid program under a State plan approved under subchapter XIX,
+    * (iv) to post conspicuously (in a form specified by the Secretary) information indicating whether or not the hospital, critical access hospital, or rural emergency hospital participates in the medicaid program under a State plan approved under subchapter XIX,
 
 
   * (O) to accept as payment in full for services that are covered under this subchapter and are furnished to any individual enrolled with a Medicare+Choice organization under part C, with a PACE provider under section 1395eee or 1396u–4 of this title, or with an eligible organization with a risk-sharing contract under section 1395mm of this title, under section 1395mm(i)(2)(A) of this title (as in effect before February 1, 1985), under section 1395b–1(a) of this title, or under section 222(a) of the Social Security Amendments of 1972, which does not have a contract (or, in the case of a PACE provider, contract or other agreement) establishing payment amounts for services furnished to members of the organization or PACE program eligible individuals enrolled with the PACE provider, the amounts that would be made as a payment in full under this subchapter (less any payments under sections 1395ww(d)(11) and 1395ww(h)(3)(D) of this title) if the individuals were not so enrolled,
@@ -134,9 +134,9 @@
 
 * (D) Where a provider of services customarily furnishes items or services which are in excess of or more expensive than the items or services with respect to which payment may be made under this subchapter, such provider, notwithstanding the preceding provisions of this paragraph, may not, under the authority of subparagraph (B)(ii) of this paragraph, charge any individual or other person any amount for such items or services in excess of the amount of the payment which may otherwise be made for such items or services under this subchapter if the admitting physician has a direct or indirect financial interest in such provider.
 
-* (3)(A) Under the agreement required under paragraph (1)(F)(ii), the quality improvement organization must perform functions (other than those covered under an agreement under paragraph (1)(F)(i)) under the third sentence of section 1320c–3(a)(4)(A) of this title and under section 1320c–3(a)(14) of this title with respect to services, furnished by the hospital, critical access hospital, facility, or agency involved, for which payment may be made under this subchapter.
+* (3)(A) Under the agreement required under paragraph (1)(F)(ii), the quality improvement organization must perform functions (other than those covered under an agreement under paragraph (1)(F)(i)) under the third sentence of section 1320c–3(a)(4)(A) of this title and under section 1320c–3(a)(14) of this title with respect to services, furnished by the hospital, critical access hospital, rural emergency hospital, facility, or agency involved, for which payment may be made under this subchapter.
 
-* (B) For purposes of payment under this subchapter, the cost of such an agreement to the hospital, critical access hospital, facility, or agency shall be considered a cost incurred by such hospital, critical access hospital, facility, or agency in providing covered services under this subchapter and shall be paid directly by the Secretary to the quality improvement organization on behalf of such hospital, critical access hospital, facility, or agency in accordance with a schedule established by the Secretary.
+* (B) For purposes of payment under this subchapter, the cost of such an agreement to the hospital, critical access hospital, rural emergency hospital, facility, or agency shall be considered a cost incurred by such hospital, critical access hospital, rural emergency hospital, facility, or agency in providing covered services under this subchapter and shall be paid directly by the Secretary to the quality improvement organization on behalf of such hospital, critical access hospital, rural emergency hospital, facility, or agency in accordance with a schedule established by the Secretary.
 
 * (C) Such payments—
 
@@ -146,7 +146,7 @@
 
     * (I) in the case of hospitals, than the amount specified in paragraph (1)(F)(i)(III), and
 
-    * (II) in the case of facilities, critical access hospitals, and agencies, than the amounts the Secretary determines to be sufficient to cover the costs of such organizations' conducting the activities described in subparagraph (A) with respect to such facilities, critical access hospitals, or agencies under part B of subchapter XI.
+    * (II) in the case of facilities, critical access hospitals, rural emergency hospitals, and agencies, than the amounts the Secretary determines to be sufficient to cover the costs of such organizations' conducting the activities described in subparagraph (A) with respect to such facilities, critical access hospitals, rural emergency hospitals, or agencies under part B of subchapter XI.
 
 #### (b) Termination or nonrenewal of agreements
 * (1) A provider of services may terminate an agreement with the Secretary under this section at such time and upon such notice to the Secretary and the public as may be provided in regulations, except that notice of more than six months shall not be required.

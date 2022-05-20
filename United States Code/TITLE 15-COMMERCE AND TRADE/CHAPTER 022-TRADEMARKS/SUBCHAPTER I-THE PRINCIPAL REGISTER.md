@@ -200,8 +200,12 @@
 #### (a) Examination and publication
 * Upon the filing of an application for registration and payment of the prescribed fee, the Director shall refer the application to the examiner in charge of the registration of marks, who shall cause an examination to be made and, if on such examination it shall appear that the applicant is entitled to registration, or would be entitled to registration upon the acceptance of the statement of use required by section 1051(d) of this title, the Director shall cause the mark to be published in the Official Gazette of the Patent and Trademark Office: _Provided_, That in the case of an applicant claiming concurrent use, or in the case of an application to be placed in an interference as provided for in section 1066 of this title the mark, if otherwise registrable, may be published subject to the determination of the rights of the parties to such proceedings.
 
-#### (b) Refusal of registration; amendment of application; abandonment
-* If the applicant is found not entitled to registration, the examiner shall advise the applicant thereof and of the reasons therefor. The applicant shall have a period of six months in which to reply or amend his application, which shall then be reexamined. This procedure may be repeated until (1) the examiner finally refuses registration of the mark or (2) the applicant fails for a period of six months to reply or amend or appeal, whereupon the application shall be deemed to have been abandoned, unless it can be shown to the satisfaction of the Director that the delay in responding was unintentional, whereupon such time may be extended.
+#### (b) Refusal of registration; amendment of application; abandonment; extensions of time to respond
+* (1) If the applicant is found not entitled to registration, the examiner shall notify the applicant thereof and of the reasons therefor. The applicant may reply or amend the application, which shall then be reexamined. This procedure may be repeated until the examiner finally refuses registration of the mark or the application is abandoned as described in paragraph (2).
+
+* (2) After notification under paragraph (1), the applicant shall have a period of 6 months in which to reply or amend the application, or such shorter time that is not less than 60 days, as prescribed by the Director by regulation. If the applicant fails to reply or amend or appeal within the relevant time period, including any extension under paragraph (3), the application shall be deemed to have been abandoned, unless it can be shown to the satisfaction of the Director that the delay in responding was unintentional, in which case the application may be revived and such time may be extended. The Director may prescribe a fee to accompany any request to revive.
+
+* (3) The Director shall provide, by regulation, for extensions of time to respond to the examiner for any time period under paragraph (2) that is less than 6 months. The Director shall allow the applicant to obtain extensions of time to reply or amend aggregating 6 months from the date of notification under paragraph (1) when the applicant so requests. However, the Director may set by regulation the time for individual periods of extension, and prescribe a fee, by regulation, for any extension request. Any request for extension shall be filed on or before the date on which a reply or amendment is due under paragraph (1).
 
 #### (c) Republication of marks registered under prior acts
 * A registrant of a mark registered under the provisions of the Act of March 3, 1881, or the Act of February 20, 1905, may, at any time prior to the expiration of the registration thereof, upon the payment of the prescribed fee file with the Director an affidavit setting forth those goods stated in the registration on which said mark is in use in commerce and that the registrant claims the benefits of this chapter for said mark. The Director shall publish notice thereof with a reproduction of said mark in the Official Gazette, and notify the registrant of such publication and of the requirement for the affidavit of use or nonuse as provided for in subsection (b) of section 1058 of this title. Marks published under this subsection shall not be subject to the provisions of section 1063 of this title.
@@ -250,6 +254,160 @@
 ### §1066. Interference; declaration by Director
 * Upon petition showing extraordinary circumstances, the Director may declare that an interference exists when application is made for the registration of a mark which so resembles a mark previously registered by another, or for the registration of which another has previously made application, as to be likely when used on or in connection with the goods or services of the applicant to cause confusion or mistake or to deceive. No interference shall be declared between an application and the registration of a mark the right to the use of which has become incontestable.
 
+### §1066a. Ex parte expungement
+#### (a) Petition
+* Notwithstanding sections 1057(b) and 1072 of this title, and subsections (a) and (b) of section 1115 of this title, any person may file a petition to expunge a registration of a mark on the basis that the mark has never been used in commerce on or in connection with some or all of the goods or services recited in the registration.
+
+#### (b) Contents of petition
+* A petition filed under subsection (a), together with any supporting documents, shall—
+
+  * (1) identify the registration that is the subject of the petition;
+
+  * (2) identify each good or service recited in the registration for which it is alleged that the mark has never been used in commerce;
+
+  * (3) include a verified statement that sets forth—
+
+    * (A) the elements of the reasonable investigation the petitioner conducted to determine that the mark has never been used in commerce on or in connection with the goods and services identified in the petition; and
+
+    * (B) any additional facts that support the allegation that the mark has never been used in commerce on or in connection with the identified goods and services;
+
+
+  * (4) include any supporting evidence on which the petitioner relies; and
+
+  * (5) be accompanied by the fee prescribed by the Director.
+
+
+#### (c) Initial determination; institution
+* #### (1) Prima facie case determination, institution, and notification
+  * The Director shall, for each good or service identified under subsection (b)(2), determine whether the petition sets forth a prima facie case of the mark having never been used in commerce on or in connection with each such good or service, institute an ex parte expungement proceeding for each good or service for which the Director determines that a prima facie case has been set forth, and provide a notice to the registrant and petitioner of the determination of whether or not the proceeding was instituted. Such notice shall include a copy of the petition and any supporting documents and evidence that were included with the petition.
+
+* #### (2) Reasonable investigation guidance
+  * The Director shall promulgate regulations regarding what constitutes a reasonable investigation under subsection (b)(3) and the general types of evidence that could support a prima facie case that a mark has never been used in commerce, but the Director shall retain the discretion to determine whether a prima facie case is set out in a particular proceeding.
+
+* #### (3) Determination by Director
+  * Any determination by the Director whether or not to institute a proceeding under this section shall be final and non-reviewable, and shall not prejudice any party's right to raise any issue and rely on any evidence in any other proceeding, except as provided in subsection (j).
+
+#### (d) Ex parte expungement procedures
+* The procedures for ex parte expungement shall be the same as the procedures for examination under section 1062(b) of this title, except that the Director shall promulgate regulations establishing and governing a proceeding under this section, which may include regulations that—
+
+  * (1) set response and extension times particular to this type of proceeding, which, notwithstanding section 1062(b)(3) of this title, need not be extendable to 6 months;
+
+  * (2) set limits governing the timing and number of petitions filed for a particular registration or by a particular petitioner or real parties in interest; and
+
+  * (3) define the relation of a proceeding under this section to other proceedings concerning the mark.
+
+#### (e) Registrant's evidence of use
+* A registrant's documentary evidence of use shall be consistent with when a mark shall be deemed to be in use in commerce under the definition of "use in commerce" in section 1127 of this title, but shall not be limited in form to that of specimens as provided in section 1051(a) of this title.
+
+#### (f) Excusable nonuse
+* During an ex parte expungement proceeding, for a mark registered under section 1126(e) of this title or an extension of protection under section 1141f of this title, the registrant may offer evidence showing that any nonuse is due to special circumstances that excuse such nonuse. In such a case, the examiner shall determine whether the facts and evidence demonstrate excusable nonuse and shall not find that the registration should be cancelled under subsection (g) for any good or service for which excusable nonuse is demonstrated.
+
+#### (g) Examiner's decision; order to cancel
+* For each good or service for which it is determined that a mark has never been used in commerce, and for which the provisions of subsection (f) do not apply, the examiner shall find that the registration should be cancelled for each such good or service. A mark shall not be found to have never been used in commerce if there is evidence of use in commerce by the registrant that temporally would have supported registration at the time the application was filed or the relevant allegation of use was made, or after registration, but before the petition to expunge was filed under subsection (a), or an ex parte expungement proceeding was instituted by the Director under subsection (h). Unless overturned on review of the examiner's decision, the Director shall issue an order cancelling the registration, in whole or in part, after the time for appeal has expired or any appeal proceeding has terminated.
+
+#### (h) Ex parte expungement by the Director
+* #### (1) In general
+  * The Director may, on the Director's own initiative, institute an ex parte expungement proceeding if the Director discovers information that supports a prima facie case of a mark having never been used in commerce on or in connection with any good or service covered by a registration. The Director shall promptly notify the registrant of such determination, at which time the ex parte expungement proceeding shall proceed according to the same procedures for ex parte expungement established pursuant to subsection (d). If the Director determines, based on the Director's own initiative, to institute an expungement proceeding, the Director shall transmit or make available the information that formed the basis for that determination as part of the institution notice sent to the registrant.
+
+* #### (2) Rule of construction
+  * Nothing in this subsection shall be construed to limit any other authority of the Director.
+
+#### (i) Time for institution
+* #### (1) When petition may be filed, ex parte expungement proceeding instituted
+  * A petition for ex parte expungement of a registration under subsection (a) may be filed, or the Director may institute on the Director's own initiative an ex parte expungement proceeding of a registration under subsection (h), at any time following the expiration of 3 years after the date of registration and before the expiration of 10 years following the date of registration.
+
+* #### (2) Exception
+  * Notwithstanding paragraph (1), for a period of 3 years after December 27, 2020, a petition for expungement of a registration under subsection (a) may be filed, or the Director may institute on the Director's own initiative an ex parte expungement proceeding of a registration under subsection (h), at any time following the expiration of 3 years after the date of registration.
+
+#### (j) Limitation on later ex parte expungement proceedings
+* #### (1) No co-pending proceedings
+  * With respect to a particular registration, while an ex parte expungement proceeding is pending, no later ex parte expungement proceeding may be instituted with respect to the same goods or services that are the subject of a pending ex parte expungement proceeding.
+
+* #### (2) Estoppel
+  * With respect to a particular registration, for goods or services previously subject to an instituted expungement proceeding for which, in that proceeding, it was determined that the registrant had used the mark for particular goods or services, as relevant, and the registration was not cancelled as to those goods or services, no further ex parte expungement proceedings may be initiated as to those goods or services, regardless of the identity of the petitioner.
+
+#### (k) Use in commerce requirement not altered
+* Nothing in this section shall affect the requirement for use in commerce of a mark registered under section 1051(a) or 1091 of this title.
+
+### §1066b. Ex parte reexamination
+#### (a) Petition for reexamination
+* Any person may file a petition to reexamine a registration of a mark on the basis that the mark was not in use in commerce on or in connection with some or all of the goods or services recited in the registration on or before the relevant date.
+
+#### (b) Relevant date
+* In this section, the term "relevant date" means, with respect to an application for the registration of a mark with an initial filing basis of—
+
+  * (1) section 1051(a) of this title and not amended at any point to be filed pursuant to section 1051(b) of this title, the date on which the application was initially filed; or
+
+  * (2) section 1051(b) of this title or amended at any point to be filed pursuant to section 1051(b) of this title, the date on which—
+
+    * (A) an amendment to allege use under section 1051(c) of this title was filed; or
+
+    * (B) the period for filing a statement of use under section 1051(d) of this title expired, including all approved extensions thereof.
+
+#### (c) Requirements for the petition
+* A petition filed under subsection (a), together with any supporting documents, shall—
+
+  * (1) identify the registration that is the subject of the petition;
+
+  * (2) identify each good and service recited in the registration for which it is alleged that the mark was not in use in commerce on or in connection with on or before the relevant date;
+
+  * (3) include a verified statement that sets forth—
+
+    * (A) the elements of the reasonable investigation the petitioner conducted to determine that the mark was not in use in commerce on or in connection with the goods and services identified in the petition on or before the relevant date; and
+
+    * (B) any additional facts that support the allegation that the mark was not in use in commerce on or before the relevant date on or in connection with the identified goods and services;
+
+
+  * (4) include supporting evidence on which the petitioner relies; and
+
+  * (5) be accompanied by the fee prescribed by the Director.
+
+
+#### (d) Initial determination; institution
+* #### (1) Prima facie case determination, institution, and notification
+  * The Director shall, for each good or service identified under subsection (c)(2), determine whether the petition sets forth a prima facie case of the mark having not been in use in commerce on or in connection with each such good or service, institute an ex parte reexamination proceeding for each good or service for which the Director determines that the prima facie case has been set forth, and provide a notice to the registrant and petitioner of the determination of whether or not the proceeding was instituted. Such notice shall include a copy of the petition and any supporting documents and evidence that were included with the petition.
+
+* #### (2) Reasonable investigation guidance
+  * The Director shall promulgate regulations regarding what constitutes a reasonable investigation under subsection (c)(3) and the general types of evidence that could support a prima facie case that the mark was not in use in commerce on or in connection with a good or service on or before the relevant date, but the Director shall retain discretion to determine whether a prima facie case is set out in a particular proceeding.
+
+* #### (3) Determination by Director
+  * Any determination by the Director whether or not to institute a reexamination proceeding under this section shall be final and non-reviewable, and shall not prejudice any party's right to raise any issue and rely on any evidence in any other proceeding, except as provided in subsection (j).
+
+#### (e) Reexamination procedures
+* The procedures for reexamination shall be the same as the procedures established under section 1062(b) of this title except that the Director shall promulgate regulations establishing and governing a proceeding under this section, which may include regulations that—
+
+  * (1) set response and extension times particular to this type of proceeding, which, notwithstanding section 1062(b)(3) of this title, need not be extendable to 6 months;
+
+  * (2) set limits governing the timing and number of petitions filed for a particular registration or by a particular petitioner or real parties in interest; and
+
+  * (3) define the relation of a reexamination proceeding under this section to other proceedings concerning the mark.
+
+#### (f) Registrant's evidence of use
+* A registrant's documentary evidence of use shall be consistent with when a mark shall be deemed to be in use in commerce under the definition of "use in commerce" in section 1127 of this title, but shall not be limited in form to that of specimens as provided in section 1051(a) of this title.
+
+#### (g) Examiner's decision; order to cancel
+* For each good or service for which it is determined that the registration should not have issued because the mark was not in use in commerce on or before the relevant date, the examiner shall find that the registration should be cancelled for each such good or service. Unless overturned on review of the examiner's decision, the Director shall issue an order cancelling the registration, in whole or in part, after the time for appeal has expired or any appeal proceeding has terminated.
+
+#### (h) Reexamination by Director
+* #### (1) In general
+  * The Director may, on the Director's own initiative, institute an ex parte reexamination proceeding if the Director discovers information that supports a prima facie case of the mark having not been used in commerce on or in connection with some or all of the goods or services covered by the registration on or before the relevant date. The Director shall promptly notify the registrant of such determination, at which time reexamination shall proceed according to the same procedures established pursuant to subsection (e). If the Director determines, based on the Director's own initiative, to institute an ex parte reexamination proceeding, the Director shall transmit or make available the information that formed the basis for that determination as part of the institution notice.
+
+* #### (2) Rule of construction
+  * Nothing in this subsection shall be construed to limit any other authority of the Director.
+
+#### (i) Time for institution
+* A petition for ex parte reexamination may be filed, or the Director may institute on the Director's own initiative an ex parte reexamination proceeding, at any time not later than 5 years after the date of registration of a mark registered based on use in commerce.
+
+#### (j) Limitation on later ex parte reexamination proceedings
+* #### (1) No co-pending proceedings
+  * With respect to a particular registration, while an ex parte reexamination proceeding is pending, no later ex parte reexamination proceeding may be instituted with respect to the same goods or services that are the subject of a pending ex parte reexamination proceeding.
+
+* #### (2) Estoppel
+  * With respect to a particular registration, for any goods or services previously subject to an instituted ex parte reexamination proceeding for which, in that proceeding, it was determined that the registrant had used the mark for particular goods or services before the relevant date, and the registration was not cancelled as to those goods or services, no further ex parte reexamination proceedings may be initiated as to those goods or services, regardless of the identity of the petitioner.
+
+#### (k) Supplemental register
+* The provisions of subsection (b) apply, as appropriate, to registrations under section 1091 of this title. Nothing in this section shall be construed to limit the timing of a cancellation action under section 1092 of this title.
+
 ### §1067. Interference, opposition, and proceedings for concurrent use registration or for cancellation; notice; Trademark Trial and Appeal Board
 * (a) In every case of interference, opposition to registration, application to register as a lawful concurrent user, or application to cancel the registration of a mark, the Director shall give notice to all parties and shall direct a Trademark Trial and Appeal Board to determine and decide the respective rights of registration.
 
@@ -260,13 +418,13 @@
 * (d) DEFENSE TO CHALLENGE OF APPOINTMENT.—It shall be a defense to a challenge to the appointment of an administrative trademark judge on the basis of the judge's having been originally appointed by the Director that the administrative trademark judge so appointed was acting as a de facto officer.
 
 ### §1068. Action of Director in interference, opposition, and proceedings for concurrent use registration or for cancellation
-* In such proceedings the Director may refuse to register the opposed mark, may cancel the registration, in whole or in part, may modify the application or registration by limiting the goods or services specified therein, may otherwise restrict or rectify with respect to the register the registration of a registered mark, may refuse to register any or all of several interfering marks, or may register the mark or marks for the person or persons entitled thereto, as the rights of the parties under this chapter may be established in the proceedings: _Provided_, That in the case of the registration of any mark based on concurrent use, the Director shall determine and fix the conditions and limitations provided for in subsection (d) of section 1052 of this title. However, no final judgment shall be entered in favor of an applicant under section 1051(b) of this title before the mark is registered, if such applicant cannot prevail without establishing constructive use pursuant to section 1057(c) of this title.
+* In such proceedings the Director may refuse to register the opposed mark, may cancel the registration, in whole or in part, may modify the application or registration by limiting the goods or services specified therein, may otherwise restrict or rectify with respect to the register the registration of a registered mark, may refuse to register any or all of several interfering marks, or may register the mark or marks for the person or persons entitled thereto, as the rights of the parties under this chapter may be established in the proceedings. The authority of the Director under this section includes the authority to reconsider, and modify or set aside, a decision of the Trademark Trial and Appeal Board: _Provided_, That in the case of the registration of any mark based on concurrent use, the Director shall determine and fix the conditions and limitations provided for in subsection (d) of section 1052 of this title. However, no final judgment shall be entered in favor of an applicant under section 1051(b) of this title before the mark is registered, if such applicant cannot prevail without establishing constructive use pursuant to section 1057(c) of this title.
 
 ### §1069. Application of equitable principles in inter partes proceedings
 * In all inter partes proceedings equitable principles of laches, estoppel, and acquiescence, where applicable may be considered and applied.
 
 ### §1070. Appeals to Trademark Trial and Appeal Board from decisions of examiners
-* An appeal may be taken to the Trademark Trial and Appeal Board from any final decision of the examiner in charge of the registration of marks upon the payment of the prescribed fee.
+* An appeal may be taken to the Trademark Trial and Appeal Board from any final decision of the examiner in charge of the registration of marks upon the payment of the prescribed fee. The Director may reconsider, and modify or set aside, a decision of the Trademark Trial and Appeal Board under this section.
 
 ### §1071. Appeal to courts
 #### (a) Persons entitled to appeal; United States Court of Appeals for the Federal Circuit; waiver of civil action; election of civil action by adverse party; procedure

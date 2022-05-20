@@ -86,7 +86,11 @@
 
     * (C) include new, value-adding technological advancements; and
 
-    * (D) improve weather forecasting and predictions.
+    * (D) improve—
+
+      * (i) weather and climate forecasting and predictions; and
+
+      * (ii) the understanding, management, and exploration of the ocean.
 
 * #### (2) Quantitative assessments and partnership authority
   * In meeting the requirements described in paragraph (1), the Under Secretary—
@@ -97,7 +101,11 @@
 
 #### (d) Additional forms of transaction authorized
 * #### (1) In general
-  * Subject to paragraph (2), in order to enhance the effectiveness of data and satellite systems used by the National Oceanic and Atmospheric Administration to meet its missions, the Under Secretary may enter into and perform such transaction agreements on such terms as the Under Secretary considers appropriate to carry out basic, applied, and advanced research projects to meet the objectives described in subparagraphs (A) through (D) subsection (c)(1).
+  * Subject to paragraph (2), in order to enhance the effectiveness of data, satellite, and other observing systems used by the National Oceanic and Atmospheric Administration to meet its missions, the Under Secretary may enter into and perform such transaction agreements on such terms as the Under Secretary considers appropriate to carry out—
+
+    * (A) basic, applied, and advanced research projects and ocean exploration missions to meet the objectives described in subparagraphs (A) through (D) of subsection (c)(1); or
+
+    * (B) any other type of project to meet other mission objectives, as determined by the Under Secretary.
 
 * #### (2) Method and scope
   * #### (A) In general
@@ -106,14 +114,14 @@
   * #### (B) Permissible uses
     * A transaction agreement under paragraph (1) may be used—
 
-      * (i) for the construction, use, operation, or procurement of new, improved, innovative, or value-adding satellites, instrumentation, ground stations, and data;
+      * (i) for the construction, use, operation, or procurement of new, improved, innovative, or value-adding systems, including satellites, instrumentation, ground stations, data, and data processing;
 
       * (ii) to make determinations on how to best use existing or planned data, systems, and assets of the National Oceanic and Atmospheric Administration; and
 
       * (iii) only when the objectives of the National Oceanic and Atmospheric Administration cannot be met using a cooperative research and development agreement, grants procurement contract, or cooperative agreement.
 
 * #### (3) Termination of effectiveness
-  * The authority provided in this subsection terminates effective September 30, 2023.
+  * The authority provided in this subsection terminates effective September 30, 2030.
 
 #### (e) Transparency
 * Not later than 60 days after the date that a transaction agreement is made under subsection (d), the Under Secretary shall make publicly available, in a searchable format, on the website of the National Oceanic and Atmospheric Administration all uses of the authority under subsection (d), including an estimate of committed National Oceanic and Atmospheric Administration resources and the expected benefits to National Oceanic and Atmospheric Administration objectives for the transaction agreement, with appropriate redactions for proprietary, sensitive, or classified information.

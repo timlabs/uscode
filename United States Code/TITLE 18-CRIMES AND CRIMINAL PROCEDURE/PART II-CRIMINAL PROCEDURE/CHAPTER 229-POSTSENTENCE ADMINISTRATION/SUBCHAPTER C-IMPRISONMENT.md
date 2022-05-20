@@ -87,11 +87,26 @@
   * (3) AUTHORIZATION OF APPROPRIATIONS.—There are authorized to be appropriated to the Bureau of Prisons for each fiscal year such sums as may be necessary to carry out this subsection.
 
 
-* (g) CONTINUED ACCESS TO MEDICAL CARE.—
+* (g) PARTNERSHIPS TO EXPAND ACCESS TO REENTRY PROGRAMS PROVEN TO REDUCE RECIDIVISM.—
 
-  * (1) IN GENERAL.—In order to ensure a minimum standard of health and habitability, the Bureau of Prisons should ensure that each prisoner in a community confinement facility has access to necessary medical care, mental health care, and medicine through partnerships with local health service providers and transition planning.
+  * (1) DEFINITION.—The term "demonstrated to reduce recidivism" means that the Director of Bureau of Prisons has determined that appropriate research has been conducted and has validated the effectiveness of the type of program on recidivism.
 
-  * (2) DEFINITION.—In this subsection, the term "community confinement" has the meaning given that term in the application notes under section 5F1.1 of the Federal Sentencing Guidelines Manual, as in effect on the date of the enactment of the Second Chance Act of 2007.
+  * (2) ELIGIBILITY FOR RECIDIVISM REDUCTION PARTNERSHIP.—A faith-based or community-based nonprofit organization that provides mentoring or other programs that have been demonstrated to reduce recidivism is eligible to enter into a recidivism reduction partnership with a prison or community-based facility operated by the Bureau of Prisons.
+
+  * (3) RECIDIVISM REDUCTION PARTNERSHIPS.—The Director of the Bureau of Prisons shall develop policies to require wardens of prisons and community-based facilities to enter into recidivism reduction partnerships with faith-based and community-based nonprofit organizations that are willing to provide, on a volunteer basis, programs described in paragraph (2).
+
+  * (4) REPORTING REQUIREMENT.—The Director of the Bureau of Prisons shall submit to Congress an annual report on the last day of each fiscal year that—
+
+    * (A) details, for each prison and community-based facility for the fiscal year just ended—
+
+      * (i) the number of recidivism reduction partnerships under this section that were in effect;
+
+      * (ii) the number of volunteers that provided recidivism reduction programming; and
+
+      * (iii) the number of recidivism reduction programming hours provided; and
+
+
+    * (B) explains any disparities between facilities in the numbers reported under subparagraph (A).
 
 
 * (h) IMPLEMENTATION OF RISK AND NEEDS ASSESSMENT SYSTEM.—
@@ -139,6 +154,13 @@
   * (6) REQUIREMENT TO PROVIDE PROGRAMS TO ALL PRISONERS; PRIORITY.—The Director of the Bureau of Prisons shall provide all prisoners with the opportunity to actively participate in evidence-based recidivism reduction programs or productive activities, according to their specific criminogenic needs, throughout their entire term of incarceration. Priority for participation in recidivism reduction programs shall be given to medium-risk and high-risk prisoners, with access to productive activities given to minimum-risk and low-risk prisoners.
 
   * (7) DEFINITIONS.—The terms in this subsection have the meaning given those terms in section 3635.
+
+
+* (i) CONTINUED ACCESS TO MEDICAL CARE.—
+
+  * (1) IN GENERAL.—In order to ensure a minimum standard of health and habitability, the Bureau of Prisons should ensure that each prisoner in a community confinement facility has access to necessary medical care, mental health care, and medicine through partnerships with local health service providers and transition planning.
+
+  * (2) DEFINITION.—In this subsection, the term "community confinement" has the meaning given that term in the application notes under section 5F1.1 of the Federal Sentencing Guidelines Manual, as in effect on the date of the enactment of the Second Chance Act of 2007.
 
 ### §3622. Temporary release of a prisoner
 * The Bureau of Prisons may release a prisoner from the place of his imprisonment for a limited period if such release appears to be consistent with the purpose for which the sentence was imposed and any pertinent policy statement issued by the Sentencing Commission pursuant to 28 U.S.C. 994(a)(2), if such release otherwise appears to be consistent with the public interest and if there is reasonable cause to believe that a prisoner will honor the trust to be imposed in him, by authorizing him, under prescribed conditions, to—

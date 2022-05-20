@@ -186,19 +186,6 @@
 ### §2829. Multi-year contracts for supplies and services
 * The Secretary concerned may make contracts for periods of up to four years for supplies and services for the management, maintenance, and operation of military family housing and may pay the costs of such contracts for each year out of annual appropriations for that year.
 
-### §2830. Occupancy of substandard family housing units
-* (a)(1) A member of the uniformed services with dependents may, without loss of the member's basic allowance for housing under section 403 of title 37, occupy a substandard family housing unit under the jurisdiction of the Secretary concerned.
-
-* (2) Occupancy of a family housing unit under paragraph (1) shall be subject to a charge against the member's basic allowance for housing in the amount of the fair rental value of the housing unit. However, such a charge may not be made in an amount in excess of 75 percent of the amount of such allowance.
-
-* (b)(1) The Secretary concerned may lease substandard family housing units to members of any of the uniformed services for occupancy by such members.
-
-* (2) The authority to enter into leases under paragraph (1) shall be exercised—
-
-  * (A) in the case of a lease by the Secretary of a military department, subject to regulations prescribed by the Secretary of Defense; and
-
-  * (B) in the case of a lease by the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, subject to regulations prescribed by that Secretary.
-
 ### §2831. Military family housing management account
 * (a) ESTABLISHMENT.—There is on the books of the Treasury an account known as the Department of Defense Military Family Housing Management Account (hereinafter in this section referred to as the "account"). The account shall be used for the management and administration of funds appropriated or otherwise made available to the Department of Defense for military family housing programs.
 

@@ -112,7 +112,7 @@
 ### §2113. Overall negotiating objective
 * The overall United States negotiating objective under sections 2111 and 2112 of this title shall be to obtain more open and equitable market access and the harmonization, reduction, or elimination of devices which distort trade or commerce. To the maximum extent feasible, the harmonization, reduction, or elimination of agricultural trade barriers and distortions shall be undertaken in conjunction with the harmonization, reduction, or elimination of industrial trade barriers and distortions.
 
-### §2114. Sector negotiating objectives
+### §2114. Sector negotiating objective
 #### (a) Obtaining equivalent competitive opportunities
 * A principal United States negotiating objective under sections 2111 and 2112 of this title shall be to obtain, to the maximum extent feasible, with respect to appropriate product sectors of manufacturing, and with respect to the agricultural sector, competitive opportunities for United States exports to the developed countries of the world equivalent to the competitive opportunities afforded in United States markets to the importation of like or similar products, taking into account all barriers (including tariffs) to and other distortions of international trade affecting that sector.
 

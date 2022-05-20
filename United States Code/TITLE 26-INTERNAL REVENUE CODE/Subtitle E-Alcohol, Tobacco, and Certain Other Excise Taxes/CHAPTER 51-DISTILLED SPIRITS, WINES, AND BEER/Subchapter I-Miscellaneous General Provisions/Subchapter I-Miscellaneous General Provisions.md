@@ -36,7 +36,7 @@
 
 ### §5555. Records, statements, and returns
 #### (a) General
-* Every person liable to any tax imposed by this chapter, or for the collection thereof, shall keep such records, render such statements, make such returns, and comply with such rules and regulations as the Secretary may prescribe. For calendar quarters beginning after the date of the enactment of this sentence, and before January 1, 2021, the Secretary shall permit a person to employ a unified system for any records, statements, and returns required to be kept, rendered, or made under this section for any beer produced in the brewery for which the tax imposed by section 5051 has been determined, including any beer which has been removed for consumption on the premises of the brewery.
+* Every person liable to any tax imposed by this chapter, or for the collection thereof, shall keep such records, render such statements, make such returns, and comply with such rules and regulations as the Secretary may prescribe. The Secretary shall permit a person to employ a unified system for any records, statements, and returns required to be kept, rendered, or made under this section for any beer produced in the brewery for which the tax imposed by section 5051 has been determined, including any beer which has been removed for consumption on the premises of the brewery.
 
 #### (b) Authority to waive
 * Whenever in this chapter any record is required to be made or kept, or statement or return is required to be made by any person, the Secretary may by regulation waive, in whole or in part, such requirement when he deems such requirement to no longer serve a necessary purpose. This subsection shall not be construed as authorizing the waiver of the payment of any tax.

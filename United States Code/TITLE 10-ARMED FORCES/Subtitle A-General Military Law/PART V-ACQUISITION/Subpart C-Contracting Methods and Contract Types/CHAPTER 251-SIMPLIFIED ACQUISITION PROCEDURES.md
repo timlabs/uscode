@@ -1,4 +1,0 @@
-### **CHAPTER 251—SIMPLIFIED ACQUISITION PROCEDURES**
-
-### §3551. [Reserved]
-* [Reserved]

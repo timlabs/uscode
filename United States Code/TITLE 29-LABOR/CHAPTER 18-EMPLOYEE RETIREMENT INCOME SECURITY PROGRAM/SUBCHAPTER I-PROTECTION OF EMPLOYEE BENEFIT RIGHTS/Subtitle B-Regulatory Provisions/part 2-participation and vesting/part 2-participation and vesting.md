@@ -1624,7 +1624,7 @@
       * (iii) paragraph (3)(B);
 
 
-    * (B) that, as of June 25, 2010, was maintained by more than one employer and all of the employers were organizations described in section 501(c)(3) of title 26; or
+    * (B) that, as of June 25, 2010, was maintained by more than one employer and all of the employers were organizations described in section 501(c)(3) of title 26;
 
     * (C) that, as of June 25, 2010, was maintained by an employer—
 
@@ -1634,7 +1634,18 @@
 
       * (iii) with employees in at least 40 States, and
 
-      * (iv) whose primary exempt purpose is to provide services with respect to children.
+      * (iv) whose primary exempt purpose is to provide services with respect to children; or
+
+
+    * (D) that, as of January 1, 2000, was maintained by an employer—
+
+      * (i) described in section 501(c)(3) of title 26,
+
+      * (ii) who has been in existence since at least 1938,
+
+      * (iii) who conducts medical research directly or indirectly through grant making, and
+
+      * (iv) whose primary exempt purpose is to provide services with respect to mothers and children.
 
 * #### (2) Aggregation
   * All employers that are treated as a single employer under subsection (b) or (c) of section 414 of title 26 shall be treated as a single employer for purposes of determining if a plan was maintained by more than one employer under subparagraph (B) and (C) of paragraph (1).

@@ -5,23 +5,19 @@
 
 * (2)(A) A veteran is described in this paragraph if the veteran—
 
-  * (i) is entitled to compensation under chapter 11 of this title for a permanent and total service-connected disability that meets any of the criteria described in subparagraph (B); or
+  * (i) is entitled to compensation under chapter 11 of this title for a service-connected disability that meets any of the criteria described in subparagraph (B); or
 
   * (ii) served in the Armed Forces on or after September 11, 2001, and is entitled to compensation under chapter 11 of this title for a permanent service-connected disability that meets the criterion described in subparagraph (C).
 
 
 * (B) The criteria described in this subparagraph are as follows:
 
-  * (i) The disability is due to the loss, or loss of use, of both lower extremities such as to preclude locomotion without the aid of braces, crutches, canes, or a wheelchair.
+  * (i) The permanent and total disability is due to the loss, or loss of use, of both lower extremities such as to preclude locomotion without the aid of braces, crutches, canes, or a wheelchair.
 
-  * (ii) The disability is due to—
-
-    * (I) blindness in both eyes, having only light perception, plus
-
-    * (II) loss or loss of use of one lower extremity.
+  * (ii) The permanent disability is due to blindness in both eyes, having central visual acuity of 20/200 or less in the better eye with the use of a standard correcting lens. For the purposes of this clause, an eye with a limitation in the fields of vision such that the widest diameter of the visual field subtends an angle no greater than 20 degrees shall be considered as having a central visual acuity of 20/200 or less.
 
 
-  * (iii) The disability is due to the loss or loss of use of one lower extremity together with—
+  * (iii) The permanent and total disability is due to the loss or loss of use of one lower extremity together with—
 
     * (I) residuals of organic disease or injury; or
 
@@ -30,9 +26,9 @@
 
 * which so affect the functions of balance or propulsion as to preclude locomotion without the aid of braces, crutches, canes, or a wheelchair.
 
-  * (iv) The disability is due to the loss, or loss of use, of both upper extremities such as to preclude use of the arms at or above the elbows.
+  * (iv) The permanent and total disability is due to the loss, or loss of use, of both upper extremities such as to preclude use of the arms at or above the elbows.
 
-  * (v) The disability is due to a severe burn injury (as determined pursuant to regulations prescribed by the Secretary).
+  * (v) The permanent and total disability is due to a severe burn injury (as determined pursuant to regulations prescribed by the Secretary).
 
 
 * (C) The criterion described in this subparagraph is that the disability—
@@ -51,7 +47,7 @@
   * (C) the nature and condition of the proposed housing unit are such as to be suitable to the veteran's needs for dwelling purposes.
 
 
-* (4) In any fiscal year, the Secretary may not approve more than 30 applications for assistance under paragraph (1) for disabled veterans described in paragraph (2)(A)(ii).
+* (4) In any fiscal year, the Secretary may not approve more than 120 applications for assistance under paragraph (1) for disabled veterans described in paragraph (2)(A)(ii).
 
 * (b) ADAPTATIONS TO RESIDENCE OF VETERAN.—(1) Subject to paragraph (3), the Secretary shall assist any disabled veteran described in paragraph (2) (other than a veteran who is eligible for assistance under subsection (a))—
 
@@ -62,11 +58,9 @@
 
 * (2) A veteran is described in this paragraph if the veteran is entitled to compensation under chapter 11 of this title for a service-connected disability that meets any of the following criteria:
 
-  * (A) The disability is due to blindness in both eyes, having central visual acuity of 20/200 or less in the better eye with the use of a standard correcting lens. For the purposes of this subparagraph, an eye with a limitation in the fields of vision such that the widest diameter of the visual field subtends an angle no greater than 20 degrees shall be considered as having a central visual acuity of 20/200 or less.
+  * (A) A permanent and total disability that includes the anatomical loss or loss of use of both hands.
 
-  * (B) A permanent and total disability that includes the anatomical loss or loss of use of both hands.
-
-  * (C) A permanent and total disability that is due to a severe burn injury (as so determined).
+  * (B) A permanent and total disability that is due to a severe burn injury (as so determined).
 
 
 * (3) Assistance under paragraph (1) may be provided only to a veteran who the Secretary determines—
@@ -79,7 +73,7 @@
 * (c) REGULATIONS.—Assistance under this section shall be provided in accordance with such regulations as the Secretary may prescribe.
 
 ### §2101A. Eligibility for benefits and assistance: members of the Armed Forces with service-connected disabilities; individuals residing outside the United States
-* (a) MEMBERS WITH SERVICE-CONNECTED DISABILITIES.—(1) The Secretary may provide assistance under this chapter to a member of the Armed Forces serving on active duty who is suffering from a disability that meets applicable criteria for benefits under this chapter if the disability is incurred or aggravated in line of duty in the active military, naval, or air service. Such assistance shall be provided to the same extent as assistance is provided under this chapter to veterans eligible for assistance under this chapter and subject to the same requirements as veterans under this chapter.
+* (a) MEMBERS WITH SERVICE-CONNECTED DISABILITIES.—(1) The Secretary may provide assistance under this chapter to a member of the Armed Forces serving on active duty who is suffering from a disability that meets applicable criteria for benefits under this chapter if the disability is incurred or aggravated in line of duty in the active military, naval, air, or space service. Such assistance shall be provided to the same extent as assistance is provided under this chapter to veterans eligible for assistance under this chapter and subject to the same requirements as veterans under this chapter.
 
 * (2) For purposes of this chapter, any reference to a veteran or eligible individual shall be treated as a reference to a member of the Armed Forces described in subsection (a) who is similarly situated to the veteran or other eligible individual so referred to.
 
@@ -112,16 +106,16 @@
 
   * (1) the actual cost, or, in the case of an individual acquiring a residence already adapted with special features, the fair market value, of the adaptations determined by the Secretary under such section 2101(b) to be reasonably necessary, or
 
-  * (2) $12,000.
+  * (2) $19,733.
 
 
 * (c) The amount of assistance afforded under subsection (a) for an individual authorized assistance by section 2101(a) of this title shall not be reduced by reason that title to the housing unit, which is vested in the individual, is also vested in any other person, if the individual resides in the housing unit.
 
-* (d)(1) The aggregate amount of assistance available to an individual under section 2101(a) of this title shall be limited to $63,780.
+* (d)(1) The aggregate amount of assistance available to an individual under section 2101(a) of this title shall be limited to $98,492.
 
-* (2) The aggregate amount of assistance available to an individual under section 2101(b) of this title shall be limited to $12,756.
+* (2) The aggregate amount of assistance available to an individual under section 2101(b) of this title shall be limited to $19,733.
 
-* (3) No veteran may receive more than three grants of assistance under this chapter.
+* (3) Subject to subsection (f), no veteran may receive more than six grants of assistance under this chapter.
 
 * (e)(1) Effective on October 1 of each year (beginning in 2009), the Secretary shall increase the amounts described in subsection (b)(2) and paragraphs (1) and (2) of subsection (d) in accordance with this subsection.
 
@@ -133,6 +127,79 @@
 
 
 * (3) The Secretary shall establish a residential home cost-of-construction index for the purposes of this subsection. The index shall reflect a uniform, national average change in the cost of residential home construction, determined on a calendar year basis. The Secretary may use an index developed in the private sector that the Secretary determines is appropriate for purposes of this subsection.
+
+* (f)(1) Beginning October 1, 2030, notwithstanding the aggregate amounts specified in subsection (d), a covered veteran may apply for and receive an additional amount of assistance under subsection (a) or (b) of section 2101 of this title in an amount that does not exceed half of the amount specified in subsection (d).
+
+* (2) In this subsection, a covered veteran is a veteran who—
+
+  * (A) is described in subsection (a)(2) or (b)(2) of section 2101 of this title;
+
+  * (B) as of the date of the veteran's application for assistance under paragraph (1), most recently received assistance under this chapter more than 10 years before such date; and
+
+  * (C) lives in a home that the Secretary determines does not have adaptations that are reasonably necessary because of the veteran's disability.
+
+
+* (g)(1) Whenever the Secretary finds that an overpayment has been made to, or on behalf of, a person described in paragraph (2), the Secretary shall determine—
+
+  * (A) the amounts to recover, if any; and
+
+  * (B) who is liable to the United States for such overpayment.
+
+
+* (2) A person described in this paragraph is any of the following:
+
+  * (A) An individual who applied for assistance—
+
+    * (i) under this chapter; or
+
+    * (ii) under chapter 31 of this title who is pursuing a rehabilitation program under such chapter in acquiring adaptations to a residence.
+
+
+  * (B) An owner or seller of real estate used, or intended to be used, in connection with assistance under this chapter.
+
+  * (C) A builder, contractor, supplier, tradesperson, corporation, trust, partnership, or other person, who provided services or goods relating to assistance under this chapter.
+
+  * (D) An attorney, escrow agent, or financial institution, that receives, or holds in escrow, funds relating to assistance under this chapter.
+
+  * (E) A surviving spouse, heir, assignee, or successor in interest of or to, any person described in this paragraph.
+
+
+* (3)(A) Any overpayment referred to in this subsection may be recovered in the same manner as any other debt due the United States.
+
+* (B) In recovering the overpayment, the Secretary may charge administrative costs, fees, and interest, as appropriate, in a manner similar to the authority under section 5315 of this title.
+
+* (4)(A) The recovery of any overpayment referred to in this subsection may be waived by the Secretary.
+
+* (B) Waiver of any such overpayment as to a person described in paragraph (2) shall in no way release any other person described in such paragraph from liability.
+
+* (5) The Secretary shall waive recovery under this subsection of any overpayment to a person described in paragraph (2)(A), or a dependent or survivor of such person, that arises from administrative error described in paragraph (7)(A).
+
+* (6) Nothing in this subsection shall be construed as precluding the imposition of any civil or criminal liability under this title or any other law.
+
+* (7) The Secretary shall prescribe in regulations what constitutes an overpayment for the purposes of this subsection, which, at a minimum, shall include—
+
+  * (A) administrative error that results in an individual receiving assistance to which that individual is not entitled;
+
+  * (B) the failure of any person described in paragraph (2) to—
+
+    * (i) perform or allow to be performed any act relating to assistance under this chapter; or
+
+    * (ii) compensate any party performing services or supplying goods relating to assistance under this chapter; and
+
+
+  * (C) any disbursement of funds relating to assistance under this chapter, that, in the sole discretion of the Secretary, constitutes a misuse of such assistance.
+
+
+* (8) Prior to collecting an overpayment under this subsection, the Secretary shall provide to the person whom the Secretary has determined liable for such overpayment—
+
+  * (A) notice of the finding by the Secretary of such overpayment;
+
+  * (B) a reasonable opportunity for such person to remedy the circumstances that effectuated the overpayment; and
+
+  * (C) a reasonable opportunity for such person to present evidence to the Secretary that an overpayment was not made.
+
+
+* (9) For the purposes of section 511 of this title, a decision to collect an overpayment from a person other than a person described in paragraph (2)(A), or a dependent or survivor of such person, may not be treated as a decision that affects the provision of benefits.
 
 ### §2102A. Assistance for individuals residing temporarily in housing owned by a family member
 * (a) PROVISION OF ASSISTANCE.—In the case of a disabled individual who is described in subsection (a)(2) or (b)(2) of section 2101 of this title and who is residing, but does not intend to permanently reside, in a residence owned by a member of such individual's family, the Secretary may assist the individual in acquiring such adaptations to such residence as are determined by the Secretary to be reasonably necessary because of the individual's disability.
@@ -242,7 +309,7 @@
 
 * (f) FUNDING.—From amounts appropriated to the Department for readjustment benefits for each fiscal year for which the Secretary is authorized to make a grant under this section, $1,000,000 shall be available for that fiscal year for the purposes of the program under this section.
 
-* (g) DURATION.—The authority to make a grant under this section shall begin on October 1, 2011, and shall terminate on September 30, 2020.
+* (g) DURATION.—The authority to make a grant under this section shall begin on October 1, 2011, and shall terminate on September 30, 2022.
 
 ### §2109. Specially adapted housing destroyed or damaged by natural disasters
 * (a) IN GENERAL.—Notwithstanding the provisions of sections 2102 and 2102A of this title, the Secretary may provide assistance to a veteran whose home was previously adapted with assistance of a grant under this chapter in the event the adapted home which was being used and occupied by the veteran was destroyed or substantially damaged in a natural or other disaster, as determined by the Secretary.

@@ -24,15 +24,17 @@
 
 * #### (6) Covered project
   * #### (A) In general
-    * The term "covered project" means any activity in the United States that requires authorization or environmental review by a Federal agency involving construction of infrastructure for renewable or conventional energy production, electricity transmission, surface transportation, aviation, ports and waterways, water resource projects, broadband, pipelines, manufacturing, or any other sector as determined by a majority vote of the Council that—
+    * The term "covered project" means any activity in the United States that requires authorization or environmental review by a Federal agency involving construction of infrastructure for renewable or conventional energy production, electricity transmission, surface transportation, aviation, ports and waterways, water resource projects, broadband, pipelines, manufacturing, carbon capture, or any other sector as determined by a majority vote of the Council that—
 
       * (i)(I) is subject to NEPA;
 
       * (II) is likely to require a total investment of more than $200,000,000; and
 
-      * (III) does not qualify for abbreviated authorization or environmental review processes under any applicable law; or
+      * (III) does not qualify for abbreviated authorization or environmental review processes under any applicable law;
 
-      * (ii) is subject to NEPA and the size and complexity of which, in the opinion of the Council, make the project likely to benefit from enhanced oversight and coordination, including a project likely to require—
+      * (ii) is covered by a programmatic plan or environmental review developed for the primary purpose of facilitating development of carbon dioxide pipelines; or
+
+      * (iii) is subject to NEPA and the size and complexity of which, in the opinion of the Council, make the project likely to benefit from enhanced oversight and coordination, including a project likely to require—
 
         * (I) authorization from or environmental review involving more than 2 Federal agencies; or
 
@@ -44,6 +46,13 @@
       * (i) any project subject to section 139 of title 23; or
 
       * (ii) any project subject to section 2348 of title 33.
+
+  * #### (C) Inclusion
+    * For purposes of subparagraph (A), construction of infrastructure for carbon capture includes construction of—
+
+      * (i) any facility, technology, or system that captures, utilizes, or sequesters carbon dioxide emissions, including projects for direct air capture (as defined in paragraph (6)(B)(i) of section 7403(g) of this title); and
+
+      * (ii) carbon dioxide pipelines.
 
 * #### (7) Dashboard
   * The term "Dashboard" means the Permitting Dashboard required under section 4370m–2(b) of this title.

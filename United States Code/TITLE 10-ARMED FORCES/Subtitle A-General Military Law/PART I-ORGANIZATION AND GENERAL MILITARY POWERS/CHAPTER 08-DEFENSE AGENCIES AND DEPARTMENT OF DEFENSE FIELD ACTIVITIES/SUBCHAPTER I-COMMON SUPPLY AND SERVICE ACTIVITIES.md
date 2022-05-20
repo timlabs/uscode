@@ -19,14 +19,7 @@
 
 * (b) PROGRAM AND BUDGET REVIEW.—The Secretary of Defense shall establish procedures to ensure that there is full and effective review of the program recommendations and budget proposals of each Defense Agency and Department of Defense Field Activity.
 
-* (c) PERIODIC REVIEW.—(1) Periodically (and not less often than every two years), the Secretary of Defense shall review the services and supplies provided by each Defense Agency and Department of Defense Field Activity to ensure that—
-
-  * (A) there is a continuing need for each such agency and activity; and
-
-  * (B) the provision of those services and supplies by each such agency and activity, rather than by the military departments, is a more effective, economical, or efficient manner of providing those services and supplies or of meeting the requirements for combat readiness of the armed forces.
-
-
-* (1)(A) Not later than January 1, 2020, and periodically (but not less frequently than every four years) thereafter, the Chief Management Officer of the Department of Defense shall conduct a review of the efficiency and effectiveness of each Defense Agency and Department of Defense Field Activity. Each review shall, to the maximum extent practicable, be conducted in coordination with other ongoing efforts in connection with business enterprise reform.
+* (c) PERIODIC REVIEW.—(1)(A) Not later than January 1, 2020, and periodically (but not less frequently than every four years) thereafter, the Chief Management Officer of the Department of Defense shall conduct a review of the efficiency and effectiveness of each Defense Agency and Department of Defense Field Activity. Each review shall, to the maximum extent practicable, be conducted in coordination with other ongoing efforts in connection with business enterprise reform.
 
 * (B) As part of each review under this paragraph, the Chief Management Officer shall identify each activity of an Agency or Activity that is substantially similar to, or duplicative of, an activity carried out by another organization or element of the Department of Defense, or is not being performed to an adequate level to meet Department needs.
 
@@ -139,7 +132,7 @@
 
   * (B) To review proposed significant changes to the test and evaluation facilities and resources of the Major Range and Test Facility Base, including with respect to the expansion, divestment, consolidation, or curtailment of activities, before they are implemented by the Secretaries of the military departments or the heads of the Defense Agencies with test and evaluation responsibilities and advise the Secretary of Defense and the Under Secretary of Defense for Research and Engineering of the impact of such changes on the adequacy of such test and evaluation facilities and resources to meet the test and evaluation requirements of the Department.
 
-  * (C) To complete and maintain the strategic plan required by subsection (d).
+  * (C) To complete and maintain the quadrennial strategic plan required by subsection (d).
 
   * (D) To review proposed budgets under subsection (e) and submit reports and certifications required by such subsection.
 
@@ -148,15 +141,15 @@
 
 * (2) The Director shall have access to such records and data of the Department of Defense (including the appropriate records and data of each military department and Defense Agency) that are necessary in order to carry out the duties of the Director under this section.
 
-* (d) STRATEGIC PLAN FOR DEPARTMENT OF DEFENSE TEST AND EVALUATION RESOURCES.—(1) Not less often than once every two fiscal years, the Under Secretary of Defense for Research and Engineering, in coordination with the Director of the Department of Defense Test Resources Management Center, the Director of Operational Test and Evaluation, the Director of the Defense Intelligence Agency, the Secretaries of the military departments, and the heads of Defense Agencies with test and evaluation responsibilities, shall complete a strategic plan reflecting the future needs of the Department of Defense with respect to test and evaluation facilities and resources. Each strategic plan shall cover the period of thirty fiscal years beginning with the fiscal year in which the plan is submitted under paragraph (3). The strategic plan shall be based on a comprehensive review of both funded and unfunded test and evaluation requirements of the Department, future threats to national security, and the adequacy of the test and evaluation facilities and resources of the Department to meet those future requirements and threats.
+* (d) QUADRENNIAL STRATEGIC PLAN FOR DEPARTMENT OF DEFENSE TEST AND EVALUATION RESOURCES.—(1) Not less often than once every four fiscal years, and within one year after release of the National Defense Strategy,, the Under Secretary of Defense for Research and Engineering, in coordination with the Director of the Department of Defense Test Resource Management Center, the Director of Operational Test and Evaluation, the Director of the Defense Intelligence Agency, the Secretaries of the military departments, and the heads of Defense Agencies with test and evaluation responsibilities, shall complete a quadrennial strategic plan reflecting the future needs of the Department of Defense with respect to test and evaluation facilities and resources. Each quadrennial strategic plan shall cover the period of thirty fiscal years beginning with the fiscal year in which the plan is submitted under paragraph (3). The quadrennial strategic plan shall be based on a comprehensive review of both funded and unfunded test and evaluation requirements of the Department, future threats to national security, and the adequacy of the test and evaluation facilities and resources of the Department to meet those future requirements and threats.
 
-* (2) The strategic plan shall include the following:
+* (2) The quadrennial strategic plan shall include the following:
 
   * (A) An assessment of the test and evaluation requirements of the Department for the period covered by the plan.
 
   * (B) An identification of performance measures associated with the successful achievement of test and evaluation objectives for the period covered by the plan.
 
-  * (C) An assessment of the test and evaluation facilities and resources that will be needed to meet current and future requirements based on current and emerging threats and satisfy such performance measures.
+  * (C) An assessment of the test and evaluation facilities and resources that will be needed to meet current and future requirements for test and evaluation of the Department of Defense major weapon systems based on current and emerging threats.
 
   * (D) An assessment of the current state of the test and evaluation facilities and resources of the Department.
 
@@ -167,15 +160,28 @@
   * (G) An assessment of the budgetary resources necessary to implement such acquisitions, upgrades, and improvements.
 
 
-* (3) Upon completing a strategic plan under paragraph (1), the Director shall submit to the Secretary of Defense a report on that plan. The report shall include the plan and a description of the review on which the plan is based.
+* (3) Upon completing a quadrennial strategic plan under paragraph (1), the Director shall submit to the Secretary of Defense a report on that plan. The report shall include the plan and a description of the review on which the plan is based.
 
 * (4) Not later than 60 days after the date on which the report is submitted under paragraph (3), the Secretary of Defense shall transmit to the Committee on Armed Services and Committee on Appropriations of the Senate and the Committee on Armed Services and Committee on Appropriations of the House of Representatives the report, together with any comments with respect to the report that the Secretary considers appropriate.
+
+* (5)(A) In addition to the quadrennial strategic plan completed under paragraph (1), the Director of the Department of Defense Test Resource Management Center shall also complete an annual update to the quadrennial strategic plan.
+
+* (B) Each annual update completed under subparagraph (A) shall include the following:
+
+  * (i) A summary of changes to the assessment provided in the most recent quadrennial strategic plan.
+
+  * (ii) Comments and recommendations the Director considers appropriate.
+
+  * (iii) Test and evaluation challenges raised since the completion of the most recent quadrennial strategic plan.
+
+  * (iv) Actions taken or planned to address such challenges.
+
 
 * (e) CERTIFICATION OF BUDGETS.—(1) The Secretary of Defense, acting through the Under Secretary of Defense (Comptroller), shall require that the Secretary of each military department and the head of each Defense Agency with test and evaluation responsibilities transmit such Secretary's or Defense Agency head's proposed budget for test and evaluation activities, including modeling and simulation activities, for a fiscal year and for the period covered by the future-years defense program submitted to Congress under section 221 of this title for that fiscal year to the Director of the Center for review under paragraph (2) before submitting such proposed budget to the Under Secretary of Defense (Comptroller).
 
 * (2)(A) The Director of the Center shall review each proposed budget transmitted under paragraph (1) and shall, not later than January 31 of the year preceding the fiscal year for which such budgets are proposed, submit to the Secretary of Defense a report containing the comments of the Director with respect to all such proposed budgets, together with the certification of the Director as to whether such proposed budgets are adequate.
 
-* (B) The Director shall also submit, together with such report and such certification, an additional certification as to whether such proposed budgets provide balanced support for such strategic plan.
+* (B) The Director shall also submit, together with such report and such certification, an additional certification as to whether such proposed budgets provide balanced support for such quadrennial strategic plan.
 
 * (3) The Secretary of Defense shall, not later than March 31 of the year preceding the fiscal year for which such budgets are proposed, submit to Congress a report on those proposed budgets which the Director has not certified under paragraph (2)(A) to be adequate. The report shall include the following matters:
 

@@ -109,7 +109,7 @@
 
   * (4) The term "transfer" means the movement (including the discharge) of an individual outside a hospital's facilities at the direction of any person employed by (or affiliated or associated, directly or indirectly, with) the hospital, but does not include such a movement of an individual who (A) has been declared dead, or (B) leaves the facility without the permission of any such person.
 
-  * (5) The term "hospital" includes a critical access hospital (as defined in section 1395x(mm)(1) of this title).
+  * (5) The term "hospital" includes a critical access hospital (as defined in section 1395x(mm)(1) of this title) and a rural emergency hospital (as defined in section 1395x(kkk)(2) of this title).
 
 #### (f) Preemption
 * The provisions of this section do not preempt any State or local law requirement, except to the extent that the requirement directly conflicts with a requirement of this section.

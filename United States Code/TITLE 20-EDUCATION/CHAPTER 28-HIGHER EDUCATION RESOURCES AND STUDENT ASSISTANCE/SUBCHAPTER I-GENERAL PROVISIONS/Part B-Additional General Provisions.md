@@ -160,7 +160,7 @@
     * (D) a list of the functions of the Committee, including any additional functions established by the Secretary through regulation.
 
 #### (f) Termination
-* The Committee shall terminate on September 30, 2020.
+* The Committee shall terminate on September 30, 2021.
 
 ### §1011d. Student representation
 * The Secretary shall, in appointing individuals to any commission, committee, board, panel, or other body in connection with the administration of this chapter, include individuals who are, at the time of appointment, attending an institution of higher education.

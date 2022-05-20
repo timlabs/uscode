@@ -27,7 +27,7 @@
 
   * (6) the commander of a fleet; the commanding officer of a naval station or larger shore activity of the Navy beyond the United States;
 
-  * (7) the commanding officer of an air command, an air force, an air division, or a separate wing of the Air Force or Marine Corps;
+  * (7) the commanding officer of an air command, an air force, an air division, or a separate wing of the Air Force or Marine Corps, or the commanding officer of a corresponding unit of the Space Force;
 
   * (8) any other commanding officer designated by the Secretary concerned; or
 
@@ -41,11 +41,11 @@
 
   * (1) any person who may convene a general court-martial;
 
-  * (2) the commanding officer of a district, garrison, fort, camp, station, Air Force base, auxiliary air field, or other place where members of the Army or the Air Force are on duty;
+  * (2) the commanding officer of a district, garrison, fort, camp, station, Air Force or Space Force military installation, auxiliary air field, or other place where members of the Army the Air Force, or the Space Force are on duty;
 
   * (3) the commanding officer of a brigade, regiment, detached battalion, or corresponding unit of the Army;
 
-  * (4) the commanding officer of a wing, group, or separate squadron of the Air Force;
+  * (4) the commanding officer of a wing, group, or separate squadron of the Air Force or a corresponding unit of the Space Force;
 
   * (5) the commanding officer of any naval or Coast Guard vessel, shipyard, base, or station; the commanding officer of any Marine brigade, regiment, detached battalion, or corresponding unit; the commanding officer of any Marine barracks, wing, group, separate squadron, station, base, auxiliary air field, or other place where members of the Marine Corps are on duty;
 
@@ -63,7 +63,7 @@
 
   * (2) the commanding officer of a detached company, or other detachment of the Army;
 
-  * (3) the commanding officer of a detached squadron or other detachment of the Air Force; or
+  * (3) the commanding officer of a detached squadron or other detachment of the Air Force or a corresponding unit of the Space Force; or
 
   * (4) the commanding officer or officer in charge of any other command when empowered by the Secretary concerned.
 
@@ -112,7 +112,7 @@
   * (2) if a case is referred for trial as a capital case and, after the members are impaneled, the accused may no longer be sentenced to death, the number of members shall remain 12.
 
 ### §826. Art. 26. Military judge of a general or special court-martial
-* (a) A military judge shall be detailed to each general and special court-martial. The military judge shall preside over each open session of the court-martial to which he has been detailed.
+* (a) A military judge shall be detailed to each general and special court-martial. The Secretary concerned shall prescribe regulations providing for the manner in which military judges are detailed for such courts-martial and for the persons who are authorized to detail military judges for such courts-martial. The military judge shall preside over each open session of the court-martial to which he has been detailed.
 
 * (b) A military judge shall be a commissioned officer of the armed forces who is a member of the bar of a Federal court or a member of the bar of the highest court of a State and who is certified to be qualified, by reason of education, training, experience, and judicial temperament, for duty as a military judge by the Judge Advocate General of the armed force of which such military judge is a member.
 

@@ -99,7 +99,7 @@
 
   * (1) an amount not exceeding three percent of such amount to defray the expenses of administering the provisions of this chapter during such fiscal year; and
 
-  * (2) an amount determined appropriate by the Director to assist eligible entities in payment of costs of eligible entities —
+  * (2) an amount determined appropriate by the Director to assist eligible entities in payment of costs of eligible entities—
 
     * (A) for meetings to discuss best practices for the improvement of the operations of procurement technical assistance centers; and
 

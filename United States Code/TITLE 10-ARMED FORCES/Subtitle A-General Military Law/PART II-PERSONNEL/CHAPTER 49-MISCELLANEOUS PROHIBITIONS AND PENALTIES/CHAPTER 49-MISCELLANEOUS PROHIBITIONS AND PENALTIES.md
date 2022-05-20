@@ -7,7 +7,7 @@
 
   * (1) An officer of the Navy or Marine Corps.
 
-  * (2) A commissioned officer of the Army or Air Force.
+  * (2) A commissioned officer of the Army, Air Force, or Space Force.
 
   * (3) An officer of the Coast Guard.
 
@@ -351,7 +351,7 @@
 
   * (2) access by military recruiters for purposes of military recruiting to the following information pertaining to students (who are 17 years of age or older) enrolled at that institution (or any subelement of that institution):
 
-    * (A) Names, addresses, and telephone listings.
+    * (A) Names, addresses, electronic mail addresses (which shall be the electronic mail addresses provided by the institution, if available), and telephone listings.
 
     * (B) Date and place of birth, levels of education, academic majors, degrees received, and the most recent educational institution enrolled in by the student.
 

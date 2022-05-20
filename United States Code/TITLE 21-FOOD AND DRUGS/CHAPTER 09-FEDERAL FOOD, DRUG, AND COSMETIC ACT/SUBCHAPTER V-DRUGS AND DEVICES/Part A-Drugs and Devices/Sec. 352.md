@@ -110,3 +110,9 @@
 
 #### (dd) Improper labeling of antimicrobial drugs
 * If it is an antimicrobial drug, as defined in section 360a–2(f) of this title, and its labeling fails to conform with the requirements under section 360a–2(d) of this title.
+
+#### (ee) Nonprescription drug subject to regulation
+* If it is a nonprescription drug that is subject to section 355h of this title, is not the subject of an application approved under section 355 of this title, and does not comply with the requirements under section 355h of this title.
+
+#### (ff) Drugs manufactured, prepared, propagated, compounded, or processed in facilities for which fees have not been paid
+* If it is a drug and it was manufactured, prepared, propagated, compounded, or processed in a facility for which fees have not been paid as required by section 379j–72 of this title.

@@ -34,7 +34,7 @@
 
 * (i) If the veteran is entitled under this section to pension on the basis of such veteran's own service and is also entitled to pension on the basis of any other person's service, the Secretary shall pay such veteran only the greater benefit.
 
-* (j) A veteran meets the service requirements of this section if such veteran served in the active military, naval, or air service—
+* (j) A veteran meets the service requirements of this section if such veteran served in the active military, naval, air, or space service—
 
   * (1) for ninety days or more during a period of war;
 

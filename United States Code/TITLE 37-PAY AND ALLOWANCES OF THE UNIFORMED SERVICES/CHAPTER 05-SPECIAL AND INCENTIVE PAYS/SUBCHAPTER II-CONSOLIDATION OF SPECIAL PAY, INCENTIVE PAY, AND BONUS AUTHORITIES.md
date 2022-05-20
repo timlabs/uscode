@@ -61,7 +61,7 @@
 
 * (g) REPAYMENT.—A person or member who receives a bonus under this section and who fails to complete the period of service, or meet the conditions of service, for which the bonus is paid, as specified in the written agreement under subsection (d), shall be subject to the repayment provisions of section 373 of this title.
 
-* (h) TERMINATION OF AUTHORITY.—No agreement may be entered into under this section after December 31, 2020.
+* (h) TERMINATION OF AUTHORITY.—No agreement may be entered into under this section after December 31, 2021.
 
 ### §332. General bonus authority for officers
 * (a) AUTHORITY TO PROVIDE BONUS.—The Secretary concerned may pay a bonus under this section to a person, including an officer in the uniformed services, who—
@@ -119,7 +119,7 @@
 
 * (f) REPAYMENT.—A person or officer who receives a bonus under this section and who fails to complete the period of service, or meet the conditions of service, for which the bonus is paid, as specified in the written agreement under subsection (d), shall be subject to the repayment provisions of section 373 of this title.
 
-* (g) TERMINATION OF AUTHORITY.—No agreement may be entered into under this section after December 31, 2020.
+* (g) TERMINATION OF AUTHORITY.—No agreement may be entered into under this section after December 31, 2021.
 
 ### §333. Special bonus and incentive pay authorities for nuclear officers
 * (a) NUCLEAR OFFICER BONUS.—The Secretary of the Navy may pay a nuclear officer bonus under this section to a person, including an officer in the Navy, who—
@@ -174,7 +174,7 @@
 
 * (h) REGULATIONS.—This section shall be administered under regulations prescribed by the Secretary of the Navy.
 
-* (i) TERMINATION OF AUTHORITY.—No agreement may be entered into under this section after December 31, 2020.
+* (i) TERMINATION OF AUTHORITY.—No agreement may be entered into under this section after December 31, 2021.
 
 ### §334. Special aviation incentive pay and bonus authorities for officers
 * (a) AVIATION INCENTIVE PAY.—
@@ -268,7 +268,7 @@
   * (4) The term "officer" includes an individual enlisted and designated as an aviation cadet under section 8411 of title 10.
 
 
-* (i) TERMINATION OF AUTHORITY.—No agreement may be entered into under this section after December 31, 2020.
+* (i) TERMINATION OF AUTHORITY.—No agreement may be entered into under this section after December 31, 2021.
 
 ### §334a. Special aviation incentive pay and bonus authorities: enlisted members who operate remotely piloted aircraft
 * (a) AVIATION INCENTIVE PAY.—
@@ -388,20 +388,20 @@
 
   * (1) MAXIMUM AMOUNT.—The Secretary concerned shall determine the amounts of a bonus or incentive pay to be paid under this section, except that—
 
-    * (A) a health professions bonus paid under paragraph (1) of subsection (a) may not exceed $30,000 for each 12-month period of obligated service agreed to under subsection (f);
+    * (A) a health professions bonus paid under paragraph (1) of subsection (a) may not exceed $100,000 for each 12-month period of obligated service agreed to under subsection (f);
 
-    * (B) a health professions bonus paid under paragraph (2) of subsection (a) may not exceed $100,000 for each 12-month period of obligated service agreed to under subsection (f);
+    * (B) a health professions bonus paid under paragraph (2) of subsection (a) may not exceed $200,000 for each 12-month period of obligated service agreed to under subsection (f);
 
-    * (C) a health professions bonus paid under paragraph (3) of subsection (a) may not exceed $75,000 for each 12-month period of obligated service agreed to under subsection (f);
+    * (C) a health professions bonus paid under paragraph (3) of subsection (a) may not exceed $150,000 for each 12-month period of obligated service agreed to under subsection (f);
 
     * (D) health professions incentive pay under subsection (b) may be paid monthly and may not exceed, in any 12-month period—
 
-      * (i) $100,000 for medical officers and dental officers; and
+      * (i) $200,000 for medical officers and dental officers; and
 
-      * (ii) $15,000 for officers in other health professions; and
+      * (ii) $50,000 for officers in other health professions; and
 
 
-    * (E) board certification incentive pay under subsection (c) may not exceed $6,000 for each 12-month period an officer remains certified in the designated health profession specialty or skill.
+    * (E) board certification incentive pay under subsection (c) may not exceed $15,000 for each 12-month period an officer remains certified in the designated health profession specialty or skill.
 
 
   * (2) LUMP SUM OR INSTALLMENTS.—A health professions bonus under subsection (a) may be paid in a lump sum or in periodic installments, as determined by the Secretary concerned. Board certification incentive pay under subsection (c) may be paid monthly, in a lump sum at the beginning of the certification period, or in periodic installments during the certification period, as determined by the Secretary concerned.
@@ -454,7 +454,7 @@
   * (8) Any health profession performed by officers in the regular or reserve corps of the Public Health Service.
 
 
-* (k) TERMINATION OF AUTHORITY.—No agreement may be entered into under this section after December 31, 2020.
+* (k) TERMINATION OF AUTHORITY.—No agreement may be entered into under this section after December 31, 2021.
 
 ### §336. Contracting bonus for cadets and midshipmen enrolled in the Senior Reserve Officers' Training Corps
 * (a) CONTRACTING BONUS AUTHORIZED.—The Secretary concerned may pay a bonus under this section to a cadet or midshipman enrolled in the Senior Reserve Officers' Training Corps who executes a written agreement described in subsection (c).
@@ -478,7 +478,7 @@
 
 * (f) REGULATIONS.—The Secretary concerned shall issue such regulations as may be necessary to carry out this section.
 
-* (g) TERMINATION OF AUTHORITY.—No agreement under this section may be entered into after December 31, 2020.
+* (g) TERMINATION OF AUTHORITY.—No agreement under this section may be entered into after December 31, 2021.
 
 ### §351. Hazardous duty pay
 * (a) HAZARDOUS DUTY PAY.—The Secretary concerned may pay hazardous duty pay under this section to a member of a regular or reserve component of the uniformed services entitled to basic pay under section 204 of this title or compensation under section 206 of this title who—
@@ -494,9 +494,9 @@
 
   * (1) In the case of a member who performs duty in a designated hostile fire area, as described in subsection (a)(1), hazardous duty pay may not exceed $450 per month.
 
-  * (2) In the case of a member who performs a designated hazardous duty, as described in subsection (a)(2), hazardous duty pay may not exceed $250 per month.
+  * (2) In the case of a member who performs a designated hazardous duty, as described in subsection (a)(2), hazardous duty pay may not exceed $275 per month.
 
-  * (3) In the case of a member who performs duty in a foreign area designated as an imminent danger area, as described in subsection (a)(3), hazardous duty pay may not exceed $250 per month.
+  * (3) In the case of a member who performs duty in a foreign area designated as an imminent danger area, as described in subsection (a)(3), hazardous duty pay may not exceed $275 per month.
 
 
 * (c) METHOD OF PAYMENT; PRORATION.—
@@ -507,12 +507,19 @@
 
     * (A) in the case of hazardous duty pay payable under paragraph (1) of subsection (a), the Secretary concerned—
 
-      * (i) shall prorate the payment amount to reflect the duration of the member's actual qualifying service during the month; or
+      * (i) may prorate the payment amount to reflect the duration of the member's actual qualifying service during the month; or
 
       * (ii) in the case of a member who is exposed to hostile fire or an explosion of a hostile explosive device in or for a day or portion of a day, may, at the election of the Secretary, pay the member hazardous duty pay in an amount not to exceed the entire amount of hazardous duty pay that would be payable to the member under such paragraph (1) for the month in which the duty concerned occurs (with the total amount of hazardous duty pay paid the member under this clause in any given month not to exceed such entire amount); and
 
 
-    * (B) in the case of hazardous duty pay payable under paragraph (2) or (3) of subsection (a), the Secretary concerned may prorate the payment amount to reflect the duration of the member's actual qualifying service during the month.
+    * (B) in the case of hazardous duty pay payable under paragraph (2) of subsection (a), the Secretary concerned—
+
+      * (i) may prorate the payment amount to reflect the duration of the member's actual qualifying service during the month; and
+
+      * (ii) in the case of member who performs hazardous duty specifically designated by the Secretary concerned, shall pay the member hazardous duty pay in an amount not to exceed the maximum amount of hazardous duty pay that would be payable to the member under subsection (b)(2) for the entire month, regardless of the duration of the qualifying service.
+
+
+    * (C) In the case of hazardous duty pay payable under paragraph (3) of subsection (a), the Secretary concerned may prorate the payment amount to reflect the duration of the member's actual qualifying service during the month.
 
 
 * (d) ADMINISTRATION AND RETROACTIVE PAYMENTS.—The effective date for the designation of a hostile fire area, as described in paragraph (1) of subsection (a), and for the designation of a foreign area as an imminent danger area, as described in paragraph (3) of such subsection, may be a date that occurs before, on, or after the actual date of the designation by the Secretary concerned.
@@ -528,7 +535,7 @@
 
 * (g) PROHIBITION ON VARIABLE RATES.—The regulations prescribed to administer this section may not include varied criteria or rates for payment of hazardous duty for officers and enlisted members.
 
-* (h) TERMINATION OF AUTHORITY.—No hazardous duty pay under this section may be paid after December 31, 2020.
+* (h) TERMINATION OF AUTHORITY.—No hazardous duty pay under this section may be paid after December 31, 2021.
 
 ### §352. Assignment pay or special duty pay
 * (a) ASSIGNMENT OR SPECIAL DUTY PAY AUTHORIZED.—The Secretary concerned may pay assignment or special duty pay under this section to a member of a regular or reserve component of the uniformed services who—
@@ -579,7 +586,7 @@
 
 * (f) REPAYMENT.—A member who receives assignment or special duty pay under this section and who fails to fulfill the eligibility requirements under subsection (a) for receipt of such pay shall be subject to the repayment provisions of section 373 of this title.
 
-* (g) TERMINATION OF AUTHORITY.—No agreement may be entered into under this section after December 31, 2020.
+* (g) TERMINATION OF AUTHORITY.—No agreement may be entered into under this section after December 31, 2021.
 
 ### §353. Skill incentive pay or proficiency bonus
 * (a) SKILL INCENTIVE PAY.—The Secretary concerned may pay a monthly skill incentive pay to a member of a regular or reserve component of the uniformed services who—
@@ -639,7 +646,7 @@
 
 * (h) RELATIONSHIP TO OTHER PAYS AND ALLOWANCES.—A member may not be paid more than one pay under this section in any month for the same period of service and skill. A member may be paid skill incentive pay or the proficiency bonus under this section in addition to any other pay and allowances to which the member is entitled, except that a member may not be paid skill incentive pay or a proficiency bonus under this section and hazardous duty pay under section 351 of this title for the same period of service in the same career field or skill.
 
-* (i) TERMINATION OF AUTHORITY.—No agreement may be entered into under this section after December 31, 2020.
+* (i) TERMINATION OF AUTHORITY.—No agreement may be entered into under this section after December 31, 2021.
 
 ### §354. Special pay: 15-year career status bonus for members entering service on or after August 1, 1986
 * (a) AVAILABILITY OF BONUS.—The Secretary concerned shall pay a bonus under this section to an eligible career bonus member if the member—
@@ -741,7 +748,7 @@
 
 * (g) REPAYMENT.—A member paid a bonus under this section who fails, during the period of service covered by the member's agreement, reenlistment, or voluntary extension of enlistment under subsection (a), to remain qualified in the critical military skill or to satisfy the other eligibility criteria for which the bonus was paid shall be subject to the repayment provisions of section 373 of this title.
 
-* (h) TERMINATION OF BONUS AUTHORITY.—No bonus may be paid under this section with respect to any reenlistment, or voluntary extension of an enlistment, in the armed forces entered into after December 31, 2020, and no agreement under this section may be entered into after that date.
+* (h) TERMINATION OF BONUS AUTHORITY.—No bonus may be paid under this section with respect to any reenlistment, or voluntary extension of an enlistment, in the armed forces entered into after December 31, 2021, and no agreement under this section may be entered into after that date.
 
 ### §356. Continuation pay: full TSP members with 8 to 12 years of service
 * (a) CONTINUATION PAY.—The Secretary concerned shall make a payment of continuation pay to each full TSP member (as defined in section 8440e(a) of title 5) of the uniformed services under the jurisdiction of the Secretary who—

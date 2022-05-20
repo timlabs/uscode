@@ -14,7 +14,7 @@
 
 * (c) The Secretary may sell serviceable quartermaster property, other than subsistence supplies, to an officer of another armed force for his use in the service, in the same manner as these articles are sold to an officer of the Army.
 
-* (d) A person who has been discharged honorably or under honorable conditions from the Army, Navy, Air Force, or Marine Corps and who is receiving care and medical treatment from the Public Health Service or the Department of Veterans Affairs may buy subsistence supplies and other supplies, except articles of uniform, at the prices at which like property is sold to a member of the Army.
+* (d) A person who has been discharged honorably or under honorable conditions from the Army, Navy, Air Force, Marine Corps, or Space Force and who is receiving care and medical treatment from the Public Health Service or the Department of Veterans Affairs may buy subsistence supplies and other supplies, except articles of uniform, at the prices at which like property is sold to a member of the Army.
 
 * (e) Under such conditions as the Secretary may prescribe, exterior articles of uniform may be sold to a person who has been discharged from the Army honorably or under honorable conditions, at the prices at which like articles are sold to members of the Army. This subsection does not modify section 772 or 773 of this title.
 

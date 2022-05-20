@@ -33,9 +33,17 @@
 
   * (D) the average length of time a case was before the Board between the time of the filing of an appeal and the disposition during the preceding fiscal year;
 
-  * (E) the number of members of the Board at the end of the year and the number of professional, administrative, clerical, stenographic, and other personnel employed by the Board at the end of the preceding fiscal year; and
+  * (E) the number of members of the Board at the end of the year and the number of professional, administrative, clerical, stenographic, and other personnel employed by the Board at the end of the preceding fiscal year;
 
-  * (F) the number of employees of the Department designated under subsection (c)(1) to serve as acting members of the Board during that year and the number of cases in which each such member participated during that year.
+  * (F) the number of employees of the Department designated under subsection (c)(1) to serve as acting members of the Board during that year and the number of cases in which each such member participated during that year; and
+
+  * (G) with respect to hearings scheduled under section 7107(c)(2)(C) of this title—
+
+    * (i) the number of hearings scheduled under such section;
+
+    * (ii) the number of hearings under such section that were cancelled; and
+
+    * (iii) any statistical difference in outcomes between cases heard under such section and those held at the principal location of the Board or by picture and voice transmission at a facility of the Department.
 
 
 * (3) The projections in each such report for the current fiscal year and for the next fiscal year shall include (for each such year)—
@@ -220,9 +228,18 @@
   * (B) by picture and voice transmission at a facility of the Department where the Secretary has provided suitable facilities and equipment to conduct such hearings.
 
 
-* (2)(A) Upon notification of a Board hearing at the Board's principal location as described in subparagraph (A) of paragraph (1), the appellant may alternatively request a hearing as described in subparagraph (B) of such paragraph. If so requested, the Board shall grant such request.
+* (2)(A) Upon notification of a Board hearing at the Board's principal location as described in subparagraph (A) of paragraph (1), the appellant may alternatively request a hearing as described in subparagraph (B) of such paragraph or subparagraph (C) of this paragraph. If so requested, the Board shall grant such request.
 
-* (B) Upon notification of a Board hearing by picture and voice transmission as described in subparagraph (B) of paragraph (1), the appellant may alternatively request a hearing as described in subparagraph (A) of such paragraph. If so requested, the Board shall grant such request.
+* (B) Upon notification of a Board hearing by picture and voice transmission as described in subparagraph (B) of paragraph (1), the appellant may alternatively request a hearing as described in subparagraph (A) of such paragraph or subparagraph (C) of this paragraph. If so requested, the Board shall grant such request.
+
+* (C)(i) Upon notification of a Board hearing under subparagraph (A) or (B) of paragraph (1), the appellant may alternatively request a hearing by picture and voice transmission—
+
+  * (I) at a location selected by the appellant; and
+
+  * (II) via a secure internet platform established and maintained by the Secretary that protects sensitive personal information from a data breach.
+
+
+* (ii) If an appellant makes a request under clause (i), the Board shall grant such request.
 
 * (d) SCREENING OF CASES.—Nothing in this section shall be construed to preclude the screening of cases for purposes of—
 

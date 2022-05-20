@@ -242,14 +242,14 @@
     * #### (ii) Calculation of excess
       * The excess determined under clause (i) shall be calculated by taking into account only—
 
-        * (I) those beneficiaries actually enrolled in the Plan as of December 20, 2019, who are eligible to receive health benefits under the Plan on the first day of the calendar year for which the transfer is made, other than those beneficiaries enrolled in the Plan under the terms of a participation agreement with the current or former employer of such beneficiaries;
+        * (I) those beneficiaries actually enrolled in the Plan as of December 27, 2020, who are eligible to receive health benefits under the Plan on the first day of the calendar year for which the transfer is made, other than those beneficiaries enrolled in the Plan under the terms of a participation agreement with the current or former employer of such beneficiaries;
 
-        * (II) those beneficiaries whose health benefits, defined as those benefits payable, following death or retirement or upon a finding of disability, directly by an employer in the bituminous coal industry under a coal wage agreement (as defined in section 9701(b)(1) of title 26) or a related coal wage agreement, would be denied or reduced as a result of a bankruptcy proceeding commenced in 2012, 2015, 2018, or 2019; and
+        * (II) those beneficiaries whose health benefits, defined as those benefits payable, following death or retirement or upon a finding of disability, directly by an employer in the bituminous coal industry under a coal wage agreement (as defined in section 9701(b)(1) of title 26) or a related coal wage agreement, would be denied or reduced as a result of a bankruptcy proceeding commenced in 2012, 2015, 2018, 2019, or any year thereafter, (or, in the case of any such health benefits confirmed in any bankruptcy proceeding, would be subsequently denied or reduced); and
 
-        * (III) the cost of administering the resolution of disputes process administered (as of December 20, 2019) by the Trustees of the Plan.
+        * (III) the cost of administering the resolution of disputes process administered (as of December 27, 2020) by the Trustees of the Plan.
 
 
-  * &nbsp;For purposes of subclause (I), a beneficiary enrolled in the Plan as of December 20, 2019, shall be deemed to have been eligible to receive health benefits under the Plan on January 1, 2019.
+  * &nbsp;For purposes of subclause (I), a beneficiary enrolled in the Plan as of December 27, 2020, shall be deemed to have been eligible to receive health benefits under the Plan on January 1, 2020.
 
     * #### (iii) Eligibility of certain retirees
       * Individuals referred to in clause (ii)(II) shall be treated as eligible to receive health benefits under the Plan.
@@ -390,6 +390,9 @@
 
       * (iii) the percentage transferred is the same for all transfers made under paragraph (1) for the fiscal year.
 
+  * #### (C) Increase in limitation to account for calculation of health benefit plan excess
+    * The dollar limitation under subparagraph (A) shall be increased by the amount of the cost to provide benefits which are taken into account under subsection (h)(2)(C)(ii) solely by reason of the amendments made by section 2(a) of the American Miner Benefits Improvement Act of 2020
+
 * #### (4) Additional amounts
   * #### (A) Calculation
     * If the dollar limitation specified in paragraph (3)(A) exceeds the aggregate amount required to be transferred under paragraphs (1) and (2) for a fiscal year, the Secretary of the Treasury shall transfer an additional amount equal to the difference between such dollar limitation and such aggregate amount to the trustees of the 1974 UMWA Pension Plan to pay benefits required under that plan.
@@ -397,7 +400,7 @@
   * #### (B) Cessation of transfers
     * The transfers described in subparagraph (A) shall cease as of the first fiscal year beginning after the first plan year for which the funded percentage (as defined in section 432(j)(2) of title 26) of the 1974 UMWA Pension Plan is at least 100 percent.
 
-  * #### (C) Prohibition on benefit increases, etc
+  * #### (C) Prohibition on benefit increases, etc.
     * During a fiscal year in which the 1974 UMWA Pension Plan is receiving transfers under subparagraph (A), no amendment of such plan which increases the liabilities of the plan by reason of any increase in benefits, any change in the accrual of benefits, or any change in the rate at which benefits become nonforfeitable under the plan may be adopted unless the amendment is required as a condition of qualification under part I of subchapter D of chapter 1 of title 26 [26 U.S.C. 401 et seq.].
 
   * #### (D) Critical status to be maintained
@@ -464,7 +467,7 @@
     * #### (iv) Penalty
       * Any failure to file the report required under clause (i) on or before the date described in such clause shall be treated as a failure to file a report required to be filed under section 6058(a) of title 26, except that section 6652(e) of title 26 shall be applied with respect to any such failure by substituting "$100" for "$25". The preceding sentence shall not apply if the Secretary of the Treasury or the Secretary's delegate determines that reasonable diligence has been exercised by the trustees of such plan in attempting to timely file such report.
 
-  * #### (H) 1974 umwa pension plan defined
+  * #### (H) 1974 UMWA Pension Plan defined
     * For purposes of this paragraph, the term "1974 UMWA Pension Plan" has the meaning given the term in section 9701(a)(3) of title 26, but without regard to the limitation on participation to individuals who retired in 1976 and thereafter.
 
 * #### (5) Availability of funds

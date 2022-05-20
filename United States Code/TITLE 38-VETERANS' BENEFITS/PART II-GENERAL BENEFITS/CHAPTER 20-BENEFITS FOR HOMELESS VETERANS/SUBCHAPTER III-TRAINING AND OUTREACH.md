@@ -9,7 +9,7 @@
 
   * (3) Indians who are veterans and receiving assistance under the Native American Housing Assistance and Self Determination Act of 1996 (25 U.S.C. 4101 et seq.);
 
-  * (4) veterans described in section 2023(e) of this title or any other veterans who are transitioning from being incarcerated; and
+  * (4) veterans described in section 2023(d) of this title or any other veterans who are transitioning from being incarcerated; and
 
   * (5) veterans participating in the Department of Veterans Affairs rapid rehousing and prevention program authorized in section 2044 of this title.
 
@@ -34,7 +34,7 @@
 
   * (E) $50,000,000 for fiscal year 2006.
 
-  * (F) $50,000,000 for each of fiscal years 2007 through 2020.
+  * (F) $50,000,000 for each of fiscal years 2007 through 2022.
 
 
 * (2) Funds appropriated to carry out this section shall remain available until expended. Funds obligated in any fiscal year to carry out this section may be expended in that fiscal year and the succeeding fiscal year.
@@ -53,7 +53,7 @@
 
 * (e) BIENNIAL REPORT TO CONGRESS.—The Secretary of Labor shall include as part of the report required under section 2021(d) of this title an evaluation of the grant program under this section, which shall include an evaluation of services furnished to veterans under this section and an analysis of the information collected under subsection (c).
 
-* (f) AUTHORIZATION OF APPROPRIATIONS.—(1) In addition to any amount authorized to be appropriated to carry out section 2021 of this title, there is authorized to be appropriated to carry out this section $1,000,000 for each of fiscal years 2011 through 2020.
+* (f) AUTHORIZATION OF APPROPRIATIONS.—(1) In addition to any amount authorized to be appropriated to carry out section 2021 of this title, there is authorized to be appropriated to carry out this section $1,000,000 for each of fiscal years 2011 through 2022.
 
 * (2) Funds appropriated to carry out this section shall remain available until expended. Funds obligated in any fiscal year to carry out this section may be expended in that fiscal year and the succeeding fiscal year.
 
@@ -116,6 +116,80 @@
 
   * (D) Recommendations, if any, regarding an extension or modification of such outreach plan, such outreach program, and such demonstration program.
 
+### §2022A. Legal services for homeless veterans and veterans at risk for homelessness
+* (a) GRANTS.—Subject to the availability of appropriations provided for such purpose, the Secretary shall award grants to eligible entities that provide legal services to homeless veterans and veterans at risk for homelessness.
+
+* (b) CRITERIA.—(1) The Secretary shall—
+
+  * (A) establish criteria and requirements for grants under this section, including criteria for entities eligible to receive such grants; and
+
+  * (B) publish such criteria and requirements in the Federal Register.
+
+
+* (2) In establishing criteria and requirements under paragraph (1), the Secretary shall—
+
+  * (A) take into consideration any criteria and requirements needed with respect to carrying out this section in rural communities, on trust lands, and in the territories and possessions of the United States; and
+
+  * (B) consult with organizations that have experience in providing services to homeless veterans, including—
+
+    * (i) veterans service organizations;
+
+    * (ii) the Equal Justice Works AmeriCorps Veterans Legal Corps; and
+
+    * (iii) such other organizations as the Secretary determines appropriate.
+
+
+* (c) ELIGIBLE ENTITIES.—The Secretary may award a grant under this section to an entity applying for such a grant only if the applicant for the grant—
+
+  * (1) is a public or nonprofit private entity with the capacity (as determined by the Secretary) to effectively administer a grant under this section;
+
+  * (2) demonstrates that adequate financial support will be available to carry out the services for which the grant is sought consistent with the application;
+
+  * (3) agrees to meet the applicable criteria and requirements established under subsection (b)(1); and
+
+  * (4) has, as determined by the Secretary, demonstrated the capacity to meet such criteria and requirements.
+
+
+* (d) USE OF FUNDS.—Grants under this section shall be used to provide homeless veterans and veterans at risk for homelessness the following legal services:
+
+  * (1) Legal services relating to housing, including eviction defense, representation in landlord-tenant cases, and representation in foreclosure cases.
+
+  * (2) Legal services relating to family law, including assistance in court proceedings for child support, divorce, estate planning, and family reconciliation.
+
+  * (3) Legal services relating to income support, including assistance in obtaining public benefits.
+
+  * (4) Legal services relating to criminal defense, including defense in matters symptomatic of homelessness, such as outstanding warrants, fines, and driver's license revocation, to reduce recidivism and facilitate the overcoming of reentry obstacles in employment or housing.
+
+  * (5) Legal services relating to requests to upgrade the characterization of a discharge or dismissal of a former member of the Armed Forces under section 1553 of title 10.
+
+  * (6) Such other legal services as the Secretary determines appropriate.
+
+
+* (e) FUNDS FOR WOMEN VETERANS.—For any fiscal year, not less than 10 percent of the amount authorized to be appropriated for grants under this section shall be used to provide legal services described in subsection (d) to women veterans.
+
+* (f) LOCATIONS.—To the extent practicable, the Secretary shall award grants under this section to eligible entities in a manner that is equitably distributed across the geographic regions of the United States, including with respect to—
+
+  * (1) rural communities;
+
+  * (2) trust lands (as defined in section 3765 of this title);
+
+  * (3) Native Americans; and
+
+  * (4) tribal organizations (as defined in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304)).
+
+
+* (g) BIENNIAL REPORTS.—(1) Not less frequently than once every two years, the Secretary shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report on grants awarded under this section.
+
+* (2) To the extent feasible, each report required by paragraph (1) shall include the following with respect to the period covered by the report:
+
+  * (A) The number of homeless veterans and veterans at risk for homelessness assisted.
+
+  * (B) A description of the legal services provided.
+
+  * (C) A description of the legal matters addressed.
+
+  * (D) An analysis by the Secretary with respect to the operational effectiveness and cost-effectiveness of the services provided.
+
 ### §2023. Referral and counseling services: veterans at risk of homelessness who are transitioning from certain institutions
 * (a) PROGRAM AUTHORITY.—The Secretary and the Secretary of Labor (hereinafter in this section referred to as the "Secretaries") shall carry out a program of referral and counseling services to eligible veterans with respect to benefits and services available to such veterans under this title and under State law.
 
@@ -131,9 +205,7 @@
 
 * (4) In developing the program, the Secretaries shall consult with officials of the Bureau of Prisons, officials of penal institutions of States and political subdivisions of States, and such other officials as the Secretaries determine appropriate.
 
-* (d) DURATION.—The authority of the Secretaries to enter into a contract to provide referral and counseling services under the demonstration program shall cease on September 30, 2020.
-
-* (e) DEFINITION.—In this section, the term "eligible veteran" means a veteran who—
+* (d) DEFINITION.—In this section, the term "eligible veteran" means a veteran who—
 
   * (1) is a resident of a penal institution or an institution that provides long-term care for mental illness; and
 

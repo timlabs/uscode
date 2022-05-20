@@ -437,7 +437,7 @@
 #### (k) Termination
 * This section shall not apply to any property purchased after—
 
-  * (1) in the case of a new qualified fuel cell motor vehicle (as described in subsection (b)), December 31, 2020,
+  * (1) in the case of a new qualified fuel cell motor vehicle (as described in subsection (b)), December 31, 2021,
 
   * (2) in the case of a new advanced lean burn technology motor vehicle (as described in subsection (c)) or a new qualified hybrid motor vehicle (as described in subsection (d)(2)(A)), December 31, 2010,
 
@@ -510,7 +510,7 @@
 * The Secretary shall prescribe such regulations as necessary to carry out the provisions of this section.
 
 #### (g) Termination
-* This section shall not apply to any property placed in service after December 31, 2020.
+* This section shall not apply to any property placed in service after December 31, 2021.
 
 ### §30D. New qualified plug-in electric drive motor vehicles
 #### (a) Allowance of credit
@@ -639,4 +639,4 @@
 
       * (i) after December 31, 2011, and before January 1, 2014, or
 
-      * (ii) in the case of a vehicle that has 2 wheels, after December 31, 2014, and before January 1, 2021.
+      * (ii) in the case of a vehicle that has 2 wheels, after December 31, 2014, and before January 1, 2022.

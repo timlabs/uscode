@@ -3,11 +3,11 @@
 ### §1101. Definitions
 * For the purposes of this chapter—
 
-* (1) The term "veteran" includes a person who died in the active military, naval, or air service.
+* (1) The term "veteran" includes a person who died in the active military, naval, air, or space service.
 
 * (2) The term "period of war" includes, in the case of any veteran—
 
-  * (A) any period of service performed by such veteran after November 11, 1918, and before July 2, 1921, if such veteran served in the active military, naval, or air service after April 5, 1917, and before November 12, 1918; and
+  * (A) any period of service performed by such veteran after November 11, 1918, and before July 2, 1921, if such veteran served in the active military, naval, air, or space service after April 5, 1917, and before November 12, 1918; and
 
   * (B) any period of continuous service performed by such veteran after December 31, 1946, and before July 26, 1947, if such period began before January 1, 1947.
 
@@ -151,9 +151,9 @@
 * (b) Subsection (a) shall not be applicable to any surviving spouse who, with respect to date of marriage, could have qualified as a surviving spouse for death compensation under any law administered by the Secretary in effect on December 31, 1957.
 
 ### §1103. Special provisions relating to claims based upon effects of tobacco products
-* (a) Notwithstanding any other provision of law, a veteran's disability or death shall not be considered to have resulted from personal injury suffered or disease contracted in the line of duty in the active military, naval, or air service for purposes of this title on the basis that it resulted from injury or disease attributable to the use of tobacco products by the veteran during the veteran's service.
+* (a) Notwithstanding any other provision of law, a veteran's disability or death shall not be considered to have resulted from personal injury suffered or disease contracted in the line of duty in the active military, naval, air, or space service for purposes of this title on the basis that it resulted from injury or disease attributable to the use of tobacco products by the veteran during the veteran's service.
 
-* (b) Nothing in subsection (a) shall be construed as precluding the establishment of service connection for disability or death from a disease or injury which is otherwise shown to have been incurred or aggravated in active military, naval, or air service or which became manifest to the requisite degree of disability during any applicable presumptive period specified in section 1112 or 1116 of this title.
+* (b) Nothing in subsection (a) shall be construed as precluding the establishment of service connection for disability or death from a disease or injury which is otherwise shown to have been incurred or aggravated in active military, naval, air, or space service or which became manifest to the requisite degree of disability during any applicable presumptive period specified in section 1112 or 1116 of this title.
 
 ### §1104. Cost-of-living adjustments
 * (a) In the computation of cost-of-living adjustments for fiscal years 1998 through 2013 in the rates of, and dollar limitations applicable to, compensation payable under this chapter, such adjustments shall be made by a uniform percentage that is no more than the percentage equal to the social security increase for that fiscal year, with all increased monthly rates and limitations (other than increased rates or limitations equal to a whole dollar amount) rounded down to the next lower whole dollar amount.

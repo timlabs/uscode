@@ -228,7 +228,7 @@
   * (2) any remaining fractional part of a month shall be disregarded.
 
 
-* (c) EXCLUSION OF TIME REQUIRED TO BE MADE UP OR EXCLUDED.—(1) Time required to be made up by an enlisted member of the Army or Air Force under section 972(a) of this title, or required to be made up by an enlisted member of the Navy, Marine Corps, or Coast Guard under that section with respect to a period of time after October 5, 1994, may not be counted in determining years of service under subsection (a).
+* (c) EXCLUSION OF TIME REQUIRED TO BE MADE UP OR EXCLUDED.—(1) Time required to be made up by an enlisted member of the Army, Air Force, or Space Force under section 972(a) of this title, or required to be made up by an enlisted member of the Navy, Marine Corps, or Coast Guard under that section with respect to a period of time after October 5, 1994, may not be counted in determining years of service under subsection (a).
 
 * (2) Section 972(b) of this title excludes from computation of an officer's years of service for purposes of this section any time identified with respect to that officer under that section.
 
@@ -256,7 +256,7 @@
 
 * <sup>3</sup>&nbsp;For the purposes of this subsection, determine member's retired grade as if sections 7342 and 9342 did not apply.
 
-  * (2) NON-REGULAR SERVICE RETIREMENT.—In the case of a person who is entitled to retired pay under section 12731 of this title, the retired pay base is the monthly basic pay, determined at the rates applicable on the date when retired pay is granted (or, in the case of a person entitled to retired pay by reason of an election under section 12741(a) of this title, at rates applicable on the date the person completes the service required under such section 12741(a)), of the highest grade held satisfactorily by the person at any time in the armed forces. For purposes of the preceding sentence, the highest grade in which a person served satisfactorily as an officer shall be determined in accordance with section 1370(d) of this title.
+  * (2) NON-REGULAR SERVICE RETIREMENT.—In the case of a person who is entitled to retired pay under section 12731 of this title, the retired pay base is the monthly basic pay, determined at the rates applicable on the date when retired pay is granted (or, in the case of a person entitled to retired pay by reason of an election under section 12741(a) of this title, at rates applicable on the date the person completes the service required under such section 12741(a)), of the highest grade held satisfactorily by the person at any time in the armed forces. For purposes of the preceding sentence, the highest grade in which a person served satisfactorily as an officer shall be determined in accordance with section 1370a of this title.
 
 
 * (c) VOLUNTARY RETIREMENT FOR MEMBERS OF THE ARMY.—
@@ -287,7 +287,7 @@
   
 * <sup>1</sup>&nbsp;If the rate specified is less than the pay of any warrant officer grade satisfactorily held by the member on active duty, use the monthly basic pay of that warrant officer grade.
 
-* (e) VOLUNTARY RETIREMENT FOR MEMBERS OF THE AIR FORCE.—
+* (e) VOLUNTARY RETIREMENT FOR MEMBERS OF THE AIR FORCE AND SPACE FORCE.—
 
   * (1) IN GENERAL.—In the case of a member whose retired pay is computed under section 9361 of this title or who is entitled to retired pay computed under section 9362 of this title, the retired pay base is determined in accordance with the following table.
 
@@ -336,7 +336,9 @@
 
       * (iv) Commandant of the Marine Corps.
 
-      * (v) Commandant of the Coast Guard.
+      * (v) Chief of Space Operations.
+
+      * (vi) Commandant of the Coast Guard.
 
 
     * (B) The term "senior enlisted member" means any of the following:
@@ -349,7 +351,9 @@
 
       * (iv) Sergeant Major of the Marine Corps.
 
-      * (v) Master Chief Petty Officer of the Coast Guard.
+      * (v) The senior enlisted advisor of the Space Force.
+
+      * (vi) Master Chief Petty Officer of the Coast Guard.
 
 ### §1407. Retired pay base for members who first became members after September 7, 1980: high-36 month average
 * (a) USE OF RETIRED PAY BASE IN COMPUTING RETIRED PAY.—The retired pay or retainer pay of any person entitled to that pay who first became a member of a uniformed service after September 7, 1980, is computed using the retired pay base or retainer pay base determined under this section.
@@ -411,7 +415,7 @@
 
     * (A) in the case of a member retired in an enlisted grade or transferred to the Fleet Reserve or Fleet Marine Corps Reserve, was at any time reduced in grade as the result of a court-martial sentence, nonjudicial punishment, or an administrative action, unless the member was subsequently promoted to a higher enlisted grade or appointed to a commissioned or warrant grade; and
 
-    * (B) in the case of an officer, is retired in a grade lower than the highest grade in which served by reason of denial of a determination or certification under section 1370 of this title that the officer served on active duty satisfactorily in that grade.
+    * (B) in the case of an officer, is retired in a grade lower than the highest grade in which served pursuant to section 1370 or 1370a of this title that the officer served on active duty satisfactorily in that grade.
 
 
   * (3) SPECIAL RULE FOR ENLISTED MEMBERS.—In the case of a member who retires within three years after having been reduced in grade as described in paragraph (2)(A), who retires in an enlisted grade that is lower than the grade from which reduced, and who would be subject to paragraph (1) but for a subsequent promotion to a higher enlisted grade or a subsequent appointment to a warrant or commissioned grade, the rates of basic pay used in the computation of the member's high-36 average for the period of the member's service in a grade higher than the grade in which retired shall be the rates of pay that would apply if the member had been serving for that period in the grade in which retired.
@@ -819,7 +823,7 @@
 
 * (g) STATUS OF PAYMENTS.—Payments under this section are not retired pay.
 
-* (h) SOURCE OF PAYMENTS.—Payments under this section for a member of the Army, Navy, Air Force, or Marine Corps shall be paid from the Department of Defense Military Retirement Fund. Payments under this section for any other member for any fiscal year shall be paid out of funds appropriated for pay and allowances payable by the Secretary concerned for that fiscal year.
+* (h) SOURCE OF PAYMENTS.—Payments under this section for a member of the Army, Navy, Air Force, Marine Corps, or Space Force shall be paid from the Department of Defense Military Retirement Fund. Payments under this section for any other member for any fiscal year shall be paid out of funds appropriated for pay and allowances payable by the Secretary concerned for that fiscal year.
 
 * (i) OTHER DEFINITIONS.—In this section:
 

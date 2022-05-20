@@ -60,7 +60,7 @@
 
 #### (e) Repealed. Pub. L. 105–33, title V, §5512(c), Aug. 5, 1997, 111 Stat. 619
 #### (f) Total amount certified under subchapter XIX
-* Subject to subsection (g) and section 1396u–5(e)(1)(B) of this title, the total amount certified by the Secretary under subchapter XIX with respect to a fiscal year for payment to—
+* Subject to subsections (g) and (h) and section 1396u–5(e)(1)(B) of this title, the total amount certified by the Secretary under subchapter XIX with respect to a fiscal year for payment to—
 
   * (1) Puerto Rico shall not exceed (A) $116,500,000 for fiscal year 1994 and (B) for each succeeding fiscal year the amount provided in this paragraph for the preceding fiscal year increased by the percentage increase in the medical care component of the consumer price index for all urban consumers (as published by the Bureau of Labor Statistics) for the twelve-month period ending in March preceding the beginning of the fiscal year, rounded to the nearest $100,000;
 
@@ -95,29 +95,41 @@
 
       * (ii) for each of fiscal years 2020 through 2021, the amount specified in paragraph (6) for each such fiscal year;
 
+
     * (B) the Virgin Islands shall not exceed—
 
-      * (i) except as provided in clause (ii), the sum of the amount provided in this subsection for the preceding fiscal year increased by the percentage increase referred to in subparagraph (A), rounded to the nearest $10,000; and
+      * (i) except as provided in clause (ii), the sum of the amount provided in this subsection for the preceding fiscal year increased by the percentage increase referred to in subparagraph (A), rounded to the nearest $10,000;
 
-      * (ii) for each of fiscal years 2020 through 2021, $126,000,000;
+      * (ii) for fiscal year 2020, $128,712,500; and
+
+      * (iii) for fiscal year 2021, $127,937,500;
+
 
     * (C) Guam shall not exceed—
 
-      * (i) except as provided in clause (ii), the sum of the amount provided in this subsection for the preceding fiscal year increased by the percentage increase referred to in subparagraph (A), rounded to the nearest $10,000; and
+      * (i) except as provided in clause (ii), the sum of the amount provided in this subsection for the preceding fiscal year increased by the percentage increase referred to in subparagraph (A), rounded to the nearest $10,000;
 
-      * (ii) for each of fiscal years 2020 through 2021, $127,000,000;
+      * (ii) for fiscal year 2020, $130,875,000; and
+
+      * (iii) for fiscal year 2021, $129,712,500;
+
 
     * (D) the Northern Mariana Islands shall not exceed—
 
-      * (i) except as provided in clause (ii), the sum of the amount provided in this subsection for the preceding fiscal year increased by the percentage increase referred to in subparagraph (A), rounded to the nearest $10,000; and
+      * (i) except as provided in clause (ii), the sum of the amount provided in this subsection for the preceding fiscal year increased by the percentage increase referred to in subparagraph (A), rounded to the nearest $10,000;
 
-      * (ii) for each of fiscal years 2020 through 2021, $60,000,000; and
+      * (ii) for fiscal year 2020, $63,100,000; and
+
+      * (iii) for fiscal year 2021, $62,325,000; and
+
 
     * (E) American Samoa shall not exceed—
 
-      * (i) except as provided in clause (ii), the sum of the amount provided in this subsection for the preceding fiscal year increased by the percentage increase referred to in subparagraph (A), rounded to the nearest $10,000; and
+      * (i) except as provided in clause (ii), the sum of the amount provided in this subsection for the preceding fiscal year increased by the percentage increase referred to in subparagraph (A), rounded to the nearest $10,000;
 
-      * (ii) for each of fiscal years 2020 through 2021, $84,000,000.
+      * (ii) for fiscal year 2020, $86,325,000; and
+
+      * (iii) for fiscal year 2021, $85,550,000.
 
 
 * For each fiscal year after fiscal year 2021, the total amount certified for Puerto Rico, the Virgin Islands, Guam, the Northern Mariana Islands, and American Samoa under subsection (f) and this subsection for the fiscal year shall be determined as if the preceding subparagraphs were applied to each of fiscal years 2020 through 2021 without regard to clause (ii) of each such subparagraph.
@@ -139,7 +151,11 @@
 * Such amounts shall not be taken into account in applying paragraph (2) for fiscal year 2007 but shall be taken into account in applying such paragraph for fiscal year 2008 and subsequent fiscal years.
 
 * #### (4) Exclusion of certain expenditures from payment limits
-  * With respect to fiscal years beginning with fiscal year 2009, if Puerto Rico, the Virgin Islands, Guam, the Northern Mariana Islands, or American Samoa qualify for a payment under subparagraph (A)(i), (B), or (F) of section 1396b(a)(3) of this title for a calendar quarter of such fiscal year, and with respect to fiscal years beginning with fiscal year 2017, if Puerto Rico qualifies for a payment under section 1396b(a)(6) of this title for a calendar quarter (beginning on or after July 1, 2017) of such fiscal year, and with respect to fiscal years beginning with fiscal year 2018, if the Virgin Islands qualifies for a payment under section 1396b(a)(6) of this title for a calendar quarter (beginning on or after January 1, 2018) of such fiscal year, the payment shall not be taken into account in applying subsection (f) (as increased in accordance with paragraphs (1), (2), (3), and (4) of this subsection) to such commonwealth or territory for such fiscal year.
+  * #### (A) In general
+    * With respect to fiscal years beginning with fiscal year 2009, if Puerto Rico, the Virgin Islands, Guam, the Northern Mariana Islands, or American Samoa qualify for a payment under subparagraph (A)(i), (B), or (F) of section 1396b(a)(3) of this title for a calendar quarter of such fiscal year, and with respect to fiscal years beginning with fiscal year 2017, if Puerto Rico qualifies for a payment under section 1396b(a)(6) of this title for a calendar quarter (beginning on or after July 1, 2017) of such fiscal year, and with respect to fiscal years beginning with fiscal year 2018, if the Virgin Islands qualifies for a payment under section 1396b(a)(6) of this title for a calendar quarter (beginning on or after January 1, 2018) of such fiscal year, the payment shall not be taken into account in applying subsection (f) (as increased in accordance with paragraphs (1), (2), (3), and (4) of this subsection) to such commonwealth or territory for such fiscal year.
+
+  * #### (B) Additional exemption
+    * Payments under section 1396b of this title for medical assistance consisting of routine patient costs (as defined in section 1396d(gg)(1) of this title) shall not be taken into account in applying subsection (f).
 
 * #### (5) Additional increase
   * (A) Subject to subparagraphs (B), (C), (D), (E), and (F), the Secretary shall increase the amounts otherwise determined under this subsection for Puerto Rico, the Virgin Islands, Guam, the Northern Mariana Islands, and American Samoa (after the application of subsection (f) and the preceding paragraphs of this subsection) for the period beginning July 1, 2011, and ending on September 30, 2019, by such amounts that the total additional payments under subchapter XIX to such territories equals $6,300,000,000 for such period. The Secretary shall increase such amounts in proportion to the amounts applicable to such territories under this subsection and subsection (f) on March 30, 2010.
@@ -180,9 +196,9 @@
   * #### (A) In general
     * Subject to subparagraph (B), the amount specified in this paragraph is—
 
-      * (i) for fiscal year 2020, $2,623,188,000; and
+      * (i) for fiscal year 2020, $2,716,188,000; and
 
-      * (ii) for fiscal year 2021, $2,719,072,000.
+      * (ii) for fiscal year 2021, $2,809,063,000.
 
   * #### (B) Additional increase for Puerto Rico
     * #### (i) In general
@@ -275,3 +291,6 @@
 
     * #### (ii) Specified territory
       * The term "specified territory" means Puerto Rico, the Virgin Islands, Guam, the Northern Mariana Islands, and American Samoa.
+
+#### (h) Exclusion of medical assistance expenditures for citizens of freely associated states
+* Expenditures for medical assistance provided to an individual described in section 1641(b)(8) of title 8 shall not be taken into account for purposes of applying payment limits under subsections (f) and (g).

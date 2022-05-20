@@ -16,7 +16,7 @@
 
 * (3) Original appointments under this section in the grades of ensign through lieutenant shall be made by the President alone.
 
-* (b) No person shall be appointed a commissioned officer under this section until his mental, moral, physical, and professional fitness to perform the duties of a commissioned officer has been established under such regulations as the Secretary shall prescribe.
+* (b) No individual shall be appointed a commissioned officer under this section until his mental, moral, physical, and professional fitness to perform the duties of a commissioned officer has been established under such regulations as the Secretary shall prescribe.
 
 * (c) Appointees under this section shall take precedence in the grade to which appointed in accordance with the dates of their commissions as commissioned officers in such grade. Appointees whose dates of commission are the same shall take precedence with each other as the Secretary shall determine.
 
@@ -27,7 +27,7 @@
 
 * (b) Officers shall be carried on the active duty promotion list in the order of seniority of the grades in which they are serving. Officers serving in the same grade shall be carried in the order of their seniority in that grade. The Secretary may correct any erroneous position on the active duty promotion list that was caused by administrative error.
 
-* (c) A person appointed in the grade of ensign or above in the Regular Coast Guard shall be placed on the active duty promotion list in the order of his date of rank and seniority.
+* (c) An individual appointed in the grade of ensign or above in the Regular Coast Guard shall be placed on the active duty promotion list in the order of his date of rank and seniority.
 
 * (d) A Reserve officer, other than one excluded by subsection (a), shall, when he enters on active duty, be placed on the active duty promotion list in accordance with his grade and seniority. The position of such a Reserve officer among other officers of the Coast Guard on active duty who have the same date of rank shall be determined by the Secretary.
 
@@ -53,7 +53,7 @@
 
   * (2) ROUNDING FRACTIONS.—Subject to subsection (a), in making the computations under paragraph (1), any fraction shall be rounded to the nearest whole number.
 
-  * (3) TREATMENT OF OFFICERS SERVING OUTSIDE COAST GUARD.—The number of commissioned officers on the active duty promotion list below the rank of rear admiral (lower half) serving with other Federal departments or agencies on a reimbursable basis or excluded under section 324(d) of title 49 shall not be counted against the total number of commissioned officers authorized to serve in each grade.
+  * (3) TREATMENT OF OFFICERS SERVING OUTSIDE COAST GUARD.—The number of commissioned officers on the active duty promotion list below the rank of vice admiral serving with other Federal departments or agencies on a reimbursable basis or excluded under section 324(d) of title 49 shall not be counted against the total number of commissioned officers authorized to serve in each grade.
 
 
 * (d) USE OF NUMBERS; TEMPORARY INCREASES.—The numbers resulting from computations under subsection (c) shall be, for all purposes, the authorized number in each grade; except that the authorized number for a grade is temporarily increased during the period between one computation and the next by the number of officers originally appointed in that grade during that period and the number of officers of that grade for whom vacancies exist in the next higher grade but whose promotion has been delayed for any reason.
@@ -68,7 +68,7 @@
   * (2) in the Coast Guard Reserve in a grade, not above lieutenant, appropriate to their qualifications, experience, and length of service, as the needs of the Coast Guard may require, from among the commissioned warrant officers of the Coast Guard Reserve.
 
 
-* (b) Temporary appointments under this section do not change the permanent, probationary, or acting status of persons so appointed, prejudice them in regard to promotion or appointment, or abridge their rights or benefits. A person who is appointed under this section may not suffer any reduction in the rate of pay and allowances to which he would have been entitled had he remained in his former grade and continued to receive the increases in pay and allowances authorized for that grade.
+* (b) Temporary appointments under this section do not change the permanent, probationary, or acting status of individuals so appointed, prejudice them in regard to promotion or appointment, or abridge their rights or benefits. An individual who is appointed under this section may not suffer any reduction in the rate of pay and allowances to which he would have been entitled had he remained in his former grade and continued to receive the increases in pay and allowances authorized for that grade.
 
 * (c) An appointment under this section, or a subsequent promotion appointment of a temporary officer, may be vacated by the appointing officer at any time. Each officer whose appointment is so vacated shall revert to his permanent status.
 
@@ -88,7 +88,7 @@
 ### §2108. Selection boards; notice of convening; communication with board
 * (a) Before a board is convened under section 2106 of this title, notice of the convening date, the promotion zone to be considered, and the officers eligible for consideration shall be given to the service at large.
 
-* (b) Each officer eligible for consideration by a selection board convened under section 2106 of this title may send a communication through official channels to the board, to arrive not later than the date the board convenes, inviting attention to any matter of record in the armed forces concerning himself. A communication sent under this section may not criticize any officer or reflect upon the character, conduct, or motive of any officer.
+* (b) Each officer eligible for consideration by a selection board convened under section 2106 of this title may send a communication through official channels to the board, to arrive not later than the date the board convenes, inviting attention to any matter of record in the armed forces concerning such officer. A communication sent under this section may not criticize any officer or reflect upon the character, conduct, or motive of any officer.
 
 ### §2109. Selection boards; oath of members
 * Each member of a selection board shall swear—
@@ -146,6 +146,16 @@
 
 * (f) The Secretary may waive subsection (a) to the extent necessary to allow officers described therein to have at least two opportunities for consideration for promotion to the next higher grade as officers below the promotion zone.
 
+* (g)(1) Notwithstanding subsection (a), the Commandant may provide that an officer may, upon the officer's request and with the approval of the Commandant, be excluded from consideration by a selection board convened under section 2106.
+
+* (2) The Commandant shall approve a request under paragraph (1) only if—
+
+  * (A) the basis for the request is to allow the officer to complete a broadening assignment, advanced education, another assignment of significant value to the Coast Guard, a career progression requirement delayed by the assignment or education, or a qualifying personal or professional circumstance, as determined by the Commandant;
+
+  * (B) the Commandant determines the exclusion from consideration is in the best interest of the Coast Guard; and
+
+  * (C) the officer has not previously failed of selection for promotion to the grade for which the officer requests the exclusion from consideration.
+
 ### §2114. United States Deputy Marshals in Alaska
 * Commissioned officers may be appointed as United States Deputy Marshals in Alaska.
 
@@ -200,7 +210,7 @@
 
 * (c) Upon approval by the President the names of officers selected for promotion by a board convened under section 2106 of this title shall be promptly disseminated to the service at large.
 
-* (d) Except as required by this section, the proceedings of a selection board, including a special selection board convened under section 2120, shall not be disclosed to any person not a member of the board.
+* (d) Except as required by this section, the proceedings of a selection board, including a special selection board convened under section 2120, shall not be disclosed to any individual who is not a member of the board.
 
 ### §2119. Failure of selection for promotion
 * An officer, other than an officer serving in the grade of captain, who is, or is senior to, the junior officer in the promotion zone established for his grade under section 2111 of this title, fails of selection if he is not selected for promotion by the selection board which considered him, or if having been recommended for promotion by the board, his name is thereafter removed from the report of the board by the President.
@@ -349,3 +359,119 @@
 * (a) An aviation cadet designated under section 2317 who fulfills the eligibility requirements of section 2003 of title 10 for designation as a naval aviator may be appointed an ensign in the Coast Guard Reserve and designated a Coast Guard aviator.
 
 * (b) Aviation cadets who complete their training at approximately the same time are considered for all purposes to have begun their commissioned service on the same date, and the decision of the Secretary in this regard is conclusive.
+
+### §2130. Promotion to certain grades for officers with critical skills: captain, commander, lieutenant commander, lieutenant
+* (a) IN GENERAL.—An officer in the grade of lieutenant (junior grade), lieutenant, lieutenant commander, or commander who is described in subsection (b) may be temporarily promoted to the grade of lieutenant, lieutenant commander, commander, or captain under regulations prescribed by the Secretary. Appointments under this section shall be made by the President, by and with the advice and consent of the Senate.
+
+* (b) COVERED OFFICERS.—An officer described in this subsection is any officer in a grade specified in subsection (a) who—
+
+  * (1) has a skill in which the Coast Guard has a critical shortage of personnel (as determined by the Secretary); and
+
+  * (2) is serving in a position (as determined by the Secretary) that—
+
+    * (A) is designated to be held by a lieutenant, lieutenant commander, commander, or captain; and
+
+    * (B) requires that an officer serving in such position have the skill possessed by such officer.
+
+
+* (c) PRESERVATION OF POSITION AND STATUS OF OFFICERS APPOINTED.—
+
+  * (1) The temporary positions authorized under this section shall not be counted among or included in the list of positions on the active duty promotion list.
+
+  * (2) An appointment under this section does not change the position on the active duty list or the permanent, probationary, or acting status of the officer so appointed, prejudice the officer in regard to other promotions or appointments, or abridge the rights or benefits of the officer.
+
+
+* (d) BOARD RECOMMENDATION REQUIRED.—A temporary promotion under this section may be made only upon the recommendation of a board of officers convened by the Secretary for the purpose of recommending officers for such promotions.
+
+* (e) ACCEPTANCE AND EFFECTIVE DATE OF APPOINTMENT.—Each appointment under this section, unless expressly declined, is, without formal acceptance, regarded as accepted on the date such appointment is made, and a member so appointed is entitled to the pay and allowances of the grade of the temporary promotion under this section beginning on the date the appointment is made.
+
+* (f) TERMINATION OF APPOINTMENT.—Unless sooner terminated, an appointment under this section terminates—
+
+  * (1) on the date the officer who received the appointment is promoted to the permanent grade of lieutenant, lieutenant commander, commander, or captain;
+
+  * (2) on the date the officer is detached from a position described in subsection (b)(2), unless the officer is on a promotion list to the permanent grade of lieutenant, lieutenant commander, commander, or captain, in which case the appointment terminates on the date the officer is promoted to that grade;
+
+  * (3) when the appointment officer determines that the officer who received the appointment has engaged in misconduct or has displayed substandard performance; or
+
+  * (4) when otherwise determined by the Commandant to be in the best interests of the Coast Guard.
+
+
+* (g) LIMITATION ON NUMBER OF ELIGIBLE POSITIONS.—An appointment under this section may only be made for service in a position designated by the Secretary for the purposes of this section. The number of positions so designated may not exceed the following percentages of the respective grades:
+
+  * (1) As lieutenant, 0.5 percent.
+
+  * (2) As lieutenant commander, 3.0 percent.
+
+  * (3) As commander, 2.6 percent.
+
+  * (4) As captain, 2.6 percent.
+
+### §2131. College student pre-commissioning initiative
+* (a) IN GENERAL.—There is authorized within the Coast Guard a college student pre-commissioning initiative program (in this section referred to as the "Program" ) for eligible undergraduate students to enlist and receive a guaranteed commission as an officer in the Coast Guard.
+
+* (b) CRITERIA FOR SELECTION.—To be eligible for the Program a student must meet the following requirements upon submitting an application:
+
+  * (1) AGE.—A student must be not less than 19 years old and not more than 27 years old as of September 30 of the fiscal year in which the Program selection panel selecting such student convenes.
+
+  * (2) CHARACTER.—
+
+    * (A) ALL APPLICANTS.—All applicants must be of outstanding moral character and meet other character requirements as set forth by the Commandant.
+
+    * (B) COAST GUARD APPLICANTS.—An applicant serving in the Coast Guard may not be commissioned if in the 36 months prior to the first Officer Candidate School class convening date in the selection cycle, such applicant was convicted by a court-martial or awarded nonjudicial punishment, or did not meet performance or character requirements set forth by the Commandant.
+
+
+  * (3) CITIZENSHIP.—A student must be a United States citizen.
+
+  * (4) CLEARANCE.—A student must be eligible for a secret clearance.
+
+  * (5) DEPENDENCY.—
+
+    * (A) IN GENERAL.—A student may not have more than 2 dependents.
+
+    * (B) SOLE CUSTODY.—A student who is single may not have sole or primary custody of dependents.
+
+
+  * (6) EDUCATION.—
+
+    * (A) INSTITUTION.—A student must be an undergraduate sophomore or junior—
+
+      * (i) at a historically Black college or university described in section 322(2) of the Higher Education Act of 1965 (20 U.S.C. 1061(2)) or an institution of higher education described in section 371(a) of the Higher Education Act of 1965 (20 U.S.C. 1067q(a)); or
+
+      * (ii) an undergraduate sophomore or junior enrolled at an institution of higher education (as defined in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001)) that, at the time of application of the sophomore or junior, has had for 3 consecutive years an enrollment of undergraduate full-time equivalent students (as defined in section 312(e) of such Act (20 U.S.C. 1058(e))) that is a total of at least 50 percent Black American, Hispanic, Asian American (as defined in section 371(c) of such Act (20 U.S.C. 1067q(c))), Native American Pacific Islander (as defined in such section), or Native American (as defined in such section), among other criteria, as determined by the Commandant.
+
+
+    * (B) LOCATION.—The institution at which such student is an undergraduate must be within 100 miles of a Coast guard unit or Coast Guard Recruiting Office unless otherwise approved by the Commandant.
+
+    * (C) RECORDS.—A student must meet credit and grade point average requirements set forth by the Commandant.
+
+
+  * (7) MEDICAL AND ADMINISTRATIVE.—A student must meet other medical and administrative requirements as set forth by the Commandant.
+
+
+* (c) ENLISTMENT AND OBLIGATION.—Individuals selected and accept to participate in the Program shall enlist in the Coast Guard in pay grade E–3 with a 4-year duty obligation and 4-year inactive Reserve obligation.
+
+* (d) MILITARY ACTIVITIES PRIOR TO OFFICER CANDIDATE SCHOOL.—Individuals enrolled in the Program shall participate in military activities each month, as required by the Commandant, prior to attending Officer Candidate School.
+
+* (e) PARTICIPATION IN OFFICER CANDIDATE SCHOOL.—Each graduate of the Program shall attend the first enrollment of Officer Candidate School that commences after the date of such graduate's graduation.
+
+* (f) COMMISSIONING.—Upon graduation from Officer Candidate School, Program graduates shall be discharged from enlisted status and commissioned as an O–1 with an initial 3-year duty obligation.
+
+* (g) BRIEFING.—
+
+  * (1) IN GENERAL.—Not later than August 15 of each year, the Commandant shall provide a briefing to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on the Program.
+
+  * (2) CONTENTS.—The briefing required under paragraph (1) shall describe—
+
+    * (A) outreach and recruitment efforts over the previous year; and
+
+    * (B) demographic information of enrollees including—
+
+      * (i) race;
+
+      * (ii) ethnicity;
+
+      * (iii) gender;
+
+      * (iv) geographic origin; and
+
+      * (v) educational institution.

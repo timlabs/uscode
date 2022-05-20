@@ -1144,11 +1144,37 @@
 
     * (B) The terms "prepare" and "preparedness" mean the actions taken to plan, organize, equip, train, and exercise to build and sustain the capabilities necessary to prevent, protect against, mitigate the effects of, respond to, and recover from those threats that pose the greatest risk to the security of the homeland, including the prediction and notification of impending EMPs and GMDs.
 
-    * (C) The term "Sector-Specific Agency" has the meaning given that term in section 651 of this title.
+    * (C) The term "Sector Risk Management Agency" has the meaning given that term in section 651 of this title.
 
 #### (e) Rule of construction
 * Nothing in this section may be construe—
 
-  * (1) to affect in any manner the authority of the executive branch to implement Executive Order 13865, dated March 26, 2019, and entitled "Coordinating National Resilience to Electromagnetic Pulses", or any other authority existing on the day before December 20, 2019, of any other component of the Department or any other Federal department or agency, including the authority provided to the Sector-Specific Agency specified in section 61003(c) of division F of the Fixing America's Surface Transportation Act (6 U.S.C. 121 note), including the authority under section 824o of title 16, and including the authority of independent agencies to be independent; or
+  * (1) to affect in any manner the authority of the executive branch to implement Executive Order 13865, dated March 26, 2019, and entitled "Coordinating National Resilience to Electromagnetic Pulses", or any other authority existing on the day before December 20, 2019, of any other component of the Department or any other Federal department or agency, including the authority provided to the Sector Risk Management Agency specified in section 61003(c) of division F of the Fixing America's Surface Transportation Act (6 U.S.C. 121 note), including the authority under section 824o of title 16, and including the authority of independent agencies to be independent; or
 
-  * (2) as diminishing or transferring any authorities vested in the Administrator of the Federal Emergency Management Agency or in the Agency prior to the date of the enactment of this subsection.
+  * (2) as diminishing or transferring any authorities vested in the Administrator of the Federal Emergency Management Agency or in the Agency prior to December 20, 2019.
+
+### §195g. Countering Unmanned Aircraft Systems Coordinator
+#### (a) Coordinator
+* #### (1) In general
+  * The Secretary shall designate an individual in a Senior Executive Service position (as defined in section 3132 of title 5) of the Department within the Office of Strategy, Policy, and Plans as the Countering Unmanned Aircraft Systems Coordinator (in this section referred to as the "Coordinator") and provide appropriate staff to carry out the responsibilities of the Coordinator.
+
+* #### (2) Responsibilities
+  * The Coordinator shall—
+
+    * (A) oversee and coordinate with relevant Department offices and components, including the Office of Civil Rights and Civil Liberties and the Privacy Office, on the development of guidance and regulations to counter threats associated with unmanned aircraft systems (in this section referred to as "UAS") as described in section 124n of this title;
+
+    * (B) promote research and development of counter UAS technologies in coordination within the Science and Technology Directorate;
+
+    * (C) coordinate with the relevant components and offices of the Department, including the Office of Intelligence and Analysis, to ensure the sharing of information, guidance, and intelligence relating to countering UAS threats, counter UAS threat assessments, and counter UAS technology, including the retention of UAS and counter UAS incidents within the Department;
+
+    * (D) serve as the Department liaison, in coordination with relevant components and offices of the Department, to the Department of Defense, Federal, State, local, and Tribal law enforcement entities, and the private sector regarding the activities of the Department relating to countering UAS;
+
+    * (E) maintain the information required under section 124n(g)(3) of this title; and
+
+    * (F) carry out other related counter UAS authorities and activities under section 124n of this title, as directed by the Secretary.
+
+#### (b) Coordination with applicable Federal laws
+* The Coordinator shall, in addition to other assigned duties, coordinate with relevant Department components and offices to ensure testing, evaluation, or deployment of a system used to identify, assess, or defeat a UAS is carried out in accordance with applicable Federal laws.
+
+#### (c) Coordination with private sector
+* The Coordinator shall, among other assigned duties, working with the Office of Partnership and Engagement and other relevant Department offices and components, or other Federal agencies, as appropriate, serve as the principal Department official responsible for sharing to the private sector information regarding counter UAS technology, particularly information regarding instances in which counter UAS technology may impact lawful private sector services or systems.

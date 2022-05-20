@@ -345,3 +345,82 @@
 
 ### §1476a. Unsworn written statements subject to penalties of presenting false claims
 * Unsworn written statements made in public land matters within the jurisdiction of the Department of the Interior shall remain subject to section 1001 of title 18.
+
+### §1477. Snow water supply forecasting
+#### (a) Short title
+* This section may be cited as the "Snow Water Supply Forecasting Program Authorization Act".
+
+#### (b) Definition of program
+* In this section, the term "program" means the Snow Water Supply Forecasting Program established by subsection (c).
+
+#### (c) Snow Water Supply Forecasting Program
+* #### (1) Program establishment
+  * The Snow Water Supply Forecasting Program is hereby established within the Department of the Interior.
+
+* #### (2) Program implementation
+  * To implement the program, the Secretary shall—
+
+    * (A) develop the program framework in coordination with other Federal agencies pursuant to subsection (d), culminating in the report required under subsection (d)(3); and
+
+    * (B) after submitting the report required by subsection (d)(3), implement activities to improve snowpack measurement in particular watersheds pursuant to subsection (e).
+
+#### (d) Development of program framework in coordination with other Federal agencies
+* #### (1) Snowpack measurement data
+  * When determining water supply forecasts or allocations to Federal water contractors, the Secretary, acting through the Commissioner of the Bureau of Reclamation, shall incorporate, to the greatest extent practicable, information from emerging technologies for snowpack measurement, such as—
+
+    * (A) synthetic aperture radar;
+
+    * (B) laser altimetry; and
+
+    * (C) other emerging technologies that the Secretary determines are likely to provide more accurate or timely snowpack measurement data.
+
+* #### (2) Coordination
+  * In carrying out paragraph (1), the Secretary shall coordinate data use and collection efforts with other Federal agencies that use or may benefit from the use of emerging technologies for snowpack measurement.
+
+* #### (3) Emerging technologies report
+  * Not later than October 1, 2021, the Secretary shall submit to Congress a report that—
+
+    * (A) summarizes the use of emerging technologies pursuant to this section;
+
+    * (B) describes benefits derived from the use of technologies summarized under subparagraph (A) related to the environment and increased water supply reliability; and
+
+    * (C) describes how Federal agencies will coordinate to implement emerging technologies.
+
+#### (e) Program implementation
+* #### (1) Activities implementing framework
+  * After submitting the report required under subsection (d)(3), the Secretary shall participate with program partners in implementing activities to improve snowpack measurement in particular watersheds.
+
+* #### (2) Focus
+  * The program shall focus on activities that will maintain, establish, expand, or advance snowpack measurement consistent with the report required by subsection (d)(3), with an emphasis on—
+
+    * (A) enhancing activities in river basins to achieve improved snow and water supply forecasting results;
+
+    * (B) activities in river basins where snow water supply forecasting related activities described in this section are not occurring on December 27, 2020; and
+
+    * (C) demonstrating or testing new, or improving existing, snow and water supply forecasting technology.
+
+* #### (3) Information sharing
+  * The Secretary may provide information collected and analyzed under this section to program partners through appropriate mechanisms, including interagency agreements with Federal agencies, States, State agencies, or a combination thereof, leases, contracts, cooperative agreements, grants, loans, and memoranda of understanding.
+
+* #### (4) Program partners
+  * Program partners with whom the Secretary enters into cooperative agreements pursuant to paragraph (5) may include water districts, irrigation districts, water associations, universities, State agencies, other Federal agencies, private sector entities, non-governmental organizations, and other entities, as determined by the Secretary.
+
+* #### (5) Cooperative agreements
+  * The Secretary may—
+
+    * (A) enter into cooperative agreements with program partners to allow the program to be administered efficiently and cost effectively through cost-sharing or by providing additional in-kind resources necessary for program implementation; and
+
+    * (B) provide nonreimbursable matching funding for programmatic and operational activities under this section in consultation with program partners.
+
+* #### (6) Environmental laws
+  * Nothing in this section shall modify any obligation of the Secretary to comply with applicable Federal and State environmental laws in carrying out this section.
+
+#### (f) Program implementation report
+* Not later than 4 years after December 27, 2020, the Secretary shall submit a report to the Committee on Natural Resources and the Committee on Appropriations of the House of Representatives and the Committee on Energy and Natural Resources and the Committee on Appropriations of the Senate, that includes—
+
+  * (1) a list of basins and sub-basins for which snowpack measurement technologies are being used under the program, including a description of each technology used; and
+
+  * (2) a list of Federal agencies and program partners participating in each basin or sub-basin listed in paragraph (1).
+
+#### (g) Authorization of appropriations
+* There is authorized to be appropriated to the Secretary to carry out this section $15,000,000, in the aggregate, for fiscal years 2022 through 2026.

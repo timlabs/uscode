@@ -321,12 +321,8 @@
 
 * The person asserting lack of knowledge of the commencement of a formal investigation has the burden of proof in establishing such lack of knowledge. For purposes of this section, a formal investigation of a violation is considered to be commenced with regard to the disclosing party and the disclosed information on the date recorded in writing by the Customs Service as the date on which facts and circumstances were discovered or information was received which caused the Customs Service to believe that a possibility of a violation of subsection (a) existed.
 
-* #### (5) Prior disclosure regarding NAFTA claims
-  * An importer shall not be subject to penalties under subsection (a) for making an incorrect claim for preferential tariff treatment under section 3332 of this title if the importer—
-
-    * (A) has reason to believe that the NAFTA Certificate of Origin (as defined in section 1508(b)(1) of this title) on which the claim was based contains incorrect information; and
-
-    * (B) in accordance with regulations issued by the Secretary, voluntarily and promptly makes a corrected declaration and pays any duties owing.
+* #### (5) Prior disclosure regarding claims under the USMCA
+  * An importer shall not be subject to penalties under subsection (a) for making an incorrect claim that a good qualifies as an originating good under section 4531 of this title if the importer, in accordance with regulations prescribed by the Secretary of the Treasury, promptly makes a corrected declaration and pays any duties owing with respect to that good.
 
 * #### (6) Prior disclosure regarding claims under the United States-Chile Free Trade Agreement
   * An importer shall not be subject to penalties under subsection (a) for making an incorrect claim that a good qualifies as an originating good under section 202 of the United States-Chile Free Trade Agreement Implementation Act if the importer, in accordance with regulations issued by the Secretary of the Treasury, voluntarily makes a corrected declaration and pays any duties owing.
@@ -375,23 +371,19 @@
 
   * (4) if the monetary penalty is based on negligence, the United States shall have the burden of proof to establish the act or omission constituting the violation, and the alleged violator shall have the burden of proof that the act or omission did not occur as a result of negligence.
 
-#### (f) False certifications regarding exports to NAFTA countries
+#### (f) False certifications of origin under the USMCA
 * #### (1) In general
-  * Subject to paragraph (3), it is unlawful for any person to certify falsely, by fraud, gross negligence, or negligence, in a NAFTA Certificate of Origin (as defined in section 1508(b)(1) of this title) that a good to be exported to a NAFTA country (as defined in section 3301(4) of this title) qualifies under the rules of origin set out in section 3332 of this title.
+  * Subject to paragraph (2), it is unlawful for any person to certify falsely, by fraud, gross negligence, or negligence, in a USMCA certification of origin (as such term is defined in section 1508 of this title) that a good exported from the United States qualifies as an originating good under the rules of origin provided for in section 4531 of this title. The procedures and penalties of this section that apply to a violation of subsection (a) also apply to a violation of this subsection.
 
-* #### (2) Applicable provisions
-  * The procedures and penalties of this section that apply to a violation of subsection (a) also apply to a violation of paragraph (1), except that—
-
-    * (A) subsection (d) does not apply, and
-
-    * (B) subsection (c)(5) applies only if the person voluntarily and promptly provides, to all persons to whom the person provided the NAFTA Certificate of Origin, written notice of the falsity of the Certificate.
+* #### (2) Prompt and voluntary disclosure of incorrect information
+  * No penalty shall be imposed under this subsection if, promptly after an exporter or producer that issued a USMCA certification of origin has reason to believe that such certification contains or is based on incorrect information, the exporter or producer voluntarily provides written notice of such incorrect information to every person to whom the certification was issued.
 
 * #### (3) Exception
-  * A person may not be considered to have violated paragraph (1) if—
+  * A person shall not be considered to have violated paragraph (1) if—
 
-    * (A) the information was correct at the time it was provided in a NAFTA Certificate of Origin but was later rendered incorrect due to a change in circumstances; and
+    * (A) the information was correct at the time it was provided in a USMCA certification of origin but was later rendered incorrect due to a change in circumstances; and
 
-    * (B) the person voluntarily and promptly provides written notice of the change to all persons to whom the person provided the Certificate of Origin.
+    * (B) the person promptly and voluntarily provides written notice of the change in circumstances to all persons to whom the person provided the certification.
 
 #### (g) False certifications of origin under the United States-Chile Free Trade Agreement
 * #### (1) In general
@@ -833,7 +825,7 @@
 ### §1606. Seizure; appraisement
 * The appropriate customs officer shall determine the domestic value, at the time and place of appraisement, of any vessel, vehicle, aircraft, merchandise, or baggage seized under the customs laws.
 
-### §1607. Seizure; value $500,000 or less, prohibited articles, transporting conveyances
+### §1607. Seizure; value $500,000 or less, prohibited merchandise, transporting conveyances
 #### (a) Notice of seizure
 * If—
 
@@ -1228,12 +1220,16 @@
 
 * (2) No information may be provided under subsection (a) to any foreign customs or law enforcement agency that has violated any assurances described in paragraph (1).
 
-#### (c) Government agency of NAFTA country
-* The Secretary may authorize the Customs Service to exchange information with any government agency of a NAFTA country, as defined in section 3301(4) of this title, if the Secretary—
+#### (c) Government agency of USMCA country
+* #### (1) In general
+  * The Secretary may authorize U.S. Customs and Border Protection to exchange information with any government agency of a USMCA country, if the Secretary—
 
-  * (1) reasonably believes the exchange of information is necessary to implement chapter 3, 4, or 5 of the North American Free Trade Agreement, and
+    * (A) reasonably believes the exchange of information is necessary to implement chapter 2, 4, 5, 6, or 7 of the USMCA; and
 
-  * (2) obtains assurances from such country that the information will be held in confidence and used only for governmental purposes.
+    * (B) obtains assurances from such agency that the information will be held in confidence and used only for governmental purposes.
+
+* #### (2) Definitions
+  * In this subsection, the terms "USMCA" and "USMCA country" have the meanings given those terms in section 4502 of this title.
 
 ### §1628a. Exchange of information related to trade enforcement
 #### (a) In general

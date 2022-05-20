@@ -3198,16 +3198,20 @@
 ### §1098h. Procedure and requirements for requesting tax return information from the Internal Revenue Service
 #### (a) Notification and approval requirements
 * #### (1) Federal student financial aid
-  * In the case of any written or electronic application under section 1090 of this title by an individual for Federal student financial aid under a program authorized under subpart 1 of part A, part C, or part D, the Secretary, with respect to such individual and any parent or spouse whose financial information is required to be provided on such application, shall—
+  * In the case of any written or electronic application under section 1090 of this title by an individual for Federal student financial aid under a program authorized under subpart 1 of part A, part C, or part D, the Secretary, with respect to such individual and any parent or spouse whose financial information, including return information, is required to be provided on such application, shall—
 
     * (A) notify such individuals that—
 
-      * (i) if such individuals provide approval under subparagraph (B), the Secretary will have the authority to request that the Secretary of the Treasury disclose return information of such individuals to authorized persons (as defined in section 6103(l)(13) of title 26) for the relevant purposes described in such section; and
+      * (i) if such individuals provide approval under subparagraph (B)—
 
-      * (ii) the failure to provide such approval for such disclosure will result in the Secretary being unable to calculate eligibility for such aid to such individual; and
+        * (I) the Secretary will have the authority to request that the Secretary of the Treasury disclose return information of such individuals to authorized persons (as defined in section 6103(l)(13) of title 26) for the relevant purposes described in such section; and
+
+        * (II) the return information of such individuals may be redisclosed pursuant to clauses (iii), (iv), (v), and (vi) of section 6103(l)(13)(D) of the Internal Revenue Code of 1986, for the relevant purposes described in such section; and
+
+      * (ii) the failure to provide such approval for the disclosures described in subclauses (I) and (II) of clause (i) will result in the Secretary being unable to calculate eligibility for such aid to such individual; and
 
 
-    * (B) require, as a condition of eligibility for such aid, that such individuals affirmatively approve the disclosure described in subparagraph (A)(i).
+    * (B) require, as a condition of eligibility for such aid, that such individuals affirmatively approve the disclosures described in subclauses (I) and (II) of subparagraph (A)(i).
 
 * #### (2) Income-contingent and income-based repayment
   * #### (A) New applicants
@@ -3217,7 +3221,7 @@
 
       * (ii) require, as a condition of eligibility for such repayment plan, that such individuals—
 
-        * (I) affirmatively approve the disclosure described in paragraph (1)(A)(i) and agree that such approval shall serve as an ongoing approval of such disclosure until the date on which the individual elects to opt out of such disclosure under section 1087e(e)(8) of this title or the equivalent procedures established under section 1098e(c)(2)(B) of this title, as applicable; or
+        * (I) affirmatively approve the disclosures described in subclauses (I) and (II) of paragraph (1)(A)(i), to the extent applicable, and agree that such approval shall serve as an ongoing approval of such disclosures until the date on which the individual elects to opt out of such disclosures under section 1087e(e)(8) of this title or the equivalent procedures established under section 1098e(c)(2)(B) of this title, as applicable; or
 
         * (II) provide such information as the Secretary may require to confirm the eligibility of such individual for such repayment plan.
 
@@ -3227,11 +3231,11 @@
 * #### (3) Total and permanent disability
   * In the case of any written or electronic application by an individual for a discharge of a loan under this subchapter based on total and permanent disability (within the meaning of section 1087(a) of this title) that requires income monitoring, the Secretary shall—
 
-    * (A) provide to such individual the notification described in paragraph (1)(A)(i); and
+    * (A) provide to such individual the notification described in paragraph (1)(A)(i)(I); and
 
     * (B) require, as a condition of eligibility for such discharge, that such individual—
 
-      * (i) affirmatively approve the disclosure described in paragraph (1)(A)(i) and agree that such approval shall serve as an ongoing approval of such disclosure until the earlier of—
+      * (i) affirmatively approve the disclosure described in paragraph (1)(A)(i)(I) and agree that such approval shall serve as an ongoing approval of such disclosure until the earlier of—
 
         * (I) the date on which the individual elects to opt out of such disclosure under section 1087(a)(3)(A) of this title; or
 
@@ -3242,3 +3246,44 @@
 
 #### (b) Limit on authority
 * The Secretary shall only have authority to request that the Secretary of the Treasury disclose return information under section 6103(l)(13) of title 26 with respect to an individual if the Secretary of Education has obtained approval under subsection (a) for such disclosure.
+
+#### (c) Access to FAFSA information
+* #### (1) Redisclosure of information
+  * The information in a complete, unredacted Student Aid Report (including any return information disclosed under section 6103(l)(13) of title 26 with respect to an application described in subsection (a)(1) of an applicant for Federal student financial aid—
+
+    * (A) upon request for such information by such applicant, shall be provided to such applicant by—
+
+      * (i) the Secretary; or
+
+      * (ii) in a case in which the Secretary has requested that institutions of higher education carry out the requirements of this subparagraph, an institution of higher education that has received such information; and
+
+
+    * (B) with the written consent by the applicant to an institution of higher education, may be provided by such institution of higher education as is necessary to a scholarship granting organization (including a tribal organization (defined in section 5304 of title 25, or to an organization assisting the applicant in applying for and receiving Federal, State, local, or tribal assistance, that is designated by the applicant to assist the applicant in applying for and receiving financial assistance for any component of the applicant's cost of attendance (defined in section 1087ll of this title) at that institution.
+
+* #### (2) Discussion of information
+  * A discussion of the information in an application described in subsection (a)(1) (including any return information disclosed under section 6103(l)(13) of title 26 of an applicant between an institution of higher education and the applicant may, with the written consent of the applicant, include an individual selected by the applicant (such as an advisor) to participate in such discussion.
+
+* #### (3) Restriction on disclosing information
+  * A person receiving information under paragraph (1)(B) or (2) with respect to an applicant shall not use the information for any purpose other than the express purpose for which consent was granted by the applicant and shall not disclose such information to any other person without the express permission of, or request by, the applicant.
+
+* #### (4) Definitions
+  * In this subsection:
+
+  * #### (A) Student Aid Report
+    * The term "Student Aid Report" has the meaning given the term in section 668.2 of title 34, Code of Federal Regulations (or successor regulations).
+
+  * #### (B) Written consent
+    * The term "written consent" means a separate, written document that is signed and dated (which may include by electronic format) by an applicant, which—
+
+      * (i) indicates that the information being disclosed includes return information disclosed under section 6103(l)(13) of title 26 with respect to the applicant;
+
+      * (ii) states the purpose for which the information is being disclosed; and
+
+      * (iii) states that the information may only be used for the specific purpose and no other purposes.
+
+* #### (5) Record keeping requirement
+  * An institution of higher education shall—
+
+    * (A) keep a record of each written consent made under this subsection for a period of at least 3 years from the date of the student's last date of attendance at the institution; and
+
+    * (B) make each such record readily available for review by the Secretary.

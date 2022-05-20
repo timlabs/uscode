@@ -260,7 +260,7 @@
 
     * (A) $5,000,000 for each of fiscal years 2018, 2019, and 2020;
 
-    * (B) $5,233,463 for fiscal year 2021;
+    * (B) $8,233,463 for fiscal year 2021;
 
     * (C) $5,300,000 for each of fiscal years 2022, 2023, 2024, and 2025;
 
@@ -375,7 +375,7 @@
 
   * (1) $300,000,000 for each of fiscal years 2018, 2019, and 2020;
 
-  * (2) $314,007,780 for fiscal year 2021;
+  * (2) $494,008,000 for fiscal year 2021;
 
   * (3) $318,000,000 for each of fiscal years 2022, 2023, 2024, and 2025;
 

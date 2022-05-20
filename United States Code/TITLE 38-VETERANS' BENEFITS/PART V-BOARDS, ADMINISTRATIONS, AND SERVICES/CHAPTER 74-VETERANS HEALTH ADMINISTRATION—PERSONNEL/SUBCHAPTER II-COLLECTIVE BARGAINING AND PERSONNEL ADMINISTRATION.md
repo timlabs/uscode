@@ -124,7 +124,9 @@
   * (8) Subchapter V of chapter 75 of title 5.
 
 
-* (b) Notwithstanding any other provision of law, no provision of title 5 or any other law pertaining to the civil service system which is inconsistent with any provision of section 7306 of this title or this chapter shall be considered to supersede, override, or otherwise modify such provision of that section or this chapter except to the extent that such provision of title 5 or of such other law specifically provides, by specific reference to a provision of this chapter, or such provision to be superseded, overridden, or otherwise modified.
+* (b) Except as provided in subsection (c), and notwithstanding any other provision of law, no provision of title 5 or any other law pertaining to the civil service system which is inconsistent with any provision of section 7306 of this title or this chapter shall be considered to supersede, override, or otherwise modify such provision of that section or this chapter except to the extent that such provision of title 5 or of such other law specifically provides, by specific reference to a provision of this chapter, or such provision to be superseded, overridden, or otherwise modified.
+
+* (c) Notwithstanding any other provision of this subchapter, the Administration shall provide to individuals appointed to any position described in section 7421(b) who are employed for compensation by the Administration, family and medical leave in the same manner and subject to the same limitations to the maximum extent practicable, as family and medical leave is provided under subchapter V of chapter 63 of title 5 to employees, as defined in section 6381(1) of such title.
 
 ### §7426. Retirement rights
 * (a) Except as provided in subsection (b), persons appointed to the Administration shall be subject to the provisions of and entitled to benefits under subchapter III of chapter 83 of title 5 or subchapter II of chapter 84 of title 5, whichever is applicable.

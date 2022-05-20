@@ -16,7 +16,7 @@
 ### §8252. Purpose
 * It is the purpose of this part to promote the conservation and the efficient use of energy and water, and the use of renewable energy sources, by the Federal Government.
 
-### §8253. Energy management requirements
+### §8253. Energy and water management requirements
 #### (a) Energy performance requirement for Federal buildings
 * (1) Subject to paragraph (2), each agency shall apply energy conservation measures to, and shall improve the design for the construction of, the Federal buildings of the agency (including each industrial or laboratory facility) so that the energy consumption per gross square foot of the Federal buildings of the agency in fiscal years 2006 through 2015 is reduced, as compared with the energy consumption per gross square foot of the Federal buildings of the agency in fiscal year 2003, by the percentage specified in the following table:
 
@@ -37,30 +37,40 @@
 
 * (3) Not later than December 31, 2014, the Secretary shall review the results of the implementation of the energy performance requirement established under paragraph (1) and submit to Congress recommendations concerning energy performance requirements for fiscal years 2016 through 2025.
 
-#### (b) Energy management requirement for Federal agencies
-* (1) Not later than January 1, 2005, each agency shall, to the maximum extent practicable, install in Federal buildings owned by the United States all energy and water conservation measures with payback periods of less than 10 years, as determined by using the methods and procedures developed pursuant to section 8254 of this title.
+#### (b) Energy and water management requirement for Federal agencies
+* #### (1) In general
+  * Each agency shall—
 
-* (2) The Secretary may waive the requirements of this subsection for any agency for such periods as the Secretary may determine if the Secretary finds that the agency is taking all practicable steps to meet the requirements and that the requirements of this subsection will pose an unacceptable burden upon the agency. If the Secretary waives the requirements of this subsection, the Secretary shall, as part of the report required under section 8258(b) of this title, notify the Congress in writing with an explanation and a justification of the reasons for such waiver.
+    * (A) not later than October 1, 2022, to the maximum extent practicable, begin installing in Federal buildings owned by the United States all energy and water conservation measures determined by the Secretary to be life cycle cost-effective (as defined in subsection (f)(1)); and
+
+    * (B) complete the installation described in subparagraph (A) as soon as practicable after the date referred to in that subparagraph.
+
+* #### (2) Explanation of noncompliance
+  * #### (A) In general
+    * If an agency fails to comply with paragraph (1), the agency shall submit to the Secretary, using guidelines developed by the Secretary, an explanation of the reasons for the failure.
+
+  * #### (B) Report to Congress
+    * Not later than January 1, 2022, and every 2 years thereafter, the Secretary shall submit to Congress a report that describes any noncompliance by an agency with the requirements of paragraph (1).
 
 * (3) This subsection shall not apply to an agency's facilities that generate or transmit electric energy or to the uranium enrichment facilities operated by the Department of Energy.
 
 * (4) An agency may participate in the Environmental Protection Agency's "Green Lights" program for purposes of receiving technical assistance in complying with the requirements of this section.
 
 #### (c) Exclusions
-* (1)(A) An agency may exclude, from the energy performance requirement for a fiscal year established under subsection (a) and the energy management requirement established under subsection (b), any Federal building or collection of Federal buildings, if the head of the agency finds that—
+* (1)(A) The head of each agency may exclude, from the energy or water performance requirement for a fiscal year established under subsection (a) and the energy or water management requirement established under subsection (b), any Federal building or collection of Federal buildings, if the head of the agency finds that—
 
   * (i) compliance with those requirements would be impracticable;
 
-  * (ii) the agency has completed and submitted all federally required energy management reports;
+  * (ii) the agency has completed and submitted all federally required energy or water management reports;
 
-  * (iii) the agency has achieved compliance with the energy efficiency requirements of this chapter, the Energy Policy Act of 1992, Executive orders, and other Federal law; and
+  * (iii) the agency has achieved compliance with the energy or water efficiency requirements of this chapter, the Energy Policy Act of 1992, Executive orders, and other Federal law; and
 
   * (iv) the agency has implemented all practicable, life cycle cost-effective projects with respect to the Federal building or collection of Federal buildings to be excluded.
 
 
 * (B) A finding of impracticability under subparagraph (A)(i) shall be based on—
 
-  * (i) the energy intensiveness of activities carried out in the Federal building or collection of Federal buildings; or
+  * (i) the energy or water intensiveness of activities carried out in the Federal building or collection of Federal buildings; or
 
   * (ii) the fact that the Federal building or collection of Federal buildings is used in the performance of a national security function.
 
@@ -83,7 +93,7 @@
     * (D) otherwise implement this part;
 
 
-  * (2) perform energy surveys of its Federal buildings to the extent necessary and update such surveys as needed, incorporating any relevant information obtained from the survey conducted pursuant to section 8258b of this title;
+  * (2) perform energy and water surveys of its Federal buildings to the extent necessary and update such surveys as needed, incorporating any relevant information obtained from the survey conducted pursuant to section 8258b of this title;
 
   * (3) using such surveys, determine the cost and payback period of energy and water conservation measures likely to achieve the requirements of this section;
 
@@ -91,13 +101,13 @@
 
   * (5) ensure that the operation and maintenance procedures applied under this section are continued.
 
-#### (e) Metering of energy use
+#### (e) Metering of energy and water use
 * #### (1) Deadline
-  * By October 1, 2012, in accordance with guidelines established by the Secretary under paragraph (2), all Federal buildings shall, for the purposes of efficient use of energy and reduction in the cost of electricity used in such buildings, be metered. Each agency shall use, to the maximum extent practicable, advanced meters or advanced metering devices that provide data at least daily and that measure at least hourly consumption of electricity in the Federal buildings of the agency. Not later than October 1, 2016, each agency shall provide for equivalent metering of natural gas and steam, in accordance with guidelines established by the Secretary under paragraph (2). Such data shall be incorporated into existing Federal energy tracking systems and made available to Federal facility managers.
+  * By October 1, 2022, in accordance with guidelines established by the Secretary under paragraph (2), all Federal buildings shall, for the purposes of efficient use of energy and water and reduction in the cost of electricity and water used in such buildings, be metered. Each agency shall use, to the maximum extent practicable, advanced meters or advanced metering devices that provide data at least daily and that measure at least hourly consumption of electricity and water in the Federal buildings of the agency. Not later than October 1, 2016, each agency shall provide for equivalent metering of natural gas and steam, in accordance with guidelines established by the Secretary under paragraph (2). Such data shall be incorporated into existing Federal energy and water tracking systems and made available to Federal facility managers.
 
 * #### (2) Guidelines
   * #### (A) In general
-    * Not later than 180 days after August 8, 2005, the Secretary, in consultation with the Department of Defense, the General Services Administration, representatives from the metering industry, utility industry, energy services industry, energy efficiency industry, energy efficiency advocacy organizations, national laboratories, universities, and Federal facility managers, shall establish guidelines for agencies to carry out paragraph (1).
+    * Not later than 180 days after August 8, 2005, the Secretary, in consultation with the Department of Defense, the General Services Administration, representatives from the metering industry, utility industry, energy services industry, energy efficiency industry, energy efficiency advocacy organizations, national laboratories, universities, Federal facility managers, and any other person the Secretary deems necessary, shall establish guidelines for agencies to carry out paragraph (1).
 
   * #### (B) Requirements for guidelines
     * The guidelines shall—
@@ -106,19 +116,22 @@
 
         * (I) the cost of metering and the reduced cost of operation and maintenance expected to result from metering;
 
-        * (II) the extent to which metering is expected to result in increased potential for energy management, increased potential for energy savings and energy efficiency improvement, and cost and energy savings due to utility contract aggregation; and
+        * (II) the extent to which metering is expected to result in increased potential for energy and water management, increased potential for energy and water savings and energy and water efficiency improvement, and cost and energy and water savings due to utility contract aggregation; and
 
         * (III) the measurement and verification protocols of the Department of Energy;
 
 
-      * (ii) include recommendations concerning the amount of funds and the number of trained personnel necessary to gather and use the metering information to track and reduce energy use;
+      * (ii) include recommendations concerning the amount of funds and the number of trained personnel necessary to gather and use the metering information to track and reduce energy and water use;
 
       * (iii) establish priorities for types and locations of buildings to be metered based on cost-effectiveness and a schedule of one or more dates, not later than 1 year after the date of issuance of the guidelines, on which the requirements specified in paragraph (1) shall take effect; and
 
-      * (iv) establish exclusions from the requirements specified in paragraph (1) based on the de minimis quantity of energy use of a Federal building, industrial process, or structure.
+      * (iv) establish exclusions from the requirements specified in paragraph (1) based on the de minimis quantity of energy and water use of a Federal building, industrial process, or structure.
+
+  * #### (C) Update
+    * Not later than 180 days after December 27, 2020, the Secretary shall update the guidelines established under subparagraph (A) to take into account water efficiency requirements under this section.
 
 * #### (3) Plan
-  * Not later than 180 days after the date on which guidelines are established under paragraph (2), in a report submitted by the agency under section 8258(a) of this title, each agency shall submit to the Secretary a plan describing the manner in which the agency will implement the requirements of paragraph (1), including—
+  * Not later than 180 days after the date on which guidelines are updated under paragraph (2)(C), in a report submitted by the agency under section 8258(a) of this title, each agency shall submit to the Secretary a plan describing the manner in which the agency will implement the requirements of paragraph (1), including—
 
     * (A) how the agency will designate personnel primarily responsible for achieving the requirements; and
 
@@ -126,14 +139,14 @@
 
 * #### (4) Best practices report
   * #### (A) In general
-    * Not later than 180 days after December 18,2012, the Secretary of Energy, in consultation with the Secretary of Defense and the Administrator of General Services, shall develop, and issue a report on, best practices for the use of advanced metering of energy use in Federal facilities, buildings, and equipment by Federal agencies.
+    * Not later than 180 days after December 27, 2020, the Secretary of Energy, in consultation with the Secretary of Defense and the Administrator of General Services, shall develop, and issue a report on, best practices for the use of advanced metering of energy and water use in Federal facilities, buildings, and equipment by Federal agencies.
 
   * #### (B) Components
     * The report shall include, at a minimum—
 
       * (i) summaries and analysis of the reports by agencies under paragraph (3);
 
-      * (ii) recommendations on standard requirements or guidelines for automated energy management systems, including—
+      * (ii) recommendations on standard requirements or guidelines for automated energy and water management systems, including—
 
         * (I) potential common communications standards to allow data sharing and reporting;
 
@@ -198,7 +211,10 @@
   * #### (D) Life cycle cost-effective
     * The term "life cycle cost-effective", with respect to a measure, means a measure, the estimated savings of which exceed the estimated costs over the lifespan of the measure, as determined in accordance with section 8254 of this title.
 
-  * #### (E) Payback period
+  * #### (E) Ongoing commissioning
+    * The term "ongoing commissioning" means an ongoing process of commissioning using monitored data, the primary goal of which is to ensure continuous optimum performance of a facility, in accordance with design or operating needs, over the useful life of the facility, while meeting facility occupancy requirements.
+
+  * #### (F) Payback period
     * #### (i) In general
       * Subject to clause (ii), the term "payback period", with respect to a measure, means a value equal to the quotient obtained by dividing—
 
@@ -213,36 +229,70 @@
     * #### (ii) Modifications and exceptions
       * The Secretary, in guidelines issued pursuant to paragraph (6), may make such modifications and provide such exceptions to the calculation of the payback period of a measure as the Secretary determines to be appropriate to achieve the purposes of this chapter.
 
-  * #### (F) Recommissioning
+  * #### (G) Recommissioning
     * The term "recommissioning" means a process—
 
       * (i) of commissioning a facility or system beyond the project development and warranty phases of the facility or system; and
 
       * (ii) the primary goal of which is to ensure optimum performance of a facility, in accordance with design or current operating needs, over the useful life of the facility, while meeting building occupancy requirements.
 
-  * #### (G) Retrocommissioning
+  * #### (H) Retrocommissioning
     * The term "retrocommissioning" means a process of commissioning a facility or system that was not commissioned at the time of construction of the facility or system.
 
 * #### (2) Facility energy managers
   * #### (A) In general
-    * Each Federal agency shall designate an energy manager responsible for implementing this subsection and reducing energy use at each facility that meets criteria under subparagraph (B).
+    * Each Federal agency shall designate an energy manager responsible for implementing this subsection and reducing energy and water use at each facility that meets criteria under subparagraph (B).
 
   * #### (B) Covered facilities
-    * The Secretary shall develop criteria, after consultation with affected agencies, energy efficiency advocates, and energy and utility service providers, that cover, at a minimum, Federal facilities, including central utility plants and distribution systems and other energy intensive operations, that constitute at least 75 percent of facility energy use at each agency.
+    * The Secretary shall develop criteria, after consultation with affected agencies, efficiency advocates, and energy and utility service providers, that cover, at a minimum, Federal facilities, including central utility plants and distribution systems and other energy intensive operations, that constitute at least 75 percent of facility energy or water use at each agency.
 
-* #### (3) Energy and water evaluations
+  * #### (C) Energy management system
+    * An energy manager designated for a facility under subparagraph (A) shall take into consideration—
+
+      * (i) the use of a system to manage energy and water use at the facility; and
+
+      * (ii) the applicability of the certification of the facility in accordance with the International Organization for Standardization standard numbered 50001 and entitled "Energy Management Systems".
+
+* #### (3) Energy and water evaluations and commissioning
   * #### (A) Evaluations
-    * Effective beginning on the date that is 180 days after December 19, 2007, and annually thereafter, energy managers shall complete, for each calendar year, a comprehensive energy and water evaluation for approximately 25 percent of the facilities of each agency that meet the criteria under paragraph (2)(B) in a manner that ensures that an evaluation of each such facility is completed at least once every 4 years.
+    * Except as provided in subparagraph (B), not later than the date that is 180 days after December 27, 2020, and annually thereafter, each energy manager shall complete, for the preceding calendar year, a comprehensive energy and water evaluation and recommissioning or retrocommissioning for approximately 25 percent of the facilities of the applicable agency that meet the criteria under paragraph (2)(B) in a manner that ensures that an evaluation of each facility is completed not less frequently than once every 4 years.
 
-  * #### (B) Recommissioning and retrocommissioning
-    * As part of the evaluation under subparagraph (A), the energy manager shall identify and assess recommissioning measures (or, if the facility has never been commissioned, retrocommissioning measures) for each such facility.
+  * #### (B) Exceptions
+    * An evaluation and recommissioning or retrocommissioning shall not be required under subparagraph (A) with respect to a facility that, as of the date on which the evaluation and recommissioning or retrocommissioning would occur—
+
+      * (i) has had a comprehensive energy and water evaluation during the preceding 8-year period;
+
+      * (ii)(I) has been commissioned, recommissioned, or retrocommissioned during the preceding 10-year period; or
+
+      * (II) is under ongoing commissioning, recommissioning, or retrocomissioning;
+
+      * (iii) has not had a major change in function or use since the previous evaluation and recommissioning or retrocommissioning;
+
+      * (iv) has been benchmarked with public disclosure under paragraph (8) during the preceding calendar year; and
+
+      * (v)(I) based on the benchmarking described in clause (iv), has achieved at a facility level the most recent cumulative energy savings target under subsection (a) compared to the earlier of—
+
+        * (aa) the date of the most recent evaluation; or
+
+        * (bb) the date—
+
+        * (AA) of the most recent commissioning, recommissioning, or retrocommissioning; or
+
+        * (BB) on which ongoing commissioning began; or
+
+
+      * (II) has a long-term contract in place guaranteeing energy savings at least as great as the energy savings target under subclause (I).
 
 * #### (4) Implementation of identified energy and water efficiency measures
-  * Not later than 2 years after the completion of each evaluation under paragraph (3), each energy manager may—
+  * #### (A) In general
+    * Not later than 2 years after the date of completion of each evaluation under paragraph (3), each energy manager shall implement any energy- or water-saving measure that—
 
-    * (A) implement any energy- or water-saving measure that the Federal agency identified in the evaluation conducted under paragraph (3) that is life cycle cost-effective; and
+      * (i) the Federal agency identified in the evaluation; and
 
-    * (B) bundle individual measures of varying paybacks together into combined projects.
+      * (ii) is life cycle cost-effective, as determined by evaluating an individual measure or a bundle of measures with varying paybacks.
+
+  * #### (B) Performance contracting
+    * Each Federal agency shall use performance contracting to address at least 50 percent of the measures identified under subparagraph (A)(i).
 
 * #### (5) Follow-up on implemented measures
   * For each measure implemented under paragraph (4), each energy manager shall ensure that—
@@ -300,7 +350,7 @@
 
         * (I) can be accomplished with the use of streamlined procedures and templates that minimize the time demands on Federal employees; and
 
-        * (II) is coordinated with other applicable energy reporting requirements.
+        * (II) is coordinated with other applicable energy and water reporting requirements.
 
   * #### (C) Availability
     * #### (i) In general
@@ -325,7 +375,7 @@
 
 * #### (9) Federal agency scorecards
   * #### (A) In general
-    * The Director of the Office of Management and Budget shall issue semiannual scorecards for energy management activities carried out by each Federal agency that includes—
+    * The Director of the Office of Management and Budget shall issue semiannual scorecards for energy and water management activities carried out by each Federal agency that includes—
 
       * (i) summaries of the status of implementing the various requirements of the agency and its energy managers under this subsection; and
 
@@ -368,6 +418,156 @@
 
 * #### (3) Compliance report
   * Not later than 1 year after December 19, 2007, the Director of the Office of Management and Budget shall evaluate and report to Congress on the compliance of each agency with this subsection.
+
+#### (h) Federal implementation strategy for energy-efficient and energy-saving information technologies
+* #### (1) Definitions
+  * In this subsection:
+
+  * #### (A) Director
+    * The term "Director" means the Director of the Office of Management and Budget.
+
+  * #### (B) Information technology
+    * The term "information technology" has the meaning given that term in section 11101 of title 40.
+
+* #### (2) Development of implementation strategy
+  * Not later than 1 year after December 27, 2020, each Federal agency shall coordinate with the Director, the Secretary, and the Administrator of the Environmental Protection Agency to develop an implementation strategy (including best-practices and measurement and verification techniques) for the maintenance, purchase, and use by the Federal agency of energy-efficient and energy-saving information technologies at or for facilities owned and operated by the Federal agency, taking into consideration the performance goals established under paragraph (4).
+
+* #### (3) Administration
+  * In developing an implementation strategy under paragraph (2), each Federal agency shall consider—
+
+    * (A) advanced metering infrastructure;
+
+    * (B) energy efficient data center strategies and methods of increasing asset and infrastructure utilization;
+
+    * (C) advanced power management tools;
+
+    * (D) building information modeling, including building energy management;
+
+    * (E) secure telework and travel substitution tools; and
+
+    * (F) mechanisms to ensure that the agency realizes the energy cost savings of increased efficiency and utilization.
+
+* #### (4) Performance goals
+  * #### (A) In general
+    * Not later than 180 days after December 27, 2020, the Director, in consultation with the Secretary, shall establish performance goals for evaluating the efforts of Federal agencies in improving the maintenance, purchase, and use of energy-efficient and energy-saving information technology at or for facilities owned and operated by the Federal agencies.
+
+  * #### (B) Best practices
+    * The Chief Information Officers Council established under section 3603 of title 44, shall recommend best practices for the attainment of the performance goals established under subparagraph (A), which shall include, to the extent applicable by law, consideration by a Federal agency of the use of—
+
+      * (i) energy savings performance contracting; and
+
+      * (ii) utility energy services contracting.
+
+* #### (5) Reports
+  * #### (A) Agency reports
+    * Each Federal agency shall include in the report of the agency under section 17143 of this title a description of the efforts and results of the agency under this subsection.
+
+  * #### (B) OMB government efficiency reports and scorecards
+    * Effective beginning not later than October 1, 2022, the Director shall include in the annual report and scorecard of the Director required under section 17144 of this title a description of the efforts and results of Federal agencies under this subsection.
+
+  * #### (C) Use of existing reporting structures
+    * The Director may require Federal agencies to submit any information required to be submitted under this subsection though reporting structures in use as of December 27, 2020.
+
+#### (i) Federal Energy Management Program
+* #### (1) In general
+  * The Secretary shall carry out a program, to be known as the "Federal Energy Management Program" (referred to in this subsection as the "Program"), to facilitate the implementation by the Federal Government of cost-effective energy and water management and energy-related investment practices—
+
+    * (A) to coordinate and strengthen Federal energy and water resilience; and
+
+    * (B) to promote environmental stewardship.
+
+* #### (2) Federal Director
+  * The Secretary shall appoint an individual to serve as the director of the Program (referred to in this subsection as the "Federal Director"), which shall be a career position in the Senior Executive service, to administer the Program.
+
+* #### (3) Program activities
+  * #### (A) Strategic planning and technical assistance
+    * In administering the Program, the Federal Director shall—
+
+      * (i) provide technical assistance and project implementation support and guidance to agencies to identify, implement, procure, and track energy and water conservation measures required under this chapter and under other provisions of law;
+
+      * (ii) in coordination with the Administrator of the General Services Administration, establish appropriate procedures, methods, and best practices for use by agencies to select, monitor, and terminate contracts entered into pursuant to a utility incentive program under section 8256(c) of this title with utilities;
+
+      * (iii) carry out the responsibilities of the Secretary under section 8287 of this title, as determined appropriate by the Secretary;
+
+      * (iv) establish and maintain internet-based information resources and project tracking systems and tools for energy and water management;
+
+      * (v) coordinate comprehensive and strategic approaches to energy and water resilience planning for agencies; and
+
+      * (vi) establish a recognition program for Federal achievement in energy and water management, energy-related investment practices, environmental stewardship, and other relevant areas, through events such as individual recognition award ceremonies and public announcements.
+
+  * #### (B) Energy and water management and reporting
+    * In administering the Program, the Federal Director shall—
+
+      * (i) track and report on the progress of agencies in meeting the requirements of the agency under this section;
+
+      * (ii) make publicly available agency performance data required under—
+
+        * (I) this section and sections 8254, 8256, 8257, and 8258 of this title; and
+
+        * (II) section 15852 of this title;
+
+
+      * (iii)(I) collect energy and water use and consumption data from each agency; and
+
+      * (II) based on that data, submit to each agency a report that will facilitate the energy and water management, energy-related investment practices, and environmental stewardship of the agency in support of Federal goals under this chapter and under other provisions of law;
+
+      * (iv) carry out the responsibilities of the Secretary under section 6834 of this title;
+
+      * (v) in consultation with the Administrator of the General Services Administration, acting through the head of the Office of High-Performance Green Buildings, establish and implement sustainable design principles for Federal facilities; and
+
+      * (vi) designate products that meet the highest energy conservation standards for categories not covered under the Energy Star program established under section 6294a of this title.
+
+  * #### (C) Federal interagency coordination
+    * In administering the Program, the Federal Director shall—
+
+      * (i) develop and implement accredited training consistent with existing Federal programs and activities—
+
+        * (I) relating to energy and water use, management, and resilience in Federal facilities, energy-related investment practices, and environmental stewardship; and
+
+        * (II) that includes in-person training, internet-based programs, and national in-person training events;
+
+
+      * (ii) carry out the functions of the Secretary with respect to the Interagency Energy Management Task Force under section 8257 of this title; and
+
+      * (iii) report on the implementation of the priorities of the President, including Executive orders, relating to energy and water use in Federal facilities, in coordination with—
+
+        * (I) the Office of Management and Budget;
+
+        * (II) the Council on Environmental Quality; and
+
+        * (III) any other entity, as considered necessary by the Federal Director.
+
+  * #### (D) Facility and fleet optimization
+    * In administering the Program, the Federal Director shall develop guidance, supply assistance to, and track the progress of agencies—
+
+      * (i) in conducting portfolio-wide facility energy and water resilience planning and project integration;
+
+      * (ii) in building new construction and major renovations to meet the sustainable design and energy and water performance standards required under this section;
+
+      * (iii) in developing guidelines for—
+
+        * (I) facility commissioning; and
+
+        * (II) facility operations and maintenance; and
+
+
+      * (iv) in coordination with the Administrator of the General Services Administration, in meeting statutory and agency goals for Federal fleet vehicles.
+
+* #### (4) Management council
+  * The Federal Director shall establish a management council to advise the Federal Director that shall—
+
+    * (A) convene not less frequently than once every quarter; and
+
+    * (B) consist of representatives from—
+
+      * (i) the Council on Environmental Quality;
+
+      * (ii) the Office of Management and Budget; and
+
+      * (iii) the Office of Federal High-Performance Green Buildings in the General Services Administration.
+
+* #### (5) Authorization of appropriations
+  * There is authorized to be appropriated to the Secretary to carry out this subsection $36,000,000 for each of fiscal years 2021 through 2025.
 
 ### §8254. Establishment and use of life cycle cost methods and procedures
 #### (a) Establishment of life cycle cost methods and procedures
@@ -496,9 +696,21 @@
 
   * (2) the number of contracts entered into by all agencies under subchapter VII of this chapter, the difficulties (if any) encountered in attempting to enter into such contracts, and proposed solutions to those difficulties;
 
-  * (3) the extent and nature of interagency exchange of information concerning the conservation and efficient utilization of energy; and
+  * (3) the extent and nature of interagency exchange of information concerning the conservation and efficient utilization of energy;
 
-  * (4) the information required under section 8262g(d) of this title.
+  * (4) the information required under section 8262g(d) of this title; and
+
+  * (5)(A) the status of the energy savings performance contracts and utility energy service contracts of each agency, to the extent that the information is not duplicative of information provided to the Secretary under a separate authority;
+
+  * (B) the quantity and investment value of the contracts for the previous year;
+
+  * (C) the guaranteed energy savings, or for contracts without a guarantee, the estimated energy savings, for the previous year, as compared to the measured energy savings for the previous year;
+
+  * (D) a forecast of the estimated quantity and investment value of contracts anticipated in the following year for each agency; and
+
+  * (E)(i) a comparison of the information described in subparagraph (B) and the forecast described in subparagraph (D) in the report of the previous year; and
+
+  * (ii) if applicable, the reasons for any differences in the data compared under clause (i).
 
 #### (c) Other report
 * The Secretary, in consultation with the Administrator of General Services, shall—
@@ -610,7 +822,7 @@
 
   * (3) the term "cogeneration facilities" has the same meaning given such term in section 796(18)(A) of title 16;
 
-  * (4) the term "energy conservation measures" means measures that are applied to a Federal building that improve energy efficiency and are life cycle cost effective and that involve energy conservation, cogeneration facilities, renewable energy sources, improvements in operations and maintenance efficiencies, or retrofit activities;
+  * (4) the term "energy conservation measures" means measures that are applied to a Federal building that improve energy efficiency and are life cycle cost effective and that involve energy conservation, cogeneration facilities, renewable energy sources, improvements in operations and maintenance efficiencies, retrofit activities, or energy consuming devices and required support structures;
 
   * (5) the term "energy survey" means a procedure used to determine energy and cost savings likely to result from the use of appropriate energy related maintenance and operating procedures and modifications, including the purchase and installation of particular energy-related equipment and the use of renewable energy sources;
 

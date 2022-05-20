@@ -69,6 +69,8 @@
 
   * Administrator of the Transportation Security Administration.
 
+  * Director, Cybersecurity and Infrastructure Security Agency.
+
   * Deputy Secretary of the Treasury.
 
   * Deputy Secretary of Transportation.
@@ -102,8 +104,6 @@
   * Administrator, Federal Highway Administration.
 
   * Administrator of the Environmental Protection Agency.
-
-  * Chief Management Officer of the Department of Defense.
 
   * Under Secretary of Defense for Research and Engineering.
 
@@ -312,8 +312,6 @@
 
   * Under Secretaries, Department of Homeland Security.
 
-  * Director, Cybersecurity and Infrastructure Security Agency.
-
   * Director of the Bureau of Citizenship and Immigration Services.
 
   * Director of the Office of Government Ethics.
@@ -363,6 +361,8 @@
   * Independent Member of the Financial Stability Oversight Council (1).
 
   * Director of the Office of Financial Research.
+
+  * Director of the National Reconnaissance Office.
 
 ### §5315. Positions at level IV
 * Level IV of the Executive Schedule applies to the following positions, for which the annual rate of basic pay shall be the rate determined with respect to such level under chapter 11 of title 2, as adjusted by section 5318 of this title:
@@ -481,7 +481,7 @@
 
   * Deputy Federal Highway Administrator.
 
-  * Administrator of the Saint Lawrence Seaway Development Corporation.
+  * Administrator of the Great Lakes St. Lawrence Seaway Development Corporation.
 
   * Assistant Secretary for Science, Smithsonian Institution.
 

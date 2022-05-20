@@ -59,7 +59,7 @@
 #### (c) Transfers among various appropriations headings
 * (1) Amounts appropriated for any fiscal year for the House of Representatives under the headings specified in paragraph (2) may be transferred among and merged with such headings, effective upon the expiration of the 21-day period (or such alternative period that may be imposed by the Committee on Appropriations of the House of Representatives) which begins on the date such Committee has been notified of the transfer.
 
-* (2) The headings referred to in paragraph (1) are "House Leadership Offices", "Members' Representational Allowances", "Committee Employees", "Salaries, Officers and Employees", "Allowances and Expenses", the heading for any joint committee under the heading "Joint Items" (to the extent that amounts appropriated for the joint committee are disbursed by the Chief Administrative Officer of the House of Representatives), "Office of the Attending Physician", "Allowance for Compensation of Interns in Member Offices", and "Allowance for Compensation of Interns in House Leadership Offices".
+* (2) The headings referred to in paragraph (1) are "House Leadership Offices", "Members' Representational Allowances", "Committee Employees", "Salaries, Officers and Employees", "Allowances and Expenses", the heading for any joint committee under the heading "Joint Items" (to the extent that amounts appropriated for the joint committee are disbursed by the Chief Administrative Officer of the House of Representatives), "Office of the Attending Physician", "Allowance for Compensation of Interns in Member Offices""Allowance for Compensation of Interns in House Leadership Offices", and "House of Representatives Modernization Initiatives Account".
 
 #### (d) Transfers to Architect of the Capitol
 * Amounts appropriated for any fiscal year for the House of Representatives under the heading "Allowances and Expenses" may be transferred to the Architect of the Capitol and merged with and made available under the heading "House Office Buildings", subject to the approval of the Committee on Appropriations of the House of Representatives.
@@ -144,3 +144,17 @@
 
 
 * (b) This section shall apply with respect to funds appropriated or otherwise made available in fiscal year 2020 and each succeeding fiscal year.
+
+### §5513. House of Representatives Modernization Initiatives Account
+#### (a) Establishment
+* There is hereby established in the Treasury of the United States an account for the House of Representatives to be known as the "House of Representatives Modernization Initiatives Account" (hereafter in this section referred to as the "Account").
+
+#### (b) Use of funds
+* Funds in the Account shall be used by the House of Representatives to carry out initiatives to modernize the operations of the House, including initiatives to promote administrative efficiencies and expand the use of innovative technologies in offices of the House.
+
+#### (c) Continuing availability of funds
+* Funds in the Account are available without fiscal year limitation.
+
+#### (d) Omitted
+#### (e) Effective date
+* This section and the amendments made by this section shall apply with respect to fiscal year 2021 and each succeeding fiscal year.

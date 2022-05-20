@@ -5,9 +5,9 @@
 
   * (1) the term "employee" means any individual who—
 
-    * (A) is an "employee", as defined by section 6301(2), including any individual employed in a position referred to in clause (v) or (ix) of section 6301(2), but excluding any individual employed by the government of the District of Columbia any individual employed on a temporary or intermittent basis, and any employee of the Government Accountability Office or the Library of Congress; and
+    * (A) is an "employee", as defined by section 6301(2), including any individual employed in a position referred to in clause (ix) of section 6301(2), but excluding any individual employed by the government of the District of Columbia any individual employed on a temporary or intermittent basis, and any employee of the Government Accountability Office or the Library of Congress; and
 
-    * (B) has completed at least 12 months of service as an employee (within the meaning of subparagraph (A));
+    * (B) has completed at least 12 months of service as an employee (as defined in section 2105) of the Government of the United States, including service with the United States Postal Service, the Postal Regulatory Commission, and a nonappropriated fund instrumentality as described in section 2105(c);
 
 
   * (2) the term "health care provider" means—
@@ -98,7 +98,7 @@
 
 * (c) Except as provided in subsection (d), leave granted under subsection (a) shall be leave without pay.
 
-* (d)(1) An employee may elect to substitute for leave under subparagraph (C), (D), or (E) of subsection (a)(1) any of the employee's accrued or accumulated annual or sick leave under subchapter I for any part of the 12-week period of leave under such subsection, except that nothing in this subchapter shall require an employing agency to provide paid sick leave in any situation in which such employing agency would not normally provide any such paid leave. An employee may elect to substitute for leave under subsection (a)(3) any of the employee's accrued or accumulated annual or sick leave under subchapter I for any part of the 26-week period of leave under such subsection.
+* (d)(1) An employee may elect to substitute for leave under subparagraph (C), (D), or (E) of subsection (a)(1) any of the employee's accrued or accumulated annual or sick leave for any part of the 12-week period of leave under such subsection, except that nothing in this subchapter shall require an employing agency to provide paid sick leave in any situation in which such employing agency would not normally provide any such paid leave. An employee may elect to substitute for leave under subsection (a)(3) any of the employee's accrued or accumulated annual or sick leave for any part of the 26-week period of leave under such subsection.
 
 * (2)(A) An employee may elect to substitute for any leave without pay under subparagraph (A) or (B) of subsection (a)(1) any paid leave which is available to such employee for that purpose.
 
@@ -106,7 +106,7 @@
 
   * (i) 12 administrative workweeks of paid parental leave under this subparagraph in connection with the birth or placement involved; and
 
-  * (ii) during the 12-month period referred to in subsection (a)(1), and in addition to the 12 administrative workweeks under clause (i), any annual or sick leave accrued or accumulated by such employee under subchapter I.
+  * (ii) during the 12-month period referred to in subsection (a)(1), and in addition to the 12 administrative workweeks under clause (i), any annual or sick leave accrued or accumulated by such employee.
 
 
 * (C) Nothing in this subsection shall be considered to require that an employee first use all or any portion of the leave described in subparagraph (B)(ii) before being allowed to use the paid parental leave described in subparagraph (B)(i).

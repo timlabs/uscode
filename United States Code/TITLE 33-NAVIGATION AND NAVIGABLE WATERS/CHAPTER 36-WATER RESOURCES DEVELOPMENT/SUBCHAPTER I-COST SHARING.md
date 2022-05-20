@@ -133,9 +133,9 @@
 * #### (4) Deferred payment of amount exceeding 30 percent
   * If the total amount of the contribution required under paragraph (1) of this subsection exceeds 30 percent of the cost of the project assigned to flood control, the non-Federal interests may pay the amount of the excess to the Secretary over a 15-year period (or such shorter period as may be agreed to by the Secretary and the non-Federal interests) beginning on the date construction of the project or separable element is completed, at an interest rate determined pursuant to section 2216 of this title. The preceding sentence does not modify the requirement of paragraph (1)(A) of this subsection.
 
-#### (b) Nonstructural flood control projects
+#### (b) Projects using nonstructural, natural, or nature-based features
 * #### (1) In general
-  * The non-Federal share of the cost of nonstructural flood control measures shall be 35 percent of the cost of such measures. The non-Federal interests for any such measures shall be required to provide all lands, easements, rights-of-way, dredged material disposal areas, and relocations necessary for the project, but shall not be required to contribute any amount in cash during construction of the project.
+  * The non-Federal share of the cost of a flood risk management or hurricane and storm damage risk reduction measure using a nonstructural feature, or a natural feature or nature-based feature (as those terms are defined in section 2289a(a) of this title), shall be 35 percent of the cost of such measures. The non-Federal interests for any such measures shall be required to provide all lands, easements, rights-of-way, dredged material disposal areas, and relocations necessary for the project, but shall not be required to contribute any amount in cash during construction for a nonstructural feature if the costs of land, easements, rights-of-way, dredged material disposal areas, and relocations for such feature are estimated to exceed 35 percent.
 
 * #### (2) Non-Federal contribution in excess of 35 percent
   * At any time during construction of a project, if the Secretary determines that the costs of land, easements, rights-of-way, dredged material disposal areas, and relocations for the project, in combination with other costs contributed by the non-Federal interests, will exceed 35 percent, any additional costs for the project (not to exceed 65 percent of the total costs of the project) shall be a Federal responsibility and shall be contributed during construction as part of the Federal share.
@@ -217,7 +217,11 @@
 
 #### (j) Agreement
 * #### (1) Requirement for agreement
-  * Any project to which this section applies (other than a project for hydroelectric power) shall be initiated only after non-Federal interests have entered into binding agreements with the Secretary to pay 100 percent of the operation, maintenance, and replacement and rehabilitation costs of the project, to pay the non-Federal share of the costs of construction required by this section, and to hold and save the United States free from damages due to the construction or operation and maintenance of the project, except for damages due to the fault or negligence of the United States or its contractors.
+  * #### (A) In general
+    * Any project to which this section applies (other than a project for hydroelectric power) shall be initiated only after non-Federal interests have entered into binding agreements with the Secretary to pay 100 percent of the operation, maintenance, and replacement and rehabilitation costs of the project, to pay the non-Federal share of the costs of construction required by this section, and to hold and save the United States free from damages due to the construction or operation and maintenance of the project, except for damages due to the fault or negligence of the United States or its contractors.
+
+  * #### (B) Inclusion
+    * An agreement under subparagraph (A) shall include a brief description and estimation of the anticipated operations, maintenance, and replacement and rehabilitation costs of the non-Federal interest for the project.
 
 * #### (2) Elements of agreement
   * The agreement required pursuant to paragraph (1) shall be in accordance with the requirements of section 1962d–5b of title 42 and shall provide for the rights and duties of the United States and the non-Federal interest with respect to the construction, operation, and maintenance of the project, including, but not limited to, provisions specifying that, in the event the non-Federal interest fails to provide the required non-Federal share of costs for such work, the Secretary—
@@ -227,7 +231,43 @@
     * (B) may terminate or adjust the rights and privileges of the non-Federal interest to project outputs under the terms of the agreement.
 
 #### (k) Payment options
-* Except as otherwise provided in this section, the Secretary may permit the full non-Federal contribution to be made without interest during construction of the project or separable element, or with interest at a rate determined pursuant to section 2216 of this title over a period of not more than thirty years from the date of completion of the project or separable element. Repayment contracts shall provide for recalculation of the interest rate at five-year intervals.
+* #### (1) In general
+  * Except as otherwise provided in this section, the Secretary may permit the full non-Federal contribution to be made without interest during construction of the project or separable element, or with interest at a rate determined pursuant to section 2216 of this title over a period of not more than thirty years from the date of completion of the project or separable element. Repayment contracts shall provide for recalculation of the interest rate at five-year intervals.
+
+* #### (2) Renegotiation of terms
+  * #### (A) In general
+    * At the request of a non-Federal interest, the Secretary and the non-Federal interest may renegotiate the terms and conditions of an eligible deferred payment, including—
+
+      * (i) permitting the non-Federal contribution to be made without interest, pursuant to paragraph (1);
+
+      * (ii) recalculation of the interest rate;
+
+      * (iii) full or partial forgiveness of interest accrued during the period of construction; and
+
+      * (iv) a credit against construction interest for a non-Federal investment that benefits the completion or performance of the project or separable element.
+
+  * #### (B) Eligible deferred payment
+    * An eligible deferred payment agreement under subparagraph (A) is an agreement for which—
+
+      * (i) the non-Federal contribution was made with interest;
+
+      * (ii) the period of project construction exceeds 10 years from the execution of a project partnership agreement or appropriation of funds; and
+
+      * (iii) the construction interest exceeds $45,000,000.
+
+* #### (3) Credit for non-Federal contribution
+  * #### (A) In general
+    * The Secretary is authorized to credit any costs incurred by the non-Federal interest (including in-kind contributions) to remedy a design or construction deficiency of a covered project or separable element toward the non-Federal share of the cost of the covered project, if the Secretary determines the remedy to be integral to the completion or performance of the covered project.
+
+  * #### (B) Credit of costs
+    * If the non-Federal interest incurs costs or in-kind contributions for a project to remedy a design or construction deficiency of a project or separable element which has a 100 percent Federal cost share, and the Secretary determines the remedy to be integral to the completion or performance of the project, the Secretary is authorized to credit such costs to any interest accrued on a deferred non-Federal contribution.
+
+* #### (4) Treatment of pre-payment
+  * Notwithstanding a deferred payment agreement with a non-Federal interest, the Secretary shall accept, without interest of any type, the repayment of a non-Federal contribution for any eligible deferred payment described in paragraph (2)(B) for which—
+
+    * (A) the non-Federal interest makes a payment of at least $200 million for that eligible deferred payment agreement on or before September 30, 2021; and
+
+    * (B) the non-Federal interest repays the remaining principal by September 30, 2023.
 
 #### (l) Delay of initial payment
 * At the request of any non-Federal interest the Secretary may permit such non-Federal interest to delay the initial payment of any non-Federal contribution under this section or section 2211 of this title for up to one year after the date when construction is begun on the project for which such contribution is to be made. Any such delay in initial payment shall be subject to interest charges for up to six months at a rate determined pursuant to section 2216 of this title.
@@ -264,6 +304,17 @@
 
 * #### (2) Limitation on statutory construction
   * Nothing in this subsection shall be construed to affect the Secretary's authority under section 903(c).
+
+### §2213a. Treatment of certain benefits and costs
+#### (a) In general
+* In the case of a flood risk management project that incidentally generates seismic safety benefits in regions of moderate or high seismic hazard, for the purpose of a benefit-cost analysis for the project, the Secretary shall not include in that analysis any additional design and construction costs resulting from addressing seismic concerns.
+
+#### (b) Savings provision
+* Except with respect to the benefit-cost analysis, the additional costs referred to in subsection (a) shall be—
+
+  * (1) included in the total project cost; and
+
+  * (2) subject to cost-share requirements otherwise applicable to the project.
 
 ### §2214. General credit for flood control
 #### (a) Guidelines

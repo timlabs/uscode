@@ -368,6 +368,9 @@
 * #### (2) Notification
   * If the Secretary exercises the authority provided under paragraph (1), the Secretary shall notify the Committee on Homeland Security and the Committee on Ways and Means of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Committee on Finance of the Senate not later than 30 days before exercising such authority.
 
+* #### (3) Rescue beacons
+  * Beginning in fiscal year 2019, in carrying out subsection (c)(8), the Commissioner shall purchase, deploy, and maintain not more than 170 self-powering, 9–1–1 cellular relay rescue beacons along the southern border of the United States at locations determined appropriate by the Commissioner to mitigate migrant deaths.
+
 #### (p) Reports to Congress
 * The Commissioner shall, on and after February 24, 2016, continue to submit to the Committee on Homeland Security and the Committee on Ways and Means of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Committee on Finance of the Senate any report required, on the day before February 24, 2016, to be submitted under any provision of law.
 
@@ -419,6 +422,31 @@
   * (7) Functions performed by the following personnel, and associated support staff, of the United States Customs Service on the day before the effective date of this chapter, and of U.S. Customs and Border Protection on the day before the effective date of the U.S. Customs and Border Protection Authorization Act: Import Specialists, Entry Specialists, Drawback Specialists, National Import Specialist, Fines and Penalties Specialists, attorneys of the Office of Regulations and Rulings, Customs Auditors, International Trade Specialists, Financial Systems Specialists.
 
   * (8) Functions performed by the following offices, with respect to any function described in any of paragraphs (1) through (7), and associated support staff, of the United States Customs Service on the day before the effective date of this chapter, and of U.S. Customs and Border Protection on the day before the effective date of the U.S. Customs and Border Protection Authorization Act: the Office of Information and Technology, the Office of Laboratory Services, the Office of the Chief Counsel, the Office of Congressional Affairs, the Office of International Affairs, and the Office of Training and Development.
+
+### §216. Protection against potential synthetic opioid exposure
+#### (a) In general
+* The Commissioner of U.S. Customs and Border Protection shall issue a policy that specifies effective protocols and procedures for the safe handling of potential synthetic opioids, including fentanyl, by U.S. Customs and Border Protection officers, agents, other personnel, and canines, and to reduce the risk of injury or death resulting from accidental exposure and enhance post-exposure management.
+
+#### (b) Training
+* #### (1) In general
+  * Together with the issuance of the policy described in subsection (a), the Commissioner of U.S. Customs and Border Protection shall require mandatory and recurrent training on the following:
+
+    * (A) The potential risk of opioid exposure and safe handling procedures for potential synthetic opioids, including precautionary measures such as the use of personal protective equipment during such handling.
+
+    * (B) How to access and administer opioid receptor antagonists, including naloxone, post-exposure to potential synthetic opioids.
+
+* #### (2) Integration
+  * The training described in paragraph (1) may be integrated into existing training under section 211(l) of this title for U.S. Customs and Border Protection officers, agents, and other personnel.
+
+#### (c) Personal protective equipment and opioid receptor antagonists
+* Together with the issuance of the policy described in subsection (a), the Commissioner of U.S. Customs and Border Protection shall ensure the availability of personal protective equipment and opioid receptor antagonists, including naloxone, to all U.S. Customs and Border Protection officers, agents, other personnel, and canines at risk of accidental exposure to synthetic opioids.
+
+#### (d) Oversight
+* To ensure effectiveness of the policy described in subsection (a)—
+
+  * (1) the Commissioner of U.S. Customs and Border Protection shall regularly monitor the efficacy of the implementation of such policy and adjust protocols and procedures, as necessary; and
+
+  * (2) the Inspector General of the Department shall audit compliance with the requirements of this section not less than once during the 3-year period after December 27, 2020.
 
 ### §217. Allocation of resources by the Secretary
 #### (a) In general
@@ -828,3 +856,67 @@
 
   * #### (B) Congressional notification
     * Not later than 30 days before updating the metrics pursuant to subparagraph (A), the Secretary shall notify the appropriate congressional committees of such updates.
+
+### §224. Other reporting requirements
+#### (a) Unidentified remains
+* #### (1) Reporting requirement
+  * Not later than 1 year after December 31, 2020, and annually thereafter, the Commissioner of U.S. Customs and Border Protection shall submit a report to the appropriate committees of Congress regarding all unidentified remains discovered, during the reporting period, on or near the border between the United States and Mexico, including—
+
+    * (A) for each deceased person—
+
+      * (i) the cause and manner of death, if known;
+
+      * (ii) the sex, age (at time of death), and country of origin (if such information is determinable); and
+
+      * (iii) the location of each unidentified remain;
+
+
+    * (B) the total number of deceased people whose unidentified remains were discovered by U.S. Customs and Border Protection during the reporting period;
+
+    * (C) to the extent such information is available to U.S. Customs and Border Protection, the total number of deceased people whose unidentified remains were discovered by Federal, State, local or Tribal law enforcement officers, military personnel, or medical examiners offices;
+
+    * (D) the efforts of U.S. Customs and Border Protection to engage with nongovernmental organizations, institutions of higher education, medical examiners and coroners, and law enforcement agencies—
+
+      * (i) to identify and map the locations at which migrant deaths occur; and
+
+      * (ii) to count the number of deaths that occur at such locations; and
+
+
+    * (E) a detailed description of U.S. Customs and Border Protection's Missing Migrant Program, including how the program helps mitigate migrant deaths while maintaining border security.
+
+* #### (2) Public disclosure
+  * Not later than 30 days after each report required under paragraph (1) is submitted, the Commissioner of U.S. Customs and Border Protection shall publish on the website of the agency the information described in subparagraphs (A), (B), and (C) of paragraph (1) during each reporting period.
+
+#### (b) Rescue beacons
+* Not later than 1 year after December 31, 2020, and annually thereafter, the Commissioner of U.S. Customs and Border Protection shall submit a report to the appropriate committees of Congress regarding the use of rescue beacons along the border between the United States and Mexico, including, for the reporting period—
+
+  * (1) the number of rescue beacons in each border patrol sector;
+
+  * (2) the specific location of each rescue beacon;
+
+  * (3) the frequency with which each rescue beacon was activated by a person in distress;
+
+  * (4) a description of the nature of the distress that resulted in each rescue beacon activation (if such information is determinable); and
+
+  * (5) an assessment, in consultation with local stakeholders, including elected officials, nongovernmental organizations, and landowners, of necessary additional rescue beacons and recommendations for locations for deployment to reduce migrant deaths.
+
+#### (c) GAO report
+* Not later than 6 months after the report required under subsection (a) is submitted to the appropriate committees of Congress, the Comptroller General of the United States shall submit a report to the same committees that describes—
+
+  * (1) how U.S. Customs and Border Protection collects and records border-crossing death data;
+
+  * (2) the differences (if any) in U.S. Customs and Border Protection border-crossing death data collection methodology across its sectors;
+
+  * (3) how U.S. Customs and Border Protection's data and statistical analysis on trends in the numbers, locations, causes, and characteristics of border-crossing deaths compare to other sources of data on these deaths, including border county medical examiners and coroners and the Centers for Disease Control and Prevention;
+
+  * (4) how U.S. Customs and Border Protection measures the effectiveness of its programs to mitigate migrant deaths; and
+
+  * (5) the extent to which U.S. Customs and Border Protection engages Federal, State, local, and Tribal governments, foreign diplomatic and consular posts, and nongovernmental organizations—
+
+    * (A) to accurately identify deceased individuals;
+
+    * (B) to resolve cases involving unidentified remains;
+
+    * (C) to resolve cases involving unidentified persons; and
+
+    * (D) to share information on missing persons and unidentified remains, specifically with the National Missing and Unidentified Persons System (NamUs).

@@ -25,7 +25,7 @@
 
     * (A) questions regarding sexual harassment can be confidentially asked and confidentially answered; and
 
-    * (B) incidents of sexual harassment can be confidentially reported; and
+    * (B) incidents of sexual harassment can be reported on a restricted or unrestricted basis; and
 
 
   * (4) a prohibition on retaliation and consequences for retaliatory actions.
@@ -82,7 +82,7 @@
 
     * (A) questions regarding sexual assault can be confidentially asked and confidentially answered; and
 
-    * (B) incidents of sexual assault can be confidentially reported.
+    * (B) incidents of sexual assault can be reported on a restricted or unrestricted basis.
 
 
   * (6) Protocols for the investigation of complaints by command and law enforcement personnel.
@@ -188,6 +188,20 @@
 
 ### §894d. Applicability of policies to crews of vessels secured by National Oceanic and Atmospheric Administration under contract
 * The Under Secretary for Oceans and Atmosphere shall ensure that each contract into which the Under Secretary enters for the use of a vessel by the National Oceanic and Atmospheric Administration that covers the crew of the vessel, if any, shall include as a condition of the contract a provision that subjects such crew to the policy developed under section 894(a) of this title and the comprehensive policy developed under section 894a(a) of this title.
+
+### §894d–1. Investigation requirement
+#### (a) Requirement to investigate
+* #### (1) In general
+  * The Secretary of Commerce, acting through the Under Secretary for Oceans and Atmosphere, shall ensure that each allegation of sexual harassment reported under section 894 of this title and each allegation of sexual assault reported under section 894a of this title is investigated thoroughly and promptly.
+
+* #### (2) Sense of Congress on commencement of investigation
+  * It is the sense of Congress that the Secretary should ensure that an investigation of alleged sexual harassment reported under section 894 of this title or sexual assault reported under section 894a of this title commences not later than 48 hours after the time at which the allegation was reported.
+
+#### (b) Notification of delay
+* In any case in which the time between the reporting of alleged sexual harassment or sexual assault under section 894 of this title or 894a of this title, respectively, and commencement of an investigation of the allegation exceeds 48 hours, the Secretary shall notify the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Natural Resources of the House of Representatives of the delay.
+
+### §894d–2. Criminal referral
+* If the Secretary of Commerce finds, pursuant to an investigation under section 894d–1 of this title, evidence that a crime may have been committed, the Secretary shall refer the matter to the appropriate law enforcement authorities, including the appropriate United States Attorney.
 
 ### §894e. Annual report on sexual assaults in the National Oceanic and Atmospheric Administration
 #### (a) In general

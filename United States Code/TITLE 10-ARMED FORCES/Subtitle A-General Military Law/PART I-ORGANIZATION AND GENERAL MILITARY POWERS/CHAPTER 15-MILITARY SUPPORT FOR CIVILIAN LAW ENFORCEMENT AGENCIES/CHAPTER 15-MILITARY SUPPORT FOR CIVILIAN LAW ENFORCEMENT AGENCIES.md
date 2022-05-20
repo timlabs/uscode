@@ -402,6 +402,23 @@
 
   * (2) COORDINATION WITH SECRETARY OF STATE.—In providing notice under this subsection for a purpose described in subsection (c), the Secretary of Defense shall coordinate with the Secretary of State.
 
+  * (3) QUARTERLY REPORTS.—
+
+    * (A) IN GENERAL.—Not less frequently than once each quarter, the Secretary shall submit to the appropriate committees of Congress a report on Department of Defense support provided under subsection (b) during the quarter preceding the quarter during which the report is submitted. Each such report shall be submitted in written and electronic form and shall include—
+
+      * (i) an identification of each recipient of such support;
+
+      * (ii) a description of the support provided and anticipated duration of such support; and
+
+      * (iii) a description of the sources and amounts of funds used to provide such support;
+
+
+    * (B) APPROPRIATE COMMITTEES OF CONGRESS.—Notwithstanding subsection (i)(1), for purposes of a report under this paragraph, the appropriate committees of Congress are—
+
+      * (i) the Committees on Armed Services of the Senate and House of Representatives; and
+
+      * (ii) any committee with jurisdiction over the department or agency that receives support covered by the report.
+
 
 * (i) DEFINITIONS.—In this section:
 

@@ -61,14 +61,14 @@
     * (C) are junior to the junior officer in the promotion zone for that competitive category.
 
 ### §646. Consideration of performance as a member of the Joint Staff
-* The Secretary of Defense, in consultation with the Chairman of the Joint Chiefs of Staff, shall ensure that officer personnel policies of the Army, Navy, Air Force, and Marine Corps concerning promotion, retention, and assignment give appropriate consideration to the performance of an officer as a member of the Joint Staff.
+* The Secretary of Defense, in consultation with the Chairman of the Joint Chiefs of Staff, shall ensure that officer personnel policies of the Army, Navy, Air Force, Marine Corps, and Space Force concerning promotion, retention, and assignment give appropriate consideration to the performance of an officer as a member of the Joint Staff.
 
 ### §647. Force shaping authority
 * (a) AUTHORITY.—The Secretary concerned may, solely for the purpose of restructuring an armed force under the jurisdiction of that Secretary—
 
   * (1) discharge an officer described in subsection (b); or
 
-  * (2) transfer such an officer from the active-duty list of that armed force to the reserve active-status list of a reserve component of that armed force.
+  * (2) transfer such an officer from the active-duty list of that armed force to the reserve active-status list of a reserve component.
 
 
 * (b) COVERED OFFICERS.—(1) The authority under this section may be exercised in the case of an officer who—
@@ -80,6 +80,6 @@
 
 * (2) In this subsection, the term "minimum service obligation" means the initial period of required active duty service together with any additional period of required active duty service incurred during the initial period of required active duty service.
 
-* (c) APPOINTMENT OF TRANSFERRED OFFICERS.—An officer of the Regular Army, Regular Air Force, Regular Navy, or Regular Marine Corps who is transferred to a reserve active-status list under this section shall be discharged from the regular component concerned and appointed as a reserve commissioned officer under section 12203 of this title.
+* (c) APPOINTMENT OF TRANSFERRED OFFICERS.—An officer of the Regular Army, Regular Air Force, Regular Navy, Regular Marine Corps, or Regular Space Force who is transferred to a reserve active-status list under this section shall be discharged from the regular component concerned and appointed as a reserve commissioned officer under section 12203 of this title.
 
 * (d) REGULATIONS.—The Secretary concerned shall prescribe regulations for the exercise of the Secretary's authority under this section.

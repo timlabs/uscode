@@ -14,7 +14,7 @@
   * (5) in the case of an enlisted member of a reserve component who is not serving on active duty, termination of enlistment in conjunction with the commencement of a successive enlistment, or appointment as an officer.
 
 
-* (b)(1) A member of the Army, Navy, Air Force, Marine Corps, Coast Guard, or National Oceanic and Atmospheric Administration, who has accrued leave to his credit at the time of his discharge, is entitled to be paid in cash or by a check on the Treasurer of the United States for such leave on the basis of the basic pay to which he was entitled on the date of discharge.
+* (b)(1) A member of the Army, Navy, Air Force, Marine Corps, Space Force, Coast Guard, or National Oceanic and Atmospheric Administration, who has accrued leave to the member's credit at the time of the member's discharge, is entitled to be paid in cash or by a check on the Treasurer of the United States for such leave on the basis of the basic pay to which the member was entitled on the date of discharge.
 
 * (2) Payment may not be made under this subsection to a member who is discharged for the purpose of accepting an appointment or a warrant in any uniformed service.
 
@@ -28,7 +28,7 @@
 
   * (B) by a member of the armed forces in the Retired Reserve while serving on active duty in support of a contingency operation;
 
-  * (C) by a retired member of the Regular Army, Regular Navy, Regular Air Force, or Regular Marine Corps or a member of the Fleet Reserve or Fleet Marine Corps Reserve while the member is serving on active duty in support of a contingency operation; or
+  * (C) by a retired member of the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, or Regular Space Force or a member of the Fleet Reserve or Fleet Marine Corps Reserve while the member is serving on active duty in support of a contingency operation; or
 
   * (D) by a member of a reserve component while serving on active duty, full-time National Guard duty, or active duty for training for a period of more than 30 days but not in excess of 365 days.
 
@@ -41,7 +41,7 @@
 
 * (2) The limitations in the second sentence of subsection (b)(3), subsection (f), and the second sentence of subsection (g) shall not apply with respect to a payment made under this subsection.
 
-* (e)(1) A member of the Army, Navy, Air Force, Marine Corps, Coast Guard, or National Oceanic and Atmospheric Administration who is discharged under other than honorable conditions forfeits all accrued leave to his credit at the time of his discharge.
+* (e)(1) A member of the Army, Navy, Air Force, Marine Corps, Space Force, Coast Guard, or National Oceanic and Atmospheric Administration who is discharged under other than honorable conditions forfeits all accrued leave to his credit at the time of his discharge.
 
 * (2) The Secretary concerned may require that a member of a uniformed service who is discharged before completing six months of active duty because of a failure to serve satisfactorily (as determined by the Secretary concerned) forfeit all accrued leave to his credit at the time of his discharge.
 
@@ -61,12 +61,12 @@
 * (h) Payment shall be made for all leave accumulated under section 701(g) of title 10 as soon as possible after the name of the person concerned is removed from a missing status, as defined in section 551(2) of this title.
 
 ### §502. Absences due to sickness, wounds, and certain other causes
-* (a) A member of the Army, Navy, Air Force, Marine Corps, Coast Guard, or National Oceanic and Atmospheric Administration, who is absent because of sickness or wounds, or who is directed by the Secretary concerned, or his designated representative, to be absent from duty to await orders pending disability retirement proceedings for a period that is longer than the leave authorized by section 701 of title 10, is entitled to the pay and allowances to which he would be entitled if he were not so absent. A member who is absent with leave for any other reason for not longer than the leave authorized by that section is entitled to the same pay and allowances to which he would be entitled if he were not on leave, and to any additional allowances otherwise provided by law for members on leave.
+* (a) A member of the Army, Navy, Air Force, Marine Corps, Space Force, Coast Guard, or National Oceanic and Atmospheric Administration, who is absent because of sickness or wounds, or who is directed by the Secretary concerned, or the Secretary's designated representative, to be absent from duty to await orders pending disability retirement proceedings for a period that is longer than the leave authorized by section 701 of title 10, is entitled to the pay and allowances to which the member would be entitled if the member were not so absent. A member who is absent with leave for any other reason for not longer than the leave authorized by that section is entitled to the same pay and allowances to which the member would be entitled if the member were not on leave, and to any additional allowances otherwise provided by law for members on leave.
 
-* (b) Except as provided in subsection (a) and section 701(h) of title 10, a member who is authorized by the Secretary concerned, or his designated representative, to be absent for a period that is longer than the leave authorized by section 701 of title 10 is not entitled to pay or allowances during the part of his absence that is more than the number of days' leave authorized by that section.
+* (b) Except as provided in subsection (a) and section 701(h) of title 10, a member who is authorized by the Secretary concerned, or the Secretary's designated representative, to be absent for a period that is longer than the leave authorized by section 701 of title 10 is not entitled to pay or allowances during the part of the member's absence that is more than the number of days' leave authorized by that section.
 
 ### §503. Absence without leave or over leave
-* (a) A member of the Army, Navy, Air Force, Marine Corps, Coast Guard, or National Oceanic and Atmospheric Administration, who is absent without leave or over leave, forfeits all pay and allowances for the period of that absence, unless it is excused as unavoidable.
+* (a) A member of the Army, Navy, Air Force, Marine Corps, Space Force, Coast Guard, or National Oceanic and Atmospheric Administration, who is absent without leave or over leave, forfeits all pay and allowances for the period of that absence, unless it is excused as unavoidable.
 
 * (b) A commissioned officer of the Regular Corps of the Public Health Service, or an officer of the Reserve Corps of the Public Health Service on active duty, who is absent without leave, forfeits all pay and allowances for the period of that absence, unless it is excused as unavoidable.
 

@@ -80,26 +80,39 @@
     * (B) the term "eligible employee" as used in the Family and Medical Leave Act of 1993 means a covered employee who has been employed in any employing office for 12 months and for at least 1,250 hours of employment during the previous 12 months.
 
 
+  * (3) EXCEPTION.—Notwithstanding section 401(b)(2), the requirements of paragraph (2)(B) shall not apply with respect to leave under subparagraph (A) or (B) of section 102(a)(1) of the Family and Medical Leave Act of 1993 (29 U.S.C. 2612(a)(1)).
+
 * (b) REMEDY.—The remedy for a violation of subsection (a) shall be such remedy, including liquidated damages, as would be appropriate if awarded under paragraph (1) of section 107(a) of the Family and Medical Leave Act of 1993.
 
-* (c) REGULATIONS TO IMPLEMENT SECTION.—
+* (c) SPECIAL RULES FOR SUBSTITUTION OF PAID LEAVE.—
+
+  * (1) SUBSTITUTION OF PAID LEAVE.—A covered employee may elect to substitute for any leave without pay under subparagraph (A) or (B) of section 102(a)(1) of the Family and Medical Leave Act of 1993 (29 U.S.C. 2612(a)(1)) any paid leave which is available to such employee for that purpose.
+
+  * (2) AVAILABLE LEAVE.—The paid leave that is available to a covered employee for purposes of paragraph (1) is leave of the type and in the amount available to an employee under section 6382(d)(2)(B) of title 5, United States Code, for substitution for leave without pay under subparagraph (A) or (B) of section 6382(a)(1) of such title.
+
+  * (3) CONSISTENCY WITH TITLE 5.—Paid leave shall be substituted under this subsection in a manner that is consistent with the requirements in section 6382(d)(2) of title 5, United States Code, except that a reference in that section to an employing agency shall be considered to be a reference to an employing office, and subparagraph (E) of that section shall not apply.
+
+* (d) REGULATIONS TO IMPLEMENT SECTION.—
 
   * (1) IN GENERAL.—The President, or the designee of the President, shall issue regulations to implement this section.
 
   * (2) AGENCY REGULATIONS.—The regulations issued under paragraph (1) shall be the same as substantive regulations promulgated by the Secretary of Labor to implement the statutory provisions referred to in subsections (a) and (b)—
 
-    * (A) except to the extent that the President or designee may determine, for good cause shown and stated together with the regulation, that a modification of such regulations would be more effective for the implementation of the rights and protections under this section; and
+    * (A) except to the extent that the President or designee may determine, for good cause shown and stated together with the regulation, that a modification of such regulations would be more effective for the implementation of the rights and protections under this section;
 
     * (B) except that the President or designee may, at the discretion of the President or designee, issue regulations to implement a provision of subchapter V of chapter 63 of title 5, United States Code, that applies to employees in the executive branch of the Federal Government in lieu of an analogous statutory provision referred to in subsection (a) or (b), if the issuance of such regulations—
 
       * (i) would be equally effective for the implementation of the rights and protections under this section; and
 
-      * (ii) would promote uniformity in the application of Federal law to employees in the executive branch of the Federal Government.
+      * (ii) would promote uniformity in the application of Federal law to employees in the executive branch of the Federal Government; and
 
 
-* (d) EFFECTIVE DATE.—Subsections (a) and (b) shall take effect on the earlier of—
+    * (C) except that the President or designee shall issue regulations to implement subsection (c) in accordance with the requirements of that subsection.
 
-  * (1) the effective date of regulations issued under subsection (c); or
+
+* (e) EFFECTIVE DATE.—Subsections (a) and (b) shall take effect on the earlier of—
+
+  * (1) the effective date of regulations issued under subsection (c) (as in effect on the date of enactment of the Presidential and Executive Office Accountability Act); or
 
   * (2) October 1, 1998.
 

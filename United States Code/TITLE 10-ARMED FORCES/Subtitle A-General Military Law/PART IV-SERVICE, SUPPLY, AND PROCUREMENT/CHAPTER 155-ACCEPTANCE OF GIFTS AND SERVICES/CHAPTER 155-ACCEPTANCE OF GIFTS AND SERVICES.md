@@ -50,7 +50,7 @@
 
 * (3) The Secretary concerned may disburse funds deposited in a gift fund referred to in subsection (c) for the purposes specified in subsections (a) and (b), subject to the terms of the gift, devise, or bequest.
 
-* (e) ACCEPTANCE OF REAL PROPERTY GIFTS; NAMING RIGHTS.—(1) The Secretary concerned may accept a gift under subsection (a) or (b) consisting of the provision, acquisition, enhancement, or construction of real property offered to the United States Military Academy, the Naval Academy, the Air Force Academy, or the Coast Guard Academy even though the gift will be subject to the condition that the real property, or a portion thereof, bear a specified name.
+* (e) ACCEPTANCE OF PROPERTY GIFTS; NAMING RIGHTS.—(1) The Secretary concerned may accept a gift under subsection (a) or (b) consisting of the provision, acquisition, enhancement, or construction of real or personal property offered to an eligible entity even though the gift will be subject to the condition that the real or personal property, or a portion thereof, bear a specified name.
 
 * (2) The authority conferred by this subsection may be delegated by the Secretary concerned only to a civilian official appointed by the President, by and with the advice and consent of the Senate.
 
@@ -58,10 +58,18 @@
 
   * (A) the acceptance of the gift or the imposition of the naming-rights condition would reflect unfavorably upon the United States, as provided in subsection (d)(2); or
 
-  * (B) the real property to be subject to the condition, or portion thereof, has been named by an act of Congress.
+  * (B) the real or personal property to be subject to the condition, or portion thereof, has been named by an act of Congress.
 
 
 * (4) The Secretaries concerned shall issue uniform regulations governing the circumstances under which gifts conditioned on naming rights may be accepted, appropriate naming conventions, and suitable display standards.
+
+* (5) In this subsection, the term "eligible entity" means each of the following:
+
+  * (A) The United States Military Academy, the Naval Academy, the Air Force Academy, and the Coast Guard Academy.
+
+  * (B) The professional military education schools listed in section 2162(d) of this title and the Defense Acquisition University.
+
+  * (C) A military museum.
 
 * (f) PAYMENT OF EXPENSES.—The Secretary concerned may pay all necessary expenses in connection with the conveyance or transfer of a gift, devise, or bequest accepted under this section.
 

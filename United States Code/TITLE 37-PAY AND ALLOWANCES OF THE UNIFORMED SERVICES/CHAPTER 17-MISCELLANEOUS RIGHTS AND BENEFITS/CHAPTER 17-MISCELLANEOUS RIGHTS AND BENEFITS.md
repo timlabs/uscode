@@ -19,7 +19,7 @@
 * (b) A reserve officer who is promoted under section 14308(b) of title 10 to the grade of lieutenant (junior grade) in the Navy Reserve or first lieutenant in the Marine Corps Reserve is entitled to the pay and allowances of the higher grade for duty performed from the date given him as his date of rank.
 
 ### §906. Extension of enlistment: effect on pay and allowances
-* A member of the Army, Navy, Air Force, Marine Corps, or Coast Guard, as the case may be, who extends his enlistment under section 509 of title 10 is entitled to the same pay and allowances as though he had reenlisted. For the purposes of determining entitlement to reenlistment bonus or to travel and transportation allowances upon discharge, all such extensions of an enlistment are considered one continuous extension.
+* A member of the Army, Navy, Air Force, Marine Corps, Space Force, or Coast Guard, as the case may be, who extends his enlistment under section 509 of title 10 is entitled to the same pay and allowances as though he had reenlisted. For the purposes of determining entitlement to reenlistment bonus or to travel and transportation allowances upon discharge, all such extensions of an enlistment are considered one continuous extension.
 
 ### §907. Enlisted members and warrant officers appointed as officers: pay and allowances stabilized
 * (a) An enlisted member who accepts an appointment as an officer shall, for service as an officer, be paid the greater of—
@@ -88,21 +88,32 @@
 
 * (e) The clothing allowance under section 418 of this title may not be considered in determining the amount of the pay and allowances of a grade formerly held by an officer if the officer is entitled to a uniform allowance under section 415 of this title.
 
-### §908. Employment of reserves and retired members by foreign governments
-* (a) CONGRESSIONAL CONSENT.—Subject to subsection (b), Congress consents to the following persons accepting civil employment (and compensation for that employment) for which the consent of Congress is required by the last paragraph of section 9 of article I of the Constitution, related to acceptance of emoluments, offices, or titles from a foreign government:
+### §908. Reserves and retired members: acceptance of employment, payments, and awards from foreign governments
+* (a) CONGRESSIONAL CONSENT.—Subject to subsections (b) and (c), Congress consents to the following persons accepting civil employment (and compensation for that employment), accepting payment for speeches, travel, meals, lodging, or registration fees, or accepting a non-cash award, for which the consent of Congress is required by the last paragraph of section 9 of article I of the Constitution, related to acceptance of emoluments, offices, or titles from a foreign government:
 
   * (1) Retired members of the uniformed services.
 
-  * (2) Members of a reserve component of the armed forces.
+  * (2) Members of a reserve component of the armed forces, except members serving on active duty under a call or order to active duty for a period in excess of 30 days.
 
   * (3) Members of the Commissioned Reserve Corps of the Public Health Service.
 
 
-* (b) APPROVAL REQUIRED.—A person described in subsection (a) may accept employment or compensation described in that subsection only if the Secretary concerned and the Secretary of State approve the employment.
+* (b) APPROVAL REQUIRED FOR EMPLOYMENT AND COMPENSATION.—A person described in subsection (a) may accept employment or compensation described in that subsection only if the Secretary concerned and the Secretary of State approve the employment.
 
-* (c) ANNUAL REPORTS ON APPROVALS FOR RETIRED GENERAL AND FLAG OFFICERS.—Not later than January 31 each year, the Secretaries of the military departments, after consulting with the Secretary of State, shall jointly submit to the Committees on Armed Services of the Senate and House of Representatives a report on each approval under subsection (b) for employment or compensation described in subsection (a) for a retired member of the armed forces in general or flag officer grade that was issued during the preceding year.
+* (c) APPROVAL REQUIRED FOR CERTAIN PAYMENTS AND AWARDS.—A person described in subsection (a) may accept payment for speeches, travel, meals, lodging, or registration fees described in that subsection, or accept a non-cash award described in that subsection, only if the Secretary concerned approves the payment or award.
 
-* (d) MILITARY SERVICE IN FOREIGN ARMED FORCES.—For a provision of law providing the consent of Congress to service in the military forces of certain foreign nations, see section 1060 of title 10.
+* (d) ANNUAL REPORTS ON APPROVALS FOR RETIRED GENERAL AND FLAG OFFICERS.—(1) Not later than January 31 each year, the Secretaries of the military departments, after consulting with the Secretary of State, shall jointly submit to the Committees on Armed Services of the Senate and House of Representatives a report on each approval under subsection (b) for employment or compensation described in subsection (a), and each approval under subsection (c) for a payment or award described in subsection (a), for a retired member of the armed forces in general or flag officer grade that was issued during the preceding year.
+
+* (2) The report under paragraph (1) on an approval described in that paragraph with respect to an officer shall set forth the following:
+
+  * (A) The foreign government providing the employment or compensation or payment or award.
+
+  * (B) The duties, if any, to be performed in connection with the employment or compensation or payment or award.
+
+  * (C) The total amount of compensation, if any, or payment to be provided.
+
+
+* (e) MILITARY SERVICE IN FOREIGN ARMED FORCES.—For a provision of law providing the consent of Congress to service in the military forces of certain foreign nations, see section 1060 of title 10.
 
 ### §909. Special and incentive pay: payment at unreduced rates during suspension of personnel laws
 * (a) AUTHORITY TO CONTINUE PAYMENT AT UNREDUCED RATES.—To ensure fairness and recognize the contributions of members of the armed forces to military essential missions, the Secretary of the military department concerned may authorize members who are involuntarily retained on active duty under section 123 or 12305 of title 10 or any other provision of law and who, immediately before retention on active duty, were entitled or eligible for special pay or incentive pay under chapter 5 of this title, to receive that special pay or incentive pay for qualifying service performed during the retention period, without a reduction in the payment rate below the rate the members received immediately before retention on active duty, notwithstanding any requirement otherwise applicable to that special pay or incentive pay that would reduce the payment rate by reason of the years of service of the members.
@@ -161,4 +172,4 @@
 
 * (f) REGULATIONS.—This section shall be administered under regulations to be prescribed by the Secretary of Defense.
 
-* (g) TERMINATION.—No payment shall be made to a member under this section for months beginning after December 31, 2020, unless the entitlement of the member to payments under this section commenced on or before that date.
+* (g) TERMINATION.—No payment shall be made to a member under this section for months beginning after December 31, 2021, unless the entitlement of the member to payments under this section commenced on or before that date.

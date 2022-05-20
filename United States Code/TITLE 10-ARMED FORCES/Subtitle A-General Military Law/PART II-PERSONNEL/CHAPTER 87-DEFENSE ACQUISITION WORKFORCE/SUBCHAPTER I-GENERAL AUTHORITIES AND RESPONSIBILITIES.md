@@ -29,7 +29,7 @@
 
   * (5) direct continuing education and training;
 
-  * (6) authorize a member of the acquisition workforce to participate in professional associations, consistent with the performance plan of such a member in order to provide the member with the opportunity to gain leadership and management skills.
+  * (6) authorize a member of the acquisition workforce to participate in professional associations, consistent with the performance plan of such a member in order to provide the member with the opportunity to gain leadership and management skills;
 
   * (7) develop appropriate procedures for warnings and consequences during performance evaluations for members of the acquisition workforce who consistently fail to meet performance standards;
 
@@ -47,13 +47,45 @@
   * (10) use the authorities for expedited security clearance processing pursuant to section 1564 of this title.
 
 
-* (c) PROFESSIONAL CERTIFICATION.—(1) IN GENERAL.—The Secretary of Defense shall implement a certification program to provide for a professional certification requirement for all members of the acquisition workforce. Except as provided in paragraph (2), the certification requirement for any acquisition workforce career field shall be based on standards developed by a third-party accredited program based on nationally or internationally recognized standards.
+* (c) PROFESSIONAL CERTIFICATION.—(1) The Secretary of Defense shall implement a certification program to provide for a professional certification requirement for all members of the acquisition workforce. Except as provided in paragraph (2), the certification requirement for any acquisition workforce career field shall be based on standards developed by a third-party accredited program based on nationally or internationally recognized standards.
 
-* (2) REQUIREMENTS FOR SECRETARY.—If the Secretary determines that, for a particular acquisition workforce career field, a third-party accredited program based on nationally or internationally recognized standards does not exist, the Secretary shall establish the certification requirement for that career field that conforms with the practices of national or international accrediting organizations. The Secretary shall determine the best approach for meeting the certification requirement for any such career field, including by implementing such certification requirement through entities outside the Department of Defense, and may design and implement such certification requirement without regard to section 1746 of this title.
+* (2) If the Secretary determines that, for a particular acquisition workforce career field, a third-party accredited program based on nationally or internationally recognized standards does not exist, the Secretary shall establish the certification requirement for that career field that conforms with the practices of national or international accrediting organizations. The Secretary shall determine the best approach for meeting the certification requirement for any such career field, including by implementing such certification requirement through entities outside the Department of Defense, and may design and implement such certification requirement without regard to section 1746 of this title.
 
 * (d) NEGOTIATIONS.—Any action taken by the Secretary under this section, or to implement this section, shall be subject to the requirements of chapter 71 of title 5.
 
 * (e) REGULATIONS.—Any rules or regulations prescribed pursuant to this section shall be deemed an agency rule or regulation under section 7117(a)(2) of title 5, and shall not be deemed a Government-wide rule or regulation under section 7117(a)(1) of such title.
+
+### §1701b. Enhanced pay authority for certain acquisition and technology positions
+* (a) IN GENERAL.—The Secretary of Defense may carry out a program using the pay authority specified in subsection (d) to fix the rate of basic pay for positions described in subsection (c) in order to assist the Office of the Secretary of Defense and the military departments in attracting and retaining high-quality acquisition and technology experts in positions responsible for managing and developing complex, high-cost, technological acquisition efforts of the Department of Defense.
+
+* (b) APPROVAL REQUIRED.—The program may be carried out only with approval as follows:
+
+  * (1) Approval of the Under Secretary of Defense for Acquisition and Sustainment, in the case of positions in the Office of the Secretary of Defense.
+
+  * (2) Approval of the service acquisition executive of the military department concerned, in the case of positions in a military department.
+
+
+* (c) POSITIONS.—The positions described in this subsection are positions that—
+
+  * (1) require expertise of an extremely high level in a scientific, technical, professional, or acquisition management field; and
+
+  * (2) are critical to the successful accomplishment of an important acquisition or technology development mission.
+
+
+* (d) RATE OF BASIC PAY.—The pay authority specified in this subsection is authority as follows:
+
+  * (1) Authority to fix the rate of basic pay for a position at a rate not to exceed 150 percent of the rate of basic pay payable for level I of the Executive Schedule, upon the approval of the Under Secretary of Defense for Acquisition and Sustainment or the service acquisition executive concerned, as applicable.
+
+  * (2) Authority to fix the rate of basic pay for a position at a rate in excess of 150 percent of the rate of basic pay payable for level I of the Executive Schedule, upon the approval of the Secretary of Defense.
+
+
+* (e) LIMITATIONS.—
+
+  * (1) IN GENERAL.—The authority in subsection (a) may be used only to the extent necessary to competitively recruit or retain individuals exceptionally well qualified for positions described in subsection (c).
+
+  * (2) NUMBER OF POSITIONS.—The authority in subsection (a) may not be used with respect to more than five positions in the Office of the Secretary of Defense and more than five positions in each military department at any one time.
+
+  * (3) TERM OF POSITIONS.—The authority in subsection (a) may be used only for positions having terms less than five years.
 
 ### §1702. Under Secretary of Defense for Acquisition and Sustainment: authorities and responsibilities
 * Subject to the authority, direction, and control of the Secretary of Defense, the Under Secretary of Defense for Acquisition and Sustainment shall carry out all powers, functions, and duties of the Secretary of Defense with respect to the acquisition workforce in the Department of Defense. The Under Secretary shall ensure that the policies of the Secretary of Defense established in accordance with this chapter are implemented throughout the Department of Defense. The Under Secretary shall prescribe policies and requirements for the educational programs of the defense acquisition university structure established under section 1746 of this title.
@@ -134,7 +166,7 @@
     * (B) are designated as temporary members of the acquisition workforce by the Under Secretary of Defense for Acquisition and Sustainment, or by the senior acquisition executive of a military department, for the limited purpose of receiving training for the performance of acquisition-related functions and duties.
 
 ### §1706. Government performance of certain acquisition functions
-* (a) GOAL.—It shall be the goal of the Department of Defense and each of the military departments to ensure that, for each major defense acquisition program and each major automated information system program, each of the following positions is performed by a properly qualified member of the armed forces or full-time employee of the Department of Defense:
+* (a) GOAL.—It shall be the goal of the Department of Defense and each of the military departments to ensure that, for each major defense acquisition program (as defined in section 2430 of this title), each acquisition program that is estimated by the Secretary of Defense to require an eventual total expenditure greater than the amount described in section 2430(a)(1)(B) of this title, and any other acquisition program identified by the Secretary, each of the following positions is performed by a properly qualified member of the armed forces or full-time employee of the Department of Defense:
 
   * (1) Program executive officer.
 
@@ -162,11 +194,46 @@
 
   * (13) Program lead information technology.
 
+  * (14) Program lead software.
+
 
 * (b) PLAN OF ACTION.—The Secretary of Defense shall develop and implement a plan of action for recruiting, training, and ensuring appropriate career development of military and civilian personnel to achieve the objective established in subsection (a).
 
-* (c) DEFINITIONS.—In this section:
+### §1707. Cadre of intellectual property experts
+* (a) CADRE.—The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition and Sustainment, shall establish a cadre of personnel who are experts in intellectual property matters. The purpose of the cadre is to ensure a consistent, strategic, and highly knowledgeable approach to acquiring or licensing intellectual property by providing expert advice, assistance, and resources to the acquisition workforce on intellectual property matters, including acquiring or licensing intellectual property.
 
-  * (1) The term "major defense acquisition program" has the meaning given such term in section 2430(a) of this title.
+* (b) LEADERSHIP STRUCTURE.—The Under Secretary—
 
-  * (2) The term "major automated information system program" has the meaning given such term in section 2445a(a) of this title.
+  * (1) shall establish an appropriate leadership structure and office within which the cadre shall be managed; and
+
+  * (2) shall determine the appropriate official to whom members of the cadre shall report.
+
+
+* (c) DUTIES.—The cadre of experts shall be assigned to a program office or an acquisition command within a military department to advise, assist, and provide resources to a program manager or program executive officer on intellectual property matters at various stages of the life cycle of a system. In performing such duties, the experts shall—
+
+  * (1) interpret and provide counsel on laws, regulations, and policies relating to intellectual property;
+
+  * (2) advise and assist in the development of an acquisition strategy, product support strategy, and intellectual property strategy for a system;
+
+  * (3) conduct or assist with financial analysis and valuation of intellectual property;
+
+  * (4) assist in the drafting of a solicitation, contract, or other transaction;
+
+  * (5) interact with or assist in interactions with contractors, including communications and negotiations with contractors on solicitations and awards; and
+
+  * (6) conduct or assist with mediation if technical data delivered pursuant to a contract is incomplete or does not comply with the terms of agreements.
+
+
+* (d) ADMINISTRATION.—
+
+  * (1) In order to achieve the purpose set forth in subsection (a), the Under Secretary shall ensure the cadre has the appropriate number of staff and such staff possesses the necessary skills, knowledge, and experience to carry out the duties under subsection (b), including in relevant areas of law, contracting, acquisition, logistics, engineering, financial analysis, and valuation. The Under Secretary, in coordination with the Defense Acquisition University and in consultation with academia and industry, shall develop a career path, including development opportunities, exchanges, talent management programs, and training, for the cadre. The Under Secretary may use existing authorities to staff the cadre, including those in paragraphs (2), (3), (4), and (6).
+
+  * (2) Civilian personnel from within the Office of the Secretary of Defense, Joint Staff, military departments, Defense Agencies, and combatant commands may be assigned to serve as members of the cadre, upon request of the Director.
+
+  * (3) The Under Secretary may use the authorities for highly qualified experts under section 9903 of title 5, to hire experts as members of the cadre who are skilled professionals in intellectual property and related matters.
+
+  * (4) The Under Secretary may enter into a contract with a private-sector entity for specialized expertise to support the cadre. Such entity may be considered a covered Government support contractor, as defined in section 3775(a) of this title.
+
+  * (5) In establishing the cadre, the Under Secretary shall give preference to civilian employees of the Department of Defense, rather than members of the armed forces, to maintain continuity in the cadre.
+
+  * (6) The Under Secretary is authorized to use amounts in the Defense Acquisition Workforce Development Fund for the purpose of recruitment, training, and retention of the cadre, including paying salaries of newly hired members of the cadre for up to three years.

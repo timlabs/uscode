@@ -128,7 +128,7 @@
 
       * (i) DESIGNATED BENEFICIARY.—The term "designated beneficiary" means any individual designated as a beneficiary by the employee.
 
-      * (ii) Eligible designated beneficiary.—The term "eligible designated beneficiary" means, with respect to any employee, any designated beneficiary who is—
+      * (ii) ELIGIBLE DESIGNATED BENEFICIARY.—The term "eligible designated beneficiary" means, with respect to any employee, any designated beneficiary who is—
 
         * (I) the surviving spouse of the employee,
 
@@ -144,6 +144,7 @@
   * &nbsp;The determination of whether a designated beneficiary is an eligible designated beneficiary shall be made as of the date of death of the employee.
 
       * (iii) SPECIAL RULE FOR CHILDREN.—Subject to subparagraph (F), an individual described in clause (ii)(II) shall cease to be an eligible designated beneficiary as of the date the individual reaches majority and any remainder of the portion of the individual's interest to which subparagraph (H)(ii) applies shall be distributed within 10 years after such date.
+
 
     * (F) TREATMENT OF PAYMENTS TO CHILDREN.—Under regulations prescribed by the Secretary, for purposes of this paragraph, any amount paid to a child shall be treated as if it had been paid to the surviving spouse if such amount will become payable to the surviving spouse upon such child reaching majority (or other designated event permitted under regulations).
 
@@ -181,6 +182,32 @@
 
 
       * (vi) APPLICATION TO CERTAIN ELIGIBLE RETIREMENT PLANS.—For purposes of applying the provisions of this subparagraph in determining amounts required to be distributed pursuant to this paragraph, all eligible retirement plans (as defined in section 402(c)(8)(B), other than a defined benefit plan described in clause (iv) or (v) thereof or a qualified trust which is a part of a defined benefit plan) shall be treated as a defined contribution plan.
+
+
+    * (I) TEMPORARY WAIVER OF MINIMUM REQUIRED DISTRIBUTION.—
+
+      * (i) IN GENERAL.—The requirements of this paragraph shall not apply for calendar year 2020 to—
+
+        * (I) a defined contribution plan which is described in this subsection or in section 403(a) or 403(b),
+
+        * (II) a defined contribution plan which is an eligible deferred compensation plan described in section 457(b) but only if such plan is maintained by an employer described in section 457(e)(1)(A), or
+
+        * (III) an individual retirement plan.
+
+
+      * (ii) SPECIAL RULE FOR REQUIRED BEGINNING DATES IN 2020.—Clause (i) shall apply to any distribution which is required to be made in calendar year 2020 by reason of—
+
+        * (I) a required beginning date occurring in such calendar year, and
+
+        * (II) such distribution not having been made before January 1, 2020.
+
+
+      * (iii) SPECIAL RULES REGARDING WAIVER PERIOD.—For purposes of this paragraph—
+
+        * (I) the required beginning date with respect to any individual shall be determined without regard to this subparagraph for purposes of applying this paragraph for calendar years after 2020, and
+
+        * (II) if clause (ii) of subparagraph (B) applies, the 5-year period described in such clause shall be determined without regard to calendar year 2020.
+
 
   * (10) OTHER REQUIREMENTS.—
 
@@ -403,6 +430,7 @@
           * (aa) to cease all benefit accruals, or
 
           * (bb) to provide future benefit accruals only to a closed class of participants,
+
 
         * (II) the plan satisfies subparagraph (A) (without regard to this subparagraph) as of the effective date of the amendment, and
 
@@ -645,7 +673,15 @@
         | 2d | 66&nbsp;&nbsp; |
         | 3d and following | 100. |
         
-  * (36) DISTRIBUTIONS DURING WORKING RETIREMENT.—A trust forming part of a pension plan shall not be treated as failing to constitute a qualified trust under this section solely because the plan provides that a distribution may be made from such trust to an employee who has attained age 59½ and who is not separated from employment at the time of such distribution.
+  * (36) DISTRIBUTIONS DURING WORKING RETIREMENT.—
+
+    * (A) IN GENERAL.—A trust forming part of a pension plan shall not be treated as failing to constitute a qualified trust under this section solely because the plan provides that a distribution may be made from such trust to an employee who has attained age 59½ and who is not separated from employment at the time of such distribution.
+
+    * (B) Certain employees in the building and construction industry.—Subparagraph (A) shall be applied by substituting "age 55" for "age 59½" in the case of a multiemployer plan described in section 4203(b)(1)(B)(i) of the Employee Retirement Income Security Act of 1974, with respect to individuals who were participants in such plan on or before April 30, 2013, if—
+
+      * (i) the trust to which subparagraph (A) applies was in existence before January 1, 1970, and
+
+      * (ii) before December 31, 2011, at a time when the plan provided that distributions may be made to an employee who has attained age 55 and who is not separated from employment at the time of such distribution, the plan received at least 1 written determination from the Internal Revenue Service that the trust to which subparagraph (A) applies constituted a qualified trust under this section.
 
   * (37) DEATH BENEFITS UNDER USERRA-QUALIFIED ACTIVE MILITARY SERVICE.—A trust shall not constitute a qualified trust unless the plan provides that, in the case of a participant who dies while performing qualified military service (as defined in section 414(u)), the survivors of the participant are entitled to any additional benefits (other than benefit accruals relating to the period of qualified military service) provided under the plan had the participant resumed and then terminated employment on account of death.
 
@@ -831,7 +867,11 @@
 
     * (C) which provides that an employee's right to his accrued benefit derived from employer contributions made to the trust pursuant to his election is nonforfeitable, and
 
-    * (D) which does not require, as a condition of participation in the arrangement, that an employee complete a period of service with the employer (or employers) maintaining the plan extending beyond the period permitted under section 410(a)(1) (determined without regard to subparagraph (B)(i) thereof).
+    * (D) which does not require, as a condition of participation in the arrangement, that an employee complete a period of service with the employer (or employers) maintaining the plan extending beyond the close of the earlier of—
+
+      * (i) the period permitted under section 410(a)(1) (determined without regard to subparagraph (B)(i) thereof), or
+
+      * (ii) subject to the provisions of paragraph (15), the first period of 3 consecutive 12-month periods during each of which the employee has at least 500 hours of service.
 
 * #### (3) Application of participation and discrimination standards
     * (A) A cash or deferred arrangement shall not be treated as a qualified cash or deferred arrangement unless—
@@ -1202,6 +1242,39 @@
 
   * #### (B) No requirement to take available loan
     * A distribution shall not be treated as failing to be made upon the hardship of an employee solely because the employee does not take any available loan under the plan.
+
+* #### (15) Special rules for participation requirement for long-term, part-time workers
+  * For purposes of paragraph (2)(D)(ii)—
+
+  * #### (A) Age requirement must be met
+    * Paragraph (2)(D)(ii) shall not apply to an employee unless the employee has met the requirement of section 410(a)(1)(A)(i) by the close of the last of the 12-month periods described in such paragraph.
+
+  * #### (B) Nondiscrimination and top-heavy rules not to apply
+    * #### (i) Nondiscrimination rules
+      * In the case of employees who are eligible to participate in the arrangement solely by reason of paragraph (2)(D)(ii)—
+
+        * (I) notwithstanding subsection (a)(4), an employer shall not be required to make nonelective or matching contributions on behalf of such employees even if such contributions are made on behalf of other employees eligible to participate in the arrangement, and
+
+        * (II) an employer may elect to exclude such employees from the application of subsection (a)(4), paragraphs (3), (12), and (13), subsection (m)(2), and section 410(b).
+
+    * #### (ii) Top-heavy rules
+      * An employer may elect to exclude all employees who are eligible to participate in a plan maintained by the employer solely by reason of paragraph (2)(D)(ii) from the application of the vesting and benefit requirements under subsections (b) and (c) of section 416.
+
+    * #### (iii) Vesting
+      * For purposes of determining whether an employee described in clause (i) has a nonforfeitable right to employer contributions (other than contributions described in paragraph (3)(D)(i)) under the arrangement, each 12-month period for which the employee has at least 500 hours of service shall be treated as a year of service, and section 411(a)(6) shall be applied by substituting "at least 500 hours of service" for "more than 500 hours of service" in subparagraph (A) thereof.
+
+    * #### (iv) Employees who become full-time employees
+      * This subparagraph (other than clause (iii)) shall cease to apply to any employee as of the first plan year beginning after the plan year in which the employee meets the requirements of section 410(a)(1)(A)(ii) without regard to paragraph (2)(D)(ii).
+
+  * #### (C) Exception for employees under collectively bargained plans, etc.
+    * Paragraph (2)(D)(ii) shall not apply to employees described in section 410(b)(3).
+
+  * #### (D) Special rules
+    * #### (i) Time of participation
+      * The rules of section 410(a)(4) shall apply to an employee eligible to participate in an arrangement solely by reason of paragraph (2)(D)(ii).
+
+    * #### (ii) 12-month periods
+      * 12-month periods shall be determined in the same manner as under the last sentence of section 410(a)(3)(A).
 
 #### (l) Permitted disparity in plan contributions or benefits
 * #### (1) In general
@@ -1735,7 +1808,7 @@
     * (C) any distribution which is made upon hardship of the employee.
 
 
-* If all or any portion of a distribution during 2009 is treated as an eligible rollover distribution but would not be so treated if the minimum distribution requirements under section 401(a)(9) had applied during 2009, such distribution shall not be treated as an eligible rollover distribution for purposes of section 401(a)(31) or 3405(c) or subsection (f) of this section.
+* If all or any portion of a distribution during 2020 is treated as an eligible rollover distribution but would not be so treated if the minimum distribution requirements under section 401(a)(9) had applied during 2020, such distribution shall not be treated as an eligible rollover distribution for purposes of section 401(a)(31) or 3405(c) or subsection (f) of this section.
 
 * #### (5) Transfer treated as rollover contribution under section 408
   * For purposes of this title, a transfer to an eligible retirement plan described in clause (i) or (ii) of paragraph (8)(B) resulting in any portion of a distribution being excluded from gross income under paragraph (1) shall be treated as a rollover contribution described in section 408(d)(3).
@@ -3158,6 +3231,8 @@
   * (1) The trust satisfies the requirements of paragraphs (1) through (6) of subsection (a).
 
   * (2) There is a separate accounting for the interest of each employee or member (or spouse of an employee or member).
+
+  * (3) There is a separate accounting for any interest of an employee or member (or spouse of an employee or member) in a Roth IRA.
 
 
 * The assets of the trust may be held in a common fund for the account of all individuals who have an interest in the trust.

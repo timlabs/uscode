@@ -370,7 +370,7 @@
 
 ### §16137. Authorization of appropriations
 #### (a) In general
-* There is authorized to be appropriated to carry out this part $100,000,000 for each of fiscal years 2012 through 2016, to remain available until expended.
+* There is authorized to be appropriated to carry out this part $100,000,000 for each of fiscal years 2012 through 2024, to remain available until expended.
 
 #### (b) Management and oversight
 * The Administrator may use not more than 1 percent of the amounts made available under subsection (a) for each fiscal year for management and oversight purposes.

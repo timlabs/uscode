@@ -8,7 +8,7 @@
 * (c) The convening of selection boards under subsections (a) and (b) shall be under regulations prescribed by the Secretary of Defense.
 
 ### §612. Composition of selection boards
-* (a)(1) Members of selection boards shall be appointed by the Secretary of the military department concerned in accordance with this section. A selection board shall consist of five or more officers of the same armed force as the officers under consideration by the board. Each member of a selection board (except as provided in paragraphs (2), (3), and (4)) shall be an officer on the active-duty list. Each member of a selection board must be serving in a grade higher than the grade of the officers under consideration by the board, except that no member of a board may be serving in a grade below major or lieutenant commander.
+* (a)(1) Members of selection boards shall be appointed by the Secretary of the military department concerned in accordance with this section. A selection board shall consist of five or more officers of the same armed force as the officers under consideration by the board. Each member of a selection board (except as provided in paragraphs (2), (3), and (4)) shall be an officer on the active-duty list. Each member of a selection board must be serving in a grade higher than the grade of the officers under consideration by the board, except that no member of a board may be serving in a grade below major or lieutenant commander. The members of a selection board shall represent the diverse population of the armed force concerned to the extent practicable.
 
 * (2)(A) Except as provided in subparagraph (B), a selection board shall include at least one officer from each competitive category of officers to be considered by the board.
 
@@ -77,12 +77,14 @@
 
 * (B) A grade specified in this subparagraph is as follows:
 
-  * (i) In the case of a regular officer, a grade above captain or, in the case of the Navy, lieutenant.
+  * (i) In the case of a regular officer, a grade above captain, in the case of the Navy, lieutenant, or in the case of the Space Force, the equivalent grade.
 
   * (ii) In the case of a reserve officer, a grade above lieutenant colonel or, in the case of the Navy, commander.
 
 
 * (C) The standards and procedures referred to in subparagraph (A) shall require the furnishing to the selection board, and to each individual member of the board, the information described in that subparagraph with regard to an officer in a grade specified in subparagraph (B) at each stage or phase of the selection board, concurrent with the screening, rating, assessment, evaluation, discussion, or other consideration by the board or member of the official military personnel file of the officer, or of the officer.
+
+* (D) With respect to the consideration of an officer for promotion to a grade at or below major general, in the case of the Navy, rear admiral, or, in the case of the Space Force, the equivalent grade, the requirements in subparagraphs (A) and (C) may be met through the convening and actions of a special selection review board with respect to the officer under section 628a of this title.
 
 * (4) Information provided to a selection board in accordance with paragraphs (2) and (3) shall be made available to all members of the board and shall be made a part of the record of the board. Communication of such information shall be in a written form or in the form of an audio or video recording. If a communication is in the form of an audio or video recording, a written transcription of the recording shall also be made a part of the record of the selection board.
 
@@ -152,11 +154,11 @@
   * (2) attempt to coerce or, by any unauthorized means, influence any action of a selection board or any member of a selection board in the formulation of the board's recommendations.
 
 
-* (h)(1) In selecting the officers to be recommended for promotion, a selection board may, when authorized by the Secretary of the military department concerned, recommend officers of particular merit, from among those officers selected for promotion, to be placed higher on the promotion list established by the Secretary under section 624(a)(1) of this title.
+* (h)(1) In selecting the officers to be recommended for promotion, a selection board shall, when authorized by the Secretary of the military department concerned, recommend officers of particular merit, pursuant to guidelines and procedures prescribed by the Secretary, from among those officers selected for promotion, to be placed higher on the promotion list established by the Secretary under section 624(a)(1) of this title.
 
 * (2) An officer may be recommended to be placed higher on a promotion list under paragraph (1) only if the officer receives the recommendation of at least a majority of the members of the board, unless the Secretary concerned establishes an alternative requirement. Any such alternative requirement shall be furnished to the board as part of the guidelines furnished to the board under section 615 of this title.
 
-* (3) For the officers recommended to be placed higher on a promotion list under paragraph (1), the board shall recommend the order in which those officers should be placed on the list.
+* (3) For the officers recommended to be placed higher on a promotion list under paragraph (1), the board shall recommend, pursuant to guidelines and procedures prescribed by the Secretary concerned, the order in which those officers should be placed on the list.
 
 ### §617. Reports of selection boards
 * (a) Each selection board convened under section 611(a) of this title shall submit to the Secretary of the military department concerned a written report, signed by each member of the board, containing a list of the names of the officers it recommends for promotion and certifying (1) that the board has carefully considered the record of each officer whose name was furnished to it under section 615 of this title, and (2) that, in the opinion of a majority of the members of the board, the officers recommended for promotion by the board are best qualified for promotion to meet the needs of the armed force concerned (as noted in the guidelines or information furnished the board under section 615(b) of this title) among those officers whose names were furnished to the selection board.
@@ -165,7 +167,7 @@
 
 * (c) A selection board convened under section 611(a) of this title shall include in its report to the Secretary concerned the name of any officer considered and not recommended for promotion by the board who submitted to the board a request not to be selected for promotion or who otherwise directly caused his nonselection through written communication to the Board under section 614(b) of this title.
 
-* (d) A selection board convened under section 611(a) of this title shall, when authorized under section 616(g) of this title, include in its report to the Secretary concerned the names of those officers recommended by the board to be placed higher on the promotion list and the order in which the board recommends that those officers should be placed on the list.
+* (d) A selection board convened under section 611(a) of this title shall, when authorized under section section 616(h) of this title, include in its report to the Secretary concerned the names of those officers recommended by the board to be placed higher on the promotion list and the order in which the board recommends that those officers should be placed on the list.
 
 ### §618. Action on reports of selection boards
 * (a)(1) Upon receipt of the report of a selection board submitted to him under section 617(a) of this title, the Secretary of the military department concerned shall review the report to determine whether the board has acted contrary to law or regulation or to guidelines furnished the board under section 615(b) of this title. Following such review, unless the Secretary concerned makes a determination as described in paragraph (2), the Secretary shall submit the report as required by subsection (b) or (c), as appropriate.

@@ -76,9 +76,6 @@
 ### §857–19. Biennial report
 * Beginning in September, 2001, the President shall transmit to the Congress biennially a report that includes a detailed listing of all existing Federal programs related to ocean and coastal activities, including a description of each program, the current funding for the program, linkages to other Federal programs, and a projection of the funding level for the program for each of the next 5 fiscal years beginning after the report is submitted.
 
-### §857–20. Coordination
-* Not later than February 15 of each year, the Under Secretary of Commerce for Oceans and Atmosphere and the Director of the National Science Foundation shall jointly submit to the Committees on Resources and Science of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on how the oceans and coastal research activities of the National Oceanic and Atmospheric Administration, including the Coastal Ocean Program and the National Sea Grant College Program, and of the National Science Foundation will be coordinated during the fiscal year following the fiscal year in which the report is submitted. The report shall describe in detail any overlapping ocean and coastal research interests between the agencies and specify how such research interests will be pursued by the programs in a complementary manner.
-
 ### §873. Extra compensation for instrument observers, recorders and other Federal employees for oceanographic, seismographic and magnetic observations
 * The Secretary of Commerce is authorized to pay extra compensation to members of crews of vessels when assigned duties as instrument observer or recorder, and to employees of other Federal agencies while observing tides or currents, or tending seismographs or magnetographs, at such rates as may be specified from time to time by him and without regard to section 5533 of title 5.
 

@@ -411,7 +411,7 @@
 
     * (F) the Army Corps of Engineers;
 
-    * (G) the Saint Lawrence Seaway Development Corporation;
+    * (G) the Great Lakes St. Lawrence Seaway Development Corporation;
 
     * (H) the Bureau of Labor Statistics;
 

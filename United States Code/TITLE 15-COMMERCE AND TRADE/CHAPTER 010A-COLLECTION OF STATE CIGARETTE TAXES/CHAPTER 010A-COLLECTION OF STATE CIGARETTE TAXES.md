@@ -12,7 +12,11 @@
 
       * (i) has the meaning given that term in section 2341 of title 18; and
 
-      * (ii) includes roll-your-own tobacco (as defined in section 5702 of title 26).
+      * (ii) includes—
+
+        * (I) roll-your-own tobacco (as defined in section 5702 of title 26); and
+
+        * (II) an electronic nicotine delivery system.
 
   * #### (B) Exception
     * The term "cigarette" does not include a cigar (as defined in section 5702 of title 26).
@@ -37,36 +41,69 @@
 * #### (6) Delivery seller
   * The term "delivery seller" means a person who makes a delivery sale.
 
-* #### (7) Indian country
+* #### (7) Electronic nicotine delivery system
+  * The term "electronic nicotine delivery system"—
+
+    * (A) means any electronic device that, through an aerosolized solution, delivers nicotine, flavor, or any other substance to the user inhaling from the device;
+
+    * (B) includes—
+
+      * (i) an e-cigarette;
+
+      * (ii) an e-hookah;
+
+      * (iii) an e-cigar;
+
+      * (iv) a vape pen;
+
+      * (v) an advanced refillable personal vaporizer;
+
+      * (vi) an electronic pipe; and
+
+      * (vii) any component, liquid, part, or accessory of a device described in subparagraph (A), without regard to whether the component, liquid, part, or accessory is sold separately from the device; and
+
+
+    * (C) does not include a product that is—
+
+      * (i) approved by the Food and Drug Administration for—
+
+        * (I) sale as a tobacco cessation product; or
+
+        * (II) any other therapeutic purpose; and
+
+
+      * (ii) marketed and sold solely for a purpose described in clause (i).
+
+* #### (8) Indian country
   * The term "Indian country"—
 
     * (A) has the meaning given that term in section 1151 of title 18, except that within the State of Alaska that term applies only to the Metlakatla Indian Community, Annette Island Reserve; and
 
     * (B) includes any other land held by the United States in trust or restricted status for one or more Indian tribes.
 
-* #### (8) Indian tribe
+* #### (9) Indian tribe
   * The term "Indian tribe", "tribe", or "tribal" refers to an Indian tribe as defined in section 5304(e) of title 25 or as listed pursuant to section 5131 of title 25.
 
-* #### (9) Interstate commerce
+* #### (10) Interstate commerce
   * #### (A) In general
     * The term "interstate commerce" means commerce between a State and any place outside the State, commerce between a State and any Indian country in the State, or commerce between points in the same State but through any place outside the State or through any Indian country.
 
   * #### (B) Into a State, place, or locality
     * A sale, shipment, or transfer of cigarettes or smokeless tobacco that is made in interstate commerce, as defined in this paragraph, shall be deemed to have been made into the State, place, or locality in which such cigarettes or smokeless tobacco are delivered.
 
-* #### (10) Person
+* #### (11) Person
   * The term "person" means an individual, corporation, company, association, firm, partnership, society, State government, local government, Indian tribal government, governmental organization of such a government, or joint stock company.
 
-* #### (11) State
+* #### (12) State
   * The term "State" means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, or any territory or possession of the United States.
 
-* #### (12) Smokeless tobacco
+* #### (13) Smokeless tobacco
   * The term "smokeless tobacco" means any finely cut, ground, powdered, or leaf tobacco, or other product containing tobacco, that is intended to be placed in the oral or nasal cavity or otherwise consumed without being combusted.
 
-* #### (13) Tobacco tax administrator
+* #### (14) Tobacco tax administrator
   * The term "tobacco tax administrator" means the State, local, or tribal official duly authorized to collect the tobacco tax or administer the tax law of a State, locality, or tribe, respectively.
 
-* #### (14) Use
+* #### (15) Use
   * The term "use" includes the consumption, storage, handling, or disposal of cigarettes or smokeless tobacco.
 
 ### §376. Reports to State tobacco tax administrator
@@ -108,7 +145,7 @@
 
 #### (b) Shipping and packaging
 * #### (1) Required statement
-  * For any shipping package containing cigarettes or smokeless tobacco, the delivery seller shall include on the bill of lading, if any, and on the outside of the shipping package, on the same surface as the delivery address, a clear and conspicuous statement providing as follows: "CIGARETTES/SMOKELESS TOBACCO: FEDERAL LAW REQUIRES THE PAYMENT OF ALL APPLICABLE EXCISE TAXES, AND COMPLIANCE WITH APPLICABLE LICENSING AND TAX-STAMPING OBLIGATIONS".
+  * For any shipping package containing cigarettes or smokeless tobacco, the delivery seller shall include on the bill of lading, if any, and on the outside of the shipping package, on the same surface as the delivery address, a clear and conspicuous statement providing as follows: "CIGARETTES/NICOTINE/SMOKELESS TOBACCO: FEDERAL LAW REQUIRES THE PAYMENT OF ALL APPLICABLE EXCISE TAXES, AND COMPLIANCE WITH APPLICABLE LICENSING AND TAX-STAMPING OBLIGATIONS".
 
 * #### (2) Failure to label
   * Any shipping package described in paragraph (1) that is not labeled in accordance with that paragraph shall be treated as nondeliverable matter by a common carrier or other delivery service, if the common carrier or other delivery service knows or should know the package contains cigarettes or smokeless tobacco. If a common carrier or other delivery service believes a package is being submitted for delivery in violation of paragraph (1), it may require the person submitting the package for delivery to establish that it is not being sent in violation of paragraph (1) before accepting the package for delivery. Nothing in this paragraph shall require the common carrier or other delivery service to open any package to determine its contents.

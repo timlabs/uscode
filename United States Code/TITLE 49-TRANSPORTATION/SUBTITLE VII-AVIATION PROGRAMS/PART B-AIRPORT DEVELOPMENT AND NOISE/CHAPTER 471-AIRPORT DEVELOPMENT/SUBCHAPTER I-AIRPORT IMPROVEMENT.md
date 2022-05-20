@@ -980,20 +980,34 @@
 
 * (w) MOTHERS' ROOMS.—
 
-  * (1) IN GENERAL.—In fiscal year 2021 and each fiscal year thereafter, the Secretary of Transportation may approve an application under this subchapter for an airport development project grant only if the Secretary receives written assurances that the airport owner or operator will maintain—
+  * (1) IN GENERAL.—The Secretary of Transportation may approve an application under this subchapter for an airport development project grant only if the Secretary receives written assurances that the airport owner or operator will maintain—
 
     * (A) a lactation area in the sterile area of each passenger terminal building of the airport; and
 
-    * (B) a baby changing table in one men's and one women's restroom in each passenger terminal building of the airport.
+    * (B) a baby changing table in at least one men's and at least one women's restroom in each passenger terminal building of the airport.
 
 
   * (2) APPLICABILITY.—
 
-    * (A) AIRPORT SIZE.—The requirement in paragraph (1) shall only apply to applications submitted by the airport sponsor of a medium or large hub airport.
+    * (A) AIRPORT SIZE.—
 
-    * (B) PREEXISTING FACILITIES.—On application by an airport sponsor, the Secretary may determine that a lactation area in existence on the date of enactment of this Act complies with the requirement in paragraph (1), notwithstanding the absence of one of the facilities or characteristics referred to in the definition of the term "lactation area" in this subsection.
+      * (i) IN GENERAL.—The requirements in paragraph (1) shall only apply to applications submitted by the airport sponsor of—
 
-    * (C) SPECIAL RULE.—The requirement in paragraph (1) shall not apply with respect to a project grant application for a period of time, determined by the Secretary, if the Secretary determines that construction or maintenance activities make it impracticable or unsafe for the lactation area to be located in the sterile area of the building.
+        * (I) a medium or large hub airport in fiscal year 2021 and each fiscal year thereafter; and
+
+        * (II) an applicable small hub airport in fiscal year 2023 and each fiscal year thereafter.
+
+
+      * (ii) APPLICABLE SMALL HUB AIRPORT DEFINED.—In clause (i)(II), the term "applicable small hub airport" means an airport designated as a small hub airport during—
+
+        * (I) the 3-year period consisting of 2020, 2021, and 2022; or
+
+        * (II) any consecutive 3-year period beginning after 2020.
+
+
+    * (B) PREEXISTING FACILITIES.—On application by an airport sponsor, the Secretary may determine that a lactation area in existence on October 5, 2018, complies with the requirement in paragraph (1)(A), notwithstanding the absence of one of the facilities or characteristics referred to in the definition of the term "lactation area" in this subsection.
+
+    * (C) SPECIAL RULE.—The requirement in paragraph (1)(A) shall not apply with respect to a project grant application for a period of time, determined by the Secretary, if the Secretary determines that construction or maintenance activities make it impracticable or unsafe for the lactation area to be located in the sterile area of the building.
 
 
   * (3) DEFINITION.—In this section, the term—
@@ -1348,6 +1362,14 @@
     * (H) MINIMUM APPORTIONMENT FOR COMMERCIAL SERVICE AIRPORTS WITH MORE THAN 8,000 PASSENGER BOARDINGS IN A CALENDAR YEAR.—Not less than $600,000 may be apportioned under subparagraph (A) for each fiscal year to each sponsor of a commercial service airport that had fewer than 10,000 passenger boardings, but at least 8,000 passenger boardings, during the prior calendar year.
 
     * (I) SEASONAL AIRPORTS.—Notwithstanding section 47102, if the Secretary determines that a commercial service airport with at least 8,000 passenger boardings receives scheduled air carrier service for fewer than 6 months in the calendar year used to calculate apportionments to airport sponsors in a fiscal year, then the Secretary shall consider the airport to be a nonhub primary airport for purposes of this chapter.
+
+    * (J) Special rule for fiscal years 2022 and 2023.—Notwithstanding subparagraph (A) and the absence of scheduled passenger aircraft service at an airport, the Secretary shall apportion in fiscal years 2022 and 2023 to the sponsor of the airport an amount based on the number of passenger boardings at the airport during whichever of the following years that would result in the highest apportioned amount:
+
+      * (i) Calendar year 2018.
+
+      * (ii) Calendar year 2019.
+
+      * (iii) The prior full calendar year prior to the current fiscal year.
 
 
 * (2) CARGO AIRPORTS.—

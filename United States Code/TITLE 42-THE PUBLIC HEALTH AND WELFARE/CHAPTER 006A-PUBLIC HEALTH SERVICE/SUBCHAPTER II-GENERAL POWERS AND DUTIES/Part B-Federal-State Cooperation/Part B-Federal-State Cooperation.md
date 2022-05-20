@@ -74,48 +74,59 @@
 #### (e) Authorization of appropriations
 * For the purpose of carrying out this section, there are authorized to be appropriated $25,000,000 for for each of fiscal years 2003 through 2014. Not more than 10 percent of amounts received under a grant awarded under this section may be used for administrative expenses.
 
-### §245. Public access defibrillation demonstration projects
+### §245. Public awareness campaign on the importance of vaccinations
 #### (a) In general
-* The Secretary shall award grants to political subdivisions of States, Indian tribes, and tribal organizations to develop and implement innovative, comprehensive, community-based public access defibrillation demonstration projects that—
+* The Secretary, acting through the Director of the Centers for Disease Control and Prevention and in coordination with other offices and agencies, as appropriate, shall award competitive grants or contracts to one or more public or private entities to carry out a national, evidence-based campaign to increase awareness and knowledge of the safety and effectiveness of vaccines for the prevention and control of diseases, combat misinformation about vaccines, and disseminate scientific and evidence-based vaccine-related information, with the goal of increasing rates of vaccination across all ages, as applicable, particularly in communities with low rates of vaccination, to reduce and eliminate vaccine-preventable diseases.
 
-  * (1) provide cardiopulmonary resuscitation and automated external defibrillation to cardiac arrest victims in unique settings;
+#### (b) Consultation
+* In carrying out the campaign under this section, the Secretary shall consult with appropriate public health and medical experts, including the National Academy of Medicine and medical and public health associations and nonprofit organizations, in the development, implementation, and evaluation of the evidence-based public awareness campaign.
 
-  * (2) provide training to community members in cardiopulmonary resuscitation and automated external defibrillation; and
+#### (c) Requirements
+* The campaign under this section shall—
 
-  * (3) maximize community access to automated external defibrillators.
+  * (1) be a nationwide, evidence-based media and public engagement initiative;
 
-#### (b) Use of funds
-* A recipient of a grant under subsection (a) shall use the funds provided through the grant to—
+  * (2) include the development of resources for communities with low rates of vaccination, including culturally and linguistically appropriate resources, as applicable;
 
-  * (1) purchase automated external defibrillators that have been approved, or cleared for marketing, by the Food and Drug Administration;
+  * (3) include the dissemination of vaccine information and communication resources to public health departments, health care providers, and health care facilities, including such providers and facilities that provide prenatal and pediatric care;
 
-  * (2) provide basic life training in automated external defibrillator usage through nationally recognized courses;
+  * (4) be complementary to, and coordinated with, any other Federal, State, local, or Tribal efforts, as appropriate; and
 
-  * (3) provide information to community members about the public access defibrillation demonstration project to be funded with the grant;
+  * (5) assess the effectiveness of communication strategies to increase rates of vaccination.
 
-  * (4) provide information to the local emergency medical services system regarding the placement of automated external defibrillators in the unique settings; and
+#### (d) Additional activities
+* The campaign under this section may—
 
-  * (5) further develop strategies to improve access to automated external defibrillators in public places.
+  * (1) include the use of television, radio, the internet, and other media and telecommunications technologies;
 
-#### (c) Application
-* #### (1) In general
-  * To be eligible to receive a grant under subsection (a), a political subdivision of a State, Indian tribe, or tribal organization shall prepare and submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may reasonably require.
+  * (2) include the use of in-person activities;
 
-* #### (2) Contents
-  * An application submitted under paragraph (1) may—
+  * (3) be focused to address specific needs of communities and populations with low rates of vaccination; and
 
-    * (A) describe the innovative, comprehensive, community-based public access defibrillation demonstration project to be funded with the grant;
+  * (4) include the dissemination of scientific and evidence-based vaccine-related information, such as—
 
-    * (B) explain how such public access defibrillation demonstration project represents innovation in providing public access to automated external defibrillation; and
+    * (A) advancements in evidence-based research related to diseases that may be prevented by vaccines and vaccine development;
 
-    * (C) provide for the collection of data regarding the effectiveness of the demonstration project to be funded with the grant in—
+    * (B) information on vaccinations for individuals and communities, including individuals for whom vaccines are not recommended by the Advisory Committee for Immunization Practices, and the effects of low vaccination rates within a community on such individuals;
 
-      * (i) providing emergency cardiopulmonary resuscitation and automated external defibrillation to cardiac arrest victims in the setting served by the demonstration project; and
+    * (C) information on diseases that may be prevented by vaccines; and
 
-      * (ii) affecting the cardiac arrest survival rate in the setting served by the demonstration project.
+    * (D) information on vaccine safety and the systems in place to monitor vaccine safety.
 
-#### (d) Authorization of appropriations
-* There is authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2002 through 2006. Not more than 10 percent of amounts received under a grant awarded under this section may be used for administrative expenses.
+#### (e) Evaluation
+* The Secretary shall—
+
+  * (1) establish benchmarks and metrics to quantitatively measure and evaluate the awareness campaign under this section;
+
+  * (2) conduct qualitative assessments regarding the awareness campaign under this section; and
+
+  * (3) prepare and submit to the Committee on Health, Education, Labor, and Pensions of the Senate and Committee on Energy and Commerce of the House of Representatives an evaluation of the awareness campaign under this section.
+
+#### (f) Supplement not supplant
+* Funds appropriated under this section shall be used to supplement and not supplant other Federal, State, and local public funds provided for activities described in this section.
+
+#### (g) Authorization of appropriations
+* There are authorized to be appropriated to carry out this section and subsections (k) and (n) of section 247b of this title, $15,000,000 for each of fiscal years 2021 through 2025.
 
 ### §246. Grants and services to States
 #### (a) Comprehensive health planning and services
@@ -283,9 +294,26 @@
 
   * (B) demonstration projects for the prevention and control of such diseases;
 
-  * (C) public information and education programs for the prevention and control of such diseases; and
+  * (C) public information and education programs for the prevention and control of such diseases;
 
-  * (D) education, training, and clinical skills improvement activities in the prevention and control of such diseases for health professionals (including allied health personnel).
+  * (D) education, training, and clinical skills improvement activities in the prevention and control of such diseases for health professionals (including allied health personnel);
+
+  * (E) planning, implementation, and evaluation of activities to address vaccine-preventable diseases, including activities to—
+
+    * (i) identify communities at high risk of outbreaks related to vaccine-preventable diseases, including through improved data collection and analysis;
+
+    * (ii) pilot innovative approaches to improve vaccination rates in communities and among populations with low rates of vaccination;
+
+    * (iii) reduce barriers to accessing vaccines and evidence-based information about the health effects of vaccines;
+
+    * (iv) partner with community organizations and health care providers to develop and deliver evidence-based interventions, including culturally and linguistically appropriate interventions, to increase vaccination rates;
+
+    * (v) improve delivery of evidence-based vaccine-related information to parents and others; and
+
+    * (vi) improve the ability of State, local, Tribal, and territorial public health departments to engage communities at high risk for outbreaks related to vaccine-preventable diseases, including, as appropriate, with local educational agencies, as defined in section 7801 of title 20; and
+
+
+  * (F) research related to strategies for improving awareness of scientific and evidence-based vaccine-related information, including for communities with low rates of vaccination, in order to understand barriers to vaccination, improve vaccination rates, and assess the public health outcomes of such strategies.
 
 
 * (2) The Secretary may make grants to States, political subdivisions of States, and other public and nonprofit private entities for—
@@ -349,6 +377,9 @@
 
 * #### (7) Authorization of appropriations
   * There is authorized to be appropriated to carry out this subsection, such sums as may be necessary for each of fiscal years 2010 through 2014.
+
+#### (n) Vaccination data
+* The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall expand and enhance, and, as appropriate, establish and improve, programs and conduct activities to collect, monitor, and analyze vaccination coverage data to assess levels of protection from vaccine-preventable diseases, including by assessing factors contributing to underutilization of vaccines and variations of such factors, and identifying communities at high risk of outbreaks associated with vaccine-preventable diseases.
 
 ### §247b–1. Screenings, referrals, and education regarding lead poisoning
 #### (a) Authority for grants
@@ -3417,7 +3448,7 @@
 ### §247d–6b. Strategic National Stockpile and security countermeasure procurements
 #### (a) Strategic National Stockpile
 * #### (1) In general
-  * The Secretary, in collaboration with the Assistant Secretary for Preparedness and Response and the Director of the Centers for Disease Control and Prevention, and in coordination with the Secretary of Homeland Security (referred to in this section as the "Homeland Security Secretary"), shall maintain a stockpile or stockpiles of drugs, vaccines and other biological products, medical devices, and other supplies in such numbers, types, and amounts as are determined consistent with section 300hh–10 of this title by the Secretary to be appropriate and practicable, taking into account other available sources, to provide for and optimize the emergency health security of the United States, including the emergency health security of children and other vulnerable populations, in the event of a bioterrorist attack or other public health emergency and, as informed by existing recommendations of, or consultations with, the Public Health Emergency Medical Countermeasure Enterprise established under section 300hh–10a of this title, make necessary additions or modifications to the contents of such stockpile or stockpiles based on the review conducted under paragraph (2).
+  * The Secretary, in collaboration with the Assistant Secretary for Preparedness and Response and the Director of the Centers for Disease Control and Prevention, and in coordination with the Secretary of Homeland Security (referred to in this section as the "Homeland Security Secretary"), shall maintain a stockpile or stockpiles of drugs, vaccines and other biological products, medical devices, and other supplies (including personal protective equipment, ancillary medical supplies, and other applicable supplies required for the administration of drugs, vaccines and other biological products, medical devices, and diagnostic tests in the stockpile) in such numbers, types, and amounts as are determined consistent with section 300hh–10 of this title by the Secretary to be appropriate and practicable, taking into account other available sources, to provide for and optimize the emergency health security of the United States, including the emergency health security of children and other vulnerable populations, in the event of a bioterrorist attack or other public health emergency and, as informed by existing recommendations of, or consultations with, the Public Health Emergency Medical Countermeasure Enterprise established under section 300hh–10a of this title, make necessary additions or modifications to the contents of such stockpile or stockpiles based on the review conducted under paragraph (2).
 
 * #### (2) Threat-based review
   * #### (A) In general
@@ -4046,9 +4077,11 @@
 
     * (A) a qualified pandemic or epidemic product (as defined in paragraph (7));
 
-    * (B) a security countermeasure (as defined in section 247d–6b(c)(1)(B) of this title); or
+    * (B) a security countermeasure (as defined in section 247d–6b(c)(1)(B) of this title);
 
-    * (C) a drug (as such term is defined in section 201(g)(1) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 321(g)(1)), biological product (as such term is defined by section 262(i) of this title), or device (as such term is defined by section 201(h) of the Federal Food, Drug and Cosmetic Act (21 U.S.C. 321(h)) that is authorized for emergency use in accordance with section 564, 564A, or 564B of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 360bbb–3, 360bbb–3a, 360bbb–3b].
+    * (C) a drug (as such term is defined in section 201(g)(1) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 321(g)(1)), biological product (as such term is defined by section 262(i) of this title), or device (as such term is defined by section 201(h) of the Federal Food, Drug and Cosmetic Act (21 U.S.C. 321(h)) that is authorized for emergency use in accordance with section 564, 564A, or 564B of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 360bbb–3, 360bbb–3a, 360bbb–3b]; or
+
+    * (D) a respiratory protective device that is approved by the National Institute for Occupational Safety and Health under part 84 of title 42, Code of Federal Regulations (or any successor regulations), and that the Secretary determines to be a priority for use during a public health emergency declared under section 247d of this title.
 
 * #### (2) Covered person
   * The term "covered person", when used with respect to the administration or use of a covered countermeasure, means—
@@ -4525,7 +4558,14 @@
       * #### (II) Written determinations required
         * The authority of this subparagraph may be exercised for a project that is expected to cost the Department of Health and Human Services in excess of $100,000,000 only upon a written determination by the Assistant Secretary for Financial Resources, that the use of such authority is essential to promoting the success of the project. The authority of the Assistant Secretary for Financial Resources under this subclause may not be delegated.
 
-    * #### (iii) Guidelines
+    * #### (iii) Authority during a public health emergency
+      * #### (I) In general
+        * Notwithstanding clause (ii), the Secretary, shall, to the maximum extent practicable, use competitive procedures when entering into transactions to carry out projects under this subsection for purposes of a public health emergency declared by the Secretary under section 247d of this title. Any such transactions entered into during such public health emergency shall not be terminated solely due to the expiration of such public health emergency, if such public health emergency ends before the completion of the terms of such agreement.
+
+      * #### (II) Report
+        * After the expiration of the public health emergency declared by the Secretary under section 247d of this title, the Secretary shall provide a report to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives regarding the use of any funds pursuant to the authority under subclause (I), including any outcomes, benefits, and risks associated with the use of such funds, and a description of the reasons for the use of such authority for the project or projects.
+
+    * #### (iv) Guidelines
       * The Secretary shall establish guidelines regarding the use of the authority under clause (i). Such guidelines shall include auditing requirements.
 
   * #### (B) Expedited authorities
@@ -4635,7 +4675,7 @@
 
       * (ii) meet the surge manufacturing capacity needs presented by novel and emerging threats, including chemical, biological, radiological, and nuclear agents.
 
-### §247d–7f. Collaboration and Coordination
+### §247d–7f. Collaboration and coordination
 #### (a) Limited antitrust exemption
 * #### (1) Meetings and consultations to discuss security countermeasures, qualified countermeasures, or qualified pandemic or epidemic product development
   * #### (A) Authority to conduct meetings and consultations
@@ -4895,3 +4935,65 @@
 
 #### (d) Authorization of appropriations
 * To carry out this section, there is authorized to be appropriated $15,000,000 for each of fiscal years 2019 through 2023.
+
+### §247d–11. State All Payer Claims Databases
+#### (a) In general
+* The Secretary shall make one-time grants to eligible States for the purposes described in subsection (b).
+
+#### (b) Uses
+* A State may use a grant received under subsection (a) for one of the following purposes:
+
+  * (1) To establish a State All Payer Claims Database.
+
+  * (2) To improve an existing State All Payer Claims Databases.
+
+#### (c) Eligibility
+* To be eligible to receive a grant under subsection (a), a State shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary specifies, including, with respect to a State All Payer Claims Database, at least specifics on how the State will ensure uniform data collection and the privacy and security of such data.
+
+#### (d) Grant period and amount
+* Grants awarded under this section shall be for a period of 3-years, and in an amount of $2,500,000, of which $1,000,000 shall be made available to the State for each of the first 2 years of the grant period, and $500,000 shall be made available to the State for the third year of the grant period.
+
+#### (e) Authorized users
+* #### (1) Application
+  * An entity desiring authorization for access to a State All Payer Claims Database that has received a grant under this section shall submit to the State All Payer Claims Database an application for such access, which shall include—
+
+    * (A) in the case of an entity requesting access for research purposes—
+
+      * (i) a description of the uses and methodologies for evaluating health system performance using such data; and
+
+      * (ii) documentation of approval of the research by an institutional review board, if applicable for a particular plan of research; or
+
+
+    * (B) in the case of an entity such as an employer, health insurance issuer, third-party administrator, or health care provider, requesting access for the purpose of quality improvement or cost-containment, a description of the intended uses for such data.
+
+* #### (2) Requirements
+  * #### (A) Access for research purposes
+    * Upon approval of an application for research purposes under paragraph (1)(A), the authorized user shall enter into a data use and confidentiality agreement with the State All Payer Claims Database that has received a grant under this subsection, which shall include a prohibition on attempts to reidentify and disclose individually identifiable health information and proprietary financial information.
+
+  * #### (B) Customized reports
+    * Employers and employer organizations may request customized reports from a State All Payer Claims Database that has received a grant under this section, at cost, subject to the requirements of this section with respect to privacy, security, and proprietary financial information.
+
+  * #### (C) Non-customized reports
+    * A State All Payer Claims Database that has received a grant under this section shall make available to all authorized users aggregate data sets available through the State All Payer Claims Database, free of charge.
+
+* #### (3) Waivers
+  * The Secretary may waive the requirements of this subsection of a State All Payer Claims Database to provide access of entities to such database if such State All Payer Claims Database is substantially in compliance with this subsection.
+
+#### (f) Expanded access
+* #### (1) Multi-State applications
+  * The Secretary may prioritize applications submitted by a State whose application demonstrates that the State will work with other State All Payer Claims Databases to establish a single application for access to data by authorized users across multiple States.
+
+* #### (2) Expansion of data sets
+  * The Secretary may prioritize applications submitted by a State whose application demonstrates that the State will implement the reporting format for self-insured group health plans described in section 1191d of title 29.
+
+#### (g) Definitions
+* In this section—
+
+  * (1) the term "individually identifiable health information" has the meaning given such term in section 1320d(6) of this title;
+
+  * (2) the term "proprietary financial information" means data that would disclose the terms of a specific contract between an individual health care provider or facility and a specific group health plan, managed care entity (as defined in section 1396u–2(a)(1)(B) of this title) or other managed care organization, or health insurance issuer offering group or individual health insurance coverage; and
+
+  * (3) the term "State All Payer Claims Database" means, with respect to a State, a database that may include medical claims, pharmacy claims, dental claims, and eligibility and provider files, which are collected from private and public payers.
+
+#### (h) Authorization of appropriations
+* To carry out this section, there is authorized to be appropriated $50,000,000 for each of fiscal years 2022 and 2023, and $25,000,000 for fiscal year 2024, to remain available until expended.

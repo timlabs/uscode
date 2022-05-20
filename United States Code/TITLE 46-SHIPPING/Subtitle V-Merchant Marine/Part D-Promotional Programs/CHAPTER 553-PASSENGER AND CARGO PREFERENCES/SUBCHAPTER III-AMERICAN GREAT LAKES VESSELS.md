@@ -7,7 +7,7 @@
 
   * (2) GREAT LAKES.—The term "Great Lakes" means Lake Superior, Lake Michigan, Lake Huron, Lake Erie, Lake Ontario, the Saint Lawrence River west of Saint Regis, New York, and their connecting and tributary waters.
 
-  * (3) GREAT LAKES SHIPPING SEASON.—The term "Great Lakes shipping season" means the period each year during which the Saint Lawrence Seaway is open for navigation by vessels, as declared by the Saint Lawrence Seaway Development Corporation.
+  * (3) GREAT LAKES SHIPPING SEASON.—The term "Great Lakes shipping season" means the period each year during which the Saint Lawrence Seaway is open for navigation by vessels, as declared by the Great Lakes St. Lawrence Seaway Development Corporation.
 
 ### §55332. Designating American Great Lakes vessels
 * (a) DESIGNATIONS.—The Secretary of Transportation shall designate a vessel as an American Great Lakes vessel if—

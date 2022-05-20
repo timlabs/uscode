@@ -64,7 +64,7 @@
     * (B) Promotion rates for officers and members of the Coast Guard in the acquisition workforce.
 
 
-* (d) APPOINTMENTS TO ACQUISITION POSITIONS.—The Commandant shall ensure that no requirement or preference for officers or members of the Coast Guard is used in the consideration of persons for positions in the acquisition workforce.
+* (d) APPOINTMENTS TO ACQUISITION POSITIONS.—The Commandant shall ensure that no requirement or preference for officers or members of the Coast Guard is used in the consideration of individuals for positions in the acquisition workforce.
 
 * (e) CAREER PATHS.—
 
@@ -248,20 +248,31 @@
 
   * (2) QUALIFYING PROPOSAL.—The term "qualifying proposal" means a proposal that contains sufficient information to enable complete and meaningful audits of the information contained in the proposal as determined by the contracting officer.
 
-### §1110. Mission need statement
-* (a) IN GENERAL.—On the date on which the President submits to Congress a budget for fiscal year 2019 under section 1105 of title 31 and every 4 years thereafter, the Commandant shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate an integrated major acquisition mission need statement.
+### §1110. Elevation of disputes to the Chief Acquisition Officer
+* If, after 90 days following the elevation to the Chief Acquisition Officer of any design or other dispute regarding level 1 or level 2 acquisition, the dispute remains unresolved, the Commandant shall provide to the appropriate congressional committees a detailed description of the issue and the rationale underlying the decision taken by the Chief Acquisition Officer to resolve the issue.
 
-* (b) DEFINITIONS.—In this section, the following definitions apply:
+### §1111. Acquisition workforce authorities
+* (a) EXPEDITED HIRING AUTHORITY.—
 
-  * (1) INTEGRATED MAJOR ACQUISITION MISSION NEED STATEMENT.—The term "integrated major acquisition mission need statement" means a document that—
+  * (1) IN GENERAL.—For the purposes of section 3304 of title 5, the Commandant may—
 
-    * (A) identifies current and projected gaps in Coast Guard mission capabilities using mission hour targets;
+    * (A) designate any category of acquisition positions within the Coast Guard as shortage category positions; and
 
-    * (B) explains how each major acquisition program addresses gaps identified under subparagraph (A) if funded at the levels provided for such program in the most recently submitted capital investment plan; and
-
-    * (C) describes the missions the Coast Guard will not be able to achieve, by fiscal year, for each gap identified under subparagraph (A).
+    * (B) use the authorities in such section to recruit and appoint highly qualified persons directly to positions so designated.
 
 
-  * (2) MAJOR ACQUISITION PROGRAM.—The term "major acquisition program" has the meaning given that term in section 5103.
+  * (2) REPORTS.—The Commandant shall include in reports under section 1102 information described in such section regarding positions designated under this subsection.
 
-  * (3) CAPITAL INVESTMENT PLAN.—The term "capital investment plan" means the plan required under section 5102(a)(1).
+
+* (b) REEMPLOYMENT AUTHORITY.—
+
+  * (1) IN GENERAL.—Except as provided in paragraph (2), if an annuitant receiving an annuity from the Civil Service Retirement and Disability Fund becomes employed in any category of acquisition positions designated by the Commandant under subsection (a), the annuity of the annuitant so employed shall continue. The annuitant so reemployed shall not be considered an employee for purposes of subchapter III of chapter 83 or chapter 84 of title 5.
+
+  * (2)(A) ELECTION.—An annuitant retired under section 8336(d)(1) or 8414(b)(1)(A) of title 5, receiving an annuity from the Civil Service Retirement and Disability Fund, who becomes employed in any category of acquisition positions designated by the Commandant under subsection (a) after the date of the enactment of the Elijah E. Cummings Coast Guard Authorization Act of 2020, may elect to be subject to section 8344 or 8468 of such title (as the case may be).
+
+    * (i) DEADLINE.—An election for coverage under this subsection shall be filed not later than 90 days after the Commandant takes reasonable actions to notify an employee who may file an election.
+
+    * (ii) COVERAGE.—If an employee files an election under this subsection, coverage shall be effective beginning on the first day of the first applicable pay period beginning on or after the date of the filing of the election.
+
+
+  * (B) APPLICATION.—Paragraph (1) shall apply to an individual who is eligible to file an election under subparagraph (A) and does not file a timely election under clause (i) of such subparagraph.

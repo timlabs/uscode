@@ -58,7 +58,7 @@
     * (B) to the assessment of whether available surface and groundwater supplies will be available to meet the future needs of the United States.
 
 ### §10362. Definitions
-* In this section:
+* In this chapter:
 
 * #### (1) Administrator
   * The term "Administrator" means the Administrator of the National Oceanic and Atmospheric Administration.
@@ -83,7 +83,19 @@
   * The term "Director" means the Director of the United States Geological Survey.
 
 * #### (7) Eligible applicant
-  * The term "eligible applicant" means any State, Indian tribe, irrigation district, water district, or other organization with water or power delivery authority.
+  * The term "eligible applicant" means—
+
+    * (A) any State, Indian tribe, irrigation district, or water district;
+
+    * (B) any State, regional, or local authority, the members of which include 1 or more organizations with water or power delivery authority;
+
+    * (C) any other organization with water or power delivery authority; and
+
+    * (D) any nonprofit conservation organization, if—
+
+      * (i) the nonprofit conservation organization is acting in partnership with and with the agreement of an entity described in subparagraph (A), (B), or (C); or
+
+      * (ii) in the case of an application for a project to improve the condition of a natural feature or nature-based feature on Federal land, the entities described in subparagraph (A), (B), or (C) from the applicable service area have been notified of the project application and there is no written objection to the project.
 
 * #### (8) Federal Power Marketing Administration
   * The term "Federal Power Marketing Administration" means—
@@ -136,7 +148,13 @@
 
       * (viii) the Truckee River.
 
-* #### (13) Non-Federal participant
+* #### (13) Natural feature
+  * The term "natural feature" means a feature that is created through the action of physical, geological, biological, and chemical processes over time.
+
+* #### (14) Nature-based feature
+  * The term "nature-based feature" means a feature that is created by human design, engineering, and construction to provide a means to reduce water supply and demand imbalances or drought or flood risk by acting in concert with natural processes.
+
+* #### (15) Non-Federal participant
   * The term "non-Federal participant" means—
 
     * (A) a State, regional, or local authority;
@@ -145,17 +163,17 @@
 
     * (C) any other qualifying entity, such as a water conservation district, water conservancy district, or rural water district or association, or a nongovernmental organization.
 
-* #### (14) Panel
+* #### (16) Panel
   * The term "panel" means the climate change and water intragovernmental panel established by the Secretary under section 10366(a) of this title.
 
-* #### (15) Program
+* #### (17) Program
   * The term "program" means the regional integrated sciences and assessments program—
 
     * (A) established by the Administrator; and
 
     * (B) that is comprised of 8 regional programs that use advances in integrated climate sciences to assist decisionmaking processes.
 
-* #### (16) Secretary
+* #### (18) Secretary
   * #### (A) In general
     * Except as provided in subparagraph (B), the term "Secretary" means the Secretary of the Interior.
 
@@ -166,7 +184,7 @@
 
       * (ii) in the case of sections 10367 and 10368 of this title, the Secretary of the Interior (acting through the Director).
 
-* #### (17) Service area
+* #### (19) Service area
   * The term "service area" means any area that encompasses a watershed that contains a federally authorized reclamation project that is located in any State or area described in section 391 of title 43.
 
 ### §10363. Reclamation climate change and water program
@@ -281,7 +299,7 @@
 ### §10364. Water management improvement
 #### (a) Authorization of grants and cooperative agreements
 * #### (1) Authority of Secretary
-  * The Secretary may provide any grant to, or enter into an agreement with, any eligible applicant to assist the eligible applicant in planning, designing, or constructing any improvement—
+  * The Secretary may provide any grant to, or enter into an agreement with, any eligible applicant to assist the eligible applicant in planning, designing, or constructing any improvement or carrying out any activity—
 
     * (A) to conserve water;
 
@@ -293,15 +311,21 @@
 
     * (E) to accelerate the adoption and use of advanced water treatment technologies to increase water supply;
 
-    * (F) to prevent the decline of species that the United States Fish and Wildlife Service and National Marine Fisheries Service have proposed for listing under the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.) (or candidate species that are being considered by those agencies for such listing but are not yet the subject of a proposed rule);
+    * (F) to assist States and water users in complying with interstate compacts or reducing basin water supply-demand imbalances;
 
-    * (G) to accelerate the recovery of threatened species, endangered species, and designated critical habitats that are adversely affected by Federal reclamation projects or are subject to a recovery plan or conservation plan under the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.) under which the Commissioner of Reclamation has implementation responsibilities; or
+    * (G) to achieve the prevention of the decline of species that the United States Fish and Wildlife Service and National Marine Fisheries Service have proposed for listing under the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.) (or candidate species that are being considered by those agencies for such listing but are not yet the subject of a proposed rule);
 
-    * (H) to carry out any other activity—
+    * (H) to achieve the acceleration of the recovery of threatened species, endangered species, and designated critical habitats that are adversely affected by Federal reclamation projects or are subject to a recovery plan or conservation plan under the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.) under which the Commissioner of Reclamation has implementation responsibilities;
 
-      * (i) to address any climate-related impact to the water supply of the United States that increases ecological resiliency to the impacts of climate change; or
+    * (I) to improve the condition of a natural feature; or
 
-      * (ii) to prevent any water-related crisis or conflict at any watershed that has a nexus to a Federal reclamation project located in a service area.
+    * (J) to carry out any other activity—
+
+      * (i) to address any climate-related impact to the water supply of the United States that increases ecological resiliency to the impacts of climate change;
+
+      * (ii) to prevent any water-related crisis or conflict at any watershed that has a nexus to a Federal reclamation project located in a service area; or
+
+      * (iii) to plan for or address the impacts of drought.
 
 * #### (2) Application
   * To be eligible to receive a grant, or enter into an agreement with the Secretary under paragraph (1), an eligible applicant shall—
@@ -310,11 +334,22 @@
 
       * (i) the States and areas referred to in section 391 of title 43;
 
-      * (ii) the State of Alaska; or
+      * (ii) the State of Alaska;
 
-      * (iii) the State of Hawaii; and
+      * (iii) the State of Hawaii; or
 
-    * (B) submit to the Secretary an application that includes a proposal of the improvement or activity to be planned, designed, constructed, or implemented by the eligible applicant.
+      * (iv) the Commonwealth of Puerto Rico; and
+
+
+    * (B) submit to the Secretary an application that includes—
+
+      * (i) a proposal of the improvement or activity to be planned, designed, constructed, or implemented by the eligible applicant; and
+
+      * (ii) for a project that is intended to have a quantifiable water savings and would receive a grant of $500,000 or more—
+
+        * (I) a proposal for a monitoring plan of at least 5 years that would demonstrate ways in which the proposed improvement or activity would result in improved streamflows or aquatic habitat; or
+
+        * (II) for a project that does not anticipate improved streamflows or aquatic habitat, an analysis of ways in which the proposed improvement or activity would contribute to 1 or more of the other objectives described in paragraph (1).
 
 * #### (3) Requirements of grants and cooperative agreements
   * #### (A) Compliance with requirements
@@ -352,7 +387,19 @@
 
   * #### (E) Cost sharing
     * #### (i) Federal share
-      * The Federal share of the cost of any infrastructure improvement or activity that is the subject of a grant or other agreement entered into between the Secretary and an eligible applicant under paragraph (1) shall not exceed 50 percent of the cost of the infrastructure improvement or activity.
+      * #### (I) In general
+        * Except as provided in subclause (II), the Federal share of the cost of any infrastructure improvement or activity that is the subject of a grant or other agreement entered into between the Secretary and an eligible applicant under paragraph (1) shall not exceed 50 percent of the cost of the infrastructure improvement or activity.
+
+      * #### (II) Increased Federal share for certain infrastructure improvements and activities
+        * The Federal share of the cost of an infrastructure improvement or activity shall not exceed 75 percent of the cost of the infrastructure improvement or activity, if—
+
+          * (aa) the infrastructure improvement or activity was developed as part of a collaborative process by—
+
+            * (AA) a watershed group (as defined in section 1015 of title 16); or
+
+            * (BB) a water user and 1 or more stakeholders with diverse interests; and
+
+          * (bb) the majority of the benefits of the infrastructure improvement or activity, as determined by the Secretary, are for the purpose of advancing 1 or more components of an established strategy or plan to increase the reliability of water supply for consumptive and nonconsumptive ecological values.
 
     * #### (ii) Calculation of non-Federal share
       * In calculating the non-Federal share of the cost of an infrastructure improvement or activity proposed by an eligible applicant through an application submitted by the eligible applicant under paragraph (2), the Secretary shall—
@@ -374,15 +421,20 @@
     * #### (ii) Tort Claims Act
       * Nothing in this section increases the liability of the United States beyond that provided in chapter 171 of title 28 (commonly known as the "Federal Tort Claims Act").
 
+* #### (4) Priority
+  * In providing grants to, and entering into agreements for, projects intended to have a quantifiable water savings under this subsection, the Secretary shall give priority to projects that enhance drought resilience by benefitting the water supply and ecosystem.
+
 #### (b) Research agreements
 * #### (1) Authority of Secretary
-  * The Secretary may enter into 1 or more agreements with any university, nonprofit research institution, or organization with water or power delivery authority to fund any research activity that is designed—
+  * The Secretary may enter into 1 or more agreements with any university, nonprofit research institution, or eligible applicant to fund any research activity that is designed—
 
     * (A) to conserve water resources;
 
-    * (B) to increase the efficiency of the use of water resources; or
+    * (B) to increase the efficiency of the use of water resources;
 
-    * (C) to enhance the management of water resources, including increasing the use of renewable energy in the management and delivery of water.
+    * (C) to restore a natural feature or use a nature-based feature to reduce water supply and demand imbalances or the risk of drought or flood; or
+
+    * (D) to enhance the management of water resources, including increasing the use of renewable energy in the management and delivery of water.
 
 * #### (2) Terms and conditions of Secretary
   * #### (A) In general
@@ -398,7 +450,7 @@
 * This section shall not supersede any existing project-specific funding authority.
 
 #### (e) Authorization of appropriations
-* There is authorized to be appropriated to carry out this section $530,000,000, to remain available until expended.
+* There is authorized to be appropriated to carry out this section $700,000,000, subject to the condition that $50,000,000 of that amount shall be used to carry out section 206 of the Energy and Water Development and Related Agencies Appropriations Act, 2015 (43 U.S.C. 620 note; Public Law 113–235), to remain available until expended.
 
 ### §10365. Hydroelectric power assessment
 #### (a) Duty of Secretary of Energy
@@ -821,3 +873,72 @@
 
 * #### (2) Compliance required
   * The Secretary shall comply with applicable State water laws in carrying out this chapter.
+
+### §10371. Water prediction and forecasting
+#### (a) National Water Center
+* #### (1) Establishment
+  * #### (A) In general
+    * The Under Secretary of Commerce for Oceans and Atmosphere shall establish a center—
+
+      * (i) to serve as the research and operational center of excellence for hydrologic analyses, forecasting, and related decision support services within the National Oceanic and Atmospheric Administration and the National Weather Service; and
+
+      * (ii) to facilitate collaboration across Federal and State departments and agencies, academia, and the private sector on matters relating to water resources.
+
+  * #### (B) Designation
+    * The center established under subparagraph (A) shall be known as the "National Water Center".
+
+* #### (2) Functions
+  * The functions of the National Water Center shall include the following:
+
+    * (A) Improving understanding of water resources, stakeholder needs regarding water resources, and identifying science and services gaps relating to water resources.
+
+    * (B) Developing and implementing advanced water resources modeling capabilities.
+
+    * (C) Facilitating the transition of hydrologic research into operations.
+
+    * (D) Delivering analyses, forecasts, and inundation information and guidance for all hydrologic events in the United States, including flash flooding, riverine flooding, and water resources outlooks.
+
+    * (E) In coordination with warning coordination meteorologists, providing decision-support services to inform emergency management and water resources decisions.
+
+#### (b) National instructions
+* #### (1) In general
+  * Not later than one year after December 31, 2020, the Under Secretary, acting through the Director of the National Weather Service, shall make public an operations and services policy directive for the National Water Center.
+
+* #### (2) Contents
+  * The directive required by paragraph (1) shall include national instructions to perform the functions of the National Water Center, including the following:
+
+    * (A) Operational staff responsibilities.
+
+    * (B) Guidelines for content, format, and provision of hydrologic and inundation products developed by the National Water Center.
+
+    * (C) Procedures for cooperation and coordination between the National Water Center, the National Weather Service National Centers for Environmental Prediction, National Weather Service River Forecast Centers, and National Weather Service Weather Forecast Offices.
+
+#### (c) Total water prediction
+* The Under Secretary, acting through the Director of the Office of Water Prediction of the National Weather Service, shall—
+
+  * (1) initiate and lead research and development activities to develop operational water resource prediction and related decision support products;
+
+  * (2) collaborate with, and provide decision support regarding total water prediction to—
+
+    * (A) the relevant Federal agencies represented on the National Science and Technology Council, Committee on Environment, Natural Resources, and Sustainability and the Subcommittee on Disaster Reduction;
+
+    * (B) State water resource agencies; and
+
+    * (C) State and local emergency management agencies; and
+
+
+  * (3) in carrying out the responsibilities described in paragraphs (1) and (2), collaboratively develop capabilities necessary for total water predictive capacity, including observations, modeling, data management, supercomputing, social science, and communications.
+
+#### (d) Authorization of appropriations
+* There are authorized to be appropriated to carry out the activities under this section amounts as follows:
+
+  * (1) $44,500,000 for fiscal year 2021.
+
+  * (2) $45,000,000 for fiscal year 2022.
+
+  * (3) $45,500,000 for fiscal year 2023.
+
+  * (4) $46,000,000 for fiscal year 2024.
+
+#### (e) Derivation of funds
+* Funds to carry out this section shall be derived from amounts authorized to be appropriated to the National Weather Service and the National Ocean Service that are enacted after December 31, 2020.

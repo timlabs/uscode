@@ -46,30 +46,6 @@
 
   * (2) integrate, to the maximum extent practical, any security system for the facility with compatible systems operated or maintained by the appropriate State, law enforcement agencies, and the Coast Guard.
 
-### §70102a. Port, harbor, and coastal facility security
-* (a) GENERAL AUTHORITY.—The Secretary may take actions described in subsection (b) to prevent or respond to an act of terrorism against—
-
-  * (1) an individual, vessel, or public or commercial structure, that is—
-
-    * (A) subject to the jurisdiction of the United States; and
-
-    * (B) located within or adjacent to the marine environment; or
-
-
-  * (2) a vessel of the United States or an individual on board that vessel.
-
-
-* (b) SPECIFIC AUTHORITY.—Under subsection (a), the Secretary may—
-
-  * (1) carry out or require measures, including inspections, port and harbor patrols, the establishment of security and safety zones, and the development of contingency plans and procedures, to prevent or respond to acts of terrorism;
-
-  * (2) recruit members of the Regular Coast Guard and the Coast Guard Reserve and train members of the Regular Coast Guard and the Coast Guard Reserve in the techniques of preventing and responding to acts of terrorism; and
-
-  * (3) dispatch properly trained and qualified armed Coast Guard personnel on vessels and public or commercial structures on or adjacent to waters subject to United States jurisdiction to deter or respond to acts of terrorism or transportation security incidents, as defined in section 70101 of title 46, United States Code.
-
-
-* (c) DEFINITIONS, ADMINISTRATION, AND ENFORCEMENT.—This section shall be treated as part of chapter 700 for purposes of sections 70031, 70032, 70034, 70035, and 70036.
-
 ### §70103. Maritime transportation security plans
 * (a) NATIONAL MARITIME TRANSPORTATION SECURITY PLAN.—(1) The Secretary shall prepare a National Maritime Transportation Security Plan for deterring and responding to a transportation security incident.
 
@@ -147,12 +123,7 @@
   * (I) be updated at least every 5 years by the Federal Maritime Security Coordinator.
 
 
-* (3) The Secretary shall—
-
-  * (A) review and approve Area Maritime Transportation Security Plans under this subsection; and
-
-  * (B) periodically review previously approved Area Maritime Transportation Security Plans.
-
+* (3) The Secretary shall review and approve Area Maritime Transportation Security Plans and updates under this subsection.
 
 * (4) In security zones designated by the Secretary in each Area Maritime Transportation Security Plan, the Secretary shall consider—
 
@@ -206,13 +177,13 @@
 
 * (4) The Secretary shall—
 
-  * (A) promptly review each such plan;
+  * (A) promptly review each such plan or update;
 
-  * (B) require amendments to any plan that does not meet the requirements of this subsection;
+  * (B) require amendments to any plan or update that does not meet the requirements of this subsection;
 
-  * (C) approve any plan that meets the requirements of this subsection; and
+  * (C) approve any plan or update that meets the requirements of this subsection; and
 
-  * (D) subject to the availability of appropriations, periodically, but not less than one time per year, conduct a risk-based, no notice facility inspection to verify the effectiveness of each such facility security plan.
+  * (D) subject to the availability of appropriations, periodically, but not less than one time per year, conduct a risk-based, no notice facility inspection to verify the effectiveness of each such facility security plan or update.
 
 
 * (5) A vessel or facility for which a plan is required to be submitted under this subsection may not operate after the end of the 12-month period beginning on the date of the prescription of interim final regulations on vessel and facility security plans, unless—
@@ -254,19 +225,7 @@
 
   * (1) ENFORCEMENT OF SECURITY ZONES.—Consistent with other provisions of Federal law, the Coast Guard shall coordinate and be responsible for the enforcement of any Federal security zone established by the Coast Guard around a vessel containing especially hazardous cargo. The Coast Guard shall allocate available resources so as to deter and respond to a transportation security incident, to the maximum extent practicable, and to protect lives or protect property in danger.
 
-  * (2) RESOURCE DEFICIENCY REPORTING.—
-
-    * (A) IN GENERAL.—When the Secretary submits the annual budget request for a fiscal year for the department in which the Coast Guard is operating to the Office of Management and Budget, the Secretary shall provide to the Committees on Homeland Security and Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report that includes—
-
-      * (i) for the last full fiscal year preceding the report, a statement of the number of security zones established for especially hazardous cargo shipments;
-
-      * (ii) for the last full fiscal year preceding the report, a statement of the number of especially hazardous cargo shipments provided a waterborne security escort, subdivided by Federal, State, local, or private security; and
-
-      * (iii) an assessment as to any additional vessels, personnel, infrastructure, and other resources necessary to provide waterborne escorts to those especially hazardous cargo shipments for which a security zone is established.
-
-
-    * (B) ESPECIALLY HAZARDOUS CARGO DEFINED.—In this subsection, the term "especially hazardous cargo" means anhydrous ammonia, ammonium nitrate, chlorine, liquefied natural gas, liquiefied petroleum gas, and any other substance, material, or group or class of material, in a particular amount and form that the Secretary determines by regulation poses a significant risk of creating a transportation security incident while being transported in maritime commerce.
-
+  * (2) ESPECIALLY HAZARDOUS CARGO DEFINED.—In this subsection, the term "especially hazardous cargo" means anhydrous ammonia, ammonium nitrate, chlorine, liquefied natural gas, liquefied petroleum gas, and any other substance, material, or group or class of material, in a particular amount and form that the Secretary determines by regulation poses a significant risk of creating a transportation security incident while being transported in maritime commerce.
 
 * (f) NONDISCLOSURE OF PORT SECURITY PLANS.—Notwithstanding any other provision of law, information related to security plans, procedures, or programs for passenger vessels or passenger terminals authorized under this chapter is not required to be disclosed to the public.
 
@@ -475,7 +434,12 @@
 
 * (f) DEFINITION.—In this section, the term "alien" has the meaning given the term in section 101(a)(3) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(3)).
 
-* (g) APPLICATIONS FOR MERCHANT MARINERS' DOCUMENTS.—The Assistant Secretary of Homeland Security for the Transportation Security Administration and the Commandant of the Coast Guard shall concurrently process an application from an individual for merchant mariner's documents under chapter 73 of title 46, United States Code, and an application from that individual for a transportation security card under this section.
+* (g) APPLICATIONS FOR MERCHANT MARINERS' DOCUMENTS.—The Assistant Secretary of Homeland Security for the Transportation Security Administration and the Commandant of the Coast Guard shall—
+
+  * (1) develop and, no later than 2 years after the date of enactment of the Elijah E. Cummings Coast Guard Authorization Act of 2020, implement a joint application for merchant mariner's documents under chapter 73 and for a transportation security card issued under this section; and
+
+  * (2) upon receipt of a joint application developed under paragraph (1) concurrently process an application from an individual for merchant mariner's documents under chapter 73 and an application from such individual for a transportation security card under this section.
+
 
 * (h) FEES.—The Secretary shall ensure that the fees charged each individual applying for a transportation security card under this section who has passed a background check under section 5103a(d) of title 49, United States Code, and who has a current hazardous materials endorsement in accordance with section 1572 of title 49, Code of Federal Regulations, and each individual with a current merchant mariners' document who has passed a criminal background check under section 7302(d)—
 
@@ -585,7 +549,7 @@
 * (d) COORDINATION WITH OTHER AGENCIES.—To the maximum extent feasible, the combined force of the specialized forces established under subsection (a) shall coordinate their activities with other Federal, State, and local law enforcement and emergency response agencies.
 
 ### §70107. Grants
-* (a) IN GENERAL.—The Secretary shall establish a grant program for the allocation of funds based on risk to implement Area Maritime Transportation Security Plans and facility security plans among port authorities, facility operators, and State and local government agencies required to provide port security services and to train law enforcement personnel under section 70132 of this title. Before awarding a grant under the program, the Secretary shall provide for review and comment by the appropriate Federal Maritime Security Coordinators and the Maritime Administrator. In administering the grant program, the Secretary shall take into account national economic, energy, and strategic defense concerns based upon the most current risk assessments available.
+* (a) IN GENERAL.—The Secretary shall establish a grant program for the allocation of funds based on risk to implement Area Maritime Transportation Security Plans and facility security plans among port authorities, facility operators, and State and local government agencies required to provide port security services and to train public safety personnel under section 70132 of this title. Before awarding a grant under the program, the Secretary shall provide for review and comment by the appropriate Federal Maritime Security Coordinators and the Maritime Administrator. In administering the grant program, the Secretary shall take into account national economic, energy, and strategic defense concerns based upon the most current risk assessments available.
 
 * (b) ELIGIBLE COSTS.—The following costs of funding the correction of Coast Guard identified vulnerabilities in port security and ensuring compliance with Area Maritime Transportation Security Plans and facility security plans are eligible to be funded:
 
@@ -608,7 +572,7 @@
 
   * (7) The cost of equipment (including software) required to receive, transmit, handle, and store classified information.
 
-  * (8) The cost of training law enforcement personnel—
+  * (8) The cost of training public safety personnel—
 
     * (A) to enforce a security zone under section 70132 of this title; or
 
@@ -625,7 +589,7 @@
 
     * (B) HIGHER LEVEL OF SUPPORT REQUIRED.—If the Secretary determines that a proposed project merits support and cannot be undertaken without a higher rate of Federal support, then the Secretary may approve grants under this section with a matching requirement other than that specified in paragraph (1).
 
-    * (C) TRAINING.—There are no matching requirements for grants under subsection (a) to train law enforcement agency personnel in the enforcement of security zones under section 70132 of this title or in assisting in the enforcement of such security zones.
+    * (C) TRAINING.—There are no matching requirements for grants under subsection (a) to train public safety personnel in the enforcement of security zones under section 70132 of this title or in assisting in the enforcement of such security zones.
 
 
 * (d) COORDINATION AND COOPERATION AGREEMENTS.—The Secretary shall ensure that projects paid for, or the costs of which are reimbursed, under this section within any area or port are coordinated with other projects, and may require cooperative agreements among users of the port and port facilities with respect to projects funded under this section.
@@ -1061,7 +1025,7 @@
 * Not later than April 1, 2007, the Secretary shall, consistent with international treaties, conventions, and agreements to which the United States is a party, develop and implement a long-range automated vessel tracking system for all vessels in United States waters that are equipped with the Global Maritime Distress and Safety System or equivalent satellite technology. The system shall be designed to provide the Secretary the capability of receiving information on vessel positions at interval positions appropriate to deter transportation security incidents. The Secretary may use existing maritime organizations to collect and monitor tracking information under the system.
 
 ### §70116. Port, harbor, and coastal facility security
-* (a) GENERAL AUTHORITY.—The Secretary may take actions described in subsection (b) to prevent or respond to an act of terrorism against—
+* (a) GENERAL AUTHORITY.—The Secretary may take actions described in subsection (b) to prevent or respond to an act of terrorism, cyber incidents, transnational organized crime, and foreign state threats against—
 
   * (1) an individual, vessel, or public or commercial structure, that is—
 
@@ -1075,14 +1039,14 @@
 
 * (b) SPECIFIC AUTHORITY.—Under subsection (a), the Secretary may—
 
-  * (1) carry out or require measures, including inspections, port and harbor patrols, the establishment of security and safety zones, and the development of contingency plans and procedures, to prevent or respond to acts of terrorism;
+  * (1) carry out or require measures, including inspections, port and harbor patrols, the establishment of security and safety zones, and the development of contingency plans and procedures, to prevent or respond to acts of terrorism cyber incidents, transnational organized crime, and foreign state threats;
 
-  * (2) recruit members of the Regular Coast Guard and the Coast Guard Reserve and train members of the Regular Coast Guard and the Coast Guard Reserve in the techniques of preventing and responding to acts of terrorism; and
+  * (2) recruit members of the Regular Coast Guard and the Coast Guard Reserve and train members of the Regular Coast Guard and the Coast Guard Reserve in the techniques of preventing and responding to acts of terrorism cyber incidents, transnational organized crime, and foreign state threats; and
 
-  * (3) dispatch properly trained and qualified armed Coast Guard personnel on vessels and public or commercial structures on or adjacent to waters subject to United States jurisdiction to deter or respond to acts of terrorism or transportation security incidents, as defined in section 70101 of title 46, United States Code.
+  * (3) dispatch properly trained and qualified, armed (as needed), Coast Guard personnel on vessels and public or commercial structures on or adjacent to waters subject to United States jurisdiction to deter or respond to acts of terrorism, cyber incidents, transnational organized crime, foreign state threats, or transportation security incidents, as defined in section 70101 of title 46, United States Code.
 
 
-* (c) DEFINITIONS, ADMINISTRATION, AND ENFORCEMENT.—This section shall be treated as part of chapter 700 for purposes of sections 70031, 70032, 70034, 70035, and 70036.
+* (c) DEFINITIONS, ADMINISTRATION, AND ENFORCEMENT.—This section shall be treated as part of chapter 700 for purposes of sections 70031, 70032, 70033, 70035, and 70036. When preventing or responding to acts of terrorism, cyber incidents, transnational organized crime, or foreign state threats, the Secretary may carry out this section without regard to chapters 5 and 6 of title 5 or Executive Order Nos. 12866 and 13563.
 
 ### §70118. Enforcement by State and local officers
 * (a) IN GENERAL.—Any State or local government law enforcement officer who has authority to enforce State criminal laws may make an arrest for violation of a security zone regulation prescribed under section 1 of title II of the Act of June 15, 1917 (chapter 30; 50 U.S.C. 191) or security or safety zone regulation under section 7(b) of the Ports and Waterways Safety Act (33 U.S.C. 1226(b)) or a safety zone regulation prescribed under section 10(d) of the Deepwater Port Act of 1974 (33 U.S.C. 1509(d)) by a Coast Guard official authorized by law to prescribe such regulations, if—

@@ -17,7 +17,7 @@
 ### §2402. Persons eligible for interment in national cemeteries
 * (a) Under such regulations as the Secretary may prescribe and subject to the provisions of section 6105 of this title, the remains of the following persons may be buried in any open national cemetery under the control of the National Cemetery Administration:
 
-  * (1) Any veteran (which for the purposes of this chapter includes a person who died in the active military, naval, or air service).
+  * (1) Any veteran (which for the purposes of this chapter includes a person who died in the active military, naval, air, or space service).
 
   * (2) Any member of a Reserve component of the Armed Forces, and any member of the Army National Guard or the Air National Guard, whose death occurs under honorable conditions while such member is hospitalized or undergoing treatment, at the expense of the United States, for injury or disease contracted or incurred under honorable conditions while such member is performing active duty for training, inactive duty training, or undergoing that hospitalization or treatment at the expense of the United States.
 
@@ -171,9 +171,9 @@
 
   * (1) The amount of such a grant may not exceed—
 
-    * (A) in the case of the establishment of a new cemetery, the sum of: (i) the cost of improvements to be made on the land to be converted into a cemetery; and (ii) the cost of initial equipment necessary to operate the cemetery; and
+    * (A) in the case of the establishment of a new cemetery, the sum of: (i) the cost of improvements to be made on the land to be converted into a cemetery; (ii) the cost of initial equipment necessary to operate the cemetery; and (iii) training costs described in subsection (c)(1); and
 
-    * (B) in the case of the expansion or improvement of an existing cemetery, the sum of: (i) the cost of improvements to be made on any land to be added to the cemetery; and (ii) the cost of any improvements to be made to the existing cemetery.
+    * (B) in the case of the expansion or improvement of an existing cemetery, the sum of: (i) the cost of improvements to be made on any land to be added to the cemetery; and (ii) the cost of any improvements to be made to the existing cemetery; and (iii) training costs described in subsection (c)(1).
 
 
   * (2) If the amount of such a grant is less than the amount of costs referred to in subparagraph (A) or (B) of paragraph (1), the State receiving the grant shall contribute the excess of such costs over the grant.
@@ -181,11 +181,17 @@
   * (3) If a State that has received such a grant to establish, expand, or improve a veterans' cemetery ceases to own such cemetery, ceases to operate such cemetery as a veterans' cemetery, or uses any part of the funds provided through such grant for a purpose other than that for which the grant was made, the United States shall be entitled to recover from such State the total of all grants made under this section to such State in connection with such cemetery.
 
 
-* (c)(1) In addition to the conditions specified in subsection (b) of this section, any grant to a State under this section to assist such State in establishing a veterans' cemetery shall be made on the condition that such cemetery shall conform to such standards and guidelines relating to site selection, planning, and construction as the Secretary may by regulation prescribe. In prescribing regulations for the purposes of the preceding sentence, the Secretary shall take into account the standards and guidelines for site selection, planning, and construction that are applicable to cemeteries under the control of the National Cemetery Administration, including those provided in subsections (b), (c), and (d) of section 2404 of this title.
+* (c)(1) A grant under this section for a purpose described in subparagraph (A) or (B) of subsection (a)(1) may be used, solely or in part, for training costs, including travel expenses and up to four weeks of lodging expenses, associated with attendance by employees of a veterans' cemetery owned by a State or on trust land owned by, or held in trust for, a tribal organization at training provided by the National Cemetery Administration.
+
+* (2) Any employee described in paragraph (1) who participates in training described in such paragraph shall fulfill a service requirement as determined by the Secretary.
+
+* (3) The Secretary may by regulation prescribe such additional terms and conditions for grants used for training costs under this subsection as the Secretary considers appropriate.
+
+* (d)(1) In addition to the conditions specified in subsection (b) of this section, any grant to a State under this section to assist such State in establishing a veterans' cemetery shall be made on the condition that such cemetery shall conform to such standards and guidelines relating to site selection, planning, and construction as the Secretary may by regulation prescribe. In prescribing regulations for the purposes of the preceding sentence, the Secretary shall take into account the standards and guidelines for site selection, planning, and construction that are applicable to cemeteries under the control of the National Cemetery Administration, including those provided in subsections (b), (c), and (d) of section 2404 of this title.
 
 * (2) The Secretary may by regulation prescribe such additional terms and conditions for grants under this section as the Secretary considers appropriate.
 
-* (d)(1) In addition to the conditions specified in subsections (b) and (c), any grant made to a State under this section shall be made subject to the condition specified in paragraph (2).
+* (e)(1) In addition to the conditions specified in subsections (b) and (c), any grant made to a State under this section shall be made subject to the condition specified in paragraph (2).
 
 * (2) For purposes of paragraph (1), the condition described in this paragraph is that, after the date of the receipt of the grant, such State prohibit the interment or memorialization in that cemetery of a person described in section 2411(b) of this title, subject to the receipt of notice described in subsection (a)(2) of such section, except that for purposes of this subsection—
 
@@ -194,11 +200,11 @@
   * (B) a finding described in subsection (b)(3) of such section shall be made by an appropriate official of such State.
 
 
-* (e)(1) Amounts appropriated to carry out this section shall remain available until expended. If all funds from a grant under this section have not been utilized by a State for the purpose for which the grant was made within three years after such grant is made, the United States shall be entitled to recover any such unused grant funds from such State.
+* (f)(1) Amounts appropriated to carry out this section shall remain available until expended. If all funds from a grant under this section have not been utilized by a State for the purpose for which the grant was made within three years after such grant is made, the United States shall be entitled to recover any such unused grant funds from such State.
 
-* (2) In any fiscal year, the aggregate amount of grants awarded under this section for the purposes specified in subsection (a)(1)(B) may not exceed $5,000,000.
+* (2) In any fiscal year, the aggregate amount of grants awarded under this section for the purposes specified in subsection (a)(1)(B) may not exceed $10,000,000.
 
-* (f)(1) The Secretary may make grants under this subsection to any tribal organization to assist the tribal organization in establishing, expanding, or improving veterans' cemeteries, or in operating and maintaining such cemeteries, on trust land owned by, or held in trust for, the tribal organization.
+* (g)(1) The Secretary may make grants under this subsection to any tribal organization to assist the tribal organization in establishing, expanding, or improving veterans' cemeteries, or in operating and maintaining such cemeteries, on trust land owned by, or held in trust for, the tribal organization.
 
 * (2) Grants under this subsection shall be made in the same manner, and under the same conditions, as grants to States are made under the preceding provisions of this section.
 

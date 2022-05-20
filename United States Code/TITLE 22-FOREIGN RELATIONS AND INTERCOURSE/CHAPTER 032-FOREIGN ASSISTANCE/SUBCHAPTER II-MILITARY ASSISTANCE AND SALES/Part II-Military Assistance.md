@@ -217,7 +217,7 @@
 #### (b) Fiscal year limits on new stockpiles or additions to existing stockpiles located in foreign countries
 * (1) The value of defense articles to be set aside, earmarked, reserved, or intended for use as war reserve stocks for allied or other foreign countries (other than for purposes of the North Atlantic Treaty Organization or in the implementation of agreements with Israel) in stockpiles located in foreign countries may not exceed in any fiscal year an amount that is specified in security assistance authorizing legislation for that fiscal year.
 
-* (2)(A) The value of such additions to stockpiles of defense articles in foreign countries shall not exceed $200,000,000 for each of fiscal years 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, and 2021.
+* (2)(A) The value of such additions to stockpiles of defense articles in foreign countries shall not exceed $200,000,000 for each of fiscal years 2021, 2022, 2023, 2024, and 2025.
 
 * (B) Of the amount specified in subparagraph (A) for a fiscal year, not more than $200,000,000 may be made available for stockpiles in the State of Israel.
 

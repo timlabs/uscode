@@ -102,7 +102,7 @@
 * When practicable, a contract for transporting bullion, cash, or securities of the Federal Government shall be awarded to the lowest responsible bidder after notice to all parties with means of transportation.
 
 ### §6309. Honorable discharge certificate in lieu of birth certificate
-* (a) IN GENERAL.—An employer described in subsection (b) may not deny employment, on account of failure to produce a birth certificate, to an individual who submits, in lieu of the birth certificate, an honorable discharge certificate (or certificate issued in lieu of an honorable discharge certificate) from the Army, Air Force, Navy, Marine Corps, or Coast Guard of the United States, unless the honorable discharge certificate shows on its face that the individual may have been an alien at the time of its issuance.
+* (a) IN GENERAL.—An employer described in subsection (b) may not deny employment, on account of failure to produce a birth certificate, to an individual who submits, in lieu of the birth certificate, an honorable discharge certificate (or certificate issued in lieu of an honorable discharge certificate) from the Army, Air Force, Navy, Marine Corps, Space Force, or Coast Guard of the United States, unless the honorable discharge certificate shows on its face that the individual may have been an alien at the time of its issuance.
 
 * (b) EMPLOYERS TO WHICH SECTION APPLIES.—An employer referred to in subsection (a) is an employer—
 

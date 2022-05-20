@@ -297,11 +297,7 @@
 
       * (II) such veteran had a service-connected disability (as defined in section 101(16) of title 38); and
 
-      * (III) the date that—
-
-        * (aa) in the case of a surviving spouse of a veteran with a service-connected disability rated as 100 percent disabling or who dies as a result of a service-connected disability, is 10 years after the date of the death of the veteran; or
-
-        * (bb) in the case of a surviving spouse of a veteran with a service-connected disability rated as less than 100 percent disabling who does not die as a result of a service-connected disability, is 3 years after the date of the death of the veteran.
+      * (III) immediately prior to the death of such veteran, and during the period described in clause (ii), the small business concern is included in the database described in section 8127(f) of title 38.
 
 
     * (ii) The time period described in this clause is the time period beginning on the date of the veteran's death and ending on the earlier of—
@@ -310,7 +306,11 @@
 
       * (II) the date on which the surviving spouse relinquishes an ownership interest in the small business concern; or
 
-      * (III) the date that is 10 years after the date of the death of the veteran.
+      * (III) the date that—
+
+        * (aa) in the case of a surviving spouse of a veteran with a service-connected disability rated as 100 percent disabling or who dies as a result of a service-connected disability, is 10 years after the date of the death of the veteran; or
+
+        * (bb) in the case of a surviving spouse of a veteran with a service-connected disability rated as less than 100 percent disabling who does not die as a result of a service-connected disability, is 3 years after the date of the death of the veteran.
 
 * #### (3) Small business concern owned and controlled by veterans
   * The term "small business concern owned and controlled by veterans" means a small business concern—
@@ -441,3 +441,14 @@
 
 #### (ee) Puerto Rico business
 * In this chapter, the term "Puerto Rico business" means a small business concern that has its principal office located in the Commonwealth of Puerto Rico.
+
+#### (ff) Covered territory business
+* In this chapter, the term "covered territory business" means a small business concern that has its principal office located in one of the following:
+
+  * (1) The United States Virgin Islands.
+
+  * (2) American Samoa.
+
+  * (3) Guam.
+
+  * (4) The Northern Mariana Islands.

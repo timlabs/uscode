@@ -67,7 +67,7 @@
 #### (e) Authorization of appropriations
 * #### (1) In general
   * #### (A) National Center
-    * To carry out subsection (b), there are authorized to be appropriated $7,500,000 for each of fiscal years 2010 through 2014.
+    * To carry out subsection (b), there are authorized to be appropriated $5,663,000 for each of fiscal years 2021 through 2025.
 
   * #### (B) State and regional Centers
     * To carry out subsection (c), there are authorized to be appropriated $4,500,000 for each of fiscal years 2010 through 2014.
@@ -85,7 +85,7 @@
 #### (a) Establishment; duties
 * There is established the Council on Graduate Medical Education (in this section referred to as the "Council"). The Council shall—
 
-  * (1) make recommendations to the Secretary of Health and Human Services (in this section referred to as the "Secretary"), and to the Committee on Labor and Human Resources of the Senate, and the Committee on Energy and Commerce of the House of Representatives, with respect to—
+  * (1) make recommendations to the Secretary of Health and Human Services (in this section referred to as the "Secretary"), and to the Committee on Health, Education, Labor, and Pensions of the Senate, and the Committee on Energy and Commerce of the House of Representatives, with respect to—
 
     * (A) the supply and distribution of physicians in the United States;
 
@@ -113,15 +113,17 @@
 
   * (1) the Assistant Secretary for Health or the designee of the Assistant Secretary;
 
-  * (2) the Administrator of the Health Care Financing Administration;
+  * (2) the Administrator of the Centers for Medicare & Medicaid Services;
 
   * (3) the Chief Medical Director of the Department of Veterans Affairs;
 
-  * (4) 6 members appointed by the Secretary to include representatives of practicing primary care physicians, national and specialty physician organizations, foreign medical graduates, and medical student and house staff associations;
+  * (4) the Administrator of the Health Resources and Services Administration;
 
-  * (5) 4 members appointed by the Secretary to include representatives of schools of medicine and osteopathic medicine and public and private teaching hospitals; and
+  * (5) 6 members appointed by the Secretary to include representatives of practicing primary care physicians, national and specialty physician organizations, foreign medical graduates, and medical student and house staff associations;
 
-  * (6) 4 members appointed by the Secretary to include representatives of health insurers, business, and labor.
+  * (6) 4 members appointed by the Secretary to include representatives of schools of medicine and osteopathic medicine and public and private teaching hospitals; and
+
+  * (7) 4 members appointed by the Secretary to include representatives of health insurers, business, and labor.
 
 #### (c) Terms of appointed members
 * #### (1) In general; staggered rotation
@@ -153,16 +155,10 @@
 * #### (2) Coordination of activities
   * The Council shall coordinate its activities with the activities of the Secretary under section 295k of this title. The Secretary shall, in cooperation with the Council and pursuant to the recommendations of the Council, take such steps as are practicable to eliminate deficiencies in the data base established under section 295k of this title and shall make available in its reports such comprehensive data sets as are developed pursuant to this section.
 
-#### (i) Requirement regarding reports
-* In the reports required under subsection (a), the Council shall specify its activities during the period for which the report is made.
+#### (i) Reports
+* Not later than September 30, 2023, and not less than every 5 years thereafter, the Council shall submit to the Secretary, and to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives, a report on the recommendations described in subsection (a).
 
-#### (j) Final report
-* Not later than April 1, 2002, the Council shall submit a final report under subsection (a).
-
-#### (k) Termination
-* The Council shall terminate September 30, 2003.
-
-#### (l) Funding
+#### (j) Funding
 * Amounts otherwise appropriated under this subchapter may be utilized by the Secretary to support the activities of the Council.
 
 ### §294p. Pediatric rheumatology

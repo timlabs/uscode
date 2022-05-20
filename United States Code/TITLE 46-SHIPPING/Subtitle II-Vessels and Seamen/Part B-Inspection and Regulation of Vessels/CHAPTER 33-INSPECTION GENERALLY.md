@@ -242,7 +242,7 @@
 
   * (A) provide to each person affected by a decision or action by an Officer in Charge, Marine Inspection or by the Coast Guard marine safety center all information necessary for such person to exercise any right to appeal such decision or action; and
 
-  * (B) if such an appeal is filed, process such appeal under parts 1 through 4 of title 46, Code of Federal Regulations, as in effect on the date of enactment of the Coast Guard Authorization Act of 2017.
+  * (B) if such an appeal is filed, process such appeal under parts 1 through 4 of title 46, Code of Federal Regulations, as in effect on the date of enactment of the Frank LoBiondo Coast Guard Authorization Act of 2018.
 
 
 * (4) In this section, the term "Officer in Charge, Marine Inspection" means any person from the civilian or military branch of the Coast Guard who—
@@ -252,7 +252,7 @@
   * (B) under the superintendence and direction of the cognizant Coast Guard district commander, is in charge of an inspection zone for the performance of duties with respect to the inspections under, and enforcement and administration of, subtitle II, chapter 700, and regulations under such laws.
 
 ### §3306. Regulations
-* (a) To carry out this part and to secure the safety of individuals and property on board vessels subject to inspection, the Secretary shall prescribe necessary regulations to ensure the proper execution of, and to carry out, this part in the most effective manner for—
+* (a) To carry out this part and to secure the safety of individuals and property on board vessels subject to inspection, including covered small passenger vessels (as defined in subsection (n)(5)), the Secretary shall prescribe necessary regulations to ensure the proper execution of, and to carry out, this part in the most effective manner for—
 
   * (1) the design, construction, alteration, repair, and operation of those vessels, including superstructures, hulls, fittings, equipment, appliances, propulsion machinery, auxiliary machinery, boilers, unfired pressure vessels, piping, electric installations, and accommodations for passengers and crew, sailing school instructors, and sailing school students;
 
@@ -262,7 +262,7 @@
 
   * (4) inspections and tests related to paragraphs (1), (2), and (3) of this subsection; and
 
-  * (5) the use of vessel stores and other supplies of a dangerous nature.
+  * (5) the use of vessel stores and other supplies of a dangerous nature, including rechargeable devices utilized for personal or commercial electronic equipment.
 
 
 * (b)(1) Equipment and material subject to regulation under this section may not be used on any vessel without prior approval of the Secretary.
@@ -319,6 +319,71 @@
 * (m)(1) The Secretary shall promulgate regulations requiring companies to maintain records of all incremental weight changes made to freight vessels inspected under this chapter, and to track weight changes over time to facilitate rapid determination of the aggregate total.
 
 * (2) Records maintained under paragraph (1) shall be stored, in paper or electronic form, onboard such vessels for not less than 3 years and shoreside for the life of the vessel.
+
+* (n) COVERED SMALL PASSENGER VESSELS.—
+
+  * (1) REGULATIONS.—The Secretary shall prescribe additional regulations to secure the safety of individuals and property on board covered small passenger vessels.
+
+  * (2) COMPREHENSIVE REVIEW.—In order to prescribe the regulations under paragraph (1), the Secretary shall conduct a comprehensive review of all requirements (including calculations), in existence on the date of enactment of the Elijah E. Cummings Coast Guard Authorization Act of 2020, that apply to covered small passenger vessels, with respect to fire detection, protection, and suppression systems, and avenues of egress, on board such vessels.
+
+  * (3) REQUIREMENTS.—
+
+    * (A) IN GENERAL.—Subject to subparagraph (B), the regulations prescribed under paragraph (1) shall include, with respect to covered small passenger vessels, regulations for—
+
+      * (i) marine firefighting training programs to improve crewmember training and proficiency, including emergency egress training for each member of the crew, to occur for all members on the crew—
+
+        * (I) at least monthly while such members are employed on board the vessel; and
+
+        * (II) each time a new crewmember joins the crew of such vessel;
+
+
+      * (ii) in all areas on board the vessel where passengers and crew have access, including dining areas, sleeping quarters, and lounges—
+
+        * (I) interconnected fire detection equipment, including audible and visual alarms; and
+
+        * (II) additional fire extinguishers and other firefighting equipment;
+
+
+      * (iii) the installation and use of monitoring devices to ensure the wakefulness of the required night watch;
+
+      * (iv) increased fire detection and suppression systems (including additional fire extinguishers) on board such vessels in unmanned areas with machinery or areas with other potential heat sources;
+
+      * (v) all general areas accessible to passengers to have no less than 2 independent avenues of escape that are—
+
+        * (I) constructed and arranged to allow for free and unobstructed egress from such areas;
+
+        * (II) located so that if one avenue of escape is not available, another avenue of escape is available; and
+
+        * (III) not located directly above, or dependent on, a berth;
+
+
+      * (vi) the handling, storage, and operation of flammable items, such as rechargeable batteries, including lithium ion batteries utilized for commercial purposes on board such vessels;
+
+      * (vii) passenger emergency egress drills for all areas on the vessel to which passengers have access, which shall occur prior to the vessel beginning each excursion; and
+
+      * (viii) all passengers to be provided a copy of the emergency egress plan for the vessel.
+
+
+    * (B) APPLICABILITY TO CERTAIN COVERED SMALL PASSENGER VESSELS.—The requirements described in clauses (iii), (v), (vii), and (viii) of subparagraph (A) shall only apply to a covered small passenger vessel that has overnight passenger accommodations.
+
+
+  * (4) INTERIM REQUIREMENTS.—
+
+    * (A) INTERIM REQUIREMENTS.—The Secretary shall, prior to issuing final regulations under paragraph (1), implement interim requirements to enforce the requirements under paragraph (3).
+
+    * (B) IMPLEMENTATION.—The Secretary shall implement the interim requirements under subparagraph (A) without regard to chapters 5 and 6 of title 5 and Executive Order Nos. 12866 and 13563 (5 U.S.C. 601 note; relating to regulatory planning and review and relating to improving regulation and regulatory review).
+
+
+  * (5) DEFINITION OF COVERED SMALL PASSENGER VESSEL.—In this subsection, the term "covered small passenger vessel"—
+
+    * (A) except as provided in subparagraph (B), means a small passenger vessel (as defined in section 2101) that—
+
+      * (i) has overnight passenger accommodations; or
+
+      * (ii) is operating on a coastwise or oceans route; and
+
+
+    * (B) does not include a ferry (as defined in section 2101) or fishing vessel (as defined in section 2101).
 
 ### §3307. Frequency of inspection
 * Each vessel subject to inspection under this part shall undergo an initial inspection for certification before being put into service. After being put into service—
@@ -517,7 +582,7 @@
 ### §3317. Fees
 * (a) The Secretary may prescribe by regulation fees for inspecting or examining a small passenger vessel or a sailing school vessel.
 
-* (b) When an inspection or examination under this part of a documented vessel or a foreign vessel is conducted at a foreign port or place at the request of the owner or managing operator of the vessel, the owner or operator shall reimburse the Secretary for the travel and subsistence expenses incurred by the personnel assigned to perform the inspection or examination. Amounts received as reimbursement for these expenses shall be credited to the appropriation for operating expenses of the Coast Guard.
+* (b) When an inspection or examination under this part of a documented vessel or a foreign vessel is conducted at a foreign port or place at the request of the owner or managing operator of the vessel, the owner or operator shall reimburse the Secretary for the travel and subsistence expenses incurred by the personnel assigned to perform the inspection or examination. Amounts received as reimbursement for these expenses shall be credited to the appropriation for operations and support of the Coast Guard.
 
 ### §3318. Penalties
 * (a) Except as otherwise provided in this part, the owner, charterer, managing operator, agent, master, or individual in charge of a vessel operated in violation of this part or a regulation prescribed under this part, and a person violating a regulation that applies to a small passenger vessel, freight vessel of less than 100 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title, or sailing school vessel, are liable to the United States Government for a civil penalty of not more than $5,000. The vessel also is liable in rem for the penalty.

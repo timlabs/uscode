@@ -48,6 +48,4 @@
 * (d) DEFENSE AUDIT AGENCY DEFINED.—In this section, the term "defense audit agency" means the Defense Contract Audit Agency and the Defense Contract Management Agency.
 
 ### §205. Missile Defense Agency
-* (a) TERM OF DIRECTOR.—The Director of the Missile Defense Agency shall be appointed for a six-year term.
-
-* (b) REPORTING.—The Missile Defense Agency shall be under the authority, direction, and control of the Under Secretary of Defense for Research and Engineering.
+* The Director of the Missile Defense Agency shall be appointed for a six-year term.

@@ -131,13 +131,13 @@
 
   * (1) written request, signed by such individual, except in cases in which the Secretary finds it impracticable for the individual to do so, is filed for such payment in such form, in such manner, and by such person or persons as the Secretary may by regulation prescribe, no later than the close of the period ending 1 calendar year after the date of service;
 
-  * (2) a physician, or, in the case of services described in subparagraph (B), a physician, or a nurse practitioner, a clinical nurse specialist, or a physician assistant (as those terms are defined in section 1395x(aa)(5) of this title) who does not have a direct or indirect employment relationship with the facility but is working in collaboration with a physician,, or, in the case of services described in subparagraph (C), a physician enrolled under section 1395cc(j) of this title, certifies (and recertifies, where such services are furnished over a period of time, in such cases, with such frequency, and accompanied by such supporting material, appropriate to the case involved, as may be provided by regulations, except that the first of such recertifications shall be required in each case of inpatient hospital services not later than the 20th day of such period) that—
+  * (2) a physician, or, in the case of services described in subparagraph (B), a physician, or a nurse practitioner, a clinical nurse specialist, or a physician assistant (as those terms are defined in section 1395x(aa)(5) of this title) who does not have a direct or indirect employment relationship with the facility but is working in collaboration with a physician,, or, in the case of services described in subparagraph (C), a physician, a nurse practitioner or clinical nurse specialist (as such terms are defined in section 1395x(aa)(5) of this title) who is working in accordance with State law, or a physician assistant (as defined in section 1395x(aa)(5) of this title) who is working in accordance with State law, who is enrolled under section 1395cc(j) of this title, certifies (and recertifies, where such services are furnished over a period of time, in such cases, with such frequency, and accompanied by such supporting material, appropriate to the case involved, as may be provided by regulations, except that the first of such recertifications shall be required in each case of inpatient hospital services not later than the 20th day of such period) that—
 
     * (A) in the case of inpatient psychiatric hospital services, such services are or were required to be given on an inpatient basis, by or under the supervision of a physician, for the psychiatric treatment of an individual; and (i) such treatment can or could reasonably be expected to improve the condition for which such treatment is or was necessary or (ii) inpatient diagnostic study is or was medically required and such services are or were necessary for such purposes;
 
     * (B) in the case of post-hospital extended care services, such services are or were required to be given because the individual needs or needed on a daily basis skilled nursing care (provided directly by or requiring the supervision of skilled nursing personnel) or other skilled rehabilitation services, which as a practical matter can only be provided in a skilled nursing facility on an inpatient basis, for any of the conditions with respect to which he was receiving inpatient hospital services (or services which would constitute inpatient hospital services if the institution met the requirements of paragraphs (6) and (9) of section 1395x(e) of this title) prior to transfer to the skilled nursing facility or for a condition requiring such extended care services which arose after such transfer and while he was still in the facility for treatment of the condition or conditions for which he was receiving such inpatient hospital services;
 
-    * (C) in the case of home health services, such services are or were required because the individual is or was confined to his home (except when receiving items and services referred to in section 1395x(m)(7) of this title) and needs or needed skilled nursing care (other than solely venipuncture for the purpose of obtaining a blood sample) on an intermittent basis or physical or speech therapy or, in the case of an individual who has been furnished home health services based on such a need and who no longer has such a need for such care or therapy, continues or continued to need occupational therapy; a plan for furnishing such services to such individual has been established and is periodically reviewed by a physician; such services are or were furnished while the individual was under the care of a physician, and, in the case of a certification made by a physician after January 1, 2010, prior to making such certification the physician must document that the physician himself or herself, or a nurse practitioner or clinical nurse specialist (as those terms are defined in section 1395x(aa)(5) of this title) who is working in collaboration with the physician in accordance with State law, or a certified nurse-midwife (as defined in section 1395x(gg) of this title) as authorized by State law, or a physician assistant (as defined in section 1395x(aa)(5) of this title) under the supervision of the physician, has had a face-to-face encounter (including through use of telehealth, subject to the requirements in section 1395m(m) of this title, and other than with respect to encounters that are incident to services involved) with the individual within a reasonable timeframe as determined by the Secretary; or
+    * (C) in the case of home health services, such services are or were required because the individual is or was confined to his home (except when receiving items and services referred to in section 1395x(m)(7) of this title) and needs or needed skilled nursing care (other than solely venipuncture for the purpose of obtaining a blood sample) on an intermittent basis or physical or speech therapy or, in the case of an individual who has been furnished home health services based on such a need and who no longer has such a need for such care or therapy, continues or continued to need occupational therapy; a plan for furnishing such services to such individual has been established and is periodically reviewed by a physician, a nurse practitioner, a clinical nurse specialist, or a physician assistant (as the case may be); such services are or were furnished while the individual was under the care of a physician, a nurse practitioner, a clinical nurse specialist, or a physician assistant (as the case may be), and, in the case of a certification made by a physician after January 1, 2010, or by a nurse practitioner, clinical nurse specialist, or physician assistant (as the case may be) after a date specified by the Secretary (but in no case later than the date that is 6 months after March 27, 2020), prior to making such certification a physician, nurse practitioner, clinical nurse specialist, or physician assistant must document that a physician, nurse practitioner, clinical nurse specialist, certified nurse-midwife (as defined in section 1395x(gg) of this title) as authorized by State law, or physician assistant has had a face-to-face encounter (including through use of telehealth, subject to the requirements in section 1395m(m) of this title, and other than with respect to encounters that are incident to services involved) with the individual within a reasonable timeframe as determined by the Secretary; or
 
     * (D) in the case of inpatient hospital services in connection with the care, treatment, filling, removal, or replacement of teeth or structures directly supporting teeth, the individual, because of his underlying medical condition and clinical status or because of the severity of the dental procedure, requires hospitalization in connection with the provision of such services;
 
@@ -169,7 +169,9 @@
 
     * (D) on and after January 1, 2011 (and, in the case of clause (ii), before October 6, 2014)—
 
-      * (i) a hospice physician or nurse practitioner has a face-to-face encounter with the individual to determine continued eligibility of the individual for hospice care prior to the 180th-day recertification and each subsequent recertification under subparagraph (A)(ii) and attests that such visit took place (in accordance with procedures established by the Secretary); and
+      * (i)(I) subject to subclause (II), a hospice physician or nurse practitioner has a face-to-face encounter with the individual to determine continued eligibility of the individual for hospice care prior to the 180th-day recertification and each subsequent recertification under subparagraph (A)(ii) and attests that such visit took place (in accordance with procedures established by the Secretary); and
+
+      * (II) during the emergency period described in section 1320b–5(g)(1)(B) of this title, a hospice physician or nurse practitioner may conduct a face-to-face encounter required under this clause via telehealth, as determined appropriate by the Secretary; and
 
       * (ii) in the case of hospice care provided an individual for more than 180 days by a hospice program for which the number of such cases for such program comprises more than a percent (specified by the Secretary) of the total number of such cases for all programs under this subchapter, the hospice care provided to such individual is medically reviewed (in accordance with procedures established by the Secretary); and
 
@@ -180,7 +182,7 @@
   * (8) in the case of inpatient critical access hospital services, a physician certifies that the individual may reasonably be expected to be discharged or transferred to a hospital within 96 hours after admission to the critical access hospital.
 
 
-* To the extent provided by regulations, the certification and recertification requirements of paragraph (2) shall be deemed satisfied where, at a later date, a physician, nurse practitioner, clinical nurse specialist, or physician assistant (as the case may be) makes certification of the kind provided in subparagraph (A), (B), (C), or (D) of paragraph (2) (whichever would have applied), but only where such certification is accompanied by such medical and other evidence as may be required by such regulations. With respect to the physician certification required by paragraph (2) for home health services furnished to any individual by a home health agency (other than an agency which is a governmental entity) and with respect to the establishment and review of a plan for such services, the Secretary shall prescribe regulations which shall become effective no later than July 1, 1981, and which prohibit a physician who has a significant ownership interest in, or a significant financial or contractual relationship with, such home health agency from performing such certification and from establishing or reviewing such plan, except that such prohibition shall not apply with respect to a home health agency which is a sole community home health agency (as determined by the Secretary). For purposes of the preceding sentence, service by a physician as an uncompensated officer or director of a home health agency shall not constitute having a significant ownership interest in, or a significant financial or contractual relationship with, such agency. For purposes of documentation for physician certification and recertification made under paragraph (2) on or after January 1, 2019, and made with respect to home health services furnished by a home health agency, in addition to using documentation in the medical record of the physician who so certifies or the medical record of the acute or post-acute care facility (in the case that home health services were furnished to an individual who was directly admitted to the home health agency from such a facility), the Secretary may use documentation in the medical record of the home health agency as supporting material, as appropriate to the case involved. For purposes of paragraph (2)(C), an individual shall be considered to be "confined to his home" if the individual has a condition, due to an illness or injury, that restricts the ability of the individual to leave his or her home except with the assistance of another individual or the aid of a supportive device (such as crutches, a cane, a wheelchair, or a walker), or if the individual has a condition such that leaving his or her home is medically contraindicated. While an individual does not have to be bedridden to be considered "confined to his home", the condition of the individual should be such that there exists a normal inability to leave home and that leaving home requires a considerable and taxing effort by the individual. Any absence of an individual from the home attributable to the need to receive health care treatment, including regular absences for the purpose of participating in therapeutic, psychosocial, or medical treatment in an adult day-care program that is licensed or certified by a State, or accredited, to furnish adult day-care services in the State shall not disqualify an individual from being considered to be "confined to his home". Any other absence of an individual from the home shall not so disqualify an individual if the absence is of infrequent or of relatively short duration. For purposes of the preceding sentence, any absence for the purpose of attending a religious service shall be deemed to be an absence of infrequent or short duration. In applying paragraph (1), the Secretary may specify exceptions to the 1 calendar year period specified in such paragraph.
+* To the extent provided by regulations, the certification and recertification requirements of paragraph (2) shall be deemed satisfied where, at a later date, a physician, nurse practitioner, clinical nurse specialist, or physician assistant (as the case may be) makes certification of the kind provided in subparagraph (A), (B), (C), or (D) of paragraph (2) (whichever would have applied), but only where such certification is accompanied by such medical and other evidence as may be required by such regulations. With respect to the certification required by paragraph (2) for home health services furnished to any individual by a home health agency (other than an agency which is a governmental entity) and with respect to the establishment and review of a plan for such services, the Secretary shall prescribe regulations which shall become effective no later than July 1, 1981 (or in the case of regulations to implement the amendments made by section 3708 of the CARES Act, the Secretary shall prescribe regulations, which shall become effective no later than 6 months after March 27, 2020), and which prohibit a physician, nurse practitioner, clinical nurse specialist, or physician assistant who has a significant ownership interest in, or a significant financial or contractual relationship with, such home health agency from performing such certification and from establishing or reviewing such plan, except that such prohibition shall not apply with respect to a home health agency which is a sole community home health agency (as determined by the Secretary). For purposes of the preceding sentence, service by a physician, nurse practitioner, clinical nurse specialist, or physician assistant as an uncompensated officer or director of a home health agency shall not constitute having a significant ownership interest in, or a significant financial or contractual relationship with, such agency. For purposes of documentation for physician certification and recertification made under paragraph (2) on or after January 1, 2019 or no later than 6 months after March 27, 2020, for purposes of documentation for certification and recertification made under paragraph (2) by a nurse practitioner, clinical nurse specialist, or physician assistant,, and made with respect to home health services furnished by a home health agency, in addition to using documentation in the medical record of the physician, nurse practitioner, clinical nurse specialist, or physician assistant who so certifies or the medical record of the acute or post-acute care facility (in the case that home health services were furnished to an individual who was directly admitted to the home health agency from such a facility), the Secretary may use documentation in the medical record of the home health agency as supporting material, as appropriate to the case involved. For purposes of paragraph (2)(C), an individual shall be considered to be "confined to his home" if the individual has a condition, due to an illness or injury, that restricts the ability of the individual to leave his or her home except with the assistance of another individual or the aid of a supportive device (such as crutches, a cane, a wheelchair, or a walker), or if the individual has a condition such that leaving his or her home is medically contraindicated. While an individual does not have to be bedridden to be considered "confined to his home", the condition of the individual should be such that there exists a normal inability to leave home and that leaving home requires a considerable and taxing effort by the individual. Any absence of an individual from the home attributable to the need to receive health care treatment, including regular absences for the purpose of participating in therapeutic, psychosocial, or medical treatment in an adult day-care program that is licensed or certified by a State, or accredited, to furnish adult day-care services in the State shall not disqualify an individual from being considered to be "confined to his home". Any other absence of an individual from the home shall not so disqualify an individual if the absence is of infrequent or of relatively short duration. For purposes of the preceding sentence, any absence for the purpose of attending a religious service shall be deemed to be an absence of infrequent or short duration. In applying paragraph (1), the Secretary may specify exceptions to the 1 calendar year period specified in such paragraph.
 
 #### (b) Amount paid to provider of services
 * The amount paid to any provider of services (other than a hospice program providing hospice care, other than a critical access hospital providing inpatient critical access hospital services, and other than a home health agency with respect to durable medical equipment) with respect to services for which payment may be made under this part shall, subject to the provisions of sections 1395e, 1395ww, and 1395fff of this title, be—
@@ -302,9 +304,9 @@
 
 * (B)(i) Except as provided in clause (ii), for purposes of subparagraph (A), the "cap amount" for a year is $6,500, increased or decreased, for accounting years that end after October 1, 1984, by the same percentage as the percentage increase or decrease, respectively, in the medical care expenditure category of the Consumer Price Index for All Urban Consumers (United States city average), published by the Bureau of Labor Statistics, from March 1984 to the fifth month of the accounting year.
 
-* (ii) For purposes of subparagraph (A) for accounting years that end after September 30, 2016, and before October 1, 2025, the "cap amount" is the cap amount under this subparagraph for the preceding accounting year updated by the percentage update to payment rates for hospice care under paragraph (1)(C) for services furnished during the fiscal year beginning on the October 1 preceding the beginning of the accounting year (including the application of any productivity or other adjustment under clause (iv) of that paragraph).
+* (ii) For purposes of subparagraph (A) for accounting years that end after September 30, 2016, and before October 1, 2030, the "cap amount" is the cap amount under this subparagraph for the preceding accounting year updated by the percentage update to payment rates for hospice care under paragraph (1)(C) for services furnished during the fiscal year beginning on the October 1 preceding the beginning of the accounting year (including the application of any productivity or other adjustment under clause (iv) of that paragraph).
 
-* (iii) For accounting years that end after September 30, 2025, the cap amount shall be computed under clause (i) as if clause (ii) had never applied.
+* (iii) For accounting years that end after September 30, 2030, the cap amount shall be computed under clause (i) as if clause (ii) had never applied.
 
 * (C) For purposes of subparagraph (A), the "number of medicare beneficiaries" in a hospice program in an accounting year is equal to the number of individuals who have made an election under subsection (d) with respect to the hospice program and have been provided hospice care by (or under arrangements made by) the hospice program under this part in the accounting year, such number reduced to reflect the proportion of hospice care that each such individual was provided in a previous or subsequent accounting year or under a plan of care established by another hospice program.
 
@@ -318,7 +320,7 @@
 
   * (A) REDUCTION IN UPDATE FOR FAILURE TO REPORT.—
 
-    * (i) IN GENERAL.—For purposes of fiscal year 2014 and each subsequent fiscal year, in the case of a hospice program that does not submit data to the Secretary in accordance with subparagraph (C) with respect to such a fiscal year, after determining the market basket percentage increase under paragraph (1)(C)(ii)(VII) or paragraph (1)(C)(iii), as applicable, and after application of clauses (iv) and (vi) of paragraph (1)(C), with respect to the fiscal year, the Secretary shall reduce such market basket percentage increase by 2 percentage points.
+    * (i) IN GENERAL.—For purposes of fiscal year 2014 and each subsequent fiscal year, in the case of a hospice program that does not submit data to the Secretary in accordance with subparagraph (C) with respect to such a fiscal year, after determining the market basket percentage increase under paragraph (1)(C)(ii)(VII) or paragraph (1)(C)(iii), as applicable, and after application of clauses (iv) and (vi) of paragraph (1)(C), with respect to the fiscal year, the Secretary shall reduce such market basket percentage increase by 2 percentage points (or, for fiscal year 2024 and each subsequent fiscal year, 4 percentage points).
 
     * (ii) SPECIAL RULE.—The application of this subparagraph may result in the market basket percentage increase under paragraph (1)(C)(ii)(VII) or paragraph (1)(C)(iii), as applicable, being less than 0.0 for a fiscal year, and may result in payment rates under this subsection for a fiscal year being less than such payment rates for the preceding fiscal year.
 
@@ -447,7 +449,7 @@
 * No payment which may be made to a provider of services under this subchapter for any service furnished to an individual shall be made to any other person under an assignment or power of attorney; but nothing in this subsection shall be construed (1) to prevent the making of such a payment in accordance with an assignment from the provider if such assignment is made to a governmental agency or entity or is established by or pursuant to the order of a court of competent jurisdiction, or (2) to preclude an agent of the provider of services from receiving any such payment if (but only if) such agent does so pursuant to an agency agreement under which the compensation to be paid to the agent for his services for or in connection with the billing or collection of payments due such provider under this subchapter is unrelated (directly or indirectly) to the amount of such payments or the billings therefor, and is not dependent upon the actual collection of any such payment.
 
 #### (d) Accrual of interest on balance of excess or deficit not paid
-* Whenever a final determination is made that the amount of payment made under this part to a provider of services was in excess of or less than the amount of payment that is due, and payment of such excess or deficit is not made (or effected by offset) within 30 days of the date of the determination, interest shall accrue on the balance of such excess or deficit not paid or offset (to the extent that the balance is owed by or owing to the provider) at a rate determined in accordance with the regulations of the Secretary of the Treasury applicable to charges for late payments.
+* Whenever a final determination is made that the amount of payment made under this part to a provider of services was in excess of or less than the amount of payment that is due, and payment of such excess or deficit is not made (or effected by offset) within 30 days of the date of the determination, interest shall accrue on the balance of such excess or deficit not paid or offset (to the extent that the balance is owed by or owing to the provider) at a rate determined in accordance with the regulations of the Secretary of the Treasury applicable to charges for late payments (or, in the case of such a determination made with respect to a payment made on or after March 27, 2020, and during the emergency period described in section 1320b–5(g)(1)(B) of this title under the program under subsection (e)(3), including such program as expanded pursuant to subsection (f), at a rate of 4 percent).
 
 #### (e) Periodic interim payments
 * (1) The Secretary shall provide payment under this part for inpatient hospital services furnished by a subsection (d) hospital (as defined in section 1395ww(d)(1)(B) of this title, and including a distinct psychiatric or rehabilitation unit of such a hospital) and a subsection (d) Puerto Rico hospital (as defined in section 1395ww(d)(9)(A) of this title) on a periodic interim payment basis (rather than on the basis of bills actually submitted) in the following cases:
@@ -490,13 +492,56 @@
 
 * if the provider of such services elects to receive, and qualifies for, such payments.
 
-* (3) In the case of a subsection (d) hospital or a subsection (d) Puerto Rico hospital (as defined for purposes of section 1395ww of this title) which has significant cash flow problems resulting from operations of its intermediary or from unusual circumstances of the hospital's operation, the Secretary may make available appropriate accelerated payments.
+* (3) Subject to subsection (f), in the case of a subsection (d) hospital or a subsection (d) Puerto Rico hospital (as defined for purposes of section 1395ww of this title) which has significant cash flow problems resulting from operations of its intermediary or from unusual circumstances of the hospital's operation, the Secretary may make available appropriate accelerated payments.
 
 * (4) A hospital created by the merger or consolidation of 2 or more hospitals or hospital campuses shall be eligible to receive periodic interim payment on the basis described in paragraph (1)(B) if—
 
   * (A) at least one of the hospitals or campuses received periodic interim payment on such basis prior to the merger or consolidation; and
 
   * (B) the merging or consolidating hospitals or campuses would each meet the requirement of paragraph (1)(B)(i) if such hospitals or campuses were treated as independent hospitals for purposes of this subchapter.
+
+#### (f) Expansion of accelerated payment program during COVID–19 public health emergency
+* (1) During the emergency period described in section 1320b–5(g)(1)(B) of this title, the Secretary shall expand the program under subsection (e)(3) pursuant to paragraph (2).
+
+* (2) In expanding the program under subsection (e)(3), the following shall apply:
+
+  * (A)(i) In addition to the hospitals described in subsection (e)(3), the following hospitals shall be eligible to participate in the program:
+
+    * (I) Hospitals described in clause (iii) of section 1395ww(d)(1)(B) of this title.
+
+    * (II) Hospitals described in clause (v) of such section.
+
+    * (III) Critical access hospitals (as defined in section 1395x(mm)(1) of this title).
+
+
+  * (ii) Subject to appropriate safeguards against fraud, waste, and abuse, upon a request of a hospital described in clause (i), the Secretary shall (or, with respect to requests submitted to the Secretary after April 26, 2020, may) provide accelerated payments under the program to such hospital.
+
+  * (B) Upon the request of the hospital, the Secretary may do any of the following:
+
+    * (i) Make accelerated payments on a periodic or lump sum basis.
+
+    * (ii) Increase the amount of payment that would otherwise be made to hospitals under the program up to 100 percent (or, in the case of critical access hospitals, up to 125 percent).
+
+    * (iii) Extend the period that accelerated payments cover so that it covers up to a 6-month period.
+
+
+  * (C) In the case of a payment made under the terms of the program under subsection (e)(3), including such program as expanded pursuant to this subsection, on or after March 27, 2020, and so made during the emergency period described in section 1320b–5(g)(1)(B) of this title, upon request of a hospital, the Secretary shall—
+
+    * (i) provide 1 year before payments for items and services furnished by the hospital are offset to recoup payments under such program;
+
+    * (ii) provide that any such offset be an amount equal to—
+
+      * (I) during the first 11 months in which any such offsets are made with respect to payment for items and services furnished by the hospital, 25 percent of the amount of such payment for such items and services; and
+
+      * (II) during the succeeding 6 months, 50 percent of the amount of such payment for such items and services; and
+
+
+    * (iii) allow 29 months from the date of the first payment under such program to such provider before requiring that the outstanding balance be paid in full.
+
+
+* (3) Nothing in this subsection shall preclude the Secretary from carrying out the provisions described in clauses (i), (ii), and (iii) of paragraph (2)(B) and clauses (i) and (ii) of paragraph (2)(C) under the program under subsection (e)(3) after the period for which this subsection applies.
+
+* (4) Notwithstanding any other provision of law, the Secretary may implement the provisions of this subsection by program instruction or otherwise.
 
 ### §1395h. Provisions relating to the administration of part A
 #### (a) In general
@@ -1013,7 +1058,7 @@
 
 * The regulations under subparagraph (D) may provide a grace period of not longer than 90 days, which may be extended to not to exceed 180 days in any case where the Secretary determines that there was good cause for failure to pay the overdue premiums within such 90-day period. Termination of coverage under this section shall result in simultaneous termination of any coverage affected under any other part of this subchapter.
 
-* (3) The provisions of subsections (h) and (i) of section 1395p of this title apply to enrollment and nonenrollment under this section in the same manner as they apply to enrollment and nonenrollment and special enrollment periods under section 1395i–2 of this title.
+* (3) The provisions of subsections (h), (i), and (m) of section 1395p of this title apply to enrollment and nonenrollment under this section in the same manner as they apply to enrollment and nonenrollment and special enrollment periods under section 1395i–2 of this title.
 
 #### (d) Payment of premiums
 * (1)(A) Premiums for enrollment under this section shall be paid to the Secretary at such times, and in such manner, as the Secretary shall by regulations prescribe, and shall be deposited in the Treasury to the credit of the Federal Hospital Insurance Trust Fund.
@@ -2326,3 +2371,105 @@
   * (2) trends in such level; and
 
   * (3) facts and circumstances of any significant change in such level from the level in previous fiscal years.
+
+### §1395i–6. Hospice program survey and enforcement procedures
+#### (a) Surveys
+* #### (1) Frequency
+  * Any entity that is certified as a hospice program (as defined in section 1395x(dd)(2)) of this title shall be subject to a standard survey by an appropriate State or local survey agency, or an approved accreditation agency, as determined by the Secretary, not less frequently than once every 36 months.
+
+* #### (2) Public transparency of survey and certification information
+  * #### (A) Submission of information to the Secretary
+    * #### (i) In general
+      * Each State or local survey agency, and each national accreditation body with respect to which the Secretary has made a finding under section 1395bb(a) of this title respecting the accreditation of a hospice program by such body, shall submit, in a form and manner, and at a time, specified by the Secretary for purposes of this paragraph, information respecting any survey or certification made with respect to a hospice program by such survey agency or body, as applicable. Such information shall include any inspection report made by such survey agency or body with respect to such survey or certification, any enforcement actions taken as a result of such survey or certification, and any other information determined appropriate by the Secretary.
+
+    * #### (ii) Required inclusion of specified form
+      * With respect to a survey under this subsection carried out by a national accreditation body described in clause (i) on or after October 1, 2021, information described in such clause shall include Form CMS-2567 (or a successor form), along with such additional information determined appropriate by such body.
+
+  * #### (B) Public disclosure of information
+    * Beginning not later than October 1, 2022, the Secretary shall publish the information submitted under subparagraph (A) on the public website of the Centers for Medicare & Medicaid Services in a manner that is prominent, easily accessible, readily understandable, and searchable. The Secretary shall provide for the timely update of such information so published.
+
+* #### (3) Consistency of surveys
+  * Each State and the Secretary shall implement programs to measure and reduce inconsistency in the application of survey results among surveyors.
+
+* #### (4) Survey teams
+  * #### (A) In general
+    * In the case of a survey conducted under this subsection on or after October 1, 2021, by more than 1 individual, such survey shall be conducted by a multidisciplinary team of professionals (including a registered professional nurse).
+
+  * #### (B) Prohibition of conflicts of interest
+    * Beginning October 1, 2021, a State may not use as a member of a survey team under this subsection an individual who is serving (or has served within the previous 2 years) as a member of the staff of, or as a consultant to, the program surveyed respecting compliance with the requirements of section 1395x(dd) of this title or who has a personal or familial financial interest in the program being surveyed.
+
+  * #### (C) Training
+    * The Secretary shall provide, not later than October 1, 2021, for the comprehensive training of State and Federal surveyors, and any surveyor employed by a national accreditation body described in paragraph (2)(A)(i), in the conduct of surveys under this subsection, including training with respect to the review of written plans for providing hospice care (as described in section 1395f(a)(7)(B) of this title). No individual shall serve as a member of a survey team with respect to a survey conducted on or after such date unless the individual has successfully completed a training and testing program in survey and certification techniques that has been approved by the Secretary.
+
+* #### (5) Funding
+  * The Secretary shall provide for the transfer, from the Federal Hospital Insurance Trust Fund under section 1395i of this title to the Centers for Medicare & Medicaid Services Program Management Account, of $10,000,000 for each fiscal year (beginning with fiscal year 2022) for purposes of carrying out this subsection and subsection (b). Sums so transferred shall remain available until expended. Any transfer pursuant to this paragraph shall be in addition to any transfer pursuant to section 3(a)(2) of the Improving Medicare Post-Acute Care Transformation Act of 2014.
+
+#### (b) Special focus program
+* #### (1) In general
+  * The Secretary shall conduct a special focus program for enforcement of requirements for hospice programs that the Secretary has identified as having substantially failed to meet applicable requirements of this chapter.
+
+* #### (2) Periodic surveys
+  * Under such special focus program, the Secretary shall conduct surveys of each hospice program in the special focus program not less than once every 6 months.
+
+#### (c) Enforcement
+* #### (1) Situations involving immediate jeopardy
+  * If the Secretary determines on the basis of a standard survey or otherwise that a hospice program that is certified for participation under this subchapter is no longer in compliance with the requirements specified in section 1395x(dd) of this title and determines that the deficiencies involved immediately jeopardize the health and safety of the individuals to whom the program furnishes items and services, the Secretary shall take immediate action to ensure the removal of the jeopardy and correction of the deficiencies or terminate the certification of the program, and may provide, in addition, for 1 or more of the other remedies described in paragraph (5)(B).
+
+* #### (2) Situations not involving immediate jeopardy
+  * If the Secretary determines on the basis of a standard survey or otherwise that a hospice program that is certified for participation under this subchapter is no longer in compliance with the requirements specified in section 1395x(dd) of this title and determines that the deficiencies involved do not immediately jeopardize the health and safety of the individuals to whom the program furnishes items and services, the Secretary may (for a period not to exceed 6 months) impose remedies developed pursuant to paragraph (5)(A), in lieu of terminating the certification of the program. If, after such a period of remedies, the program is still no longer in compliance with such requirements, the Secretary shall terminate the certification of the program.
+
+* #### (3) Penalty for previous noncompliance
+  * If the Secretary determines that a hospice program that is certified for participation under this subchapter is in compliance with the requirements specified in section 1395x(dd) of this title but, as of a previous period, did not meet such requirements, the Secretary may provide for a civil money penalty under paragraph (5)(B)(i) for the days in which the Secretary finds that the program was not in compliance with such requirements.
+
+* #### (4) Option to continue payments for noncompliant hospice programs
+  * The Secretary may continue payments under this subchapter with respect to a hospice program not in compliance with the requirements specified in section 1395x(dd) of this title over a period of not longer than 6 months, if—
+
+    * (A) the State or local survey agency finds that it is more appropriate to take alternative action to assure compliance of the program with such requirements than to terminate the certification of the program;
+
+    * (B) the program has submitted a plan and timetable for corrective action to the Secretary for approval and the Secretary approves the plan of corrective action; and
+
+    * (C) the program agrees to repay to the Federal Government payments received under this subchapter during such period if the corrective action is not taken in accordance with the approved plan and timetable.
+
+
+* The Secretary shall establish guidelines for approval of corrective actions requested by hospice programs under this paragraph.
+
+* #### (5) Remedies
+  * #### (A) Development
+    * #### (i) In general
+      * Not later than October 1, 2022, the Secretary shall develop and implement—
+
+        * (I) a range of remedies to apply to hospice programs under the conditions described in paragraphs (1) through (4); and
+
+        * (II) appropriate procedures for appealing determinations relating to the imposition of such remedies.
+
+
+  * &nbsp;Remedies developed pursuant to the preceding sentence shall include the remedies specified in subparagraph (B).
+
+    * #### (ii) Conditions of imposition of remedies
+      * Not later than October 1, 2022, the Secretary shall develop and implement specific procedures with respect to the conditions under which each of the remedies developed under clause (i) is to be applied, including the amount of any fines and the severity of each of these remedies. Such procedures shall be designed so as to minimize the time between identification of deficiencies and imposition of these remedies and shall provide for the imposition of incrementally more severe fines for repeated or uncorrected deficiencies.
+
+  * #### (B) Specified remedies
+    * The remedies specified in this subparagraph are the following:
+
+      * (i) Civil money penalties in an amount not to exceed $10,000 for each day of noncompliance by a hospice program with the requirements specified in section 1395x(dd) of this title.
+
+      * (ii) Suspension of all or part of the payments to which a hospice program would otherwise be entitled under this subchapter with respect to items and services furnished by a hospice program on or after the date on which the Secretary determines that remedies should be imposed pursuant to paragraphs (1) and (2).
+
+      * (iii) The appointment of temporary management to oversee the operation of the hospice program and to protect and assure the health and safety of the individuals under the care of the program while improvements are made in order to bring the program into compliance with all such requirements.
+
+  * #### (C) Procedures
+    * #### (i) Civil money penalties
+      * #### (I) In general
+        * Subject to subclause (II), the provisions of section 1320a–7a of this title (other than subsections (a) and (b)) shall apply to a civil money penalty under this subsection in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.
+
+      * #### (II) Retention of amounts for hospice program improvements
+        * The Secretary may provide that any portion of civil money penalties collected under this subsection may be used to support activities that benefit individuals receiving hospice care, including education and training programs to ensure hospice program compliance with the requirements of section 1395x(dd) of this title.
+
+      * #### (ii) Suspension of payment
+        * A finding to suspend payment under subparagraph (B)(ii) shall terminate when the Secretary finds that the program is in substantial compliance with all requirements of section 1395x(dd) of this title.
+
+      * #### (iii) Temporary management
+        * The temporary management under subparagraph (B)(iii) shall not be terminated until the Secretary has determined that the program has the management capability to ensure continued compliance with all the requirements referred to in such subparagraph.
+
+  * #### (D) Relationship to other remedies
+    * The remedies developed under subparagraph (A) are in addition to sanctions otherwise available under State or Federal law and shall not be construed as limiting other remedies, including any remedy available to an individual at common law.

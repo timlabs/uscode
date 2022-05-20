@@ -24,7 +24,7 @@
 
 * (2) The Secretary of Defense may repay loans described in paragraph (1) in the case of any person for service performed as a member of the Selected Reserve of the Ready Reserve of an armed force in a reserve component and in an officer program or military specialty specified by the Secretary of Defense. The Secretary may repay such a loan only if the person to whom the loan was made performed such service after the loan was made.
 
-* (b) The portion or amount of a loan that may be repaid under subsection (a) is 15 percent or $500, whichever is greater, for each year of service, plus the amount of any interest that may accrue during the current year.
+* (b) The portion or amount of a loan that may be repaid under subsection (a) is 15 percent or $1,000, whichever is greater, for each year of service, plus the amount of any interest that may accrue during the current year.
 
 * (c) If a portion of a loan is repaid under this section for any year, interest on the remainder of the loan shall accrue and be paid in the same manner as is otherwise required. For the purposes of this section, any interest that has accrued on the loan for periods before the current year shall be considered as within the total loan amount that shall be repaid.
 
@@ -65,7 +65,7 @@
 
 * (2) The annual maximum amount of a loan that may be repaid under this section shall be the same as the maximum amount in effect for the same year under subsection (e)(2) of section 2173 of this title for the education loan repayment program under such section.
 
-* (d) The authority provided in this section shall apply only in the case of a person first appointed as a commissioned officer on or before December 31, 2020.
+* (d) The authority provided in this section shall apply only in the case of a person first appointed as a commissioned officer on or before December 31, 2021.
 
 ### §16303. Loan repayment program: chaplains serving in the Selected Reserve
 * (a) AUTHORITY TO REPAY EDUCATION LOANS.—For purposes of maintaining adequate numbers of chaplains in the Selected Reserve, the Secretary concerned may repay a loan that was obtained by a person who—

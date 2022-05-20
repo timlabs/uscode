@@ -137,9 +137,15 @@
 
   * (26) under subsection (a), of the setoff under applicable nonbankruptcy law of an income tax refund, by a governmental unit, with respect to a taxable period that ended before the date of the order for relief against an income tax liability for a taxable period that also ended before the date of the order for relief, except that in any case in which the setoff of an income tax refund is not permitted under applicable nonbankruptcy law because of a pending action to determine the amount or legality of a tax liability, the governmental unit may hold the refund pending the resolution of the action, unless the court, on the motion of the trustee and after notice and a hearing, grants the taxing authority adequate protection (within the meaning of section 361) for the secured claim of such authority in the setoff under section 506(a);
 
-  * (27) under subsection (a) of this section, of the exercise by a master netting agreement participant of any contractual right (as defined in section 555, 556, 559, or 560) under any security agreement or arrangement or other credit enhancement forming a part of or related to any master netting agreement, or of any contractual right (as defined in section 555, 556, 559, or 560) to offset or net out any termination value, payment amount, or other transfer obligation arising under or in connection with 1 or more such master netting agreements to the extent that such participant is eligible to exercise such rights under paragraph (6), (7), or (17) for each individual contract covered by the master netting agreement in issue; and
+  * (27) under subsection (a) of this section, of the exercise by a master netting agreement participant of any contractual right (as defined in section 555, 556, 559, or 560) under any security agreement or arrangement or other credit enhancement forming a part of or related to any master netting agreement, or of any contractual right (as defined in section 555, 556, 559, or 560) to offset or net out any termination value, payment amount, or other transfer obligation arising under or in connection with 1 or more such master netting agreements to the extent that such participant is eligible to exercise such rights under paragraph (6), (7), or (17) for each individual contract covered by the master netting agreement in issue;
 
-  * (28) under subsection (a), of the exclusion by the Secretary of Health and Human Services of the debtor from participation in the medicare program or any other Federal health care program (as defined in section 1128B(f) of the Social Security Act pursuant to title XI or XVIII of such Act).
+  * (28) under subsection (a), of the exclusion by the Secretary of Health and Human Services of the debtor from participation in the medicare program or any other Federal health care program (as defined in section 1128B(f) of the Social Security Act pursuant to title XI or XVIII of such Act); and
+
+  * (29) under subsection (a)(1) of this section, of any action by—
+
+    * (A) an amateur sports organization, as defined in section 220501(b) of title 36, to replace a national governing body, as defined in that section, under section 220528 of that title; or
+
+    * (B) the corporation, as defined in section 220501(b) of title 36, to revoke the certification of a national governing body, as defined in that section, under section 220521 of that title.
 
 
 * The provisions of paragraphs (12) and (13) of this subsection shall apply with respect to any such petition filed on or before December 31, 1989.
@@ -537,16 +543,25 @@
 
 * (2) In a case under chapter 9, 11, 12, or 13 of this title, the trustee may assume or reject an executory contract or unexpired lease of residential real property or of personal property of the debtor at any time before the confirmation of a plan but the court, on the request of any party to such contract or lease, may order the trustee to determine within a specified period of time whether to assume or reject such contract or lease.
 
-* (3) The trustee shall timely perform all the obligations of the debtor, except those specified in section 365(b)(2), arising from and after the order for relief under any unexpired lease of nonresidential real property, until such lease is assumed or rejected, notwithstanding section 503(b)(1) of this title. The court may extend, for cause, the time for performance of any such obligation that arises within 60 days after the date of the order for relief, but the time for performance shall not be extended beyond such 60-day period. This subsection shall not be deemed to affect the trustee's obligations under the provisions of subsection (b) or (f) of this section. Acceptance of any such performance does not constitute waiver or relinquishment of the lessor's rights under such lease or under this title.
+* (3)(A) The trustee shall timely perform all the obligations of the debtor, except those specified in section 365(b)(2), arising from and after the order for relief under any unexpired lease of nonresidential real property, until such lease is assumed or rejected, notwithstanding section 503(b)(1) of this title. The court may extend, for cause, the time for performance of any such obligation that arises within 60 days after the date of the order for relief, but the time for performance shall not be extended beyond such 60-day period, except as provided in subparagraph (B). This subsection shall not be deemed to affect the trustee's obligations under the provisions of subsection (b) or (f) of this section. Acceptance of any such performance does not constitute waiver or relinquishment of the lessor's rights under such lease or under this title.
+
+* (B) In a case under subchapter V of chapter 11, the time for performance of an obligation described in subparagraph (A) arising under any unexpired lease of nonresidential real property may be extended by the court if the debtor is experiencing or has experienced a material financial hardship due, directly or indirectly, to the coronavirus disease 2019 (COVID–19) pandemic until the earlier of—
+
+  * (i) the date that is 60 days after the date of the order for relief, which may be extended by the court for an additional period of 60 days if the court determines that the debtor is continuing to experience a material financial hardship due, directly or indirectly, to the coronavirus disease 2019 (COVID–19) pandemic; or
+
+  * (ii) the date on which the lease is assumed or rejected under this section.
+
+
+* (C) An obligation described in subparagraph (A) for which an extension is granted under subparagraph (B) shall be treated as an administrative expense described in section 507(a)(2) for the purpose of section 1191(e).
 
 * (4)(A) Subject to subparagraph (B), an unexpired lease of nonresidential real property under which the debtor is the lessee shall be deemed rejected, and the trustee shall immediately surrender that nonresidential real property to the lessor, if the trustee does not assume or reject the unexpired lease by the earlier of—
 
-  * (i) the date that is 120 days after the date of the order for relief; or
+  * (i) the date that is 210 days after the date of the order for relief; or
 
   * (ii) the date of the entry of an order confirming a plan.
 
 
-* (B)(i) The court may extend the period determined under subparagraph (A), prior to the expiration of the 120-day period, for 90 days on the motion of the trustee or lessor for cause.
+* (B)(i) The court may extend the period determined under subparagraph (A), prior to the expiration of the 210-day period, for 90 days on the motion of the trustee or lessor for cause.
 
 * (ii) If the court grants an extension under clause (i), the court may grant a subsequent extension only upon prior written consent of the lessor in each instance.
 
@@ -726,3 +741,11 @@
 
 
 * (4) Notwithstanding any other provision of law, with respect to a case subject to this subsection, a utility may recover or set off against a security deposit provided to the utility by the debtor before the date of the filing of the petition without notice or order of the court.
+
+* (d) Notwithstanding any other provision of this section, a utility may not alter, refuse, or discontinue service to a debtor who does not furnish adequate assurance of payment under this section if the debtor—
+
+  * (1) is an individual;
+
+  * (2) makes a payment to the utility for any debt owed to the utility for service provided during the 20-day period beginning on the date of the order for relief; and
+
+  * (3) after the date on which the 20-day period beginning on the date of the order for relief ends, makes a payment to the utility for services provided during the pendency of case when such a payment becomes due.

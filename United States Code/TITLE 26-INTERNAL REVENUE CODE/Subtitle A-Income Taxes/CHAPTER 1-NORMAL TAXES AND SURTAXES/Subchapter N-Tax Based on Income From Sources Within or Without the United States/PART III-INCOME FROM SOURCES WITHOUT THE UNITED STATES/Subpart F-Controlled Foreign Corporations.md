@@ -753,7 +753,7 @@
     * Subparagraph (A) shall not apply in the case of any interest, rent, or royalty to the extent such interest, rent, or royalty creates (or increases) a deficit which under section 952(c) may reduce the subpart F income of the payor or another controlled foreign corporation.
 
   * #### (C) Application
-    * Subparagraph (A) shall apply to taxable years of foreign corporations beginning after December 31, 2005, and before January 1, 2021, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end.
+    * Subparagraph (A) shall apply to taxable years of foreign corporations beginning after December 31, 2005, and before January 1, 2026, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end.
 
 #### (d) Foreign base company sales income
 * #### (1) In general

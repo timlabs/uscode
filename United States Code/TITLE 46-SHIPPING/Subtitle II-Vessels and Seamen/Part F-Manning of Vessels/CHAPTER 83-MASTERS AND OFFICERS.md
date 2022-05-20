@@ -50,7 +50,7 @@
 
 * (c) The staff department is composed of a medical division and a purser's division. The officer in charge of each division is responsible only to the master. The senior registered medical doctor is in charge of the medical division. The senior registered purser is in charge of the purser's division.
 
-* (d) The officer in charge of the purser's division of the staff department on an oceangoing passenger vessel licensed to carry more than 100 passengers shall be a registered chief purser. When more than 3 persons are employed in the purser's division of that vessel, there also shall be at least one registered senior assistant purser and one registered junior assistant purser.
+* (d) The officer in charge of the purser's division of the staff department on an oceangoing passenger vessel licensed to carry more than 100 passengers shall be a registered chief purser. When more than 3 individuals are employed in the purser's division of that vessel, there also shall be at least one registered senior assistant purser and one registered junior assistant purser.
 
 * (e) A person may not employ an individual to serve in, and an individual may not serve in, a grade of staff officer on a vessel, when that staff officer is required by this section to be registered, if the individual does not have a certificate of registry as staff officer in that grade. A person (including an individual) violating this subsection is liable to the United States Government for a civil penalty of $100. However, if a registered staff officer is not available at the time of sailing, the vessel may sail with an unregistered staff officer or without a staff officer.
 
@@ -59,9 +59,6 @@
 * (g) A registered staff officer serving under this section who is a member of the Navy Reserve may wear on the officer's uniform special distinguishing insignia prescribed by the Secretary of the Navy.
 
 * (h) The uniform stripes, decoration, or other insignia worn by a staff officer shall be of gold braid or woven gold or silver material. A crewmember (except a staff officer) may not wear any uniform with a staff officer's identifying insignia.
-
-### §8303. Service under licenses issued without examination
-* An individual issued a license without examination before October 29, 1941, to serve as master, mate, or engineer on a vessel not subject to inspection under part B of this subtitle, may not serve under authority of that license on a vessel that is subject to inspection under part B.
 
 ### §8304. Implementing the Officers' Competency Certificates Convention, 1936
 * (a) In this section, "high seas" means waters seaward of the Boundary Line.

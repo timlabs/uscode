@@ -53,7 +53,7 @@
 * (c) An individual complying with subsection (a) of this section or gratuitously and in good faith rendering assistance at the scene of a marine casualty without objection by an individual assisted, is not liable for damages as a result of rendering assistance or for an act or omission in providing or arranging salvage, towage, medical treatment, or other assistance when the individual acts as an ordinary, reasonable, and prudent individual would have acted under the circumstances.
 
 ### §2303a. Post serious marine casualty alcohol testing
-* (a) The Secretary shall establish procedures to ensure that after a serious marine casualty occurs, alcohol testing of crew members or other persons responsible for the operation or other safety-sensitive functions of the vessel or vessels involved in such casualty is conducted no later than 2 hours after the casualty occurs, unless such testing cannot be completed within that time due to safety concerns directly related to the casualty.
+* (a) The Secretary shall establish procedures to ensure that after a serious marine casualty occurs, alcohol testing of crew members or other individuals responsible for the operation or other safety-sensitive functions of the vessel or vessels involved in such casualty is conducted no later than 2 hours after the casualty occurs, unless such testing cannot be completed within that time due to safety concerns directly related to the casualty.
 
 * (b) The procedures in subsection (a) shall require that if alcohol testing cannot be completed within 2 hours of the occurrence of the casualty, such testing shall be conducted as soon thereafter as the safety concerns in subsection (a) have been adequately addressed to permit such testing, except that such testing may not be required more than 8 hours after the casualty occurs.
 
@@ -91,7 +91,12 @@
   * (B) use all available means to determine the status of the vessel.
 
 
-* (3) A person notifying the Coast Guard under paragraph (1) or (2) of this subsection shall provide the name and identification number of the vessel, the names of individuals on board, and other information that may be requested by the Coast Guard. The owner, charterer, managing operator, or agent also shall submit written confirmation to the Coast Guard within 24 hours after nonwritten notification to the Coast Guard under those paragraphs.
+* (3) An owner, charterer, managing operator, or agent of a vessel of the United States notifying the Coast Guard under paragraph (1) or (2) shall—
+
+  * (A) provide the name and identification number of the vessel, the names of individuals on board, and other information that may be requested by the Coast Guard; and
+
+  * (B) submit written confirmation to the Coast Guard within 24 hours after nonwritten notification to the Coast Guard under such paragraphs.
+
 
 * (4) An owner, charterer, managing operator, or agent violating this subsection is liable to the United States Government for a civil penalty of not more than $5,000 for each day during which the violation occurs.
 

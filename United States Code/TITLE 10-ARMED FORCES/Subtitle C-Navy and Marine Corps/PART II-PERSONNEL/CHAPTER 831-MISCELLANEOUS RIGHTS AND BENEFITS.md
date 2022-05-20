@@ -8,7 +8,7 @@
 * (c) NO COST TO RECIPIENT.—The presentation of a flag under this section shall be at no cost to the recipient.
 
 ### §8262. Higher retired grade and pay for members who serve satisfactorily under temporary appointments
-* (a) Unless otherwise entitled to a higher retired grade and subject to sections 689 and 1370 of this title, each member, other than a retired member, of the Navy or the Marine Corps shall, when retired, be advanced on the retired list to the highest officer grade in which he served satisfactorily under a temporary appointment as determined by the Secretary of the Navy.
+* (a) Unless otherwise entitled to a higher retired grade and subject to section 689, and section 1370 or 1370a (as applicable), of this title, each member, other than a retired member, of the Navy or the Marine Corps shall, when retired, be advanced on the retired list to the highest officer grade in which he served satisfactorily under a temporary appointment as determined by the Secretary of the Navy.
 
 * (b) Each member (other than a former member of the Fleet Reserve or the Fleet Marine Corps Reserve) who is advanced on the retired list under this section is (unless otherwise entitled to higher retired pay) entitled to retired pay determined in accordance with the following table. References in the table are to sections of this title.
 

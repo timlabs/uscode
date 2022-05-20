@@ -202,6 +202,9 @@
 
   * (2) may not arrange transportation except as described in paragraph (1) unless the motor carrier has obtained a separate registration as a freight forwarder or broker for transportation under section 13903 or 13904, as applicable.
 
+
+* (j) MEXICO-DOMICILED MOTOR CARRIERS.—Notwithstanding any other provision of this section, upon an order in accordance with section 324(a) of the United States-Mexico-Canada Agreement Implementation Act, the Secretary shall carry out the relief specified by denying or imposing limitations on a request for registration or capping the number of requests for registration by Mexico-domiciled motor carriers of cargo to operate beyond the municipalities along the United States-Mexico international border and the commercial zones of those municipalities as directed.
+
 ### §13903. Registration of freight forwarders
 * (a) IN GENERAL.—The Secretary shall register a person to provide service subject to jurisdiction under subchapter III of chapter 135 as a freight forwarder if the Secretary determines that the person—
 
@@ -343,6 +346,9 @@
   * (2) IMMINENT HAZARD TO PUBLIC HEALTH.—Notwithstanding subchapter II of chapter 5 of title 5, the Secretary shall revoke the registration of a motor carrier if the Secretary finds that the carrier is or was conducting unsafe operations that are or were an imminent hazard to public health or property.
 
   * (3) NOTICE; PERIOD OF SUSPENSION.—The Secretary may suspend or revoke under this subsection the registration only after giving notice of the suspension or revocation to the registrant. A suspension remains in effect until the registrant complies with the applicable sections or, in the case of a suspension under paragraph (2), until the Secretary revokes the suspension.
+
+
+* (g) MEXICO-DOMICILED MOTOR CARRIERS.—Notwithstanding any other provision of this section, upon an order in accordance with section 324(a) of the United States-Mexico-Canada Agreement Implementation Act, the Secretary shall carry out the relief specified by revoking or imposing limitations on existing registrations of Mexico-domiciled motor carriers of cargo to operate beyond the municipalities along the United States-Mexico international border and the commercial zones of those municipalities as directed.
 
 ### §13906. Security of motor carriers, motor private carriers, brokers, and freight forwarders
 * (a) MOTOR CARRIER REQUIREMENTS.—

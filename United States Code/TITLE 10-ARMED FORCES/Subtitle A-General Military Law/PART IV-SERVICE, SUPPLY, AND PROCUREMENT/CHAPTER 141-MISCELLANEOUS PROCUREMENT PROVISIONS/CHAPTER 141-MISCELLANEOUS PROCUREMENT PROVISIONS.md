@@ -81,6 +81,36 @@
 
   * (4) Releases for past infringement of patents or copyrights or for unauthorized use of technical data or computer software.
 
+### §2387. Contract working dogs: requirement to transfer animals to 341st Training Squadron after service life
+* (a) IN GENERAL.—Each contract entered into by the Secretary of Defense for the provision of a contract working dog shall require, and shall contain a contract term, that the dog be transferred to the 341st Training Squadron and assigned for veterinary screening and care in accordance with section 2583 of this title after the service life of the dog has terminated as described in subsection (b) for reclassification as a military animal and placement for adoption in accordance with such section.
+
+* (b) SERVICE LIFE.—The service life of a contract working dog has terminated and the dog is available for transfer to the 341st Training Squadron pursuant to a contract under subsection (a) only if the contracting officer concerned has determined that—
+
+  * (1) the final contractual obligation of the dog preceding such transfer is with the Department of Defense; and
+
+  * (2) the dog cannot be used by another department or agency of the Federal Government due to age, injury, or performance.
+
+
+* (c) CONTRACT WORKING DOG.—In this section, the term "contract working dog" means a dog—
+
+  * (1) that performs a service for the Department of Defense pursuant to a contract; and
+
+  * (2) that is trained and kenneled by an entity that provides such a dog pursuant to such a contract.
+
+### §2388. Security clearances for facilities of certain companies
+* (a) AUTHORITY.—If the senior management official of a covered company does not have a security clearance, the Secretary of Defense may grant a security clearance to a facility of such company only if the following criteria are met:
+
+  * (1) The company has appointed a senior officer, director, or employee of the company who has a security clearance at the level of the security clearance of the facility to act as the senior management official of the company with respect to such facility.
+
+  * (2) Any senior management official, senior officer, or director of the company who does not have such a security clearance will not have access to any classified information, including with respect to such facility.
+
+  * (3) The company has certified to the Secretary that the senior officer, director, or employee appointed under paragraph (1) has the authority to act on behalf of the company with respect to such facility independent of any senior management official, senior officer, or director described in paragraph (2).
+
+  * (4) The facility meets all of the requirements to be granted a security clearance other than any requirement relating to the senior management official of the company having an appropriate security clearance.
+
+
+* (b) COVERED COMPANY.—In this section, the term "covered company" means a company that has entered into a contract or agreement with the Department of Defense, assists the Department, or requires a facility to process classified information.
+
 ### §2389. Ensuring safety regarding insensitive munitions
 * The Secretary of Defense shall ensure, to the extent practicable, that insensitive munitions under development or procurement are safe throughout development and fielding when subject to unplanned stimuli.
 
@@ -150,13 +180,29 @@
 
 * (c) RESEARCH AND TECHNICAL ASSISTANCE.—The Secretary of Defense may make grants to, or conclude cooperative agreements or enter into contracts with, another Federal agency, a State or local government, or any private entity to conduct research and provide technical assistance in support of activities under this section or Executive Order 12788 (57 Fed. Reg. 2213), as amended by section 33 of Executive Order 13286 (68 Fed. Reg. 10625) and Executive Order 13378 (70 Fed. Reg. 28413).
 
-* (d) DEFENSE COMMUNITY INFRASTRUCTURE PILOT PROGRAM.—(1) The Secretary of Defense may make grants, conclude cooperative agreements, and supplement funds available under Federal programs administered by agencies other than the Department of Defense to assist State and local governments to address deficiencies in community infrastructure supportive of a military installation, if the Secretary determines that such assistance will enhance the military value, resilience, or military family quality of life at such military installation.
+* (d) DEFENSE COMMUNITY INFRASTRUCTURE PILOT PROGRAM.—(1)(A) The Secretary of Defense may make grants, conclude cooperative agreements, and supplement funds available under Federal programs administered by agencies other than the Department of Defense to assist State and local governments to address deficiencies in community infrastructure supportive of a military installation.
 
-* (2) The Secretary shall establish criteria for the selection of community infrastructure projects to receive assistance under paragraph (1). The criteria shall include a requirement that the State or local government agree to contribute not less than 30 percent of the funding for the community infrastructure project, unless the community infrastructure project is located in a rural area, or for reasons related to national security, in which case the Secretary may waive the requirement for a State or local government contribution.
+* (B) The Secretary shall establish criteria for the selection of community infrastructure projects to receive assistance under this subsection, including selection of community infrastructure projects in the following order of priority:
+
+  * (i) Projects that will enhance military value at a military installation, taking into consideration the military value criteria originally developed by the Secretary in compliance with the amendment made by section 3002 of the Military Construction Authorization Act for Fiscal Year 2002 (division B of Public Law 107–107; 115 Stat. 1344).
+
+  * (ii) Projects that will enhance military installation resilience, as defined in section 101(e)(8) of this title.
+
+  * (iii) Projects that will enhance military family quality of life at a military installation, taking into consideration subsection (e)(4)(C).
+
+
+* (2)(A) The criteria established for the selection of community infrastructure projects to receive assistance under this subsection shall include a requirement that, except as provided in subparagraph (B), the State or local government agree to contribute not less than 30 percent of the funding for the community infrastructure project.
+
+* (B) If a proposed community infrastructure project will be carried out in a rural area or the Secretary of Defense determines that a proposed community infrastructure project is advantageous for reasons related to national security, the Secretary—
+
+  * (i) shall not penalize a State or local government for offering to make a contribution of 30 percent or less of the funding for the community infrastructure project; and
+
+  * (ii) may reduce the requirement for a State or local government contribution to 30 percent or less or waive the cost-sharing requirement entirely.
+
 
 * (3) Amounts appropriated or otherwise made available for assistance under paragraph (1) may remain available until expended.
 
-* (4) The authority under this subsection shall expire upon the expiration of the 10-year period which begins on the date of the enactment of the National Defense Authorization Act for Fiscal Year 2019.
+* (4) The authority under this subsection shall expire on September 30, 2028.
 
 * (e) DEFINITIONS.—In this section:
 
@@ -185,8 +231,10 @@
 
     * (iii) A water, waste-water, telecommunications, electric, gas, or other utility infrastructure project.
 
+  * (C) For the purposes of determining whether proposed community infrastructure will enhance quality of life, the Secretary of Defense shall consider the impact of the community infrastructure on alleviating installation commuter workforce issues and the benefit of schools or other local infrastructure located off of a military installation that will support members of the armed forces and their dependents residing in the community.
 
-  * (5) The term "rural area" means a city, town, or unincorporated area that has a population of not more than 50,000 inhabitants.
+
+  * (5) The term "rural area" means a city, town, or unincorporated area that has a population of not more than 100,000 inhabitants.
 
 
 * (f) ASSISTANCE SUBJECT TO APPROPRIATIONS.—The authority of the Secretary of Defense to make grants under this section in any fiscal year is subject to the availability of appropriations for that purpose.
@@ -632,7 +680,7 @@
 
   * (2) A program eligible to receive funds under the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2301 et seq.).
 
-  * (3) A program registered under the Act of August 16, 1937 (commonly known as the "National Apprenticeship Act"; Stat. 664, chapter 663; 29 U.S.C. 50 et seq.).
+  * (3) A program registered under the Act of August 16, 1937 (commonly known as the "National Apprenticeship Act"; 50 Stat. 664, chapter 663; 29 U.S.C. 50 et seq.).
 
   * (4) Any other program determined to be a qualified training program for purposes of this section, and that meets the workforce needs of the Department of Defense, as determined by the Secretary of Defense.
 

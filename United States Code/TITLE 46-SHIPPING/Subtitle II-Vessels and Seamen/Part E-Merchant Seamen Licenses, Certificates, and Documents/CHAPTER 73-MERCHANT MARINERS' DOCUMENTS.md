@@ -40,7 +40,7 @@
 * (2) No more than one interim document may be issued to an individual under paragraph (1)(A) of this subsection.
 
 ### §7303. Possession and description of merchant mariners' documents
-* A merchant mariner's document shall be retained by the seaman to whom issued. The document shall contain the signature, notations of nationality, age, and physical description, the photograph, and the home address of the seaman. In addition, the document shall specify the rate or ratings in which the seaman is qualified to serve.
+* A merchant mariner's document shall be retained by the individual to whom issued. The document shall contain the signature, notations of nationality, age, and physical description, the photograph, and the home address of the individual. In addition, the document shall specify the rate or ratings in which the individual is qualified to serve.
 
 ### §7304. Citizenship notation on merchant mariners' documents
 * An individual applying for a merchant mariner's document shall provide satisfactory proof that the individual is a citizen of the United States before that notation is made on the document.
@@ -157,4 +157,4 @@
 * (b) An endorsement as radiotelegraph operator on the Great Lakes only ends if the holder ceases to hold the license issued by the Commission.
 
 ### §7319. Records of merchant mariners' documents
-* The Secretary shall maintain records on each merchant mariner's document issued, including the name and address of the seaman to whom issued and the next of kin of the seaman.
+* The Secretary shall maintain records on each merchant mariner's document issued, including the name and address of the individual to whom issued and the next of kin of the individual.

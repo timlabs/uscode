@@ -146,6 +146,9 @@
   * #### (B) Limitation on liability
     * If a health care provider or health information technology developer makes information available based on a good faith reliance on consultations with the Office for Civil Rights of the Department of Health and Human Services pursuant to a referral under subparagraph (A), with respect to such information, the health care provider or developer shall not be liable for such disclosure or disclosures made pursuant to subparagraph (A).
 
+* #### (4) Application of authorities under inspector general act of 1978
+  * In carrying out this subsection, the Inspector General shall have the same authorities as provided under section 6 of the Inspector General Act of 1978 (5 U.S.C. App.).
+
 #### (c) Identifying barriers to exchange of certified health information technology
 * #### (1) Trusted exchange defined
   * In this section, the term "trusted exchange" with respect to certified electronic health records means that the certified electronic health record technology has the technical capability to enable secure health information exchange between users and multiple certified electronic health record technology systems.

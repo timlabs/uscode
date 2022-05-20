@@ -1,4 +1,0 @@
-### **CHAPTER 275—PROPRIETARY CONTRACTOR DATA AND TECHNICAL DATA**
-
-### §3771. [Reserved]
-* [Reserved]

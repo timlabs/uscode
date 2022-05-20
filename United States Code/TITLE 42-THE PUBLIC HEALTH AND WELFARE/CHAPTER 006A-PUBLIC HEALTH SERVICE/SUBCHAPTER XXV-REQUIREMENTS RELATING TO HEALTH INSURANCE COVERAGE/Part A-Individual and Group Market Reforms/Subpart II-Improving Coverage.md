@@ -400,6 +400,9 @@
 
     * (B) preclude the group health plan or health insurance issuer involved from requiring that the obstetrical or gynecological provider notify the primary care health care professional or the plan or issuer of treatment decisions.
 
+#### (e) Application
+* The provisions of this section shall not apply with respect to a group health plan, health insurance issuers, or group or individual health insurance coverage with respect to plan years beginning on or on January 1, 2022.
+
 ### §300gg–19b. Information on prescription drugs
 #### (a) In general
 * A group health plan or a health insurance issuer offering group or individual health insurance coverage shall—

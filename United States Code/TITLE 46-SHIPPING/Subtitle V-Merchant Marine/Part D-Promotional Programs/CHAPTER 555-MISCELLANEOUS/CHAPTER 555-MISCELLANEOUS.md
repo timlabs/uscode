@@ -72,13 +72,58 @@
 
   * (1) steps taken to implement actions recommended in the document titled "National Strategy for the Marine Transportation System: A Framework for Action" and dated July 2008;
 
-  * (2) an assessment of the condition of the marine transportation system;
+  * (2) a conditions and performance analysis of the marine transportation system;
 
   * (3) a discussion of the challenges the marine transportation system faces in meeting user demand, including estimates of investment levels required to ensure system infrastructure meets such demand;
 
-  * (4) a plan, with recommended actions, for improving the marine transportation system to meet current and future challenges; and
+  * (4) a plan, with recommended actions, for improving the marine transportation system to meet current and future challenges;
 
-  * (5) steps taken to implement actions recommended in previous reports required under this subsection.
+  * (5) steps taken to implement actions recommended in previous reports required under this subsection; and
+
+  * (6) a compendium of the Federal programs engaged in the maritime transportation system.
 
 
 * (f) CONSULTATION.—In carrying out its purpose and activities, the Committee may consult with marine transportation system-related advisory committees, interested parties, and the public.
+
+### §55502. Maritime Transportation System National Advisory Committee
+* (a) ESTABLISHMENT.—There is established a Maritime Transportation System National Advisory Committee (in this section referred to as the "Committee").
+
+* (b) FUNCTION.—The Committee shall advise the Secretary of Transportation on matters relating to the United States maritime transportation system and its seamless integration with other segments of the transportation system, including the viability of the United States Merchant Marine.
+
+* (c) MEMBERSHIP.—
+
+  * (1) IN GENERAL.—The Committee shall consist of 27 members appointed by the Secretary of Transportation in accordance with this section and section 15109.
+
+  * (2) EXPERTISE.—Each member of the Committee shall have particular expertise, knowledge, and experience in matters relating to the function of the Committee.
+
+  * (3) REPRESENTATION.—Members of the Committee shall be appointed as follows:
+
+    * (A) At least one member shall represent the Environmental Protection Agency.
+
+    * (B) At least one member shall represent the Department of Commerce.
+
+    * (C) At least one member shall represent the Corps of Engineers.
+
+    * (D) At least one member shall represent the Coast Guard.
+
+    * (E) At least one member shall represent Customs and Border Protection.
+
+    * (F) At least one member shall represent State and local governmental entities.
+
+    * (G) Additional members shall represent private sector entities that reflect a cross-section of maritime industries, including port and water stakeholders, academia, and labor.
+
+    * (H) The Secretary may appoint additional representatives from other Federal agencies as the Secretary considers appropriate.
+
+
+  * (4) RESTRICTIONS ON MEMBERS REPRESENTING FEDERAL AGENCIES.—Members of the Committee that represent Federal agencies shall not—
+
+    * (A) comprise more than one-third of the total membership of the Committee or of any subcommittee therein; or
+
+    * (B) serve as the chair or co-chair of the Committee or of any subcommittee therein.
+
+
+  * (5) ADMINISTRATION.—For purposes of section 15109—
+
+    * (A) the Committee shall be treated as a committee established under chapter 151; and
+
+    * (B) the Secretary of Transportation shall fulfill all duties and responsibilities and have all authorities of the Secretary of Homeland Security with regard to the Committee.

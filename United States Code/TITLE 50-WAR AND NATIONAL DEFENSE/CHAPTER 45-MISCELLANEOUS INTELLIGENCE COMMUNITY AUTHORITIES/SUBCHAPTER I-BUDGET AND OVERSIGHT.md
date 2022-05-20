@@ -31,7 +31,7 @@
   * Except as provided in subsection (b), no project for the construction of any facility to be used primarily by personnel of any component of the intelligence community which has an estimated Federal cost in excess of $5,000,000 may be undertaken in any fiscal year unless such project is specifically identified as a separate item in the President's annual fiscal year budget request and is specifically authorized by the Congress.
 
 * #### (2) Notification
-  * In the case of a project for the construction of any facility to be used primarily by personnel of any component of the intelligence community which has an estimated Federal cost greater than $1,000,000 but less than $5,000,000, or where any project for the improvement, repair, or modification of such a facility has an estimated Federal cost greater than $1,000,000, the Director of National Intelligence shall submit a notification to the intelligence committees specifically identifying such project.
+  * In the case of a project for the construction of any facility to be used primarily by personnel of any component of the intelligence community which has an estimated Federal cost greater than $2,000,000 but less than $5,000,000, or where any project for the improvement, repair, or modification of such a facility has an estimated Federal cost greater than $2,000,000, the head of such component, in coordination with and subject to the approval of the Director of National Intelligence, shall submit a notification to the intelligence committees specifically identifying such project.
 
 #### (b) Exception
 * #### (1) In general
@@ -363,3 +363,38 @@
 
 * #### (3) Nonduplication
   * The Director of National Intelligence may forgo submission of an annual report required under this subsection for a calendar year, if the Director notifies the intelligence committees in writing that, with respect to the same calendar year, an annual report required by paragraph 4.3 of the Vulnerabilities Equities Policy and Process document already has been submitted to Congress, and such annual report contains the information that would otherwise be required to be included in an annual report under this subsection.
+
+### §3316b. Continuity of operations plans for certain elements of the intelligence community in the case of a national emergency
+#### (a) Definition of covered national emergency
+* In this section, the term "covered national emergency" means the following:
+
+  * (1) A major disaster declared by the President under section 5170 of title 42.
+
+  * (2) An emergency declared by the President under section 5191 of title 42.
+
+  * (3) A national emergency declared by the President under the National Emergencies Act (50 U.S.C. 1601 et seq.).
+
+  * (4) A public health emergency declared under section 247d of title 42.
+
+#### (b) In general
+* The Director of National Intelligence, the Director of the Central Intelligence Agency, the Director of the National Reconnaissance Office, the Director of the Defense Intelligence Agency, the Director of the National Security Agency, and the Director of the National Geospatial-Intelligence Agency shall each establish continuity of operations plans for use in the case of covered national emergencies for the element of the intelligence community concerned.
+
+#### (c) Submission to Congress
+* #### (1) Director of National Intelligence and Director of the Central Intelligence Agency
+  * Not later than 7 days after the date on which a covered national emergency is declared, the Director of National Intelligence and the Director of the Central Intelligence Agency shall each submit to the congressional intelligence committees the plan established under subsection (b) for that emergency for the element of the intelligence community concerned.
+
+* #### (2) Director of National Reconnaissance Office, Director of Defense Intelligence Agency, Director of National Security Agency, and Director of National Geospatial-Intelligence Agency
+  * Not later than 7 days after the date on which a covered national emergency is declared, the Director of the National Reconnaissance Office, the Director of the Defense Intelligence Agency, the Director of the National Security Agency, and the Director of the National Geospatial-Intelligence Agency shall each submit the plan established under subsection (b) for that emergency for the element of the intelligence community concerned to the following:
+
+    * (A) The congressional intelligence committees.
+
+    * (B) The Committee on Armed Services of the Senate.
+
+    * (C) The Committee on Armed Services of the House of Representatives.
+
+#### (d) Updates
+* During a covered national emergency, the Director of National Intelligence, the Director of the Central Intelligence Agency, the Director of the National Reconnaissance Office, the Director of the Defense Intelligence Agency, the Director of the National Security Agency, and the Director of the National Geospatial-Intelligence Agency shall each submit any updates to the plans submitted under subsection (c)—
+
+  * (1) in accordance with that subsection; and
+
+  * (2) in a timely manner consistent with section 3091 of this title.

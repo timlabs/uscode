@@ -16,7 +16,7 @@
 
       * (iii) 2 shall be selected from practicing professional nurses; and
 
-      * (iv) 9 shall be selected from among the leading authorities in the various fields of nursing, higher, secondary education, and associate degree schools of nursing, and from representatives of advanced education nursing groups (such as nurse practitioners, nurse midwives, and nurse anesthetists), hospitals, and other institutions and organizations which provide nursing services; and
+      * (iv) 9 shall be selected from among the leading authorities in the various fields of nursing, higher, secondary education, and associate degree schools of nursing, and from representatives of advanced education nursing groups (such as nurse practitioners, nurse midwives, nurse anesthetists, and clinical nurse specialists), hospitals, and other institutions and organizations which provide nursing services; and
 
 
     * (B) the Secretary (or the delegate of the Secretary (who shall be an ex officio member and shall serve as the Chairperson)).
@@ -41,7 +41,7 @@
 
   * (2) provide advice to the Secretary and Congress in the preparation of general regulations and with respect to policy matters arising in the administration of this subchapter, including the range of issues relating to nurse supply, education and practice improvement; and
 
-  * (3) not later than 3 years after November 13, 1998, and annually thereafter, prepare and submit to the Secretary, the Committee on Labor and Human Resources of the Senate, and the Committee on Commerce of the House of Representatives, a report describing the activities of the Council, including findings and recommendations made by the Council concerning the activities under this subchapter.
+  * (3) not later than 2 years after March 27, 2020, and annually thereafter, prepare and submit to the Secretary, the Committee on Health, Education, Labor, and Pensions of the Senate, and the Committee on Energy and Commerce of the House of Representatives, a report describing the activities of the Council, including findings and recommendations made by the Council concerning the activities under this subchapter.
 
 #### (e) Meetings and documents
 * #### (1) Meetings
@@ -58,7 +58,7 @@
   * The members of the Advisory Council shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5 while away from their homes or regular places of business in the performance of services for the Council.
 
 #### (g) Funding
-* Amounts appropriated under this subchapter may be utilized by the Secretary to support the nurse education and practice activities of the Council.
+* Amounts appropriated for carrying out parts B, C, and D may be utilized by the Secretary to support the nurse education and practice activities of the Council.
 
 #### (h) FACA
 * The Federal Advisory Committee Act shall apply to the Advisory Committee under this section only to the extent that the provisions of such Act do not conflict with the requirements of this section.

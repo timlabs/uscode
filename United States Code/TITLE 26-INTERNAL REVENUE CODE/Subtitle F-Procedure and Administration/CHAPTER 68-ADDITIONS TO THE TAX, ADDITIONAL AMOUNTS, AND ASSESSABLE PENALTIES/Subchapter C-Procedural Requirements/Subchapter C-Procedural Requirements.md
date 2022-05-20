@@ -11,7 +11,7 @@
 * #### (2) Exceptions
   * Paragraph (1) shall not apply to—
 
-    * (A) any addition to tax under section 6651, 6654, or 6655; or
+    * (A) any addition to tax under section 6651, 6654, 6655, or 6662 (but only with respect to an addition to tax by reason of subsection (b)(9) thereof); or
 
     * (B) any other penalty automatically calculated through electronic means.
 

@@ -43,3 +43,33 @@
   * (1) regarding a project carried out, or proposed to be carried out, pursuant to Public Law 93–205 (16 U.S.C. 1531 et seq.), including any requirement to consult regarding the consideration of the cumulative impacts of completed, ongoing, and planned projects; or
 
   * (2) with respect to the development of a new land use plan or the revision of or other significant change to an existing land use plan.
+
+### §2607. Protection of Oregon and California Railroad grant lands
+#### (a) Definitions
+* For purposes of this section:
+
+* #### (1) O & C land
+  * The term "O & C land" means the land (commonly known as "Oregon and California Railroadgrant land") that—
+
+    * (A) revested in the United States under the Act of June 9, 1916 (39 Stat. 218, chapter 137); and
+
+    * (B) is managed by the Secretary of the Interior through the Bureau of Land Management under the Act of August 28, 1937 (43 U.S.C. 1181a et seq.).
+
+* #### (2) CBWR land
+  * The term "CBWR land" means the land (commonly known as "Coos Bay Wagon Road grant land") that—
+
+    * (A) was reconveyed to the United States under the Act of February 26, 1919 (40 Stat. 1179, chapter 47); and
+
+    * (B) is managed by the Secretary of the Interior through the Bureau of Land Management under the Act of August 28, 1937 (43 U.S.C. 1181a et seq.).
+
+* #### (3) Geographic area
+  * The term "geographic area" means the area in the State of Oregon within the boundaries of theMedford District, Roseburg District, Eugene District, Salem District, Coos Bay District, and Klamath Resource Area of the Lakeview District of the Bureau of Land Management, as the districts and the resource area were constituted on January 1, 1998.
+
+* #### (4) Secretary
+  * The term "Secretary" means the Secretary of the Interior.
+
+#### (b) Policy of no net loss of O & C land and CBWR land
+* In carrying out sales, purchases, and exchanges of land in the geographic area, the Secretary shall ensure that on October 30, 2008, and on the expiration of each 10-year period thereafter, the number of acres of O & C land and CBWR land in the geographic area is not less than the number of acres of such land on October 30, 1998.
+
+#### (c) Relationship to Umpqua land exchange authority
+* Notwithstanding any other provision of this section, this section shall not apply to an exchange of land authorized pursuant to section 1028 of the Omnibus Parks and Public Lands Management Act of 1996 (Public Law 104–333; 110 Stat. 4231), or any implementing legislation or administrative rule, if the land exchange is consistent with the memorandum of understanding between the Umpqua Land Exchange Project and the Association of Oregon and California Land Grant Counties dated February 19, 1998.

@@ -45,7 +45,9 @@
 * #### (3) Maintenance of measures
   * The entity shall establish and implement a process to ensure that measures endorsed under paragraph (2) are updated (or retired if obsolete) as new evidence is developed.
 
-* #### (4) Repealed. Pub. L. 112–240, title VI, §609(a)(2), Jan. 2, 2013, 126 Stat. 2349
+* #### (4) Removal of measures
+  * The entity may provide input to the Secretary on quality and efficiency measures described in paragraph (7)(B) that could be considered for removal.
+
 * #### (5) Annual report to Congress and the Secretary; secretarial publication and comment
   * #### (A) Annual report
     * By not later than March 1 of each year (beginning with 2009), the entity shall submit to Congress and the Secretary a report containing the following:
@@ -129,6 +131,13 @@
 * #### (8) Transmission of multi-stakeholder input
   * Not later than February 1 of each year (beginning with 2012), the entity shall transmit to the Secretary the input of multi-stakeholder groups provided under paragraph (7).
 
+* #### (9) Prioritization of measure endorsement
+  * The Secretary—
+
+    * (A) during the period beginning on December 27, 2020, and ending on December 31, 2023, shall prioritize the endorsement of measures relating to maternal morbidity and mortality by the entity with a contract under subsection (a) in connection with endorsement of measures described in paragraph (2); and
+
+    * (B) on and after January 1, 2024, may prioritize the endorsement of such measures by such entity.
+
 #### (c) Requirements described
 * The requirements described in this subsection are the following:
 
@@ -170,19 +179,60 @@
 #### (d) Funding
 * (1) For purposes of carrying out this section, the Secretary shall provide for the transfer, from the Federal Hospital Insurance Trust Fund under section 1395i of this title and the Federal Supplementary Medical Insurance Trust Fund under section 1395t of this title (in such proportion as the Secretary determines appropriate), of $10,000,000 to the Centers for Medicare & Medicaid Services Program Management Account for each of fiscal years 2009 through 2013. Amounts transferred under the preceding sentence shall remain available until expended.
 
-* (2) For purposes of carrying out this section and section 1395aaa–1 of this title (other than subsections (e) and (f)), the Secretary shall provide for the transfer, from the Federal Hospital Insurance Trust Fund under section 1395i of this title and the Federal Supplementary Medical Insurance Trust Fund under section 1395t of this title, in such proportion as the Secretary determines appropriate, to the Centers for Medicare & Medicaid Services Program Management Account of $5,000,000 for fiscal year 2014, $30,000,000 for each of fiscal years 2015 through 2017, $7,500,000 for each of fiscal years 2018 and 2019, and $4,830,000 for the period beginning on October 1, 2019, and ending on May 22, 2020. Amounts transferred under the preceding sentence shall remain available until expended. Amounts transferred for each of fiscal years 2018 and 2019 and for the period beginning on October 1, 2019, and ending on May 22, 2020 shall be in addition to any unobligated funds transferred for a preceding fiscal year that are available under the preceding sentence.
+* (2) For purposes of carrying out this section and section 1395aaa–1 of this title (other than subsections (e) and (f)), the Secretary shall provide for the transfer, from the Federal Hospital Insurance Trust Fund under section 1395i of this title and the Federal Supplementary Medical Insurance Trust Fund under section 1395t of this title, in such proportion as the Secretary determines appropriate, to the Centers for Medicare & Medicaid Services Program Management Account of $5,000,000 for fiscal year 2014, $30,000,000 for each of fiscal years 2015 through 2017, $7,500,000 for each of fiscal years 2018 and 2019, $20,000,000 for fiscal year 2020, $26,000,000 for fiscal year 2021, $20,000,000 for fiscal year 2022, and $20,000,000 for fiscal year 2023. Amounts transferred under the preceding sentence shall remain available until expended. Amounts transferred for each of fiscal years 2018, 2019, 2020, 2021, 2022, and 2023, shall be in addition to any unobligated funds transferred for a preceding fiscal year that are available under the preceding sentence.
 
 #### (e) Annual report by Secretary to Congress
-* By not later than March 1 of each year (beginning with 2019), the Secretary shall submit to Congress a report containing the following:
+* #### (1) In general
+  * By not later than March 1 of each year (beginning with 2019), the Secretary shall submit to Congress a report containing the following:
 
-  * (1) A comprehensive plan that identifies the quality measurement needs of programs and initiatives of the Secretary and provides a strategy for using the entity with a contract under subsection (a) and any other entity the Secretary has contracted with or may contract with to perform work associated with section 1395aaa–1 of this title to help meet those needs, specifically with respect to the programs under this subchapter and subchapter XIX. In years after the first plan under this paragraph is submitted, the requirements of this paragraph may be met by providing an update to the plan.
+    * (A) A comprehensive plan that identifies the quality measurement needs of programs and initiatives of the Secretary and provides a strategy for using the entity with a contract under subsection (a) and any other entity the Secretary has contracted with or may contract with to perform work associated with section 1395aaa–1 of this title to help meet those needs, specifically with respect to the programs under this subchapter and subchapter XIX.
 
-  * (2) The amount of funding provided under subsection (d) for purposes of carrying out this section and section 1395aaa–1 of this title that has been obligated by the Secretary, the amount of funding provided that has been expended, and the amount of funding provided that remains unobligated.
+    * (B) The amount of funding provided under subsection (d) for purposes of carrying out this section and section 1395aaa–1 of this title that has been obligated by the Secretary, the amount of funding provided that has been expended, and the amount of funding provided that remains unobligated.
 
-  * (3) With respect to the activities described under this section or section 1395aaa–1 of this title, a description of how the funds described in paragraph (2) have been obligated or expended, including how much of that funding has been obligated or expended for work performed by the Secretary, the entity with a contract under subsection (a), and any other entity the Secretary has contracted with to perform work.
+    * (C) With respect to the activities described under this section or section 1395aaa–1 of this title, a description of how the funds described in paragraph (2) have been obligated or expended, including how much of that funding has been obligated or expended for work performed by the Secretary, the entity with a contract under subsection (a), and any other entity the Secretary has contracted with to perform work.
 
-  * (4) A description of the activities for which the funds described in paragraph (2) were used, including task orders and activities assigned to the entity with a contract under subsection (a), activities performed by the Secretary, and task orders and activities assigned to any other entity the Secretary has contracted with to perform work related to carrying out section 1395aaa–1 of this title.
+    * (D) Subject to paragraph (2)(B), a description of the activities for which the funds described in paragraph (2) were used, including task orders and activities assigned to the entity with a contract under subsection (a), activities performed by the Secretary, and task orders and activities assigned to any other entity the Secretary has contracted with to perform work related to carrying out section 1395aaa–1 of this title.
 
-  * (5) The amount of funding described in paragraph (2) that has been obligated or expended for each of the activities described in paragraph (4).
+    * (E) Subject to paragraph (2)(B), the amount of funding described in paragraph (2) that has been obligated or expended for each of the activities described in paragraph (4).
 
-  * (6) Estimates for, and descriptions of, obligations and expenditures that the Secretary anticipates will be needed in the succeeding two year period to carry out each of the quality measurement activities required under this section and section 1395aaa–1 of this title, including any obligations that will require funds to be expended in a future year.
+    * (F) Subject to paragraph (2)(B), estimates for, and descriptions of, obligations and expenditures that the Secretary anticipates will be needed in the succeeding two year period to carry out each of the quality measurement activities required under this section and section 1395aaa–1 of this title, including any obligations that will require funds to be expended in a future year.
+
+* #### (2) Additional requirements for reports
+  * #### (A) Addressing GAO report
+    * Each of the annual reports submitted in 2021 and 2022 pursuant to paragraph (1) shall also include the following:
+
+      * (i) A comprehensive analysis detailing the ways in which the Centers for Medicare & Medicaid Services has addressed each of the recommendations set forth in the report by the Government Accountability Office (GAO–19–628) issued on September 19, 2019, and titled "Health Care Quality: CMS Could More Effectively Ensure Its Quality Measurement Activities Promote Its Objectives".
+
+      * (ii) A detailed description of—
+
+        * (I) any additional steps that the Centers for Medicare & Medicaid Services expects to take to address the findings and recommendations set forth in such report; and
+
+        * (II) the anticipated timing for such steps.
+
+  * #### (B) Ensuring detailed information
+    * #### (i) In general
+      * In the case of an annual report submitted in 2021 or a subsequent year pursuant to paragraph (1), the information required under—
+
+        * (I) paragraph (1)(D) shall also include detailed information on each of the activities described in clause (ii);
+
+        * (II) paragraph (1)(E) shall also include detailed information on the specific amounts obligated or expended on each of the activities described in clause (ii); and
+
+        * (III) paragraph (1)(F) shall also include detailed information on the specific quality measurement activities required and future funding needed for each of the activities described in clause (ii).
+
+    * #### (ii) Activities described
+      * The activities described in this clause are the following:
+
+        * (I) Measure selection activities.
+
+        * (II) Measure development activities.
+
+        * (III) Public reporting activities.
+
+        * (IV) Education and outreach activities.
+
+#### (f) Additional reporting by the Secretary to Congress
+* #### (1) In general
+  * By not later than September 30 of each year (beginning with 2021), the Secretary shall submit to Congress a report on the amount of unobligated balances for appropriations relating to quality measurement. Such report shall include detailed plans on how the Secretary expects to expend such unobligated balances in the upcoming fiscal years.
+
+* #### (2) Separate report
+  * The annual report required under paragraph (1) shall be separate from the annual report required under subsection (e).

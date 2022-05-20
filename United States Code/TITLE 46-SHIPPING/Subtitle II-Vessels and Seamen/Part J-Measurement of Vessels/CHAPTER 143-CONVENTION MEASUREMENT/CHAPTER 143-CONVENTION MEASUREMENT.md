@@ -72,7 +72,7 @@
 
   * (9) section 403 of the Commercial Fishing Industry Vessel Act (46 U.S.C. 3302 note);
 
-  * (10) the Officers' Competency Certificates Convention, 1936, and sections 8303 and 8304 of this title;
+  * (10) the Officers' Competency Certificates Convention, 1936, and section 8304 of this title;
 
   * (11) the International Convention for the Safety of Life at Sea as provided by IMCO Resolution A.494 (XII) of November 19, 1981;
 

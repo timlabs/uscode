@@ -25,7 +25,7 @@
 
       * (i) at the time of the Secretary's determination under clause (ii), is a member of the Armed Forces who is hospitalized or receiving outpatient medical care, services, or treatment;
 
-      * (ii) the Secretary determines has a total disability permanent in nature incurred or aggravated in the line of duty in the active military, naval, or air service; and
+      * (ii) the Secretary determines has a total disability permanent in nature incurred or aggravated in the line of duty in the active military, naval, air, or space service; and
 
       * (iii) is likely to be discharged or released from such service for such disability.
 
@@ -50,7 +50,7 @@
 
   * (11) The term "standard college degree" means an associate or higher degree awarded by (A) an institution of higher learning that is accredited as a collegiate institution by a recognized regional or national accrediting agency; or (B) an institution of higher learning that is a "candidate" for accreditation as that term is used by the regional or national accrediting agencies; or (C) an institution of higher learning upon completion of a course which is accredited by an agency recognized to accredit specialized degree-level programs. For the purpose of this section, the accrediting agency must be one recognized by the Secretary of Education under the provisions of section 3675 of this title.
 
-  * (12) The term "qualifying service" means service in the active military, naval, or air service after the beginning of the Spanish-American War that did not terminate under dishonorable conditions.
+  * (12) The term "qualifying service" means service in the active military, naval, air, or space service after the beginning of the Spanish-American War that did not terminate under dishonorable conditions.
 
 
 * (b) If an eligible person has attained the person's majority and is under no known legal disability, all references in this chapter to "parent or guardian" shall refer to the eligible person.

@@ -116,7 +116,7 @@
 
   * (6)(A) Notwithstanding paragraphs (1) and (2), for an employee of the Department of the Navy who is assigned to temporary duty to perform work aboard, or dockside in direct support of, the nuclear aircraft carrier that is forward deployed in Japan and who would be nonexempt under the Fair Labor Standards Act but for the application of the foreign area exemption in section 13(f) of that Act (29 U.S.C. 213(f)), the overtime hourly rate of pay is an amount equal to one and one-half times the hourly rate of basic pay of the employee, and all that amount is premium pay.
 
-  * (B) Subparagraph (A) shall expire on September 30, 2021.
+  * (B) Subparagraph (A) shall expire on September 30, 2026.
 
 
 * (b) For the purpose of this subchapter—

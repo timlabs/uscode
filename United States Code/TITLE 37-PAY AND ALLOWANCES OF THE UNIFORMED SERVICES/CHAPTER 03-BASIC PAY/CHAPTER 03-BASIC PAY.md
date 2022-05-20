@@ -1,7 +1,7 @@
 ### **CHAPTER 3—BASIC PAY**
 
 ### §201. Pay grades: assignment to; general rules
-* (a) For the purpose of computing their basic pay, commissioned officers of the uniformed services (other than commissioned warrant officers) are assigned by the grade or rank in which serving to the following pay grades:
+* (a)(1) Subject to paragraph (2), for the purpose of computing their basic pay, commissioned officers of the uniformed services (other than commissioned warrant officers) are assigned by the grade or rank in which serving to the following pay grades:
 
   | Pay grade | Army, Air Force, and Marine Corps | Navy, Coast Guard, and National Oceanic and Atmospheric Administration | Public Health Service |
   | --- | --- | --- | --- |
@@ -16,6 +16,8 @@
   | O–2 | 1st lieutenant | Lieutenant (junior grade) | Assistant grade. |
   | O–1 | 2d lieutenant | Ensign | Junior assistant grade. |
   
+* (2) For the purpose of computing their basic pay, commissioned officers of the Space Force are assigned to the pay grades in the table in paragraph (1) by grade or rank in the Air Force that is equivalent to the grade or rank in which such officers are serving in the Space Force.
+
 * (b) For the purpose of computing their basic pay, warrant officers of the armed forces are assigned, by the warrant officer grade in which serving, to the following pay grades:
 
   | **Pay Grade:** | **Warrant Officer Grade:** |
@@ -58,6 +60,10 @@
 * (2) A student at a preparatory school referred to in paragraph (1) who, at the time of the student's selection to attend the preparatory school, was an enlisted member of the uniformed services shall receive monthly basic pay at the rate prescribed for the student's pay grade and years of service as an enlisted member or at the rate provided for cadets and midshipmen under subsection (c), whichever is greater.
 
 * (3) The monthly student pay of a student described in paragraph (1) shall be treated for purposes of the accrual charge for the Department of Defense Military Retirement Fund established under section 1461 of title 10 in the same manner as monthly cadet pay or midshipman pay under subsection (c).
+
+* (f)(1) An officer candidate enrolled in the basic officer training program of the commissioned officer corps of the National Oceanic and Atmospheric Administration is entitled, while participating in such program, to monthly officer candidate pay at monthly rates equal to the basic pay of an enlisted member in the pay grade E–5 with less than two years of service.
+
+* (2) An individual who graduates from such program shall receive credit for the time spent participating in such program as if such time were time served while on active duty as a commissioned officer. If the individual does not graduate from such program, such time shall not be considered creditable for active duty or pay.
 
 ### §204. Entitlement
 * (a) The following persons are entitled to the basic pay of the pay grade to which assigned or distributed, in accordance with their years of service computed under section 205 of this title—
@@ -215,7 +221,7 @@
 
   * (1) for each regular period of instruction, or period of appropriate duty, at which the member is engaged for at least two hours, including that performed on a Sunday or holiday;
 
-  * (2) for the performance of such other equivalent training, instruction, duty, or appropriate duties, as the Secretary may prescribe; or
+  * (2) for the performance of such other equivalent training, instruction, duty, or appropriate duties, as the Secretary may prescribe;
 
   * (3) for a regular period of instruction that the member is scheduled to perform but is unable to perform because of physical disability resulting from an injury, illness, or disease incurred or aggravated—
 
@@ -228,7 +234,10 @@
 
     * (B) while traveling directly to or from that duty or training (unless such injury, illness, disease, or aggravation of an injury, illness, or disease is the result of the gross negligence or misconduct of the member); or
 
-    * (C) in line of duty while remaining overnight immediately before the commencement of inactive-duty training, or while remaining overnight, between successive periods of inactive-duty training, at or in the vicinity of the site of the inactive-duty training.
+    * (C) in line of duty while remaining overnight immediately before the commencement of inactive-duty training, or while remaining overnight, between successive periods of inactive-duty training, at or in the vicinity of the site of the inactive-duty training; or
+
+
+  * (4) for each of six days for each period during which the member is on maternity leave.
 
 
 * (b) The regulations prescribed under subsection (a) for each uniformed service, the National Guard, and each of the classes of organization of the reserve components within each uniformed service, may be different. The Secretary concerned shall, for the National Guard and each of the classes of organization within each uniformed service, prescribe—
@@ -298,7 +307,9 @@
 
   * (4) The Sergeant Major of the Marine Corps.
 
-  * (5) The Master Chief Petty Officer of the Coast Guard.
+  * (5) The senior enlisted advisor of the Space Force.
+
+  * (6) The Master Chief Petty Officer of the Coast Guard.
 
 ### §211. Participation in Thrift Savings Plan
 * (a) DEFINITION.—In this section, the term "member" means—

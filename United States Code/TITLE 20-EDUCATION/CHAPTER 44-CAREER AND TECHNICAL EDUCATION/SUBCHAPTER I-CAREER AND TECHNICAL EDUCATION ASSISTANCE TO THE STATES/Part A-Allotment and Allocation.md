@@ -422,7 +422,7 @@
   * #### (B) Contents
     * The evaluation required under subparagraph (A) shall include descriptions and evaluations of—
 
-      * _(i) the extent and success of the integration of challenging State academic standards adopted under section 1111(b)(1) of the Elementary and Secondary Education Act of 1965 [20 U.S.C. 6311(b)(1)] and career and technical education for students participating in career and technical education programs, including a review of the effect of such integration on the academic and technical proficiency achievement of such students, including—_
+      * (i) the extent and success of the integration of challenging State academic standards adopted under section 1111(b)(1) of the Elementary and Secondary Education Act of 1965 [20 U.S.C. 6311(b)(1)] and career and technical education for students participating in career and technical education programs, including a review of the effect of such integration on the academic and technical proficiency achievement of such students, including—
 
         * (I) the number of such students that receive a regular high school diploma, as such term is defined under section 8101 of the Elementary and Secondary Education Act of 1965 [20 U.S.C. 7801] or a State-defined alternative diploma described in section 8101(25)(A)(ii)(I)(bb) of such Act;
 
@@ -799,7 +799,7 @@
   * Notwithstanding any other provision of law or regulation, the Secretary shall not require the use of a restricted indirect cost rate for grants issued under this section.
 
 #### (d) Applications
-* To be eligible to receive a grant under this section, a tribally controlled postsecondary career and technical institution that is not receiving Federal assistance under title I of the Tribally Controlled Colleges and Universities Assistance Act of 1978 (25 U.S.C. 1802 et seq.) or the Navajo Community College Act (25 U.S.C. 640a et seq.) shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
+* To be eligible to receive a grant under this section, a tribally controlled postsecondary career and technical institution that is not receiving Federal assistance under title I of the Tribally Controlled Colleges and Universities Assistance Act of 1978 (25 U.S.C. 1802 et seq.) or the Navajo Community College Act (Public Law 92–189; 85 Stat. 646) shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
 
 #### (e) Expenses
 * #### (1) In general
@@ -824,7 +824,7 @@
   * The amount of any grant for which tribally controlled postsecondary career and technical institutions are eligible under this section shall not be altered because of funds allocated to any such institution from funds appropriated under section 13 of title 25.
 
 * #### (3) Prohibition on contract denial
-  * No tribally controlled postsecondary career and technical institution for which an Indian tribe has designated a portion of the funds appropriated for the tribe from funds appropriated under section 13 of title 25, may be denied a contract for such portion under the Indian Self-Determination and Education Assistance Act [25 U.S.C. 5301 et seq.] (except as provided in that Act), or denied appropriate contract support to administer such portion of the appropriated funds.
+  * No tribally controlled postsecondary career and technical institution for which an Indian Tribe has designated a portion of the funds appropriated for the Tribe from funds appropriated under section 13 of title 25, may be denied a contract for such portion under the Indian Self-Determination and Education Assistance Act [25 U.S.C. 5301 et seq.] (except as provided in that Act), or denied appropriate contract support to administer such portion of the appropriated funds.
 
 #### (g) Complaint resolution procedure
 * The Secretary shall establish (after consultation with tribally controlled postsecondary career and technical institutions) a complaint resolution procedure for grant determinations and calculations under this section for tribally controlled postsecondary career and technical institutions.

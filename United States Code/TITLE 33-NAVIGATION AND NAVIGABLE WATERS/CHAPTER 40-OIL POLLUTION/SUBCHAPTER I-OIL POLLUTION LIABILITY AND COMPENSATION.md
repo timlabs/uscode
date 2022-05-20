@@ -672,20 +672,17 @@
 
   * (3) the payment of removal costs determined by the President to be consistent with the National Contingency Plan as a result of, and damages resulting from, a discharge, or a substantial threat of a discharge, of oil from a foreign offshore unit;
 
-  * (4) the payment of claims in accordance with section 2713 of this title for uncompensated removal costs determined by the President to be consistent with the National Contingency Plan or uncompensated damages;
+  * (4) the payment of claims in accordance with section 2713 of this title for uncompensated removal costs determined by the President to be consistent with the National Contingency Plan or uncompensated damages; and
 
   * (5) the payment of Federal administrative, operational, and personnel costs and expenses reasonably necessary for and incidental to the implementation, administration, and enforcement of this Act (including, but not limited to, sections 1004(d)(2), 1006(e), 4107, 4110, 4111, 4112, 4117, 5006, 8103, and title VII) and subsections (b), (c), (d), (j), and (l) of section 1321 of this title with respect to prevention, removal, and enforcement related to oil discharges, provided that—
 
-    * (A) not more than $25,000,000 in each fiscal year shall be available to the Secretary for operating expenses incurred by the Coast Guard;
+    * (A) not more than $25,000,000 in each fiscal year shall be available to the Secretary for operations and support incurred by the Coast Guard;
 
     * (B) not more than $15,000,000 in each fiscal year shall be available to the Under Secretary of Commerce for Oceans and Atmosphere for expenses incurred by, and activities related to, response and damage assessment capabilities of the National Oceanic and Atmospheric Administration;
 
     * (C) not more than $30,000,000 each year through the end of fiscal year 1992 shall be available to establish the National Response System under section 1321(j) of this title, including the purchase and prepositioning of oil spill removal equipment; and
 
-    * (D) not more than $27,250,000 in each fiscal year shall be available to carry out subchapter IV of this chapter; and
-
-
-  * (6) the making of loans pursuant to the program established under section 2713(f) of this title.
+    * (D) not more than $27,250,000 in each fiscal year shall be available to carry out subchapter IV of this chapter.
 
 #### (b) Defense to liability for Fund
 * The Fund shall not be available to pay any claim for removal costs or damages to a particular claimant, to the extent that the incident, removal costs, or damages are caused by the gross negligence or willful misconduct of that claimant.
@@ -821,33 +818,6 @@
 
 #### (e) Procedure for claims against Fund
 * The President shall promulgate, and may from time to time amend, regulations for the presentation, filing, processing, settlement, and adjudication of claims under this Act against the Fund.
-
-#### (f) Loan program
-* #### (1) In general
-  * The President shall establish a loan program under the Fund to provide interim assistance to fishermen and aquaculture producer claimants during the claims procedure.
-
-* #### (2) Eligibility for loan
-  * A loan may be made under paragraph (1) only to a fisherman or aquaculture producer that—
-
-    * (A) has incurred damages for which claims are authorized under section 2702 of this title;
-
-    * (B) has made a claim pursuant to this section that is pending; and
-
-    * (C) has not received an interim payment under section 2705(a) of this title for the amount of the claim, or part thereof, that is pending.
-
-* #### (3) Terms and conditions of loans
-  * A loan awarded under paragraph (1)—
-
-    * (A) shall have flexible terms, as determined by the President;
-
-    * (B) shall be for a period ending on the later of—
-
-      * (i) the date that is 5 years after the date on which the loan is made; or
-
-      * (ii) the date on which the fisherman or aquaculture producer receives payment for the claim to which the loan relates under the procedure established by subsections (a) through (e) of this section; and
-
-
-    * (C) shall be at a low interest rate, as determined by the President.
 
 ### §2714. Designation of source and advertisement
 #### (a) Designation of source and notification

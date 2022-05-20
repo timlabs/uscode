@@ -219,7 +219,7 @@
 
 * #### (7) Mental health services parity
   * #### (A) In general
-    * A State child health plan shall ensure that the financial requirements and treatment limitations applicable to mental health and substance use disorder services (as described in paragraph (5)) provided under such plan comply with the requirements of section 300gg–26(a) of this title in the same manner as such requirements or limitations apply to a group health plan under such section.
+    * A State child health plan shall ensure that the financial requirements and treatment limitations applicable to mental health and substance use disorder services (as described in paragraph (5)) provided under such plan comply with the requirements of section 2726(a) of the Public Health Service Act [42 U.S.C. 300gg–26(a)] in the same manner as such requirements or limitations apply to a group health plan under such section. In applying the previous sentence with respect to requirements under paragraph (8) of section 2726(a) of the Public Health Service Act [42 U.S.C. 300gg–26(a)], a State child health plan described in such sentence shall be treated as in compliance with such requirements if the State child health plan is in compliance with section 457.496 of title 42, Code of Federal Regulations, or any successor regulation.
 
   * #### (B) Deemed compliance
     * To the extent that a State child health plan includes coverage with respect to an individual described in section 1396d(a)(4)(B) of this title and covered under the State plan under section 1396a(a)(10)(A) of this title of the services described in section 1396d(a)(4)(B) of this title (relating to early and periodic screening, diagnostic, and treatment services defined in section 1396d(r) of this title) and provided in accordance with section 1396a(a)(43) of this title, such plan shall be deemed to satisfy the requirements of subparagraph (A).
@@ -229,6 +229,9 @@
 
 * #### (9) Availability of coverage for items and services furnished through school-based health centers
   * Nothing in this subchapter shall be construed as limiting a State's ability to provide child health assistance for covered items and services that are furnished through school-based health centers (as defined in section 1397jj(c)(9) of this title).
+
+* #### (10) Certain in vitro diagnostic products for COVID–19 testing
+  * The child health assistance provided to a targeted low-income child shall include coverage of any in vitro diagnostic product described in section 1396d(a)(3)(B) of this title that is administered during any portion of the emergency period described in such section beginning on or after March 18, 2020 (and the administration of such product).
 
 #### (d) Description of existing comprehensive State-based coverage
 * #### (1) In general
@@ -260,8 +263,8 @@
   * #### (B) Protection for lower income children
     * The State child health plan may only vary premiums, deductibles, coinsurance, and other cost sharing based on the family income of targeted low-income children in a manner that does not favor children from families with higher income over children from families with lower income.
 
-* #### (2) No cost sharing on benefits for preventive services or pregnancy-related assistance
-  * The State child health plan may not impose deductibles, coinsurance, or other cost sharing with respect to benefits for services within the category of services described in subsection (c)(1)(D) or for pregnancy-related assistance.
+* #### (2) No cost sharing on benefits for preventive services, COVID–19 testing, or pregnancy-related assistance
+  * The State child health plan may not impose deductibles, coinsurance, or other cost sharing with respect to benefits for services within the categories of services described in subsection (c)(1)(D), in vitro diagnostic products described in subsection (c)(10) (and administration of such products), visits described in section 1396o(a)(2)(G) of this title, or for pregnancy-related assistance.
 
 * #### (3) Limitations on premiums and cost-sharing
   * #### (A) Children in families with income below 150 percent of poverty line
@@ -1336,7 +1339,7 @@
       * Expenditures for outreach activities to families of children likely to be eligible for premium assistance subsidies in accordance with paragraph (2)(B), (3), or (10), or a waiver approved under section 1315 of this title, to inform such families of the availability of, and to assist them in enrolling their children in, such subsidies, and to employers likely to provide qualified employer-sponsored coverage (as defined in subparagraph (B) of such paragraph), but not to exceed an amount equal to 1.25 percent of the maximum amount permitted to be expended under subparagraph (A) for items described in subsection (a)(1)(D).
 
     * #### (iv) Payment error rate measurement (PERM) expenditures
-      * Expenditures related to the administration of the payment error rate measurement (PERM) requirements applicable to the State child health plan in accordance with the Improper Payments Information Act of 2002 and parts 431 and 457 of title 42, Code of Federal Regulations (or any related or successor guidance or regulations).
+      * Expenditures related to the administration of the payment error rate measurement (PERM) requirements applicable to the State child health plan in accordance with the subchapter IV of chapter 33 of title 31 and parts 431 and 457 of title 42, Code of Federal Regulations (or any related or successor guidance or regulations).
 
 * #### (3) Waiver for purchase of family coverage
   * Payment may be made to a State under subsection (a)(1) for the purchase of family coverage under a group health plan or health insurance coverage that includes coverage of targeted low-income children only if the State establishes to the satisfaction of the Secretary that—
@@ -1477,7 +1480,7 @@
     * In the case of a targeted low-income child who receives child health assistance through a State plan under subchapter XIX and who voluntarily elects to receive a premium assistance subsidy under this section, the provisions of section 1396e–1 of this title shall apply and shall supersede any other provisions of this paragraph that are inconsistent with such section.
 
 * #### (11) Enhanced payments
-  * Notwithstanding subsection (b), the enhanced FMAP with respect to payments under subsection (a) for expenditures related to the administration of the payment error rate measurement (PERM) requirements applicable to the State child health plan in accordance with the Improper Payments Information Act of 2002 and parts 431 and 457 of title 42, Code of Federal Regulations (or any related or successor guidance or regulations) shall in no event be less than 90 percent.
+  * Notwithstanding subsection (b), the enhanced FMAP with respect to payments under subsection (a) for expenditures related to the administration of the payment error rate measurement (PERM) requirements applicable to the State child health plan in accordance with the subchapter IV of chapter 33 of title 31 and parts 431 and 457 of title 42, Code of Federal Regulations (or any related or successor guidance or regulations) shall in no event be less than 90 percent.
 
 #### (d) Maintenance of effort
 * #### (1) In medicaid eligibility standards
@@ -2223,7 +2226,7 @@
   * The State does not provide coverage for pregnant women with higher family income without covering pregnant women with a lower family income.
 
 * #### (4) Application of requirements for coverage of targeted low-income children
-  * The State provides pregnancy-related assistance for targeted low-income pregnant women in the same manner, and subject to the same requirements, as the State provides child health assistance for targeted low-income children under the State child health plan, and in addition to providing child health assistance for such women.
+  * The State provides pregnancy-related assistance for targeted low-income pregnant women in the same manner, and subject to the same requirements under section 1397cc(c) of this title, as the State provides child health assistance for targeted low-income children under the State child health plan, and in addition to providing child health assistance for such women.
 
 * #### (5) No preexisting condition exclusion or waiting period
   * The State does not apply any exclusion of benefits for pregnancy-related assistance based on any preexisting condition or any waiting period (including any waiting period imposed to carry out section 1397bb(b)(3)(C) of this title) for receipt of such assistance.

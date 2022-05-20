@@ -405,24 +405,30 @@
 * There is authorized to be appropriated from, and may be obligated from, the Fund for each of the fiscal years 1995 and 1996 not more than the amount credited to the Fund in interest only for the preceding fiscal year under section 1904(e) of this title.
 
 #### (c) Funding from Intelligence Community Management Account for fiscal years beginning with fiscal year 2005
-* In addition to amounts that may be made available to the Secretary under the Fund for a fiscal year, the Director of National Intelligence shall transfer to the Secretary from amounts appropriated for the Intelligence Community Management Account for each fiscal year, beginning with fiscal year 2005, $8,000,000 to carry out the scholarship, fellowship, and grant programs under subparagraphs (A), (B), and (C), respectively, of section 1902(a)(1) of this title.
+* In addition to amounts that may be made available to the Secretary under the Fund for a fiscal year, the Director of National Intelligence shall transfer to the Secretary from amounts appropriated for the Intelligence Community Management Account for each of fiscal years 2005 through 2021 $8,000,000 to carry out the scholarship, fellowship, and grant programs under subparagraphs (A), (B), and (C), respectively, of section 1902(a)(1) of this title.
+
+#### (d) Fiscal years beginning with fiscal year 2022
+* In addition to amounts that may be made available to the Secretary under the Fund for a fiscal year, there is authorized to be appropriated to the Secretary for each fiscal year, beginning with fiscal year 2022, $8,000,000, to carry out the scholarship, fellowship, and grant programs under subparagraphs (A), (B), and (C), respectively, of section 1902(a)(1) of this title.
 
 ### §1911. Additional annual authorization of appropriations
 #### (a) In general
 * In addition to amounts that may be made available to the Secretary under the Fund for a fiscal year, there is authorized to be appropriated to the Secretary for each fiscal year, beginning with fiscal year 2020, $16,000,000, to carry out the grant program for the National Flagship Language Initiative under section 1902(a)(1)(D) of this title.
 
 #### (b) Funding from Intelligence Community Management Account for fiscal years beginning with fiscal year 2005
-* In addition to amounts that may be made available to the Secretary under the Fund for a fiscal year, the Director of National Intelligence shall transfer to the Secretary from amounts appropriated for the Intelligence Community Management Account for each fiscal year, beginning with fiscal year 2005, $6,000,000 to carry out the grant program for the National Flagship Language Initiative under section 1902(a)(1)(D) of this title.
+* In addition to amounts that may be made available to the Secretary under the Fund for a fiscal year, the Director of National Intelligence shall transfer to the Secretary from amounts appropriated for the Intelligence Community Management Account for each of fiscal years 2005 through 2021 $6,000,000 to carry out the grant program for the National Flagship Language Initiative under section 1902(a)(1)(D) of this title.
 
 #### (c) Availability of appropriated funds
 * Amounts made available under this section shall remain available until expended.
 
 ### §1912. Funding for scholarship program for advanced English language studies by heritage community citizens
 #### (a) Funding from Intelligence Community Management Account
-* In addition to amounts that may be made available to the Secretary under the Fund for a fiscal year, the Director of National Intelligence shall transfer to the Secretary from amounts appropriated for the Intelligence Community Management Account for each fiscal year, beginning with fiscal year 2005, $2,000,000 to carry out the scholarship programs for English language studies by certain heritage community citizens under section 1902(a)(1)(E) of this title.
+* In addition to amounts that may be made available to the Secretary under the Fund for a fiscal year, the Director of National Intelligence shall transfer to the Secretary from amounts appropriated for the Intelligence Community Management Account for each of fiscal years 2005 through 2021 $2,000,000 to carry out the scholarship programs for English language studies by certain heritage community citizens under section 1902(a)(1)(E) of this title.
 
-#### (b) Availability of funds
-* Amounts made available under subsection (a) shall remain available until expended.
+#### (b) Fiscal years beginning with fiscal year 2022
+* In addition to amounts that may be made available to the Secretary under the Fund for a fiscal year, there is authorized to be appropriated to the Secretary for each fiscal year, beginning with fiscal year 2022, $2,000,000, to carry out the scholarship programs for English language studies by certain heritage community citizens under section 1902(a)(1)(E) of this title.
+
+#### (c) Availability of funds
+* Amounts made available under this section shall remain available until expended.
 
 ### §1913. National Language Service Corps
 #### (a) Establishment

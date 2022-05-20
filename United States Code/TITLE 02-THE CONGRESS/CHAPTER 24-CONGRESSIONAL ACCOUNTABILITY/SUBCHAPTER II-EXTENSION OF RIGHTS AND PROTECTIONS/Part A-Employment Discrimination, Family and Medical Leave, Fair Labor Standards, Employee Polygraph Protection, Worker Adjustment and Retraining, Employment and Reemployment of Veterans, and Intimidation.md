@@ -81,7 +81,7 @@
 
     * (A) the number of weeks of paid parental leave in connection with the birth or placement involved that corresponds to the number of administrative workweeks of paid parental leave available to employees under section 6382(d)(2)(B)(i) of title 5; and
 
-    * (B) during the 12-month period referred to in section 102(a)(1) of the Family and Medical Leave Act of 1993 (29 U.S.C. 2612(a)(1)) and in addition to the administrative workweeks described in subparagraph (A), any additional paid vacation, personal, family, medical, or sick leave provided by the employing office to such employee.
+    * (B) during the 12-month period referred to in section 102(a)(1) of the Family and Medical Leave Act of 1993 (29 U.S.C. 2612(a)(1)) and in addition to the administrative workweeks described in subparagraph (A), any additional paid vacation, personal, family, medical, or accrued sick leave provided by the employing office to such employee.
 
 * #### (3) Limitation
   * Nothing in this section or section 102(d)(2)(A) of the Family and Medical Leave Act of 1993 (29 U.S.C. 2612(d)(2)(A)) shall be considered to require or permit an employing office to require that an employee first use all or any portion of the leave described in paragraph (2)(B) before being allowed to use the paid parental leave described in paragraph (2)(A).

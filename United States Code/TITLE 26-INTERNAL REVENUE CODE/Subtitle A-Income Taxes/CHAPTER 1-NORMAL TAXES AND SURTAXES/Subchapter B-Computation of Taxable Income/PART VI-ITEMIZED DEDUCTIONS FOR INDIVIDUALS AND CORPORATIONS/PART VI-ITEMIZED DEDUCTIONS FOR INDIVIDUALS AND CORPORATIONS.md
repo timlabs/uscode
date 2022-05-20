@@ -803,7 +803,7 @@
     * #### (iv) Termination
       * Clause (i) shall not apply to amounts—
 
-        * (I) paid or accrued after December 31, 2020, or
+        * (I) paid or accrued after December 31, 2021, or
 
         * (II) properly allocable to any period after such date.
 
@@ -1081,7 +1081,33 @@
 
       * (iii) Farm machinery or equipment.
 
-* #### (10) Cross references
+* #### (10) Special rule for taxable years beginning in 2019 and 2020
+  * #### (A) In general
+    * #### (i) In general
+      * Except as provided in clause (ii) or (iii), in the case of any taxable year beginning in 2019 or 2020, paragraph (1)(B) shall be applied by substituting "50 percent" for "30 percent".
+
+    * #### (ii) Special rule for partnerships
+      * In the case of a partnership—
+
+        * (I) clause (i) shall not apply to any taxable year beginning in 2019, but
+
+        * (II) unless a partner elects not to have this subclause apply, in the case of any excess business interest of the partnership for any taxable year beginning in 2019 which is allocated to the partner under paragraph (4)(B)(i)(II)—
+
+          * (aa) 50 percent of such excess business interest shall be treated as business interest which, notwithstanding paragraph (4)(B)(ii), is paid or accrued by the partner in the partner's first taxable year beginning in 2020 and which is not subject to the limits of paragraph (1), and
+
+          * (bb) 50 percent of such excess business interest shall be subject to the limitations of paragraph (4)(B)(ii) in the same manner as any other excess business interest so allocated.
+
+    * #### (iii) Election out
+      * A taxpayer may elect, at such time and in such manner as the Secretary may prescribe, not to have clause (i) apply to any taxable year. Such an election, once made, may be revoked only with the consent of the Secretary. In the case of a partnership, any such election shall be made by the partnership and may be made only for taxable years beginning in 2020.
+
+  * #### (B) Election to use 2019 adjusted taxable income for taxable years beginning in 2020
+    * #### (i) In general
+      * Subject to clause (ii), in the case of any taxable year beginning in 2020, the taxpayer may elect to apply this subsection by substituting the adjusted taxable income of the taxpayer for the last taxable year beginning in 2019 for the adjusted taxable income for such taxable year. In the case of a partnership, any such election shall be made by the partnership.
+
+    * #### (ii) Special rule for short taxable years
+      * If an election is made under clause (i) for a taxable year which is a short taxable year, the adjusted taxable income for the taxpayer's last taxable year beginning in 2019 which is substituted under clause (i) shall be equal to the amount which bears the same ratio to such adjusted taxable income determined without regard to this clause as the number of months in the short taxable year bears to 12
+
+* #### (11) Cross references
   * (A) For requirement that an electing real property trade or business use the alternative depreciation system, see section 168(g)(1)(F).
 
   * (B) For requirement that an electing farming business use the alternative depreciation system, see section 168(g)(1)(G).
@@ -1967,9 +1993,9 @@
 
       * (i) any race horse—
 
-        * (I) which is placed in service before January 1, 2021, and
+        * (I) which is placed in service before January 1, 2022, and
 
-        * (II) which is placed in service after December 31, 2020, and which is more than 2 years old at the time such horse is placed in service by such purchaser,
+        * (II) which is placed in service after December 31, 2021, and which is more than 2 years old at the time such horse is placed in service by such purchaser,
 
 
       * (ii) any horse other than a race horse which is more than 12 years old at the time it is placed in service, and
@@ -2042,9 +2068,11 @@
 
       * (iv) initial clearing and grading land improvements with respect to gas utility property,
 
-      * (v) any section 1245 property (as defined in section 1245(a)(3)) used in the transmission at 69 or more kilovolts of electricity for sale and the original use of which commences with the taxpayer after April 11, 2005, and
+      * (v) any section 1245 property (as defined in section 1245(a)(3)) used in the transmission at 69 or more kilovolts of electricity for sale and the original use of which commences with the taxpayer after April 11, 2005,
 
-      * (vi) any natural gas distribution line the original use of which commences with the taxpayer after April 11, 2005, and which is placed in service before January 1, 2011.
+      * (vi) any natural gas distribution line the original use of which commences with the taxpayer after April 11, 2005, and which is placed in service before January 1, 2011, and
+
+      * (vii) any qualified improvement property.
 
   * #### (F) 20-year property
     * The term "20-year property" means initial clearing and grading land improvements with respect to any electric utility transmission and distribution plant.
@@ -2061,7 +2089,7 @@
 
 * #### (6) Qualified improvement property
   * #### (A) In general
-    * The term "qualified improvement property" means any improvement to an interior portion of a building which is nonresidential real property if such improvement is placed in service after the date such building was first placed in service.
+    * The term "qualified improvement property" means any improvement made by the taxpayer to an interior portion of a building which is nonresidential real property if such improvement is placed in service after the date such building was first placed in service.
 
   * #### (B) Certain improvements not included
     * Such term shall not include any improvement for which the expenditure is attributable to—
@@ -2172,13 +2200,13 @@
       | (C)(iv) | 14&nbsp;&nbsp;&nbsp; |
       | (D)(i) | 15&nbsp;&nbsp;&nbsp; |
       | (D)(ii) | 20&nbsp;&nbsp;&nbsp; |
-      | (D)(v)<sup>2</sup> | 20&nbsp;&nbsp;&nbsp; |
       | (E)(i) | 24&nbsp;&nbsp;&nbsp; |
       | (E)(ii) | 24&nbsp;&nbsp;&nbsp; |
       | (E)(iii) | 20&nbsp;&nbsp;&nbsp; |
       | (E)(iv) | 20&nbsp;&nbsp;&nbsp; |
       | (E)(v) | 30&nbsp;&nbsp;&nbsp; |
       | (E)(vi) | 35&nbsp;&nbsp;&nbsp; |
+      | (E)(vii) | 20&nbsp;&nbsp;&nbsp; |
       | (F) | 25&nbsp;&nbsp;&nbsp; |
       | &nbsp; | &nbsp; |
       
@@ -2748,7 +2776,7 @@
     * Such term shall not include any transportation equipment, administrative services assets, warehouses, administrative buildings, hotels, or motels.
 
   * #### (D) Termination
-    * Such term shall not include any property placed in service after December 31, 2020.
+    * Such term shall not include any property placed in service after December 31, 2025.
 
 * #### (16) Alaska natural gas pipeline
   * The term "Alaska natural gas pipeline" means the natural gas pipeline system located in the State of Alaska which—
@@ -2892,7 +2920,7 @@
   * If a taxpayer makes an election under this paragraph with respect to any class of property for any taxable year, paragraph (1) shall not apply to all property in such class placed in service during such taxable year. Such election, once made, shall be irrevocable.
 
 * #### (9) Termination
-  * This subsection shall not apply to property placed in service after December 31, 2020.
+  * This subsection shall not apply to property placed in service after December 31, 2021.
 
 #### (k) Special allowance for certain property
 * #### (1) Additional allowance
@@ -4373,7 +4401,14 @@
   * #### (B) Initial fractional contribution
     * The term "initial fractional contribution" means, with respect to any taxpayer, the first charitable contribution of an undivided portion of the taxpayer's entire interest in any tangible personal property.
 
-#### (p) Other cross references
+#### (p) Special rule for taxpayers who do not elect to itemize deductions
+* In the case of any taxable year beginning in 2021, if the individual does not elect to itemize deductions for such taxable year, the deduction under this section shall be equal to the deduction, not in excess of $300 ($600 in the case of a joint return), which would be determined under this section if the only charitable contributions taken into account in determining such deduction were contributions made in cash during such taxable year (determined without regard to subsections (b)(1)(G)(ii) and (d)(1)) to an organization described in section 170(b)(1)(A) and not—
+
+  * (1) to an organization described in section 509(a)(3), or
+
+  * (2) for the establishment of a new, or maintenance of an existing, donor advised fund (as defined in section 4966(d)(2)).
+
+#### (q) Other cross references
     * **(1) For treatment of certain organizations providing child care, see section 501(k).**
 
     * **(2) For charitable contributions of estates and trusts, see section 642(c).**
@@ -4473,11 +4508,23 @@
 
 ### §172. Net operating loss deduction
 #### (a) Deduction allowed
-* There shall be allowed as a deduction for the taxable year an amount equal to the lesser of—
+* There shall be allowed as a deduction for the taxable year an amount equal to—
 
-  * (1) the aggregate of the net operating loss carryovers to such year, plus the net operating loss carrybacks to such year, or
+  * (1) in the case of a taxable year beginning before January 1, 2021, the aggregate of the net operating loss carryovers to such year, plus the net operating loss carrybacks to such year, and
 
-  * (2) 80 percent of taxable income computed without regard to the deduction allowable under this section.
+  * (2) in the case of a taxable year beginning after December 31, 2020, the sum of—
+
+    * (A) the aggregate amount of net operating losses arising in taxable years beginning before January 1, 2018, carried to such taxable year, plus
+
+    * (B) the lesser of—
+
+      * (i) the aggregate amount of net operating losses arising in taxable years beginning after December 31, 2017, carried to such taxable year, or
+
+      * (ii) 80 percent of the excess (if any) of—
+
+        * (I) taxable income computed without regard to the deductions under this section and sections 199A and 250, over
+
+        * (II) the amount determined under subparagraph (A).
 
 
 * For purposes of this subtitle, the term "net operating loss deduction" means the deduction allowed by this subsection.
@@ -4485,11 +4532,15 @@
 #### (b) Net operating loss carrybacks and carryovers
 * #### (1) Years to which loss may be carried
   * #### (A) General rule
-    * Except as otherwise provided in this paragraph, a net operating loss for any taxable year—
+    * A net operating loss for any taxable year—
 
-      * (i) except as otherwise provided in this paragraph, shall not be a net operating loss carryback to any taxable year preceding the taxable year of such loss, and
+      * (i) shall be a net operating loss carryback to the extent provided in subparagraphs (B), (C)(i), and (D), and
 
-      * (ii) shall be a net operating loss carryover to each taxable year following the taxable year of the loss.
+      * (ii) except as provided in subparagraph (C)(ii), shall be a net operating loss carryover—
+
+        * (I) in the case of a net operating loss arising in a taxable year beginning before January 1, 2018, to each of the 20 taxable years following the taxable year of the loss, and
+
+        * (II) in the case of a net operating loss arising in a taxable year beginning after December 31, 2017, to each taxable year following the taxable year of the loss.
 
   * #### (B) Farming losses
     * #### (i) In general
@@ -4515,6 +4566,39 @@
 
       * (ii) shall be a net operating loss carryover to each of the 20 taxable years following the taxable year of the loss.
 
+  * #### (D) Special rule for losses arising in 2018, 2019, and 2020
+    * #### (i) In general
+      * In the case of any net operating loss arising in a taxable year beginning after December 31, 2017, and before January 1, 2021—
+
+        * (I) such loss shall be a net operating loss carryback to each of the 5 taxable years preceding the taxable year of such loss, and
+
+        * (II) subparagraphs (B) and (C)(i) shall not apply.
+
+    * #### (ii) Special rules for REITs
+      * For purposes of this subparagraph—
+
+      * #### (I) In general
+        * A net operating loss for a REIT year shall not be a net operating loss carryback to any taxable year preceding the taxable year of such loss.
+
+      * #### (II) Special rule
+        * In the case of any net operating loss for a taxable year which is not a REIT year, such loss shall not be carried to any preceding taxable year which is a REIT year.
+
+      * #### (III) REIT year
+        * For purposes of this subparagraph, the term "REIT year" means any taxable year for which the provisions of part II of subchapter M (relating to real estate investment trusts) apply to the taxpayer.
+
+    * #### (iii) Special rule for life insurance companies
+      * In the case of a life insurance company, if a net operating loss is carried pursuant to clause (i)(I) to a life insurance company taxable year beginning before January 1, 2018, such net operating loss carryback shall be treated in the same manner as an operations loss carryback (within the meaning of section 810 as in effect before its repeal) of such company to such taxable year.
+
+    * #### (iv) Rule relating to carrybacks to years to which section 965 applies
+      * If a net operating loss of a taxpayer is carried pursuant to clause (i)(I) to any taxable year in which an amount is includible in gross income by reason of section 965(a), the taxpayer shall be treated as having made the election under section 965(n) with respect to each such taxable year.
+
+    * #### (v) Special rules for elections under paragraph (3)
+      * #### (I) Special election to exclude section 965 years
+        * If the 5-year carryback period under clause (i)(I) with respect to any net operating loss of a taxpayer includes 1 or more taxable years in which an amount is includible in gross income by reason of section 965(a), the taxpayer may, in lieu of the election otherwise available under paragraph (3), elect under such paragraph to exclude all such taxable years from such carryback period.
+
+      * #### (II) Time of elections
+        * An election under paragraph (3) (including an election described in subclause (I)) with respect to a net operating loss arising in a taxable year beginning in 2018 or 2019 shall be made by the due date (including extensions of time) for filing the taxpayer's return for the first taxable year ending after the date of the enactment of this subparagraph.
+
 * #### (2) Amount of carrybacks and carryovers
   * The entire amount of the net operating loss for any taxable year (hereinafter in this section referred to as the "loss year") shall be carried to the earliest of the taxable years to which (by reason of paragraph (1)) such loss may be carried. The portion of such loss which shall be carried to each of the other taxable years shall be the excess, if any, of the amount of such loss over the sum of the taxable income for each of the prior taxable years to which such loss may be carried. For purposes of the preceding sentence, the taxable income for any such prior taxable year shall—
 
@@ -4522,7 +4606,7 @@
 
     * (B) not be considered to be less than zero, and
 
-    * (C) not exceed the amount determined under subsection (a)(2) for such prior taxable year.
+    * (C) for taxable years beginning after December 31, 2020, be reduced by 20 percent of the excess (if any) described in subsection (a)(2)(B)(ii) for such taxable year.
 
 * #### (3) Election to waive carryback
   * Any taxpayer entitled to a carryback period under paragraph (1) may elect to relinquish the entire carryback period with respect to a net operating loss for any taxable year. Such election shall be made in such manner as may be prescribed by the Secretary, and shall be made by the due date (including extensions of time) for filing the taxpayer's return for the taxable year of the net operating loss for which the election is to be in effect. Such election, once made for any taxable year, shall be irrevocable for such taxable year.
@@ -4574,7 +4658,7 @@
 
     * (B) where such taxable year is a "prior taxable year" referred to in paragraph (2) of subsection (b), the term "taxable income" in such paragraph shall mean "real estate investment trust taxable income" (as defined in section 857(b)(2)); and
 
-    * (C) subsection (a)(2) shall be applied by substituting "real estate investment trust taxable income (as defined in section 857(b)(2) but without regard to the deduction for dividends paid (as defined in section 561))" for "taxable income".
+    * (C) subsection (a)(2)(B)(ii)(I) shall be applied by substituting "real estate investment trust taxable income (as defined in section 857(b)(2) but without regard to the deduction for dividends paid (as defined in section 561))" for "taxable income".
 
 * #### [(7) Repealed. Pub. L. 115–97, title I, §13305(b)(3), Dec. 22, 2017, 131 Stat. 2126]
 * #### (8) Qualified business income deduction
@@ -5024,7 +5108,7 @@
 
       * (i) located in the United States, and
 
-      * (ii) within the scope of Standard 90.1–2007,
+      * (ii) within the scope of Reference Standard 90.1,
 
 
     * (C) which is installed as part of—
@@ -5036,10 +5120,10 @@
       * (iii) the building envelope, and
 
 
-    * (D) which is certified in accordance with subsection (d)(6) as being installed as part of a plan designed to reduce the total annual energy and power costs with respect to the interior lighting systems, heating, cooling, ventilation, and hot water systems of the building by 50 percent or more in comparison to a reference building which meets the minimum requirements of Standard 90.1–2007 using methods of calculation under subsection (d)(2).
+    * (D) which is certified in accordance with subsection (d)(6) as being installed as part of a plan designed to reduce the total annual energy and power costs with respect to the interior lighting systems, heating, cooling, ventilation, and hot water systems of the building by 50 percent or more in comparison to a reference building which meets the minimum requirements of Reference Standard 90.1 using methods of calculation under subsection (d)(2).
 
-* #### (2) Standard 90.1–2007
-  * The term "Standard 90.1–2007" means Standard 90.1–2007 of the American Society of Heating, Refrigerating, and Air Conditioning Engineers and the Illuminating Engineering Society of North America (as in effect on the day before the date of the adoption of Standard 90.1–2010 of such Societies).
+* #### (2) Reference Standard 90.1
+  * The term "Reference Standard 90.1" means, with respect to any property, the most recent Standard 90.1 published by the American Society of Heating, Refrigerating, and Air Conditioning Engineers and the Illuminating Engineering Society of North America which has been affirmed by the Secretary, after consultation with the Secretary of Energy, for purposes of this section not later than the date that is 2 years before the date that construction of such property begins.
 
 #### (d) Special rules
 * #### (1) Partial allowance
@@ -5057,7 +5141,7 @@
     * The Secretary, after consultation with the Secretary of Energy, shall establish a target for each system described in subsection (c)(1)(C) such that, if such targets were met for all such systems, the building would meet the requirements of subsection (c)(1)(D).
 
 * #### (2) Methods of calculation
-  * The Secretary, after consultation with the Secretary of Energy, shall promulgate regulations which describe in detail methods for calculating and verifying energy and power consumption and cost, based on the provisions of the 2005 California Nonresidential Alternative Calculation Method Approval Manual.
+  * The Secretary, after consultation with the Secretary of Energy, shall promulgate regulations which describe in detail methods for calculating and verifying energy and power consumption and cost with respect to any property, based on the provisions of the most recent California Nonresidential Alternative Calculation Method Approval Manual which has been affirmed by the Secretary, after consultation with the Secretary of Energy, for purposes of this section not later than the date that is 2 years before the date that construction of such property begins.
 
 * #### (3) Computer software
   * #### (A) In general
@@ -5115,15 +5199,21 @@
 
       * (ii) which does not meet the minimum requirements for calculated lighting levels as set forth in the Illuminating Engineering Society of North America Lighting Handbook, Performance and Application, Ninth Edition, 2000.
 
-#### (g) Regulations
+#### (g) Inflation adjustment
+* In the case of a taxable year beginning after 2020, each dollar amount in subsection (b) or subsection (d)(1)(A) shall be increased by an amount equal to—
+
+  * (1) such dollar amount, multiplied by
+
+  * (2) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting "calendar year 2019" for "calendar year 2016" in subparagraph (A)(ii) thereof.
+
+* Any increase determined under the preceding sentence which is not a multiple of 1 cent shall be rounded to the nearest cent.
+
+#### (h) Regulations
 * The Secretary shall promulgate such regulations as necessary—
 
   * (1) to take into account new technologies regarding energy efficiency and renewable energy for purposes of determining energy efficiency and savings under this section, and
 
   * (2) to provide for a recapture of the deduction allowed under this section if the plan described in subsection (c)(1)(D) or (d)(1)(A) is not fully implemented.
-
-#### (h) Termination
-* This section shall not apply with respect to property placed in service after December 31, 2020.
 
 ### §179E. Election to expense advanced mine safety equipment
 #### (a) Treatment as expenses
@@ -5278,7 +5368,7 @@
 * For purposes of this section, rules similar to the rules of subsections (b)(2) and (c)(4) of section 194 shall apply.
 
 #### (g) Termination
-* This section shall not apply to qualified film and television productions or qualified live theatrical productions commencing after December 31, 2020.
+* This section shall not apply to qualified film and television productions or qualified live theatrical productions commencing after December 31, 2025.
 
 ### §183. Activities not engaged in for profit
 #### (a) General rule

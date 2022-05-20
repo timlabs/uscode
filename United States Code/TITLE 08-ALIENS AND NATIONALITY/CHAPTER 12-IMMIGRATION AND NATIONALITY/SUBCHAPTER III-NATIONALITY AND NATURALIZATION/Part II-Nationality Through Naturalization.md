@@ -189,7 +189,7 @@
 
 * (2) Notwithstanding any other provision of law, a spouse described in paragraph (1) shall be eligible for naturalization proceedings overseas pursuant to section 1443a of this title.
 
-### §1431. Children born outside the United States and residing permanently in the United States; conditions under which citizenship automatically acquired; determinations of name and birth date
+### §1431. Children born outside the United States and lawfully admitted for permanent residence; conditions under which citizenship automatically acquired
 #### (a) In general
 * A child born outside of the United States automatically becomes a citizen of the United States when all of the following conditions have been fulfilled:
 
@@ -202,7 +202,28 @@
 #### (b) Adoption
 * Subsection (a) shall apply to a child adopted by a United States citizen parent if the child satisfies the requirements applicable to adopted children under section 1101(b)(1) of this title.
 
-#### (c) Name and birth date
+#### (c) Children of military and Federal Government personnel residing abroad
+* Subsection (a)(3) is deemed satisfied in the case of a child who is lawfully admitted for permanent residence in the United States if—
+
+  * (1) the child is residing in the legal and physical custody of a citizen parent who is—
+
+    * (A) stationed and residing abroad as an employee of the Government of the United States; or
+
+    * (B) residing abroad in marital union with an employee of the Government of the United States who is stationed abroad; or
+
+
+  * (2) the child is—
+
+    * (A) residing in the legal and physical custody of a citizen parent who is—
+
+      * (i) stationed and residing abroad as a member of the Armed Forces of the United States; or
+
+      * (ii) authorized to accompany and reside abroad with a member of the Armed Forces of the United States pursuant to the member's official orders, and is so accompanying and residing abroad with the member in marital union; and
+
+
+    * (B) authorized to accompany such member and reside abroad with the member pursuant to the member's official orders, and is so accompanying and residing with the member.
+
+#### (d) Name and birth date
 * A Certificate of Citizenship or other Federal document issued or requested to be amended under this section shall reflect the child's name and date of birth as indicated on a State court order, birth certificate, certificate of foreign birth, certificate of birth abroad, or similar State vital records document issued by the child's State of residence in the United States after the child has been adopted or readopted in that State.
 
 ### §1433. Children born and residing outside the United States; conditions for acquiring certificate of citizenship
